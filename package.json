@@ -1,0 +1,39 @@
+{
+  "name": "ggscholar-gpt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "import-link": "babel-watch src/import-link.js",
+    "import-pdf": "babel-watch src/import-pdf.js",
+    "ask-gpt": "babel-watch src/ask-gpt.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "bluebird": "^3.7.2",
+    "cheerio": "^1.0.0-rc.12",
+    "chromadb": "^1.4.1",
+    "csvtojson": "^2.0.10",
+    "dotenv": "^16.0.3",
+    "langchain": "^0.0.70",
+    "lodash": "^4.17.21",
+    "openai": "^3.2.1",
+    "pdf-parse": "^1.1.1",
+    "puppeteer": "^19.11.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.21.5",
+    "@babel/core": "^7.21.8",
+    "@babel/node": "^7.20.7",
+    "@babel/plugin-transform-runtime": "^7.21.4",
+    "@babel/preset-env": "^7.21.5",
+    "babel-watch": "^7.7.2",
+    "eslint": "^8.40.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.8"
+  }
+}
