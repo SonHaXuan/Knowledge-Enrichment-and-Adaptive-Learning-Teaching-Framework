@@ -1,0 +1,870 @@
+DIGITAL FINANCIAL ASSETS
+
+
+ORIGINAL PAPER
+                                                                                                ©     CC   BY 4.0
+
+DOI: 10.26794/2587-5671-2022-26-4-80-94
+UDC 33.336.025(045)
+JEL E40, E50, F01, F30, G00
+
+
+Trends in the Evolution of the Digital Financial Assets
+Market in the Context of the Digital Transformation
+of the Global Economy
+                                                                                                        K.A. Koshelev
+                                                            Plekhanov Russian University of Economics, Moscow, Russia
+
+                                                        ABSTRACT
+The study focuses on identifying the driving forces behind the digital transformation of the economy in the financial
+sector and the development of the digital financial assets (DFA) market. The subject of the research is the factors
+of digital transformation and the DFA market. The relevance is due to the transformation of the world economy,
+associated, among other things, with the active development of the DFA market, the expansion of the possibilities
+of using distributed ledger technologies (DLT) and blockchain against the background of high growth rates of the
+cryptoasset market. The aim of the paper is to summarize the main trends in the development of the global cryptoasset
+market, determine the main factors of investment attractiveness of cryptocurrencies and explore the conditions for the
+successful implementation of various models of digital currencies of central banks (CBDC). In the course of the work, the
+methods of systematization and classification of information, multivariate statistical analysis were used. As a result of
+the study, 5 clusters of cryptocurrencies were identified, depending on the dominance in the market and the dynamics
+of price changes. The resulting functions can be used to predict the attribution of cryptocurrencies to the corresponding
+clusters. Among the factors that have a significant impact on the development of CBDC projects in general and with
+the wholesale model in particular, one can single out “capital”. At the same time, CBDC projects with a retail model
+are actively and successfully implemented in countries with a high level of technical knowledge and entrepreneurial
+talent, ahead of the capital factor in their importance. Taking into account the review of global trends, the development
+of fintech technologies, it was concluded that the processes of digitalization of financial assets are inevitable, the
+emergence of new forms of digital assets that dictate the need for the advanced development of their legal regulation.
+Keywords: digital financial assets; cryptocurrency; digital currency; digitalization; fintech
+
+For citation: Koshelev K. A. Trends in the evolution of the digital financial assets market in the context of the digital
+transformation of the global economy. Finance: Theory and Practice. 2022;26(4):80-94. DOI: 10.26794/2587-5671-2022-
+26-4-80-94
+
+
+
+
+© Koshelev K.А., 2022
+
+
+80                                               FINANCE: THEORY AND PRACTICE  Vol. 26, No. 4’2022  financetp.fa.ru
+                                                                                                                      K.A. Koshelev
+
+
+
+                     INTRODUCTION                                   index (TII) and human capital index (HCI).1
+H u g e i n t e r e s t i n t h e d eve l o p m e n t o f           Russia ranked 36th on this indicator in 2020.
+ blockchain technologies in the financial                             Thus, the digitalization of all fields of
+ sphere and the emergence of digital financial                      activity has become central to the global
+ assets (DFA) is connected with the active                          competitiveness of national economies.
+ phase of the V technological order based on
+ digital technologies. The pandemic has also                                   DIGITAL FINANCIAL ASSET
+ accelerated the digitalization of both the                                           DEVELOPMENT
+ global and Russian economies.                                      The financial sector responded to this process
+     In order to monitor processes and assess                       with the emergence of digital financial assets
+ the effectiveness of digital transformation,                        [2] and fintech, including technology–based
+various global institutions are monitoring                           distributed registries and blockchains [3].
+ them, resulting in a large number of different                     While there are “Blockchain 1.0” — o  ​ perations
+ indices and ratings.                                               with cryptocurrency; “Blockchain 2.0” —​
+     For example, according to the Maturity                          transactions outside of cryptocurrencies;
+Index GovTech 2020 of World Bank’s, Russia                          “Blockchain 3.0” — ​operations in the spheres
+ is not among the group of leading countries                         of state and municipal administration, health
+ i n t h e f i e l d o f d i g i t a l t r a n s fo r m a t i o n    care, education, Internet of things [4].
+ of the public sector, but the process is                               However, the emergence of a new type
+ h i g h l y v a l u e d a s fo c u s e d o n G ov Te c h            of financial asset — ​d igital — ​a nd the new
+ [1]. The methodology for calculating the                            technological base have created some
+ index involves the following stages in the                          difficulties in its regulation and application.
+ evolution of the public sector, depending                              Can be identified the following main
+ on the state of the technological base                              problems that constrain the development of
+ and the organization of processes: analog                           the DFA market in Russia at present:
+ government, e-government, digital                                      • insufficient legal framework for the
+ government, GovTech government. The                                 regulation of certain types of DFA [2, 5];
+ last stage is characterized by a system-                               • initial stage of development of the DFA
+wide public approach to the introduction                             turnover infrastructure; 2
+ of digital technologies, capable of ensuring                           • cautious attitude financial regulator to
+ universal access to services for citizens, a                        blockchain platforms, prohibition on the use as
+ simple, efficient and transparent system of                         a means of payment and exchange of the most
+ government.                                                         important type of DFA — ​cryptocurrency [2];
+     Another indicator that measures the scale                          • initial state of standards and infrastruc-
+ of the digital transformation of the economy                        ture for interoperability of blockchain plat-
+ is the Digital Competitiveness Index IMD. By                        forms; 3
+ this indicator, Russia moved from 38th to 43rd
+ place in 2020, improving position in 2021 to                       1
+                                                                      UN research: e-government 2020. URL: https://
+                                                                    publicadministration.un.org/egovkb/Portals/egovkb/
+42nd place (Fig. 1).                                                Documents/un/2020-Survey/2020%20UN%20E-
+     According to the given rating in Russia                        Government%20Survey%20-%20Russian.pdf (accessed on
+ the situation has improved on the factor of                        19.10.2021).
+                                                                    2
+                                                                      Currently there are no certified DFA market operators.
+“knowledge” and “readiness for the future”,                         Masterchain “Fintech” Association’s blockchain platform
+ and worsened — b       ​ y factor “technology” due to              is certified by the Federal Security Service of the Russian
+ deterioration of rating by sub–factor “capital”                    Federation and in the future may become the first information
+                                                                    system — c​ ertified operator of the Russian DFA market.
+ and “technological structure”.                                     3
+                                                                      At the same time, the Visa payment system made the first
+     Similar to the previous UN rankings, the                       transfers with cryptocurrencies and launched in a test mode
+ rating of e–government development is EGDI,                        on the basis of the Ethereum Ropsten network a prototype of
+                                                                    the universal payment channel (UPC), in the future allowing
+which is represented by three factors: online                       for the conversion of various digital assets (tokens, stablecoins,
+ services index (OSI), telecom infrastructure                       CBDC).
+
+
+
+FINANCE: THEORY AND PRACTICE  Vol. 26, No. 4’2022  financetp.fa.ru                                                              81
+DIGITAL FINANCIAL ASSETS
+
+
+
+
+Fig. Profile of Russia by IMD Global Digital Competitiveness Ranking 2021
+Source: Institute for Management Development (IMD). World digital competitiveness ranking 2021. URL: https://www.imd.org/centers/
+world-competitiveness-center/rankings/world-digital-competitiveness/ (accessed on 19.10.2021).
+
+
+   • high risks associated with non-                              amounted to 308%, and the capitalization
+compliance with international standards                           growth of the top‑5 stablecoins‑439%.5
+o n co m b a t i n g m o n ey l a u n d e r i n g a n d              Tether remained the dominant stablecoins
+the financing of terrorism (CML/FT) and                           with market share over 76%. Stablecoins
+enforcement capacity [6];                                         growth in 2020 exceeded the previous year’s
+   • risks to the stability of the financial sys-                 growth (107%) due to strong demand from
+tem and the provision of information security                     traders using stablecoins for trade and cross-
+measures at the introduction of the national                      border settlements. Bitcoin (BTC) in 2020
+digital currency [7];                                             showed a return of 303% and significantly
+   • high volatility and speculation of the                       outperformed all major classes of financial
+cryptocurrency market [8];                                        assets.6
+   • relatively few Russian startups in the                          In 2020, there was also a boom in financial
+field of application and distribution of DLT                      innovation related to decentralized finance —​
+technology.4                                                      DeFi (flash credits, automated market makers,
+   At the same time, the global market of                         pharming income, algorithmic stablecoins).
+DFA is actively developing — ​there is a high                     Capitalization of DeFi market at the end of
+rate of growth of the market of crypto assets                     the year amounted to 20.4 bln USD, average
+and investment in research to expand the                          price increase DeFi-tokens — ​7 18%. The
+opportunities for practical application of DLT-                   2021 year was marked by explosive growth of
+technologies.                                                     memcoins.6
+   According to CoinGecko, the market capi-                          As a result of the rapid development of the
+talization of the crypto market in 2020 dem-                      crypto market, the total number of crypto-
+onstrated a historic maximum of 732 bln USD:
+capitalization growth of the top — ​30 coins                      5
+                                                                   Data from CoinGecko. 2020 Yearly Cryptocurrency Report.
+                                                                  2021.    URL:    https://assets.coingecko.com/reports/2020-
+                                                                  Year-End-Report/CoinGecko‑2020-Report.pdf, (accessed on
+4
+    Based on the Skolkovo projects.                               19.10.2021).
+
+
+
+82                                                  FINANCE: THEORY AND PRACTICE  Vol. 26, No. 4’2022  financetp.fa.ru
+                                                                                                               K.A. Koshelev
+
+
+
+asset accounts for service providers for the                   entrepreneurship plays an important role. In
+period 2016–2020 increased by 4 times, to 191                  financing preference should be given to token,
+million new accounts [9].                                      rather than equity in case of low volatility [16];
+   Based on the results of the review of the                      • ICO is expected to be more distributed for
+literature, the following trends characteristic                businesses:
+of the development of the world crypto market                     – developing information and products
+were identified:                                               with low marginal production costs;
+   • cryptocurrency market is characterized                       – demanding entrepreneurial efforts;
+by the transition from monopolized to                             – developing products with relatively low
+competitive [10];                                              demand volatility;
+   • predictability of cryptocurrencies returns                   – working in industries with moderate
+decreases with their market liquidity [11];                    information asymmetry between
+   • cryptocurrency price dynamics depend on                   entrepreneurs and external investors [16];
+bitcoin price dynamics. And bitcoin is the saf-                   • monopoly on the mining market: mining
+est asset in the cryptocurrency ecosystem [10];                pools (10% of all miners) control 80% of
+   • disproved the hypothesis that cryptocur-                  cryptocurrency production. 30% of miners
+rencies are considered an alternative to fiat                  considered that the leadership of the pools
+currencies or regulated finance [12];                          determines the decision [9];
+   • due to the high volatility of cryptocurren-                  • 51% attack threat for blockchain projects
+cies are seen more as investment speculative                   based on Proof-of-Work (PoW) consensus al-
+instrument than as monetary units [13, 14];                    gorithm. Development of projects on the Proof
+   • active development of blockchain plat-                    of Stake (PoS) protocol will mitigate these
+forms that extend the scope of DLT technol-                    risks and increase transaction security; 8
+ogy: 19 of the top 20 tokens are built on Ethe-                   • cryptocurrency exchanges are mainly
+reum;                                                          used for fiat transfers (conversion of fiat
+   • Ripple was able to attract more than 100                  currencies into cryptoassets and back);
+banks to its platform, Western Union [10] and                     • retail customers of crypto exchanges
+Visa, invested 250 mln USD in support of Non-                  constitute the vast majority (from 63 to 75%
+Fungible Tokens (NFT); 6                                       depending on the region), the share of busi-
+   • rapid development of decentralized fi-                    ness and institutional customers ranges from
+nance services (DeFi), decentralized applica-                  10 to 30%. Crypto–hedge–funds account for
+tions (DApps), NFT [15];                                       the largest share of institutional and business
+   • use of DLT by regulators in SupTech and                   clients,9 miners and online–shop [9];
+RegTech (47% — ​share of the technology) 7;                       • the overwhelming share of service pro-
+   • the possibility for investors to use bitcoin              viders in the cryptomarket of the Asia-Pacific
+to diversify their investment portfolio during                 and North American regions has reserves of
+economic and political crises, in case of                      cryptoassets, which increases customer confi-
+significant oil price fluctuations [11];                       dence in them;
+   • most ICOs are in information goods in-                       • the largest share of licenses of legal enti-
+dustries with marginal production costs near                   ties operating in the cryptomarket were issued
+to zero, and in innovative industries where                    by regulatory authorities of the UK and the US
+                                                               (23%). 72% of licensees or applicants have re-
+6
+  RRC article. Ripple has launched a $ 250 million fund to     ceived or applied for a license/registration in
+support the NFT industry. 2021. URL: https://www.rbc.          their country. Among the types of licenses ob-
+ru/crypto/news/61548d199a79472745fb1bac (accessed on
+19.10.2021).
+7
+  Data of the Bank of Russia. Main directions of development   8
+                                                                 Despite the fact that BTC is based on the protocol Proof-of-
+of technologies SupTech and RegTech for the period 2021–       Work, to carry out the attack 51%, experts estimate that miners
+2023. 2021. URL: http://www.cbr.ru/Content/Document/           will need about 1 billion USD, which makes this event unlikely
+File/120709/SupTech_RegTech_2021–2023.pdf, (accessed on        and indicates the BTC’s stability to this threat.
+19.10.2021).                                                   9
+                                                                 Excluding Middle East and Africa.
+
+
+
+FINANCE: THEORY AND PRACTICE  Vol. 26, No. 4’2022  financetp.fa.ru                                                      83
+DIGITAL FINANCIAL ASSETS
+
+
+
+tained, the largest share are licenses for cryp-               significantly higher among high-income
+tocurrency operations (42%), payments and                      countries — 1   ​ 6%;11
+e–money (29%) [9];                                                • among the countries that have estab-
+    • before the introduction of restrictive                   lished regulatory “sandboxes”, 66% of these
+measures for cryptocurrency mining, China                      are owned by central banks or other regulatory
+ranked first with a share of 52%, the share of                 authorities. In most countries (67%) “norma-
+the US and Canada was 12 and 9%, the share of                  tive sandboxes” are separated from payment
+Russia and Kazakhstan — ​4% each [9];                          systems. Testing in “sandbox”, as a rule, lasts
+    • the overwhelming number of cryptomar-                    from 6 months to a year;11
+ket service providers supports BTC (90%), the                     • 54% of countries study the pros and cons
+share of support providers of the most popular                 of Central Bank Digital Currency (CBDC), but
+types of cryptocurrency (ETH, LTC, BCH, XRP)                   have not yet made a decision, and 15% have
+ranges from 74 to 47% [9];                                     already decided not to issue CBDC after study-
+    • among the most significant risks to                      ing the technological, monetary and financial
+miners in Europe and North America are the                     aspects of stability.11 High-income and lower
+risk of centralized capacity in the hands of                   middle-income countries are more active in
+criminals, the concentration of equipment and                  CBDC [17];
+miners in a certain geographical area;                            • Among the instruments of fintech regula-
+    • among the most significant risks for                     tory are the most popular: issuance of recom-
+service providers in the cryptomarket are                      mendations and standards on individual risks
+identified risks in the field of IT-security and               related to fintech-services (54%), and moni-
+increasing the burden normative regulation of                  toring of providers according to requirements
+the market [9];                                                CML/FT (51%), formation of requirements to
+    • the most attention of regulators are: con-               operational unprofitability and information
+sumer protection, the KYC process (know your                   security (49%);11
+customer) for remote identity, lack of under-                      • “fintech” is considered by most low–in-
+standing and awareness of risks, cyberstability                come countries as a means of financial inte-
+and reliability of technological platforms; 10                 gration into the global economy [18];
+    • 43% of countries identify fintech as a fi-                  • those who will cryptocurrency transac-
+nancial stability risk. In low–income countries,               tions, inherent in the following motivation
+this figure is 57%;11                                          [19] 11: participate in gambling — ​47%, invest-
+    • there is no ban on crowdfunding in                       ment portfolio expansion — ​2 5%; desire to
+77% of jurisdictions, primary coins and                        acquire a new type of financial asset — ​22%;
+cryptocurrency issuance (mining) is allowed                    long-term savings — ​1 7%, ideological rea-
+in 67% of, crypto exchanges — ​i n 61% of                      son 12 — 1​ 7%;
+countries;11                                                      • 31% of consumers who own but are not
+    • anonymous participation in                               currently going to buy more cryptocurrencies
+c r ow d f u n d i n g i s p r o h i b i t e d i n 1 3 % o f   report that this is due to the fact that they
+countries, the initial release of coins and                    consider the purchase too risky;
+the issuance of cryptocurrencies (mining) —​                      • 73% of consumers who do not currently
+in 3 and 2% of countries respectively. At                      own cryptocurrencies, but plan to buy it in the
+the same time, the proportion of countries                     future, said that the lack of regulatory protec-
+banning anonymous participation in                             tion affected their decision not to buy crypto-
+crowdfunding and cr ypto exchanges is                          currencies today;
+                                                                  • 29% of consumers who do not currently
+10
+  International Bank for Reconstruction and Development /      own and do not plan to buy cryptocurrencies,
+The World Bank. Summary outcomes of the fifth Global
+payment systems survey. 2020. URL: https://www.worldbank.
+org/curated/en/115211594375402373/pdf/A-Snapshot.pdf,          11
+                                                                    Based on a survey of cryptocurrency consumers in the UK.
+(accessed on 20.10.2021).                                      12
+                                                                    For example, distrust of the ideological system.
+
+
+
+84                                               FINANCE: THEORY AND PRACTICE  Vol. 26, No. 4’2022  financetp.fa.ru
+                                                                                                                 K.A. Koshelev
+
+
+
+                                                                                                                      Table 1
+                                           Rating by categories of cryptocurrencies
+
+
+          Rating by rate of the average weighted price                         Rating by market capitalization
+
+
+           1       Real estate                               1   Smart-contracts
+
+           2       Doggone Doggerel                          2   Stablecoins
+
+           3       File sharing                              3   Decentralized finance (DeFi)
+
+           4       Distributed computing                     4   Exchange tokens
+
+           5       Memes                                     5   Binance Smart Chain ecosystem
+
+           6       Media                                     6   Centralized exchange token (CEX)
+
+           7       VR/AR                                     7   Solana ecosystem
+
+     8             Retail                                8       Polkadot ecosystem
+
+     9             Earning game                          9       Polygon ecosystem
+
+     10            Solana ecosystem                      10      Cosmos ecosystem
+
+     11            Smart-contracts                       11      Management
+
+     12            Сollaborative economy                 12      Decentralized exchange token (DEX)
+
+     13            Haсken Foundation                     13      Farming
+
+     14            Identity                              14      Memes
+
+     15            Pantera Capital’s Portfolio           15      Non-fungible tokens (NFT)
+
+Source: data from Coinmarketcap and Coingecko on 03.10.2021. URL: https://coinmarketcap.com/cryptocurrency-category/;
+https://www.coingecko.com/en/categories# (accessed on 03.10.2021).
+
+
+agreed with the statement that they will con-                         • 85% of all current owners of
+sider buying cryptocurrencies in the future, if                   cryptocurrencies did not regret their purchase,
+this is regulated [19]; 13                                        17% of cryptocurrency owners reported
+   • among the information sources from                           negative experience of ownership/purchase of
+which consumers learned about cryptocur-                          cryptocurrencies (exchange fees, transaction
+rencies, the most popular are: traditional                        time, stolen cryptocurrencies and volatility of
+media (27%); news and blogs on the Internet                       cryptocurrencies) [19];
+(27%); social media (15%). In 45% of cases,                           • 77% of respondents bought cryptocur-
+advertisement affected the acquisition of                         rency through online-exchanges [19];
+cryptocurrency. Those affected by the adver-                          • among cryptocurrency options: 47%
+tisement are more likely to later regret the                      never used cryptocurrency, 27% used it to
+purchase;                                                         purchase goods and services, 25% used
+                                                                  c r y pt o c u r r e n c y t o exc h a n g e fo r ot h e r
+13
+     Based on a survey of cryptocurrency consumers in the UK.     cryptocurrencies [19];
+
+
+FINANCE: THEORY AND PRACTICE  Vol. 26, No. 4’2022  financetp.fa.ru                                                      85
+DIGITAL FINANCIAL ASSETS
+
+
+                                                                                                                         Table 2
+                                          Component scoring coefficient matrix
+
+                                         Indicators                                                      Components
+
+                                                                                                     1                  2
+
+ Market capitalization, mln USD                                                                    0.558              0.000
+
+ Trading volume (24 ч), mln USD                                                                    0.558              –0.001
+
+ Price changes (24 hours), %                                                                       –0.001             0.639
+
+ Price changes (7 day), %                                                                          0.000              0.639
+
+Source: compiled by the author with SPSS statistical package.
+
+                                                                                                                         Table 3
+                                                  Final centers of clusters
+
+                                                                                  Cluster number
+
+                                                          1               2            3                 4              5
+
+ Market dominance                                     59.14327         –0.02775     34.71369        –0.02102      –0.01739
+
+ Dynamics of price changes                             0.03651         2.10307      –0.07868        –0.15378      10.18622
+
+Source: compiled by the author with SPSS statistical package.
+
+
+   • cryptocurrency consumer portrait is as                       neutral regulation to this class of assets,
+follows: their owners are more educated;                          applying “built-in supervision” and using
+men tend to invest more in cryptocurren-                          the potential of the technology itself in the
+cies than women; among the various cryp-                          oversight process [12].
+tocurrencies, owners of XRP and Ether are                             Despite a large number of recent research
+the most educated, and owners of Litecoin —​                      on blockchain and crypto assets to ensure
+the least educated, owners of cryptocur-                          t h e d eve l o p m e n t o f D LT a p p l i c a t i o n s ,
+rency have a level of family income above                         opportunities, boundaries and risks, related to
+the average, and owners of XRP, Ether and                         the spread of private and the issue of national
+Stellar are the richest [12]; higher income,                      cryptocurrencies, forecasting the state of the
+higher education and digital financial ex-                        crypto market, the economy of the blockchain,
+perience increase of acquiring at least one                       systematic research on digital financial assets
+cryptocurrency [12];                                              is still insufficient.
+   • in the market capitalization rating by                           The author’s own study on the cryptocur-
+categories of cryptocurrencies, the leading                       rency market focused on the investment at-
+platforms are smart contracts, stablecoins and                    tractiveness of cryptocurrencies based on a
+DeFi, while in the rating on the price increase                   classification of 6 056 cryptocurrencies by cap-
+criterion — ​cryptocurrency by categories of                      italization criteria, trading volume and price
+real estate, Doggone Doggerel, file sharing                       dynamics.14 For this purpose the methods of
+(Table 1);                                                        factor, cluster and discriminant analysis were
+   • intensifying regulatory requirements                         used.
+has had a strong impact on cryptocurrency
+prices and transaction volumes, resulting in                      14
+                                                                    Data from Internet sources as at 06.08.2021. URL: https://
+the recommendation to apply technologically                       ru.investing.com/ (accessed on 06.08.2021).
+
+
+
+86                                                    FINANCE: THEORY AND PRACTICE  Vol. 26, No. 4’2022  financetp.fa.ru
+                                                                                                                          K.A. Koshelev
+
+
+
+                                                                                                                                   Table 4
+                              Coefficients of the Fisher classification discriminant function
+
+                                                                                   Cluster number
+
+                                                    1                   2                 3                 4                  5
+
+     Market dominance                          3145.760            –1.943             1846.398           –1.092             –2.703
+
+     Dynamics of price changes                  –10.302                6.401           –6.326            –0.399             28.558
+
+     Constant                                 –93 049.866          –8.958           –32 057.475          –1.650           –147.442
+
+Source: compiled by the author with SPSS statistical package.
+
+
+   Based on the application of factor                                    the fourth — ​5743 currencies, to the fifth — ​23
+analysis of the main component using                                     cryptocurrencies (FIS, YFIII, DBIX, ETGP, ZUM,
+varimax rotation, were identified 2 factors,                             WTN, ZET, IRA, AAA, GR, AVC, TCFX, SVN,
+which, taking into account the values of the                             LMCH, KIWI, TAVITT, TRONX, DGMT, HP,
+estimates of the coefficients of components,                             KTN, ETHV, KMW, YFIKING).
+can be characterized as domination of the                                   Thus, it can be noted that cryptocurrencies
+cryptocurrency market (1 component) and                                  of the first, third and especially fifth classes
+dynamics of price change (2 components)                                  were of significant investment interest to con-
+(Table 2).                                                               sumers in the period under review.
+   By hierarchical cluster analysis the                                     Discriminant analysis was used to determine
+structure of data on cryptocurrencies in                                 the rules for classifying cryptocurrencies to the
+the section of the selected components                                   selected groups (Table 4). However, 99.4% of the
+was studied and it was found that the                                    observations were correctly classified.
+most acceptable is the allocation of five                                   Wilks’ lambda test with significance
+clusters. Next k–average sampling method                                 p ≤ 0.001 indicates a difference in the average
+was divided into five clusters, their centers                            values of the discriminant functions received.
+(Table 3) and belonging to clusters of each                              Calculation of canonical correlation (0.991)
+cryptocurrency.                                                          and (0.802) also showed a strong correlation
+   The first and third clusters are cryptocur-                           between factors and indicators of cluster
+rencies with absolute market dominance and                               membership.
+moderate price dynamics. Cryptocurrencies                                   These functions can be used to predict
+belong to the second cluster are character-                              the assignment of cryptocurrencies to the
+ized by positive moderate price dynamics with                            appropriate classes — ​o bservation (crypto-
+little market dominance. The fourth clus-                                currency) belongs to the group that corre-
+ter is represented by cryptocurrencies with                              sponds to the highest value of the discrimi-
+little dominance and negative price dynam-                               nant function.
+ics. Cryptocurrencies are included in the fifth                             The next question the study examined was
+cluster with significant price increases and                             the conditions under which countries are suc-
+also slight market dominance.                                            cessful in releasing CBDC. Then, authors were
+   In this case, the first cluster represents Bit-                       applied methods of correlation and discrimi-
+coin (BTC), the second cluster includes 259                              nant analysis.16
+cryptocurrencies, the third cluster — ​E the-
+reum (ETH), stablecoin Tether (USDT),15 to
+                                                                         released on the Ethereum blockchain, is linked to the US dollar.
+                                                                         16
+                                                                            The application of factor analysis to reduce the sample size
+15
+     Originally released on the Bitcoin blockchain, since 2017 it is     of indicators was not satisfactory.
+
+
+
+FINANCE: THEORY AND PRACTICE  Vol. 26, No. 4’2022  financetp.fa.ru                                                                   87
+DIGITAL FINANCIAL ASSETS
+
+
+
+    In the research used a set of 74 indicators                     ceptance of state payments, ATMs) — ​positive
+for 167 countries from the following data sets:                     below-average correlation; 22
+   • information base for the research of                              • Payments and obligations for Govern-
+national digital currencies — ​Auer R., Cornelli                    ment digitalization projects, including infor-
+G., Frost J. (2020) [20];                                           mation and communication technology proj-
+   • World Bank data on digital–projects of                         ects (ICT) and e-government — ​weak positive
+National Governments; 17                                            correlation; 23
+   • UN research on e-government in 2020; 18                           • Ratio of bank overhead costs to total
+   • World Bank research on global financial                        assets; inflow of money transfer to GDP;
+development in 2020; 19                                             Countries ranked on the World Digital Com-
+   • data for the World Bank research on glob-                      petitiveness Index (IMD, 2020) and its sub–
+al digital competitiveness in 2020.20                               factors in 2020 — n ​ egative correlation below
+    Assessment of the relationship between                          average;  24
+
+t h e l e v e l o f d e v e l o p m e n t o f C B D C 21               • Bank’s net interest margin — ​weak posi-
+projects and the selected variables was                             tive correlation.25
+assessed using the Spearman’s correlation                              • The same factors are also related to the
+coefficient, because some of the variables                          level of development of the CBDC retail model.
+involved in the analysis were sequential and                        However, the correlations for this model are
+not properly distributed.                                           weaker than in the overall assessment of
+    Correlation analysis (Table 5) found that                       CBDC’s level of development. Even weaker
+the level of development of national CBDC                           correlation with CBDC wholesale project
+projects is statistically significant correlated                    status assessment.
+with the factors that characterize:                                    • By a step-by-step discriminant
+   • Indices of development of online public                        analysis, an attempt was made to construct
+sector services, e–participation, open and e–                       classification functions for predicting the
+government; human capital development in-                           state of various CBDC models. Thus, the
+dex and years of learning; telecommunication                        following functions have been given the best
+infrastructure development index, including                         result in terms of correctly classified values:
+active population using the Internet, mobile                           • for an overall assessment of the CBDC
+and fixed broadband, mobile phones for pay-                         project status, coefficients of the Fisher
+ments; level of availability of financial ser-                      classification discriminant function are
+vices (availability of the population with debit                    presented in Table 6.
+and credit cards, salary cards, accounts in a                          However, the share of correctly classified
+financial institution, accounts used for the ac-                    observations in the use of these rules was
+                                                                    50.8%.
+17
+   Digital Governance Projects Database. URL: https://                 Wilks’ Lambda test with significance
+datacatalog.worldbank.org/search/dataset/0038056/ (accessed         criterion p = 0.001 indicates a very significant
+on 20.10.2021).
+                                                                    difference in the average values of the
+18
+   UN     Study:    e-government       2020.    URL:     https://
+publicadministration.un.org/egovkb/Portals/egovkb/                  discriminant functions received. However,
+Documents/un/2020-Survey/2020%20UN%20E-                             calculation of canonical correlation (0.463)
+Government%20Survey%20-%20Russian.pdf (accessed on
+                                                                    showed a fairly low level of correlation
+19.10.2021).
+19
+   Global Financial Development Database. URL: https://www.         between factor and state group CBDC.
+worldbank.org/en/publication/gfdr/data/global-financial-               Quality of Fisher’s classification
+development-database; (accessed on 20.10.2021).                     discriminant functions (Table 6) is rather
+20
+   IMD World Competitiveness Center. IMD World digital
+competitiveness ranking 2021. URL: https://www.imd.org/
+centers/world-competitiveness-center/rankings/world-
+digital-competitiveness/ (accessed on 19.10.2021)
+                                                                    22
+                                                                       0.3 < Coeff. correlations ≤ 0.5.
+21
+   Rating scale: 0 — ​the project is not formed; 1 — ​the initial
+                                                                    23
+                                                                       0 < Coeff. correlations ≤ 0.3.
+level of development of the project; 2 — ​the project is            24
+                                                                       — ​0.5 < Coeff. correlations ≤ — ​0.3.
+successfully developing; 3 — ​the digital currency is launched.     25
+                                                                       — ​0.3 < Coeff. correlations ≤ 0.
+
+
+
+88                                                    FINANCE: THEORY AND PRACTICE  Vol. 26, No. 4’2022  financetp.fa.ru
+                                                                                                          K.A. Koshelev
+
+
+
+                                                                                                                 Table 5
+                                           Spearman’s correlation coefficients
+
+                                                                   Overall        Retail evaluation      Wholesale
+                            Criteria                          evaluation of the     of the CBDC       evaluation of the
+                                                                CBDC project           project          CBDC project
+
+ E-government development index (EGDI), 2020                      0.472**             0.423**             0.233**
+
+ Online Services Index, 2020                                      0.511**             0.472**             0.276**
+
+ Telecom infrastructure index, 2020                               0.431**             0.371**             0.212**
+
+ Human capital index, 2020                                        0.376**             0.354**              0.132
+
+ Income level (per capita GDP), 2020                              0.315**             0.256**              0.154
+
+ Number of mobile cellular per 100 people                         0.333**             0.292**              0.131
+
+ Percentage of individuals using the Internet                     0.394**             0.333**              0.177*
+
+ Number of fixed (wired) broadband cellular per 100 people        0.380**             0.340**              0.188*
+
+ Number of active mobile broadband cellular per
+                                                                  0.381**             0.319**              0.197*
+ 100 people
+
+ Adult literacy (%)                                                0.176*              0.181*              0.016
+
+ Gross enrolment rate                                             0.402**             0.377**              0.142
+
+ Expected length of education (in years)                          0.407**             0.377**              0.158*
+
+ Average length of learning (years)                               0.342**             0.319**              0.149
+
+ E–participation index (EPI)                                      0.485**             0.441**             0.289**
+
+ Open government development index, OGDI                          0.473**             0.418**             0.318**
+
+ Account with a formal financial institution (% aged 15+)         0.408**             0.360**             0.281**
+
+ Account used to accept government payments (% aged
+                                                                  0.418**             0.406**              0.121
+ 15+)
+
+ Accounts to receive wage (% aged 15+)                            0.388**             0.325**              0.220*
+
+ ATMs for 100 000 people                                          0.345**             0.288**             0.259**
+
+ Bank’s net interest margin (%)                                   –0.311**            –0.251**            –0.274**
+
+ Bank’s overhead to total assets (%)                              –0.239**            –0.170*             –0.214**
+
+ Credit card (% aged 15+)                                         0.423**             0.370**             0.239**
+
+ Debit card (% aged 15+)                                          0.397**             0.336**             0.269**
+
+
+ Electronic payments used to make payments (% aged 15+)           0.378**             0.331**              0.213*
+
+
+
+ GDP per capita (in constant 2005 prices, USD)                    0.375**             0.311**             0.217**
+
+
+
+
+FINANCE: THEORY AND PRACTICE  Vol. 26, No. 4’2022  financetp.fa.ru                                                 89
+DIGITAL FINANCIAL ASSETS
+
+
+
+                                                                                                                     Table 5 (continued)
+
+                                                                              Overall            Retail evaluation       Wholesale
+                               Criteria                                  evaluation of the         of the CBDC        evaluation of the
+                                                                           CBDC project               project           CBDC project
+
+  Mobile phone for payment (% aged 15+)                                       0.348**                 0.290**              0.157
+
+  Inflow of money transfer to GDP (%)                                         –0.310**               –0.275**             –0.199*
+
+  Stockmarket capitalization relative to GDP (%)                              0.490**                 0.342**              0.498**
+
+  Obligations for closed DG–projects, mln USD                                  0.198*                  0.197*              0.148
+
+  Obligations for opened DG–projects, mln USD                                 0.251**                 0.260**              0.089
+
+  Total obligations for DG–projects, mln USD                                  0.254**                 0.255**              0.133
+
+  Payments for closed DG–projects, mln USD                                     0.189*                  0.188*              0.129
+
+  Payments for opened DG–projects, mln USD                                    0.256**                 0.265**              0.095
+
+  Total payments for DG–projects, mln USD                                      0.241*                  0.242*              0.130
+
+  Investment in ICT and E–government in open projects, mln
+                                                                               0.224*                  0.233*              0.082
+  USD
+
+ Investment in ICT and E–government in carryover projects,
+                                                                               0.221*                  0.225*              0.041
+ mln USD
+ Total investment in ICT and E–government, mln USD                             0.201*                  0.212*              0.063
+ Index IMD 2020                                                               0.429**                 0.340**              0.233
+ Rank for IMD 2020                                                            –0.429**               –0.340**              –0.233
+ Knowledge, 2020                                                              –0.440**               –0.409**              –0.212
+ Talent, 2020                                                                 –0.368**                –0.241              –0.293*
+ Training & education, 2020                                                   –0.356**               –0.356**              –0.010
+ Scientific concentration, 2020                                               –0.345**               –0.409**              –0.195
+ Technology, 2020                                                             –0.454**                –0.293*             –0.321*
+ Regulatory framework, 2020                                                   –0.410**                –0.246              –0.293*
+ Capital, 2020                                                                –0.454**                –0.270*             –0.436**
+ Technological framework, 2020                                                –0.381**                –0.300*              –0.201
+
+ Future readiness, 2020                                                       –0.390**                –0.315*              –0.189
+
+ Adaptive attitudes, 2020                                                     –0.352**               –0.336**              –0.138
+
+
+ Business agility, 2020                                                       –0.361**                –0.290*              –0.106
+
+
+ T-integration, 2020                                                          –0.367**                –0.240               –0.217
+
+
+Source: compiled by the author with SPSS statistical package.
+Note: * — ​correlation is significant on 5%-level (2-way); ** — c​ orrelation is significant on 1%-level (2-way).
+
+
+
+90                                                        FINANCE: THEORY AND PRACTICE  Vol. 26, No. 4’2022  financetp.fa.ru
+                                                                                                                        K.A. Koshelev
+
+
+
+                           Coefficients of the Fisher classification discriminant function
+
+
+                                                                   Status of overall evaluation of the CBDC project
+                     Factors
+
+                                                                  0                             1                        2
+
+
+ Capital, 2020                                                  0.152                         0.099                   0.082
+
+
+ Constant                                                       –4.259                       –2.425                   –2.011
+
+Source: compiled by the author with SPSS statistical package.
+
+                                                                                                                                Table 7
+                           Coefficients of the Fisher classification discriminant function
+
+                                                                             Status of retail evaluation of the CBDC project
+                           Factors
+                                                                             0                      1                     2
+
+ Knowledge, 2020                                                         0.112                   0.078                 –0.089
+
+ Talent, 2020                                                            0.027                   0.019                 0.170
+
+ Constant                                                                –3.796                 –2.420                 –2.948
+
+Source: compiled by the author with SPSS statistical package.
+
+                                                                                                                               Table 8
+                           Coefficients of the Fisher classification discriminant function
+
+
+                                                                  Status of wholesale evaluation of the CBDC project status
+                          Factors
+
+                                                                         0                          1                     2
+
+ Capital, 2020                                                        0.130                     0.081                  0.056
+
+ Constant                                                             –3.453                   –2.025                  –1.538
+
+Source: compiled by the author with SPSS statistical package.
+
+
+low, which does not allow them to be used to Lambda test with significance criterion
+determine the status of the CBDC project on p = 0,004 and p = 0,000 indicates a sufficiently
+the basis of the value of the “capital” factor, significant difference in the average values of
+but shows that this factor has a significant the discriminant functions received. However,
+impact on the state of affairs of CBDC calculation of canonical correlation (0.495)
+projects;                                                           and (0.271) shows a low level of correlation
+  • F i s h e r c l a s s i f i c a t i o n d i s c r i m i n a n t between factors and indicators of CBDC state
+functions were obtained for the CBDC retail group affiliation, which does not allow the
+model (Table 7).                                                    resulting functions to be used for prediction.
+  The proportion of correctly classified                               However, the fact that both factors in
+observations in their use was 61.9%. Wilks’ the classification model account for more
+
+
+FINANCE: THEORY AND PRACTICE  Vol. 26, No. 4’2022  financetp.fa.ru                                                               91
+DIGITAL FINANCIAL ASSETS
+
+
+
+than half of the variation in retail CBDC      the dynamics of the crypto market and, in
+condition traits may indicate that retail      particular, the development of projects to
+model projects are active and successful       launch CBDC, it can be concluded about the
+in countries with a high level of technical    inevitability of the processes of digitalization
+knowledge and entrepreneurial talent, ahead    of financial assets, the emergence of new
+in its importance for the development of retailforms of digital assets, which require the
+CBDC even capital factor;                      accelerated development of regulator y
+   • Fisher classification discriminant        and legal regulation of this market and its
+functions were obtained for the CBDC           infrastructure.
+wholesale model (Table 8).                        According to the author, measures aimed
+                                               at curbing the development of certain types
+   L i ke w i s e fo r t h e g e n e r a l m o d e l fo r
+determining the status of the project by       of DFA are ineffective from a historical
+wholesale CBDC, the capital factor was         point of view and contradict the logic of
+significant. However, the share of correctly   the evolutionary development of the world
+classified observations was slightly higher    economy.
+for the model — ​6 0.3%. Wilks’ Lambda test       In this context, the presented research
+shows a significant difference in average      makes a significant theoretical and practical
+values of discriminant functions obtained      contribution to generalization of the main
+(p = 0.002). However, the calculation of       trends in the world market of cryptoassets,
+canonical correlation remains quite low for    identification of the main factors of
+this model (0.438). The use of the obtained    investment attractiveness of cryptocurrencies
+functions for prediction, as in previous       and conditions, contributing to the successful
+cases, is undesirable, but very significant forimplementation of CBDC.
+explaining the factors of development of the      The results obtained can be demanded by
+CBDC wholesale model.                          the participants of the financial market when
+   Noteworthy is the fact that no other factorsassessing the investment attractiveness
+from the 74 indicators studied provided a      of cryptocurrencies using the functions
+                                               fo r t h e fo r e c a s t o f t h e a s s i g n m e n t o f
+higher quality classification function to explain
+the success of CBDC projects, indicating the   cryptocurrencies to the selected clusters.
+relevance of the research findings.            In addition, the research of the conditions
+                                               for the successful implementation of CBDC
+                CONCLUSION                     can form the basis of regulatory projects
+Thus, taking into account the global trends that develop concepts of their own national
+in digitalization, the development of fintech, digital currencies.
+
+                                                   REFERENCES
+     1. Dener C., Nii-Aponsah H., Ghunney L. E., Johns K. D. GovTech maturity index: The state of public sector
+          digital transformation. International Development in Focus. Washington, DC: International Bank for
+          Reconstruction and Development / The World Bank; 2021. 165 p. URL: https://openknowledge.worldbank.
+          org/bitstream/handle/10986/36233/9781464817656.pdf (accessed on 19.10.2021).
+     2.   Koshelev K. A. Classification and regulation of the digital financial assets market: International and
+          domestic experience. Finansovyi menedzhment = Financial Management. 2021;(2):81–93. (In Russ.).
+     3.   Andryushin S. A. Distributed ledger technology in the financial sector of Russia. Bankovskoe delo = Banking.
+          2018;(2):4–15. (In Russ.).
+     4.   Casino F., Dasaklis T., Patsakis C. A systematic literature review of blockchain-based applications:
+          Current status, classification and open issues. Telematics and Informatics. 2019;36:55–81. DOI: 10.1016/j.
+          tele.2018.11.006
+     5.   Lisitsyn A. Digital financial assets: Legal regime, requirements, opportunities. Raschety i operatsionnaya
+          rabota v kommercheskom banke. 2020;(5):21–33. (In Russ.).
+
+
+
+92                                               FINANCE: THEORY AND PRACTICE  Vol. 26, No. 4’2022  financetp.fa.ru
+                                                                                                     K.A. Koshelev
+
+
+
+   6. Zaprutin D. G. Ensuring security within the framework of the concept of development of the national
+        system for combating the legalization (laundering) of proceeds from crime and the financing of terrorism.
+        Finansovaya ekonomika = Financial Economy. 2021;(7):42–47. (In Russ.).
+   7.   Alekhina O. O. Supranational digital currency: Prospects, risks and role in stimulating national digital
+        currency projects. Upravlenie riskom = Risk Management. 2021;(2):59–68. (In Russ.).
+   8.   Pashtova L. G., Oseev V. A., Klemenov D. A. Financial instrument of the new economy or a pyramid
+        scheme: The issues of cryptocurrency security. Finansy i kredit = Finance and Credit. 2021;27(6):1395–1415.
+        (In Russ.). DOI: 10.24891/fc.27.6.1395
+   9.   Blandin A., Pieters G. C., Wu Y., Eisermann T., Dek A., Taylor S., Njoki D., Paes F. 2020 ССAF 3rd global
+        cryptoasset benchmarking study. SSRN Electronic Journal. 2020. DOI: 10.2139/ssrn.3700822
+  10.   Halaburda H., Haeringer G., Gans J. S., Gandal N. The microeconomics of cryptocurrencies. NBER Working
+        Paper. 2020;(27477). URL: https://www.nber.org/system/files/working_papers/w27477/w27477.pdf
+  11.   Corbet S., Lucey B., Urquhart A., Yarovaya L. Cryptocurrencies as a financial asset: A systematic analysis.
+        International Review of Financial Analysis. 2019;62:182–199. DOI: 10.1016/j.irfa.2018.09.003
+  12.   Auer R., Tercero-Lucas D. Distrust or speculation? The socioeconomic drivers of US cryptocurrency
+        investments. Bank for International Settlements. BIS Working Papers. 2021;(951). URL: https://www.bis.
+        org/publ/work951.pdf (accessed on 20.10.2021).
+  13.   Lunyakov O. V. Cryptocurrency: Money market inflation hedge or pure speculation? Bankovskoe delo =
+        Banking. 2021;(5):8–11. (In Russ.).
+  14.   Umarov H. S. The impact of blockchain and cryptocurrencies on the global financial system: Prospects
+        and contradictions. Finansy i kredit = Finance and Credit. 2021;27(9):2096–2117. (In Russ.). DOI: 10.24891/
+        fc.27.9.2096
+  15.   Zuborev N. Trust is growing, followed by the price. Biznes-zhurnal. 2021;(1):12–15. (In Russ.).
+  16.   Chod J., Lyandres Е. A theory of ICOs: Diversification, agency, and information asymmetry. Management
+        Science. 2021;67(10):5969–5989. DOI: 10.1287/mnsc.2020.3754
+  17.   Kuvaeva Yu.V., Chudinovskikh M. V., Sedunova E. A. Comparative analysis of approaches to the design
+        and use of a central bank digital currency: European and Russian experience. Bankovskoe delo = Banking.
+        2021;(9):34–40. (In Russ.).
+  18.   Abramov A. E., Radygin A. D., Chernova M. I. Russian stock market: Trends, challenges and solutions.
+        Academic view. Voprosy ekonomiki. 2021;(11):5–32. (In Russ.). DOI: 10.32609/0042–8736–2021–11–5–32
+  19.   English R., Tomova G., Levene J. Cryptoasset consumer research 2020. London: Financial Conduct
+        Authority; 2020. 34 p. URL: https://www.fca.org.uk/publication/research/research-note-cryptoasset-
+        consumer-research‑2020.pdf (accessed on 20.10.2021).
+  20.   Auer R., Cornelli G., Frost J. Rise of the central bank digital currencies: Drivers, approaches and
+        technologies. Bank for International Settlements. BIS Working Papers. 2020;(880). URL: https://www.bis.
+        org/publ/work880.pdf (accessed on: 20.10.2021).
+
+
+
+
+FINANCE: THEORY AND PRACTICE  Vol. 26, No. 4’2022  financetp.fa.ru                                           93
+К.А. Кошелев
+
+
+
+                                            AbOUT THE AUTHOR
+
+                 Kirill A. Koshelev — Postgraduate Student, Plekhanov Russian University of Economics,
+                 Moscow, Russia
+                 https:/orcid.org/0000-0002-5471-9542
+                 KoshelevKA@list.ru
+
+
+
+Conflicts of Interest Statement: The author has no conflicts of interest to declare.
+
+The article was submitted on 06.12.2021; revisedon 28.12.2021 and accepted for publication on 27.04.2022.
+The author read and approved the final version of the manuscript.
+
+
+
+
+94                                             FINANCE: THEORY AND PRACTICE  Vol. 26, No. 4’2022  F I N A N C E T P.F A.R U
+

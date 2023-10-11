@@ -1,0 +1,6637 @@
+Czech National Bank ——— Global Economic Outlook ——— March 2020
+
+Global Economic Outlook
+——— March 2020
+
+www.cnb.cz
+
+1
+
+Contents
+I. Introduction
+
+2
+
+II. Economic outlook in selected territories
+
+3
+
+II.1 Euro area
+II.2 United States
+II.3 United Kingdom
+II.4 Japan
+II.5 China
+II.6 Russia
+II.7 Developing countries in the spotlight
+
+III. Leading indicators and outlook of exchange rates
+IV. Commodity market developments
+IV.1 Oil
+IV.2 Other commodities
+
+V. Focus…
+
+9
+10
+10
+11
+
+12
+
+Stablecoins – a gateway between the conventional and crypto financial universes?
+
+A. Annexes
+
+12
+
+17
+
+A1. Change in predictions for 2020
+A2. Change in predictions for 2021
+A3. GDP growth and inflation outlooks in the euro area countries
+A4. GDP growth and inflation in the individual euro area countries
+A5. List of abbreviations
+
+Cut-off date for data
+13 March 2020
+
+CF survey date
+9 March 2020
+
+GEO publication date
+20 March 2020
+
+Notes to charts
+ECB, Fed, BoE and BoJ: midpoint of the range of forecasts.
+The arrows in the GDP and inflation outlooks indicate the direction of revisions compared to the last GEO. If no arrow is shown, no new forecast is
+available. Asterisks indicate first published forecasts for given year. Historical data are taken from CF, with exception of MT and LU, for which they
+come from EIU.
+Leading indicators are taken from Bloomberg and Refinitiv Datastream.
+Forecasts for EURIBOR and LIBOR rates are based on implied rates from interbank market yield curve (FRA rates are used from 4M to 15M and
+adjusted IRS rates for longer horizons). Forecasts for German and US government bond yields (10Y Bund and 10Y Treasury) are taken from CF.
+
+Contact
+gev@cnb.cz
+
+Authors
+Luboš Komárek
+Petr Polák
+Soňa Benecká
+Oxana Babecká
+Martin Motl
+Milan Frydrych
+Jan Hošek
+Alexis Derviz
+
+3
+5
+6
+6
+7
+7
+8
+
+Editor-in-chief, I. Introduction
+Editor, II.2 United States, II.3 United Kingdom
+II.1 Euro area
+II.4 Japan, II.6 Russia
+II.5 China
+II.7 Developing countries in the spotlight
+IV.1 Oil and natural gas, IV.2 Other commodities
+V. Focus
+
+Czech National Bank ——— Global economic outook ——— March 2020
+
+17
+17
+18
+18
+25
+
+I. —— Introduction
+
+2
+
+I. Introduction
+COVID-19! The main news item in March, and probably the whole year, is and will be the coronavirus pandemic, of
+which Europe became the epicentre in March. In modern history, its impact on the global economy can only be
+compared with the effects of the financial crisis following the fall of Lehman Brothers. Individual nations are adopting
+unprecedented measures, and this is being reflected in their economic indicators. Demand shocks arising from restrictions
+imposed under states of emergency are combining with supply shocks manifesting in decreased output. Whether a classic
+recession (falling output and prices) or stagflation (falling output and rising prices) will prevail will depend on many factors,
+including the response of the authorities and the financial markets. Central banks are trying to react promptly. Many have
+cut interest rates (e.g. the BoE, the Bank of Canada, the Fed and the central bank of Norway) or adopted other
+unconventional measures (e.g. the
+March GDP growth and inflation outlooks for monitored countries, in %
+ECB, the Fed and the BoJ) to support
+their economies. Fiscal authorities are
+GDP
+EA
+DE
+US
+UK
+JP
+CN
+RU
+obviously also reacting, enacting
+2020
+0.6
+0.5
+1.6
+0.8
+-0.7
+5.2
+1.8
+numerous bridging measures for the
+2021
+1.3
+1.2
+2.0
+1.3
+1.1
+6.1
+1.9
+state of emergency. The WHO’s official
+Inflation
+EA
+DE
+US
+UK
+JP
+CN
+RU
+pronouncement of the coronavirus as a
+pandemic and US President Donald
+2020
+1.1
+1.3
+1.8
+1.5
+0.4
+3.4
+3.5
+Trump’s announcement of a 30-day
+2021
+1.4
+1.5
+2.1
+1.8
+0.5
+2.2
+3.8
+travel ban between the US and Europe
+Source: Consensus Forecasts (CF)
+have had a major negative impact on
+Note: The arrows indicate the direction of revisions compared with the last GEO.
+financial markets. Financial market
+turbulence was also fostered by the
+breakdown of the OPEC+ talks in early March, which caused the price of oil to drop by 30%.
+GDP growth outlooks confirm that 2020 will be a year of sharp economic slowdown or recession. Most economies will
+return to growth in 2021. Consumer inflation outlooks indicate that the downturn will be accompanied this year by a
+slowdown in inflation, which will further distance most economies from the ideal 2% rate of consumer inflation. Of the major
+developed economies, only the USA and the UK are likely to be near that level next year.
+The dollar will strengthen against the euro, sterling and the renminbi at the one-year horizon. It is expected to weaken only
+against the rouble. This proves the unwritten rule that a flight to the dollar is seen when uncertainty rises. The outlook for
+the Brent crude oil price at the one-year horizon is markedly lower than in February, at USD 56/bbl (highest estimate
+USD 70/bbl, lowest estimate just USD 39.5/bbl). The outlook for market rates is still slightly falling for the 3M USD LIBOR,
+while the outlook for 3M EURIBOR rates remains
+Spread of the coronavirus (2020) compared with SARS
+negative over the entire outlook horizon.
+(2003) in terms of numbers of new people infected
+
+Czech National Bank ——— Global economic outook ——— March 2020
+
+1,000
+
+16,000
+
+800
+
+12,000
+
+600
+
+8,000
+
+400
+
+4,000
+
+200
+
+COVID-19 China
+
+Jul
+
+Jun
+
+May
+
+Apr
+
+Mar
+
+Feb
+
+0
+
+Jan
+
+0
+
+Dec
+
+The current issue also contains an analysis:
+Stablecoins – a gateway between the conventional
+and crypto universes? The article introduces
+stablecoins and describes their links to traditional
+finance, the various motives for stablecoin demand,
+and the place of central bank digital currencies in the
+crypto-asset ecosystem.
+
+20,000
+
+Nov
+
+The chart in the current issue shows the spread of
+coronavirus since the epidemic began. This outbreak
+is following a dramatically different path to the SARS
+epidemic more than 15 years ago. The very rapid
+spread of the virus has resulted in far more infected
+people, and the global pandemic outside China has
+yet to peak. So far it is not clear when the disease will
+be subdued and the bans and other measures that
+are negatively affecting the economy will be replaced
+by a recovery. Draconian measures have borne fruit
+in China, and we hope the action taken in the rest of
+the world will soon be reflected in a decline in new
+infections.
+
+COVID-19 Outside China
+
+SARS globally (rhs)
+Source: WHO
+Note: COVID-19 confirmed new cases 31 December 2019–20 March 2020; SARS
+confirmed new cases 16 November 2002–10 July 2003.
+
+I. —— Economic outlook in selected territories
+
+3
+
+II.1 Euro area
+Economic growth in the euro area slowed markedly in 2019 Q4, especially in France and Italy. The euro area
+recorded annual GDP growth of 1%. It continued to be driven by growth in fixed investment, whose contributions have
+dominated those of the other GDP components in the past 18 months. Household and government consumption also
+contributed positively, though less so than in Q3. Economic growth was dampened by a continuing decline in inventories,
+joined by negative net exports again in Q4. This was mainly due to surprisingly negative developments in France and Italy,
+where economic activity contracted (by 0.1% and 0.3% respectively), mostly because of falling industrial and construction
+output at the year-end. A number of other euro area economies were also hit by decreasing industrial output, often
+accompanied by declining retail sales.
+At the start of the year, many economic activity indicators were suggesting a modest recovery, which was then hit
+hard by the coronavirus pandemic. Industrial output growth markedly exceeded expectations in January with a month-onmonth figure of 2.3%. Of the largest euro area economies, Italy saw the sharpest rise in output in January (3.7%). On the
+other hand, the coronavirus-related decline in activity in China had a large effect on the manufacturing PMI. Respondents
+reported increased lead times, with managers expecting problems with deliveries from China. By definition, however, the
+PMI regards longer delivery times as a positive signal (firms have so many orders they cannot deliver on time), so the
+overall index paradoxically rose. The services PMI remained in the expansion band, rising slightly on the back of robust
+domestic demand. Consumer sentiment also improved a little. At the end of February, the epidemic dealt its strongest blow
+to Italy, where the number of people infected sky-rocketed. It then spread rapidly to other economies. The measures taken
+to slow its spread will have a significant impact on the entire euro area economy. Besides a drop in household spending,
+production processes are being disrupted and workforces are being reduced due to illness and quarantine measures.
+
+GDP growth, %
+
+Inflation, %
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+
+-1
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 3/2020
+
+ECB, 3/2020
+
+2020
+
+2021
+
+2015
+
+IMF, 1/2020
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+0.6
+
+1.3
+
+0.8
+
+0.8
+
+2021
+
+1.3
+
+1.4
+
+1.2
+
+1.3
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 11/2019
+
+ECB, 3/2020
+
+2020
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+1.1
+
+1.4
+
+1.1
+
+1.1
+
+2021
+
+1.4
+
+1.5
+
+1.4
+
+1.4
+
+GDP growth in selected euro area countries in
+2020 and 2021, %
+
+2021
+
+Inflation in selected euro area countries in
+2020 and 2021, %
+
+4
+
+4
+
+3
+
+3
+
+2
+2
+1
+1
+0
+0
+
+-1
+EA
+CF
+
+DE
+IMF
+
+FR
+OECD
+
+IT
+ECB 2020
+
+ES
+
+SK
+
+ECB 2021
+
+EA
+CF
+
+Note: Charts show institutions' latest available outlooks of for the given economy.
+
+Czech National Bank ——— Global economic outook ——— March 2020
+
+DE
+IMF
+
+FR
+OECD
+
+IT
+ECB 2020
+
+ES
+ECB 2021
+
+SK
+
+I. —— Economic outlook in selected territories
+
+4
+
+CF analysts have revised down their GDP growth outlook, but the dramatically changing situation is making it hard
+to estimate the epidemic’s impact on the euro area economy. The March CF lowered the average growth rate for this
+year to 0.6%, with large economies affected particularly strongly. The forecasts for private consumption and industrial
+output were reduced substantially (from 1.2% to 0.9% and from 0.3% to -0.7% respectively). The new OECD outlook is
+slightly more optimistic (at 0.8%) and is in line with that of the ECB. However, it is clear that the outlooks will shift
+downwards as increasingly restrictive measures are brought in. A recession already seems certain in Italy, but Germany
+and France are unlikely to escape either. National fiscal measures will be an important factor.
+The outlook for consumer inflation in the euro area is also lower. Based on preliminary data, headline inflation fell
+slightly to 1.2% in February, owing to a negative contribution of energy prices. It is thus well below the ECB’s target. Core
+inflation rose to the same level, but inflation pressures remain muted. Food prices rose the most in February (by 2.2%),
+followed by services prices. Overall, euro area inflation will be just 1.1% in 2020 according to both CF and the ECB. The
+markedly lower oil price will be reflected in inflation, but CF also revised its outlook for core prices by 0.1 pp.
+At its regular March meeting, the ECB, did not lower the deposit rate but did announce support measures,
+including larger securities purchases. Additional longer-term refinancing operations (LTROs) will be carried out through
+a fixed rate tender procedure with full allotment, with an interest rate that is equal to the average rate on the deposit facility.
+From June 2020, they will be followed by more favourable TLTRO III terms and an increase in the maximum total lending
+amount in TLTRO III operations. Asset purchase programmes (APPs) were increased by EUR 120 billion until the end of
+the year, with no clear amounts set for the individual months or instruments. The measures were targeted at providing
+liquidity support to the financial system. According to President Lagarde, however, an ambitious and coordinated fiscal
+policy response is required. The ECB stands ready to adjust its monetary policy as appropriate. According to the ECB,
+interest rates are not at a level preventing them from being reduced further. The current crisis may deepen further, but
+according to the ECB it will peak in 2020 Q2 and then fade.
+ESI leading indicators
+
+ESI leading indicators
+
+30
+
+120
+
+20
+
+115
+
+10
+
+110
+105
+
+0
+
+100
+
+-10
+
+95
+
+-20
+
+90
+
+-30
+2015
+
+2015
+2016
+
+2017
+
+industry
+
+2018
+
+services
+
+retail
+
+2019
+
+2020
+
+retail
+
+constr.
+
+consumer
+
+2016
+EA
+
+2017
+DE
+
+2018
+
+FR
+
+2019
+
+ES
+
+2020
+
+IT
+
+SK
+
+construction
+
+industry
+
+services
+
+consum.
+
+EA
+
+12/19
+
+-9.3
+
+11.3
+
+-8.1
+
+0.7
+
+5.7
+
+12/19
+
+1/20
+
+-7.0
+
+11.0
+
+-8.1
+
+-0.1
+
+5.8
+
+1/20
+
+2/20
+
+-6.1
+
+11.2
+
+-6.6
+
+-0.2
+
+5.3
+
+2/20
+
+DE
+
+FR
+
+ES
+
+IT
+
+SK
+
+101.3
+
+99.8
+
+102.6
+
+103.0
+
+101.6
+
+97.8
+
+102.6
+
+101.2
+
+103.9
+
+101.5
+
+101.3
+
+98.9
+
+103.5
+
+101.8
+
+105.8
+
+102.7
+
+101.3
+
+97.2
+
+Inflation expectations in the euro area, %
+
+Interest Rates, %
+4
+
+3.0
+
+3
+
+2.5
+2.0
+
+2
+
+1.5
+
+1
+
+1.0
+
+0
+-1
+2015
+
+0.5
+2016
+
+2017
+
+3M EURIBOR
+
+2018
+
+2019
+
+1Y EURIBOR
+
+2020
+
+0.0
+2015
+
+2021
+
+2016
+
+2017
+5y5y
+
+10Y Bund
+
+2018
+
+2019
+
+SPF
+
+Note: Inflation expectations based on 5year inflation swap and SPF
+5y5y
+
+SPF
+
+2/20
+
+3/20
+
+6/20
+
+3/21
+
+3M EURIBOR
+
+-0.41
+
+-0.47
+
+-0.56
+
+-0.60
+
+1/20
+
+1.31
+
+1.66
+
+1Y EURIBOR
+
+-0.29
+
+-0.35
+
+-0.39
+
+-0.39
+
+2/20
+
+1.22
+
+1.66
+
+10Y Bund
+
+-0.43
+
+-0.73
+
+-0.60
+
+-0.30
+
+3/20
+
+1.01
+
+1.66
+
+Czech National Bank ——— Global economic outook ——— March 2020
+
+2020
+
+I. —— Economic outlook in selected territories
+
+5
+
+II.2 United States
+The US central bank cut its rates by 50 bp at an unscheduled meeting at the beginning of March. The decision was
+made due to concerns about the impact of the virus. That said, the markets had already been expecting rates to be lowered
+this year. The next step was a decision to provide USD 5.5 billion in liquidity through repo operations. Despite the Fed’s
+measures, financial markets continue to decline. The S&P 500 is down one-quarter from its mid-February peak. Ten-year
+government bond yields have dropped by one-third and two-year yields by two-thirds relative to mid-February. While the
+current situation may resemble 2008 in terms of its progression on financial markets, it is important to emphasise that this is
+still a matter of health and falling production, not a financial crisis. More will thus depend on fiscal policy.
+The coronavirus pandemic has so far affected only the outlook for the US economy, not its current state. According
+to the March CF outlook, the US economy will grow at a pace of 1.6% this year. Expectations have thus dropped by 0.3 pp
+since last month. According to the Atlanta Fed, the Q1 figures are very good so far, and growth of 3.1% (quarterly,
+annualised) is expected. Investment, consumption and government spending have meanwhile all risen. In February, nonfarm payrolls also increased, the unemployment rate fell to 3.5%, and the average wage rose by a further 3% year on year.
+The OECD’s new growth estimate for the USA was also reduced to 1.9% for 2020, but increased to 2.1% for 2021. As in
+Europe, the coronavirus effect is likely to be strongest in the Q2 figures, and the decline this year will be offset by growth
+next year. Leading indicators of demand already reflect the future economic turnaround. The ISM new orders index has
+fallen into the contraction band, while the PMI for the industry is just above 50. The pandemic has not yet translated into
+consumer sentiment, which is good and, according to the University of Michigan index, at a two-year high. CF expects
+inflation of 1.8% this year, a drop of 0.2 pp compared with previous expectations.
+
+GDP growth, %
+
+Inflation, %
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+
+-1
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 3/2020
+
+Fed, 12/2019
+
+2020
+
+2021
+
+2015
+
+2016
+
+IMF, 1/2020
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 11/2019
+
+Fed, 12/2019
+
+2020
+
+2021
+
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+Fed
+
+CF
+
+IMF
+
+OECD
+
+Fed
+
+2020
+
+1.6
+
+2.0
+
+1.9
+
+2.0
+
+2020
+
+1.8
+
+2.3
+
+2.1
+
+1.9
+
+2021
+
+2.0
+
+1.7
+
+2.1
+
+1.9
+
+2021
+
+2.1
+
+2.4
+
+2.1
+
+2.0
+
+Leading indicators
+
+Interest Rates, %
+
+200
+
+130
+
+4
+
+170
+
+115
+
+3
+
+140
+
+100
+
+2
+
+110
+
+85
+
+1
+
+80
+
+70
+
+50
+
+55
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+Conf. Board current sit.
+
+ConfB expectations (rhs)
+
+UoM current sit. (rhs)
+
+UoM expectations (rhs)
+
+0
+-1
+2015
+
+2016
+
+2017
+
+2018
+
+3M USD LIBOR
+
+2019
+
+1Y USD LIBOR
+
+2020
+
+2021
+
+10Y Treasury
+
+ConfB curr.
+
+ConfB exp.
+
+UoM curr.
+
+UoM exp.
+
+2/20
+
+3/20
+
+6/20
+
+3/21
+
+12/19
+
+170.5
+
+100.0
+
+115.5
+
+88.9
+
+USD LIBOR 3M
+
+1.68
+
+0.97
+
+0.42
+
+0.41
+
+1/20
+
+173.9
+
+101.4
+
+114.4
+
+90.5
+
+USD LIBOR 1R
+
+1.74
+
+1.74
+
+0.65
+
+0.74
+
+2/20
+
+165.1
+
+107.8
+
+114.8
+
+92.1
+
+Treasury 10R
+
+1.51
+
+0.84
+
+0.90
+
+1.30
+
+Czech National Bank ——— Global economic outook ——— March 2020
+
+I. —— Economic outlook in selected territories
+
+6
+
+II.3 United Kingdom
+The BoE cut rates by 50 bp and the government simultaneously announced a GBP 30 billion stimulus package for
+the UK economy in reaction to the coronavirus pandemic and fears about future developments. Incoming governor Andrew
+Bailey, who takes the helm on 16 March, will thus have his hands full. The NIESR still expects economic growth of 0.2% in
+Q1. However, output stagnated in January and the outlook is very uncertain. The forward-looking composite PMI rose
+further into the expansion band in February. In services – the key sector for the British economy – the PMI fell but remains
+in the expansion band. Labour productivity rose year on year, the unemployment rate stayed at 3.8%, and wages grew by
+almost 3% year on year in February. Both CF and the OECD lowered their growth outlooks for the UK economy for this year
+and the next. As in other countries, the uncertainty is reflected in falling government bond yields on financial markets.
+
+GDP growth, %
+
+Inflation, %
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+
+-1
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 3/2020
+
+BoE, 1/2020
+
+2020
+
+2021
+
+2015
+
+IMF, 1/2020
+
+CF
+
+IMF
+
+OECD
+
+BoE
+
+2020
+
+0.8
+
+1.4
+
+0.8
+
+0.8
+
+2021
+
+1.3
+
+1.5
+
+0.8
+
+1.5
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 11/2019
+
+BoE, 1/2020
+
+2020
+
+2021
+
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+BoE
+
+2020
+
+1.5
+
+1.9
+
+2.2
+
+1.5
+
+2021
+
+1.8
+
+2.0
+
+2.1
+
+2.0
+
+II.4 Japan
+For the first time since 2009, the March CF outlook forecasts this year contraction in GDP in Japan. The January
+industrial output figure indicates a slower decline (2.5% y-o-y). Retail sales even grew month on month in February. The
+PMI, however, is in the contraction band not only in manufacturing but also in services, due to the impact of the coronavirus
+on tourism. The pandemic has exacerbated the persisting adverse economic situation and continues to threaten the
+Olympic Games, although according to official statements a postponement is not currently being considered. In these
+circumstances, the March CF sees annual GDP growth as negative (-0.7%), with the largest drop occurring in Q1 (-1.7%
+year on year). The economic decline will lessen gradually during the year and the Japanese economy will return to weak
+growth at the year-end. The OECD growth outlook was lowered by 0.8 pp, but weak, near-zero growth was retained.
+
+GDP growth, %
+
+Inflation, %
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+
+-1
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 3/2020
+
+BoJ, 1/2020
+
+2020
+
+2021
+
+2015
+
+IMF, 1/2020
+
+CF
+
+IMF
+
+OECD
+
+BoJ
+
+2020
+
+-0.7
+
+0.7
+
+0.2
+
+0.9
+
+2021
+
+1.1
+
+0.5
+
+0.7
+
+1.1
+
+Czech National Bank ——— Global economic outook ——— March 2020
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 11/2019
+
+BoJ, 1/2020
+
+2020
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+BoJ
+
+2020
+
+0.4
+
+1.3
+
+1.1
+
+1.0
+
+2021
+
+0.5
+
+0.7
+
+1.2
+
+1.4
+
+2021
+
+I. —— Economic outlook in selected territories
+
+7
+
+II.5 China
+The direct negative impacts of the coronavirus pandemic on the Chinese economy will be felt most strongly in Q1.
+The very strict quarantines and lockdowns are bearing fruit. This can be seen in the number of infected individuals, which is
+now going up by just a few dozen daily, meaning that the epicentre of the infection has moved from China to Europe.
+Chinese economic activity is expected to pick up in the coming quarters. This will be reflected in the lifting of quarantine and
+other measures. According to estimates, the Chinese economy should be operating without major restrictions by the end of
+March. Monetary and fiscal stimulus measures will continue to affect growth. However, average growth this year will fall
+short of the Chinese government’s forecasted annual target of 6%. CF and OECD analysts’ March forecast is for annual
+GDP growth of only around 5% this year. The higher inflation outlook for this year reflects growth in pork prices, among
+other things. The March CF outlook foresees annual consumer price inflation of 3.4%, slowing to 2.2% in 2021.
+GDP growth, %
+
+Inflation, %
+
+9
+
+6
+
+8
+
+5
+
+7
+
+4
+
+6
+
+3
+
+5
+
+2
+
+4
+
+1
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 3/2020
+
+EIU, 2/2020
+
+2020
+
+2021
+
+2015
+
+IMF, 1/2020
+
+CF
+
+IMF
+
+OECD
+
+EIU
+
+2020
+
+5.2
+
+6.0
+
+4.9
+
+5.4
+
+2021
+
+6.1
+
+5.8
+
+6.4
+
+5.8
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 11/2019
+
+EIU, 2/2020
+
+2020
+
+2021
+
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+EIU
+
+2020
+
+3.4
+
+2.4
+
+2.2
+
+5.2
+
+2021
+
+2.2
+
+2.8
+
+1.9
+
+4.2
+
+II.6 Russia
+The main event drawing attention to Russia is the oil war. Like many other currencies, the rouble weakened at the end
+of February due to the spread of the coronavirus around the world. In early March, it was pushed to a four-year low (of
+around 75 RUB/USD) by the conflict between Russia and OPEC (see section IV.1), which brought down the price of oil and
+even overshadowed the news of the pandemic. In the forecast for this year, the government is counting on GDP growth of
+1.9%, with a Urals oil price of USD 57.7/bbl. If the price stays around USD 35/bbl this year, the chairman of the Accounts
+Chamber of Russia (and former minister of finance) Alexei Kudrin does not rule out zero growth. In this case, Russia would
+lose RUB 3 trillion (USD 41.7 billion assuming an exchange rate of 72 RUB/USD). The Kremlin does not officially endorse
+this view. Nevertheless, the risk scenario of the Russian central bank’s October forecast predicts a 1.5–2% decline in GDP
+this year in the event of an oil price of USD 25/bbl and a global recession. The latest available (end-February) CF forecast
+for Russia left the GDP forecast unchanged.
+GDP growth, %
+
+Inflation, %
+
+6
+
+15
+
+4
+
+12
+
+2
+
+9
+
+0
+
+6
+
+-2
+
+3
+
+-4
+
+0
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 2/2020
+
+OECD, 3/2020
+
+EIU, 3/2020
+
+2020
+
+2021
+
+2015
+
+IMF, 1/2020
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 2/2020
+
+OECD, 11/2019
+
+EIU, 3/2020
+
+2020
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+EIU
+
+CF
+
+IMF
+
+OECD
+
+EIU
+
+2020
+
+1.8
+
+1.9
+
+1.2
+
+1.7
+
+2020
+
+3.5
+
+3.5
+
+4.0
+
+4.0
+
+2021
+
+1.9
+
+2.0
+
+1.3
+
+1.8
+
+2021
+
+3.8
+
+3.9
+
+4.0
+
+4.1
+
+Czech National Bank ——— Global economic outook ——— March 2020
+
+2021
+
+I. —— Economic outlook in selected territories
+
+8
+
+II.7 Developing countries in the spotlight
+The Brazilian economy expanded by 0.5% quarter on quarter at the end of 2019. For the year as a whole, it grew by
+1.1%. Inflation was 3.7%, while in the last three months it has held above 4% year on year. The key SELIC interest rate was
+lowered by 0.25 pp to 4.25% at the February meeting. This was due to a number of risks threatening to deflect inflation from
+the target (4% for 2020, 3.75% for 2021). Growth in real wages and salaries remains subdued. The Brazilian currency
+continues to weaken due to decreasing rates and carry trades. On the other hand, Brazil has implemented a pension reform
+that should save the state USD 230 billion over the next ten years.
+In the coming weeks, the Brazilian parliament will vote on granting independence to the central bank (BCB).
+Although the bank can implement monetary policy independently of the government, it still falls under the Ministry of
+Finance, while the head of the BCB is nominated by the head of state. Under the new legislation, the government would not
+be able to recall the central bank president due to differences of opinion on monetary policy. Other vital reforms also await
+the government. These include a reform of the complex and inefficient tax system, other fiscal reforms and structural
+reforms to boost the still lacklustre economic growth.
+Most institutions expect economic growth of around 2% this year, rising moderately in 2021. However, these
+outlooks do not take into account the latest coronavirus developments. Markets are speculating on a further rate cut of
+0.25–0.50 pp at the March meeting, due in part to many other risks, such as a reduction in external demand, lukewarm
+optimism of firms and households, and related low investment. For now, monetary stimulus is the only support available,
+since Brazil has hit its debt ceiling. Inflation should remain near 4%. According to CF, the Brazilian real should appreciate
+slightly. However, it could weaken sharply if the coronavirus spreads further and the government responds inadequately,
+which the markets currently view as a realistic scenario.
+
+GDP growth, %
+
+Inflation, %
+
+6
+
+10
+
+4
+
+8
+
+2
+
+6
+
+0
+
+4
+
+-2
+
+2
+
+-4
+
+0
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 3/2020
+
+EIU, 1/2020
+
+2020
+
+2021
+
+2015
+
+IMF, 1/2020
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 11/2019
+
+EIU, 1/2020
+
+2020
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+EIU
+
+CF
+
+IMF
+
+OECD
+
+EIU
+
+2020
+
+2.1
+
+2.2
+
+1.7
+
+2.4
+
+2020
+
+3.6
+
+3.5
+
+3.1
+
+4.3
+
+2021
+
+2.6
+
+2.3
+
+1.8
+
+2.3
+
+2021
+
+3.8
+
+3.8
+
+3.6
+
+3.8
+
+Currency performance vis-à-vis USD
+
+2021
+
+Selected indicators
+
+4
+
+20
+
+20
+
+0
+
+16
+
+16
+
+-4
+
+12
+
+12
+
+-8
+
+8
+
+8
+
+4
+
+4
+
+-12
+-16
+
+0
+2015
+BRL
+RUB
+ZAR
+MXN
+CLP
+UAH
+ARS
+THB
+TRY
+MYR
+IDR
+INR
+HUF
+PLN
+VND
+NGN
+CNY
+RON
+PHP
+BGN
+EGP
+
+-20
+
+1/1900
+1/1900
+1/1900
+
+01/00
+
+0.0
+0.0
+0.0
+
+0.0
+0.0
+0.0
+
+Czech National Bank ——— Global economic outook ——— March 2020
+
+2017
+
+2018
+
+2019
+
+2020
+
+10Y gov. bond, %
+key interest rate, %
+exchange rate USD/BRL (rhs)
+
+% change over 2/1/2020 to 11/03/2020 period
+
+01/00
+
+0
+2016
+
+10Y gov. bond, %
+
+interest rate, %
+
+USD/BRL
+
+1/2020
+
+6.70
+
+4.50
+
+4.15
+
+2/2020
+
+6.78
+
+4.25
+
+4.34
+
+3/2020
+
+4.25
+
+I. —— Leading indicators and outlook of exchange rates
+
+9
+
+III. Leading indicators and outlook of exchange rates
+The US dollar (USD/EUR)
+
+OECD Composite Leading Indicator
+102
+
+1.5
+1.4
+1.3
+
+101
+
+1.2
+1.1
+100
+
+1.0
+
+0.9
+2015
+
+99
+
+2016
+
+2017
+
+2018
+
+USD/EUR (spot)
+
+2019
+
+2015
+
+2016
+EA
+
+2017
+US
+
+2018
+
+UK
+
+JP
+
+CN
+
+RU
+
+3/21
+
+3/22
+
+CF forecast
+
+1.142
+
+1.115
+
+1.135
+
+1.148
+
+forward rate
+
+1.147
+
+1.149
+
+1.160
+
+1.174
+
+140
+
+0.80
+
+130
+
+0.75
+
+120
+
+0.70
+
+110
+
+0.65
+
+100
+
+0.60
+
+90
+2017
+
+2018
+
+GBP/USD (spot)
+
+2019
+
+2020
+
+CF forecast
+
+9/3/20
+spot rate
+
+1.142
+
+The Japanese yen (JPY/USD)
+
+0.85
+
+2016
+
+forward rate
+
+6/20
+
+The British pound (GBP/USD)
+
+0.55
+2015
+
+2022
+
+4/20
+
+spot rate
+
+2019
+
+2021
+
+CF forecast
+
+9/3/20
+
+98
+
+2020
+
+4/20
+
+2021
+
+2022
+
+80
+2015
+
+2016
+
+forward rate
+
+6/20
+
+3/21
+
+2017
+
+2018
+
+JPY/USD (spot)
+
+3/22
+
+0.763
+
+2019
+CF forecast
+
+9/3/20
+spot rate
+
+2020
+
+2021
+
+2022
+
+forward rate
+
+4/20
+
+6/20
+
+3/21
+
+3/22
+
+102.5
+
+CF forecast
+
+0.763
+
+0.770
+
+0.754
+
+0.737
+
+CF forecast
+
+102.5
+
+106.7
+
+105.8
+
+107.0
+
+forward rate
+
+0.762
+
+0.762
+
+0.761
+
+0.760
+
+forward rate
+
+102.2
+
+102.0
+
+101.0
+
+99.7
+
+The Chinese renminbi (CNY/USD)
+
+The Russian rouble (RUB/USD)
+
+7.5
+
+80
+
+7.3
+
+70
+
+7.0
+
+60
+
+6.8
+
+50
+
+6.5
+
+40
+
+6.3
+
+30
+
+6.0
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+CNY/USD (spot)
+
+9/3/20
+spot rate
+CF forecast
+
+2020
+
+2021
+
+2022
+
+20
+2015
+
+CF forecast
+
+2016
+
+2017
+
+2018
+
+2019
+
+RUB/USD (spot)
+
+4/20
+
+6/20
+
+3/21
+
+3/22
+
+6.995
+
+7.004
+
+7.026
+
+6.981
+
+6.951
+
+9/3/20
+spot rate
+CF forecast
+
+2020
+
+2021
+
+2022
+
+CF forecast
+
+4/20
+
+6/20
+
+3/21
+
+3/22
+
+67.40
+
+65.49
+
+65.31
+
+66.20
+
+74.03
+
+Note: Exchange rates as of last day of month. Forward rate does not represent outlook; it is based on covered interest parity, i.e. currency of
+country with higher interest rate is depreciating. Forward rate represents current (as of cut-off date) possibility of hedging future exchange rate.
+
+Czech National Bank ——— Global economic outook ——— March 2020
+
+I I. —— Commodity market developments
+
+10
+
+IV.1 Oil
+The Brent crude oil price has plunged by 50% since the start of the year and sank below USD 35/bbl in the first half
+of March. The causes lie on both the demand and supply sides. The decline in prices, which began at the start of the year,
+continued into early February, with demand still being reduced by the unusually warm winter in the northern hemisphere. Oil
+prices then rose temporarily on hopes that the coronavirus epidemic would be limited mainly to China and in reaction to
+fiscal stimuli in many Asian economies. In late February, however, the virus began spreading beyond China’s borders on a
+larger scale, leading to a renewed decline in oil prices. The most recent blow to oil prices was the outcome of the OPEC+
+meeting on 6 March, where, despite expectations, the parties failed to agree to cut production further, with Russia to blame.
+Most countries subsequently announced they would significantly increase output. The Brent crude oil price then plunged to
+USD 31/bbl. An even greater drop was prevented by a sharp depreciation of the US dollar in early March. The market curve
+at the start of March signals a Brent price of around USD 48.5/bbl at the end of this year and USD 50.5/bbl at the close of
+next year. Most analytical institutions have revised their oil demand and price outlooks for this year dramatically downwards,
+and some even expect a year-on-year decline in oil consumption this year. The EIA further markedly lowered its Brent price
+outlook to USD 43.3/bbl this year and USD 55.4/bbl next year on average. It now expects a war for market share rather
+than cooperation between OPEC+ countries. The low price will most likely lead to a halt in growth and subsequent fall in US
+output roughly from May onwards. On the other hand, stronger growth in demand due to low oil prices cannot be expected
+until the fear of an epidemic, which is greatly reducing passenger transport activity, among other things, has subsided.
+Negotiations between the OPEC+ countries may resume, for example, at the next scheduled OPEC+ meeting in June.
+Outlook for prices of oil (USD/barrel) and natural gas
+(USD / 1000 m³)
+
+Total stocks of oil and oil products in OECD (bil.
+barrel)
+
+120
+
+400
+
+100
+
+340
+
+80
+
+280
+
+60
+
+220
+
+40
+
+160
+
+20
+
+100
+
+0
+2015
+
+40
+2016
+
+2017
+
+2018
+
+Brent crude oil
+
+2019
+
+2020
+
+WTI crude oil
+
+Brent
+
+2021
+
+4.8
+4.7
+4.6
+4.5
+4.4
+4.3
+4.2
+4.1
+4.0
+2015
+
+2016
+
+Natural gas (rhs)
+
+WTI
+
+2017
+
+5R max/min
+
+2018
+5Y avg
+
+2019
+
+2020
+
+Stocks
+
+Natural gas
+
+2020
+
+49.34
+
+38.70
+
+82.06
+
+2021
+
+49.76
+
+40.57
+
+82.19
+
+Global consumption of oil and oil products (mil.
+barrel / day)
+
+Production, total and spare capacity in OPEC
+countries (mil. barrel / day)
+
+110
+
+36
+
+10
+
+105
+
+34
+
+8
+
+100
+
+32
+
+6
+
+95
+
+30
+
+4
+
+90
+
+28
+
+2
+
+85
+2015
+
+2016
+
+2017
+IEA
+
+2018
+
+2019
+
+EIA
+
+IEA
+2020
+2021
+
+100.97
+
+2020
+
+2021
+
+0
+2016
+
+2017
+
+Spare capacity (rhs)
+
+OPEC
+
+EIA
+101.11
+
+26
+2015
+
+OPEC
+99.72
+
+102.86
+
+Production
+
+2018
+
+2019
+
+2020
+
+Total capacity
+
+Total capacity
+
+2021
+
+Production
+
+Spare capacity
+
+2020
+
+29.08
+
+31.39
+
+2.30
+
+2021
+
+29.41
+
+31.80
+
+2.39
+
+Source: Bloomberg, IEA, EIA, OPEC, CNB calculation
+Note: Oil price at ICE, average gas price in Europe – World Bank data, smoothed by the HP filter. Future oil prices (grey area) are derived
+from futures and future gas prices are derived from oil prices using model. Total oil stocks (commercial and strategic) in OECD countries –
+IEA estimate. Production and extraction capacity of OPEC – EIA estimate.
+
+Czech National Bank ——— Global economic outook ——— March 2020
+
+I I. —— Commodity market developments
+
+11
+
+IV.2 Other commodities
+The average price of natural gas in Europe has been falling sharply since the start of the year, approaching historic
+lows. This is due to a market surplus of gas, exacerbated by low demand resulting from what is reported to be the warmest
+winter in the northern hemisphere in at least four decades. since records began (1981). Stocks are well above the usual
+level, and the price is also being driven down by the low price of oil. Coal prices fell at a slower pace, as the drop in demand
+in China due to lower electricity production was partly offset by a decrease in local output.
+The aggregate non-energy commodity price index fell in February and early March, with both of its components
+contributing. The biggest drop in the industrial metals sub-index and most of its components occurred in the second half of
+January, when the Chinese government stepped up its anti-coronavirus measures, which curbed local industrial activity.
+Copper and nickel prices also fell due to growth in stocks on the LME (by as much as a third for nickel). However, the
+Chinese government’s measures had the greatest impact on the price of iron ore. It fell sharply at the end of January, but
+then regained a large part of its losses due to growth in imports of this commodity to China in January and February.
+The decline in the food commodity sub-index was more spread over time and the prices of its components showed
+mixed trends. The price of wheat has been falling since mid-January. Except for the second half of February, the corn price
+has been flat since the start of the year. The price of rice dropped markedly in early March. The soy price fell throughout
+January but has since been very volatile. Following previous growth, the price of sugar began to fall sharply in late
+February. Only coffee prices went the other way, rising since February. The price of pork fell sharply in late January, but
+recovered its losses in mid-February. Conversely, the decline in beef prices started accelerating in mid-February.
+Non-energy commodities price indicies
+
+Food commodities
+
+110
+
+120
+
+95
+
+105
+
+80
+
+90
+
+65
+
+75
+
+50
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+Overall comm. basket
+
+2020
+
+60
+2015
+
+2021
+
+2016
+
+Agricultural comm.
+
+Wheat
+
+Industrial metals
+
+Overall
+
+Agricultural
+
+2017
+
+Industrial
+
+2018
+Corn
+
+Wheat
+
+2019
+
+2020
+
+Rice
+
+2021
+
+Soy
+
+Corn
+
+Rice
+
+Soy
+
+2020
+
+79.2
+
+86.7
+
+75.7
+
+2020
+
+90.5
+
+88.1
+
+100.7
+
+84.4
+
+2021
+
+80.2
+
+87.2
+
+77.2
+
+2021
+
+93.3
+
+91.1
+
+94.8
+
+84.6
+
+Meat, non-food agricultural commodities
+
+Basic metals and iron ore
+
+190
+
+130
+
+120
+
+160
+
+110
+
+100
+
+130
+
+90
+
+80
+
+100
+
+70
+
+60
+
+70
+
+50
+
+40
+
+30
+
+20
+2015
+
+40
+2015
+
+2016
+
+Lean hogs
+
+2017
+
+2018
+
+Live Cattle
+
+2019
+
+2020
+
+Cotton (rhs)
+
+2021
+Rubber (rhs)
+
+Cotton
+
+2016
+
+2017
+
+Aluminium
+
+Rubber
+
+Aluminium
+
+2018
+Copper
+
+Copper
+
+2019
+
+2020
+
+Nickel
+
+Nickel
+
+2021
+Iron ore
+
+Lean hogs
+
+Live Cattle
+
+Iron ore
+
+2020
+
+91.6
+
+110.3
+
+67.7
+
+42.3
+
+2020
+
+77.9
+
+74.3
+
+57.6
+
+55.2
+
+2021
+
+95.3
+
+112.7
+
+67.7
+
+45.4
+
+2021
+
+80.3
+
+75.4
+
+58.0
+
+49.7
+
+Source: Bloomberg, CNB calculations.
+Note: Structure of non-energy commodity price indices corresponds to composition of The Economist commodity indices. Prices of
+individual commodities are expressed as indices 2010 = 100.
+
+Czech National Bank ——— Global economic outook ——— March 2020
+
+V —— Focus
+
+12
+
+Stablecoins – a gateway between the conventional and crypto financial universes?1
+A stablecoin is a digital token designed to serve as a digital currency with a stable fiat value, as a rule thanks to pegging to,
+or backing with, one or several conventional assets. Most stablecoins are blockchain-based, which makes it easy for
+investors to trade them on crypto exchanges. In this article, we discuss the nature of stablecoins’ links to traditional finance,
+the various motives for stablecoin demand, and the place of central bank digital currencies (CBDCs) in the crypto-asset
+ecosystem in the presence of private stablecoins.
+
+Introduction
+Although the creators of the first cryptocurrencies promoted them as novel means of exchange, their true
+attractiveness has so far been discovered in the form of an easily accessible (although speculative) investment
+opportunity. On the contrary, the transactional side of crypto has largely been a disappointment, mainly due to complicated
+payment mechanisms and prohibitive levels of price volatility. The principal cause of the latter, beside regularly inflating and
+bursting price bubbles, is seen in the unclear, if not altogether missing, intrinsic value of the first-generation altcoins (such
+as Bitcoin, Ether and hundreds of followers). Therefore, the remedy is often expected from a digital asset construction that
+includes unambiguously identifiable underlying assets. This is how the notion of stablecoins was born.
+Stablecoins are a class of cryptocurrencies that attempt to offer price stability built into their very construction.
+They have gained traction because they attempt to offer the best of both worlds: the instant processing and security or
+payment privacy of cryptocurrencies, and the low-volatility transparent valuations of fiat currencies. Stablecoins are
+cryptocurrencies that attempt to peg their market value to some external reference. The reference asset may be a currency
+such as the US dollar, a commodity such as gold, or a different crypto asset. Stablecoins achieve their price stability via
+2
+collateralisation (backing) or through algorithmic mechanisms of buying and selling the reference asset or its derivatives.
+There are currently several dozen stablecoins traded on at least some crypto exchanges. The market size is not exactly
+huge by conventional standards: even the biggest existing stablecoin has market capitalisation of less than $7 billion, as
+opposed to nearly $172 billion for the biggest altcoin, i.e. bitcoin. On the other hand, stablecoin markets are already within
+the same size range as the biggest existing bitcoin competitors (see https://coinmarketcap.com/currencies/).
+Practically every stablecoin currently in use or in
+preparation presents itself primarily as a means of
+payment, although the implied store-of-value role is
+both subsumed and actively sought after by users.
+Also, the treatment of stablecoins by official institutions has
+so far concentrated on their potential or actual role in the
+processing of payments (above all cross-border payments;
+see BIS, 2019), whereas the store-of-value function has
+barely been brushed upon. Apparently, the economics of
+the latter are not sufficiently understood yet to support
+strong policy statements.
+
+Figure 1 – Types of stablecoin
+
+Classification of stablecoins
+The basic dividing line within the stablecoin category
+runs between collateralised and non-collateralised. The
+latter
+use
+unique
+blockchain
+technologies
+and
+decentralised smart contracts to enforce specific valuation
+Source: https://masterthecrypto.com/guide-to-stablecoin-types-ofrules. Theoretically, a well-designed, non-collateralised
+stablecoins/
+stablecoin could hold its value indefinitely, regardless of
+broader crypto or fiat market movements. On the other
+hand, their usefulness is largely restricted to the crypto universe in which they were designed to operate, with no direct
+encroachment into the fiat currency domain. Therefore, non-collateralised stablecoins will not be discussed further in this
+article.
+Another category of less interest here is that of stablecoins backed by other cryptocurrencies. These are actually
+crypto analogues of derivatives and exchange-traded funds (ETFs) in the traditional finance world. Therefore, they do not
+contribute to our central topic of crypto-fiat connectivity, being mostly of interest to professional traders and crypto geeks.
+Further, there exist seigniorage-style coins whose operators maintain a stable token price by conducting open
+market operations (based on smart contracts) on a crypto exchange, with no need for backing. These are in essence
+
+1
+
+Author: Alexis Derviz. Views expressed in this article are his own and not necessarily reflect the official position of the Czech National Bank.
+
+2
+
+One can find more on the existing stablecoin examples in, for example, Bullmann et al. (2019).
+
+Czech National Bank ——— Global economic outook ——— March 2020
+
+V —— Focus
+
+13
+
+a crypto version of algorithmic trading entities promising a stable value in changing market conditions and are therefore yet
+another type of crypto derivative or tracking fund of no specific interest for the topic at hand.
+Within the conventionally collateralised subclass, we often start by separating private and official stablecoins. With
+the latter, we are essentially referring to central bank digital currencies (CBDCs). Here, we need to be sure that what a
+monetary authority offers under the CBDC header is not a mere alternative physical representation of cash, but is indeed a
+medium of exchange that provides new functionalities in terms of access, record-keeping and possibilities to transact. Given
+the currently existing CBDC projects, we can conclude that CBDCs as such are not a subset of stablecoins in the proper
+sense, even though a non-empty overlap exists (see BIS, 2018, or Kumhof and Noone, 2018). As long as they are simply a
+digital representation of the old fiat money, they do not offer much of a financial innovation. On the other hand, since their
+backing by official reserves is the same as that provided for the old forms of fiat money, CBDCs formally possess the key
+stablecoin attribute. In addition, CBDCs share with private stablecoins the (declared, not necessarily actual) objective of
+payment facilitation. However, in terms of purpose, CBDCs (most prominently the Digital Currency/Electronic Payment, or
+DCEP, asset about to be introduced by the People’s Bank of China) appear more like an attempted antidote to private
+stablecoins than a bona fide competitor to them.
+
+Fiat-backed stablecoins
+The most widespread type of stablecoin is fiat-backed. What is often meant is that the coin is convertible 1:1 to a unit of
+one official currency or a basket of currencies. The best-known example is Tether (USDT, which first went by the name of
+RealCoin when it started in 2014). Its creators declared they wanted to service those users of both Bitcoin and Ethereum
+blockchains who preferred to keep doing their accounting in US dollar terms. (Not surprisingly, the idea was hatched by
+operators of a cryptocurrency exchange – Bitfinex.) So, USDT is a token that is intended to be fixed against the US dollar.
+Ideally, 1 USDT should trade on exchanges at a value of exactly US$1.00. Tether retains this value by holding a reserve of
+USD assets. However, since it is not universally accepted at crypto exchanges (for example, CoinBase does not currently
+support USDT), market depth is variable and fickle. Therefore, effective Tether transaction prices may at times deviate
+considerably from the official benchmark (Fig. 2).
+Figure 2 – Tether price
+(USD)
+1,02
+
+1,01
+
+1,00
+
+0,99
+
+0,98
+1/19
+
+2/19
+
+3/19
+
+4/19
+
+5/19
+
+6/19
+
+7/19
+
+8/19
+
+9/19
+
+10/19
+
+11/19
+
+12/19
+
+1/20
+
+Source: coinmarketcap.com
+
+The construction of Tether aspires to provide a solution to a kind of “impossible trinity”: a combination of a fixed
+conversion rate, a fixed secondary market price and full reserve backing. The closest analogy is perhaps a currency
+board policy operated by a sovereign state (with the stablecoin corresponding to the national currency and its fiat currency
+collateral to the official reserves). However, a state does not need to run its currency board as a profitable business;
+instead, its consumption is financed by conventional taxation. On the contrary, Tether operators cannot tax anybody and the
+fees they are able to collect to cross-subsidise the currency (for example from the Bitfinex business to which the presence
+of USDT attracts customers) are unlikely to be sufficient to cover the inevitable losses. This circumstance arouses suspicion
+that, at the very least, the full backing commitment must be lacking credibility. Nevertheless, Tether has proven to be an
+attractive vehicle for those wishing to combine the freedom of cryptocurrency-based finance with the (relative) stability of fiat
+currency accounting. Additionally, much of the demand for Tether comes from professional crypto traders, who use it for
+hedging purposes. On the outside, there are voices calling Tether a scam (Masterthecrypto, 2019), citing the opacity of its
+operations, its shifting reserve structure, its association with shady businesses, and multiple lawsuits. This ominous
+evidence notwithstanding, the bulk of Tether users look sufficiently well prepared to handle the associated risk, whereas the
+lay public at large is currently not exposed to USDT to an extent comparable to other objects of the one-time fintech hype,
+such as P2P lending.
+
+Czech National Bank ——— Global economic outook ——— March 2020
+
+V —— Focus
+
+14
+
+There are currently (about 20) other fiat-backed stablecoins that offer somewhat greater transparency than Tether.
+Examples include USD Coin (USDC), Paxos Standard Token (PAX) and TrueUSD (TUSD). However, their market
+capitalisation remains low, reflecting a very modest degree of penetration compared to Tether.
+
+Commodity-backed stablecoins
+Collateral most often backing such stablecoins is either a precious metal (gold) or a fuel (oil). This category has
+several advantages such as collateralization by a material value, price stability derived from that of the underlying asset,
+and a liquidity promise given that token traders, both professional and retail, know what claim they are transacting no matter
+which technology and algorithm is employed. However, the most important advantage seems to be that, as opposed to fiatbacked coins, commodity-backed ones do not pretend to achieve the impossible trinity. In fact, given variable fiat currency
+prices of commodities, this would hardly be possible at all. Prices of commodity-backed stablecoins move, as is to be
+expected, reflecting both changes of the price of the underlying asset and token-specific factors (Figure 3). Naturally, the
+necessity to store an actual product as a reserve implies cost, as well as a need for regular audits, and also entails
+centralization, i.e. commodity-backed coins should not by expected to operate on a decentralized permissionless network.
+3
+On the other hand, commodity tokenization has proved attractive from market access and liquidity point of view.
+The biggest currently existing commodity-backed stablecoin is Digix Gold Token (DGX). Still, compared to a couple
+of years back, DGX is, surprisingly, the only one in active use with a market capitalization worth mentioning, which is
+probably explained by the abundance of fraudulent projects that have undermined investor trust in this kind of digital asset.
+Figure 3 – Price indices of Digix Gold Token and gold Troy ounce
+(index, May 15, 2018 = 100)
+130
+125
+120
+115
+
+110
+105
+
+100
+95
+
+90
+85
+
+80
+5/18
+
+6/18
+
+7/18
+
+8/18
+
+9/18
+
+10/18
+
+11/18
+
+12/18
+
+1/19
+
+2/19
+
+DGX
+
+3/19
+
+4/19
+
+5/19
+
+6/19
+
+7/19
+
+8/19
+
+9/19
+
+10/19
+
+11/19
+
+12/19
+
+1/20
+
+USD/Oz
+
+Source: coinmarketcap.com, Thomson Datastream
+
+The Libra initiative
+The really widespread interest in stablecoins observable since the middle of 2019 is related not so much to any of
+the already materialised projects as to a vague expression of intent in the form of the Libra announcement by
+Facebook in June 2019. As a start, Facebook (FB) established the Libra Association in Geneva. It had 28 founding
+members, including Mastercard, PayPal, Visa, Spotify, Lyft, Uber, Coinbase, Andreesen Horowitz, Union Square Ventures,
+eBay and other major organisations. The apparent reason for the resulting agitation is the huge market power of the
+Facebook corporation in several online areas of activity and the expectation of quick and deep global penetration of the
+promised product inferred therefrom. That was also the natural reason for the close attention paid by regulators, which
+eventually scared away several early prominent corporate backers (Fintechnews Singapore, 2019). PayPal, Visa,
+Mastercard, eBay, Vodafone and a number of other original members are now no longer part of the Libra Association.
+Actually, FB started experimenting with fintech and payment products several years prior to the current Libra
+initiative, and it has projects running that are formally independent of Libra. For instance, Facebook’s WhatsApp
+subsidiary is launching a P2P payment application, WhatsApp Pay, in India with an outlook for other Asian markets. These
+steps – taken, unlike Libra, with zero publicity – illustrate Facebook’s genuine interest in expanding into the payments
+branch in economies in which it enjoys its biggest market shares. For these running and planned value transfer
+3
+
+Here, one should distinguish between a commodity backed stablecoin and a utility token representing a claim on a commodity: the former are
+expected to be transacted as a routine and converted into the uderlying reserve as an exception. On the contrary, the latter are intended to be,
+at some point, exchanged for the underlying commodity, but could, in principle, be transacted on a secondary market prior to conversion. In the
+case of commodities as the underlying assets, utility tokens are much more widespread than coins. Which does not mean, of course, that a
+certain utility token cannot one day start being used as a means of exchange and therewith ascend to a stablecoin position if a sufficient
+number of people accept it in settlement. After all, in the Middle Ages, fiat sovereign moneys were formally issued as claims on the produce of
+royal precious metal mines and mints.
+
+Czech National Bank ——— Global economic outook ——— March 2020
+
+V —— Focus
+
+15
+
+4
+
+applications, Libra is just one conduit, and maybe not even a necessary one. Past experience (such as the discontinuation
+of a similar experiment with Messenger-based P2P payments in Europe in June 2019; similar experiments have been going
+on in the US for about five years) suggests the final version of an FB-supported stablecoin is very far from decided.
+What is known about the construction of Libra at present suggests it is really intended as a stablecoin. Libra will
+use a distributed ledger to reconcile payments between service partners. It will be accompanied by an offer of a digital
+wallet called Calibra. New Libra currency units will be created on demand. If demand for new Libra units materialises, the
+partners in the Libra Association will need to contribute new coins. Libra is not decentralised; instead, it is a centralised
+blockchain run by the Libra Association, which functions as a de facto central bank. FB envisions avoiding volatility of its
+cryptocurrency by backing it with a basket of currencies and US Treasury securities. There is no information about either
+the conversion mechanism or the rate (let alone a promise of its fixing), indicating that the impossible trinity mentioned
+above will probably not be targeted.
+
+Digital payment infrastructure and stablecoins
+Long before Libra, Ripple offered international payments followed by an accounting unit, XRP, which also became
+a bridge cryptocurrency. Originally, the founders’ rhetoric revolved around a new speedy means of making international
+transactions accessing even the remotest nooks of the Earth where traditional banks hesitated (or found it too costly and
+risky) to enter. In that vein, the targeted client base included migrant workers from low-income emerging countries wishing
+to send remittances home while avoiding prohibitive bank fees. This promotional move now looks a lot like a precursor of
+the later Libra marketing pitch. However, in the end it was banks, not private individuals, that took advantage of the cheap
+and speedy transfer system offered by Ripple, and banks and other corporates currently make up the bulk of the Ripple
+5
+client base. In the case of Ripple, the digital infrastructure preceded the coin. The latter did not even have to be a
+collateralised stablecoin in the proper sense, its intrinsic value already secured by the transfer services it facilitated. Still,
+given the mentioned specific composition of its users, XRP does not at present look like a proper digital money, making its
+formal classification in stablecoin terms a more or less academic question.
+At the same time, many stablecoins do not have a payment infrastructure of their own, instead relying on preexisting blockchain algorithms, digital wallets and crypto exchanges. Moreover, the key feature contributing to the
+success of a stablecoin has proved to be its domestication on a crypto exchange, not on a payment platform. Two of the
+top-ten fiat-backed stablecoins of today, Tether and Gemini, were directly launched by crypto exchange operators. So, the
+firm association of stablecoins with payment services currently prevailing in the general public perception is to a large extent
+due, on the one hand, to the recent Libra PR-framing by FB and, on the other, to the reactive behaviour of those central
+banks which have similarly chosen to conceptualise their own CBDC projects as an extension of the payment systems
+under their control. The crypto-fiat bridge function of stablecoins, which is at least as important as their payment vehicle
+role, remains a question so far largely unexplored in sufficient generality.
+
+Why are stablecoins demanded at all?
+Looking at the existing stablecoin construction, we cannot avoid certain simple questions concerning their raison
+d’être. Haven’t we simply reinvented merchant banking and the private moneys of the free-banking era, just with digital-age
+technology? As much as users may benefit from enjoying the combination of crypto privacy and fiat stability, how can
+providers survive and make money given that a one-to-one backing of any asset, not just a digital one, by its issuer, if
+offered free of charge, has always been a losing proposition in finance (for which reason fractional reserve backing of
+deposits by banks inevitably became the norm)? In the real-world examples of stablecoins, there is always a trade-off
+between backing credibility and decentralisation: one only finds transparent and solid backing arrangements if the coin is
+operated centrally. Is a synthesis of decentralisation (for which crypto assets are appreciated by their fans in the first place)
+and stable collateral (without which one cannot expect acceptance by the conventionally risk-averse general public) even
+viable at all under standard market conditions? Apparently, the history of stablecoins (and crypto assets in general) is too
+short to offer reliable answers yet. Altogether, demand for stablecoins does not look to be evaporating, regardless of
+developments on the conventional finance side. On the other hand, it does seem to be inevitably concentrating in the subpopulation of sophisticated professional investors. In other words, stablecoin transfers are becoming subordinate to
+stablecoin portfolio (re)balancing, including hedging.
+
+Where do the public and private sector objectives meet in the realm of stablecoins?
+Stablecoin users expect to enjoy the security and decentralisation of blockchain-based tokens along with the
+stability and familiarity of fiat currencies. Therefore, stablecoins are likely to be attractive to people living under
+4
+
+In this regard, the Libra Association might have been a Trojan horse, i.e. an attempt by FB to downplay its own role for the benefit of those
+jurisdictions in which it currently faces restrictions or outright bans, such as in China.
+5
+
+The initial open-source and decentralised intentions of Ripple were later embraced by a spin-off company called Stellar, which has since been
+stressing its focus on retail customers. So, Libra seems to be marching in the tracks of not just one precursor, but the whole train of fintech
+thought. The difference is that both Ripple and Stellar are top-down projects (from a technical solution to customers), whereas Libra is a
+bottom-up one (it starts with a huge available customer base and proceeds by developing a technical solution).
+
+Czech National Bank ——— Global economic outook ——— March 2020
+
+V —— Focus
+
+16
+
+economically unstable and politically oppressive conditions, since they are supposed to combine borderless circulation and
+independence from official powers with a clear reference value. However, it is unlikely this best of both worlds can be
+counted upon to exist for the indefinite future without any substantive trade-offs. For one thing, not only are private
+individuals inventive in avoiding control by the authorities, but also the authorities eventually learn to catch up with their
+subjects, albeit with a time lag. For another, the assets used in a stablecoin valuation rule are themselves subject to
+volatility, so every anchor is relative. No stablecoin is able to generate its own safe haven; all it can do is exploit an existing
+one.
+So far, policymakers’ activity with regard to stablecoins has been, at best, purely reactive. Looking at the documents
+issued on the topic by various international bodies, it is hard to overlook that, whereas private initiatives have kept
+announcing and implementing products, policymakers have mainly issued statements reflecting their wishes as to how
+those products should look and what conditions they should satisfy (BIS, 2018; Adrian and Mancini-Griffoli, 2019). As if
+anyone in the crypto universe cares that much about heeding those wishes. In truth, one strongly suspects that hardly any
+code developer or salesperson does. Starting with the successful launch and mass adoption of the first cryptocurrencies, a
+private enterprise, if it so wishes, can, but does not have to, abide by the rules set by fiat currency issuers or state
+authorities that empower them. Of course, in the case of CBDCs, traditional monetary authorities themselves hold the
+initiative. However, there remains the question of the proper bridge between the two, and it currently looks like the official
+side needs this bridge more than the private side. As long as the sector of crypto exchanges is resilient enough to operate
+outside the regulatory perimeter, notwithstanding an occasional policy-driven takedown of this or that member, CBDCs also
+remain at the mercy of private stablecoin operators. It is possible that truly sustainable co-existence with the private
+stablecoin ecosystem will, at least in the near future, only be granted to CBDCs with modest or, better still, zero social
+engineering ambitions, since anything else is bound to scare off the shy dwellers of the crypto world. That is, private
+stablecoins would agree to connect to a CBDC guaranteeing quicker payments, deeper penetration and legal backstops,
+but not to one whose sponsoring central bank seeks to ban cash and impose negative interest on deposits with the aim to
+milk or punish savers.
+
+Conclusion
+As with many other fintech innovations, stablecoins have gained popularity in a different context than intended or
+designed. When stablecoins are used in hedges against altcoins, it is mostly because the infrastructures of these two asset
+classes are much closer to each other than to any fiat currency-based market segment, not because a stablecoin has an
+inherent advantage as a safe asset in absolute terms. If a CBDC appeared that walked the necessary distance to the
+altcoin ecosystem in terms of crypto connectivity paired with privacy protection, some or even most of the currently existing
+stablecoins might prove redundant.
+
+References
+Adrian, T. and T. Mancini-Griffoli (2019) Digital Currencies: The Rise of Stablecoins. IMF blogs (September),
+https://blogs.imf.org/2019/09/19/digital-currencies-the-rise-of-stablecoins/ .
+BIS (2018) Central bank digital currencies. Committee on Payments and Market Infrastructures, Markets Committee
+(March). https://www.bis.org/cpmi/publ/d174.pdf .
+BIS (2019) Investigating the impact of global stablecoins. G7 Working Group on Stablecoins (October).
+https://www.bis.org/cpmi/publ/d187.htm .
+Bullmann, D., J. Klemm and A. Pinna (2019), “In search of stability in crypto-assets: are stablecoins the solution?”, ECB
+Occasional Paper Series, No 230.
+Kumhof, M., and C. Noone (2018) Central bank digital currencies — design principles and balance sheet
+implications. Bank of England. Staff Working Paper No. 725 (May).
+Fintechnews Singapore (2019) From Libra to WhatsApp Pay — A Glance at Facebook’s Fintech Play (August).
+https://fintechnews.sg/33264/blockchain/facebook-libra-whatsapp-pay-fintech/ .
+Masterthecrypto (2019) Tether crypto: USDT stablecoin comparison + Bitfinex story. https://masterthecrypto.com/tetherusdt/ .
+
+Keywords
+stablecoin, fiat, backing, crypto exchange, CBDC
+
+JEL Classification
+G19, G23, G29
+
+Czech National Bank ——— Global economic outook ——— March 2020
+
+A. —— Annexes
+
+17
+
+A1. Change in predictions for 2020
+GDP growth, %
+
+Inflation, %
+
+CF
+EA
+
+-0.3
+
+US
+
+-0.3
+
+UK
+
+-0.3
+
+JP
+
+-1.0
+
+CN
+
+-0.4
+
+RU
+
+0
+
+2020/3
+2020/2
+2020/3
+2020/2
+2020/3
+2020/2
+2020/3
+2020/2
+2020/3
+2020/2
+2020/2
+2020/1
+
+IMF
+-0.1
+-0.1
+0
++0.2
++0.2
+0
+
+2020/1
+2019/10
+2020/1
+2019/10
+2020/1
+2019/10
+2020/1
+2019/10
+2020/1
+2019/10
+2020/1
+2019/10
+
+OECD
+-0.3
+-0.1
+-0.2
+-0.4
+-0.8
+-0.4
+
+2020/3
+2019/11
+2020/3
+2019/11
+2020/3
+2019/11
+2020/3
+2019/11
+2020/3
+2019/11
+2020/3
+2019/11
+
+CB / EIU
+-0.3
+0
+-0.5
++0.2
+-0.5
+0
+
+2020/3
+2019/12
+2019/12
+2019/9
+2020/1
+2019/11
+2020/1
+2019/10
+2020/2
+2020/1
+2020/3
+2020/1
+
+CF
+-0.1
+-0.2
+-0.1
+-0.2
++0.2
+-0.2
+
+2020/3
+2020/2
+2020/3
+2020/2
+2020/3
+2020/2
+2020/3
+2020/2
+2020/3
+2020/2
+2020/2
+2020/1
+
+IMF
+-0.2
+-0.4
+-0.1
+-0.2
+-0.1
+-1.0
+
+2019/10
+2019/4
+2019/10
+2019/4
+2019/10
+2019/4
+2019/10
+2019/4
+2019/10
+2019/4
+2019/10
+2019/4
+
+OECD
+-0.4
+0
++0.3
+-0.4
++0.1
+0
+
+2019/11
+2019/5
+2019/11
+2019/5
+2019/11
+2019/5
+2019/11
+2019/5
+2019/11
+2019/5
+2019/11
+2019/5
+
+CB / EIU
+2020/3
+2019/12
+2019/12
+0
+2019/9
+2020/1
+0
+2019/11
+2020/1
+-0.1
+2019/10
+2020/2
++0.3
+2020/1
+2020/3
+-0.2
+2020/1
+0
+
+A2. Change in predictions for 2021
+GDP growth, %
+
+Inflation, %
+
+CF
+EA
+
+-0.3
+
+US
+
+-0.3
+
+UK
+
+-0.3
+
+JP
+
+-1.0
+
+CN
+
+-0.4
+
+RU
+
+0
+
+2020/3
+2020/2
+2020/3
+2020/2
+2020/3
+2020/2
+2020/3
+2020/2
+2020/3
+2020/2
+2020/2
+2020/1
+
+IMF
+2020/1
+2019/10
+2020/1
+-0.1
+2019/10
+2020/1
+0
+2019/10
+2020/1
++0.2
+2019/10
+2020/1
++0.2
+2019/10
+2020/1
+0
+2019/10
+-0.1
+
+OECD
+-0.3
+-0.1
+-0.2
+-0.4
+-0.8
+-0.4
+
+2020/3
+2019/11
+2020/3
+2019/11
+2020/3
+2019/11
+2020/3
+2019/11
+2020/3
+2019/11
+2020/3
+2019/11
+
+CB / EIU
+2020/3
+2019/12
+2019/12
+0
+2019/9
+2020/1
+-0.5
+2019/11
+2020/1
++0.2
+2019/10
+2020/2
+-0.5
+2020/1
+2020/3
+0
+2020/1
+-0.3
+
+Czech National Bank ——— Global economic outook ——— March 2020
+
+CF
+-0.1
+-0.2
+-0.1
+-0.2
++0.2
+-0.2
+
+2020/3
+2020/2
+2020/3
+2020/2
+2020/3
+2020/2
+2020/3
+2020/2
+2020/3
+2020/2
+2020/2
+2020/1
+
+IMF
+-0.2
+-0.4
+-0.1
+-0.2
+-0.1
+-1.0
+
+2019/10
+2019/4
+2019/10
+2019/4
+2019/10
+2019/4
+2019/10
+2019/4
+2019/10
+2019/4
+2019/10
+2019/4
+
+OECD
+
+CB / EIU
+
+2019/11
+2019/5
+2019/11
+0
+2019/5
+2019/11
++0.3
+2019/5
+2019/11
+-0.4
+2019/5
+2019/11
++0.1
+2019/5
+2019/11
+0
+2019/5
+
+2020/3
+2019/12
+2019/12
+0
+2019/9
+2020/1
+0
+2019/11
+2020/1
+-0.1
+2019/10
+2020/2
++0.3
+2020/1
+2020/3
+-0.2
+2020/1
+
+-0.4
+
+0
+
+A. —— Annexes
+
+18
+
+A3. GDP growth and inflation outlooks in the euro area countries
+
+GDP growth in the euro area countries in 2020 and 2021, %
+4
+3
+2
+1
+0
+-1
+MT
+
+IE
+
+CY
+
+LU
+
+LV
+
+SK
+
+SI
+
+LT
+
+GR
+
+EE
+
+ES
+
+AT
+
+PT
+
+NL
+
+FI
+
+FR
+
+DE
+
+BE
+
+EA
+
+IT
+
+CY
+
+FR
+
+IE
+
+EA
+
+IT
+
+PT
+
+GR
+
+CF inIMF
+OECDarea countries
+ECB 2020 inECB
+2021and 2021, %
+Inflation
+the euro
+2020
+4
+3
+2
+1
+0
+EE
+
+SK
+CF
+
+LV
+IMF
+
+LT
+
+SI
+
+NL
+
+OECD
+
+MT
+
+AT
+
+ECB 2020
+
+DE
+
+LU
+
+BE
+
+FI
+
+ES
+
+ECB 2021
+
+Note: Charts show institutions' latest available outlooks of for the given country.
+
+A4. GDP growth and inflation in the individual euro area countries
+
+Germany
+
+GDP growth, %
+
+Inflation, %
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+
+-1
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 3/2020
+
+DBB, 12/2019
+
+2020
+
+2021
+
+2015
+
+IMF, 1/2020
+
+CF
+
+IMF
+
+OECD
+
+DBB
+
+2020
+
+0.5
+
+1.1
+
+0.3
+
+0.6
+
+2021
+
+1.2
+
+1.4
+
+0.9
+
+1.4
+
+Czech National Bank ——— Global economic outook ——— March 2020
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 11/2019
+
+DBB, 12/2019
+
+2020
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+DBB
+
+2020
+
+1.3
+
+1.7
+
+1.2
+
+1.3
+
+2021
+
+1.5
+
+1.7
+
+1.5
+
+1.6
+
+2021
+
+A. —— Annexes
+
+19
+
+France
+GDP growth, %
+
+Inflation, %
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+
+-1
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 3/2020
+
+ECB, 6/2019
+
+2020
+
+2021
+
+2015
+
+IMF, 1/2020
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 11/2019
+
+ECB, 6/2019
+
+2020
+
+2021
+
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+0.8
+
+1.3
+
+0.9
+
+1.4
+
+2020
+
+1.2
+
+1.3
+
+1.2
+
+1.3
+
+2021
+
+1.2
+
+1.3
+
+1.4
+
+1.4
+
+2021
+
+1.3
+
+1.4
+
+1.3
+
+1.4
+
+Italy
+GDP growth, %
+
+Inflation, %
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+
+-1
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 3/2020
+
+ECB, 6/2019
+
+2020
+
+2021
+
+2015
+
+IMF, 1/2020
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+-0.8
+
+0.5
+
+0.0
+
+0.7
+
+2021
+
+0.8
+
+0.7
+
+0.5
+
+0.9
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 11/2019
+
+ECB, 6/2019
+
+2020
+
+2021
+
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+0.5
+
+1.0
+
+0.6
+
+1.0
+
+2021
+
+1.0
+
+1.1
+
+1.2
+
+1.5
+
+Spain
+GDP growth, %
+
+Inflation, %
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+
+-1
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 11/2019
+
+ECB, 6/2019
+
+2020
+
+2021
+
+2015
+
+IMF, 1/2020
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+1.5
+
+1.6
+
+1.6
+
+1.9
+
+2021
+
+1.6
+
+1.6
+
+1.6
+
+1.7
+
+Czech National Bank ——— Global economic outook ——— March 2020
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 11/2019
+
+ECB, 6/2019
+
+2020
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+1.0
+
+1.0
+
+1.1
+
+1.3
+
+2021
+
+1.4
+
+1.4
+
+1.3
+
+1.5
+
+2021
+
+A. —— Annexes
+
+20
+
+Netherlands
+GDP growth, %
+
+Inflation, %
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+
+-1
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 11/2019
+
+ECB, 6/2019
+
+2020
+
+2021
+
+2015
+
+IMF, 10/2019
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 11/2019
+
+ECB, 6/2019
+
+2020
+
+2021
+
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+1.2
+
+1.6
+
+1.8
+
+1.5
+
+2020
+
+1.5
+
+1.6
+
+1.8
+
+1.6
+
+2021
+
+1.4
+
+1.5
+
+1.6
+
+1.4
+
+2021
+
+1.7
+
+1.7
+
+1.5
+
+2.1
+
+Belgium
+GDP growth, %
+
+Inflation, %
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+
+-1
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 11/2019
+
+ECB, 6/2019
+
+2020
+
+2021
+
+2015
+
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+1.0
+
+1.3
+
+1.1
+
+1.1
+
+2021
+
+1.2
+
+1.3
+
+1.1
+
+1.2
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 11/2019
+
+ECB, 6/2019
+
+2020
+
+2021
+
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+1.3
+
+1.3
+
+1.1
+
+1.6
+
+2021
+
+1.5
+
+1.5
+
+1.5
+
+1.5
+
+Austria
+GDP growth, %
+
+Inflation, %
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+
+-1
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 11/2019
+
+ECB, 6/2019
+
+2020
+
+2021
+
+2015
+
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+1.0
+
+1.7
+
+1.3
+
+1.6
+
+2021
+
+1.4
+
+1.6
+
+1.3
+
+1.6
+
+Czech National Bank ——— Global economic outook ——— March 2020
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 11/2019
+
+ECB, 6/2019
+
+2020
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+1.5
+
+1.9
+
+1.6
+
+1.7
+
+2021
+
+1.6
+
+1.9
+
+1.7
+
+1.7
+
+2021
+
+A. —— Annexes
+
+21
+
+Ireland
+GDP growth, %
+
+Inflation, %
+
+30
+
+4
+
+24
+
+3
+
+18
+
+2
+
+12
+
+1
+
+6
+
+0
+
+0
+
+-1
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 11/2019
+
+ECB, 6/2019
+
+2020
+
+2021
+
+2015
+
+IMF, 10/2019
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 11/2019
+
+ECB, 6/2019
+
+2020
+
+2021
+
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+2.9
+
+3.5
+
+3.3
+
+3.7
+
+2020
+
+1.0
+
+1.5
+
+1.7
+
+1.2
+
+2021
+
+2.6
+
+3.2
+
+3.0
+
+3.3
+
+2021
+
+1.4
+
+1.7
+
+2.2
+
+1.4
+
+Finland
+GDP growth, %
+
+Inflation, %
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+
+-1
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 11/2019
+
+ECB, 6/2019
+
+2020
+
+2021
+
+2015
+
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+0.9
+
+1.5
+
+1.0
+
+1.5
+
+2021
+
+1.2
+
+1.5
+
+0.9
+
+1.3
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 11/2019
+
+ECB, 6/2019
+
+2020
+
+2021
+
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+1.1
+
+1.3
+
+1.4
+
+1.4
+
+2021
+
+1.4
+
+1.5
+
+1.7
+
+1.6
+
+Portugal
+GDP growth, %
+
+Inflation, %
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+
+-1
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 11/2019
+
+ECB, 6/2019
+
+2020
+
+2021
+
+2015
+
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+1.5
+
+1.6
+
+1.8
+
+1.6
+
+2021
+
+1.6
+
+1.5
+
+1.7
+
+1.6
+
+Czech National Bank ——— Global economic outook ——— March 2020
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 11/2019
+
+ECB, 6/2019
+
+2020
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+0.9
+
+1.2
+
+0.5
+
+1.2
+
+2021
+
+1.3
+
+1.3
+
+1.0
+
+1.3
+
+2021
+
+A. —— Annexes
+
+22
+
+Greece
+GDP growth, %
+
+Inflation, %
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+
+-1
+
+-2
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 11/2019
+
+ECB, 6/2019
+
+2020
+
+2021
+
+2015
+
+IMF, 10/2019
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 3/2020
+
+OECD, 11/2019
+
+ECB, 6/2019
+
+2020
+
+2021
+
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+2.1
+
+2.2
+
+2.1
+
+2.1
+
+2020
+
+0.6
+
+0.9
+
+0.4
+
+0.7
+
+2021
+
+2.2
+
+1.7
+
+2.0
+
+2.2
+
+2021
+
+1.0
+
+1.3
+
+0.9
+
+1.1
+
+Slovakia
+GDP growth, %
+
+Inflation, %
+
+5
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 2/2020
+
+OECD, 11/2019
+
+ECB, 6/2019
+
+2020
+
+2021
+
+2015
+
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+2.2
+
+2.7
+
+2.2
+
+3.2
+
+2021
+
+2.6
+
+2.7
+
+2.6
+
+2.8
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 2/2020
+
+OECD, 11/2019
+
+ECB, 6/2019
+
+2020
+
+2021
+
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+2.3
+
+2.1
+
+2.6
+
+2.5
+
+2021
+
+2.1
+
+2.1
+
+2.5
+
+2.3
+
+Luxembourg
+GDP growth, %
+
+Inflation, %
+
+5
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF
+
+OECD, 11/2019
+
+ECB, 6/2019
+
+2020
+
+2021
+
+2015
+
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+n. a.
+
+2.8
+
+2.8
+
+3.1
+
+2021
+
+n. a.
+
+2.7
+
+2.3
+
+3.1
+
+Czech National Bank ——— Global economic outook ——— March 2020
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF
+
+OECD, 11/2019
+
+ECB, 6/2019
+
+2020
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+n. a.
+
+1.7
+
+1.7
+
+1.6
+
+2021
+
+n. a.
+
+1.9
+
+1.8
+
+1.6
+
+2021
+
+A. —— Annexes
+
+23
+
+Slovenia
+GDP growth, %
+
+Inflation, %
+
+6
+
+4
+
+5
+
+3
+
+4
+
+2
+
+3
+
+1
+
+2
+
+0
+
+1
+
+-1
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 2/2020
+
+OECD, 11/2019
+
+ECB, 6/2019
+
+2020
+
+2021
+
+2015
+
+IMF, 10/2019
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 2/2020
+
+OECD, 11/2019
+
+ECB, 6/2019
+
+2020
+
+2021
+
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+2.5
+
+2.9
+
+3.0
+
+2.9
+
+2020
+
+1.7
+
+1.9
+
+2.4
+
+2.0
+
+2021
+
+2.7
+
+2.7
+
+3.1
+
+2.9
+
+2021
+
+1.9
+
+1.9
+
+2.3
+
+2.0
+
+Lithuania
+GDP growth, %
+
+Inflation, %
+
+5
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 2/2020
+
+OECD, 11/2019
+
+ECB, 6/2019
+
+2020
+
+2021
+
+2015
+
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+2.6
+
+2.7
+
+2.5
+
+2.5
+
+2021
+
+2.5
+
+2.5
+
+2.5
+
+2.4
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 2/2020
+
+OECD, 11/2019
+
+ECB, 6/2019
+
+2020
+
+2021
+
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+2.3
+
+2.2
+
+2.2
+
+2.3
+
+2021
+
+2.3
+
+2.2
+
+2.2
+
+2.2
+
+Latvia
+GDP growth, %
+
+Inflation, %
+
+6
+
+4
+
+5
+
+3
+
+4
+
+2
+
+3
+
+1
+
+2
+
+0
+
+1
+
+-1
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 2/2020
+
+OECD, 11/2019
+
+ECB, 6/2019
+
+2020
+
+2021
+
+2015
+
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+2.3
+
+2.8
+
+2.5
+
+3.1
+
+2021
+
+2.6
+
+2.9
+
+2.7
+
+2.9
+
+Czech National Bank ——— Global economic outook ——— March 2020
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 2/2020
+
+OECD, 11/2019
+
+ECB, 6/2019
+
+2020
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+2.3
+
+2.6
+
+2.3
+
+2.5
+
+2021
+
+2.5
+
+2.3
+
+2.3
+
+2.1
+
+2021
+
+A. —— Annexes
+
+24
+
+Estonia
+GDP growth, %
+
+Inflation, %
+
+6
+
+4
+
+5
+
+3
+
+4
+
+2
+
+3
+
+1
+
+2
+
+0
+
+1
+
+-1
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 2/2020
+
+OECD, 11/2019
+
+ECB, 6/2019
+
+2020
+
+2021
+
+2015
+
+IMF, 10/2019
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 2/2020
+
+OECD, 11/2019
+
+ECB, 6/2019
+
+2020
+
+2021
+
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+2.6
+
+2.9
+
+2.2
+
+2.1
+
+2020
+
+2.1
+
+2.4
+
+2.3
+
+3.1
+
+2021
+
+2.5
+
+2.8
+
+2.2
+
+2.0
+
+2021
+
+2.2
+
+2.3
+
+2.2
+
+2.3
+
+Cyprus
+GDP growth, %
+
+Inflation, %
+
+8
+
+2
+
+6
+
+1
+
+4
+
+0
+
+2
+
+-1
+
+0
+
+-2
+
+-2
+
+-3
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 2/2020
+
+OECD
+
+ECB, 6/2019
+
+2020
+
+2021
+
+2015
+
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+2.8
+
+2.9
+
+n. a.
+
+3.1
+
+2021
+
+2.7
+
+2.7
+
+n. a.
+
+3.2
+
+2016
+
+2017
+
+2018
+
+2019
+
+HIST
+
+CF, 2/2020
+
+OECD
+
+ECB, 6/2019
+
+2020
+
+2021
+
+IMF, 10/2019
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+0.9
+
+1.6
+
+n. a.
+
+1.3
+
+2021
+
+1.5
+
+1.8
+
+n. a.
+
+1.4
+
+Malta
+GDP growth, %
+
+Inflation, %
+
+15
+
+4
+
+12
+
+3
+
+9
+
+2
+
+6
+
+1
+
+3
+
+0
+
+0
+
+-1
+2015
+HIST
+
+2016
+
+2017
+
+CF
+
+2018
+
+2019
+
+IMF, 10/2019
+
+OECD
+
+2020
+
+2021
+
+2015
+
+ECB, 6/2019
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+n. a.
+
+4.3
+
+n. a.
+
+4.3
+
+2021
+
+n. a.
+
+3.7
+
+n. a.
+
+3.5
+
+Czech National Bank ——— Global economic outook ——— March 2020
+
+HIST
+
+2016
+
+2017
+
+CF
+
+2018
+
+2019
+
+IMF, 10/2019
+
+OECD
+
+2020
+
+2021
+
+ECB, 6/2019
+
+CF
+
+IMF
+
+OECD
+
+ECB
+
+2020
+
+n. a.
+
+1.8
+
+n. a.
+
+1.7
+
+2021
+
+n. a.
+
+1.9
+
+n. a.
+
+1.9
+
+A. —— Annexes
+
+25
+
+A5. List of abbreviations
+AT
+
+Austria
+
+IFO
+
+Leibniz Institute for Economic Research at
+the University of Munich
+
+bbl
+
+barrel
+
+BE
+
+Belgium
+
+IMF
+
+International Monetary Fund
+
+BoE
+
+Bank of England (the UK central bank)
+
+IRS
+
+Interest Rate swap
+
+BoJ
+
+Bank of Japan (the central bank of Japan)
+
+ISM
+
+Institute for Supply Management
+
+bp
+
+basis point (one hundredth of a percentage
+point)
+
+IT
+
+Italy
+
+JP
+
+Japan
+
+CB
+
+central bank
+
+JPY
+
+Japanese yen
+
+CBR
+
+Central Bank of Russia
+
+LIBOR
+
+London Interbank Offered Rate
+
+CF
+
+Consensus Forecasts
+
+LME
+
+London Metal Exchange
+
+CN
+
+China
+
+LT
+
+Lithuania
+
+CNB
+
+Czech National Bank
+
+LU
+
+Luxembourg
+
+CNY
+
+Chinese renminbi
+
+LV
+
+Latvia
+
+ConfB
+
+Conference Board Consumer Confidence
+Index
+
+MKT
+
+Markit
+
+MT
+
+Malta
+
+CXN
+
+Caixin
+
+NIESR
+
+CY
+
+Cyprus
+
+National Institute of Economic and Social
+Research (UK)
+
+DBB
+
+Deutsche Bundesbank (the central bank of
+Germany)
+
+NKI
+
+Nikkei
+
+NL
+
+Netherlands
+
+DE
+
+Germany
+
+OECD
+
+EA
+
+euro area
+
+Organisation for Economic
+Co-operation and Development
+
+ECB
+
+European Central Bank
+
+OECD-CLI
+
+OECD Composite Leading Indicator
+
+EE
+
+Estonia
+
+OPEC+
+
+EIA
+
+Energy Information Administration
+
+EIU
+
+Economist Intelligence Unit
+
+member countries of OPEC oil cartel and 10
+other oil-exporting countries (the most
+important of which are Russia, Mexico and
+Kazakhstan)
+
+ES
+
+Spain
+
+PMI
+
+Purchasing Managers' Index
+
+ESI
+
+Economic Sentiment Indicator of the
+European Commission
+
+pp
+
+percentage point
+
+EU
+
+PT
+
+European Union
+
+Portugal
+
+EUR
+
+QE
+
+euro
+
+quantitative easing
+
+EURIBOR
+
+RU
+
+Euro Interbank Offered Rate
+
+Russia
+
+Fed
+
+RUB
+
+Federal Reserve System (the US central
+bank)
+
+Russian rouble
+
+SI
+
+Slovenia
+
+FI
+
+Finland
+
+SK
+
+Slovakia
+
+FOMC
+
+Federal Open Market Committee
+
+UK
+
+United Kingdom
+
+FR
+
+France
+
+UoM
+
+FRA
+
+forward rate agreement
+
+University of Michigan Consumer Sentiment
+Index - present situation
+
+FY
+
+US
+
+fiscal year
+
+United States
+
+GBP
+
+USD
+
+pound sterling
+
+US dollar
+
+GDP
+
+USDA
+
+gross domestic product
+
+United States Department of Agriculture
+
+GR
+
+WEO
+
+Greece
+
+World Economic Outlook
+
+ICE
+
+WTI
+
+Intercontinental Exchange
+
+West Texas Intermediate (crude oil used as
+a benchmark in oil pricing)
+
+IE
+
+Ireland
+
+ZEW
+
+Centre for European Economic Research
+
+IEA
+
+International Energy Agency
+
+Czech National Bank ——— Global economic outook ——— March 2020
+
+Publisher:
+ČESKÁ NÁRODNÍ BANKA
+Na Příkopě 28
+115 03 Praha 1
+Česká republika
+Contact:
+ODBOR KOMUNIKACE SEKCE KANCELÁŘ
+Tel.: 224 413 112
+Fax: 224 412 179
+www.cnb.cz
+
+www.cnb.cz
+
+

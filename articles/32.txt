@@ -1,0 +1,1883 @@
+Global Policy Volume 12 . Issue 5 . November 2021
+
+663
+
+Cryptocurrencies and CBDC: The Route Ahead
+Marion Laboure
+Harvard University
+Deutsche Bank
+
+Abstract
+This paper aims to provide an outline of the dynamic landscape of cryptocurrencies and central bank digital currencies (CBDC)
+so as to comment about the role and prospect of both in the future. We highlight the main drivers of the ongoing digital currency wave from a socio-economic as well as historical perspective. From an investment standpoint, we evaluate the merits of
+placing a cryptocurrency within a diversiﬁed portfolio and analyse other factors to be taken into account when it comes to
+asset allocation considerations. We also explore environmental, social, and governance (ESG) implications of the introduction
+of such digital currencies. Finally, we comment on the current status of national CBDC projects and what it would mean for
+the digital currency universe when the ofﬁcial CBDC roll-outs begin in a few years.
+
+Financial innovation is a continuous process, but we appear
+to be at a particularly important moment in the evolution of
+the global ﬁnancial system (Alt et al. 2018). Money has been
+central to our lives for centuries but is still something very
+abstract. Over the centuries it has evolved from touchable
+objects (coins and, later, banknotes) to a gradually more
+‘touchless’ system – via credit cards or, increasingly, smart
+phones. The coronavirus crisis has speeded up this process
+of evolution, at least as regards the willingness of consumers
+to use electronic payments – especially in those countries
+where previously there was some reluctance. At the same
+time cryptocurrencies allow for new ways of payment.
+Central banks and governments around the world are
+doing research or experimenting with pilot projects on what
+forms central bank digital currencies (CBDC) could take.
+CBDCs are a form of digital money established by regulatory
+authorities (governments, central banks) and with a legal
+tender. This is one of the primary differentiating factors from
+the so-called cryptocurrencies which are not subject to such
+ofﬁcial, centralized control.
+While it still sounds abstract to most people, in 2020 the
+Sand Dollar project in the Bahamas became the ﬁrst live
+CBDC in the world and the digital currency electronic payment (DCEP), the potential digital Chinese currency, has
+already been tested in several pilot projects (Laboure, 2021a).
+The Chinese DCEP represents the perhaps most interesting
+and powerful project at this point in time. With a large Chinese population as potential users, the introduction of a digital currency in China could lead to an acceleration of other
+projects, as other central bankers became more worried
+
+[Article updated on 16 November 2021, after ﬁrst online publication: The corresponding author email address and article category
+are updated on this version.]
+Global Policy (2021) 12:5 doi: 10.1111/1758-5899.13017
+
+about the race for digital currency supremacy. Other digital
+currencies are also on their way to be tested via trial phases
+(e.g. the digital euro or the Swedish Krona) (BIS, 2021b).
+In the meantime, private cryptocurrencies (also interchangeably referred to as virtual currencies) have experienced a new wave of interest after the drastic sell-off in
+early 2018. Prices of the most prominent cryptocurrencies
+have risen to all-time highs during the last few months and
+established payment companies have announced that they
+will start to accept cryptocurrencies as payment. Cryptocurrencies are digital assets that use peer- to-peer networking
+and encryption – so in most cases the organizational structure is decentralized and broadly accessible, in contrast to
+the concepts underpinning central bank digital currencies
+known about so far. This architectural characteristic affects
+also the identiﬁcation process for users of CBDC and cryptocurrencies. Many cryptocurrencies are constructed as a
+token-based system providing full anonymity, on the contrary, central bank digital currencies might be introduced in
+an account-based approach tied to a digital identity to safeguard data privacy. The ﬁnal design decisions for CBDCs
+have yet to be made.
+As opposed to the planned CBDC projects, cryptocurrencies are issued by private companies and can have diverse
+business models – not limited to a currency – but similar
+underlying technologies (e.g., distributed ledgers, typically
+Blockchain) (Swan, 2015). Many of these currencies are digital tokens with no backing or intrinsic value. While the regulatory framework for these digital assets is still pending in
+most countries, many governments are also outright skeptical about the usage. Some of the key differences between a
+CBDC and cryptocurrency are summarized in Figure 1.
+In February 2021, the market capitalization of the most
+prominent cryptocurrency, Bitcoin, for the ﬁrst time exceeded
+US$1 trillion. While the most popular cryptocurrencies have
+© 2021 Durham University and John Wiley & Sons Ltd.
+
+Policy Insights
+
+Markus H.-P. M€
+uller, Gerit Heinz, Sagar Singh and Stefan K€
+ohling
+
+Figure 1. Summary of general differences between CBDC and a cryptocurrency
+
+Cryptocurrencies
+
+CBDC
+
+Decentralized
+
+Fully centralized
+Issued by a legal entity and bound
+by regulatory framework
+
+Transaction ledger kept secret
+
+Legal and regulatory framework yet
+to develop
+
+Digital vs
+Cryptocurrencies
+
+Account-based transactions
+requiring a digital identity
+
+Likely to not be
+encrypted
+
+Transaction ledger visible to all
+
+Token-based transactions
+providing full anonymity
+
+Encrypted
+
+Source: Ward and Rochemont 2019).
+
+been established for some time, new cryptocurrencies are
+also constantly entering the market and gaining prominence.
+At the time of writing, the social media company Facebook
+(with its over 2.7bn users) seems poised to introduce its own
+cryptocurrency and will thus represent a competitor to existing conventional money transfer systems (Marion Laboure,
+2020).
+In this report we outline recent drivers and speciﬁc cryptocurrency and CBDC projects, so as to comment about the
+role of both in the future. We also explore the merits of
+such a categorization and the place it holds (if any) in an
+investor portfolio. Many market participants have increasingly started to view cryptocurrencies as a new asset class.
+The introduction of more ways to invest in digital assets has
+even interested institutional investors recently. The increasing amount of crypto-linked investment vehicles, for example, exchange traded funds, derivatives or wallets will likely
+attract more money in the future. In addition, also traditional ﬁnancial institutions introduced custodian services for
+these crypto-linked assets. The more widespread and easier
+the access to crypto assets gets, the higher the likelihood of
+a further market penetration of these assets in the future.
+
+1. How did we get here?
+
+(not too dissimilar from today’s cryptocurrencies) and eventually became less and less effective. Nevertheless, many elements of the Hashcash system would work their way into
+Bitcoin’s development 10 years later (Nakamoto, 2008).
+The concepts of Blockchain and cryptocurrencies moved
+center-stage in October 2008. An author going by the pseudonym of Satoshi Nakamoto (real identity still unknown)
+posted a link to a white paper titled ‘Bitcoin: A Peer to Peer
+Electronic Cash System’ to a cryptography mailing list. This
+paper detailed how to use a peer-to-peer network to generate ‘a system for electronic transactions without relying on
+trust’. In January 2009, the Bitcoin network came into existence with Satoshi mining the genesis block of Bitcoin
+(block number zero), which had a reward of 50 Bitcoins.
+Incidentally, embedded in the creation of this block along
+with the normal data, was the following text: ‘The Times 03/
+Jan/2009 Chancellor on brink of second bailout for banks.’
+This was probably intended as proof that the block was
+created on or after January 3, 2009, as well as a comment
+on the perception at that time (early on in the Global Financial Crisis) that instability could be caused by fractionalreserve banking (i.e., conventional central banking), one of
+the factors that certainly contributed to the rising popularity
+of Bitcoin in the early days – which was to only surge in the
+years to come (Figure 2).
+
+1.1. Early days
+The groundwork for the eventual invention of a cryptocurrency was done in the 1980s. People such as David Chaum,
+Wei Dei and Nick Szabo investigated the idea of digital cash,
+but without garnering much attention globally. One of the
+ﬁrst more successful digital currencies was Hashcash, proposed in 1997 by Adam Back. It had its moment in the sun
+before it started to face increased processing power needs
+© 2021 Durham University and John Wiley & Sons Ltd.
+
+1.2. Comparison of Bitcoin with gold
+The Aztecs regarded gold as the product of Gods calling it literally ‘God excrement’ (Teocuitlatl in the Nahuatl language).
+The practice of using gold coins as money (along with other
+precious metals) was ﬁrst documented around the 6th century BC. Gold coins remained important for many centuries
+until the mid-1800s, when many countries began shifting
+Global Policy (2021) 12:5
+
+17585899, 2021, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1758-5899.13017 by R M I T University Library, Wiley Online Library on [10/05/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Marion Laboure et al.
+
+664
+
+665
+
+Figure 2. Interest in Bitcoin as gauged by volume of Google searches
+Note: Y-axis score is Google Trends calculation of topic’s proportion to all searches on all topics, scored from 0 to 100.
+
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+Source: Google Trends data, Deutsche Bank AG, June 2021.
+
+away from the use of actual gold currency in favor of a system
+known as the ‘gold standard’ (i.e., trying to express the value
+of their paper currencies in terms of gold). This then made
+way for the post-war Bretton Woods agreement under which
+many countries agreed to keep their currencies pegged to the
+Gold. The Bretton Woods system however lasted until 1971
+when the US$ to gold convertibility was discarded by the US
+to manage its deteriorating balance of payments. This gave
+rise to the modern ﬁat currencies (i.e., government decreed
+money with no intrinsic value as such).
+So, what lent gold the status of money and value
+throughout history? One could argue that gold’s implicitly
+inert nature (stocks mined thousands of years ago still exist
+in usable form), its limited but sufﬁcient supply (approximately 190,000 metric tons have been mined to date with
+50,000 metric tons still in reserves), its divisibility while
+retaining value (unlike diamonds), its purity parameters (impossible to counterfeit) and a degree of evergreen utility
+(decorative ornaments and jewelry and now even in electronics and dentistry), have all meant that it has earned the
+trust of humanity over millennia.
+However, one of the major disadvantages of gold as currency (vs. ﬁat) has been in the mitigation of economic recessions because it hinders the ability of a government to
+increase its money supply (as this will depend on gold holdings in a gold-based system). Such monetary expansion has
+been a tool many central banks have relied upon to help
+boost economic growth.
+In some ways, Bitcoin can be seen as the digital counterpart
+to gold, as was recently referenced by former US Treasury Secretary, Lawrence Summers. Like gold, Bitcoin is ﬁnite and
+must be obtained through mining – although, while gold is
+obtained through physical mining, Bitcoins must be ‘mined’
+virtually through the deciphering of special computer
+Global Policy (2021) 12:5
+
+encryptions. Currently, around 18.5 million Bitcoins have been
+mined; this leaves less than 3 million that have yet to be introduced into circulation. In fact, different supply characteristics
+(the Bitcoin mining reward rate halves every 4 years) means
+that Bitcoin can in some senses be regarded as ‘more ﬁnite’
+than gold whose mining speed has been increasing over centuries. It is a decentralized asset meaning no government controls supply – again similar to gold. Given such similarities and
+their individual market activity over the past few years, it is
+understandable why many believe that Bitcoin could ultimately replace gold as a store of value (Morgan, 2021).
+However, in spite of the above similarities, there are a
+number of reasons why it might be inappropriate to compare the two. Bitcoin has indeed grown more robust with
+the passage of time and given it behaves essentially as a
+communication protocol thus beneﬁting from network
+effects (the more people use it, the more valuable it
+becomes). Nevertheless, the greatest risk remains that of
+security and store of value. While the limited supply does
+ensure that its decentralized nature and utility lends Bitcoin
+some value, who is to say that – even as the underlying
+need for decentralized currency remains – a newer more
+advanced technology will not simply replace it?
+In addition, while gold has long been a well-accepted
+reserve asset, will regulators and governments similarly tolerate a parallel currency such as Bitcoin which they cannot
+control, risking macroeconomic instability and potentially
+facilitating ﬁnancial crimes (money laundering, terrorist
+ﬁnancing, etc.)? Many sovereign governments already have
+cryptocurrencies on their regulatory agenda as a key priority
+and are in the process of coming up with own versions of
+digital currencies.
+Another argument against Bitcoin is that, despite its
+recent peaks in market value, it continues to experience
+© 2021 Durham University and John Wiley & Sons Ltd.
+
+17585899, 2021, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1758-5899.13017 by R M I T University Library, Wiley Online Library on [10/05/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Cryptocurrencies and Central Bank Digital Currencies
+
+signiﬁcant price ﬂuctuations that may challenge its claim to
+be a reliable store of value. One reason behind this high
+volatility is the low liquidity of cryptocurrencies: limited
+amounts are available to buy or sell, as shown in Figure 3.
+Of course, nothing is perfect: gold showed a similar level of
+volatility for a period when it was freely traded after the
+abolition of the Bretton Woods system, as shown in Figure 4. However, until its volatility truly subsides, it is difﬁcult
+to say if Bitcoin will indeed go the same way.
+
+can be interpreted as a way of investing in assets that are
+widely unregulated and cannot be controlled by central
+bankers or politicians. In many cases these cryptocurrencies
+are ﬁnite, that is, have a limited number of coins to be
+issued in the future, which make them not randomly
+expandable (unlike ﬁat currency), so they are perceived to
+have some form of intrinsic inﬂation protection. As central
+banks around the world have massively expanded their balance sheets in the aftermaths of the global ﬁnancial crisis
+(GFC) and the coronavirus crisis, worries (rightly or wrongly)
+about a possible surge in consumer price inﬂation have
+risen signiﬁcantly – making traditional money less attractive
+to some. The storage advantage of cryptocurrencies may
+also be a driver of some investors’ interest: storing money in
+
+1.3. What fueled the cryptocurrency and CBDC wave?
+The forces behind the development of cryptocurrencies can
+be seen from various angles. Investments in cryptocurrencies
+
+Figure 3. Bitcoin daily transaction volumes are still much lower than for gold and many commodities
+
+Bitcoin
+Henry Hub
+Corn
+Gasoline
+Gasoil
+Soybeans
+Iron Ore
+Copper
+Brent
+WTI
+Gold
+
+Daily volume (Jun 2021, USD bn)
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+Source: Bloomberg Finance L.P., Deutsche Bank AG. Note: As of June 2021.
+
+300%
+
+Bitcoin (RHS, rescaled)
+
+80%
+
+250%
+70%
+
+Gold (LHS)
+200%
+
+60%
+50%
+
+150%
+40%
+100%
+
+30%
+20%
+
+50%
+10%
+0%
+2019
+
+2017
+
+2015
+
+2013
+
+2011
+
+2009
+
+2007
+
+2005
+
+2003
+
+2001
+
+1999
+
+1997
+
+1995
+
+1993
+
+1991
+
+1989
+
+1987
+
+1985
+
+1983
+
+1981
+
+1979
+
+0%
+
+Realized 60D volatility, annualized (%)
+
+90%
+
+1977
+
+Realized 60D volatility, annualized (%)
+
+Figure 4. Bitcoin is not the only volatile asset class: remember gold in the 1970s
+Note: Historical 60 days rolling volatility (annualized) for gold (LHS) and Bitcoin (RHS).
+
+Source: Bloomberg Finance L.P., Deutsche Bank AG. As of June 2021.
+
+© 2021 Durham University and John Wiley & Sons Ltd.
+
+Global Policy (2021) 12:5
+
+17585899, 2021, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1758-5899.13017 by R M I T University Library, Wiley Online Library on [10/05/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Marion Laboure et al.
+
+666
+
+unregulated wallets consisting of digital assets can be interpreted as one way of expressing skepticism about local
+authorities.
+One other driving factor behind interest in cryptocurrencies is the perceived payment advantage of transactions
+which are settled digitally. While in many countries crossborder transactions are expensive and take time, cryptocurrencies could be associated with a faster and efﬁcient way
+of transferring money from one account to another, especially when it comes to transnational transactions (Ye et al.
+2019), as most of them are based on blockchain technology
+which would not require a ﬁnancial intermediary. The Single
+Euro Payments Area (SEPA) initiative is one example of an
+approach to improve the efﬁciency of cross border euro
+payments within Europe. In that sense cryptocurrencies
+would greatly beneﬁt from network effects. The more people use it, the more valuable it becomes (Laboure, 2021b).
+This is especially true for emerging market and developing
+countries where payment systems may not be that efﬁcient
+and a signiﬁcant part of the population has no broad access
+to traditional ﬁnancial services.
+From a portfolio construction point of view, the continued
+demand for cryptocurrencies may also be explained from a
+valuation of other assets standpoint (Morgan, 2021). After
+decades of falling ﬁxed income rates and record high valuations for equity markets from many metrics, there are questions around how long this can all be sustained. As
+investors look for proﬁtable future investments, shifting
+towards these digital assets could be seen as a way of diversifying return sources. Recent research papers suggest that
+an allocation towards cryptocurrencies could offer beneﬁts
+in that returns are low correlated to other asset classes. In
+that sense an investment in cryptocurrencies could diversify
+a portfolio’s risk-return proﬁle. The fact that entry barriers
+for unexperienced investors to invest in cryptocurrencies
+because of lower regulation compared to traditional ﬁnancial assets are rather low has contributed to the general
+surge in interest. In the past ﬁve years, the number of Blockchain wallets has multiplied by nearly six, growing from 11
+million in 2016 to 63 million in 2020.
+Technological progress has enabled multiple digital payment possibilities through smartphones and computers during the last decade and has acted as another driving force
+behind the rise of digital cryptocurrencies (Gomber et al.
+2017). In some countries, the big tech companies have
+taken advantage of their powerful positions and have created ways of transferring money through their own channels. One of the most prominent examples is the planned
+initiative from Facebook which we describe below.
+However, the ongoing evolution of private cryptocurrencies still has its limits. One speciﬁc factor behind rapid
+recent price gains has been illiquidity. Price jumps have
+occurred after announcements by some big companies that
+they either want to invest in cryptocurrencies or start cooperating in their development and uses. In that sense, cryptocurrency prices may, at least in the short term, be largely
+determined by the actions or statements of a few asset
+managers and ultra-high net worth individuals.
+Global Policy (2021) 12:5
+
+At the same time, central banks have not stood idly by.
+The monopoly of money creation and management has traditionally laid in the hands of central banks (or monetary
+authorities) in most countries. Naturally, they are interested
+in keeping a control on what constitutes money in order to
+effectively manage economy. In that sense accelerated central bank research and experimenting activity around CBDC
+can be interpreted as a reaction on the development and
+evolution of private cryptocurrencies and the various private
+payment providers. Central banks want to establish an alternative state-of-the-art payment solution. Central banks and
+governments also want to address the problem of expensive
+cross-border transactions (BIS, 2020). With issuance of
+CBDCs, money transfers could be improved in terms of efﬁcacy and cost (within and between countries) thereby facilitating access to ﬁnancial services for all citizens.
+Furthermore, in a world of declining cash use, the demand
+for digital payment solutions has anyway grown steadily. In
+addition, the coronavirus pandemic has shown, that even
+cash- loyal populations, like Germany’s, have dramatically
+shifted their payment behavior from cash to digital variants,
+which may help pave the way for a broad acceptance
+throughout the population of a truly digital currency.
+The development of central bank digital currencies could
+also play an important role in a geopolitical context. The
+Chinese DCEP initiative for instance has been launched
+much ahead of other countries and lends support to the
+narrative of China’s rise as an economic powerhouse. Figure 5 shows the historical timeline of the rise and fall of various global reserve currencies throughout history. If history
+is to repeat itself, the contenders for a new global currency
+may not be limited to just virtual currencies vs. US$ but also
+about who has the ﬁrst movers’ advantage in adopting a
+fully functional CBDC in an increasingly digital world.
+
+2. Investing in cryptocurrencies
+After the price collapse seen in early 2018, 2020 may have
+marked a turning point for cryptocurrencies, as shown in
+Figure 6. Several reached new all-time highs and kept rising
+in price during the ﬁrst months in 2021. As cryptocurrencies’
+total market capitalization has increased over the past
+months, it has been attracting more interest from an investment, valuation or regulation standpoint. Rapid price movements are not uncommon for new asset classes that are
+entering the ﬁnancial system. Since cryptocurrencies have a
+comparably short history, it cannot be said with certainty
+that they represent a new asset class. The evidence from
+correlations, and clear economic utility now is simply too
+weak to make such a statement.
+We elaborate in the following sections on how we see
+cryptocurrencies in the context of investing and what kind
+of metrics can be used to value cryptocurrencies. Rising
+investor interest also makes regulators keener on building a
+regulatory framework for digital assets. In the last section,
+we provide an overview about the recent developments
+regarding these national regulations. After that, we give an
+overview over the planned stable coin initiative by Facebook
+© 2021 Durham University and John Wiley & Sons Ltd.
+
+667
+
+17585899, 2021, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1758-5899.13017 by R M I T University Library, Wiley Online Library on [10/05/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Cryptocurrencies and Central Bank Digital Currencies
+
+Figure 5. Approximate dates for global reserve currencies in the last 500 years
+
+Source: Opdyke (2020).
+Figure 6. Price evolution of Bitcoin
+
+2021: New high. Tesla
+announced USD 1.5bn
+investment in BTC in Feb
+2021. Paypal announced in
+October 2020 to support
+BTC, ETH, BCH and LTC
+
+70000
+60000
+
+Bitcoin price ($)
+
+50000
+40000
+30000
+20000
+
+2015-19: Over $1
+billion was invested in
+bitcoin and
+blockchain startups
+
+2017: Bitcoin
+surged to an all
+me high
+
+10000
+0
+2015
+
+2016
+
+2017
+
+Libra was
+formalled
+announced on
+June 18, 2019
+2018: Bitcoin’s
+value dropped
+by 2/3
+
+2018
+
+2019
+
+Bitcoin's
+value is
+back to
+the level
+seen
+January
+2020
+
+2021
+
+Source: Bloomberg Finance L.P., Deutsche Bank AG, August 2021.
+
+in an extra box, which is about to be issued in the near
+future.
+2.1. Cryptocurrencies as an asset class
+As cryptocurrency prices have increased during the last
+months, some institutional investors have begun to consider
+investing in these digital assets. A few recent major inﬂows
+into institutional funds may support the argument that more
+than retail enthusiasm lies behind recent price movements.
+As the previous section has discussed, some investors see
+in cryptocurrencies possible similarities to gold. From a
+© 2021 Durham University and John Wiley & Sons Ltd.
+
+portfolio diversiﬁcation standpoint there is some evidence
+that, especially during recent bull markets, the performance
+of some cryptocurrencies (Bitcoin as a prominent example
+here) has been broadly uncorrelated with risky assets (e.g.
+equities) and this has led some investors to believe that
+they could provide portfolio diversiﬁcation beneﬁts.
+However, such a thesis should be treated with great caution. The realized volatility of, for example, Bitcoin remains
+very high (more than ﬁve times that of gold) as shown in
+Figure 7. Note also that in tail-risk events, like the start of
+the coronavirus pandemic, cryptocurrency prices plummeted
+and their correlation to risky assets rose signiﬁcantly.
+Global Policy (2021) 12:5
+
+17585899, 2021, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1758-5899.13017 by R M I T University Library, Wiley Online Library on [10/05/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Marion Laboure et al.
+
+668
+
+669
+
+Realized 7D volality, annualised (%)
+
+Figure 7. Bitcoin is more volatile than all other traditional assets (based on rolling weekly returns)
+
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+Bitcoin
+
+Gold
+
+Global Equies
+
+USD IG bonds
+
+USD HY bonds
+
+Annualized volality (weekly returns)
+Source: Bloomberg Finance L.P., Deutsche Bank A.G., August 2021.
+
+Some institutional investors’ accumulation of Bitcoin has
+become a problem in itself, exacerbating problems associated with matching ﬁxed supply with demand, especially in
+times of crisis, making large price ﬂuctuations more probable. And with more capital from institutional investors ﬂowing into cryptocurrencies, high volatility will likely remain a
+risk in future.
+So, compared to gold which has demonstrated ‘safe
+haven’ characteristics during periods of market turbulence,
+cryptocurrencies have behaved differently. From a portfolio
+construction perspective any allocation towards cryptocurrencies would therefore take more of the risk budget than
+gold.
+Set against this, with the growing supply of investment
+vehicles (from wallets to futures to large scale ETFs and
+funds) cryptocurrencies will likely attract more money from
+both institutional and retail investors, which could diversify
+the market. Even traditional ﬁnancial institutions are now
+providing custody services for digital assets. The easier the
+access to digital assets gets, the more investors will allocate
+some portion of their funds into cryptocurrencies.
+2.2. Valuation perspective
+Despite all the excitement around new price highs and the
+news ﬂow around corporate interest, signiﬁcant challenges
+remain for the investors approaching the cryptocurrency
+market. For starters, the quality of information is poor. Even
+basic data such as accurate trading volume is hard to come
+by, valuations measures are largely untested and are rarely
+published in peer-reviewed journals.
+While several economists have widely regarded the present cryptocurrencies bull-run as a bubble – there are many
+on the other side who regard it more as a fragile equilibrium with supply/demand determining fair value – albeit in
+a volatile fashion. So is it really a bubble? An economic or
+Global Policy (2021) 12:5
+
+asset bubble as per Nasdaq is deﬁned as: ‘Bubble: A market
+phenomenon characterized by surges in asset prices to
+levels signiﬁcantly above the fundamental value of that
+asset’.
+Clearly without knowing their fundamental intrinsic value
+(if any) there is no way (at least on this deﬁnition) to ascertain if this is in fact a bubble. At the same time there is still
+a great debate on whether cryptocurrencies are even worthy of being called a currency or are in fact more similar to
+a commodity – or perhaps they classify merely as a network,
+and nothing else. Given all the ambiguity, valuation techniques are also still untested and evolving, but below we
+introduce the six most widely-used cryptoasset valuation
+attempts, based on – Total addressable market, Equation of
+change, Network value, Cost of production, Stock-to-ﬂow
+and Option pricing (Hougan and Lawant, 2021):
+1. Total addressable market: this valuation is based on the
+assumption that cryptocurrencies are competing with
+another assets like US$ or gold for total addressable
+market.
+2. Equation of exchange (MV = PQ): the equation is borrowed from traditional models of valuing currencies and
+is based on the assumption that a currency’s value is
+related to the size of the market (M) it supports and to
+its velocity (V) as it moves through that market. (P represents prices and Q an index of real expenditure on
+newly-produced goods and services.)
+3. Valuing as a network: borrowed from ‘Metcalfe’s law,’ it
+values the cryptocurrency as a network with this value
+increasing by more than the linear increase in the number of users.
+4. Cost of production valuation: this theory holds that
+crypto, just like any commodity, is subject to traditional
+pricing challenges on the supply side. As a result, the
+value can be estimated by examining the marginal cost
+© 2021 Durham University and John Wiley & Sons Ltd.
+
+17585899, 2021, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1758-5899.13017 by R M I T University Library, Wiley Online Library on [10/05/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Cryptocurrencies and Central Bank Digital Currencies
+
+of mining (speciﬁcally, the electricity burned in running
+the computations as part of mining).
+5. Stock-to-ﬂow model: the stock-to-ﬂow model states that
+prices are a reﬂection of their scarcity and that scarcity
+can be measured by the stock-to-ﬂow ratio, that is, in this
+case, the relationship between the extant value of old
+cryptocurrencies and the amount of new cryptocurrencies being produced each year.
+6. Option-pricing models: the option pricing model (OPM)
+has also been used to determine a probabilistic intrinsic
+value for assets as derived using the prices of over-thecounter and exchange traded option contracts. However,
+extremely low liquidity of cryptocurrency options and
+lack of a central settlement poses considerable challenges.
+2.3. Regulation – more governments will contain
+cryptocurrencies
+Until recently, regulators and authorities have been reluctant
+to move too fast into the cryptocurrency space because there
+has been a lot of innovation. This allowed the ﬁnancial sector
+to innovate. Competition and innovation are usually positively correlated. But governments are unlikely to relinquish
+their monetary monopolies. As Bitcoin or other private cryptocurrencies start to seriously compete with regular currencies and ﬁat currencies, government currencies, regulators/
+policymakers are expected to crack down at some point.
+In the end, regulating cryptocurrencies is not that difﬁcult.
+The Bank for International Settlements (BIS), the G7, and the
+G20 are all keeping a close eye on cryptocurrencies. The latter part of 2021 and early 2022 could be a turning point for
+cryptocurrencies around the world. Regulators have cryptocurrencies on their agenda as a key priority. Several steps
+in this direction have already been taken.
+For example, following a comprehensive market consultation in early 2020, the EU proposed a single regulation for
+all crypto-assets including cryptocurrencies that were not
+already governed by existing regulations (e.g. MiFID II). The
+new regulation, which is called the Markets in Crypto-Assets
+Regulation (MiCAR), is expected to take effect by the end of
+this year or early next. The US government has taken
+numerous regulatory actions since early 2019, such as the
+Framework for Digital Assets. The new Biden administration
+is expected to establish a collaborative and uniﬁed strategy
+to adjust the existing comprehensive regulatory framework
+and establish new regulations as needed to provide legal
+certainty.
+In China, the People’s Bank of China (PBOC) stated in May
+that a virtual currency ‘is not a real currency’ and ‘should
+not and cannot be used as currency in the market’. But
+again, there is nothing new here. Back in 2017, in response
+to peaks in Bitcoin’s value, the Chinese government
+increased its already strict scrutiny over cryptocurrencies
+and closed the country’s Bitcoin exchange where most global trading was taking place. In October 2020, while piloting
+the national digital currency, the PBoC outlawed the issuance of private digital currencies for the time being while
+© 2021 Durham University and John Wiley & Sons Ltd.
+
+continuing to review developments and necessary regulatory responses.
+2.3.1. The libra/Diem case study
+From an architectural standpoint of CBDCs it is still unclear
+if central banks would prefer a decentralized over a centralized governance system (BIS, 2021a). Despite all the advantages a decentralized Blockchain-based CBDC would offer,
+there are serious governance concerns if the responsibility
+for maintenance and supervision were not centrally determined. On the other hand, Libra (later renamed Diem) cryptocurrency was an example of a centralized, cryptocurrency
+launched by Facebook along-with the Libra association.
+In June 2019, Facebook announced a plan to launch its
+Libra cryptocurrency in early 2020, which has since been
+postponed to this year. With over 2.7 billion users, or onethird of the world’s population, Facebook’s planned cryptocurrency has the potential to compete with traditional
+online payment platforms and advance digital currencies
+into the mainstream. Facebook’s announcement about libra
+made central banks nervous.
+The two biggest initial problems with Libra were: (1) to
+create a competing global currency by pegging Libra to a
+basket of currencies; and (2) the resulting risk that governments would lose control of their money supplies and regulatory authority.
+When the Libra project was unveiled in June 2019, Facebook described it as a futuristic global currency that could
+serve as the foundation for a new kind of ﬁnancial system.
+But in January 2020, the project scaled back. Libra dropped
+the idea of a mixed currency basket in favor of using
+‘stablecoins’ pegged to individual currencies.
+Facebook has adapted its project to jump regulatory hurdles. The revised version of Libra is less audacious and less
+controversial than the original project presented in June
+2019. This major shift allowed Facebook to address the main
+objections of regulators and central bankers. As a result, the
+product now focuses on reducing the cost of payments,
+rather than competing with governments and central banks
+by creating a parallel means of payments. In other words,
+Facebook is not planning to create a competitor currency to
+the dollar; instead, they hope to compete with traditional
+ways of paying in dollar.
+
+3. CBDC – where are we right now?
+While cryptocurrencies have seen a surge in interest, central
+banks have increasingly been working on developing the
+issuance of their own digital currencies. The timeline of the
+various national CBDC projects is show in Figure 8. The motivations to issue a general-purpose central bank digital currency (CBDC) are numerous: ﬁnancial stability, monetary
+policy implementation, ﬁnancial inclusion, payments efﬁciency (domestic and cross-border), and payment security.
+Among advanced economies, the primary motivation for
+developing a CBDC is to improve payment security. Emerging
+economies generally may have wider array of motivations,
+especially when a CBDC is designed to complement or
+Global Policy (2021) 12:5
+
+17585899, 2021, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1758-5899.13017 by R M I T University Library, Wiley Online Library on [10/05/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Marion Laboure et al.
+
+670
+
+Figure 8. Timeline of CBDC research and experiments in various countries
+
+Source: Deutsche Bank AG, various websites, Goldman Sachs. Data as of April 2021.
+
+substitute cash. From an architectural standpoint of CBDCs it
+is still unclear if central banks would prefer a decentralized
+over a centralized governance system (BIS, 2021a). Furthermore, Central banks are faced with myriad of design choices
+– Retail vs Wholesale CBDC? Token vs Account-based CBDC?
+Many central banks are currently measuring suitability
+according to their own unique economic situation. While
+Wholesale would not be too different from current system
+(restricting CBDC access to ﬁnancial institutions), a more farreaching innovation is indeed thought to be that of Retail
+CBDC. If implemented, it can drastically modify the conventional two-tier monetary system in that they make CBDC
+directly available to general public. Additionally, it is likely
+that central banks resort to an Account-based approach (over
+Token-based) tied to a digital identity. This approach would
+be more in-tune with the objectives of monitoring illicit activities while still having a provision to allay individual privacy
+concerns. Whatever be the choice of design, we believe central banks should not attempt to overtake the ﬁnancial intermediation function from the private sector intermediaries in
+either case. Direct CBDCs would imply a large shift of operational tasks (and costs) associated with user-facing activities.
+Most of the operational tasks should continue to be delegated to private players like commercial banks and non-bank
+payment service provider – which will ensure a smooth transition from current system.
+While most of the CBDC projects are still in their research
+phase, some governments have already made further progress, for example,, the Bahamas launched its Sand Dollar
+(the ﬁrst digital currency in the world) in 2020. According to a
+recently published survey from the Bank for International Settlements (BIS) more than 60 per cent of central banks are
+
+Global Policy (2021) 12:5
+
+engaged in practical experimental work. The BIS predicts that
+central banks representing a ﬁfth of the world’s population
+will issue general-purpose CBDCs in the next three years.
+After the Bahamas, China’s plans to issue a truly digital
+currency are also advanced. Since 2014, the PBoC of China
+has been working on a digital Yuan with a dedicated effort
+to establish and strengthen it. It is clear that China’s targeted regulatory actions are designed to support the launch
+its digital currency (CBDC). China also recently announced
+that they will continue to experiment with its CBDC in more
+cities this year. The PBoC has not yet revealed a speciﬁc
+timeline for its ofﬁcial Digital Currency/Electronic Payment
+(DC/EP) rollout, but the government aims to have its CBDC
+ready for widespread use in time for the Beijing Winter
+Olympic Games in February 2022. In the Eurozone, the ECB
+will decide by about mid-2021 whether to launch a digital
+euro (ECB, 2020a, 2020b). ECB president Lagarde has stated
+it will take time (approximate ﬁve years) but the probability
+of an introduction of a digital euro in the future is high. In
+the U.S., the Federal Reserve Chairman, Jerome Powell, stated the need for further work and ‘extensive’ public consultation with stakeholders before deciding to issue a CBDC.
+Fed Chair Powell has said that the central bank is not concerned with not being ﬁrst in the CBDC race while adding
+that the U.S. dollar’s status as the world reserve currency
+already gave it a ‘ﬁrst-mover advantage’.
+
+4. ESG perspectives
+Another dimension which needs to be considered is the
+environmental, social, and governance (ESG) implications of
+cryptocurrencies and CBDC. The energy consumption
+© 2021 Durham University and John Wiley & Sons Ltd.
+
+671
+
+17585899, 2021, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1758-5899.13017 by R M I T University Library, Wiley Online Library on [10/05/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Cryptocurrencies and Central Bank Digital Currencies
+
+associated with cryptocurrencies has been particularly ESG
+contentious (Krause and Tolaymat, 2018), but social and
+governance aspects need to be considered too, either by
+investors or by ofﬁcial authorities considering issuing a central bank digital currency. We discuss some relevant ESG
+points below.
+
+now to draw conclusions about them from an environmental perspective. But many central banks (e.g. the ECB) are
+increasingly concerned about their environmental impact
+too and would therefore likely weigh their decisions cautiously in this regard.
+4.2. Social
+
+4.1. Environmental
+The environmental implications of private cryptocurrencies
+are complex. The underlying design architecture underpinning the most prominent private cryptocurrencies, the
+Blockchain, is computation-intensive and requires large
+€rfer et al. 2020). There is research evienergy input (Gallersdo
+dence that the mining process consumes more energy than
+mineral mining of copper, aluminium or gold to produce an
+equivalent market value. In the case of Bitcoin, the energy
+consumption has risen dramatically throughout the years
+and is now as large as the annual electricity consumption of
+whole countries, as shown in Figure 9. With increases in the
+cryptocurrency market valuation the energy use increases
+proportionally – a problem that has only accelerated with
+the most recent price jumps.
+On the other hand it is important to understand that
+energy consumption, per se, is not an issue in the context
+of climate change. Clean energy production such as wind
+and solar produce energy without emitting greenhouse
+gases and are therefore carbon-neutral. In addition, many
+new crypto projects have been incorporating these concerns
+by implementing a different concept in building their speciﬁc Blockchain (moving from the so called proof-of-work to a
+proof-of-stake approach). The proof-of-stake concept makes
+transactions much faster, thereby consuming less energy
+and making the use of cryptocurrencies more scalable.
+For most CBDC projects the eventual underlying technology is still under review, hence it may be premature right
+
+The social aspects of cryptocurrencies are also ambiguous.
+The implications of high price volatility and the accompanying potential for major investor losses should not be underestimated. As the transactions proceed in gray areas that
+are not properly regulated, the risk of price manipulation is
+also high (Grifﬁn and Shams, 2020). Another issue for cryptocurrency users arises from the identiﬁcation of their digital
+asset accounts (the so called ‘wallets’). The advantage of
+removing a settlement institution in terms of reducing transaction costs can easily turn into a disadvantage if accounts
+are hacked or passwords are forgotten, with possible consequences for the individual’s wealth. There are lots of existing
+examples from the past where a signiﬁcant number of
+crypto assets have been stolen or ‘lost’.
+For CBDC, the social perspectives – especially in emerging
+economies – are associated with the potential beneﬁt of
+ﬁnancial inclusion of unbanked people who have no or only
+limited access to ﬁnancial services (Fatas, 2019). The global
+spread of smartphones and the associated access to online
+services would make it easier to set up a digital currency
+account, which could be provided either by a central bank
+or by private organizations. This argument is particularly
+true in emerging and developing countries, where the ﬁnancial infrastructure is not as advanced as in developed countries and setting up a bank account could require a regular
+stream of income (Hasan et al. 2020). But it is possible to
+make this argument the other way around too: the widespread use of digital money would put that part of a society
+
+Figure 9. Country ranking, annual electricity consumption
+
+Twh per year
+
+Bitcoin
+
+China
+US
+India
+Russia
+Japan
+Brazil
+Canada
+South Korea
+Germany
+France
+Saudi Arabia
+United Kingdom
+Italy
+Mexico
+Indonesia
+Iran
+Turkey
+Spain
+Australia
+Taiwan
+Vietnam
+South Africa
+Thailand
+Poland
+Egypt
+Malaysia
+Sweden
+Ukraine
+Argentina
+Norway
+Pakistan
+Bitcoin
+UAE
+Netherlands
+Philippines
+Kazakhstan
+Finland
+Belgium
+Chile
+Bangladesh
+Colombia
+Austria
+Venezuela
+Czechia
+Algeria
+Kuwait
+Israel
+Switzerland
+Romania
+Greece
+Uzbekistan
+Portugal
+Singapore
+Peru
+HongKong
+Iraq
+Qatar
+Hungary
+New Zealand
+
+7000
+6000
+5000
+4000
+3000
+2000
+1000
+0
+
+Source: University of Cambridge (2021).
+© 2021 Durham University and John Wiley & Sons Ltd.
+
+Global Policy (2021) 12:5
+
+17585899, 2021, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1758-5899.13017 by R M I T University Library, Wiley Online Library on [10/05/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Marion Laboure et al.
+
+672
+
+without any electronic device and cash-dependent at an
+even greater disadvantage if digital money were to replace
+cash, either explicitly or implicitly.
+4.3. Governance
+There are several governance concerns associated with the
+use of private cryptocurrencies. As cryptocurrencies were in
+the past used for criminal activity including tax evasion,
+their further rise and spread could also indicate that illegal
+activity in the dark web will increase. Possibly, with further
+increases in the relative importance of cryptocurrencies in
+some areas a shadow banking system could evolve where
+the government loses control over the monopoly of money
+and regulation. This would be a development that central
+banks would want to avoid, as this situation would imply
+that their policy decisions would have less inﬂuence on the
+economy.
+From a governance perspective the introduction of CBDCs
+(as opposed to cryptocurrencies) in combination with the
+use of the Blockchain technology would bring several beneﬁts: the existing risks of governance deﬁcits could be
+reduced by the better transparency and traceability of CBDC
+transactions. These characteristics could also help governments or central banks to have greater control over money
+transfers to citizens and companies. Money transfers could
+be combined with a certain purpose or linked with so-called
+‘smart contracts’ (self-executing contracts with the terms of
+the agreement between buyer and seller being directly written into lines of code). In other words monetary and ﬁscal
+policy could be much more targeted and thereby efﬁcient.
+Tax evasion, criminal activity or the ﬁnancing of terrorism
+would also be made more difﬁcult.
+The Blockchain technology could also be used for
+purpose-oriented ﬁnancing for example in the context of
+ESG bonds (Tapscott et al. 2016). First trials in Canada
+worked as an example how the Blockchain can be set up to
+offer unprecedented levels of transparency and trust allowing public records to be searched, veriﬁed and audited. The
+introduction of CBDC could mean that public and corporate
+bonds can be linked easier to speciﬁc purposes and thereby
+enhancing accountability. But as noted above decisions
+regarding the underlying technology of many CBDC projects
+have not been made yet and therefore, these associated
+governance beneﬁts should only be treated as theoretical
+for the moment.
+
+5. Conclusion: sustainable innovation or shortterm experiment?
+We think it is highly likely that private cryptocurrencies (in
+some form) will stay with us for the foreseeable future. Once
+we see some stability in terms of price ﬂuctuations, the use
+of cryptocurrencies for the exchange of goods and services
+goods could increase as long as central banks have not
+introduced their own digital currencies. However, a lot of
+progress still needs to be made when it comes to allaying
+concerns regarding energy efﬁciency, transaction speed,
+Global Policy (2021) 12:5
+
+identiﬁcation issues and regulation before private sector
+cryptocurrencies can have mainstream acceptance.
+While it would be inappropriate to compare cryptocurrencies like Bitcoin to gold, for the reasons discussed above,
+they do exhibit some similarities making the popular label
+‘digital gold’ not completely wide of the mark. However,
+from a robustness and store of value standpoint, while gold
+has proven itself over thousands of years, it is far too early
+in the day for cryptocurrencies to merit such a comparison.
+Cryptocurrencies are also far from a mainstream asset class
+as of now. Nevertheless, with major players like PayPal and
+Facebook likely to jump onto the cryptocurrency
+bandwagon they are increasingly being discussed in an
+investment context. Given cryptocurrencies’ correlation characteristics, they are often touted as an important investment
+vehicle especially in terms of portfolio diversiﬁcation or as
+an inﬂation or tail-risk hedge – although these arguments
+need to be treated with caution. For cryptocurrencies to
+attain true mainstream acceptance in traditional portfolios,
+markets for them would need to become much more liquid
+than they are currently.
+Even from a valuation perspective, techniques are still
+untested and evolving. We summarized the six most
+widely-used cryptoasset valuation attempts (Hougan and
+Lawant, 2021), however none of them has achieved any
+major acceptance as there continues to be a great debate
+on what role cryptocurrencies are currently serving in society – currency, commodity, network or a mere speculative
+asset?
+At the same time, the widespread introduction of CBDC is
+expected to follow with a lot of major countries taking the
+lead already. But the roadmap to CBDC execution is
+expected to be a long drawn-out one. Governments would
+need to consider all the socioeconomic, technological and
+regulatory aspects of such a move before an issuance can
+take place for the fear of generating an unwanted ﬁnancial
+disruption and social backlash (Lee et al. 2021). While it is
+still uncertain which architecture central banks would eventually adopt for introduction of CBDCs, we believe central
+banks should not attempt to overtake the ﬁnancial intermediation function from the private sector intermediaries in
+either case. To ensure smooth transition from the current
+monetary system, most of the operational tasks should continue to be delegated to private players like commercial
+banks and non-bank payment service providers. The adoption rate of a truly digital currency within societies could
+ultimately be dependent on the preference between privacy
+vs. convenience. Digital currency transactions, albeit convenient, can be traced by CBDC as opposed to cash and
+tokens which ensure anonymity. From an architectural
+standpoint of CBDCs it is still unclear if central banks would
+prefer a decentralized over a centralized governance system
+(BIS, 2021a). Despite all the advantages a decentralized
+Blockchain-based CBDC would offer, there are serious governance concerns if the responsibility for maintenance and
+supervision were not centrally-determined.
+From an ESG perspective, energy consumption associated
+with cryptocurrencies has been particularly contentious
+© 2021 Durham University and John Wiley & Sons Ltd.
+
+673
+
+17585899, 2021, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1758-5899.13017 by R M I T University Library, Wiley Online Library on [10/05/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Cryptocurrencies and Central Bank Digital Currencies
+
+(Krause et al. 2018), even though supporters claim a large
+part of the energy used is renewable in nature and should
+go down with time as incentive to mine progressively
+decreases – as is the protocol built in many coins. Additionally, social and governance aspects equally need to be considered seriously by investors as well as central authorities –
+whether it is the risk of frauds or risks to ﬁnancial stability.
+Looking further into the future, a widespread introduction
+of CBDCs accompanied by higher regulation of cryptocurrencies could create a more challenging environment for
+crypto assets as some (but not all) of their advantages compared to traditional ﬁnancial assets would fade in the longer
+term. Cryptocurrencies could still survive, but the increasingly differentiation based on individual business models
+and utility could emerge as the key parameter for sustainability (Nicoletti et al. 2017). The underlying technology of
+many cryptocurrencies and planned CBDC initiatives, the
+Blockchain (or DLT in general), certainly carries an interest
+that goes far beyond the use of these two as a means of
+payment (Tanda, 2019). The aforementioned technologies
+are expected to remain a fast-growing area of growth for
+companies across a wide range of industries. In that sense,
+the dynamics around these developments should be followed closely.
+
+References
+Alt, R., Beck, R. and Smits, M. T. (2018) FinTech and the Transformation of
+the Financial Industry [online]. Available from: https://doi.org/10.1007/
+s12525-018-0310-9 [Accessed 30 April 2021]
+Bank for International Settlements (BIS). (2020) Central Bank Digital
+Currencies: Foundational Principles and Core Features [online]. Available
+from: https://www.bis.org/publ/othp33.htm [Accessed 30 April 2021].
+Bank for International Settlements. (2021a) Permissioned Distributed
+Ledgers and the Governance of Money [online]. Available from:
+https://www.bis.org/publ/work924.htm [Accessed 30 April 2021]
+Bank for International Settlements. (2021b) Ready, Steady, Go? – Results of
+the Third BIS Survey of Central Bank Digital Currency [online]. Available
+from: https://www.bis.org/publ/bppdf/bispap114.htm [Accessed 30
+April 2021]
+European Central (ECB). (2020a) Report on a Digital Euro [online].
+Available from: https://www.ecb.europa.eu/pub/pdf/other/Report_on_
+a_digital_euro~4d7268b458.en.pdf [Accessed 30 April 2021].
+European Central Bank. (2020b) Tiered CBDC and the Financial System
+[online]. Available from: https://www.ecb.europa.eu/pub/pdf/scpwps/
+ecb.wp2351~c8c18bbd60.en.pdf [Accessed 30 April 2021].
+Fatas, A. (2019) The Economics of Fintech and Digital Currencies. London:
+CEPR Press.
+Gallersd€
+orfer, U., Klaaßen, L. and Stoll, C. (2020) ‘Energy Consumption of
+Cryptocurrencies Beyond Bitcoin’, Joule, 4 (9), pp. 1843–1846.
+Gomber, P., Kauffman, R. J., Parker, C. and Weber, B. W. (2018) ‘On the
+Fintech Revolution: Interpreting the Forces of Innovation, Disruption,
+and Transformation in Financial Services’, Journal of Management
+Information Systems, 35 (1), pp. 220–265.
+
+© 2021 Durham University and John Wiley & Sons Ltd.
+
+Grifﬁn, J. M. and Shams, A. (2020) ‘Is Bitcoin Really Untethered?’, The
+Journal of Finance [online], 75 (4), pp. 1913–1964. https://doi.org/10.
+1111/joﬁ.12903
+Hasan, M. M., Yajuan, L. and Khan, S. (2020) ‘Promoting China’s Inclusive
+Finance through Digital Financial Services’, Global Business Review
+[online]. Available from: https://journals.sagepub.com/doi/abs/https://
+doi.org/10.1177/0972150919895348 [Accessed 30 April 2021].
+Hougan, M. and Lawant, D. (2021) Cryptoassets: The Guide to Bitcoin,
+Blockchain, and Cryptocurrency for Investment Professionals [online].
+Available from: https://www.goldhorn-crypto.com/ﬁles/cfa-instituteresearch-foundation-crypto.pdf [Accessed 30 April 2021]
+Krause, M. J. and Tolaymat, T. (2018) ‘Quantiﬁcation of Energy and
+Carbon Costs for Mining Cryptocurrencies’. Nature Sustainability
+[online], 1 (11), pp. 711–718. Available from https://www.nature.com/
+articles/s41893-018-0152-7?fbclid=IwAR0j- [Accessed 30 April 2021].
+Laboure, M. (2021a) Corporate Bank Research: The Future of Payments:
+Series 2 – Part II. When Digital Currencies become Mainstream [online].
+Available from: https://research.db.com/Research/Article?rid=821850
+81-9b23-4f5a-8fd7-a454a9ee7b75-604&kid=RP0001&documentType=R
+&wt_cc1=IND-3015026-0000 [Accessed 30 April 2021].
+Laboure, M. (2021b) Corporate Bank Research: The Future of Payments:
+Series 2 – Part III. Bitcoins: Can the Tinkerbell Effect become a SelfFulﬁlling Prophecy? [online]. Available from: https://www.dbresearch.
+com/PROD/RPS_EN-PROD/PROD0000000000517378.pdf?undeﬁned&re
+alload=N~pLpr~b00SlEmdchO63obomi1YSoVkVcxXnAM6~8x8Xw4O7
+ugXDd~omMG6R8nLzY~8VPsBmQX2klEOJG55cKg== [Accessed 30 April
+2021].
+Lee, D. K. C., Yan, L. and Wang, Y. (2021) ‘A Global Perspective on Central
+Bank Digital Currency’, China Economic Journal [online], 14 (1), pp. 52–
+66. Available from: https://www.tandfonline.com/doi/full/https://doi.
+org/10.1080/17538963.2020.1870279 [Accessed 30 April 2021].
+Marion Laboure. (2020) Future Payments: Facebook Libra 2020: Growing up
+into Reality [online]. Available from: https://research.db.com/Research/
+Article?rid=8f139fe5_5d47_4c2c_8986_420538827927_604&kid=RP00
+01&wt_cc1=IND-3015026-0000 [Accessed 30 April 2021]
+Morgan, J. P. (2021) Has Bitcoin Equalised with Gold Already? [online].
+Available from: https://markets.jpmorgan.com/research/email/4a6sk
+4ss/aJqG_K8v8-iIqXQ8eu9rUw/GPS-3601705-0 [Accessed 30 April 2021].
+Nakamoto, S. (2008) Bitcoin: A Peer-to-Peer Electronic Cash System
+[online]. Available from: https://bitcoin.org/bitcoin.pdf [Accessed 30
+April 2021].
+Nicoletti, B., Nicoletti, W. and Weis. (2017) Future of FinTech. London:
+Palgrave Macmillan.
+Swan, M. (2015) Blockchain: Blueprint for a New Economy. Sebastapol:
+O’Reilly Media.
+Tanda, A. and Schena, C. M. (2019) FinTech, BigTech and Banks:
+Digitalisation and Its Impact on Banking Business Models. London:
+Palgrave Macmillan.
+Tapscott, D., Tapscott, A. and Revolution, B. (2016) How the Technology
+behind Bitcoin is Changing Money, Business, and the World. London:
+Penguin Books.
+University of Cambridge. (2021) Bitcoin mining map [online]. Available
+from https://cbeci.org/mining_map [Accessed 30 April 2021]
+Ward, O. and Rochemont, S. (2019) Understanding Central Bank Digital
+Currencies (CBDC). Institute and Faculty of Actuaries.
+Ye, S., Zhu, Y. and Lu, E. (2019) The Innovation of Retail bank in the CrossBorder Payment Fund Transfer System: Take OCBC as an Example.
+Available from: https://www.scirp.org/journal/paperabs.aspx?paperid=
+92789 [Accessed 27 August 2021].
+
+Global Policy (2021) 12:5
+
+17585899, 2021, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1758-5899.13017 by R M I T University Library, Wiley Online Library on [10/05/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Marion Laboure et al.
+
+674
+
+Appendix
+Figure 10. Selected ongoing retail CBDC projects
+Notes: Under Review = unspeciﬁed or multiple options under consideration.
+Country
+
+Project
+
+Architecture
+
+Infrastructure
+
+Access
+
+Internaonal
+
+EUROPE
+
+Project
+
+Architecture
+
+Infrastructure
+
+Direct
+
+Under Review
+
+Access
+Tiering of Accountand Token-based
+Tiering of Accountand Token-based
+
+Iceland
+
+na
+
+Status
+
+Notes on movaon and conclusion
+
+Internaonal
+
+Status
+
+Naonal
+
+Research
+
+Notes on movaon and conclusion
+Aim to address “steadily diminishing use of banknotes and coin”; “many issues have yet to be clariﬁed, and
+they must be dealt with appropriately before a posion can be taken”.
+“The potenal beneﬁts of introducing CBDC are not assessed to match the considerable challenges that the
+introducon would present”.
+Working group; focus on “independent back-up soluon, credit risk- free alternave to bank deposits,
+compeon, legal tender”; “more informaon is required before a conclusion can be reached”.
+“The introducon of CBDC does not require the use of DLT.”; “opng for CBDC implies trust in the central
+bank, which is why we have chosen a reference design with a centralised consensus mechanism.”; “the
+technology behind account-based digital payment systems has proven itself to a far greater extent than
+value-based digital money”.
+“CBDC with the status of legal tender could guarantee that all users have, in principle, access to a cheap
+and easy means of payment“; “proof of concept also highlights a number of areas where there is room for
+improvement”.
+“Within a few years, if the current trend connues, we will ﬁnd ourselves in a situaon where cash is no
+longer generally accepted as a means of payment”; “an account-based e-krona could raonalise payments
+from agencies and make them less dependent on commercial agents”.
+“Households and businesses should be able to make fast, eﬃcient and reliable payments, and beneﬁt from
+a resilient, inclusive, innovave, and compeve payment system.”; “two key elements of the plaorm: (1) a
+core ledger, provided by the Bank, would record CBDC and process payments, and (2) private sector
+‘Payment Interface Providers’ would handle the interacon with end-users of CBDC and provide addional
+payments funconality through overlay services”.
+
+Denmark
+
+“E-krone*”
+
+Direct
+
+Under Review
+
+Naonal
+
+Research
+
+Norway
+
+“E-krone*”
+
+Direct/Hybrid/Inter
+mediated
+
+Under Review
+
+Under Review
+
+Naonal
+
+Research
+
+The Netherlands
+
+Digital euro
+
+Hybrid or
+Intermediated
+
+Convenonal
+
+Account-based
+
+Internaonal
+
+Research
+
+ECB
+
+Digital euro
+
+Hybrid or
+Intermediated
+
+DLT & Convenonal
+
+Tiering of Account&Token-based
+
+Internaonal
+
+Research
+
+E-krona
+
+Hybrid or
+Intermediated
+
+DLT
+
+Tiering of Accountand Token-based
+
+Naonal
+
+Pilot
+
+United Kingdom
+
+“E-pound*”
+
+Hybrid or
+Intermediated
+
+Under Review
+
+Under Review
+
+Under Review
+
+Research
+
+Finland
+
+Digital euro
+
+Under Review
+
+Convenonal
+
+Under Review
+
+Internaonal
+
+Research
+
+Ukraine
+
+E-hryvnia
+
+Under Review
+
+DLT
+
+Under Review
+
+Naonal
+
+Pilot
+
+France
+
+Digital euro
+
+Under Review
+
+Under Review
+
+Under Review
+
+Internaonal
+
+Research
+
+Spain
+
+Digital euro
+
+Under Review
+
+Under Review
+
+Under Review
+
+Internaonal
+
+Research
+
+“The case of non-anonymous CBDC based on technology similar to the current electronic payment methods
+would imply signiﬁcant infrastructure costs and operaonal and regulatory requirements”.
+
+Switzerland
+
+E-franc
+
+Under Review
+
+Under Review
+
+Under Review
+
+Under Review
+
+Research
+
+“Examine the opportunies and risks of introducing a cryptofranc (e-franc)”; “addional beneﬁts currently
+low, outweighed by risks”.
+
+AMERICA
+
+Project
+
+Architecture
+
+Infrastructure
+
+Access
+
+Internaonal
+
+Status
+
+The Bahamas
+
+Sand Dollar
+
+Hybrid
+
+DLT & Convenonal
+
+Tiering of Accountand Token-based
+
+Naonal
+
+LIVE
+
+Brazil
+
+Digital Flat
+Currency
+
+Hybrid or
+Intermediated
+
+DLT
+
+Token-based
+
+Naonal
+
+Research
+
+Canada
+
+“E-dollar*”
+
+Sweden
+
+Eastern
+Caribbean
+Ecuador
+Uruguay
+United States
+
+DCash
+Dinero
+Electrónico
+Billete Digital
+"Digitaldollar*"
+
+ASIA
+
+Project
+
+China
+
+DC/EP
+
+Hybrid or
+Intermediated
+Hybrid or
+Intermediated
+
+DLT & Convenonal
+DLT
+
+Tiering of Accountand Token-based
+Tiering of Accountand Token-based
+
+Naonal
+Internaonal
+
+LIVE
+
+Test DLT “as a technological framework for e-hryvnia issuance and circulaon”; no fundamental advantage
+in using DLT in a centralised model.
+“[...] account based model would oﬀer beer results for a retail CBDC. However, it might also lead to a
+greater loss of resources for banks [...]”.
+
+Notes on movaon and conclusion
+Improve “ﬁnancial inclusion [...], [reduce] the size of legimate but unrecorded economic acvies,
+[strengthen] naonal defences against money laundering and other illicit ends [and][...] deliver government
+services through digital channels, thereby improving tax administraon and increasing the eﬃciency of
+spending”.
+“Improve the eﬃciency of the monetary funcon, ... payment processes and systems, .... ﬁnancial inclusion
+and ... user experience”.
+Architecture: Hybrid, as on the one side “any relaonship between the Central Bank and society is
+intermediated by ﬁnancial instuons, just as with physical cash.” On the other side intermediaries are only
+“custodian of the new cash form”.
+Conngency plan; “building, as a conngency, the capability to issue a cash-like central bank digital
+currency (CBDC) to the public, should the need ever arise.”
+Aim to address the “high cost of current payment instruments and banking services”, needs of customers
+and ineﬃcient cheque selement.
+
+Under Review
+
+Convenonal
+
+Account-based
+
+Naonal
+
+Pilot
+
+“Means of payment available to absolutely all Ecuadorians”. Operated 2014–16; disconnued.
+
+Hybrid
+
+Convenonal
+
+Token-based
+
+Naonal
+
+Pilot
+
+Under Review
+
+Under Review
+
+Under Review
+
+Under Review
+
+Research
+
+“Digital bills that aim to have same funcons and uses as physical bills”; ongoing evaluaon.
+“...the opportunies and challenges of, as well as the use cases for, a CBDC, as a complement to cash and
+other payments opons”.
+
+Infrastructure
+
+Access
+
+Internaonal
+
+Status
+
+DLT & Convenonal
+
+Account-based
+
+Naonal
+
+Pilot
+
+DLT
+
+Under Review
+
+Naonal
+
+Pilot
+
+Under Review
+
+Under Review
+
+Naonal
+
+Research
+
+Cambodia
+
+Bakong
+
+Architecture
+Hybrid or
+Intermediated
+Under Review
+
+Israel
+
+E-shekel
+
+Under Review
+
+Notes on status, movaon and conclusion
+Started in April & ongoing work; aim to create digital alternave to cash and coins for retail use.
+Aim to “increase access to quality formal ﬁnancial services”; “decrease demand for... cash”.
+"Help in the struggle against unreported transacons”; “contribute to the high-tech sector (ﬁntech)”;
+Conclusion that “the team does not recommend that the Bank of Israel issue digital currency (e-shekel) in
+the near future”.
+
+Indonesia
+
+“E-rupiah*”
+
+Under Review
+
+Under Review
+
+Under Review
+
+Naonal
+
+Research
+
+Malaysia
+
+“E-ringgit*”
+
+Under Review
+
+Under Review
+
+Under Review
+
+Naonal
+
+Research
+
+“Pioneering work reviewed generally concludes that CBDC, even if introduced in the future, would likely be a
+complement rather than a substute to cash and bank deposits”. “Technological hurdles need to be
+considered, as central bank credibility must take priority”.
+
+“E-won*”
+
+Under Review
+
+Under Review
+
+Under Review
+
+Under Review
+
+Pilot
+
+Start researching and reviewing technology, process, legal framework. Test if CBDC will technically work in a
+limited environment.
+
+Korea
+
+OTHER
+
+Architecture
+
+Infrastructure
+
+Access
+
+Internaonal
+
+Status
+
+Under Review
+
+Under Review
+
+Token-based
+
+Naonal
+
+Research
+
+CBDC series
+
+Under Review
+
+Under Review
+
+Under Review
+
+Naonal
+
+Research
+
+Eswani
+
+“E-lilangeni*”
+
+Under Review
+
+Under Review
+
+Under Review
+
+Naonal
+
+Research
+
+Tunisia
+Russia
+
+“E-dinar*”
+“E-rouble*”
+
+Under Review
+Internaonal
+
+Research
+Research
+
+Under Review
+
+Research
+
+Internaonal
+
+Pilot
+
+South Africa
+New Zealand
+
+Australia
+Japan
+
+Project
+Electronic
+Legal Tender
+
+Under Review
+Under Review
+Under Review
+Hybrid
+DLT & Convenonal Account-based
+Direct/Hybrid/Inter
+“E-AUD*”
+Under Review
+Under Review
+mediated
+Hybrid or
+“Digital-Yen*”
+Under Review
+Under Review
+Intermediated
+
+Notes on movaon and conclusion
+Expression of interest; “The scope of this project is speciﬁc to the use of a CBDC as electronic legal tender
+(ELT), similar to the characteriscs of, and complementary to, cash.”
+“Safer and cheaper to transport than cash”; “Provides public access to an electronic form of legal tender”;
+“Reduces cash demand and supply which could reduce the availability of cash in an electricity outage”;
+“Slow payment authorisaon in a blockchain-like crypto- currency”.
+“Evaluate whether clear use cases exist for the introducon of a retail and/or wholesale CBDC speciﬁcally
+within the context of Eswani. Findings from the ﬁrst phase of invesgaon indicate that there are indeed at
+least three potenal use cases”. “However, while these results are posive, further research is warranted...”.
+
+“... the case for issuing a CBDC for use by households has not been established”; “... the implicaons of
+CBDC for the structure of the ﬁnancial system would need to be carefully considered”.
+
+Source: Bank for International Settlements; Central bank websites; www.unescap.org; www.efd.admin.ch; www.cf40.org.cn; BIS.
+
+Global Policy (2021) 12:5
+
+© 2021 Durham University and John Wiley & Sons Ltd.
+
+675
+
+17585899, 2021, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1758-5899.13017 by R M I T University Library, Wiley Online Library on [10/05/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Cryptocurrencies and Central Bank Digital Currencies
+
+Author Information
+Marion Laboure is a senior economist at Deutsche Bank, a lecturer at Harvard University, and a recognized expert in ﬁnancial technology (ﬁntech).
+She has extensive private sector, public policy, monetary policy, and academic experience, including at the European Commission; Harvard University; the Luxembourg Central Bank; Deutsche Bank; and Barclays.
+Markus H.-P. M€
+uller is Global Head of the Chief Investment Ofﬁce, Private Bank, Deutsche Bank AG. He is also a member of Deutsche Bank’s
+Group Sustainability Council. Markus has held teaching posts in corporate ﬁnance and economics, being a visiting scholar at the Frankfurt
+School of Finance and the University of Bayreuth, among others.
+Gerit Heinz is Chief Strategist in the Private Bank, Deutsche Bank AG.
+Before he joined Deutsche Bank he was head of investment ofﬁce
+
+© 2021 Durham University and John Wiley & Sons Ltd.
+
+Germany at UBS. His career started at Commerzbank. Gerit Heinz has a
+degree in business administration from the University of G€
+ottingen and
+also holds a diploma as DVFA-Investmentanalyst/CEFA.
+Sagar Singh is an Investment Ofﬁcer in the Private Bank, Deutsche
+Bank AG. Previously, he has also worked as an Investment Specialist for
+ultra-high-net-worth individuals and family ofﬁces. Sagar holds a Masters in Management degree from ESCP Europe, Paris and B. Tech in
+Engineering from Indian Institute of Technology, Delhi.
+€ hling is an Investment Strategist at Deutsche Bank. PreviStefan Ko
+ously, he worked as a portfolio manager at Hauck & Aufh€auser. Stefan
+holds a Master from the Vienna University of Economics and Business
+as well as a Bachelor in Economics from the University of Bayreuth. He
+is a CFA charterholder.
+
+Global Policy (2021) 12:5
+
+17585899, 2021, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1758-5899.13017 by R M I T University Library, Wiley Online Library on [10/05/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Marion Laboure et al.
+
+676
+
+

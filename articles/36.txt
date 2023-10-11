@@ -1,0 +1,831 @@
+No. 736 / January 2022
+
+GETTING THE BALANCE RIGHT: Crypto,
+stablecoin and CBDC
+Wilko Bolt, Vera Lubbersen and Peter Wierts
+
+Electronic copy available at: https://ssrn.com/abstract=4014319
+
+GETTING THE BALANCE RIGHT: Crypto, stablecoin and CBDC
+Wilko Bolt, Vera Lubbersen and Peter Wierts*
+
+* Views expressed are those of the authors and do not necessarily reflect official positions
+of De Nederlandsche Bank.
+
+Working Paper No. 736
+
+De Nederlandsche Bank NV
+P.O. Box 98
+1000 AB AMSTERDAM
+The Netherlands
+
+January 2022
+
+Electronic copy available at: https://ssrn.com/abstract=4014319
+
+GETTING THE BALANCE RIGHT:
+Crypto, stablecoin and CBDC*
+Wilko Bolta,b, Vera Lubbersena and Peter Wiertsa, b
+a De
+
+Nederlandsche Bank (DNB), Amsterdam, the Netherlands
+Universiteit (VU), Amsterdam, the Netherlands
+
+b Vrije
+
+January 2022
+Abstract
+The rise of new forms of private money is reviving a long-standing debate on the appropriate
+balance between private and public interests in money and payments. The main aim of this paper
+is to explore an integrated policy analysis of various digital assets that may function as money:
+bank deposits, non-backed crypto’s, stablecoins and Central Bank Digital Currency (CBDC). In our
+view, public and private money should coexist to get the best of both worlds: trust and innovation.
+Getting the balance right is however not an easy task. It requires a digital update of public money
+and effective regulation of crypto’s and stablecoins. We argue that convertibility between public
+and private money should be a leading principle both for the design of CBDC and for the regulation
+of stablecoins that could potentially be widely adopted as a means of payment.
+Keywords: digital payments, crypto’s, stablecoins, CBDC, regulation.
+JEL classifications: D4, E4, G2
+
+Vera Lubbersen is the corresponding author, e-mail: v.r.lubbersen@dnb.nl. This paper is forthcoming in Journal of
+Payments Strategy & Systems (2022). We are grateful to two anonymous referees for their valuable comments. We also
+thank Dave Humphrey for his useful remarks. All remaining errors are our own. The views expressed in this paper do
+not necessarily reflect the views of De Nederlandsche Bank or those of the Eurosystem.
+*
+
+Electronic copy available at: https://ssrn.com/abstract=4014319
+
+1. INTRODUCTION
+Ongoing digitalization has not only changed the way we live and communicate but it has also
+affected the way we make payments. Rapid advancements in computer processing, electronic data
+storage and Internet connectivity have led to new technologies to transfer value that may disrupt
+‘traditional’ money and payment systems. New type of assets that are exchanged using Distributed
+Ledger Technology (DLT) or similar technology, include crypto assets, without any financial or
+monetary backing, and so-called ‘stablecoins’, for which private issuers claim that they are backed
+by safe and liquid assets to stabilize their value.1 At the same time, many central banks across the
+globe are currently working on a public alternative: Central Bank Digital Currency (CBDC), which
+would be a digital form of fiat money that may or may not use DLT. 2 These new types of assets
+add to the mix of existing means of payment, predominantly cash and bank deposits. As a result,
+these recent developments have revived a long-standing debate on the appropriate balance
+between public and private interests in payments, as regards confidence and trust supported by
+public money versus convenience and efficiency offered by private innovations.
+The main aim of this paper is to explore how various digital means of payment may co-exist
+in the future: bank deposits, non-backed crypto’s, stablecoins and Central Bank Digital Currency
+(CBDC). The scope of our paper is restricted to these assets, and we largely focus on their potential
+role as a means of payment (touching only briefly upon the other functions of money, as a store of
+value and unit of account). The actual payment instruments for the different forms of money, such
+as credit and debit cards, electronic wallets or transfers, are also left to future analysis. We address
+three key questions that relate to the evolving use of public and private forms of money:
+1. Should there remain a role for generally accessible public money in increasingly digital
+payment systems?
+2. Regarding the future of money and payments, which forms of money are likely to acquire
+mass adoption due to network and scale effects, and which forms are likely to become a
+niche product or even disappear?
+3. What are the main opportunities and risks of new private forms of money, what are the
+main
+
+options
+
+for
+
+regulating
+
+them,
+
+and
+
+what
+
+are
+
+the
+
+main
+
+trade-offs?
+
+In this paper, we argue that public and private money should coexist. Public money ensures
+trust, private money ensures innovation. However, as earlier ‘payment episodes’ illustrate, the
+
+1
+
+Electronic copy available at: https://ssrn.com/abstract=4014319
+
+uncoordinated issuance of private money (and public money as well, if not properly governed)
+may lead to undesirable disruptions and increased financial risks. To mitigate these risks and
+safeguard the payment system, central banks and financial regulators have to step in. But getting
+the public-private balance right is not an easy task. It requires a digital update of public money
+and an effective mix of various regulatory options depending on future adoption of
+cryptocurrencies. As our main result we argue that convertibility between public and private
+money should be a leading principle both for the design of CBDC and for the regulation of
+stablecoins that could potentially be widely adopted as a means of payment.
+The remainder of this paper is organised as follows. The next section sets the scene by looking
+at earlier episodes of uncoordinated money issuance that go back to minting coins, issuing
+banknotes and attracting bank deposits. It reviews the principle of convertibility between public
+and private money as a basis for balancing public and private interests. We then turn to a
+discussion of the current rise of non-backed crypto’s and stablecoins, arguably the newest forms
+of private digital money. Our main analysis addresses the possible next steps in the rapidly
+evolving payment landscape: developing digital public money and regulating new private forms,
+with a focus on a newly emerging public-private balance in money and payments. We provide an
+overview of the main regulatory options and how they affect the trade-off between trust and
+innovation. The last section concludes.
+
+2. SETTING THE SCENE IN MONEY AND PAYMENTS
+In most modern economies, payments have largely been relying on cash and commercial bank
+deposits but this landscape is now changing.3 The increase in the use of bank deposits as a means
+of payment relative to cash combined with the rise of cryptocurrencies is shifting the balance
+between public and private money. Interestingly, such balance shifts have happened before.
+Therefore, to get a better grip on the current developments, we start our analysis by looking at
+earlier payment episodes that featured uncoordinated money issuance.
+Coins and banknotes
+Historical well-known examples of earlier episodes of rebalancing public and private interests in
+money and payments revolve around coins and banknotes. First, regarding coins, the history of
+the Bank of Amsterdam is generally regarded as the start of the central banking function in
+
+2
+
+Electronic copy available at: https://ssrn.com/abstract=4014319
+
+promoting a smooth functioning of payment systems.4 There was a period of ‘confusion of coins’
+in Amsterdam in the early 1600s due to the large amount of national and international coins that
+were circulating at the same time. Issuers were trying to increase their revenue from coin issuance
+by slightly decreasing the amount of precious metal, slightly below the legal standard so that it
+could hardly be noticed in everyday payments.5 This led to a loss of trust and confidence, which
+obstructed the payment function of money.
+The response by the Bank of Amsterdam was to issue what may now be considered an early
+stablecoin: it checked the quality of gold and silver coins and provided notes stating the amount
+of gold put in custody. These notes could then be transferred from merchant tot merchant and
+when presented at the bank, the gold was shifted from one account to another. This restored trust
+in money. This money system continued to function well for more than 150 years. The ’Bank
+guilder’ was reformed into an early form of fiat money in 1683, becoming the leading national and
+international currency.6 Eventually, the Bank started to lend large amounts of money in response
+to external shocks, lost the backing of the government and ultimately failed.7 This coin episode
+illustrated the need for a trustworthy institution that guaranteed the value of money issued.
+Second, in the early 1800s, banknotes were often issued by private banks. In several
+instances, notably in the UK and US, commercial banknote issuance led to over-issuance and
+excessive inflation coupled with a high dose of financial distrust.8 Different banknotes effectively
+traded at different values, depending on volatile collateral values and blurred trustworthiness of
+the underlying private issuing institution. As with the earlier episode of ‘confusion of coins’,
+money became suspicious and required effort to assess its real value. In this context, Gorton and
+Zhang discuss the so-called ‘No Question Asked’ property of money requiring that money is
+accepted in a transaction without due diligence on its value.9 Confusion and suspicion triggered
+various bank runs and created financial instability. The general policy response at that time was
+to establish a system with government backed banknotes only, which eventually led to the
+creation of central banks with a monopoly on banknote issuance.10 Interestingly, these ‘run risks’
+were much more contained when private banknotes of commercial banks could be converted into
+public banknotes or private banknotes of other banks. This was the case in Sweden which had
+strict regulation regarding the redeemability and convertibility of private and public banknotes
+so as to gain the confidence and trust of the public. As a result, the Swedish system was ‘unusually
+stable’.11 Hence, this particular banknote episode showed that private money issuance could work,
+as long as convertibility with public money was safeguarded by the government.
+
+3
+
+Electronic copy available at: https://ssrn.com/abstract=4014319
+
+Commercial bank deposits
+During the 19th century, as a response to the banknote monopoly, commercial banks facilitated
+transfers between deposits to make payments through the use of cheques.12 As these new
+payment methods were generally more convenient than the physical withdrawal and transfer of
+cash, an increasing number of payments was executed by transferring balances between
+depositors’ accounts. However, in times of economic uncertainty and financial turbulence, similar
+problems arose as with private banknote issuance. As soon as people had real doubts about the
+value of this account money, they withdrew and changed their funds into cash, again leading to
+bank runs. Providing government deposit insurance restored trust, at different points of time in
+different countries (e.g. in the US in 1933 during the Great Depression). This reassured account
+holders that their holdings remain at value and convertible into public money. Moreover, this bank
+deposit episode also illustrated that private money issuance could spur innovation, as the use of
+bank deposits solved important frictions: ease of use, lower risk of theft and better record
+keeping.13
+Balancing public and private interests
+From these historical examples the overall picture emerges that private money issuance may not
+only bring innovation and convenience, but may also generate excessive risk due to profit-making
+incentives.14 This led to a general response by the public authorities that focused on achieving
+monetary and financial stability. Such a conclusion is in line with the analysis carried out by the
+Bank of International Settlement (BIS) about the role of central bank money in the payment
+system.15 It argues that trust and confidence in private money heavily relies on the ability of
+private money issuing entities to convert their liabilities into private money of another private
+entity or – ultimately – into public money. ‘Corner’ solutions with only public or private money
+are not seen as desirable given the need to balance trust, innovation and stability. Getting the
+balance right is however not an easy task due to the ongoing evolution in the use of different forms
+of money, often as a result of technological progress.
+
+4
+
+Electronic copy available at: https://ssrn.com/abstract=4014319
+
+3. NEW PRIVATE MONEY: RISE OF CRYPTOCURRENCIES
+Although, over the past decennia, cash and paper-based payments have increasingly been
+replaced by electronic, online and mobile payments, most of these types of payments still rely on
+commercial bank deposits when funds are transferred from the payer to the payee. However,
+things may now be changing. With the arrival of Bitcoin on the payment scene back in 2009, this
+reliance on deposit accounts for making payments is no longer evident. Arguably, to the extent
+that cryptocurrencies are accepted by users as a medium of exchange, store of value and unit of
+account, they can be regarded as the newest form of private money that is around. In practice, the
+vast majority of Bitcoin transactions between real entities are however aimed at trading and
+speculation, and not as a means of payment.16
+These crypto’s only exist in ‘cyberspace’ and are stored as digital tokens on digital ledgers.
+They allow transactions to other nodes in the network, that rely on validation nodes that apply a
+consensus mechanism, and their issuance is not controlled by monetary authorities. Using
+advanced payment technology and cryptographic identification techniques, Bitcoin ‘proved’ that
+this new form of private money could be used for the transfer of value between unidentified
+network addresses while avoiding the possibility of ‘double spending.’ At the same time, market
+analysis now shows an increasing reliance on exchanges and wallet providers, which have
+emerged as central nodes in the network.17 Broadly, these cryptocurrencies can be divided into
+two main categories: non-backed crypto’s and stablecoins.
+The first category – non-backed crypto’s – refer to crypto assets that are not backed by any
+financial asset or government claim and have no inherent value. Since the arrival of Bitcoin in
+2009, more than 10000 non-backed cryptocurrencies have been created with a total market
+capitalization of $2900 bln.18 Grosso modo, non-backed crypto’s derive their value from the selffulfilling expectation that they will be used in the future. Although these ‘unanchored’
+expectations may be (partly) based on future market adoption prospects, they seem to drive the
+extreme volatility of current crypto prices to a large extent.19 Hence, it is often concluded that
+Bitcoin appears to behave more like a speculative investment and that market adoption is likely
+to remain limited.20 The second category – stablecoins – covers crypto’s that are (allegedly)
+backed by one or more fiat currencies that are legal tender, by one or several commodities, by one
+or several crypto-assets, or a combination of all such assets. It is suggested that consumers who
+buy stablecoins can redeem them for the underlying assets. In practice, this is not always the case,
+however, as practices differ with respect to the quality of the asset backing, limits and fees to
+
+5
+
+Electronic copy available at: https://ssrn.com/abstract=4014319
+
+redemption, or redemption on the secondary market only, in line with profit-making motives of
+private issuers.
+Thus far, stablecoins constitute a relatively small proportion of crypto assets, i.e. just over
+5%.21 But market capitalization of stablecoins is rising fast: for the largest stablecoin issuers, it
+has risen by nearly 500% in 2021.22 As such, stablecoins have mainly been used for payments
+within crypto markets – for example, it has been estimated that half of all Bitcoin trades are
+executed using Tether.23 Tether is currently the world’s largest stablecoin and has recently been
+subject to controversy about its asset backing.24 For the general public, the payment function of
+stablecoins is still in its infancy but could potentially grow rapidly due to the uptake by large,
+highly-advanced ‘Bigtech’ platforms. For consumers, it may be convenient to make payments
+using their social media apps. Moreover, fees could perhaps be lower than existing payment
+options, especially for cross-border payments and in countries with less developed payment
+systems.
+
+4. REBALANCING PUBLIC AND PRIVATE INTERESTS
+New digital monies have recently come to the fore, affecting the balance between public and
+private interests. The potential emergence of non-backed crypto’s, stablecoins and CBDC as a
+means of payments may add new options to the existing set of monies. This is illustrated in Table
+1, which contains public money, regulated forms of private money (i.e. bank deposits, e-money)
+and new private forms (i.e. non-backed crypto, stablecoins). The issue arises whether all forms of
+money can co-exist and if they do, how they should be regulated if at all. According to the
+International Monetary Fund (IMF), financial stability risks from the crypto ecosystem are not yet
+systemic, but risks should be closely monitored given the global implications and the inadequate
+operational and regulatory frameworks in most jurisdictions.25
+
+6
+
+Electronic copy available at: https://ssrn.com/abstract=4014319
+
+Table 1: Current and potential future forms of money as a means of payment
+
+means
+
+Central banks and Regulated
+
+E-money
+
+Cryptocurrency
+
+government,
+
+banks,
+
+institutions,
+
+issuers,
+
+public
+
+private
+
+private
+
+private
+
+of Cash:
+
+payment
+
+coins
+
+and Bank
+
+banknotes
+
+deposits E-money
+
+(regulated)
+
+(regulated)
+
+Option:
+
+Option:
+
+retail CBDC
+
+crypto, stablecoins
+
+A digital update of public money
+The public-private balance shifts that were observed in earlier episodes provide the underpinning
+of the key questions as posed in the introduction. First, the question comes up whether generally
+accessible public money should keep playing a role in an increasingly digitalized payment system?
+After all, private digital payments are already possible, so that the use case of a digital euro may
+not be immediately clear. Indeed, in our view, the value of providing CBDC would not directly
+derive from a technologically improved or more convenient payment instrument relative to those
+already supplied by the private sector. Rather, its main value added will be in balancing public and
+private interests. Due to the decline of cash usage and the potential absence of public digital
+money for the public at large, the payment system would gradually move in the direction of a
+‘corner’ solution of private money only. The historical examples as well as current developments
+in crypto markets suggest that over time this could put the public interest at risk regarding trust
+and stability.
+This may explain why central banks have accelerated the development of CBDC as a public
+alternative. Already before 2019, CBDC was analysed by a few countries where cash saw a steep
+decline (such as Canada or Sweden), and in some smaller countries (e.g. the Bahamas), and most
+importantly China, where platform payment providers have become dominant players. After
+2019, it seemed that the sentiment has shifted to include the Euro and the dollar as well. Upon
+publication of its report on CBDC in 2020, the European Central Bank (ECB) intensified its work
+on a digital euro and Christine Lagarde said that “we should be ready to issue a digital euro, should
+the need arise”.
+
+26
+
+Moreover, FED Board member Lael Brainard said that “given the dollar’s
+
+7
+
+Electronic copy available at: https://ssrn.com/abstract=4014319
+
+important role, it is essential that the Federal Reserve remains on the frontier of research and policy
+development regarding CBDC”.27 Looking forward, the next question is how to design CBDC. In
+October 2021, the Eurosystem has launched a project investigation phase that will last two years.
+After that, a new decision will be taken as to whether or not to continue with a realisation phase
+for a digital euro.
+Adoption, scale and network effects
+The second key question is concerned with future adoption of new forms of money. That is, In the
+decades to come, which forms of money are likely to acquire mass adoption and which forms are
+likely to become a ‘niche’ product or even disappear?
+Not all possible future retail means of payment may achieve mass adoption. Economic
+research has shown that means of payment strongly benefit from network effects and
+standardisation.28 Crucially, payment markets are ‘two-sided’, stressing the need that both payees
+and payers coordinate on using the same means of payment.29 Rising adoption on one side of the
+market, increases participation of the other side, and vice versa. Moreover, on the demand side
+people tend to habitually stick to their preferred way of payment, often supported by high
+merchant acceptance, while on the supply side payment service providers and merchants benefit
+from economies of scale and scope which effectively limit the number of offered payment
+methods.30 Therefore, two-sided market structures, network effects, consumer behaviour and
+economies of scale and scope may lead to ‘winner-takes-most’ type of dynamics. That is, some
+means of payment will be dominant while others co-exist as a ‘niche’ product.
+Arguably, cash payments are likely to (further) develop into a niche product over time, as
+digitalization progresses, and the proportion of people that is used to digital payments increases.
+Does this imply that bank deposits will be the core form of money? It may be, but the payment
+landscape is changing rapidly. In particular, two-sided market theory may explain how
+heterogeneous private benefits and cross-group externalities among merchants and consumers
+affect the joint demand for cryptocurrencies to make payments. Privacy, data security and
+convenience may drive consumer usage of digital money on one side of the market, while avoiding
+high fees charged by traditional payment providers may drive merchant adoption on the other
+side. However, it is often argued that extreme price volatility, slow payment processing and risk
+of fraud are main factors that prohibit the widespread adoption of non-backed crypto’s, leaving it
+as a niche payment product.
+
+8
+
+Electronic copy available at: https://ssrn.com/abstract=4014319
+
+A different scenario would arise when private stablecoins become dominant players with
+global reach and wide adoption. The benefits of stablecoins for consumers include more
+convenient payment methods – in particular online and cross-border payments – and increased
+accessibility in countries without a well-developed payment system. Benefits for merchants may
+include lower fees. For example, Diem aims to offer lower fees for merchants both in store and
+online (i.e. e-commerce).31 Therefore, Facebook’s announcement of the Libra/Diem project in
+2019 serves as a ‘wake up call’: stablecoins issued by large technology companies with ‘deep
+pockets’ and huge global consumer bases, have the potential to reach mass adoption.32 At the same
+time, stablecoin issuers must convince their holders that at any point in time that its backing in
+assets is safe and reliable, so that ‘no questions are asked’. If they can’t, the risk to run is looming
+again.
+Regulating new forms of private money
+This brings us to the third key question: what are the main opportunities and risks of new private
+forms of money, what are the main options for regulating them, and what are the main trade-offs?
+We focus on stablecoins due to their potential to achieve mass adoption. To illustrate the risks,
+Table 2 shows a simple balance sheet of a stablecoin issuer with 100% coverage by safe and liquid
+assets (but not by central bank money).
+Table 2: Stylised stablecoin balance sheet
+Assets
+
+Liabilities
+
+“Safe and liquid” assets
+
+“Stablecoins”
+
+[Regulatory option: liquidity buffer]
+
+[Regulatory option: capital buffer]
+
+If the assets are assumed to be completely safe, as part of the framing, no capital would be
+needed to cover losses on the assets. Likewise, the story could also be that the assets are
+completely liquid, so that no additional liquidity buffers are needed. At first sight, the suggestion
+may therefore be that there are no balance sheet risks: there is no credit, maturity and liquidity
+transformation as would be the case for a bank. This would provide a stable value to the liabilities,
+and support the stablecoin as a means of payment. So the question comes up what type of risks
+could still arise, in particular for stablecoins with a potential global reach.
+
+9
+
+Electronic copy available at: https://ssrn.com/abstract=4014319
+
+In our view, the main risk relates to the profit-making motive and incentive of overissuance, as discussed in the second section, with implications for monetary and financial
+stability.33 A main incentive to issue a stablecoin is to receive ‘deposits’ in trade for a stablecoin
+and then earn revenues on those deposits, perhaps by placing them in government securities or
+fully depositing them in a bank to earn some interest (and be protected by deposit insurance).
+Once adoption and trust have been established, a private entity may have a motive to increase the
+return on its assets, e.g. by moving to higher yielding, more risky assets (or even loans), decreasing
+coverage, and restricting access (e.g. imposing redemption fees or limiting – ‘not at par’ convertibility). This calls for safeguards on the composition of the asset backing. Moreover,
+network and scale effects may lead to a globally dominant stablecoin, potentially increasing fees
+and risk even further and issuing more stablecoins than would otherwise be socially desirable.
+This could introduce credit, maturity and liquidity transformation and therefore bank-like risks,
+which may require adequate capital and liquidity buffers, as indicated in Table 2.
+Table 3 summarises the main risks of stablecoins which allows a ‘tailoring’ of regulatory
+options based on the underlying risks. This underscores a ‘same risks, same principles’ approach
+to ensure a level playing field across different market participants. On the one hand, as long as
+stablecoins are used for niche payments and not adopted as a regular means of payment, risks are
+mostly related to AML/CFT concerns, consumer/investment protection, sound governance, safety
+of systems, legal certainty, and market integrity (the right side of Table 3). In this case, regulation
+could be framed in a relatively light regime. On the other hand, as soon as stablecoins have the
+potential for mass adoption as a means of payment at a global scale, risks related to dominance
+and stability effects come to the fore (the left side of Table 3).
+Based on these risks, substantial reforms to regulation were announced since 2019. The
+Financial Stability Board FSB (FSB, 2020) issued recommendations for regulating stablecoins, the
+European Commission (EC, 2020) published its proposal for a Market in Crypto Assets Regulation
+(MiCAR), the BIS (2021) applied its standards for systemically important infrastructures to
+stablecoins and the President’s Working Group on Financial Markets (2021) published its report
+on stablecoins.34
+
+10
+
+Electronic copy available at: https://ssrn.com/abstract=4014319
+
+Table 3: Risks of stablecoins
+Stablecoins that may reach global Stablecoins, regardless of size
+scale
+Risks related to:
+
+Risks related to:
+
+
+
+Monetary policy
+
+
+
+Legal certainty
+
+
+
+Financial stability
+
+
+
+Sound governance, including the investment
+
+
+
+Settlement
+liquidity
+
+finality,
+risk
+
+in
+
+credit
+
+rules of the stability mechanism
+
+and
+
+wholesale 
+
+settlement
+
+
+Safety, efficiency and integrity of payments
+systems
+
+Fair competition
+
+
+
+Cyber security and operational resilience
+
+
+
+Market integrity
+
+
+
+Data privacy, protection and portability
+
+
+
+Consumer/investor protection
+
+
+
+Tax compliance
+
+Table 4 provides a stylised overview of main policy options. The options indicate different
+trade-offs between freely allowing private money innovations at one extreme (‘option 1’) and
+implementing the toughest regulation to fully mitigate monetary and financial risk at the other
+(‘option 5’). It is important to note however that the choice of these options need not remain fixed
+over time. In fact, as different forms of private money become more widely accepted, policymakers
+may decide they need more stringent regulation. An important question is how easily one could
+move from one regime to the next regime.
+Option 1 represents how crypto’s are currently regulated. Regulation is aimed at preventing
+money laundering and terrorist financing. This option allows most room for innovation and could
+be acceptable as long as crypto’s are used as a niche product.
+
+11
+
+Electronic copy available at: https://ssrn.com/abstract=4014319
+
+Table 4: Policy options to regulate stablecoins
+1
+
+No regulation except anti-money laundering/countering terrorism financing
+
+2
+
+Regulate as investment fund/Money Market Fund: transparency & governance.
+Transparency on asset backing (not necessarily 100%)
+
+3
+
+Regulate as e-money: redeemability at par and backed by 100% private assets and
+capital buffer
+
+4
+
+Regulate as synthetic CBDC: redeemability at par and backed by 100% central bank
+reserves (or 100% commercial bank deposits as a ‘lighter’ option)
+
+5
+
+Prohibit significant private stablecoins and only allow bank deposits
+
+Policy option 2 tightens the rules to better protect holders of crypto assets. This option
+resembles so-called ‘asset-referenced tokens’ from the EU regulatory proposals for a Regulation
+on Markets in Crypto Assets.35 This option is more or less based on a similar framework applied
+to investment funds, largely focusing on transparency requirements regarding asset backing and
+conflicts of interest. This option leaves responsibility to the buyer of the crypto-asset, who should
+understand the nature of the backing, or the lack of it. However, in the case of stablecoins, the
+option of less than 100% backing with a promise to maintain a stable value would create a risky
+debt-like claim. This could lead to run risk, i.e. why all financial panics involve debt, in line with
+our discussion in section 2.36
+Policy option 3 tightens the rules on asset backing, i.e. 100% backing and a small capital
+buffer. It resembles so-called ‘e-money tokens’ from the EU regulatory proposals for a Regulation
+on Markets in Crypto Assets.37 In this case, the specifics of the asset backing still matter, e.g. which
+types of securities are allowed. This would then determine the possible existence of credit and
+liquidity risk, for which additional buffers are added. Moreover, it would still fall outside the
+monetary framework. This may explain why the ECB has stated to have serious concerns about
+issuing of e-money by non-credit institutions.38 The ECB has argued that in- and outflows of bank
+
+12
+
+Electronic copy available at: https://ssrn.com/abstract=4014319
+
+deposits to and from e-money have impact on banks’ liquidity, and that the implementation of
+monetary policy in the Euro area would become increasingly difficult and the desired policy
+outcomes more uncertain.
+This brings us to option 4, i.e. creating more certainty and stability by requiring full backing
+in commercial or central bank money. Essentially, this goes in the same direction of the option as
+described in the BIS report on stablecoins that regards systemically important transfers of value
+as a financial market infrastructure.39 This report states that these should carry “little or no credit
+or liquidity risk“ and be “an acceptable alternative to the use of central bank money.“ In case
+systemically important stablecoins would be given access to the central bank balance sheet, they
+could then be called ‘synthetic CBDC’.40 In this case, the word ‘synthetic’ illustrates that the claim
+would still be on a private institution and not on the central bank, but nevertheless covered by
+100% central bank reserves.
+Finally, policy option 5 would prohibit significant private stablecoins altogether and only
+allow bank deposits. This resembles the proposal by the US President’s Working Group to “limit
+stablecoin issuance, and related activities of redemption and maintenance of reserve assets, to
+entities that are insured depository institutions.”41 Such a solution would maintain the current twotier banking system, including its monetary arrangements and prudential constraints. It would
+not rely on the notion of 100% safe and liquid assets, but rather demand capital and liquidity
+buffers to cover the risks, as indicated in Table 2. At the same time, this may not be the most
+appropriate solution for entities that only want to provide payment services, but not issue loans
+(not being a bank). Policy option 5 would still allow some degree of innovation related to digital
+money, but only when it is issued by regulated banks and in line with the applicable regulatory
+framework.
+Overall, the risks and corresponding policy options suggest stronger forms of regulation as
+adoption of crypto assets would increase. The overview of risks shows that these risks largely
+depend on their uptake, i.e. whether they become widely used as a means of payment or not. As
+soon as that point is reached, the principle of convertibility at par requires certainty on the
+backing. The precise format of such backing is still ‘under construction’, i.e., whether 100%
+commercial bank deposits would be good enough, whether it should be central bank money, or
+whether it would be desirable not to allow this option at all, and instead demand full compliance
+with banking regulation.
+
+13
+
+Electronic copy available at: https://ssrn.com/abstract=4014319
+
+5. CONCLUSION
+The money and payment landscape is rapidly changing. New technologies, new players, and new
+monies come to the fore. Clearly, in our view, public and private money should coexist. Public
+money ensures trust, private money drives innovation. However, as earlier payment episodes
+illustrate, the uncoordinated issuance of private money may lead to undesirable disruptions and
+increased financial risks. To mitigate these risks and safeguard the payment system, central banks
+and financial regulators have to step in.
+Getting the public-private balance right is of key importance but easier said than done. The
+appropriate balance will largely depend on future adoption of new forms of private money. If
+adoption remains limited a light regulatory regime will do, but if adoption increases so will the
+stringency of the regulation. Assuming that cash usage will keep declining and non-backed
+crypto’s remain a niche product, a great deal will depend on how stablecoins will develop globally.
+Mass adoption could be within reach when they are issued by large technology platforms
+benefitting from ‘deep pockets’ and large worldwide consumer networks. If stablecoins become
+widely used as money, the stability of the payment system may be at risk without adequate
+regulation and convertibility at par with public money.
+Finally, to shift the balance in the right direction, public money needs to first undergo a
+digital update. Just like cash, issuing CBDC will support the convertibility between private and
+public forms of money. At the same time, CBDC should be designed such that it will not
+fundamentally change the role of bank deposits. Hence, the key issue is one of technological
+adaptation. Central banks may have to adjust again, just like they did in the past by restoring the
+balance with respect to coins, private banknotes and bank deposits. Without a doubt, there are
+exciting times in money and payments ahead of us.
+
+14
+
+Electronic copy available at: https://ssrn.com/abstract=4014319
+
+REFERENCES
+
+1
+
+Crypto assets can be defined as a digital represent of value or rights which may be transferred and stored
+electronically, using distributed ledger technology or similar technology. See European Commission (2020),
+Proposal for a regulation on markets in crypto-assets, and amending Directive (EU) 2019/1937, COM(2020)593, Report. Stablecoins are a type of crypto assets that purports to maintain a stable value by referring to the
+value of one or more fiat currencies that are legal tender, one or several commodities, one or several cryptoassets, or a combination of such assets. European Commission (2020) provides a further breakdown into
+electronic money tokens, which are supported by a fiat currency that is legal tender, and asset-referenced
+tokens, which are supported by a broader range of assets.
+2
+Fiat money is any money that is backed by the order (‘fiat’) of the government to act as money.
+3
+In this paper we mainly focus on retail payments. Large-value payments and wholesale settlement have
+traditionally relied on central bank reserves, although this picture may now be changing as well.
+4
+Schnabel, I. and Shin, H.S. (2018) ‘Money and trust: Lessons from the 1620s for money in the digital age’, BIS
+Working Paper No. 698.
+5
+Quinn, S. and Roberds, W. (2012) ‘The Bank of Amsterdam through the lens of monetary competition’,
+Federal Reserve Bank of Atlanta Working Paper No. 14.
+6
+Quinn, S. and Roberds, W. (2014) ‘How Amsterdam got fiat money’, Journal of Monetary Economics, Vol.
+66(C), pp. 1–12.
+7
+Quinn, S. and Roberds, W. (2016) ‘Death of a reserve currency’, International Journal of Central Banking, Vol.
+12, No. 4, pp. 63-103. Frost, J., Shin, H.S. and Wierts, P. (2020) ‘An early stablecoin? The Bank of Amsterdam
+and the governance of money’, BIS Working Paper No. 902.
+8
+Knafo, S. (2006) ‘The Gold Standard and the Origins of the Modern International Monetary System’, Review of
+International Political Economy, Vol. 13, No. 1, pp. 78-102. Söderberg, G. (2018) ‘Why did the Riksbank get a
+monopoly on banknotes?’ Sveriges Riksbank Economic Review 2018:3.
+9
+Gorton, G. and Zhang, J. (2021) ‘Taming wildcat stablecoins’, Mimeo.
+10
+Söderberg, G. (2018) ‘Why did the Riksbank get a monopoly on banknotes?’, Sveriges Riksbank Economic
+Review 2018:3.
+11
+Ibid.
+12
+Knafo, S. (2006) ‘The Gold Standard and the Origins of the Modern International Monetary System’, Review
+of International Political Economy, Vol. 13, No. 1, pp. 78-102.
+13
+See Chakravorti, S. (2016) ‘New payment technologies: Back to basics’, Mimeo.
+14
+See Milton Friedman: “So long as the fiduciary currency has a market value greater than its cost of
+production—which under favourable conditions can be compressed close to the cost of paper on which itis
+printed—any individual issuer has an incentive to issue additional amounts. A fiduciary currency would thus
+probably tend through increased issue to degenerate into a commodity standard—there being no stable
+equilibrium price short of that at which the money value of currency is no greater than that of the paper it
+contains. And in view of the negligible cost of adding zeros, it is not clear that there is any finite price level for
+which this is the case”. Quoted in Bordo, M. (2021) ‘Central bank digital currency in historical perspective:
+Another crossroads in monetary history’, Working Paper prepared for the Bank of England’s chief economists
+workshop.
+15
+BIS (2003) ‘The role of central bank money in payment systems’, Committee on Payment and Settlement
+Systems, Report.
+16
+Makarov, I. and Schoar, A. (2021) ‘Blockchain analysis of the bitcoin market’, NBER Working Paper No. 29396.
+17
+Ibid.
+18
+See www.coingecko.com, data as last accessed on November 7, 2021.
+19
+See Bolt, W. and van Oordt, M. (2020) ‘On the value of virtual currencies’, Journal of Money, Credit and
+Banking, Vol. 52, No. 4, pp. 835-862. The determinants of crypto prices and its volatility are the focus of many
+
+15
+
+Electronic copy available at: https://ssrn.com/abstract=4014319
+
+papers, see also e.g. Biais, B., Bisière, C., Bouvard, M., Casamatta, C. and Menkveld, A. (2018) ‘Equilibrium
+bitcoin pricing’, Mimeo, available at SSRN; Garratt, R. and Wallace N. (2018) ‘Bitcoin 1, Bitcoin 2,…: An
+experiment on privately issued outside monies’, Economic Inquiry, Vol. 56, pp. 1887–97; and Yermack, D.
+(2015) ‘Is bitcoin a real currency? An economic appraisal’, in Handbook of Digital Currency, pp. 31-43. Springer.
+20
+Halaburda, H., Haeringer, G., Gans, J. and Gandal, N. (2021) ‘The microeconomics of cryptocurrencies’,
+forthcoming in Journal of Economic Literature.
+21
+Cunliffe, J. (2021) ‘Is ‘crypto’ a financial stability risk?’, Speech given at SIBOS, Bank of England, 13 October
+2021.
+22
+President’s Working Group on Financial Markets, the Federal Deposit Insurance Corporation, and the Office
+of the Comptroller of the Currency (2021) ‘Report on Stablecoins’, Report.
+23
+Kaiko research (2021) ‘Half of all Bitcoin trades are executed using Tether’, https://blog.kaiko.com/half-of-allbitcoin-trades-are-executed-using-tether-9d7595304ca2, last accessed in November 2021.
+24
+Financial Times (2021) ‘Short-seller Hindenburg sets €1m ‘bounty’ for details on Tether’s reserves’, 20
+October 2021.
+25
+IMF (2021) ‘The crypto ecosystem and financial stability challenges’, Global Financial Stability Report,
+October 2021.
+26
+ECB (2020) ‘Report on a digital euro’, Report, October 2020.
+27
+Brainard, L. (2020) ‘An update on digital currencies’, Speech 13 August.
+28
+Brunnermeier, M., H. James and Landau, J-P. (2021) ‘The digitalization of money’. BIS Working Paper No. 941.
+See also Den Butter, F. and Mallekoote, P. (2018) ‘The payment system as a public good?’, Journal of Payments
+Strategy & Systems, Vol. 12, No. 4, pp. 304-313.
+29
+Armstrong, M. (2006) ‘Competition in two-sided markets’, RAND Journal of Economics, Vol. 37, pp. 668–91.
+See also Rochet, J-C. and Tirole, J. (2006) ‘Two-sided markets: A progress report’. RAND Journal of Economics,
+Vol. 37, pp. 645–67.
+30
+See Van der Cruijsen, C., Hernandez, L. and Jonker, N. (2017) ‘In love with debit card, but still married to
+cash’, Applied Economics, Vol. 49, No. 30, pp. 2989-3004; and Bolt, W. (2013) ‘Pricing, competition and
+innovation in retail payment systems: A brief overview’, Journal of Financial Market Infrastructures, Vol. 1, No.
+3, pp. 73-90.
+31
+See website Novi (Facebook-owned digital wallet created for Diem): https://www.novi.com, last accessed on
+15 November 2021.
+32
+Libra Association (2019) ‘An introduction to Libra’, White Paper, June 2019.
+33
+The profit-making motive may lead to an underlying conflict of interest between the stablecoin issuer, who
+manages the assets and receives the return, and the stablecoin owner, who relies on full backing. See Frost, J.,
+Shin, H.S. and Wierts, P. (2020) ‘An early stablecoin? The Bank of Amsterdam and the governance of money’,
+BIS Working Paper No. 902.
+34
+FSB (2020) ‘Regulation, supervision and oversight of ‘global stablecoin’ arrangements’, Final Report and HighLevel Recommendations, Basel; European Commission (2020) ‘Proposal for a regulation on markets in cryptoassets, and amending Directive (EU) 2019/1937’, COM(2020)-593; BIS (2021) ‘Application of the principles for
+financial market infrastructures to stablecoin arrangements’, Consultative Report, CPMI and IOSCO, October
+2021; President’s Working Group on Financial Markets, the Federal Deposit Insurance Corporation, and the
+Office of the Comptroller of the Currency (2021) ‘Report on Stablecoins’, Report, November 2021. See also G7
+(2019) ‘Investigating the impact of global stablecoins’, Working Group on Stablecoins, Report, October 2019.
+35
+Ibid.
+36
+Holmstrom, B. (2015) ‘Understanding the role of debt in the financial system’, BIS Working Paper No. 479.
+37
+In the EC (2020) MiCAR proposal, significant stablecoins are supposed to be regulated as ‘e-money’, the third
+official category of money, which exists already, but has attracted very limited use so that it has largely
+remained off radar. The main requirement for such ‘e-money tokens’ in MiCAR is that it has a one-to-one
+backing of safe and liquid assets with fiat money. However, many questions remain open. For example, it is
+
+16
+
+Electronic copy available at: https://ssrn.com/abstract=4014319
+
+unclear when a stablecoin becomes ‘significant’ and in case it becomes significant, how to change from an
+‘asset referenced token’ to an ‘e-money token’.
+38
+ECB (1998) ‘Report on electronic money’, Report; ECB (2008) ‘Opinion of the European Central Bank of 5
+December 2008 on a proposal for a Directive on the taking up, pursuit and prudential supervision of the
+business of electronic money institutions (CON/2008/84)’, Official Journal of the European Union, 6 February
+2009, pp. 1–9; ECB (2021) ‘Opinion of the European Central Bank of 19 February 2021 on a proposal for a
+regulation on Markets in Crypto-assets, and amending Directive (EU) 2019/1937 (CON/2021/4)’, Official Journal
+of the European Union, 29 April 2021, pp. 1–9.
+39
+BIS (2021) ‘Application of the principles for financial market infrastructures to stablecoin arrangements’.
+Consultative Report, CPMI and IOSCO, October 2021.
+40
+Adrian, T. and Mancini-Griffoli, T. (2019) ‘The rise of digital money’, IMF Fintech Notes, 19/01.
+41
+See President’s Working Group on Financial Markets, the Federal Deposit Insurance Corporation, and the
+Office of the Comptroller of the Currency (2021), Report on Stablecoins, p. 16.
+
+17
+
+Electronic copy available at: https://ssrn.com/abstract=4014319
+
+De Nederlandsche Bank N.V.
+Postbus 98, 1000 AB Amsterdam
+020 524 91 11
+dnb.nl
+
+Electronic copy available at: https://ssrn.com/abstract=4014319
+
+

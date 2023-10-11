@@ -1,0 +1,949 @@
+                                             Research in International Business and Finance 62 (2022) 101737
+
+
+                                                          Contents lists available at ScienceDirect
+
+
+                               Research in International Business and Finance
+                                                  journal homepage: www.elsevier.com/locate/ribaf
+
+
+
+
+Central Bank Digital Currencies: Agendas for future research
+Ratikant Bhaskar a, 1, Ahmed Imran Hunjra b, c, 2, Shashank Bansal a, 3, Dharen
+Kumar Pandey d, *, 4
+a
+  Indian Institute of Technology (Indian School of Mines), Dhanbad, India
+b
+  Rabat Business School, International University of Rabat, Morocco
+c
+  Department of Business Administration, Ghazi University, Dera Ghazi Khan, Pakistan
+d
+  P. G. Department of Commerce, Magadh University, Bodhgaya, India
+
+
+
+
+A R T I C L E I N F O                                   A B S T R A C T
+
+JEL classifications:                                    We use the bibliometric and content analysis of 174 documents retrieved from the Scopus
+E51                                                     database to present the publication trends in Central Bank Digital Currencies (CBDCs) since 2018
+E52                                                     and highlight the top publishing source with the most contributing authors in their affiliated
+E58
+                                                        countries. While showing influential studies, important themes covered to date, and the intel­
+Keywords:                                               lectual structure of the CBDC literature, we present recent research trends, gaps, and future
+CBDC
+                                                        research agendas in this domain. Research curiosity on the systematical framework, significance,
+Bibliometric analysis
+                                                        and structural implication of CBDC as a structural shift in the digitization of the monetary system
+Content analysis
+Cryptocurrency                                          are major propellants. CBDCs have far-reaching implications for monetary and payment systems,
+Bitcoin                                                 and their development could pave the way for a global common currency. Researchers are making
+                                                        significant efforts to investigate how CBDCs are linked to international trade and assets, partic­
+                                                        ularly cryptocurrencies. There is much room for theoretical development, contextual coverage,
+                                                        and methodology contributions.
+
+
+
+
+1. Introduction
+
+    The literature on central bank digital currencies (CBDCs) on the Scopus database has grown significantly in recent years. We find
+researchers exploring many aspects of the economic and financial consequences of the CBDCs. While literature can never get exhausted
+in any area, research on CBDCs is nascent, and the bibliometric analysis is expected to explore the agendas for future research. The use
+of CBDCs and the economy’s size will impact the domestic currency’s role (Goodell and Shen, 2021). While technological advance­
+ments empower digital platforms, the economic, social, political, ethical, and environmental factors impact the implementation of
+CBDCs. Concomitantly, while stigmatizing the limits of globalization, the unprecedented global pandemic has spurred the emergence
+of digital currencies. The global pandemic followed by the Russia-Ukraine war raises serious concerns about rising inflation and the
+shifts in the global market nodes. It is apposite to highlight that while digital currencies can engender international trade, the digital
+
+
+ * Corresponding author.
+   E-mail addresses: kdratikant@gmail.com (R. Bhaskar), ahmedhunjra@gmail.com (A.I. Hunjra), shashank@iitism.ac.in (S. Bansal), dharenp@
+gmail.com (D.K. Pandey).
+ 1
+   ORCID: https://orcid.org/0000-0001-9045-8725
+ 2
+   ORCID: https://orcid.org/0000-0002-7272-3684
+ 3
+   ORCID: https://orcid.org/0000-0001-5116-6439
+ 4
+   ORCID: https://orcid.org/0000-0002-0030-1781
+
+https://doi.org/10.1016/j.ribaf.2022.101737
+Received 30 May 2022; Received in revised form 16 July 2022; Accepted 10 August 2022
+Available online 17 August 2022
+0275-5319/© 2022 Elsevier B.V. All rights reserved.
+R. Bhaskar et al.                                                                        Research in International Business and Finance 62 (2022) 101737
+
+
+currencies of more significant economies also threaten the dollar’s global dominance (Howell and Potgieter, 2021; Jia et al., 2021; Le
+et al., 2021).
+    Economies worldwide suffered due to the natural catastrophe, also called the black swan, the COVID-19 pandemic (Goodell, 2020;
+Pandey and Kumari, 2021), and yet another human-borne catastrophe, the Russia-Ukraine war (Abbassi et al., 2022; Boubaker et al.,
+2022; Boungou and Yatié, 2022). While the economists are concerned about devising policies for economic growth, governments stress
+their successful implementation. Effective monetary and payment systems are mandatory to implement economic policies successfully.
+For instance, the governments came up with several financial supports during the pandemic-led lockdowns, with most governments
+targeting a direct benefit transfer to households (Ashraf, 2020; Famiglietti and Leibovici, 2022). Another example that indicates the
+importance of CBDCs is the US Treasury’s distribution of 1.4 billion USD as stimulus checks to more than a million deceased, and even
+most of the unbanked households could not cash these funds for months (Deloitte, 2020). This reveals the inefficiency of the existing
+payment system and calls for the immediate implementation of CBDCs. The social distancing measures became easy with the central
+banks, on behalf of the government, able to transfer digital currencies to households and businesses. While CDBCs could engender
+flexibility in economic policies, domestic issuance of CBDCs creates irregularities in the international monetary system (Fernán­
+dez-Villaverde et al., 2021). While Bahamas, China, and Nigeria are already pioneers on the list of countries to have issued CBDCs, and
+emerging nations like India and Russia have announced its implementation, most developed nations, including the United Nations and
+the United Kingdom, Mexico, and Canada, the concept is yet under consideration.5 CBDCs still have a long way to go. However, the
+publication trend of the CBDC literature reveals a significant rise from 34 documents in 2020 to 80 documents in 2021, indicating the
+escalated debate given the persistence of the COVID-19 pandemic.
+    The available literature on CBDCs ranges from discussions on the technological infrastructure (Agur et al., 2022; Allen et al., 2022;
+Zhang and Huang, 2021) and its impacts on the financial system (Chen and Siklos, 2022; Shen and Hou, 2021; Wang et al., 2022), to
+threats associated with CBDCs (Aysan and Kayani, 2022; Fegatelli, 2022; Fernández-Villaverde et al., 2021; Williamson, 2021). While
+the literature on CBDCs is expected to grow significantly in time, we are concerned with exploring (1) the areas on which contemporary
+studies are focused and (2) the scant areas on which future research should focus. With most economies yet to adopt digital currencies,
+researchers need some future research directions, and our study sets out to do so. This study set out to present the present trend of
+CBDC literature. However, in particular, we focus on the publication trends in CBDCs across journals, subject areas, authors, author’s
+affiliated country, and study type. We also list influential studies and important themes covered to date. In addition to presenting the
+intellectual structure of the CBDC literature, we present recent research trends, gaps, and future research agendas in this domain.
+    Previous literature also evidences a small amount of literature review publications around CBDCs on various topics. A list of these
+review papers is provided in Table 1. Generally, reviews are related to a specific topic and aim for a multidimensional analysis of that
+specific topic. Of the eight available reviews, six focused primarily on technical participation in fintech, blockchain, and digital
+currency. In addition, the other two studies talk about the adoption of CBDCs in offline transactions (Chu et al., 2022) and the primary
+function and the relative position of CBDCs to traditional central bank currencies in the current digital age (Ozili, 2022).
+    Moreover, the literature review of CBDCs in Ozili (2022) has set out two key points, one on the different themes of CBDCs and the
+other on the critical and controversial aspects of CBDCs. However, the selection of themes is not based on scientific technique and
+seems fundamentally weak and points towards scientifically doing thematic analysis. Therefore, no literature review has yet aimed to
+cover the broadest range of CBDCs from the scientific method. Therefore, combining quantitative and qualitative methods is extremely
+useful in compiling the existing literature on CBDCs in such a digital landscape and providing insight for further study. Hence, this
+study is the first systematic review-cum-bibliography analysis of CBDCs to promote stability and growth of the entire economic and
+monetary system.
+    The remaining part of this paper is as follows. Section 2 describes the data and the detailed methodology followed. Section 3
+presents the results and discusses and reasons the relevance of the findings. The final section, while presenting the future research
+agendas, concludes.
+
+2. Data and methodology
+
+    Scopus database is the world’s largest abstracting and indexing database and updates daily and is comparatively more up-to-date
+with trending topics such as the web of science, which updates weekly (Burnham, 2006; de Moya-Anegón et al., 2007). Moreover,
+sufficient literature published in reputed journals uses the Scopus database for bibliometric and content analysis (Bhaskar and Bansal,
+2022; Goodell et al., 2021; Patel et al., 2022). We collect the bibliographic data of documents published on Central Banking Digital
+Currency (CBDC) from the Scopus database. The data from 2018 to 2022 are available for analysis.6
+    Given the Scopus database, the literature on CBDCs began in 2018, indicating that CBDCs have recently attracted the researchers’
+interest. The term "CBDC" or "Central Banking Digital Currency" are most frequently used in literature. Therefore, we use these key
+terms for our search key terms. We limited our search to abstract, title, and author keywords and retrieved 567 documents. We further
+refined the search and limited it to articles available in English, resulting in 416 articles. In next-level filtration, we limited our search
+to specific subject areas (see Fig. 1) relevant to CBDC research and retrieved 269 articles. To improve the reliability of our data set, we
+used content analysis to remove irrelevant articles from the abstract, title, and author keywords. Our final sample includes 174 articles,
+
+
+ 5
+    Under consideration means that the central bank of these countries is either engaged in pilot testing (Canada) and/or engaging research/dis­
+cussions on the feasibility of CBDCs (Canada, US, UK, Mexico).
+ 6
+    The data used in the analysis is up to May 2022.
+
+                                                                       2
+R. Bhaskar et al.                                                                                 Research in International Business and Finance 62 (2022) 101737
+
+
+Table 1
+Summarization of CBDC review articles.
+  Title                                                               Authors                      Review Domain
+
+  Fintech and Financial Inclusion in Southeast Asia and India         (Morgan, 2022)               An overview of cryptocurrency and future agendas of
+                                                                                                   cryptocurrency.
+  A Review of Blockchain in Fintech: Taxonomy, Challenges, and        (Nelaturu et al., 2022)      Review article of system and connection of blockchain and
+      Future Directions                                                                            fintech.
+  Review of Offline Payment Function of CBDC Considering Security     (Chu et al., 2022)           Deals with security matters involved in using offline
+      Requirements                                                                                 payment function with CBDC.
+  Central bank digital currency research around the world: a review   (Ozili, 2022)                Discusses the basic functionality and comparability of
+      of literature                                                                                CBDCs with the traditional monetary system.
+  Cryptocurrencies and blockchain. Overview and future perspectives   (Sebastiã et al., 2021)     About the history and features of cryptocurrency with its
+                                                                                                   challenges and benefits.
+  A cross-sectional review of blockchain in Thailand: Research        (Pongnumkul et al., 2021)    Review of blockchain technology adoption in Thailand
+      literature, education courses, and industry projects
+  The Rise of Digital Money                                           (Adrian and                  The emergence of benefits and challenges in the adoption of
+                                                                      Mancini-Griffoli, 2021)      digital money.
+  Technology v Technocracy: Fintech as a Regulatory Challenge         (Omarova, 2020)              Report on the evolution of fintech in the monetary system.
+
+Note: This table presents the overview of review articles published on CBDC with their title, authors, and their central theme.
+
+
+of which 166 are empirical papers and eight are review articles.
+    However, some topics appear in the database under different names. For instance, the database shows Central Banking Digital
+Currency or CBDC, and Cryptocurrency or Cryptocurrencies as different topics. Thus, we clean the data by replacing similar kinds of
+terms with a universal term to avoid discrepancies in the dataset. Similarly, to ensure the reliability of bibliographic meta-data for our
+analysis we also clean the data and counter the discrepancies. Fig. 2.
+    The bibliometric analysis examines the bibliographic meta-data scientifically (Zupic and Čater, 2015). Bibliometric analysis has
+two phases7: (1) descriptive and (2) network analysis. While the descriptive study provides the citation pattern, average citations, and
+publication pattern, the network study explores the connections between authors, institutions, and countries and highlights the in­
+stitutions and countries that contribute the most. Additionally, network analysis discovers research themes to build networks and
+clusters of co-citation, coupling, and word co-occurrence in the literature. Since science mapping can be done using a thorough and
+dependable approach provided by R studio (Aria and Cuccurullo, 2017). Concomitantly, the VOS viewer is efficient and advanced in
+visualization analysis (van Eck and Waltman, 2010) and makes it easy to interpret. In addition, Gephi has convenient and editable
+features for visualizing network and page rank analysis (Kumar et al., 2020). We use Gephi, R Studio, and VOS Viewer collectively in
+the study to analyze data and present findings.
+
+3. Results and discussion
+
+3.1. Descriptive analysis
+
+    The descriptive analysis of CBDC literature evidences the publication of 174 articles between 2018 and 2022. Among 174 articles,
+166 are empirical articles and eight review articles. Therefore, 174 published publications are considered for the analysis, and as per
+the Scopus database, the CBDC literature received 598 citations between 2018 and 2022, showing an increase in citations trend (3.44
+citations per document).
+
+3.1.1. Citation and Publication
+    With four articles in 2018, the publications grew to 20 in 2019, and this growth pattern has persisted throughout time. The
+publishing and citation trends of CBDC literature are compiled in Table 2, and the publication trends are visually depicted in Fig. 3. We
+observe 400% (20) growth in CBDC literature from 2018 to 2019. In the following year (2020), despite the massive impact of COVID-
+19, maintain the growth rate (7%) in publication. In 2021, the pace of CBDC literature accelerated at a 135% growth rate and pub­
+lished 80 articles. We find 36 articles published within five months of 2022. Table 2 also shows the impressive citation trend of CBDC
+literature. The number of citations for CBDC literature has steadily increased from 37 in 2018 to 171, 169, 205, and 16 in 2019, 2020,
+2021, and 2022, respectively. The citation trend of CBDC literature shows impressive growth statistics of 8.37 citations per year in
+2018 and 50, 69.83, 144.37, and 38.09 citations per year in 2019, 2020, 2021, and 2022, respectively. Furthermore, from 2018 to
+2022, 108 publications received citations, which equals 62% of the total publication. About 59.78% (104) publications received at
+least ten citations, and 54% (94) received at least 15 citations. The citation and publication trend shows CBDC as a growing trend in
+research and its contribution to academics, particularly in economics and finance.
+
+3.1.2. Prolific authors and their countries
+   The essential bibliographic information for the topic area includes the most influential researchers and their affiliations. The top 20
+
+
+
+ 7
+     Fig. 2 presents a better visualization.
+
+                                                                                3
+R. Bhaskar et al.                                                                        Research in International Business and Finance 62 (2022) 101737
+
+
+
+
+                                            Fig. 1. Flow chart of retrieving final sample articles.
+
+
+researchers are included in Table 3, along with their publications, citations, and several significant indexes. With 41 citations on four
+publications within two years, Alonso SLN has received the most citations of any author. With an h-index of 4, the average number of
+citations per publication is 11.25, indicating that at least four of Alonso SLN’s publications have received at least four citations. Alonso
+SLN also has a g-index of 4, indicating that four articles have collectively been cited at least 16 times. In addition, Alonso SLN has an m-
+index of 1.33, which represents the ratio of the h-index to the number of years an author has been actively publishing. Lee J is second
+with four articles with seven citations and h, g, and m-indices of 2, 2, and 1, respectively.
+    Table 4 represents the top 20 countries affiliated with the CBDC authors. With 28 publications and 80 citations, the United States
+tops the list, followed by the United Kingdom (17 publications and 47 citations). Italian publications receive an average of 11 citations
+each, placing it at the top of the list. Switzerland comes in second place with 7.5 citations per article. The CBDC requires a robust cyber
+security governance mechanism. According to the International Telecommunication Union (ITU), the United States is top in cyber
+security, followed by the United Kingdom. The affiliation results show the high cyber-secure country leading research zone on CBDC.
+However, the analysis sheds light on the less secured countries and suggests exploring their challenges and solutions for CBDC.
+
+3.1.3. Citations and citation network analysis
+   The citation number indicates how many times a given document has been cited over time. Documents cited more frequently are
+thought to be more effective and productive than those cited less often. The most effective way to assess the significance of a research
+paper is through citation analysis (Aksnes, 2003). We used VOS Viewer and Gephi to analyze a citation network of 174 articles to find
+the most influential articles on CBDCs. The citations from the 174 articles on CBDC in Fig. 4 represent the network. The size of the
+nodes is proportional to their citation, and the line between nodes is proportional to the link strength of the citation between articles.
+The citation analysis of these articles revealed that 76 of them referenced other studies in the network.
+   Table 6 shows the 20 most frequently cited articles on CBDCs between 2018 and 2022, both locally and globally. The number of
+times other works have cited an article in all databases, including other fields and research areas, is a global citation. Local citations
+indicate the number of times other papers within sample studies have cited a paper. Based on global citations, (Brunnermeier and
+Niepelt, 2019) topped the list with 28 citations, followed by (Yao, 2018) with 15 citations and (Alonso et al., 2020b) with 13 citations.
+   Coming to local citations, Brunnermeier and Niepelt (2019) with 17 citations, Alonso et al. (2020b) with eight citations, and
+
+                                                                      4
+R. Bhaskar et al.                                                                             Research in International Business and Finance 62 (2022) 101737
+
+
+
+
+                                                      Fig. 2. Flow chart of the bibliometric review.
+
+
+
+              Table 2
+              Publication and citation trend.
+                Year                            Publications                          Cited Publication                             Citation
+
+                2018                              4                                     4                                            37
+                2019                             20                                    18                                           171
+                2020                             34                                    24                                           169
+                2021                             80                                    52                                           205
+                2022                             36                                    10                                            16
+                Total                           174                                   108                                           598
+
+              Notes: The table shows the yearly publication trend of CBDC. This table also contains total publication (TP), total citations
+              (TC), and Total cited publication (TCP).
+
+
+
+
+Fig. 3. Publication and citation trend. Notes: Publication and citation trend on CBDC from 2018 to 2022 (up to May) taken from Scopus database.
+
+
+
+
+                                                                            5
+R. Bhaskar et al.                                                                               Research in International Business and Finance 62 (2022) 101737
+
+
+Table 3
+Top contributing authors.
+  Author                                  h_index               g_index               m_index                 TC                 NP                 PY_start
+
+  ALONSO SLN                              4                     4                     1.333                   41                 4                  2020
+  LEE J                                   2                     2                     1                        7                 4                  2021
+  BELKE A                                 2                     3                     0.667                    9                 3                  2020
+  BERETTA E                               2                     3                     0.667                    9                 3                  2020
+  FORRADELLAS RFR                         3                     3                     1                       28                 3                  2020
+  KOCHERGIN DA                            1                     2                     0.25                     7                 3                  2019
+  MILKAU U                                1                     2                     0.2                      6                 3                  2018
+  BIRCH DGW                               1                     1                     0.333                    1                 2                  2020
+  BOSSONE B                               1                     1                     0.333                    2                 2                  2020
+  BUCKLEY RP                              1                     1                     0.5                      3                 2                  2021
+  CHORZEMPA M                             1                     2                     0.5                      4                 2                  2021
+  DIDENKO AN                              1                     1                     0.5                      3                 2                  2021
+  ECHARTE FERNÁNDEZ MÁ                  1                     2                     0.5                      6                 2                  2021
+  JANG H                                  2                     2                     1                        7                 2                  2021
+  JORGE-VAZQUEZ J                         2                     2                     0.667                   22                 2                  2020
+  LEE Y                                   2                     2                     1                        7                 2                  2021
+  MASCIANDARO D                           1                     2                     0.2                     11                 2                  2018
+  NÁÑEZ ALONSO SL                       1                     2                     0.5                      6                 2                  2021
+  NIEPELT D                               2                     2                     0.5                     36                 2                  2019
+  SHELEPOV A                              1                     1                     0.5                      1                 2                  2021
+
+Notes: This table shows the top 20 most contributing authors in terms of the number of publications (NP). This table contains publications, total
+citations (TC), and authors’ h-index, g-index, and m-index.
+
+
+
+                            Table 4
+                            Top affiliated contributing countries.
+                             Country                                        Documents                               Citations
+
+                             United States                                  28                                      80
+                             United Kingdom                                 17                                      47
+                             China                                          16                                      75
+                             Germany                                        16                                      68
+                             Russian Federation                             12                                      40
+                             South Korea                                    11                                      16
+                             Spain                                          10                                      68
+                             France                                          8                                      17
+                             Italy                                           8                                      88
+                             Canada                                          6                                      14
+                             Switzerland                                     6                                      45
+                             Austria                                         5                                      17
+                             Netherlands                                     5                                       2
+                             Australia                                       4                                       5
+                             Luxembourg                                      4                                      11
+                             Hong Kong                                       3                                      12
+                             Japan                                           3                                       7
+                             Portugal                                        3                                       5
+                             Belgium                                         2                                       4
+                             Croatia                                         2                                       0
+
+                            Notes: This table presents the top twenty countries of the author’s affiliation. It also presents
+                            the total published documents and total citations.
+
+
+Fernández-Villaverde et al. (2021) with eight citations, are the most significant articles pioneering future research on CBDCs. The
+natural difference between global and local citations shows that the CBDC domain has implications for other disciplines. When global
+and local citations are taken together, (Brunnermeier and Niepelt, 2019), (Alonso et al., 2020b), and (Fernández-Villaverde et al.,
+2021) are the most prominent articles in the CBDC literature.
+    Brunnermeier and Niepelt (2019) study the equilibrium position on swaps between public and private money without affecting the
+price system and find that CBDCs are not causing financial instability and credit crunch. They find that private equity of public money
+combined with pass-through funding by central banks does not infer a credit crunch or threaten financial stability. Concomitantly,
+(Alonso et al., 2020b) review the reasons for promoting or discouraging the implementation of CBDCs. Citation analysis reflects the
+development stage of CBDCs, and the literature explores supporting evidence for CBDCs, indicating the need for a more comprehensive
+investigation.
+
+3.1.4. Publication outlet
+   The 174 publications analyzed in this study have appeared across 98 different journals. We present a list of the most significant
+
+
+                                                                           6
+R. Bhaskar et al.                                                                       Research in International Business and Finance 62 (2022) 101737
+
+
+
+
+Fig. 4. Citation Network Diagram on CBDCs. Notes: This figure shows the CBDC citation networks using Gephi based on citations with at least one
+citation threshold.
+
+
+(top-20) journals publishing CBDC studies in Table 5. The top 20 journals published 47.12% (82) of the sample articles. With 21
+articles, the Journal of Payments Strategy and Systems is the most significant contributing platform, followed by Cato Journal with
+eight articles. CBDC’s economic and financial standing justifies its inclusion in these journals. However, Table 5 also shows that among
+the top contributing journals, 13 journals (46 documents) are in the first and second quartiles of Scimago Journal Ranking (SJR), and
+only six journals (17 documents) are ranked B and above in the ABDC Journal Quality List, indicating the lack of CBDC literature in
+other indexed outlets. Of 174 sample documents, 25 and 44 are published in journals ranked ’A and above’ and ’B and above,’
+respectively. Fig. 5 shows that the subject matter of CBDCs is not only related to economics, econometrics, and finance but also in areas
+such as social science, computer science, environmental science, engineering, and psychology. It shows that the subject is
+multidisciplinary.
+    Interestingly, there is a paucity of research in other fields, particularly psychology, energy, arts and humanities, and Earth and
+planetary sciences. There is extensive research about the economic importance of CBDCs and more related to digital currency and
+networks. The relevance of CBDCs in the effective functioning of monetary policy of the economy, in general, is much highlighted.
+However, the lack of behavioral studies on CBDCs may be a reasonable argument for the lack of studies in psychology. We find scant
+CBDC literature in Psychology, Energy, Arts and Humanities, and Earth and Planetary Sciences. Research on CBDCs in developing
+countries is thought-provoking due to vast socio-economic asymmetries, less governed financial systems, and basic literacy levels.
+
+3.1.5. Page rank analysis
+    Citations measure an article’s popularity, and Page Rank analysis measures its reputation. Page Rank shows how many times highly
+cited articles have cited an article. Citations alone cannot establish that a highly referenced paper is also reputable. (Brin and Page,
+1998) first introduced PageRank as a combined standard of eminence and prestige. PageRank is used to prioritize web pages when
+
+
+                                                                      7
+R. Bhaskar et al.                                                                                  Research in International Business and Finance 62 (2022) 101737
+
+
+Table 5
+List of top 20 most contributing journals.
+  Journal Name                                                  Document               Citations                  SJR (Quartile)                ABDC Ranking
+
+  Journal of Payments Strategy and Systems                      21                     27                         Q3                            N/A
+  Cato Journal                                                   8                      4                         Q2                            N/A
+  China Economic Journal                                         6                     29                         Q1                            N/A
+  IEEE Access                                                    4                     24                         Q1                            N/A
+  Journal of Banking Regulation                                  4                      8                         Q3                            C
+  Journal of Monetary Economics                                  4                     34                         Q1                            A*
+  Sustainability (Switzerland)                                   4                     23                         Q1                            N/A
+  Accounting, Economics and Law: A Convivium                     3                      9                         Q2                            B
+  Finance: Theory and Practice                                   3                      9                         Q3                            N/A
+  Future Internet                                                3                      4                         Q2                            N/A
+  Journal of Central Banking Theory and Practice                 3                     21                         Q3                            N/A
+  Journal of Economic Dynamics and Control                       3                     20                         Q1                            A*
+  Journal of Financial Stability                                 3                      2                         Q1                            A
+  Wirtschaftsdienst                                              3                      2                         Q3                            N/A
+  Applied Sciences (Switzerland)                                 2                      2                         Q2                            N/A
+  EC Tax Review                                                  2                      1                         Q2                            B
+  Electronic Commerce Research and Applications                  2                     13                         Q1                            C
+  Ikonomicheski Izsledvania                                      2                      2                         Q3                            N/A
+  International Journal of Central Banking                       2                      9                         Q1                            A
+
+Notes: This table lists the top 20 journals which frequently cite and publish CBDC literature consisting of a total citation, total publication, Quartiles
+based on Scimago Journal Rank (SJR), and ABDC ranking.
+
+
+
+
+                                                   Fig. 5. Number of articles published across discipline.
+
+
+searching on Google. It can also be used to measure engagement in citation networks in bibliometric research. For example, paper X is
+referenced by another paper Y1, Yn, and paper Y references C(Yi). The page rank of paper X is represented by PgR(X) in a network of N
+number of papers (Goyal and Kumar, 2021), whose mathematical form is in Eq. (1).
+                             (                        )
+                1 − df        PgR(Y1 )       PgR(Yn )
+       PgR(X) =         + df           + …+                                                                                       (1)
+                   N           C(Yn )         C(Yn )
+
+where ’df,’ the damping factor, takes values between 0 and 1. It shows the proportion of arbitrary iterations being broadcast with
+citations. However, the value of ’df’ is established in the Google algorithm based on the assumption that "a web surfer follows six
+hyperlinks before starting a new search." According to the probability distribution, the sum of all the papers’ page ranks equals 1.
+    Table 6 shows the top papers based on PageRank. Comparing papers in terms of citation count and PageRank, we find contrasting
+results. When comparing the top 20 articles, we find that only five articles (Alonso et al., 2020a), (Lee, Yan, and Wang, 2021),
+(Dashkevich, Counsell, and Destefanis, 2020), and (Yao, 2018) out of 20 highly cited articles are among the top 20 articles based on
+PageRank. The top 5 articles in terms of PageRank are (Wang et al., 2022), (Agur, Ari, and Dell’Ariccia, 2022), (Allen, Gu, and Jagtiani,
+2022), (Nelaturu, Du, and Le, 2022), and (Alonso et al., 2021). We discover that the highest contributing literature, based on page rank
+and citation analysis, is investigating the impact of CBDC on economies and their structures, such as ’Fintech, Cryptocurrencies, and
+CBDC: Financial Structural Transformation in China", "A digital currency architecture for privacy and owner-custodianship," "On the
+equivalence of private and public money."
+
+
+
+
+                                                                             8
+R. Bhaskar et al.                                                                           Research in International Business and Finance 62 (2022) 101737
+
+
+Table 6
+Top publications based on citations and page rank.
+  Document                                       Year        Local       Global             Document                                         PageRank
+                                                             Citations   Citations
+
+  (Brunnermeier and Niepelt, 2019)               2019        17          28                 (Wang et al., 2022)                              0.186447
+  (Yao, 2018)                                    2018         5          15                 (Agur, Ari, and Dell’Ariccia, 2022)              0.036942
+  (Alonso et al., 2020a)                         2020         8          13                 (Allen, Gu, and Jagtiani, 2022)                  0.030102
+  (Fernández-Villaverde et al., 2021)           2021         8          13                 (Nelaturu, Du, and Le, 2022)                     0.026096
+  (Alonso, Jorge-Vazquez, and Forradellas,       2021         7          11                 (Alonso, Jorge-Vazquez, and Forradellas,         0.022656
+       2021)                                                                                2021)
+  (Alonso et al., 2020a)                         2020         6          11                 (Radic et al., 2022)                             0.022331
+  (Barrdear and Kumhof, 2021)                    2021         6          10                 (Zhang et al., 2021)                             0.021376
+  (Bindseil, 2019)                               2019         4          10                 (Huibers, 2021)                                  0.020254
+  (Dashkevich, Counsell, and Destefanis, 2020)   2020         3           9                 (Lee, Yan, and Wang, 2021)                       0.018026
+  (Lee, Yan, and Wang, 2021)                     2021         5           8                 (Luo et al., 2021)                               0.016945
+  (Qian, 2019)                                   2019         3           8                 (Zhang and Huang, 2021)                          0.016904
+  (Nabilou, 2020)                                2020         2           8                 (Ozili, 2022)                                    0.016592
+  (Niepelt, 2020)                                2020         2           8                 (Dashkevich, Counsell, and Destefanis, 2020)     0.015805
+  (Davoodalhosseini, 2021)                       2021         4           7                 (Cunha, Melo, and Sebastião, 2021)              0.012331
+  (Kochergin and Yangirova, 2019)                2019         2           6                 (Milkau, 2021)                                   0.011741
+  (Náñez Alonso et al., 2021)                  2021         2           6                 (Cunha, Melo, and Sebastião, 2021)              0.011516
+  (Fernández-Villaverde et al., 2021)           2021         2           6                 (Solberg Söilen and Benhayoun, 2022)            0.011516
+  (Khiaonarong and Humphrey, 2019)               2019         4           5                 (Yao, 2018)                                      0.011292
+  (Opare and Kim, 2020)                          2020         2           5                 (Larina and Akimov, 2020)                        0.011292
+  (Tong and Jiayou, 2021)                        2021         2           5                 (Kochergin and Yangirova, 2019)                  0.011292
+
+Notes: This table presents the publishing year and the local and global citations. The table shows the top article on the CBDCs published from 2018 to
+2022 (up to May). The table also presents the page ranks.
+
+
+3.2. Bibliometric, network, and content analysis
+
+3.2.1. Keyword analysis
+    According to Prashar and Sunder (2020), the author’s keywords epitomize the theme of the research articles. We use the VOS
+Viewer and Gephi to analyze the keywords and filter the most prominent themes in the CBDC. The analysis identifies 35 keywords with
+at least three occurrences in 174 papers. Table 7 shows the top keywords used in CBDC research based on occurrences and page rank.
+With 90 occurrences, the keyword ’CBDC’ is the most frequently used, indicating that CBDC alone is used in the literature as a concept.
+The occurrence pattern is followed by "Cryptocurrency," "Digital Currency," "Blockchain," and "Central Bank," with 36, 31, 23, and 19
+occurrences, respectively. After comparing the result of occurrences with page rank, we find similar differences encountered in section
+3.5. The page rank analysis shows privacy is the most concerned keyword in CBDC research, with a 0.09003 rank score. The other most
+concerning keywords in CBDC research are "Stablecoins," Smart Contract," and "Monetary Policy." The page rank analysis indicates the
+hotspot of CBDC research and shows that the researchers are focused on structural and economic stability in the digital coins era.
+    Fig. 6 shows an illustrated orientation of the most prominent keywords used in the CBDC literature based on occurrences. Nodes are
+
+
+Table 7
+Top keywords.
+  Keywords                                              Occurrences                    Keywords                                               PageRank
+
+  CBDC                                                  90                             Privacy                                                0.08347
+  Cryptocurrency                                        36                             Retail Payments                                        0.083088
+  Digital Currency                                      31                             Stablecoins                                            0.076021
+  Blockchain                                            23                             Smart Contract                                         0.071923
+  Monetary Policy                                       18                             Monetary Policy                                        0.050992
+  Distributed Ledger Technology                         14                             Money Demand                                           0.050039
+  Stablecoins                                           12                             Payment System                                         0.047789
+  Bitcoin                                               11                             Security                                               0.037855
+  Fintech                                               11                             Payments                                               0.03579
+  Central Bank                                          10                             Money                                                  0.027367
+  Central Banks                                          9                             Money Creation                                         0.027035
+  Payment System                                         9                             Negative Interest Rates                                0.022651
+  Privacy                                                8                             Fintech                                                0.021549
+  Digital Euro                                           7                             Digital Currency                                       0.020044
+  Money                                                  7                             Fiat Currency                                          0.019473
+  Banking                                                6                             Cryptocurrency                                         0.018166
+  Cash                                                   6                             Libra                                                  0.01803
+  Financial Stability                                    6                             Network Effects                                        0.016885
+  Financial Inclusion                                    5                             International Monetary System                          0.016499
+  Monetary System                                        5                             Financial Stability                                    0.016101
+
+Notes: This table shows the most prominent keywords in the CBDC literature with threshold three based on occurrence and page rank analysis.
+
+                                                                          9
+R. Bhaskar et al.                                                                     Research in International Business and Finance 62 (2022) 101737
+
+
+
+
+Fig. 6. Network of keyword co-occurrence on CBDCs. Notes: The figure after the keywords indicate the number of times these keywords appeared
+with the other keywords in this analysis.
+
+
+in proportion to the occurrences, and the lines between nodes are proportional to the strength of the link, showing networks between
+keywords. Moreover, the font size of the themes is proportionate to the page rank of the themes. CBDC affirms the central theme by
+showing its penetration in all 34 themes with 34 links and the most prominent nodes. We find that "Retail Payments" and "Stablecoins,"
+"Payment System," "Privacy," "Smart Contract," and "Money Demand" are the most prestigious themes in CBDC research.
+    Moreover, "Digital Currency," Cryptocurrency," "Central Bank," and "Distributed Ledger Technology" are most connected within the
+network. The outcomes of the keyword analysis reveal less explored and connected themes such as "Libra," "Security," "Prototype
+System," "Money Creation," and "Negative Interest Rate." Moreover, the network analysis shows that unconnected keywords should be
+explored in future research.
+
+3.2.2. Co-occurrence analysis
+   Co-occurrence refers to the frequency of occurring keywords together by another paper (Callon, Courtial, and Laville, 1991; Small,
+1973). We use the co-occurrence analysis to discover the intellectual association between the most influential themes in CBDC
+research. The more frequently two keywords co-occur, the more similar they are in the research context (Chen et al., 2016). The study’s
+sample size is 174 articles, and the theme CBDC appeared in the research domain in 2018. Hence, following (Patel et al., 2022), we
+consider three times keywords occurrence and retrieve 35 keywords that occur together.
+
+3.2.3. Thematic mapping and clustering
+    According to (van Eck and Waltman, 2010), nodes in a network can be clustered so that the weight of edges between cluster nodes is
+greater than that of nodes in other clusters. The keywords in the same cluster share a common theme and differ thematically from those
+in other clusters. A thematic analysis of the co-occurrence network is possible through clustering (Callon et al., 1991; Donthu et al.,
+2021; Goodell et al., 2021). In social network analysis, the modularity mechanism has been widely used to compare the density of links
+within and outside clusters. VOSviewer uses a unified approach (Waltman, van Eck, and Noyons, 2010), as in Eq. (2).
+
+
+
+
+                                                                    10
+                                                                                                                                                                                                                   R. Bhaskar et al.
+     Table 8
+     Cluster-wise keyword occurrences in documents.
+      Cluster 1                                                  Cluster 2                                                                      Cluster 3
+
+      Keywords              Occ.   Keywords              PR      Keywords                        Occ.   Keywords                        PR      Keywords                  Occ.   Keywords                  PR
+      Cryptocurrency        36     Stablecoins           0.087   CBDC                            90     Privacy                         0.090   Digital Currency          31     Negative Interest Rates   0.023
+      Monetary Policy       18     Payment System        0.067   Blockchain                      23     Smart Contract                  0.078   Central Bank              19     Digital Currency          0.021
+      Payment System        14     Retail Payments       0.065   Distributed Ledger Technology   14     Money Demand                    0.051   Monetary System           8      Monetary System           0.019
+      Stablecoins           12     Monetary Policy       0.055   Fintech                         11     Security                        0.041   Digital Euro              7      Digital Euro              0.017
+      Bitcoin               11     Money                 0.029   Privacy                         8      Fintech                         0.024   Cash                      6      Central Bank              0.016
+      Money                 7      Fiat Currency         0.022   Financial Intermediation        4      Money Creation                  0.021   Negative Interest Rates   3      Cash                      0.013
+      Banking               6      Libra                 0.020   Security                        4      Network Effects                 0.019
+11
+
+
+
+
+      Financial Stability   6      Cryptocurrency        0.019   Anonymity                       3      Distributed Ledger Technology   0.017
+      Financial Inclusion   5      Financial Stability   0.018   Money Creation                  3      CBDC                            0.016
+      Cryptoasset           4      Electronic Money      0.017   Money Demand                    3      Prototype System                0.015
+      Digital Money         4      Digital Money         0.016   Network Effects                 3      Financial Intermediation        0.014
+      China                 3      Financial Inclusion   0.016   Prototype System                3      Blockchain                      0.013
+      Electronic Money      3      Cryptoasset           0.014   Smart Contract                  3      Anonymity                       0.011
+      Fiat Currency         3      Bitcoin               0.012
+
+
+
+
+                                                                                                                                                                                                                   Research in International Business and Finance 62 (2022) 101737
+      Libra                 3      China                 0.012
+      Retail Payments       3      Banking               0.011
+
+     Notes: This table shows the themes of each cluster based on co-occurrences analysis with threshold three-time occurrences. It also presents the keyword occurrences and PageRank in each cluster. Occ.
+     indicate the number of times the keywords occur in the sample papers, and PR indicates the PageRank.
+R. Bhaskar et al.                                                                        Research in International Business and Finance 62 (2022) 101737
+
+
+                            1 ∑ (          )(       )
+        Ĉ(a1 .…….an ) =          δ ai , aj sij − γ                                                                                                (2)
+                           2m i<j
+
+where Ĉ(a1 .…….an ) denotes the edge’s weight between i and j; sij denotes the association strength of nodes i and j; γ is the resolution
+parameter; ai is a positive integer denoting the cluster to which node i belongs; δ(ai, aj) is equal to 1 if ai =aj and 0 otherwise; and lastly,
+m denotes the total number of links, ij denote the nodes.
+   When we apply the algorithm to 35 keywords, it results in three distinct clusters. Cluster 1 contains 16 keywords, Cluster 2 contains
+13 keywords, and Cluster 3 contains six keywords (see Table 8).
+
+3.2.3.1. Cluster 1: Policy implications of digital currencies. There are 16 keywords in cluster 1 that contain topics focusing on Policy
+Implications of Digital Currencies. Cluster 1 is the second-largest cluster among the three clusters. In Fig. 6, we report the most frequent
+themes of all three clusters in which cluster 1 is represented in blue color. We find that themes such as "Cryptocurrency," "Monetary
+Policy," "Payment System," "Stablecoins," and "Bitcoins" are the most frequently occurring themes and are closely connected to the title
+of the cluster. Moreover, Table 8 shows the most frequently occurring themes with page rank analysis. Based on PageRank analysis,
+"Stablecoins," "Payment System," "Retail Payment," and "Monetary Policy" are the most prestigious themes in cluster 1. (Gronwald,
+2019) authored the paper "Is Bitcoin a Commodity? On price jumps, demand shocks, and certainty of supply" as the most cited in
+cluster 1 with 37 citations. (Gronwald, 2019) analyzes the likelihood of bitcoin with commodities and finds a more significant
+movement in the bitcoin market than in gold and crude markets. However, bitcoin’s exhaustible resource characteristics are similar to
+gold and crude, but there is no uncertainty in bitcoin from the supply-side like gold and crude. The other most influential studies are
+(Alonso et al., 2020b; Bariviera and Merediz-Solà, 2021; Fabris, 2019; Yao, 2018), which talk about the policy implications of digital
+currency, such as the pros and cons of a cashless economy, the prospect of digital currency and their challenges, and the responses of
+economic policymaker on digital currency. Thus, in the most prominent cluster, we find that research revolves around the fundamental
+question of digital currency. Thus, we conclude that researchers assure society of their concern for a stable and safe cashless setup for
+the future.
+
+3.2.3.2. Cluster 2: Systematic framework of CBDCs. There are 13 keywords in cluster 2 containing topics focused on the "Systematic
+Framework of CBDCs." Cluster 2 is the largest one among the three clusters. In Fig. 6, we report the most frequent themes of all three
+clusters in which the orange color represents cluster 2. We find that themes such as "CBDC," "Blockchain," "Distributed Ledger
+Technology," "Fintech," and "Privacy" are the most frequently occurring themes closely connected to the title of the cluster. Moreover,
+Table 8 shows the most frequently occurring themes with page rank analysis. Based on PageRank analysis, "Privacy," "Smart Contract,"
+"Money Demand," and "Security" are the most prestigious themes in cluster 2. Brunnermeier and Niepelt (2019) authored the paper "On
+the equivalence of private and public money" as the most cited in cluster 2 with 28 citations. Brunnermeier and Niepelt (2019) find in
+their article that CBDC is not causing a credit crunch but is improving financial stability. The other most influential studies of cluster 2
+are (Alonso et al., 2020a; Brunnermeier and Niepelt, 2019; Fabris, 2019; Treiblmaier and Sillaber, 2021; Yao, 2018) look forward to a
+solution to the problems that come out in the previous cluster and talk about the stabilization of digital currency. The novel research of
+cluster 2 analyses the backing support of digital currency by a central bank and looks forward to enhanced stability, security, data
+privacy, robust regularities, and the ease of individual payment systems by implementing CBDC. Thus, we conclude that researchers
+provide pieces of evidence in favor of the implementation of CBDCs, and many countries either introduced or announced to introduce
+the CBDCs, such as China, Bahamas, Uruguay, and India. However, the implementation of CBDCs is still questionable due to the global
+economic and structural diversities and needs more experimental research in different setups on CBDC implementation.
+
+3.2.3.3. Cluster 3: Monetary stimulus and emergence of CBDCs. There are six keywords in Cluster 3, including topics focusing on
+"Monetary Incentives and Emergence of CBDCs." Cluster 3 is the smallest of the three clusters. In Fig. 6, we report the most frequent
+subjects from all three clusters, and the green color represents cluster 3. We find that topics such as "digital currency," "central bank,"
+and "monetary system" are the most frequently encountered topics and are closely related to the title of the cluster. In addition, Table 8
+shows the most frequently occurring themes with Page Rank analysis. Based on PageRank analysis, "negative interest rate," "digital
+currency," and "monetary system" are the most prominent topics in Cluster 3. The question that arose during the Cluster 2 content
+analysis about the use of CBDCs in various settings appears to have been examined by the researchers in Cluster 3. (Nabilou, 2020) in
+his study "Testing the Waters of the Rubicon: The European Central Bank and Central Bank Digital Currency," has questioned the
+implementation of CBDCs in the Eurozone without settling legal challenges. He suggests first solving the euro area legal challenge and
+introducing a CBDC. In addition, (Davoodalhosseini, 2021) also studies the costs of using CBDCs concerning cash and addresses the
+welfare benefits of eliminating cash from the economy and introducing CBDCs. The other most influential studies from Cluster 3
+(Dashkevich et al., 2020; Fernández-Villaverde et al., 2021; Milkau and Bott, 2018) deal with the complexities of introducing CBDCs in
+various challenging setups. Optimal monetary policy and exchange rates are significant questions following the introduction of CBDCs
+as a support platform for digital currencies. Thus, we conclude that researchers are actively participating in CBDCs, and the digitization
+of currency research has answered many complex questions about the framework of stability and privacy. However, there is a need for
+a clear agenda for all the different affordable setups for the functionality of digital coins and support with CDBC to present it as a
+convenient, cost-effective, and well-being tool.
+
+
+
+
+                                                                      12
+R. Bhaskar et al.                                                                    Research in International Business and Finance 62 (2022) 101737
+
+
+3.3. Conceptual framework
+
+    A comprehensive content analysis of the clusters and a systematic literature review of papers from recent years are epitomized as a
+conceptual framework in Fig. 7. The conceptual framework outlines the CBDC’s antecedents, models and methods, implementation
+implications, and future agendas. Expanding on the antecedents, this includes plastic payments such as visa, master, maestro, and
+credit card payments. Other predecessors are digital payments such as UPI transactions, net banking, NEFT, RTGS, and IMPS.
+Furthermore, blockchain technology and other significant antecedents of private digital currencies such as bitcoin and Diem (previ­
+ously Libra) show exponential growth and accelerate the demand for CBDCs to be introduced into the monetary system (Cheng, 2022;
+Peneder, 2022; Scarcella, 2021). The recent studies mostly use DSGE Model, Structural equation modeling PRINCE method, McCal­
+lum’s policy rule, LPPLS model, and Metcalfe’s law, and include banks, households, and corporate in the models (Alabi, 2020; Barrdear
+and Kumhof, 2021; Castrén et al., 2022; Davoodalhosseini, 2021; Meaning et al., 2018; Wilkins, 2022). So future studies could use
+some more complex models by adding other macroeconomic factors and intensify their applicability. In terms of empirical findings, the
+literature argues that CBDCs reduce transaction costs and raise gross domestic product (Barrdear and Kumhof, 2021; Wang and
+Hausken, 2021). Furthermore, the literature also suggests that CBDCs can provide a payment media with almost all the properties of
+physical cash and is not subject to theft and loss (Bian et al., 2021; Grasselli and Lipton, 2019). The CBDC will also provide a safe,
+reliable currency that reduces activities such as fraud, hacking, money laundering, tax evasion, and terrorism financing (Bordo, 2021;
+Dupuis et al., 2022; Kwon et al., 2022; Wang and Hausken, 2021), and its low-interest rates can also improve the stability of financial
+policy (Chen and Siklos, 2022; Cullen, 2022; Duarte, 2019). In a financial crisis, lowering the digital cash interest rate to zero would
+prevent other assets from moving to digital cash (Duarte, 2019; Echarte Fernández et al., 2022; Williamson, 2021). CBDCs have
+significant implications for an open economy and can significantly improve cross-border payments (Fantacci and Gobbi, 2021;
+Yamaoka, 2019), which are currently expensive and slow. Currently, cross-border transactions are carried out through an elaborate
+network of correspondent banks that have evolved over the centuries (Belke and Beretta, 2020; Fantacci and Gobbi, 2021). Chen and
+Siklos (2022) found that CBDCs do not have much impact on inflation, but financial stability is an important issue. CBDCs reduce the
+international spillover of shock and increase international engagement and domestic well-being (Ferrari Minesso et al., 2022).
+    Thus, CBDCs have several challenges along with economic and financial benefits, and the current literature based on material and
+systematic literature analysis reveals several research gaps. The literature proposes that future work should analyze the competitive
+behavior of private digital currencies and CBDCs. Furthermore, the optimal structure of CBDCs and traditional cash is essential and
+requires in-depth exploration across all economies. CBDCs have several serious structural, operational, securities, and governance
+concerns (Adrian and Mancini-Griffoli, 2021; Keister and Sanches, 2022), such as liquidating public deposits due to zero interest and
+dismissing commercial banks as intermediaries. Therefore, CBDCs need extensive research in these competitions. Most studies are
+conducted in specific economic and governance systems and may not be universally applicable (Chen and Siklos, 2022; Cheng, 2022;
+Wilkins, 2022). Therefore, future actions should expose CBDCs to unexplored economies. Chen and Siklos (2022) only analyzed
+time-series historical data from eight countries. Future studies should include some developing countries and perform analyzes on
+larger data sets.
+
+4. Conclusion and future research agenda
+
+    We use the bibliometric and content analysis of 174 documents retrieved from the Scopus database to present the publication
+trends in Central Bank Digital Currencies (CBDCs) since 2018 and highlight the top publishing source with the most contributing
+authors in their affiliated countries. An upward trend of research (400% growth observed in 2019) is evident in increased publications
+since 2018. The major propellants are research interest in the systematic framework, significance, and structural implications of CBDC
+as a structural shift in the digitization of the monetary system. We identify the most influential and contributing sources, authors, and
+publications. Journal of Payments Strategy and Systems is top on our list, followed by the Cato Journal. Alonso SLN is the top
+contributing author, followed by Lee J. and Belke A. based on their h-index, g-index, m-index, publication, and citation. The most
+impactful document identified based on local and global citations on CBDC is (Brunnermeier and Niepelt, 2019), followed by (Yao,
+2018). The most contributing countries are the ones who either announced the implementation of CBDC or are planning to implement
+the CBDC, such as the United States, the United Kingdom, and China. The result suggests that other countries participate in the
+structural change of the currency system and contribute toward a stable, secure, and efficient monetary and economic framework. The
+study also analyses the page rank of the documents and themes and find the top prestigious document are (Wang et al., 2021),
+(Aguret al., 2022), and (Allen et al., 2022), and the top themes are "Privacy," "Stablecoins," Smart Contract," and "Monetary Policy."
+The study also conducted thematic mapping and clustering based on co-occurrence analysis and found three clusters, "Policy Impli­
+cations of Digital Currencies," "Systematic Framework of CBDC," and "Monetary Stimulus and Emergence of CBDC," of CBDC literature.
+After the content analysis of the cluster, we observed that initially, the research evolves around the digital currency, and then it moves
+toward stability and security concerns. In the last cluster, the research tries to incorporate world diversities with CBDC.
+    This study derives valuable insights into CBDCs by thoroughly reviewing the existing literature. CBDCs are becoming increasingly
+important in the implementation of macroeconomic decisions. This study reveals that CBDC research still has a long way to go. This
+serves as a wake-up call to policymakers to prioritize collaborative infrastructure design to adapt CBDCs as they are introduced.
+Researchers are making significant efforts to investigate how CBDCs are linked to international trade and other assets, particularly
+cryptocurrencies. There is much room for theoretical development, contextual coverage, and methodology contributions. CBDCs have
+far-reaching implications for monetary and payment systems, and their development could pave the way for a global common
+currency.
+
+                                                                   13
+R. Bhaskar et al.        Research in International Business and Finance 62 (2022) 101737
+                                                       Fig. 7. Conceptual framework of CBDC.
+                    14
+R. Bhaskar et al.                                                                                        Research in International Business and Finance 62 (2022) 101737
+
+
+   Hence, based on this bibliometric analysis, we can observe that the future research agenda should replace cash with CBDCs and
+money supply mechanism. Moreover, future research may also identify the probable impact of digitization of currency on the US dollar
+and UK pound leadership role. The other future agenda should be managing the international transaction system and its cost with a
+diversified ethical, technological, social, legal, economic, and political environment. Moreover, the CBDC should also explore the
+impact of CBDC on other digital currencies, monetary policy responses, and money supply. The upcoming research on discussed future
+agendas assists the policymaker, economist, and regularities in tackling the challenges of CBDC and work for ease of life.
+
+CRediT authorship contribution statement
+
+   Ratikant Bhaskar: Conceptualization, Formal analysis, Methodology, Data curation, Writing – original draft, Writing – review &
+editing. Ahmed Imran Hunjra: Methodology, Conceptualization, Project administration, Writing – review & editing. Shashank
+Bansal: Conceptualization, Supervision, Writing – review & editing. Dharen Kumar Pandey: Conceptualization, Data curation,
+Formal analysis, Methodology, Writing – original draf, Writing – review & editing.
+
+Data Availability
+
+    Data will be made available on request.
+
+
+References
+
+Abbassi, W., Kumari, V., Pandey, D.K., 2022. What makes firms vulnerable to the Russia-Ukraine crisis? J. Risk Financ. https://doi.org/10.1108/JRF-05-2022-0108.
+Adrian, T., Mancini-Griffoli, T., 2021. The rise of digital money. Ann. Rev. Financ. Econ. 13 (1), 57–77. https://doi.org/10.1146/annurev-financial-101620-063859.
+Agur, I., Ari, A., Dell’Ariccia, G., 2022. Designing Central Bank Digital Currencies. J. Monet. Econ. 125, 62–79. https://doi.org/10.1016/j.jmoneco.2021.05.002.
+Aksnes, D.W., 2003. Characteristics of highly cited papers. Res. Eval. 12, 159–170. https://doi.org/10.3152/147154403781776645.
+Alabi, K., 2020. A 2020 perspective on "Digital blockchain networks appear to be following Metcalfe’s Law. Electron. Commer. Res. Appl. 40. https://doi.org/
+    10.1016/j.elerap.2020.100939.
+Allen, F., Gu, X., Jagtiani, J., 2022. Fintech, cryptocurrencies, and CBDC: financial structural transformation in China. J. Int. Money Financ. 124, 102625 https://doi.
+    org/10.1016/j.jimonfin.2022.102625.
+Alonso, S.L.N., Fernández, M.Á.E., Bas, D.S., Kaczmarek, J., 2020a. Reasons fostering or discouraging the implementation of central bank-backed digital currency: a
+    review. Econ 8. https://doi.org/10.3390/ECONOMIES8020041.
+Alonso, S.L.N., Jorge-Vazquez, J., Forradellas, R.F.R., 2020b. Detection of financial inclusion vulnerable rural areas through an access to cash index: solutions based
+    on the pharmacy network and a CBDC. evidence based on Ávila (Spain). Sustainability 12. https://doi.org/10.3390/SU12187480.
+Alonso, S.L.N., Jorge-Vazquez, J., Forradellas, R.F.R., 2021. Central banks digital currency: detection of optimal countries for the implementation of a CBDC and the
+    implication for payment industry open innovation. J. Open Innov. Technol. Mark. Complex 7, 1–23. https://doi.org/10.3390/joitmc7010072.
+Aria, M., Cuccurullo, C., 2017. bibliometrix: An R-tool for comprehensive science mapping analysis. J. Inf. 11, 959–975. https://doi.org/10.1016/j.joi.2017.08.007.
+Ashraf, B.N., 2020. Economic impact of government interventions during the COVID-19 pandemic: International evidence from financial markets. J. Behav. Exp.
+    Financ. 27, 100371 https://doi.org/10.1016/j.jbef.2020.100371.
+Aysan, A.F., Kayani, F.N., 2022. China’s transition to a digital currency does it threaten dollarization. Asia Glob. Econ. 2, 100023 https://doi.org/10.1016/j.
+    aglobe.2021.100023.
+Bariviera, A.F., Merediz-Solà, I., 2021. Where do we stand in cryptocurrencies economic research? a survey based on hybrid analysis. J. Econ. Surv. 35, 377–407.
+    https://doi.org/10.1111/joes.12412.
+Barrdear, J., Kumhof, M., 2021. The macroeconomics of Central Bank Digital Currencies. J. Econ. Dyn. Cont., 104148 https://doi.org/10.1016/j.jedc.2021.104148.
+Belke, A., Beretta, E., 2020. From cash to Central Bank Digital Currencies and cryptocurrencies: a balancing act between modernity and monetary stability. J. Econ.
+    Stud. 47 (4), 911–938. https://doi.org/10.1108/JES-07-2019-0311.
+Bhaskar, R., Bansal, S., 2022. Nineteen years of emerging markets finance and trade: a bibliometric analysis. Emerg. Mark. Financ. Trad. 1–16. https://doi.org/
+    10.1080/1540496X.2022.2086041.
+Bian, W., Ji, Y., Wang, P., 2021. The crowding-out effect of Central Bank Digital Currencies: a simple and generalizable payment portfolio model. Financ. Res. Lett. 43,
+    102010 https://doi.org/10.1016/j.frl.2021.102010.
+Bindseil, U., 2019. Central bank digital currency: financial system implications and control. Int. J. Polit. Econ. 48, 303–335. https://doi.org/10.1080/
+    08911916.2019.1693160.
+Bordo, M.D., 2021. Central bank digital currency in historical perspective: another crossroad in monetary history (No. w29171). Natl. Bur. Econ. Res. https://doi.org/
+    10.3386/w29171.
+Boubaker, S., Goodell, J.W., Pandey, D.K., Kumari, V., 2022. Heterogeneous impacts of wars on global equity markets: evidence from the invasion of Ukraine. Financ.
+    Res. Lett. 48, 102934 https://doi.org/10.1016/J.FRL.2022.102934.
+Boungou, W., Yatié, A., 2022. The impact of the Ukraine–Russia war on world stock market returns. Econ. Lett. 215, 110516 https://doi.org/10.1016/j.
+    econlet.2022.110516.
+Brin, S., Page, L., 1998. The anatomy of a large-scale hypertextual Web search engine. Comput. Netw. ISDN Syst. 30, 107–117. https://doi.org/10.1016/S0169-7552
+    (98)00110-X.
+Brunnermeier, M.K., Niepelt, D., 2019. On the equivalence of private and public money. J. Monet. Econ. 106, 27–41. https://doi.org/10.1016/j.
+    jmoneco.2019.07.004.
+Burnham, J.F., 2006. Scopus database: a review. Biomed. Digit. Libr. 3, 1–8. https://doi.org/10.1186/1742-5581-3-1.
+Callon, M., Courtial, J.P., Laville, F., 1991. Co-word analysis as a tool for describing the network of interactions between basic and technological research: the case of
+    polymer chemsitry. Scientomet 22, 155–205. https://doi.org/10.1007/BF02019280.
+Castrén, O., Kavonius, I.K., Rancan, M., 2022. Digital currencies in financial networks. J. Financ. Stab. 60. https://doi.org/10.1016/j.jfs.2022.101000.
+Chen, H., Siklos, P.L., 2022. Central bank digital currency: a review and some macro-financial implications. J. Financ. Stab. 60, 100985 https://doi.org/10.1016/j.
+    jfs.2022.100985.
+Chen, X., Chen, J., Wu, D., Xie, Y., Li, J., 2016. Mapping the research trends by co-word analysis based on keywords from funded project. Proced. Comput. Sci. 91,
+    547–555. https://doi.org/10.1016/j.procs.2016.07.140.
+Cheng, P., 2022. Decoding the rise of central bank digital currency in China: designs, problems, and prospects. J. Bank Regul. https://doi.org/10.1057/s41261-022-
+    00193-5.
+Chu, Y., Lee, J., Kim, S., Kim, H., Yoon, Y., Chung, H., 2022. Review of offline payment function of CBDC considering security requirements. Appl. Sci. 12 (9), 4488.
+Cullen, J., 2022. Economically inefficient and legally untenable: constitutional limitations on the introduction of Central Bank Digital Currencies in the EU. J. Bank
+    Regul. 23 (1), 31–41. https://doi.org/10.1057/s41261-021-00162-4.
+
+
+                                                                                   15
+R. Bhaskar et al.                                                                                         Research in International Business and Finance 62 (2022) 101737
+
+Cunha, P.R., Melo, P., Sebastião, H., 2021. From bitcoin to Central Bank Digital Currencies: making sense of the digital money revolution. Futur. Internet 13, 1–19.
+     https://doi.org/10.3390/fi13070165.
+Dashkevich, N., Counsell, S., Destefanis, G., 2020. Blockchain application for central banks: a systematic mapping study. IEEE Access 8, 139918–139952. https://doi.
+     org/10.1109/ACCESS.2020.3012295.
+Davoodalhosseini, S.M., 2021. Central bank digital currency and monetary policy. J. Econ. Dyn. Cont., 104150 https://doi.org/10.1016/j.jedc.2021.104150.
+Donthu, N., Kumar, S., Mukherjee, D., Pandey, N., Lim, W.M., 2021. How to conduct a bibliometric analysis: an overview and guidelines. J. Bus. Res. 133, 285–296.
+     https://doi.org/10.1016/j.jbusres.2021.04.070.
+Duarte, C.B., 2019. Alternative monetary targets, instruments and future monetary policy frameworks. Rev. Polit. Econ. 31 (4), 582–601. https://doi.org/10.1080/
+     09538259.2020.1730606.
+Dupuis, D., Gleason, K., Wang, Z., 2022. Money laundering in a CBDC world: a game of cats and mice. J. Financ. Crim. 29 (1), 171–184. https://doi.org/10.1108/JFC-
+     02-2021-0035.
+Echarte Fernández, M.Á., Náñez Alonso, S.L., Reier Forradellas, R., Jorge-Vázquez, J., 2022. From the great recession to the COVID-19 pandemic: the risk of
+     expansionary monetary policies. Risks 10 (2), 23. https://doi.org/10.3390/risks10020023.
+van Eck, N.J., Waltman, L., 2010. Software survey: VOSviewer, a computer program for bibliometric mapping. Scientomet 84, 523–538. https://doi.org/10.1007/
+     s11192-009-0146-3.
+Fabris, N., 2019. Cashless society - the future of money or a Utopia? J. Cent. Bank Theor. Pr. 8, 53–66. https://doi.org/10.2478/jcbtp-2019-0003.
+Famiglietti, M., Leibovici, F., 2022. The impact of health and economic policies on the spread of COVID-19 and economic activity. Eur. Econ. Rev. 144, 104087
+     https://doi.org/10.1016/j.euroecorev.2022.104087.
+Fantacci, L., Gobbi, L., 2021. Stablecoins, Central Bank Digital Currencies and US dollar Hegemony: the geopolitical stake of innovations in money and payments.
+     Account. Econ. Law A Conviv. https://doi.org/10.1515/ael-2020-0053.
+Fegatelli, P., 2022. A central bank digital currency in a heterogeneous monetary union: managing the effects on the bank lending channel. J. Macroecon. 71, 103392
+     https://doi.org/10.1016/j.jmacro.2021.103392.
+Fernández-Villaverde, J., Sanches, D., Schilling, L., Uhlig, H., 2021. Central bank digital currency: central banking for all? Rev. Econ. Dyn. 41, 225–242. https://doi.
+     org/10.1016/j.red.2020.12.004.
+Ferrari Minesso, M., Mehl, A., Stracca, L., 2022. Central bank digital currency in an open economy. J. Monet. Econ. 127, 54–68. https://doi.org/10.1016/j.
+     jmoneco.2022.02.001.
+Goodell, J.W., 2020. COVID-19 and finance: agendas for future research. Financ. Res. Lett. 35, 101512 https://doi.org/10.1016/j.frl.2020.101512.
+Goodell, J.W., Shen, D., 2021. The Chinese sovereign digital currency as a catalyst for change: A new trilemma?. In: Understanding Cryptocurrency Fraud. De Gruyter,
+     pp. 177–186. https://doi.org/10.1515/9783110718485-014.
+Goodell, J.W., Kumar, S., Lim, W.M., Pattnaik, D., 2021. Artificial intelligence and machine learning in finance: Identifying foundations, themes, and research clusters
+     from bibliometric analysis. J. Behav. Exp. Financ. 32, 100577 https://doi.org/10.1016/j.jbef.2021.100577.
+Goyal, K., Kumar, S., 2021. Financial literacy: A systematic review and bibliometric analysis. International Journal of Consumer Studies 45 (1), 80–105. https://doi.
+     org/10.1111/ijcs.12605.
+Grasselli, M.R., Lipton, A., 2019. On the normality of negative interest rates. Rev. Keynes. Econ. 7 (2), 201–219. https://doi.org/10.4337/roke.2019.02.06.
+Gronwald, M., 2019. Is bitcoin a commodity? On price jumps, demand shocks, and certainty of supply. J. Inter. Mon. Financ 97, 86–92. https://doi.org/10.1016/j.
+     jimonfin.2019.06.006.
+Howell, B.E., Potgieter, P.H., 2021. Central Bank issued digital currencies. SSRN Electron. J. https://doi.org/10.2139/ssrn.3782968.
+Huibers, F., 2021. Distributed Ledger Technology and the Future of Money and Banking: Banking is Necessary, Banks Are Not. Bill Gates 1994. Accounting, Economics
+     and Law: A Convivium 1–37. https://doi.org/10.1515/ael-2019–0095.
+Jia, B., Goodell, J.W., Shen, D., 2021. US partisan conflict and high-yield exchange rates. Financ. Res. Lett. 40, 101785 https://doi.org/10.1016/j.frl.2020.101785.
+Keister, T., Sanches, D., 2022. Should central banks issue digital currency? Rev. Econ. Stud. https://doi.org/10.1093/restud/rdac017.
+Khiaonarong, T., Humphrey, D., 2019. Cash Use Across Countries and the Demand for Central Bank Digital Currency. IMF Working Papers 2019, 1. https://doi.org/
+     10.5089/9781484399606.001.
+Kochergin, D.A., Yangirova, A.I., 2019. Central bank digital currencies: key characteristics and directions of influence on the monetary and payment systems. Finance:
+     Theory and Practice 23 (4), 80–98. https://doi.org/10.26794/2587-5671-2019-23-4-80-98.
+Kumar, S., Sureka, R., Colombage, S., 2020. Capital structure of SMEs: a systematic literature review and bibliometric analysis. In: In Management Review Quarterly,
+     Vol. 70. Springer International Publishing. https://doi.org/10.1007/s11301-019-00175-4.
+Larina, O.I., Akimov, O.M., 2020. Digital money at the present stage: key risks and development direction. Financ. Theor. Pr. 24, 18–30. https://doi.org/10.26794/
+     2587-5671-2020-24-4-18-30.
+Le, L.-T., Yarovaya, L., Nasir, M.A., 2021. Did COVID-19 change spillover patterns between fintech and other asset classes? Res. Inter. Bus. Financ. 58, 101441 https://
+     doi.org/10.1016/j.ribaf.2021.101441.
+Lee, D.K.C., Yan, L., Wang, Y., 2021. A global perspective on central bank digital currency. China Econ. J. 14, 52–66. https://doi.org/10.1080/
+     17538963.2020.1870279.
+Luo, S., Zhou, G., Zhou, J., 2021. The impact of electronic money on monetary policy: based on dsge model simulations. Mathemat 9, 1–26. https://doi.org/10.3390/
+     math9202614.
+Meaning, J., Dyson, B., Barker, J., Clayton, E., 2018. Staff Working Paper No. 724 Broadening narrow money: monetary policy with a central bank digital currency.
+     〈www.bankofengland.co.uk/working-paper/Working-papers〉.
+Milkau, U., 2021. Do we need a digital euro, or a digitisation of payments? Journal of Payments Strategy & Systems 15 (3), 260–276.
+Milkau, U., Bott, J., 2018. Digital currencies and the concept of money as a social agreement. J. Paym. Strat. Syst. 12, 213–231.
+Morgan, P.J., 2022. Fintech and financial inclusion in Southeast Asia and India. Asian Econ. Polic. Rev. 17 (2), 183–208. https://doi.org/10.1111/aepr.12379.
+de Moya-Anegón, F., Chinchilla-Rodríguez, Z., Vargas-Quesada, B., Corera-Álvarez, E., Muñoz-Fernández, F., González-Molina, A., Herrero-Solana, V., 2007. Coverage
+     analysis of Scopus: a journal metric approach. Scientomet 73 (1), 53–78.
+Nabilou, H., 2020. Testing the waters of the Rubicon: the European Central Bank and Central Bank Digital Currencies. J. Bank. Regul. 21, 299–314. https://doi.org/
+     10.1057/s41261-019-00112-1.
+Náñez Alonso, S.L., Jorge-vázquez, J., Echarte Fernández, M.Á., Reier Forradellas, R.F., 2021. Cryptocurrency mining from an economic and environmental
+     perspective. In: Analysis of the most and least sustainable countries. Energies. https://doi.org/10.3390/en14144254. Basel.
+Nelaturu, K., Du, H., Le, D., 2022. A review of blockchain in fintech: taxonomy, challenges, and future directions. Cryptograph 6 (2), 18. https://doi.org/10.3390/
+     cryptography6020018.
+Niepelt, D., 2020. Reserves for all? Central bank digital currency, deposits, and their (non)-equivalence. Inter. J. Cent. Bank 16, 211–238. https://doi.org/10.2139/
+     ssrn.3254206.
+Omarova, S.T., 2020. Technology v Technocracy: fintech as a regulatory challenge. J. Financ. Regul. 6 (1), 75–124. https://doi.org/10.1093/jfr/fjaa004.
+Opare, E.A., Kim, K., 2020. A compendium of practices for Central Bank Digital Currencies for multinational financial infrastructures. IEEE Access 8, 110810–110847.
+     https://doi.org/10.1109/ACCESS.2020.3001970.
+Ozili, P.K., 2022. Central bank digital currency research around the world: a review of literature. J. Mon. Laund. Cont. https://doi.org/10.1108/JMLC-11-2021-0126.
+Pandey, D.K., Kumari, V., 2021. Event study on the reaction of the developed and emerging stock markets to the 2019-nCoV outbreak. Inter. Rev. Econ. Financ 71,
+     467–483. https://doi.org/10.1016/j.iref.2020.09.014.
+Patel, R., Goodell, J.W., Oriani, M.E., Paltrinieri, A., Yarovaya, L., 2022. A bibliometric review of financial market integration literature. Inter. Rev. Financ. Anal. 80,
+     102035 https://doi.org/10.1016/j.irfa.2022.102035.
+
+
+
+
+                                                                                    16
+R. Bhaskar et al.                                                                                        Research in International Business and Finance 62 (2022) 101737
+
+Peneder, M., 2022. Digitization and the evolution of money as a social technology of account. J. Evol. Econ. 32 (1), 175–203. https://doi.org/10.1007/s00191-021-
+    00729-4.
+Pongnumkul, S., Bunditlurdruk, T., Chaovalit, P., Tharatipyakul, A., 2021. A cross-sectional review of blockchain in Thailand: research literature, education courses,
+    and industry projects. Appl. Sci. 11 (11), 4928. https://doi.org/10.3390/app11114928.
+Prashar, A., Sunder, M.V., 2020. A bibliometric and content analysis of sustainable development in small and medium-sized enterprises. J. Clean. Prod. 245, 118665
+    https://doi.org/10.1016/j.jclepro.2019.118665.
+Qian, Y., 2019. Central Bank Digital Currency: optimization of the currency system and its issuance design. China Econ. J. 12, 1–15. https://doi.org/10.1080/
+    17538963.2018.1560526.
+Radic, A., Quan, W., Koo, B., Chua, B.-L., Kim, J.J., Han, H., 2022. Central bank digital currency as a payment method for tourists: application of the theory of planned
+    behavior to digital Yuan/Won/Dollar choice. J. Trav. Tour. Mark. 39, 152–172. https://doi.org/10.1080/10548408.2022.2061677.
+Scarcella, L. (2021). The implications of adopting a European Central Bank Digital Currency: A Tax Policy Perspective. EC Tax Rev. 30(Issue 4), 177–188. https://doi.
+    org/10.54648/ECTA2021019.
+Sebastiã, H.M.C.V., Da Cunha, P.J.O.R., Godinho, M.C., 2021. Cryptocurrencies and blockchain. Overview and future perspectives. Inter. J. Econ. Bus. Res. 21 (3),
+    305. https://doi.org/10.1504/IJEBR.2021.114400.
+Shen, W., Hou, L., 2021. China’s central bank digital currency and its impacts on monetary policy and payment competition: Game changer or regulatory toolkit?
+    Comput. Law. Secur. Rev. 41, 105577 https://doi.org/10.1016/j.clsr.2021.105577.
+Small, H., 1973. Co-citation in the scientific literature: a new measure of the relationship between two documents. J. Am. Soc. Inf. Sci. 24, 265–269.
+Solberg Söilen, K., Benhayoun, L., 2022. Household acceptance of central bank digital currency: the role of institutional trust. Int. J. Bank Mark. 40, 172–196. https://
+    doi.org/10.1108/IJBM-04-2021-0156.
+Tong, W., Jiayou, C., 2021. A study of the economic impact of central bank digital currency under global competition. China Econ. J. 14, 78–101. https://doi.org/
+    10.1080/17538963.2020.1870282.
+Treiblmaier, H., Sillaber, C., 2021. The impact of blockchain on e-commerce: a framework for salient research topics. Electron. Commer. Res. Appl. 48, 101054
+    https://doi.org/10.1016/j.elerap.2021.101054.
+Waltman, L., van Eck, N.J., Noyons, E.C.M., 2010. A unified approach to mapping and clustering of bibliometric networks. J. Inf. 4, 629–635. https://doi.org/
+    10.1016/j.joi.2010.07.002.
+Wang, G., Hausken, K., 2021. Governmental taxation of households choosing between a national currency and a cryptocurrency. Games 12 (2), 34. https://doi.org/
+    10.3390/g12020034.
+Wang, Y., Lucey, B.M., Vigne, S., Yarovaya, L., 2022. The effects of Central Bank Digital Currencies news on financial markets. Technol. Forecast. Soc. Change 180,
+    121715. https://doi.org/10.2139/ssrn.3961648.
+Wilkins, C.A., 2022. Discussion of "designing central bank digital currency" by Agur, Ari and Dell’Ariccia. J. Monet. Econ. 125, 80–84. https://doi.org/10.1016/j.
+    jmoneco.2021.09.009.
+Williamson, S.D., 2021. Central bank digital currency and flight to safety. J. Econ. Dyn. Cont., 104146 https://doi.org/10.1016/j.jedc.2021.104146.
+Yamaoka, H., 2019. The future of central banking. Account. Econ. Law: A Conviv. https://doi.org/10.1515/ael-2019-0003.
+Yao, Q., 2018. A systematic framework to understand central bank digital currency. China Inf. Sci 61, 1–8.
+Zhang, J., Tian, R., Cao, Y., Yuan, X., Yu, Z., Yan, X., Zhang, X., 2021. A hybrid model for central bank digital currency based on blockchain. IEEE Access 9,
+    53589–53601. https://doi.org/10.1109/ACCESS.2021.3071033.
+Zhang, T., Huang, Z., 2021. Blockchain and central bank digital currency. ICT Express. https://doi.org/10.1016/j.icte.2021.09.014.
+Zupic, I., Čater, T., 2015. Bibliometric methods in management and organization. Organ. Res. Method 18, 429–472. https://doi.org/10.1177/1094428114562629.
+
+
+
+
+                                                                                   17
+

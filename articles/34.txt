@@ -1,0 +1,117 @@
+CRYPTOCURRENCY IN INDIA: TO BAN OR NOT TO BAN1
+Cryptocurrencies are digital representations of value that can be stored and transferred
+digitally. Simply put, it is a type of digital currency or a medium of exchange just like the US
+dollar. They function autonomously, unencumbered by traditional banking and government
+oversight. Countries have repeatedly attempted to implement measures to regulate
+Cryptocurrency or ban it altogether. This article analyzes India‟s stance on Cryptocurrency and
+will also look as to how the Cryptocurrency is regulated in various jurisdictions.
+Timeline of Events
+Since 2012 there have been a large number of Cryptocurrency exchanges operating in India,
+including the likes of Zebpay, CoinDCX, or Unocoin amongst others. These crypto exchange
+platforms managed to provide much needed depth and volume to the Indian crypto market until
+2013 when Reserve Bank of India („RBI‟), the Central Bank of India, issued a Press Release to
+caution the common populace against dealing in virtual currencies. However, its transaction
+volume and popularity in general public skyrocketed when the Central Government announced
+demonetization of high denomination notes in November 2016 to promote digital payment
+services over traditional payment processing systems. This growing popularity of
+Cryptocurrencies compelled RBI to issue regular Press Releases in February 2017 and December
+2017 reiterating concerns regarding virtual currencies and cautioning the general public about the
+risks associated with it.
+In November 2017 the Government of India constituted a high level Inter-ministerial
+Committee („the Committee‟) under the chairmanship of Shri Subhash Chandra Garg, Secretary,
+Department of Economic Affairs, Ministry of Finance, to study concerns pertaining to Virtual
+Currencies and to propose specific actions that may be taken in relation thereto. The Committee
+in its report of February 2019 recommended a blanket ban on private Cryptocurrencies in India.
+After regular cautions via Press Releases in the previous year, The RBI in 2018 issued
+a circular thereby prohibiting banks and financial institutions from dealing in and from providing
+services that facilitate dealing in virtual currencies. However, in March 2020, this circular was
+struck down by a three-judge bench of the Supreme Court of India („SC‟) in Internet and Mobile
+Association of India v. Reserve Bank of India, (2020 SCC Online SC 275), observing that since
+
+Aman Kumar Yadav, „Cryptocurrency in India: To ban or not to ban‟ (The RMLNLU Law Review Blog, 2 March
+2021), available at: https://rmlnlulawreview.com/2021/03/02/cryptocurrency-in-india-to-ban-or-not-to-ban.
+1
+
+Electronic copy available at: https://ssrn.com/abstract=3803471
+
+Cryptocurrencies are not banned in India and pose no discernible risk, the deprivation of
+Cryptocurrency exchanges from accessing banking and payments channels would be
+disproportionate.
+Countries that have not banned the Virtual Currency
+Some of the notable jurisdictions that have a comprehensive legislative framework to regulate
+Cryptocurrency include Australia, Japan, Singapore, United Arab Emirates („UAE‟) amongst
+others. Australia has been one of the most progressive jurisdictions when it comes to the
+adoption of Cryptocurrency. Both Cryptocurrencies and exchanges are legal in Australia and are
+subject to capital gains tax. Similarly, Japan, in 2020, amended its regulation governing „virtual
+currency exchange services‟ thereby necessitating the businesses offering virtual currency
+exchange services to register with the Financial Services Agency in Japan. Moreover, Central
+Bank of Japan, i.e., Bank of Japan on July 2, 2020, released a report entitled “Technological
+Challenges in Having Central Bank Digital Currencies Function as Cash Equivalents”,
+acknowledged the possibility of using central bank digital currencies as cash equivalents and
+issues involved in the same. In Singapore, Cryptocurrency is legal and any kind of digital
+payments tokens are regulated by the Monetary Authority of Singapore under the Payments
+Services Act, 2019. Similarly one of the financial free market zones, Abu Dhabi Global Markets
+(ADGM) of UAE uses the term „digital assets‟ as an umbrella expression to regulate digital
+securities, crypto assets, utility tokens and fiat tokens etc. Here, crypto assets are regulated by the
+Financial Services Regulatory Authority (FSRA) which provides certain mandatory requirements
+for operating crypto asset business.
+Countries that have banned Cryptocurrency
+In Latin America, Cryptocurrency regulations vary greatly. Countries like Bolivia have effectively
+banned crypto while others, like Brazil, and Mexico have implemented regulations to govern
+crypto. In jurisdictions like the United Kingdom (UK), although crypto is not considered to be
+legal tender, Cryptocurrency exchanges are legal. Moreover, gains or losses on crypto are subject
+to capital gains tax. The UK has been proactive in its approach concerning Cryptocurrency, in
+July 2019, The U.K.‟s Financial Conduct Authority („FCA‟) released a guidance report on crypto
+assets clarifying which tokens fall under its jurisdiction. Following this, the U.K. Treasury in
+January 2021, released a consultation paper to gather feedback from stakeholders concerning the
+government‟s regulatory approach to cryptocurrencies. Canada allows the use of Cryptocurrency
+and the same is regulated under securities laws. Furthermore, digital currency transactions are
+subject to tax laws as the Financial Consumer Agency of Canada treats it as a commodity.
+Primary concerns that nations have regarding Cryptocurrency is that they believe it facilitates
+
+Electronic copy available at: https://ssrn.com/abstract=3803471
+
+criminality, including money laundering and terror financing. However, progress has been
+witnessed as private firms can now help in de-anonymising Bitcoin transactions to trace the illicit
+activity facilitated by Cryptocurrency.
+The way forward
+While countries like South Korea are planning to put a legislative framework to regulate the
+Cryptocurrencies and Crypto exchanges, on the other hand, countries like India are considering
+imposing an effective ban on digital assets and digital currencies. The Lower House of the
+Parliament in its bulletin, released on January 30, 2021, indicates that Indian parliament is
+planning to table The Cryptocurrency and Regulation of Official Digital Currency Bill, 2021 („the
+Bill‟) to ban „private‟ Cryptocurrencies such as Bitcoin and introduce its own digital currency
+which is often termed as „Central Bank Digital Currency‟ („CBDC‟) like Tunisia‟s eDinar
+(launched in 2015), Senegal‟s eCFA (2016), Venezuela‟s Petromoneda (2018) or the most recent
+China‟s digital Yuan (2020). Some notable jurisdictions that are experimenting with the CBDC,
+include France, Canada and Sweden.
+India‟s stance of regulating the Cryptocurrency by introducing the state backed digital currency
+which will be regulated by the RBI is worrisome, however, it doesn‟t come as a surprise as both,
+the Committees‟ report of June 2019 and the Draft Bill, Banning of Cryptocurrency and
+Regulation of Official Digital Currency Bill, 2019 were indicative of the same. The approach
+similar to that of China, also indicates that India acknowledges the potential application of the
+virtual currency going forward. Since, there wasn‟t any sui generis legislation to govern
+Cryptocurrencies, this Bill will provide clarity as to how it should be regulated, however,
+uncertainty exists as to (i) what exactly is „private‟ Cryptocurrencies, (ii) whether
+Cryptocurrencies will be treated as a 'currency' or a 'stock' or there will be an outright ban on
+dealing with them, and (iii) whether there will be any tax mechanism in place to check Crypto
+trading as previously speculated in December 2020.
+Furthermore, assuming that the CBDC issued by the Indian government works on a two tier
+model, i.e. it would have two layers of protection, with one layer through the Distributed Ledger
+Technology (DLT) technology and another through its centralized system then the concerns
+relating to security in dealing with Cryptocurrencies can be suitably dealt with. Going forward, it
+is paramount to have an effective dialogue on the Bill that includes taking note of the
+stakeholder‟s comment and addressing their concerns, otherwise banning the Cryptocurrency in
+a hurry would only invite prolonged litigation in the apex court of the country leaving crypto
+
+Electronic copy available at: https://ssrn.com/abstract=3803471
+
+traders in dire straits, resulting in uneasiness in the sector which is destined to accelerate to
+greater heights in India. A campaign (#Indiawantscrypto) is being shared across social media in
+response to government‟s proposed plan of banning Cryptocurrency which has draft templates
+pointing out the positives of the Cryptocurrency trading as to how it is innovative and can help
+India in archiving the goal of $5 Trillion economy that too with Self Reliant India campaign.
+
+Electronic copy available at: https://ssrn.com/abstract=3803471
+
+

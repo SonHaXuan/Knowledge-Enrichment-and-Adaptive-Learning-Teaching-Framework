@@ -1,0 +1,1354 @@
+Research in International Business and Finance 64 (2023) 101884
+
+Contents lists available at ScienceDirect
+
+Research in International Business and Finance
+journal homepage: www.elsevier.com/locate/ribaf
+
+The determinants of issuing central bank digital currencies
+Abdelrahman J.K. Alfar a, Chamaiporn Kumpamool b, *, Dung T.K. Nguyen c,
+Rizwan Ahmed d
+a
+
+Global Business School for Health, University College London, United Kingdom
+Faculty of Business Administration and Accountancy, Khon Kaen University, Khon Kaen, Thailand
+School of Banking and Finance, National Economics University, Hanoi, Vietnam
+d
+Department of Accounting and Finance, University of Kent, Kent Business School, United Kingdom
+b
+c
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+JEL Classification:
+E51
+E58
+G28
+
+Central Bank Digital Currencies (CBDC) are considered ‘digital fiat currencies’ that do not have a
+physical form, which is a key distinction from conventional fiat money. This study aims to
+identify factors that influence central banks’ decisions in taking advanced actions to issue CBDC,
+namely, the economic, market, demographic and technical factors. Data is collected from the
+CBDC Tracker and the WB database for the period 2013–2021. We applied the Pooled OLS es­
+timations to examine the impact of the key factors on being in an advanced stage for issuing
+CBDC; moreover, probit and logistic regression are employed to robust our results and overcome
+the limitations of Pooled OLS. The findings demonstrate that underdeveloped economies are more
+engaged in issuing CBDC. Besides, better regulations, FDI inflow, young populations, and more
+urban societies would increase the probability of CBDC issuance. Nevertheless, results show the
+impact of technical factors is heterogeneous across countries.
+
+Keywords:
+Money supply
+Central banks and their policies
+Financial system
+Central bank digital currencies
+
+1. Introduction
+For centuries, central banks have been trusted to provide money in the form of cash to the public as part of their public policy
+objectives. However, as cash use declined, faster and more convenient digital payments have emerged and grown in volume and scope
+all over the world. The Covid-19 pandemic arguably accelerated the trend of replacing cash with private digital money and alternative
+payment methods (BIS, 2020). It has also been argued that, in the digital age, the growth of cashless payments and the rise of
+cryptocurrencies are not only challenging central banks’ monetary prerogatives but also posing new threats to the stability and
+integrity of the financial system (Perret, 2019). It is against this background of significant changes and challenges that has motivated
+the central banks to look at the potential further evolution of issuing a new form of money: CBDC (Barontini and Holden, 2019).
+Alongside cash and bank reserves, CBDC would represent a third form of central bank money. The arguments put forward on the
+issuance of CBDC cover broad issues, such as the possible impact of CBDC on payment efficiency, banks’ fund intermediation, liquidity
+crises, and the transmission mechanism of monetary policy (Yanagawa and Yamaoka, 2019). The adoption of CBDC seems offer several
+benefits to the economy as a society welfare (Kwon et al., 2020; Lee et al., 2021; Barrdear and Kumhof, 2021; Williamson, 2021; Chuen
+and Teo, 2021; Garratt et al., 2022). However, the introduction of CBDC might also pose potential risks to consumers, the financial
+
+* Corresponding author.
+E-mail addresses: a.alfar@ucl.ac.uk (A.J.K. Alfar), chamaiporn@kku.ac.th (C. Kumpamool), dungntk@neu.edu.vn (D.T.K. Nguyen), r.ahmed@
+kent.ac.uk (R. Ahmed).
+https://doi.org/10.1016/j.ribaf.2023.101884
+Received 27 May 2022; Received in revised form 9 January 2023; Accepted 15 January 2023
+Available online 18 January 2023
+0275-5319/© 2023 Elsevier B.V. All rights reserved.
+
+Research in International Business and Finance 64 (2023) 101884
+
+A.J.K. Alfar et al.
+
+sector and the wider economy (Alonso et al., 2020a, 2020b; Kumhof and Noone, 2021; Lee et al., 2021; Davoodalhosseini, 2022).
+Albeit the issuance of CBDC is gathering significant attention worldwide, there is a lack of empirical studies on CBDC as this concept is
+relatively novel (Ozili, 2022a, 2022b). Moreover, most previous studies have only concentrated on the important determinants of
+CBDC adoption while ignoring the potential determinants of taking an advanced action to issue the CBDC.
+Therefore, this study attempts to fill this gap by specifically investigating the factors affecting the probability of a central bank
+taking an advanced action to issue CBDC. In this study, the advanced stage, defined as the outcome variable, reveals whether a country
+has reached the Proof-of-Concept stage, Pilot stage, or the Launching stage. The possible determinants are categorised into four
+different groups including demographic factors, economic factors, technical factors, and market factors.
+To achieve the objectives of this study, we employed three approaches: a linear regression model, probit model and logistic
+regression. In doing so, this study contributes to the literature in the following ways. First, as one of the novel studies in this area, we
+contribute to building an econometric model for the determinants of CBDC for central banks to examine before launching CBDC.
+Second, to the best of our knowledge, this study filling the gap in the literature to consider various factors that determine the prob­
+ability of being in an advanced stage in issuing a CBDC. In addition, the findings of this study can highlight the long-term desirable
+demographic factors that increase the probability for banks of issuing a CBDC. This helps policymakers to consider the predicted
+economic aspects that are likely to increase or reduce this possibility. This study also demonstrates how infrastructure is crucial for
+effectively issuing CBDC. Finally, we clarify the circumstances in which market variables might influence the issuing of CBDC.
+The remainder of the paper is structured whereby the second section presents the literature review on the background of CBDC and
+the determinants of CBDC. The third section provides the hypothesis development for this study. The fourth section details the
+methodology and descriptive statistics for the data used in the study. Section five reports the empirical findings and section six offers a
+brief discussion of the results. Finally, the seventh section concludes this study and suggests policy implications.
+2. Literature review
+Digital currency is an innovative financial instrument as a medium of exchange using the internet to facilitate and increase online
+transactions leading to a revolution to the economy (Saif Almuraqab, 2020). CBDC is one of the newest digital currencies introduced to
+the general public which are authorised by an issuing central bank. The introduction of CBDC has been broadly discussed by several
+modern researchers in various sectors. However, the literature is very much still in the initial stages (Bhaskar et al., 2022). Moreover,
+most of the research studies in this subject are in terms of review of literature and discussion on the literature, such as the studies of
+Bhaskar et al. (2022) and Ozili (2022a, 2022b). In addition, there is a lack of empirical studies on CBDC as this concept is relatively
+novel (Ozili, 2022a, 2022b). For clarity, we divide the literature review into three sections. Firstly, we review the background of CBDC.
+Secondly, we discuss the literature on the determinants of CBDC. Finally, we discuss on CBDC vs crypto vs fiat currencies.
+2.1. The background of CBDC
+There is no doubt that financial innovation has rapidly grown in the last decade after the emergence of financial technology
+(Fintech). This intensive development has also significantly changed human behaviour in several aspects such as conducting financial
+transactions (Ashworth and Goodhart, 2020) and the improvement of financial inclusion (Allen et al., 2022). Cryptocurrency, known
+as a digital currency, which was launched by private initiatives such as Bitcoins, Dogecoin, Ethereum and Litecoin, has become
+increasingly popular from 2017 to 2021 (Ozili, 2022a, 2022b). However, the supply of cryptocurrency is relatively lower compared to
+its demand, which leads to inflated pricing of cryptocurrency and crypto-backed securities (Katsiampa et al., 2019). This results in high
+volatility, high risks and high levels of unreliability of cryptocurrencies (Ozili, 2022a, 2022b). Central banks, therefore, aim to issue
+CBDC as an alternative digital currency with lower risks and increased reliability when compared to other digital currencies in order to
+respond to the challenges of the cryptocurrency market.
+CBDC is defined by the International Monetary Fund (IMF) as a widely accessible digital form of a country’s fiat currency that could
+be a legal claim on the central bank. In other words, CBDC is known as a digital money supported and allocated by a central bank or a
+liability of issuing central banks (Atlantic Council, 2022; Chorzempa, 2021; Kiff et al., 2020). Moreover, a central bank can design a
+CBDC with the same characteristics with like-cash, bank deposits, and interest-bearing assets (Agur et al., 2022). Recently, CBDC has
+gained interest around the world, however, introducing CBDC is challenging in terms of the legal, technological, and political con­
+siderations (Chen and Siklos, 2022). Around 2016, several central banks started to research CBDC (Chorzempa, 2021). According to
+recent information on CBDC issuances in December 2021 from the Atlantic Council (2022), eighty-seven countries, or over nighty
+percent, of global GDP are investigating in a CBDC. In addition, there are nine countries who have fully issued a CBDC, the last country
+to this being Nigeria with their e-Naira digital currency. Furthermore, fourteen countries, including China and South Korea, are in the
+pilot stage of preparing for fully issuing their CBDC. This indicates that CBDC has significantly developed and has become more
+concrete in its conception.
+Comparing a CBDC against other (non-centralised) digital currencies, Nejad (2016) highlighted the difference between CBDC and
+traditional cryptocurrency. While cryptocurrency is stored in a decentralised control system on a blockchain network, CBDC is stored
+in a centralised control. This indicates that cryptocurrency cannot be controlled by a single authority, but a central bank who issues a
+CBDC asset can control CBDC, in line with legal regulations. Moreover, cryptocurrency relies on anonymous systems, which cannot be
+controlled by monetary policies and fiscal policies from government. In contrast, CBDC is a fiat liability of a central bank, and thus it
+can be used to settle payments or kept as a value asset (Söilen and Benhayoun, 2022).
+Issuing CBDC could offer several benefits to the economy. Barrdear and Kumhof (2021) found that issuing CBDC in a proportion of
+2
+
+Research in International Business and Finance 64 (2023) 101884
+
+A.J.K. Alfar et al.
+
+around 30% of GDP, compared to government bonds, would lead to an increase of GDP by 3% because of a low level in real interest
+rates, distortionary taxes, and monetary transaction costs., CBDC can be considered as a second monetary policy instrument to support
+the stabilisation of the business cycle. In addition, the level of the bank’s risk can be mitigated by specific arrangements of CBDC
+issuance. Williamson (2021) developed a new model to consider the level of panic arising within banks following the emergence of
+CBDC. The author found that even if a CBDC leads to an increased level of panic within banks, the benefits in financial transactions of
+CBDC are significant and potentially higher than physical currency. Therefore, this evidence can reduce the harm felt within the
+financial industry resulting from a banking panic and also provide economic advantages for the wider society. Kwon et al. (2020) also
+built a dual currency model and argued that the issuing of an interested-bearing CBDC can mitigate an inefficiency of tax evasion in
+cash transactions and enhance social welfare, especially for tax payments. In addition, Lee et al. (2021) concluded that the adoption of
+CBDC provides several benefits, including increased financial integration, an improvement of efficiency and security in financial
+transactions, a reduction of the cost for cross-border payments, and an enhancement of financial inclusion. Furthermore, a CBDC can
+be managed anonymously, which results in ease of accessibility for the public and also allows it to be tracked and used in both online
+and offline transactions (Chuen and Teo, 2021). The interest-bearing feature of CBDC allows monetary policy to flow more rapidly
+(Garratt et al., 2022). In addition, Ding et al. (2022) found that low uncertainty on CBDC can increase the strength of the performance
+for manufacturing firms. Thus, it is quite clear that the issuance of CBDC offers several advantages to the economy.
+On the other hand, the introduction of CBDC ameliorates the risks to financial systems and the economy. For instance, Kumhof and
+Noone (2021) constructed the core principles of a CBDC system. The authors claimed that if a CBDC is issued under these core
+principles and is appropriately introduced, the adverse effects on the size of the bank balance sheet or on the total individual credit, or
+total liquidity provision to the economy, dissipate. However, the residual risks still persist. For example, the required interest rate for
+CBDC may fall below zero during a crisis period, which is theoretical unacceptable. Moreover, the risks from having no eligible assets
+to convert into CBDC in the markets is likely to remain. Lee et al. (2021) claimed that the adoption of CBDC raises homogenous
+challenges and risks from a technological, economic, systematic, ethical and legal perspective, resulting in financial instability,
+inconsistency in technological standards and technical scalability problems, as well as revealing gaps in legislation. Davoodalhosseini
+(2022) investigated the economic impact of introducing a CBDC and found that using a CBDC gains more benefit only the case that the
+cost of CBDC usage is inexpensive because of high costs of CBDC. Thus, if a CBDC issuer cannot facilitate these costs, issuing CBDC may
+negatively impact the economy. In addition, Alonso et al. (2020a, 2020b) posited that CBDC can lead to an increase in cybercrime and
+financial instability. Therefore, CBDC can damage the economy if CDBD is poorly introduced and unrigid in its systemic design.
+It is also worth noting that while central banks are curious about CBDC, they remain apprehensive about how to adopt these digital
+assets. As argued in Allen et al. (2020), most CBDC projects envisioned over the last few years have tended to make use of governance
+frameworks that are authoritarian in nature. Such systems are typically highly centralised i.e., owned and controlled by one central
+authority. Nonetheless, there is little incentive for consumers to adopt CBDC as it requires a high level of public trust in governments
+and banking institutions. In addition, it is not easy to coordinate and achieve good performance in a huge system operated only by a
+single body. Therefore, while centralised ledgers might be desirable from a management perspective, they are not in demand from the
+perspective of robustness or public trust. On the other hand, there are blockchain ecosystems that allow CBDC to function in a totally
+decentralised and transparent manner. Such platforms can protect the privacy of its CBDC users, prevent monetary controls as well as
+transaction censorship, and demonstrate unprecedented robustness. However, decentralisation also implies a scenario whereby
+transaction mistakes or operator misbehaviour can occur since there is no central control over the system. Thus, technical, legal and
+regulatory questions must be answered before central banks are able decide how they would operate the distributed system.
+It is clear that a CBDC can provide both benefits and drawbacks depending on the arrangement of several conditions and that
+appropriate answers are lacking, especially in context of the effects of CBDC on financial, economic, and environmental stabilities
+(Elsayed and Nasir, 2022). Thus, it is remains inconclusive as to whether the introduction of CBDC is likely to be successfully adopted
+by the public as an alternative digital currency. While there is much interest in the adoption of CBDC around the world, including by
+central banks, commercial banks, private and state institutions and other related stakeholders, there are few empirical studies since
+this topic is comparably new (Ozili, 2022a, 2022b). In the study of Bhaskar et al. (2022), the authors provided a list of previous
+literature related to CBDC. The authors concluded that there are six out of eight reviews on the context of fintech, blockchain, and
+digital currency, while there are only two out of eight studies focused on the adoption, primary function, and comparative position of
+CBDC (Chu et al., 2022; Ozili, 2022a, 2022b). This indicates that there is still little evidence in previous literature on the adoption of
+CBDC. It is, therefore, advantageous to provide a further empirical study to shed light on the key determinants of CBDC.
+2.2. The determinants for issuing CBDC
+The key determinants for issuing CBDC to achieve optimum levels of adoption from the public is important to consider. Regarding
+the previous literature, there are few studies on this subject since it remains at the very early stages of development. In the context of
+Netherlands, Bijlsma et al. (2021) used a representative panel of Dutch customers to examine the determinants of CBDC. The authors
+found that the customer’s knowledge about CBDC, their trust in central banks, price incentives, privacy and security, and clear
+communication are the potential factors to enhance the customer acceptance of CBDC. Lee et al. (2021) considered the key factors for
+CBDC adoption using China’s Digital Currency Electronic Payment (DCEP) as a case study due to the considerable success of its
+implementation. The authors concluded that there are three main categories and ten factors to achieve optimum adoption of CBDC.
+The three main categories are cited as an integrated and supporting infrastructure, global cooperative standards, compliance and
+accessibility, and finally, inclusivity of storage and exchange. The ten enabling factors of integrated and supporting infrastructure
+include digital identification, data privacy protection and interoperable value transfer gateway. The main enabling factors of global
+3
+
+Research in International Business and Finance 64 (2023) 101884
+
+A.J.K. Alfar et al.
+
+cooperative standards, compliance and accessibility include ease of compliance, comprehensive data, and oracle ecosystem and
+open-source and trust distribution governance. The key enabling factors of accessibility, and inclusivity of storage and exchange, are
+digital literacy and user experience, strong security framework and fast and stable network. In addition to this, Tronnier (2021)
+claimed that an increase of privacy in payment for users is a main requirement for a central bank in order for it to successfully develop
+and install a CBDC.
+Davoodalhosseini (2022) scrutinised the monetary policy in introducing a CDBC for the United States (US) and Canada via three
+scenarios where the currency is accessible to agents; only cash; only CBDC; and both cash and CBDC. The authors concluded that a key
+factor in successfully introducing a CBDC is the cost of using the CBDC. If a CBDC is not costly, then the implementation of CBDC has
+more potential than using psychical cash. However, the if using both cash and a CBDC, there is a lower likelihood for successfully
+issuing the CBDC. Garratt and Zhu (2021) claimed that the size of the bank is significant. A large bank offers a higher convenience to a
+customer and leads to an increase of their market power. Thus, the different size of banks can be a potential determinant of CBDC
+issuance. Söilen and Benhayoun (2022) investigated the key determinants related to the adoption of CBDC. Using 282 survey ques­
+tionnaires, the results from their partial least squares structural equation modelling (PLS-SEM) and importance performance map
+analysis (IPMA) revealed that the key determinants for acceptance of CBDC by households is high performance expectancy, social
+recommendations and the presence of facilitating conditions. However, the confidence in the respective institution is a crucial
+moderator influencing CBDC household adoption and above three determinants to build a flexible and understandable currency in the
+currency’s system. Recently, Allen et al. (2022) reviewed the literature in the context of fintech, cryptocurrencies, stablecoins, and
+CBDC using China as a case study. The authors concluded that a key success factor of digital currency launch is widespread use of the
+virtual currencies by the public. Moreover, effectively designed cryptocurrency regulation works to enhance public trust in digital
+currencies.
+As previously indicated, there are few studies investigating the determinants of CBDC, especially in terms of empirical studies.
+Some studies used only instances of successful issuance of CDBC or scenarios or modelling as case studies. For example, Bhaskar et al.
+(2022) used the bibliometric data of articles published on CBDC from the Scopus database over the period of 2018–2022. The authors
+received 174 final articles, which is relatively few compared to other topics. However, the authors found that there is an upward trend
+for article publication related to CBDC and this has been increasing from 2018, with 4 articles, to 2022, with 36 articles, and peaked in
+2021 with 81 articles. To date, the potential determinants of taking an advance action to issue CBDC has been ignored and these issues
+represent significant gaps in the context of CBDC. This study aims to fill these gaps by investigating the determinants of taking advance
+action to issue a CBDC. The possible determinants employed in this study consist of demographic factors, economic factors, technical
+factors, and market factors.
+2.3. Discussion on CBDC vs crypto vs fiat currencies
+2.3.1. Debate on CBDC vs crypto
+In reality, central banks were spurred on to establish digital currencies with government support by the market’s hasty maturation
+for cryptocurrencies. Additionally, Bitcoin, which is often brought up in discussions about digital currencies issued by central banks vs
+cryptocurrencies, has progressed well past its reputation as a bubble pump and dump strategy. Since it invented cryptocurrencies,
+Bitcoin is being used in a wide variety of retail use cases. The most significant of all is that Bitcoin has found uses as an institutional
+hedge, demonstrating its importance in the contemporary financial environment.
+Despite the fact that the maturity of cryptocurrencies is continuing to advance, central banks have seen a significant danger in
+Facebook’s launch of Libra, their own cryptocurrency. Even with barely 5% global acceptance, central banks undoubtedly saw Bitcoin
+as a danger, despite the fact that there were no significant problems.
+Therefore, comparing cryptocurrencies to digital currencies issued by central banks seems like a sensible idea for such institutions.
+The general public could also attempt to distinguish between the two recent innovations in a global financial ecosystem. The con­
+ceptual distinction between cryptocurrencies and CBDCs is what stands out the most in this analysis.
+The fundamental elements of CBDC essentially go counter to the principles of cryptocurrency. It is crucial to remember that Bitcoin
+was created to circumvent traditional central bank oversight. In reaction to the 2008 global financial crisis, Bitcoin demonstrated how
+cryptocurrencies may debase Federal Reserve monetary policy.
+Thus, we can argue that cryptocurrencies concentrate on democratising financial institutions, CBDC strives to maintain the
+oligopoly of the international banking system.
+2.3.2. Debate on CBDC vs fiat
+Any type of money that is not backed by a precious metal like silver or gold is referred to as a fiat currency. Currently, almost all
+kinds of money are fiat currencies like the US dollar, British pound, Japanese yen, etc. These "fiat" currencies may be printed or
+physically kept, such as in the form of coins or banknotes.
+Moreover, CBDC is considered a ‘digital fiat currency’ that does not have a physical form, which is a key distinction between them
+and conventional types of fiat money. The government, which is in charge of controlling the currency’s regulation, creates fiat cur­
+rencies as means of payment in both the physical and digital realms. However, digital fiat money offers a digital token or electronic
+record of the money of the nation that issued it.
+
+4
+
+Research in International Business and Finance 64 (2023) 101884
+
+A.J.K. Alfar et al.
+
+3. Hypothesis development
+We have developed hypotheses to consider the key factors driving the successful issuance of CBDC, including demographic factors,
+economic factors, technical factors, and market factors.
+3.1. Demographic factors
+Demographic factors may be a potential determinant of taking an advance action to issue CBDCs as different demographics reflect
+differently on financial inclusion. It is possible that demographics with high levels of financial exclusion, such as rural populations and
+younger age groups, may find it difficult to adopt new CBDC due to difficulties in accessing new technologies and financial services
+(Alonso et al., 2020a, 2020b). Ozili (2022a, 2022b) found that by improving levels of digital literacy in a demographically younger and
+older population, especially in rural areas, increased their ability to use the e-Naira, which is the CBDC issued in Nigeria. Thus, in
+relation to demographics, we hypothesise that:
+H1.1: Rural population share has a negative impact on taking an advance action to issue the CBDCs.
+H1.2: Young population share has a negative impact on taking an advance action to issue the CBDCs.
+3.2. Economic factors
+The previous literature has shown that CBDC can provide both advantages and disadvantages to the economy (i.e., Chuen and Teo
+(2021); Davoodalhosseini (2022); Lee et al. (2021); Garratt et al. (2022)). This indicates that there is a relationship between CBDC and
+economy, and thus, it is likely that economic factors are key factors on taking an advance action to launch the CBDC. In addition, Auer
+et al. (2020) found that the progress of CBDC projects, in terms of preparing to issue CBDC, is higher when the informal economy is
+larger. Lee et al. (2021) also found that an integrated and enabling infrastructure is the most important factor to ensure large-scale
+adoption of CBDC. Thus, we hypothesise that:
+H2.1: GDP per capita has a positive impact on taking an advance action to issue CBDC.
+H2.2: Gross capital formation has a positive impact on taking an advance action to issue CBDC.
+H2.3: Foreign direct investments inflow has a positive impact on taking an advance action to issue CBDC.
+H2.4: Money supply has a positive impact on taking an advance action to issue the CBDC.
+3.3. Technical factors
+CBDC is a digital currency which needs to use technologies to create or access it. Therefore, technological factors are key de­
+terminants for taking an advance action to launch CBDC. Allen et al. (2022) claimed that innovation in banking services initially
+depends on technological advances including a quicker internet, higher computing power and increasing capabilities for utilising big
+data. Söilen and Benhayoun (2022) suggested that trust and technological acceptance factors support increased adoption of CBDC.
+Thus, we hypothesise that:
+H3.1: Electricity access has a positive impact on taking an advance action to issue the CBDC.
+H3.2: Technology exports has a positive impact on taking an advance action to issue CBDC.
+3.4. Market factors
+Different markets may impact CBDC adoption differently, especially in the design of regulations to support the use of CBDC. Allen
+et al. (2022) found that effectively designed cryptocurrency regulations is a key success factors of digital currencies including CBDC.
+Bijlsma et al. (2021) and Tronnier (2021) also found that an increase in privacy and security is are important determinants for
+customer acceptance of CBDC. Furthermore, Shen and Hou (2021) claimed that a fundamental success factor for CBDC is the existence
+of market competition. Thus, it is likely that market factors are related to taking an advance action to issue CBDC and we hypothesise
+that:
+H4.1: Government effectiveness has a positive impact on taking an advance action to issue CBDC.
+H4.2: Volume of trade in the service sectors has a positive impact on taking an advance action to issue CBDC.
+4. Methodology
+This section investigates the determinants of CBDC, in other words, what factors can increase or decrease the probability of a
+central bank taking an advanced action to issue the CBDC.
+
+5
+
+Research in International Business and Finance 64 (2023) 101884
+
+A.J.K. Alfar et al.
+
+Fig. 1. Key determinants of issuing a CBDC,
+Source: Authors’ work.
+
+4.1. Data collection
+In order to investigate the determinants of issuing CBDC, the dependent variable used for this study is a binary variable that takes
+the value 1 if the country was engaged in one of the advanced stages in issuing the CBDC or the value 0 if it did not. Data on the
+dependent variable was obtained from CBDC Tracker1 and covers the period 2014–2021. The data includes information explaining the
+status of a country at the time of issuing the CBDC. These stages are as follows:
+• Cancelled countries: Countries that cancelled or decommissioned a CBDC.
+• Research countries: Countries that conducted the first explanatory CBDC research.
+• Proof of concept countries: Countries are in an advanced research stage and published a CBDC proof of concept.
+• Pilot countries: Countries that developed a CBDC that was tested in a real environment either with a limited number of parties or on
+a wide scale.
+• Launched countries: Countries that officially fully launched a CBDC.
+The advanced stage, which is defined as the outcome variable in this study, reveals that the country had reached the proof-ofconcept stage, pilot stage, or the launching stage.
+The selected independent variables were classified into 4 different groups:
+4.1.1. Demographic factors
+The demographic characteristics may indicate the probability of issuing a CBDC. This study includes the rural population share of
+the total population and the share of youth as a percentage of the total population as well. Confidence in CBDC is positively and
+substantially highly connected with the percentage of the younger generation (Koziuk, 2021). Shree et al. (2021) argued that there is
+compelling evidence that elderly people are less inclined to use digital payment methods while purchasing online. Moreover, modern
+area residents are more likely to use online payment than in other areas.
+4.1.2. Economic factors
+When it comes to those factors that might potentially affect the demand for CBDC, we find that CBDC projects are further along
+when there is a higher GDP per capita, financial development, and search interest (Auer et al., 2020).
+
+1
+
+Data on CBDC can be found at https://cbdctracker.org/
+6
+
+Research in International Business and Finance 64 (2023) 101884
+
+A.J.K. Alfar et al.
+
+Table 1
+Key determinants of issuing a CBDC.
+Variables
+Log (GDP capita)
+Government effectiveness
+Rural population
+Access to electricity
+Internet use
+Young population
+Technology exports
+Trade in service sector
+Gross capital formation
+FDI inflow
+M2
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+Pooled OLS
+-0.0186
+(0.0121)
+0.00262
+(0.0127)
+-0.00162***
+(0.000406)
+0.000128
+(0.000355)
+-0.000502
+(0.000486)
+0.00275**
+(0.00135)
+0***
+(0)
+-0.000411
+(0.000319)
+-0.00235***
+(0.000653)
+0.000474
+(0.000798)
+-0.000227*
+(0.000135)
+
+Pooled OLS with lags
+
+Probit
+-4.038***
+(1.459)
+4.577**
+(1.794)
+-0.218***
+(0.0792)
+-0.0577
+(0.0464)
+-0.0548
+(0.0487)
+0.634**
+(0.271)
+0***
+(0)
+-0.138**
+(0.0640)
+-0.712***
+(0.208)
+0.152**
+(0.0725)
+-0.0564**
+(0.0272)
+
+Probit with lags
+
+Logit
+-6.946***
+(2.665)
+7.975**
+(3.311)
+-0.390***
+(0.145)
+-0.105
+(0.0847)
+-0.103
+(0.0918)
+1.111**
+(0.512)
+6.57e-11***
+(0)
+-0.248**
+(0.116)
+-1.244***
+(0.385)
+0.269*
+(0.142)
+-0.0973*
+(0.0501)
+
+Logit with lags
+
+Log(GDP capita)t− 1
+Government effectivenesst− 1
+Access to electricityt− 1
+Internet uset− 1
+Technology exportst− 1
+Trade in service sectort− 1
+Gross capital formationt− 1
+FDI inflowt− 1
+M2t− 1
+Constant
+Observations
+R-squared
+
+0.156
+(0.112)
+630
+0.066
+
+-0.00225***
+(0.000529)
+
+0.00395**
+(0.00177)
+
+-0.0281*
+(0.0158)
+0.00811
+(0.0166)
+0.000132
+(0.000465)
+-0.000803
+(0.000636)
+0***
+(0)
+-0.000485
+(0.000418)
+-0.00342***
+(0.000855)
+3.60e-05
+(0.00104)
+-0.000113
+(0.000176)
+0.231
+(0.147)
+630
+0.099
+
+22.14*
+(13.03)
+630
+
+-0.0450***
+(0.0167)
+
+0.144**
+(0.0570)
+
+-0.996**
+(0.434)
+1.160**
+(0.573)
+0.0159
+(0.0288)
+-0.0131
+(0.0189)
+0***
+(0)
+-0.0261**
+(0.0129)
+-0.204***
+(0.0489)
+-0.0298
+(0.0282)
+-0.00470
+(0.00403)
+2.694
+(4.895)
+630
+
+38.55
+(23.85)
+630
+
+-0.119***
+(0.0454)
+
+0.401***
+(0.146)
+
+-2.478***
+(0.948)
+2.857**
+(1.230)
+0.0105
+(0.0565)
+-0.0377
+(0.0390)
+0***
+(0)
+-0.0698**
+(0.0305)
+-0.499***
+(0.118)
+-0.0520
+(0.0615)
+-0.0145
+(0.00916)
+7.949
+(10.78)
+630
+
+Therefore, this study assumes that economic characteristics have an impact on issuing CBDC. These economic factors include: The
+GDP per capita is transformed into the logarithmic form in the model, which reflects the country’s level of income. The gross capital
+formation imitates the development of the infrastructure in a country. The Foreign direct investment inflow reflects the health of an
+economy from an external perspective. In addition to the money supply.
+4.1.3. Technical factors
+The technical factors represent the country’s ability to develop technologies that serve any required structural changes to engage in
+CBDC. These factors include access to electricity, share of the population and high-technology exports. Advanced and emerging
+countries have almost the same access to electricity infrastructure, but the quality of electricity in emerging countries is lower.
+(Maryaningsih et al., 2022).
+4.1.4. Market factors
+Effective issuing of CBDC may require specific market factors. These factors can include government effectiveness and the volume
+of trade in the services sector. Countries with more effective governments are more likely to launch CBDC projects (Auer et al., 2020).
+Data on the determinants of CBDC were obtained from the World Bank database, and cover the period 2013–2020. We intentionally
+collected data on the independent variables with an additional year prior to 2014 in order to enable models which test the endogeneity
+to run a regression with a one-year lag for the independent variables.
+Based on the above-mentioned justification, the authors set out the following diagram showing the proposed determinants of CBDC.
+7
+
+Research in International Business and Finance 64 (2023) 101884
+
+A.J.K. Alfar et al.
+
+Table 2
+Predicted probabilities.
+Variables
+
+Obs
+
+Mean
+
+Std.Dev.
+
+Min
+
+Max
+
+Linear
+Linear with lags
+Probit
+Probit with lags
+Logit
+Logit with lags
+
+630
+630
+630
+630
+630
+630
+
+0.016
+0.029
+0.015
+0.029
+0.016
+0.029
+
+0.032
+0.053
+0.096
+0.081
+0.097
+0.096
+
+-0.085
+-0.145
+0
+0
+0
+0
+
+0.143
+0.344
+0.972
+0.625
+0.955
+0.747
+
+Table 3
+CBDC determinants margins.
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+Variables
+
+Pooled OLS
+
+Probit model
+
+-0.0186
+(0.0121)
+0.00262
+(0.0127)
+-0.00162***
+(0.000406)
+0.000128
+(0.000355)
+-0.000502
+(0.000486)
+0.00275**
+(0.00135)
+0***
+(0)
+-0.000411
+(0.000319)
+-0.00235***
+(0.000653)
+0.000474
+(0.000798)
+-0.000227*
+(0.000135)
+
+Probit model
+with lags
+
+Logit model
+
+Log (GDP capita)
+
+Pooled OLS
+with lags
+
+Logit model
+with lags
+
+Government effectiveness
+Rural population
+Access to electricity
+Internet use
+Young population
+Technology exports
+Trade in service sector
+Gross capital formation
+FDI inflow
+M2
+Log(GDP capita)t− 1
+Government effectivenesst− 1
+Access to electricityt− 1
+Internet uset− 1
+Technology exportst− 1
+Trade in service sectort− 1
+Gross capital formationt− 1
+FDI inflowt− 1
+M2t− 1
+
+-0.00225***
+(0.000529)
+
+0.00395**
+(0.00177)
+
+-0.0281*
+(0.0158)
+0.00811
+(0.0166)
+0.000132
+(0.000465)
+-0.000803
+(0.000636)
+0***
+(0)
+-0.000485
+(0.000418)
+-0.00342***
+(0.000855)
+3.60e-05
+(0.00104)
+-0.000113
+(0.000176)
+
+-.0458085***
+(.0142936)
+.0519244***
+(.0180807)
+-.0024744***
+(.0008059)
+-.0006549
+(.0005186)
+-.0006216
+(.0005486)
+.0071955**
+(.0028306)
+4.28e-13***
+(1.05e-13)
+-.0015645**
+(.0006767)
+-.008078***
+(.0018516)
+.0017259**
+(.0007638)
+-.0006404**
+(.0002867)
+
+-.001806**
+(0.00083)
+
+.0057**
+(0.0026)
+
+-0.04**
+(0.018)
+0.047**
+(0.023)
+0.001
+(0.001)
+-0.001
+(0.001)
+0***
+(0)
+-0.001**
+(0.001)
+-0.008***
+(0.002)
+-0.001
+(0.001)
+0
+(0)
+
+-.0433941***
+(.0144853)
+.0498222***
+(.0186136)
+-.0024355***
+(.00079)
+-.000656
+(.0005198)
+-.0006447
+(.0005698)
+.0069413**
+(.003012)
+4.10e-13***
+(1.02e-13)
+-.0015502**
+(.0006755)
+-.0077713***
+(.001853)
+.0016827**
+(.0008238)
+-.0006078**
+(.0002971)
+
+-0.002***
+(0.001)
+
+0.0074**
+(0.003)
+
+-0.046***
+(0.017)
+0.053**
+(0.023)
+0.000
+(0.001)
+-0.001
+(0.001)
+0.000***
+(0.000)
+-0.001**
+(0.001)
+-0.009***
+(0.002)
+-0.001
+(0.001)
+-0.000
+(0.000)
+
+Fig. 1.
+4.2. The model
+To fulfil the aim of the study, this article uses three approaches: linear regression models, probit models and logistic regression. The
+study starts the analysis by using the linear regression models (LRM) to determine what factors affect the probability of a country
+engaging in issuing a CBDC.
+(1)
+
+yit = α + βXit + εt
+
+In this equation, y is the outcome variable which is a binary variable that takes the value 1 if the country was engaged in one of the
+8
+
+Research in International Business and Finance 64 (2023) 101884
+
+A.J.K. Alfar et al.
+
+advanced stages in issuing the CBDC, or the value 0 if it did not, at time t and country i.
+α: is the constant term.
+X: is a set of determinants, with a coefficient β for each of them.
+ε: is the error term.
+Using the LRM has some disadvantages, including generating negative probabilities. Therefore, the study is going to use the probit
+and logit models.
+The main purpose of logistic regression is to quantify the dependence of the outcome variable on the independent variable(s), the
+outcome variable is. However, the logistic regression does not use linear dependence. Observed data are interleaved by a logistic curve
+instead of the best fitting line (Klieštik et. al, 2015). The following formula describes the use of the logistic regression:
+
+π=
+
+eα+βX
+1
+=
+1 + eα+βX 1 + e1(α+βX)
+
+(2)
+
+Where π is the probability of a country being engaged in one of the advanced stages (you should remind readers here what the
+advanced stages are) in issuing the CBDC.
+The probit models are alternative to the logit approach. The principal difference is that the probit assumes a normal distribution of
+the random variables. The difference is summarised in the fact that the logistic function has harder “fat tails”. Thus, there are no
+substantial differences in practice, only in the situation where the sample encompasses numerous observations with extreme values
+(Lehutová, 2011). The following formula represents the use of the probit regression:
+
+π = Θ(α + βX)
+In this formula, Θ is the cumulative density function for the standard normal.
+5. Results
+The analysis starts with the OLS regression; however, the OLS is not an efficient and reliable estimate to predict probabilities.
+Therefore, interpretation of the results focuses on the probit logit models.
+The probit and logit models report similar levels of significance for each determinant. In Table 1, the magnitude is meaningless,
+nonetheless, the focus is on the direction and the level of significance. Table 3 shows the CBDC determinants margins, setting out the
+effect of each determinant on the probability of being in an advanced stage in issuing a CBDC.
+This paper starts the analysis without considering any impact for the endogeneity problem as shown in Table 3 models (1), (3), and
+(5). Results show that there is an inverse impact for the level of income on issuing a CBDC. When a country’s GDP per capita increases
+by 1%, the probability of issuing a CBDC declines by 4.5% according to the probit estimation.
+Gross capital formation and money supply are other economic indicators that negatively affect the probability of issuing a CBDC.
+When the gross capital formation or the money supply increased by 1%, the probability of issuing a CBDC declined by less than 1%.
+Moreover, the structure of an economy can also impact the probability of issuing a CBDC, and it is noted that a service economy reduces
+the possibility of engaging in issuing the centralised digital currencies.
+Results have not shown a significant impact for the development of infrastructure or the level of technological development on
+issuing the CBDC. Both the access to electricity and the use of the internet are insignificant. Technology exports have a very mild
+impact on CBDC.
+Nonetheless, demographic factors can play a significant impact, whereby an increase to the younger population of 1%, increases the
+probability of issuing a CBDC by less than 1%. Yet, the increase of the rural population decreases this probability by less than 1%.
+The fourth dimension that can affect the probability of issuing CBDC is market factors. The model summarises these factors into the
+openness of the market to attract FDI, and government effectiveness. FDI increases the probability by less than 1%; however, when the
+government effectiveness index increases by 1 unit, the probability increases by 5%.
+It is noted that the stated results above may suffer from endogeneity. Endogeneity bias has the potential to provide inconsistent
+estimates and inaccurate inferences, which might result in false findings and improper theoretical explanations. Such bias can oc­
+casionally even lead to the incorrect direction for coefficients (Ullah et al., 2018).
+Endogeneity is said to occur in a multiple regression model if:
+(
+)
+E Xj u ∕
+= 0, forj = 1, 2, …, k
+A statistical guarantee that an endogeneity issue can be fully handled is impossible. To properly deal with endogeneity, researchers
+must first identify the causes of the issue and then take appropriate steps to lessen its harmful effects (Ketokivi and McIntosh, 2017).
+The endogeneity problem can arise from any or all of the omitted variables, measurement error, and/or simultaneity in simultaneous
+equations models. In this paper, we do believe that simultaneity exists as CBDC may have an effect on the economic and the market
+factors primarily, and also potentially the technical factors.
+To mitigate the endogeneity problem, we propose including the independent variables with one lag year. This enables us to not
+expect an impact for the outcome variable on the independent variable. On all even models at Table 1 and Table 3, all independent
+variables are included with one lag year except the demographic factors, as there is no chance to be endogenous. The results of these
+models are consistent with the no lag models, the odd ones, which means endogeneity has a minimal impact on our results.
+
+9
+
+Research in International Business and Finance 64 (2023) 101884
+
+A.J.K. Alfar et al.
+
+6. Discussion
+This section analyses the discussion of the overall results. The discussion of our findings is divided into four key factors i.e.,
+economic factors, market factors, demographic factors and technical factors.
+6.1. Impact of economic factors
+We have considered economic factors which could have a possible impact on CBDC, such as income level, gross capital formation,
+trade in the service sector and money supply. Our results indicate that the impact of economic factors on issuing a CBDC is negative.
+This is inconsistent with Auer et al. (2020) and Lee et al. (2021) who found that CBDC projects have significantly advanced when the
+informal economy is larger or when the integrated and enabling infrastructure is higher. However, this direction of the relationship is
+not misleading. Countries which have underdeveloped economies are the most engaged in these digital currencies. Based on mac­
+roeconomic stability, Yao (2018) indicated that the growth of CBDC in China and other underdeveloped economies may have the
+advantage of money to become stable value and control the macroeconomic tools efficiently.
+Moreover, the author also highlights that CBDC diminishes crime related to physical currency, and allows payment to flow
+transparently through the central bank. Kim and Kwon (2019), through a monetary general equilibrium model, also argued that
+implementation of CBDC brings financial stability.
+6.2. Impact of market factors
+Market factors have an influence on CBDC. We consider two key elements of market factors i.e., regulatory quality and FDI inflows.
+Our results indicate that market factors play an important role in issuing CBDC. Countries that have more organised and governed
+markets, and attract the FDI, have a better probability for successfully issuing CBDC. Didenko and Buckley (2021) highlighted that
+CBDC can provide a viable solution for financial inclusion issues in the pacific region. However, regulators must focus on developing
+expertise and knowledge towards CBDC and issue well designed CBDC. Lee et al. (2021) illustrated the importance of regulators for
+CBDC and argued that after implementing CBDC, there will be a requirement to constantly monitor existing regulations to support
+CBDC, and act on modifications of CBDC whenever international dynamics alter the CBDC. Allen et al. (2022) also claimed that an
+effective design in regulation for cryptocurrency is one of the potential determinants of digital currencies including CBDC. Moreover,
+Bijlsma et al. (2021) and Tronnier (2021) found that the customer’s acceptance of CBDC can be increased when privacy and security
+are also increased. On the other hand, Rennie and Steele (2021) argued that present CBDC models consist of privacy risks that could
+cause losses such as loss of anonymity, loss of liberty, loss of individual control and loss of regulatory control.
+6.3. Impact of demographic factors
+Demographic factors have an important influence on CBDC. We have considered the young and rural demographics in our ex­
+amination. Our results indicate that demographic factors do have an impact on issuing CBDC, and that a young population, as well as
+more urban societies, have a better chance of successfully issuing CBDC. However, it is essential to promote digital literacy among the
+older and younger demographic. According to Alonso et al.’s (2020) studies, the segment of population, particularly in the rural areas,
+do not completely know digital technologies and may find it challenging to recognise and fully understand digital currencies.
+Therefore, their lack of understanding will restrict them in their use of the digital currency to develop their welfare. In addition to this,
+the elderly population also may have mobility limitations (for e.g., difficulty in getting physical cash) or knowledge of how to manage
+digital applications. It is, therefore, important to launch an extensive digital literacy programme in rural areas to provide awareness
+among all segments of the population. This supports Ozili (2022a, 2022b), who found that improving digital literacy, for the young and
+older population, especially in rural areas, is required to increase access to CBDC. Another study, from Söilen and Benhayoun (2022),
+argued that acceptance of digital currency primarily depends on social recommendations. Therefore, peer pressure within demography
+also plays an important role in CBDC acceptance.
+6.4. Impact of technical factors
+We considered technical factors that may influence CBDC. Nevertheless, results did not show a significant impact for the technical
+factors. This is inconsistent with Allen et al. (2022) who stated that innovation in banking services initially depends on technological
+advances including a quicker internet, higher computing power and a larger capability for utilising big data. Moreover, our results are
+also different from Söilen and Benhayoun (2022), who argued that trust and technological acceptance factors increase the adoption of
+CBDC. However, it is possible that while high technologies are exported by developed countries; basic technologies are accessible in
+most countries. Therefore, the impact is heterogeneous across countries. In addition, technology is not a measurable tool and high-level
+use of technology has negative environmental impact due to the higher demand for electricity. Therefore, it is a challenge to accurately
+measure electricity across different demographics.
+7. Conclusion
+The execution and investigation of various factors (for instance; economic, demographic, market, and technological factors) are
+10
+
+Research in International Business and Finance 64 (2023) 101884
+
+A.J.K. Alfar et al.
+
+Table 4
+Descriptive statistics.
+Variables
+
+Obs.
+
+Mean
+
+Std. Dev.
+
+Min
+
+Max
+
+Advance
+Launched
+Pilot
+Development
+Research
+Cancelled
+Log GDP capita
+Government effectiveness
+Rural population
+Access to electricity
+Internet use
+Young population
+Technology exports
+Trade in service sector
+Gross capital formation
+FDI inflow
+M2
+
+1944
+1728
+1728
+1728
+1728
+1728
+1632
+1616
+1704
+1505
+2460
+2688
+1227
+1436
+1373
+1537
+1205
+
+0.026
+0.002
+0.012
+0.016
+0.071
+0.015
+8.758
+-0.026
+39.66
+84.241
+55.832
+63.694
+1.67e+ 10
+29.094
+24.607
+8.422
+65.801
+
+0.16
+0.042
+0.11
+0.124
+0.257
+0.122
+1.44
+0.99
+23.983
+26.3
+28.451
+6.552
+6.49e+ 10
+32.473
+8.559
+78.601
+49.166
+
+0
+0
+0
+0
+0
+0
+5.601
+-2.475
+0
+3.609
+0.99
+47.2
+0
+2.855
+-0.098
+-1275.19
+11.449
+
+1
+1
+1
+1
+1
+1
+12.11
+2.335
+88.518
+100
+100
+85.765
+7.58e+ 11
+297.158
+79.401
+1709.766
+452.548
+
+Table 5
+Matrix of correlations.
+Variables
+(1) Advance
+(2) Log GDP capita
+(3) Government effectiveness
+(4) Rural population
+(5) Access to electricity
+(6) Internet use
+(7) Young population
+(8) Technology exports
+(9) Trade in service sector
+(10) Gross capital formation
+(11) FDI inflow
+(12) M2
+
+-1
+
+-2
+
+-3
+
+-4
+
+-5
+
+-6
+
+-7
+
+-8
+
+-9
+
+-10
+
+-11
+
+-12
+
+1
+0.032
+0.008
+-0.116
+0.066
+0.042
+0.064
+0.098
+-0.069
+-0.104
+-0.016
+0.017
+
+1
+0.871
+-0.812
+0.692
+0.904
+0.651
+0.217
+0.347
+-0.003
+0.052
+0.484
+
+1
+-0.664
+0.534
+0.786
+0.513
+0.27
+0.358
+0.012
+0.137
+0.538
+
+1
+-0.591
+-0.795
+-0.515
+-0.137
+-0.198
+0.023
+-0.061
+-0.41
+
+1
+0.742
+0.773
+0.145
+0.247
+0.022
+0.012
+0.389
+
+1
+0.707
+0.16
+0.314
+-0.023
+0.039
+0.454
+
+1
+0.207
+0.387
+0.164
+0.103
+0.405
+
+1
+-0.011
+0.191
+0.072
+0.495
+
+1
+0.078
+0.376
+0.284
+
+1
+0.155
+0.043
+
+1
+0.306
+
+1
+
+increasingly dependent on CBDC. To fulfil this aim, our paper apply a linear regression model (LRM) to examine the effects of the major
+key factors on issuing a CBDC at the stage of Proof-of-Concept, Pilot, or Launching. In addition, probit and logistic regression are also
+employed to robust our results and overcome limitations of LRM. We have also extended our analysis to examine endogeneity issue.
+The results showed that economic factors negatively affect the probability of a central bank issuing a digital currency. However,
+urbanisation and a young population, which reflect the demographic factors, positively impact on the probability. The same result was
+obtained for the market factors. Nonetheless, the study found that the development of technology and infrastructure have no impact on
+the likelihood of issuing a CBDC.
+Our results show a gateway to managers to be learned about CBDC. This provides as a reminder to policymakers that collaborative
+infrastructure design should be given priority in order to accommodate CBDC when they are implemented. Investigators are working
+very hard to figure out how CBDC relate to global commerce and other assets, including cryptocurrencies. Theoretical advancement,
+contextual coverage, and technique improvements are all very desirable. The development of CBDC might lead to the creation of a
+universal common currency, and they have significant consequences for financial and payment systems.
+The CBDC may replace cash in the future. Therefore, we are proposing that future studies may investigate the likely effects of
+currency digitalisation on the dominance of the US dollar and the British pound. The management of the global transaction system and
+its costs in a diverse ethical, technical, social, legal, economic, and political context should be on the other future plan. The CBDC
+should also investigate how CBDC will affect other digital currencies, how that will affect monetary policy, and how it will affect the
+money supply.
+Moreover. policymakers should pay more attention in developing technical awareness and knowledge for elderly people; as well as
+the infrastructure in rural areas, if they are intending to issue CBDC.
+Furthermore, countries which intend to issue a CBDC should set long-term plans to develop and stabilise the markets in order to
+attract investments and reflect a good image of the economy. Despite this, weak economies are likely to have a better probability of
+issuing digital currency. This leads us to recommend that a detailed review of the economic situation of the developing countries is
+implemented prior to issuing CBDC. It is not complicated to issue the CBDC; however, it is more challenging to protect and promote the
+new currency.
+
+11
+
+Research in International Business and Finance 64 (2023) 101884
+
+A.J.K. Alfar et al.
+
+Data availability
+Data will be made available on request.
+Appendix
+See Table 4 and Table 5.
+
+References
+Agur, I., Ari, A., Dell’Ariccia, G., 2022. Designing central bank digital currencies. J. Monet. Econ. 125, 62–79.
+Allen, F., Gu, X., Jagtiani, J., 2022. Fintech, cryptocurrencies, and CBDC: financial structural transformation in China. J. Int. Money Financ. 124, 102625.
+Allen, S., Čapkun, S., Eyal, I., Fanti, G., Ford, B.A., Grimmelmann, J., Juels, A., Kostiainen, K., Meiklejohn, S., Miller, A., Prasad, E., 2020. Design choices for Central
+Bank Digital Currency: policy and technical considerations. Natl. Bur. Econ. Res. (No. w27634).
+Alonso, S.L.N., Jorge-Vazquez, J., Forradellas, R.F.R., 2020. Detection of financial inclusion vulnerable rural areas through an access to cash index: solutions based on
+the pharmacy network and a CBDC. Evidence based on Ávila (Spain). Sustainability 12 (18), 7480.
+Alonso, S.L.N., Fernández, M.Á.E., Bas, D.S., Kaczmarek, J., 2020. Reasons fostering or discouraging the implementation of Central Bank-Backed Digital Currency: a
+review. Economies 8 (2), 41.
+Ashworth, J., Goodhart, C.A., 2020. The surprising recovery of currency usage. Int. J. Cent. Bank. 16 (3), 239–277.
+Atlantic Council, 2022. Central Bank Digital Cryptocurrency tracker. Retrieved from https://www.atlanticcouncil.org/cbdctracker/ (accessed 4 May 2022).
+Auer, R., Cornelli, G., Frost, J., 2020. Rise of the Central Bank Digital Currencies: drivers, approaches and technologies. CEPR Discuss. (Paper No. DP15363) 〈https://
+ssrn.com/abstract=3723552〉 accessed 5 September 2022.
+Bank for International Settlements (BIS), 2020. Central Bank Digital Currencies: foundational principles and core features. Report No 1. Basel. ISBN: 978–929259–427-5 (online).
+Barontini, C., Holden, H., 2019. Proceeding with caution-a survey on Central Bank Digital Currency. Proceeding with caution - A survey on Central Bank Digital
+Currency (January 8, 2019). BIS Paper No. 101. Retrieved from https://ssrn.com/abstract=3331590 (accessed 5 May 2022).
+Barrdear, J., Kumhof, M., 2021. The macroeconomics of Central Bank Digital Currencies. J. Econ. Dyn. Control 142, 104148.
+Bhaskar, R., Hunjra, A.I., Bansal, S., Pandey, D.K., 2022. Central Bank Digital Currencies: agendas for future research. Res. Int. Bus. Financ. 62, 101737.
+Bijlsma, M., van der Cruijsen, C., Jonker, N., Reijerink, J., 2021. What triggers consumer adoption of CBDC? De Ned. Bank Work. (Paper No. 709) 〈https://ssrn.com/
+abstract=3836440〉 accessed 5 May 2022.
+Chen, H., Siklos, P.L., 2022. Central Bank Digital Currency: a review and some macro-financial implications. J. Financ. Stab. 60, 100985.
+Chorzempa, M., 2021. China, the United States, and Central Bank Digital Currencies: how important is it to be first? China. Econ. J. 14 (1), 102–115.
+Chu, Y., Lee, J., Kim, S., Kim, H., Yoon, Y., Chung, H., 2022. Review of offline payment function of CBDC considering security requirements. Appl. Sci. 12 (9), 4488.
+Chuen, D.L.K., Teo, E., 2021. The New Money: The Utility of Cryptocurrencies and the Need for a New Monetary Policy. In: Kaili, E., Psarrakis, D. (Eds.),
+Disintermediation Economics. Palgrave Macmillan, Cham, pp. 111–172.
+Davoodalhosseini, S.M., 2022. Central bank digital currency and monetary policy. J Econ Dyn Control. 142, 104150.
+Didenko, A.N., Buckley, R.P., 2021. Central Bank Digital Currencies: a potential response to the financial inclusion challenges of the Pacific. UNSW Law Research
+Paper No. 21–63, Asian Development Bank Economics Working Paper Series. Retrieved from https://ssrn.com/abstract=3937698 (accessed 5 May 2022).
+Ding, S., Cui, T., Wu, X., Du, M., 2022. Supply chain management based on volatility clustering: the effect of CBDC volatility. Res. Int. Bus. Financ. 62, 101690.
+Elsayed, A.H., Nasir, M.A., 2022. Central Bank Digital Currencies: an agenda for future research. Res. Int. Bus. Financ. 62, 101736.
+Garratt, R., Zhu, H., 2021. On interest-bearing Central Bank Digital Currency with heterogeneous banks. Retrieved from https://ssrn.com/abstract=3802977
+(accessed 4 May 2022).
+Garratt, R., Yu, J., Zhu, H., 2022. How Central Bank Digital Currency design choices impact monetary policy pass-through and market composition. Retrieved from
+https://ssrn.com/abstract=4004341 (accessed 4 May 2022).
+Katsiampa, P., Corbet, S., Lucey, B., 2019. High frequency volatility co-movements in cryptocurrency markets. J. Int. Financ. Mark. Inst. Money 62, 35–52.
+Ketokivi, M., McIntosh, C.N., 2017. Addressing the endogeneity dilemma in operations management research: theoretical, empirical, and pragmatic considerations.
+J. Oper. Manag. 52, 1–14.
+Kiff, M.J., Alwazir, J., Davidovic, S., Farias, A., Khan, M.A., Khiaonarong, M.T., Malaika, M., Monroe, M.H.K., Sugimoto, N., Tourpe, H., Zhou, P., 2020. A survey of
+research on retail Central Bank Digital Currency. IMF Work. Pap.
+Kim, Y.S., Kwon, O., 2019. Central Bank Digital Currency and financial stability. Bank of Korea WP 2019–6. Retrieved from https://ssrn.com/abstract=3330914
+(accessed 4 May 2022).
+Klieštik, T., Kočišová, K., Mišanková, M., 2015. Logit and probit model used for prediction of financial health of company. Procedia Econ. Financ. 23, 850–855.
+Koziuk, V., 2021. Confidence in digital money: are central banks more trusted than age is matter? Invest. Manag. Financ. Innov. 18 (1), 12–32.
+Kumhof, M., Noone, C., 2021. Central Bank Digital Currencies—design principles for financial stability. Econ. Anal. Policy 71, 553–572.
+Kwon, O., Lee, S., Park, J., 2020. Central Bank Digital Currency, tax evasion, inflation tax, and central bank independence. Bank of Korea WP, 26. Retrieved from
+https://ssrn.com/abstract=3741816 (accessed 4 May 2022).
+Lee, D.K.C., Yan, L., Wang, Y., 2021. A global perspective on Central Bank Digital Currency. China Econ. J. 14 (1), 52–66.
+Lehutová, K., 2011. Application of corporate metrics method to measure risk in logistics. International Scientific Conference in Computer systems aided science
+industry and transport. 2209–2213.
+Maryaningsih, N., Nazara, S., Kacaribu, F.N., Juhro, S.M., 2022. Central Bank Digital Currency: what factors determine its adoption? Bul. Ekon. Monet. Dan. Perbank.
+25 (1), 1–24.
+Nejad, M., 2016. Research on financial services innovations: a quantitative review and future research directions. Int. J. Bank Mark. 34 (7), 1042–1068.
+Ozili, P.K., 2022. Central Bank Digital Currency research around the world: a review of literature. J. Money Laund. Control.
+Ozili, P.K., 2022. Central Bank Digital Currency in Nigeria: opportunities and risks. The New Digital Era: digitalisation. Emerg. Risks Oppor. 109A, 125–133.
+Perret, V., 2019. Cash for the digital age: opportunities, risks and impacts of Central Bank Digital Currencies, Observatoire de la Finance. Retrieved from https://www.
+obsfin.ch/wp-content/uploads/Document/2019-Report_CBDC_INT_English.pdf (accessed 5 May 2022).
+Rennie, E., Steele, S., 2021. Privacy and emergency payments in a pandemic: how to think about privacy and a Central Bank Digital Currency. Law Technol. Hum. 3
+(1), 6–17.
+Saif Almuraqab, N.A., 2020. Predicting determinants of the intention to use digital currency in the UAE: an empirical study. Electron. J. Inf. Syst. Dev. Ctries. 86 (3),
+e12125.
+Shen, W., Hou, L., 2021. China’s Central Bank Digital Currency and its impacts on monetary policy and payment competition: game changer or regulatory toolkit?
+Comput. Law Secur. Rev. 41, 105577.
+
+12
+
+Research in International Business and Finance 64 (2023) 101884
+
+A.J.K. Alfar et al.
+
+Shree, S., Pratap, B., Saroy, R., Dhal, S., 2021. Digital payments and consumer experience in India: a survey based empirical study. J. Bank. Financ. Technol. 5 (1),
+1–20.
+Söilen, K.S., Benhayoun, L., 2022. Household acceptance of Central Bank Digital Currency: the role of institutional trust. Int. J. Bank Mark. 40 (1), 172–196.
+Tronnier, F., 2021. Privacy in payment in the age of Central Bank Digital currency. In: IFIP International Summer School on Privacy and Identity Management.
+Springer, Cham, pp. 96–114.
+Ullah, S., Akhtar, P., Zaefarian, G., 2018. Dealing with endogeneity bias: the generalized method of moments (GMM) for panel data. Ind. Mark. Manag. 71, 69–78.
+Williamson, S.D., 2021. Central Bank Digital Currency and flight to safety. J. Econ. Dyn. Control 142, 104146.
+Yanagawa, N., Yamaoka, H., 2019. Digital innovation, data revolution and Central Bank Digital Currency. Bank of Japan Working Paper Series No. 19-E-2.
+Yao, Q., 2018. A systematic framework to understand Central Bank Digital Currency. Sci. China Inf. Sci. 61 (3), 1–8.
+
+13
+
+

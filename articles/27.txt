@@ -1,0 +1,2867 @@
+This article has been accepted for publication in IEEE Transactions on Services Computing. This is the author's version which has not been fully edited and
+content may change prior to final publication. Citation information: DOI 10.1109/TSC.2022.3226120
+
+JOURNAL OF LATEX CLASS FILES, VOL. X, NO. X, XXXX
+
+1
+
+A Privacy-Preserving Transparent Central Bank
+Digital Currency System Based on Consortium
+Blockchain and Unspent Transaction Outputs
+Md. Mainul Islam , Graduate Student Member, IEEE, and Hoh Peter IN , Member, IEEE
+Abstract—There is rising global demand for the deployment of a central bank digital currency (CBDC) system to achieve financial
+stability. However, striking a balance between privacy, transparency, and auditability in such a system is technically difficult. We
+propose a CBDC system based on a consortium blockchain that adopts a privacy-preserving, transparent unspent transaction output
+(UTXO) model. The proposed system satisfies the travel rule of payment, unlike existing cryptocurrencies. Unlike the conventional
+UTXO approach, users use wallet-linked addresses for transactions rather than their actual wallet addresses. Each transacting address
+is generated using two keys: a random private key computed by the sender and the recipient’s public key. The final private key is known
+only to the recipient, and it is required to spend the UTXO received using the address. Thus, each user holds only a single authorized
+public key and address, which eases regulatory compliance in the network without compromising anonymity and privacy. To manage
+the blockchain, the central bank and several certificate authorities execute the energy-efficient Clique consensus algorithm. Only the
+central bank supplies money to the network. A prototype of the system was implemented using Python-Flask, and it outperformed the
+state-of-the-art systems by providing a smaller transaction size (665 B) and lower verification time (9 ms).
+Index Terms—Central bank digital currency, consortium blockchain, Clique consensus algorithm, unspent transaction output, elliptic
+curve cryptography.
+
+F
+
+1
+
+I NTRODUCTION
+
+T
+
+HE rapid emergence of blockchain distributed ledger
+technology (DLT) [1], [2] and numerous cryptocurrencies such as Bitcoin and its competitors, which are not
+backed by any government, raises concerns about the stability of financial marketplaces and the conservancy of
+monetary policy. In response, many central banks (CBs)
+and monetary authorities worldwide have begun to conduct
+research on central bank digital currencies (CBDCs) [3], [4].
+CBDC is a digital form of fiat currency, which is supplied
+and controlled by the respective CB. Instead of creating
+physical coins or paper money, the CB issues digital coins
+with the government’s full trust and backing [5]. CBDCs’
+primary aims are to lower the cost of printing money and to
+reduce illegal cash flow and tax evasion in financial sectors.
+They are not, however, meant to replace cash or to imitate
+cryptocurrencies. Instead, they can coexist with traditional
+cash and be used in public sectors as they provide swift
+and flawless monetary flow monitoring as well as costeffective auditing. Corruption in developing countries can
+be reduced by adopting CBDCs as the payment method
+in government-funded projects. A CBDC does not require
+any trusted third parties (TTPs) to support transparency
+standards and prevent counterfeiting because it uses the
+blockchain technology to ensure transaction verifiability [6].
+
+•
+
+M. M. Islam and H. P. IN are with the Department of Computer Science
+and Engineering, Korea University, Seoul 02841, South Korea.
+E-mail: mainul.islam@ieee.org, hoh in@korea.ac.kr.
+
+Manuscript received 23 June 2022; revised 24 October 2022; accepted 21
+November 2022. Date of publication XXXX; date of current version XXXX.
+(Corresponding author: Hoh Peter IN.)
+Digital Object Identifier no. X
+
+The deployment of a CBDC system presents a number of
+challenges that must be properly addressed before launch.
+Citizens can withdraw excessive amounts of money from
+banks at once to acquire digital currencies, causing a bank
+run. To avoid this risk, a maximum CBDC purchasing
+limit must be set. Regulatory compliance and transparency
+must be ensured without jeopardizing user anonymity and
+privacy. In the Bitcoin cryptocurrency network, no authorization is required. To preserve anonymity, users hold
+numerous wallet addresses and use each address only once
+to receive a transaction [7], [8]. The use of dynamic wallet
+addresses prevents others from learning a user’s balance by
+tracking their transactions. On the contrary, users must be
+authorized in a CBDC network by several certificate authorities (CAs) to satisfy know-your-customer (KYC) standards.
+Users should have a single authorized wallet address so that
+user authentication and prosecution of illegal activities can
+be easily handled and regulatory compliance can always be
+ensured. In both the networks, participants must be able to
+access the transaction ledger and verify the correctness of
+transactions to be assured that the system is transparent
+and no transaction is double-spent by any party. However, protecting user privacy while leaving KYC-enabled
+transaction ledger public and verifiable to the participants
+is a challenging task. Conversely, keeping the ledger private ensures privacy and auditability but fails to provide
+transparency. In short, the three basic properties of CBDCs
+(i.e., privacy, auditability, and transparency) are difficult
+to satisfy simultaneously. This open challenge demands
+an advanced cryptographic technique that can fulfill the
+fundamental CBDC requirements.
+
+This work is licensed under a Creative Commons Attribution 4.0 License. For more information, see https://creativecommons.org/licenses/by/4.0/
+
+This article has been accepted for publication in IEEE Transactions on Services Computing. This is the author's version which has not been fully edited and
+content may change prior to final publication. Citation information: DOI 10.1109/TSC.2022.3226120
+
+JOURNAL OF LATEX CLASS FILES, VOL. X, NO. X, XXXX
+
+1.1
+
+Race to CBDC
+
+To date, more than a hundred countries around the world
+are exploring their own CBDCs, which can be used beyond
+their territories through low-cost, cross-border payments
+[4]. The Bahamian Sand Dollar was the first CBDC to
+support non-anonymous domestic transactions. Although
+this currency is fully auditable, it lacks the characteristic of
+anonymity that is the main attraction of digital currencies
+from a user perspective. China is far ahead and almost
+set to roll out its CBDC, called digital Yuan, nationwide,
+with a view to becoming a cashless society. The project is
+currently in its early stages of trials and intends to allow
+digital Yuan trading beyond China’s borders. However, it is
+not yet known what technical foundation the digital Yuan
+is built upon. It is also unclear how users would actually
+own and spend digital Yuan without a blockchain. Despite
+these concerns, digital money is expected to be China’s
+primary currency for conducting domestic and international
+transactions if everything goes well. Of the G7 economies,
+the United States and the United Kingdom are the furthest
+behind on CBDC development. Nineteen G20 countries are
+considering a CBDC, with sixteen of them being in the
+research or pilot stage.
+1.2
+
+Related Work
+
+Several CBDC project reports are available on the respective
+CBs’ websites. However, CBDC literature is limited. Opare
+et al. [9] filtered existing CBDC papers and project reports
+based on some essential parameters and selected only eight
+project reports. These projects are Jasper, Ubin, Jasper-Ubin,
+Khokha, Stella, Inthanon, BLOCKBUSTER, and SALT [10]–
+[17]. For real-time gross settlement (RTGS), most projects
+used Ethereum, Quorum, Hyperledger Fabric, or Corda and
+conducted inter-bank payment trials with proof of concept
+prototypes. Ethereum is a public blockchain, which does
+not ensure user privacy and cannot be controlled by a
+government. This blockchain is powered by smart contracts, which require the ether cryptocurrency to execute
+[18]. As a result, an Ethereum-based CBDC system is not
+cryptocurrency-independent. The same concern applies to
+the Quorum blockchain because it is a fork (variant) of
+the Ethereum codebase. The Quorum-based solutions use
+zero knowledge (ZK) proofs [19] to achieve privacy, but
+they involve larger transaction sizes and higher latency.
+The Hyperledger Fabric prototypes enable account-based
+transactions at a higher speed. However, the use of private
+channels for privacy raises scalability concerns because the
+network complexity for channel management increases as
+the number of users increases. Corda-based approaches
+provide the privacy and speed required for a UTXO model,
+but they suffer from certain resiliency issues. In particular,
+the inclusion of a centralized notary node that conducts
+some necessary operations opens the door to a single point
+of failure in the blockchain network. To protect privacy,
+transacting parties must generate and store a new private–
+public key pair for each transaction similar to Bitcoin users.
+From the CBDC perspective, this requirement complicates
+regulatory compliance and raises a key management risk.
+While the survey took place in 2020, little progress in
+terms of the number of articles has been noticed from 2020
+
+2
+
+to present. Wüst et al. [20] introduced a fully centralized
+CBDC system, departing from blockchain and combining
+traditional e-cash and account models. To conduct a transaction in this system, the sender and recipient prove the
+secret serial numbers of their current account states, which
+are signed by the CB, using ZK proofs. Then, the amount
+is immediately deposited to the recipient’s blinded account.
+However, such a centralized system cannot guarantee transparency and data integrity. The distinction between a CBDC
+and traditional e-cash is limited to privacy only. Zhang et al.
+[21] substantially improved transaction speed by designing
+a hybrid model of conventional UTXOs and accounts. They
+also reduced the consensus time using a hybrid blockchain
+that combines the proof of authority (PoA) and practical
+Byzantine fault tolerance (PBFT) algorithms. Their research
+focused on transaction throughput but did not consider
+other CBDC properties. A centrally banked cryptocurrency
+named RSCoin was proposed by Danezis et al. [22], which
+is based on Bitcoin with improved scalability. Privacy solution for this system was left for future work. A holistic
+software-based CBDC system, which supports fully private
+transactions using ZK proofs and addresses regulatory constraints, was proposed in [23] but not implemented. Tinn
+et al. [24] proposed a P-hybrid CBDC design without any
+implementation. The design includes ID-linked accounts
+composed of numerous pairs of secret and public keys. It
+requires an ID-linked database keeper that is separated from
+the blockchain and managed by a single or multiple TTP(s)
+who control(s) the regulation. The identity of a recipient of
+digital cash and the transacted amount are observed by an
+authority, but no one, not even the authority, can identify the
+sender(s). The sender(s) can mint private coins that cannot
+be publicly linked to the sources. Their approach solves the
+privacy and auditability issues but does not satisfy the travel
+rule of payment [25] in which both governing bodies of a
+transaction know the sender as well as the recipient.
+This study aims to develop a partially decentralized
+CBDC system that can provide low-memory, low-latency
+transactions without compromising any of the essential
+CBDC properties.
+1.3
+
+Our Contributions
+
+The contributions of this work are summarized as follows:
+1)
+
+2)
+
+3)
+
+4)
+
+A few CBDC papers provide implementations,
+whereas most focus on CBDC scopes and requirements. We provide a full-scale implementation of
+CBDC with sufficient experimental data. This can
+help with ongoing research worldwide for the deployment of blockchain-based CBDC systems.
+While most existing CBDC and RTGS systems do
+not provide auditability, transparency, privacy, and
+resiliency concurrently, our system strikes a balance
+between these properties.
+While the other systems suffer from high memory
+consumption and latency, our system provides a
+smaller transaction size and lower verification time.
+We define a security model for our system and
+prove that the system achieves the desired security
+properties for a payment network.
+
+The proposed CBDC system has the following features:
+
+This work is licensed under a Creative Commons Attribution 4.0 License. For more information, see https://creativecommons.org/licenses/by/4.0/
+
+This article has been accepted for publication in IEEE Transactions on Services Computing. This is the author's version which has not been fully edited and
+content may change prior to final publication. Citation information: DOI 10.1109/TSC.2022.3226120
+
+JOURNAL OF LATEX CLASS FILES, VOL. X, NO. X, XXXX
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+UTXO in consortium network: UTXO-based transactions are conducted in a consortium blockchain network governed by a group of authorities where
+permission is required to join the network.
+Energy-efficient consensus: Instead of using energyintensive proof of work (PoW), blocks are managed
+using the energy-efficient Clique consensus algorithm in which validators know each other.
+Auditability and travel rule: Unlike traditional cryptocurrencies, only registered users can participate in
+transactions using authorized wallets, which helps
+to ensure regulatory compliance. The identity management or user registration is accompanied by several CAs or KYC agents who are approved by the
+CB. Each CA runs a consensus node for blockchain
+management and a full node for user access control.
+Transactions are auditable as they are authenticated
+before being stored in the blockchain. In case of a
+court request, the CAs must disclose the identity and
+balance of a user. This prevents criminals from conducting illegal activities such as tax evasion, money
+laundering, and smuggling through the network.
+Transparency or publicly verifiability: Transactions are
+public within the consortium network. Anyone in
+the network can read the blockchain and verify the
+correctness of transactions.
+Anonymity and privacy: Unlike Bitcoin, ID-linked
+pseudo-random addresses are used as receiving addresses instead of recipients’ actual wallet addresses.
+This strategy eases the allocation of a single wallet address for each user without affecting their
+anonymity. Nobody except the corresponding CAs
+know the sender and recipient of a transaction.
+Unlike Zcash [26], everybody in the network can
+observe transacted amounts to ascertain the correctness of transactions. Observing transacted amounts
+also helps to monitor financial flows and decline a
+transaction that attempts to transfer an amount exceeding the maximum limit set by law enforcement.
+As transactions are anonymous in the network, no
+one can learn a user’s wallet balance by tracking their
+previous transactions.
+Fund recovery option: If a user claims that they cannot
+spend their UTXOs because they have lost their
+wallet private key, their CA informs the CB. If the
+claim is investigated and found to be true, the CB
+blacklists the addresses belonging to the orphaned
+UTXOs and refunds the same amounts to the user’s
+new address. This function is the advantage of a
+CBDC over a cryptocurrency in which validators are
+unidentified and do not know each other.
+
+The remainder of this paper is organized as follows: The
+background related to this research is elaborated in Section
+2. The proposed system and algorithms are presented in
+Section 3. A security model for the system is formalized in
+Section 4. The system’s security and privacy are analyzed
+in Section 5. The implementation results and performance
+analyses are provided in Section 6. The limitation and scope
+of the system are mentioned in Section 7. Finally, the paper
+is concluded in Section 8.
+
+3
+
+2
+2.1
+
+BACKGROUND
+Blockchain
+
+A blockchain is an immutable shared ledger in which
+transaction data is timestamped and stored in chronological
+blocks with unique hashes. The blocks are cryptographically
+connected to one another and can be publicly verified over
+a distributed network [27]. They are synchronized with the
+help of a consensus algorithm that allows machines (nodes)
+to work together [28]. Even if certain nodes fail individually, the network as a whole agrees on a single source of
+truth [29]. Blockchain data can never be modified, unlike
+centralized databases, because modifying a block causes
+the entire blockchain to become incorrect. The main goal
+of blockchains is to share information without requiring a
+TTP. Blockchains can be classified into two major categories:
+permissionless and permissioned. In a permissionless or
+public blockchain, any node having a copy of the entire
+blockchain can become a miner (validator) and participate
+in consensus, whereas a permissioned blockchain allows
+a limited number of authorized nodes to participate in
+consensus and only registered users to conduct transactions.
+2.2
+
+Consortium Blockchain
+
+A consortium blockchain is a permissioned blockchain
+that combines public and private blockchain functionalities [30]. It is regulated by a group of validators, each
+representing a single organization or authority [31]. Consortium blockchains have various advantages over public blockchains such as lightweight consensus, high-speed
+transactions, low energy consumption, proper regulation,
+and no illegal activity. PoA, PBFT, Istanbul BFT (IBFT),
+and Raft are the preferred consensus algorithms for these
+blockchains. PBFT and IBFT can tolerate a maximum of N/3
+faulty nodes among N consensus nodes in a network. In
+contrast, Raft and PoA can tolerate up to N/2 − 1 faulty
+nodes [32]. The computational complexity of PBFT and IBFT
+is O(n2 ), whereas that of the PoA and Raft algorithms is
+O(n). Although Raft achieves consensus more quickly than
+PoA, its consensus nodes blindly follow their leader. While
+the correctness of a block proposed by the PoA leader is
+verified by each authority, it is assumed that the Raft leader
+will always act correctly [31]. Because blocks are not secured
+by unique hashes on various platforms, Raft necessitates
+alternative methods of data integrity assurance.
+2.3
+
+Clique Consensus
+
+Clique, a type of PoA, is a new family of BFT consensus
+algorithms [32]. In this algorithm, new blocks are directly
+added to a blockchain after validation. Unlike PoW, there
+is no competition among the validators for complex mathematical puzzle solving. As a result, low computational
+power is required to reach consensus. Clique is dependent
+on a group of N trustworthy nodes called the authorities,
+each recognized by a unique ID or public key. A majority
+of the authorities must be honest to ensure network transparency. All authorities continuously monitor each other’s
+activities. Consensus is achieved through a round-robin
+schedule, assigning the duty of block delivery to each authority in turn.
+
+This work is licensed under a Creative Commons Attribution 4.0 License. For more information, see https://creativecommons.org/licenses/by/4.0/
+
+This article has been accepted for publication in IEEE Transactions on Services Computing. This is the author's version which has not been fully edited and
+content may change prior to final publication. Citation information: DOI 10.1109/TSC.2022.3226120
+
+JOURNAL OF LATEX CLASS FILES, VOL. X, NO. X, XXXX
+
+4
+
+A: Authority
+B: Block
+A0
+
+A0
+
+A1
+
+A0
+
+A2
+
+A1
+
+A3
+
+A7
+
+A5
+
+B0 A0
+
+B1 A1
+
+A1
+
+B0 A0
+
+B1 A1
+
+A2
+
+B0 A0
+
+B1 A1
+
+A3
+
+B0 A0
+
+B1 A2
+
+A4
+
+B0 A0
+
+B1 A1
+
+A5
+
+B0 A0
+
+B1 A2
+
+A2
+
+GHOST
+Protocol
+
+B2
+
+B1
+
+A6
+
+Commit
+
+Block Proposal
+
+A7
+
+A3
+
+A6
+
+A4
+
+A5
+
+A4
+
+(a)
+
+B1 A1
+
+B1 A1
+
+(b)
+
+Fig. 1. Clique consensus algorithm [31]: (a) Selection of the term leaders and (b) GHOST protocol.
+
+Unlike Aura PoA that allows only the current leader
+to propose block, Clique assigns multiple block proposers
+at a step [33]. The proposers are selected in a sequence
+that considers the block number and number of authorities
+[34]. At each step, a leader and N/2 − 2 assistants propose
+their blocks as shown in Fig. 1a. Thus, after every N/2 + 1
+steps, an authority can propose a block. The leader’s block
+normally prevails because each assistant is halted from
+submitting a block for a certain amount of time so that the
+leader’s block reaches everyone first. If an assistant has high
+computational power and better network connectivity than
+the leader, the assistant’s block reaches some authorities
+earlier than the leader’s block. When an authority receives
+multiple blocks of the same block index, their blockchain intends to deviate into different paths forward. This situation
+is termed as fork, which must be avoided to maintain the
+same state of the ledgers managed by individual authorities.
+A fork is solved using the GHOST protocol [36] or block
+scoring approach as shown in Fig. 1b. The current leader
+receives the highest priority. The block proposed by an
+assistant is always replaced by the block proposed by a proposer who has higher score than the assistant. The replaced
+blocks are called uncle blocks, which are not included in
+the blockchain. If an authority proposes an invalid block,
+the block is rejected and the proposer is voted out by the
+network’s honest majority.
+Evaluation of Clique Based on The CAP Theorem [33]:
+Consistency: A blockchain achieves data consistency
+when forks are avoided. Due to forks, consensus nodes
+face difficulty synchronizing their individual ledgers. If
+consistency cannot be achieved immediately, whether forks
+are resolved sooner or later (eventual consistency) or are
+unsolvable (no consistency) must be considered. Clique
+provides eventual consistency as the authorities resolve the
+resulting forks at some point using the GHOST protocol.
+Availability: A blockchain is available if transactions
+continuously broadcast by users are processed. By design,
+Clique allows N/2 − 1 authorities to propose a block with
+random delays at a step. If the step leader is offline, assistant
+block proposers propose blocks. Therefore, this algorithm
+offers a higher availability, which is proportional to N .
+Partition tolerance: When partitions occur in a blockchain
+network, consensus nodes are divided into disjoint
+groups such that nodes in different groups hold different
+blockchains. A majority of Byzantine nodes is required to
+
+determine the correct blockchain. Therefore, the maximum
+number of tolerated faulty nodes in Clique is N/2 − 1 if N
+is even or (N − 1)/2 if N is odd.
+2.4
+
+Cryptographic Primitives
+
+2.4.1 Elliptic Curve
+Elliptic curve cryptography is used to generate wallet addresses and digital signatures [31]. An elliptic curve over a
+prime field Fp is given by the following equation [36]:
+
+Ea,b : y 2 = x3 + ax + b,
+
+(1)
+
+where p is a prime number, a and b are coefficients, and
+x, y ∈ [1, p − 1] with
+
+4a3 + 27b2 6= 0.
+
+(2)
+
+The most popular elliptic curve for blockchains is
+Secp256k1. For this curve, a = 0, b = 7, and p = 2256 −
+232 − 977, which can be expressed as follows [37]:
+
+E : y 2 = x3 + 7.
+
+(3)
+
+A special point at infinity O on E and some other points
+E(Fp ) (e.g., Q1 , Q2 , and Q3 ) form a finite, cyclic, abelian
+group G of order q and generator point G, such that qG = I .
+Group G has the following properties:
+1)
+2)
+
+3)
+4)
+5)
+6)
+
+The point O is additive identity of G.
+A line perpendicular to the x-axis intersects E at
+two points Q1 (x1 , y1 ) and Q2 (x2 = x1 , y2 = −y1 ),
+where Q2 = −Q1 .
+For the curve order q and generator point G, G +
+qG = qG + G = G.
+For two arbitrary points Q1 , Q2 ∈ G, Q1 + Q2 =
+Q2 + Q1 .
+For two arbitrary integers k1 , k2 ∈ Fq , (k1 + k2 )G =
+k1 G + k2 G and (k1 k2 )G = k1 (k2 G) = k2 (k1 G).
+For two given points Q1 , Q2 ∈ G, it is challenging
+to determine an integer k ∈ Z∗q such that Q2 = kQ1 .
+
+2.4.2 Public Key Generation
+A public key Q ∈ G is generated through the elliptic
+curve scalar multiplication (ECSM) operation. The underlying principle of ECSM is to multiply the base point G by
+a scalar or private key k ∈ Fq such that Q = kG. It includes
+elliptic curve group operations such as point addition (PA)
+and point doubling (PD) [38].
+
+This work is licensed under a Creative Commons Attribution 4.0 License. For more information, see https://creativecommons.org/licenses/by/4.0/
+
+This article has been accepted for publication in IEEE Transactions on Services Computing. This is the author's version which has not been fully edited and
+content may change prior to final publication. Citation information: DOI 10.1109/TSC.2022.3226120
+
+JOURNAL OF LATEX CLASS FILES, VOL. X, NO. X, XXXX
+
+5
+
+Let us consider two points on E in affine coordinates,
+such as Q1 (x1 , y1 ) and Q2 (x2 , y2 ), in the range of [1, p − 1].
+The PA Q1 +Q2 makes another point Q3 (x3 , y3 ) ∈ G, which
+is obtained as follows [36]:
+
+Q3 (x3 , y3 ) = {Q1 (x1 , y1 ) + Q2 (x2 , y2 )} ∈ G
+x3 = γ 2 − x1 − x2
+y3 = γ(x1 − x3 ) − y1
+
+(4)
+
+where γ = (y2 − y1 )(x2 − x1 )−1 and Q1 6= Q2 .
+The PD of Q1 (x1 , y1 ) on E is performed as follows [36]:
+
+Q3 (x3 , y3 ) = 2Q1 (x1 , y1 ) ∈ G
+x3 = γ 2 − 2x1
+y3 = γ(x1 − x3 ) − y1
+
+(5)
+
+where γ = (3x21 )(2y1 )−1 and Q1 = Q2 .
+PA and PD in affine coordinates involve several inversion operations over Fp . However, a single modular inversion is equivalent to 80 modular multiplications in terms
+of latency [36]. To reduce the number of time-consuming
+modular arithmetic operations, the group operations are
+performed in projective coordinates by representing the
+points Q1 and Q2 as (X1 = x1 , Y1 = y1 , Z1 = 1) and
+(X2 = x2 , Y2 = y2 , Z2 = 1), respectively.
+The formula for projective PA is provided as follows [36]:
+
+Q3 (X3 , Y3 , Z3 ) = Q1 (X1 , Y1 , Z1 ) + Q2 (X2 , Y2 , Z2 ) ∈ G
+X3 = α2 − β 3 − 2X1 Z22 β 2
+Y3 = α(X1 Z22 β 2 − X3 ) − Y1 Z23 β 3
+Z3 = Z1 Z2 β
+
+(6)
+
+where α = Y2 Z13 − Y1 Z23 and β = X2 Z12 − X1 Z22 .
+The formula for projective PD is provided as follows [36]:
+
+X3 =
+
+Y3 =
+Z3 = 2Y1 Z1 .
+
+X3 ) − 8Y14
+
+(7)
+
+The ECSM can be performed by adding G to itself k − 1
+times such that:
+
+Q=G+G
++ .......
++ G} .
+|
+{z
+
+(8)
+
+k−1 times
+
+If k is expressible as a power of 2, Q can be obtained by
+doubling G on itself log2 k times such that:
+
+Q = ...2(2(2(G))) .
+|
+{z
+}
+
+Curve parameter: Base P
+point G
+i
+Input: Private key k = l−1
+i=0 k[i]2 ; k[i] ∈ {0, 1}, k[l − 1] = 1
+Output: Public key Q
+1: G ← G(X = x, Y = y, Z = 1)
+// affine to projective
+2: Q ← G
+3: for i from l − 2 to 0 do
+4:
+Q ← 2Q
+// PD
+5:
+if k[i] = 1 then
+6:
+Q←Q+G
+// PA
+7:
+end if
+8: end for
+9: Q ← Q(x = X/Z 2 , y = Y /Z 3 )
+// projective to affine
+10: return Q
+
+Algorithm 2 ECDSA Signature Generation [40]
+Curve parameter: Base point G, curve order q
+Input: Private key k, message M
+Output: Signature S(r, s)
+1: Select a random integer: ω ∈ [1, q − 1]
+2: Compute R = ωG
+3: Compute r = Rx %q ; if r = 0, go to Step 1
+4: Convert M to an integer: h = int(SHA256(M ))
+5: Compute s = ω −1 (h + kr)%q ; if s = 0, go to Step 1
+6: return S(r, s)
+
+called the elliptic curve discrete logarithm problem (ECDLP) [36],
+[39]. The integer k is the discrete logarithm of Q to the generator
+G, denoted as k = logG Q.
+Definition 2: For two given points Q1 = k1 G and Q2 =
+k2 G with k1 , k2 ∈ Z∗q , the computation of (k1 + k2 )G is simple,
+but the computation of (k1 k2 )G is difficult without knowing k1
+and k2 . This difficulty is called the elliptic curve Diffie–Hellman
+problem (ECDHP) [36].
+2.4.3
+
+Address Generation
+
+A wallet address λ is a 34-character alphanumeric string
+that is generated using the following equation:
+
+Q3 (X3 , Y3 , Z3 ) = 2Q1 (X1 , Y1 , Z1 ) ∈ G
+9X14 − 8X1 Y12
+3X12 (4X1 Y12 −
+
+Algorithm 1 Double-And-Add Algorithm-Based ECSM [36]
+
+(9)
+
+log2 k times
+
+Algorithm 1 demonstrates the binary or double-andadd method for generating a public key from a private
+key through ECSM. The public key Q is obtained by the
+sequential operations of PA and PD based on the binary bit
+pattern of the l-bit private key k . As shown, PD is performed
+in every iteration, whereas PA is performed only when the
+current bit of k is 1.
+Definition 1: Given an elliptic curve E defined over a finite
+field Fp , a generator point G ∈ E(Fp ) of order q , and a point Q ∈
+hGi. When q is sufficiently large, it is challenging to determine
+an integer k ∈ [0, q − 1] such that Q = kG. This constraint is
+
+λ = B58Encode(RIP EM D160(SHA256(Q))).
+
+(10)
+
+First, an uncompressed public key (i.e.,“04”||Qx ||Qy )
+is converted into a hash value using the SHA256 and
+RIPEMD160 hash functions, consecutively. The hash value
+is then encoded using the Base58Check encoding technique,
+which has an alphabet of 1–9, a–z, and A–Z excluding 0
+(zero), O (capital o), I (capital i), and l (small L) [31].
+2.4.4
+
+Elliptic Curve Digital Signature Algorithm
+
+The elliptic curve digital signature algorithm (ECDSA) is
+used for transaction signing and verification as it is widely
+used in blockchains. Algorithm 2 presents the signature generation process, which takes a private key k and message M
+as the input and outputs a two-part signature S . Algorithm
+3 describes the signature verification process, which verifies
+S using M and the corresponding public key Q.
+2.4.5
+
+Encryption and Decryption
+
+Encryption is a technique of hiding data so that only authorized parties can understand the information. Decryption is
+a way to retrieve encrypted data. The original meaningful
+message sent by the sender before encryption or received
+by the receiver after decryption is called plaintext. The
+
+This work is licensed under a Creative Commons Attribution 4.0 License. For more information, see https://creativecommons.org/licenses/by/4.0/
+
+This article has been accepted for publication in IEEE Transactions on Services Computing. This is the author's version which has not been fully edited and
+content may change prior to final publication. Citation information: DOI 10.1109/TSC.2022.3226120
+
+JOURNAL OF LATEX CLASS FILES, VOL. X, NO. X, XXXX
+
+6
+Tx1: Alice
+
+Verify
+
+Curve parameter: Base point G, curve order q
+Input: Public key Q, message M , signature S(r, s)
+Output: True/False
+1: Compute s0 = s−1 %q
+2: Convert M to an integer: h = int(SHA256(M ))
+3: Compute u1 = hs0 %q and u2 = rs0 %q
+4: Compute R = u1 G + u2 Q
+5: Compute v = Rx %q
+
+12 coins
+
+Bob
+
+6 coins
+
+Tx2: Bob
+
+Charlie
+
+Input
+
+Outputs
+
+Input
+
+Outputs
+
+λA=Hash(QA)
+20 coins
+QA
+Signature
+
+λB=Hash(QB)
+12 coins
+
+λB=Hash(QB)
+12 coins
+QB
+Signature
+
+λC=Hash(QC)
+6 coins
+
+Sign
+
+λA=Hash(QA)
+8 coins
+
+Verify
+
+Algorithm 3 ECDSA Signature Verification [40]
+
+kA
+
+Sign
+
+λB=Hash(QB)
+6 coins
+
+kB
+
+?
+
+6: return r = v
+Fig. 2. Conventional UTXO model with static wallet addresses.
+
+meaningless data transferred after encryption are called ciphertext. In cryptography, there are two types of encryption:
+symmetric and asymmetric [36]. In symmetric encryption,
+the sender and receiver share a common private key to
+encrypt and decrypt information. However, in asymmetric
+encryption, they use two different private keys to perform
+these operations while both parties require each other’s public keys. The proposed system adapts asymmetric encryption to encrypt data with increased security and privacy.
+Let Alice be the sender and Bob be the receiver. Their
+private–public key pairs are (kA , QA ) and (kB , QB ), respectively. To send message M using asymmetric encryption,
+Alice first represents M as a point on E by encoding. Then,
+she computes an encrypting key using her private key and
+Bob’s public key as follows:
+
+Qe = kA QB .
+
+(11)
+
+She generates a ciphertext using M and Qe as follows:
+
+C = M + Qe .
+
+(12)
+
+Upon receiving C from Alice, Bob generates a decrypting
+key using his private key and Alice’s public key as follows:
+
+Qd = kB QA .
+
+(13)
+
+Then, he decrypts the ciphertext using C and Qd as follows:
+
+M = C − Qd = C + (−Qd ).
+
+(14)
+
+Finally, he decodes M to retrieve the original message.
+How does decryption work?
+To correctly decrypt a ciphertext, the encrypting key
+must be equal to the decrypting key. In this encryption,
+
+Qe = kA QB = kA (kB G) = kA kB G
+
+(15)
+
+Qd = kB QA = kB (kA G) = kA kB G.
+
+(16)
+
+and
+Alice’s encrypting key is equal to Bob’s decrypting key.
+Thus, two parties can exchange a secret message without
+compromising privacy as they do not need to share their
+private keys.
+If the size of M is less than or equal to the size of kA kB G,
+the asymmetric encryption can be performed using an XOR
+(⊕) operation in (12) and (14) rather than PA to reduce
+computation time and memory consumption.
+2.5
+
+Unspent Transaction Output (UTXO)
+
+A UTXO is the amount of digital currency that is transferred
+to a crypto address or that remains after a transaction is
+completed [31]. When a transaction occurs, outputs are
+
+produced as new UTXOs that can subsequently be spent
+in other transactions. Each UTXO is treated as a token,
+and there is no principle of a closing balance. An incoming
+transaction remains a UTXO until it is connected to the input
+of an outgoing transaction. If the input amount exceeds the
+sending amount, the excess amount is refunded to a new
+address of the sender, considering a change. UTXOs can
+be combined and split up in any denomination to make
+payments. A UTXO is transferred from one party to another
+by changing its ownership rather than by reconciling two
+centralized databases. UTXO models provide various advantages over conventional account models, including the
+strong security and the ability to execute multiple transactions from the same payer concurrently.
+Fig. 2 illustrates the conventional UTXO model [41].
+Let us consider three users, Alice, Bob, and Charlie,
+whose wallet address, public key, and private key sets
+are {λA , QA , kA }, {λB , QB , kB }, and {λC , QC , kC }, respectively. Alice has a UTXO of 20 coins from which she transfers
+12 coins to Bob (λB ) and receives 8 coins as a refund to her
+sending address λA . While conducting the transaction Tx1 ,
+Alice must prove that she owns the input address. To prove
+her ownership, she must provide her public key QA and a
+signature that is generated by signing Tx1 with her private
+key kA . If the signature is verified using QA , her ownership
+claim is true because she knows the corresponding private
+key of λA . Similarly, Bob transfers 6 coins to Charlie (λC )
+from the UTXO received from Alice and receives a refund
+of 6 coins. Both transactions are recorded on a blockchain,
+which is public to all participants in the network.
+During the first transaction, Alice knows that the address
+λB belongs to Bob. As the transaction data are public,
+Alice can discover Bob’s balance by tracing all transactions
+related to λB , which is a privacy concern for Bob. This
+issue is resolved by adopting a dynamic-address approach
+in which the wallet address is changed after each transaction
+to prevent transaction traceability [7], [8].
+
+3
+
+P ROPOSED CBDC S YSTEM
+
+Fig. 3 presents an overview of the proposed CBDC system
+in which the CB and several CAs manage a consortium
+blockchain L using the Clique consensus algorithm. The
+CAs also provide KYC services to users and authenticate
+transactions. Each of them runs a consensus node to manage
+L and a full node (website or mobile app) to help users in
+making transactions without downloading L. Transactions
+in the network are conducted using the following steps:
+
+This work is licensed under a Creative Commons Attribution 4.0 License. For more information, see https://creativecommons.org/licenses/by/4.0/
+
+This article has been accepted for publication in IEEE Transactions on Services Computing. This is the author's version which has not been fully edited and
+content may change prior to final publication. Citation information: DOI 10.1109/TSC.2022.3226120
+
+JOURNAL OF LATEX CLASS FILES, VOL. X, NO. X, XXXX
+Application Layer
+
+Network Layer
+$
+CB
+
+24/7 Operating Hours
+CA1
+Server X (kX , QX )
+2
+
+CA2
+Travel Rule
+Server Y (kY, QY)
+(Authentication)
+3
+
+Decentralized
+control
+
+CA5
+
+B0
+
+B1
+
+Centralized
+control
+
+CA1
+
+Consortium
+Blockchain
+
+Tx
+
+Encrypt(ks, kr, QA , QB , Tx)
+
+1
+
+7
+
+Transaction
+processing
+
+Distributed
+
+Hybrid
+
+Centralized
+
+Ledger
+
+Distributed
+
+Distributed
+
+Centralized
+
+B2
+
+4
+
+Sender
+(kA, QA )
+
+CB: Central Bank
+CA: Certificate Authority
+Tx: Transaction
+k: Private Key
+Q: Public Key
+
+Recipient
+(kB , QB )
+
+Clique
+Consensus
+CA4
+
+CA2
+CA3
+
+No authentication
+Tx validation
+Data storage
+
+Tx authentication
+Tx validation
+Data storage
+
+Tx authentication
+Tx validation
+Data storage
+
+Transparency and resiliency decrease
+
+Fig. 3. Overview of the proposed partially decentralized CBDC system.
+
+1)
+
+2)
+
+3)
+
+4)
+
+The sender ∈ CA1 prepares a transaction for the
+recipient ∈ CA2 on the CA1 ’s website using the
+private–public key pair (kA , QA ).
+Server X encrypts the transaction concatenated with
+the user identifying parameters ks , kr , QA , QB using the private key kX , where ks and kr are two
+random secrets (auxiliary private keys) required to
+hide the identity of the sender and recipient, respectively. The encrypted data is sent to the destination
+server (i.e., server Y) for recipient authentication.
+Server Y decrypts the ciphertext using the private
+key kY and confirms that QB is a registered public key. Then, it records all the information on its
+database and broadcasts only the transaction with a
+signature to the network for validation and storage.
+The network authorities validate the transaction and
+store it in L using Clique.
+
+Fig. 4 shows the decision-making spectrum of the proposed CBDC system. The left end of the spectrum is fully
+decentralized system management, which applies to cryptocurrencies where transaction data is stored in a distributed
+ledger and no authentication is performed. Such networks
+jeopardize privacy and auditability. The right end of the
+spectrum is fully centralized system management in which
+only the respective CB controls transaction processing and
+data storage. This spectrum applies to conventional fiat
+currencies, which lack transparency and resiliency. The proposed CBDC system refers to the middle point of the spectrum in which transaction is authenticated with centralized
+control but validated and stored with decentralized control.
+Thus, it maintains a balance between privacy, auditability,
+transparency, and resiliency.
+3.1
+
+Transaction Mechanism
+
+Fig. 5 depicts the proposed UTXO model for CBDC payments. In the conventional UTXO model, although the
+privacy issue is resolved using dynamic wallet addresses,
+the use of multiple private keys raises a key management
+risk. It is simple to securely handle one or two private
+keys, but managing a large number of keys is difficult. To
+preserve privacy, a user stores n addresses, n public keys,
+and n private keys for n transactions. Leakage of any of
+the private keys results in a financial loss to the user. If a
+private key is lost, the UTXO that belongs to the key cannot
+be spent and will be forever orphaned in the network.
+As no authority takes care of a user’s private keys and
+
+Privacy and auditability increase
+
+Fig. 4. Decision-making spectrum of the proposed CBDC system.
+
+a private key cannot be retrieved from its corresponding
+public key, recovering a lost private key is impossible. In
+addition, users need a static address in some instances, e.g.,
+receiving restaurant bills from customers, monthly rents
+from house tenants, electricity bills from consumers, educational fees from students, and medical fees from patients.
+In such scenarios, restaurant managers, landlords, electricity
+providers, institution administrators, and hospital managers
+cannot receive payments using different wallet addresses
+every time. Our UTXO model resolves these issues because
+transacting parties use wallet-linked addresses rather than
+their actual wallet addresses. They create their transacting
+addresses using random secrets, which are stored in their
+CAs’ servers. However, no CA can spend their customers’
+funds because they do not have customers’ wallet private
+keys. Thus, each user manages only a single private key, and
+their transaction privacy and security are not compromised.
+As shown in the figure, the transaction chain is initialized by the CB with a block reward (supply) of 50000 coins,
+and the amount is then distributed among users. The first
+transaction Tx1 occurs for a CB-to-user payment. At output
+1, the CB transfers 10000 coins to a wallet-linked address
+of Alice ∈ CA1 . The address is generated by the given
+equation:
+
+λA1 = B58Encode(RIP EM D160(SHA256(k1 QA ))),
+(17)
+where k1 is a random secret (auxiliary private key) computed by the CB. This key is later stored by CA1 so that Alice
+can identify her inbound transaction to spend the UTXO.
+From the remaining 40000 coins, a transaction fee of 2
+coins is charged as an incentive to the authority who records
+the transaction on L after validation. The rest of the amount
+is refunded to the CB’s wallet-linked address at output 2.
+Tx2 refers to a user-to-user payment in which Alice sends
+3000 coins to Bob ∈ CA2 from the amount received from the
+CB. From the remaining 7000 coins, 2 coins are deducted
+as the transaction fee, and 6998 coins are refunded to Alice’s
+new wallet-linked address. To prepare this transaction, Alice
+first chooses a random secret k3 . To hide Bob’s identity,
+she multiplies Bob’s public key QB by k3 and generates a
+pseudo address in a similar manner to (17). When spending
+the UTXO received from Alice, Bob requires k3 because
+he must sign Tx3 with the new private key k3 kB that
+corresponds to his UTXO address. Therefore, Alice encrypts
+
+This work is licensed under a Creative Commons Attribution 4.0 License. For more information, see https://creativecommons.org/licenses/by/4.0/
+
+This article has been accepted for publication in IEEE Transactions on Services Computing. This is the author's version which has not been fully edited and
+content may change prior to final publication. Citation information: DOI 10.1109/TSC.2022.3226120
+
+JOURNAL OF LATEX CLASS FILES, VOL. X, NO. X, XXXX
+Tx2: Alice
+
+Output 1
+
+Input (Supply)
+
+Verify
+
+Alice
+
+Address: Block Hash
+Amount: 50000 coins
+Public Key: QCB
+Signature
+
+3000 coins
+
+Input (UTXO)
+
+Address: Hash( k1QA )
+Amount: 10000 coins
+CA: QX
+Memo: Encrypt( k1 )
+
+Sign
+
+kCB
+
+Tx3: Bob
+
+Address: Hash( k1QA )
+Amount: 10000 coins
+Public Key: k1QA
+Signature
+
+Input (UTXO)
+
+Output 2
+
+Timestamp: t2
+
+Address: Hash( k2QCB )
+Amount: 39998 coins
+CA: QCB
+Memo: Encrypt( k2 )
+
+1098 coins
+
+Charlie
+Output 1
+
+Address: Hash( k4QA )
+Amount: 6998 coins
+CA: QX
+Memo: Encrypt(k4 )
+
+Output 2 (Refund)
+
+Timestamp: t1
+
+Bob
+Output 1 (Refund)
+
+Sign
+
+k1kA
+
+Address: Hash( k3QB )
+Amount: 3000 coins
+CA: QY
+Memo: Encrypt( k3 )
+
+Tx Fee: 2 coins
+
+Verify
+
+10000 coins
+
+Verify
+
+Tx1: CB
+
+8
+
+Address: Hash( k3QB )
+Amount: 3000 coins
+Public Key: k3QB
+Signature
+
+Timestamp: t3
+
+Tx Fee: 2 coins
+
+Sign
+
+Address: Hash( k5QC )
+Amount: 1098 coins
+CA: QY
+Memo: Encrypt(k5 )
+Output 2 (Refund)
+
+Address: Hash( k6QB )
+Amount: 1900 coins
+CA: QY
+Memo: Encrypt( k6 )
+
+Tx Fee: 2 coins
+k3kB
+
+Fig. 5. Proposed UTXO model for the CBDC system.
+
+k3 and stores the encrypted value in Bob’s memo field. The
+encryption is performed using the following formula:
+C1 = k3 ⊕ (k1 kA )QB ,
+
+Upon receiving T c , server Y obtains the plaintext as follows:
+
+k3 ||k4 ||QB ||QA ||T = T c − kY QX .
+
+(22)
+
+Verify
+
+Verify
+
+Verify
+
+Then, the server authenticates the recipient by searching the
+where k3 is considered the plaintext that is to be encrypted, CA2 ’s customer list for QB . If QB is found to be registered,
+k1 kA is Alice’s signing key that corresponds to the input it checks whether the secrets match the output addresses.
+Output 1 (Refund)
+Output 1
+(UTXO) the
+public key k1 QA , (k1 kA )QB is the key thatInput
+encrypts
+Finally, T is signed with kY and broadcast to the consortium
+Address: Hash(k5QC )
+Address: Hash(k4QA)
+Address: Hash( k1Q A )
+plaintext, and C1 is the resultant ciphertext.
+network for validation and storage. Similarly,
+Bob transfers
+Amount: 6998 coins
+Amount: 1098 coins
+coins
+Input
+(UTXO)
+coins
+to
+Charlie
+∈
+CA
+in
+Tx
+.
+Note that the multiplication of k1 andAmount:
+kA 10000
+produces
+a CA:1098
+2
+3
+QX
+CA: QY
+Public
+QA
+Address:
+Hash(the
+k 3Q B ) servers record the transacIt is 2noteworthy that
+both
+new private key ∈ Fq , and the multiplication
+ofKey:
+thek1resultant
+Output
+Output 2 (Refund)
+Signature
+coins
+tionHash(
+information
+on Amount:
+their 3000
+databases
+soAddress:
+that Hash(
+thek6transacting
+private key and QB generates a new public key ∈ G.
+Address:
+k3QB )
+QB )
+10000 coins
+3000 coins
+1098
+coins
+Public
+Key:
+k
+Q
+3 Tx
+B
+Tx1the
+: CB asymmetric
+Alice encryption, Bob can
+Tx2decrypt
+: Alice
+Bob coins
+Charlie
+3: Bob inbound
+parties
+can easily keep track of
+their
+and
+outbound
+Owing to
+Amount: 1900
+Amount:
+3000
+coins
+Signature
+Tim
+estafollows:
+m
+p:t2
+Output 1 the plaintext
+CA:transactions.
+CA: QYevery transaction
+QY
+If not, they need to download
+C1 usingInput
+his(Supply)
+private key to retrieve
+as
+Tim
+e
+stam
+p:t3
+A d d ress: H ash ( k 2 Q C B )
+in the network and decrypt
+its
+encrypted
+memos to identify
+Sign
+Address: Block Hash
+k3 = ACm ou
+(19) T
+k1kA
+1 n⊕
+t: 1 k
+0 0B
+0 0(k
+coin1sQA ).
+T
+x
+x
+F
+F
+e
+e
+e
+e
+:
+:2
+2
+c
+c
+o
+o
+i
+in
+n
+s
+s
+Sign
+their
+transactions,
+which
+is
+a
+time-consuming
+process.
+HowAmount: 50000 coins
+k3kB
+C A : Q CB
+ever,
+unlike
+a
+blockchain,
+the
+databases
+are
+mutable
+because
+Public
+Key:
+Q
+CB
+After preparing
+the Mrecipient’s
+em o 1 : E n cryp t( k 2 ) output, Alice hides her
+Signature
+identity
+using another random
+secret
+k4 . She also encrypts they are centralized. Therefore, only the random secrets are
+M em o 2 : E n cryp
+t( k 2 )
+k4 and places ciphertext Output
+C2 in2 (Refund)
+the refunding memo field. stored on-chain after encryption, considering the worst-case
+Tim
+estam
+p:t1
+A d d ress:
+H ash ( k 2 Q C B )
+In this case,
+the
+encryption
+is performed
+by taking her own scenario (i.e., the consequences of the servers crashing [42]).
+A
+m
+ou
+n
+t:
+1
+0
+0
+0
+0
+coin
+s
+public key
+Q
+as
+follows:
+Sign A
+CAs:Q ,Q
+CB
+
+C A : Q CB
+
+kCB
+
+10000
+oTx
+n cryp
+k 2)Q
+) coins
+C2 = kM 4em⊕
+(k
+1: E
+1 kt(A
+A.
+1: CB
+
+M em o 2 : E n cryp t( k 2 )
+
+X
+
+Alice
+
+(20)
+
+Output 1
+
+Verify
+
+Verify
+
+Input
+(Supply)
+She defines the output
+addresses,
+amounts,
+Address: Hash(CAs’
+k1Q A ) public
+T
+xBlock
+F
+ee
+:2Hash
+co
+in
+s
+Address:
+Amount:
+10000 coins
+keys, and encrypted memos.
+The
+output
+positions
+are autoAmount:transaction
+50000 coins
+matically shuffled. A draft
+TCAis formed including
+Memo: Encrypt( k1 )
+Public Key:
+QCB and current
+the output list, transaction
+fee,
+timestamp t. To
+Output 2 (Refund)
+Signature
+prove ownership of the input address, a signature is generAddress: Hash(k2QCB )
+ated by signing T with k1 kTA
+the
+input. In
+im
+esand
+tam
+p:t1included
+Amount:in
+39998
+coins
+case of an insufficient fund,
+multiple
+UTXOs
+are
+combined.
+Memo:
+Encrypt(
+k
+)
+Sign
+2
+kCB is created by inserting the
+Finally, a complete transaction
+QX
+input into T . The fullCA:transaction
+format is as follows:
+
+Memo: Encrypt( k1 , Q A )
+
+T={
+CA: QCB
+’Output1’:<Address>,<Amount>,<CA>,<Memo>],
+T
+xF
+e
+e
+:2c
+o
+in
+s
+Memo: Encrypt( k 2 , QCB )
+’Output2’:[<Address>,<Amount>,<CA>,<Memo>],
+’Fee’:[<Amount>],
+’Timestamp’:<Datetime>,
+’Input’:[<Address>,<Amount>,<PublicKey>,<Signature>]
+}
+
+According to the travel rule of payment, the transaction
+must be authenticated by the sending and receiving CAs.
+Therefore, server X operated by Alice’s CA encrypts the data
+Output 2 (Refund)
+set {k3 , k4 , QB , QA , T } and sends the ciphertext T c to server
+Address:Hash(kQ
+2 CB)
+Y run by Bob’s CA. The encryption A
+ismo
+performed
+as follows:
+unt: 39998coins
+Tx2: Alice 3000 coins
+
+Bob
+
+T c = k3 ||k4 ||QB ||QA ||T +
+ke
+Qco
+.
+T
+xF
+e
+:2
+s
+X
+Yin
+Output
+1 (Refund)
+Input (UTXO)
+
+(21)
+
+3.2
+
+Consensus
+Process
+10000 coins
+Tx : CB
+Alice
+1
+
+The
+Clique consensus
+is used to preserve the
+Outputalgorithm
+1 (Refund)
+Input (Supply)
+blockchain data consistency
+prevent double-spending.
+Address: Hash(k4QAand
+)
+Address: Hash( k1Q A )
+Amount: 6998 coins
+The network
+Amount:
+10000 coins authorities individually store broadcast transC
+: Encrypt(kmempool
+1 || QA )
+actions
+a queue 1called
+that contains only pendPublic
+Key: kin
+1Q A
+Output
+2
+ing transactions. Before recording
+a transaction on L, they
+Signature
+Hash(k3QBthe
+) transaction validation provalidate it. Fig. 6Address:
+illustrates
+im
+estam
+pthe
+:t2 validators
+Amount: 3000check
+coins
+cess. T
+First,
+whether the corresponding
+C2: Encrypt(k2 || QB )
+CAsSign
+arekCBregistered
+in the network. Second, they investigate
+whether
+the input address appears at an output of a transCA:
+QX
+T
+xF
+e
+e
+:2c
+o
+in
+s
+action
+in
+Memo: Encrypt( k 4 ,the
+Q A ) blockchain or not. This investigation proves
+the
+CA:
+QY UTXO validity by ensuring its existence in L. Third, the
+validators
+that the input address does not appear at
+Memo:
+Encrypt( k 3 , Qconfirm
+Y)
+the input of any other transaction in L. This confirmation is
+required to prevent double-spending a UTXO. Fourth, they
+confirm the balance sufficiency by observing that the sum of
+the output amounts and transaction fee is equal to the input
+amount. Fifth, they verify the input address and signature
+using the sender’s public key. This verification proves that
+the sender owns the address as they know its corresponding
+private key. It also ensures the transaction data integrity.
+If all the validation criteria are satisfied, the transaction is
+finallyTx added
+tocoins
+a list
+of confirmed transactions that are
+1098
+Charlie
+3: Bob
+waiting to be stored inOutput
+a block.
+1
+
+Address:Hash(kQ
+4 A)
+CAs:Q
+Ct:
+B,Q
+X98coins
+Amoun
+69
+
+Address:Hash(kQ)
+
+Address:Hash(kQ)
+
+Address:Hash(kQ)
+
+erify
+
+5 C
+Address: Hash( k1Q A )
+Amount: 1098coins
+Input
+(UTXO)
+Amount:
+10000
+coins
+This work is licensed under a Creative Commons
+4.0 License. For more information, see https://creativecommons.org/licenses/by/4.0/
+OutputAttribution
+2
+Output 2 (Refund)
+Public Key: k1Q A
+Address: Hash( k 3Q B )
+
+Verify
+
+(18)
+
+A
+A
+P
+S
+
+This article has been accepted for publication in IEEE Transactions on Services Computing. This is the author's version which has not been fully edited and
+content may change prior to final publication. Citation information: DOI 10.1109/TSC.2022.3226120
+
+JOURNAL OF LATEX CLASS FILES, VOL. X, NO. X, XXXX
+
+9
+
+Algorithm 4 Block Generation [31]
+
+Start
+
+No
+
+Are both
+CAs registered in the
+network?
+
+Yes
+
+Does the input
+address exist in the
+blockchain?
+
+No
+
+Yes
+
+No
+
+Is the balance
+sufficient?
+
+Yes
+
+Is the input
+address unspent?
+
+Yes
+
+Store
+the transaction
+in a block
+
+No
+
+Yes
+
+No
+
+Does the
+sender own the
+input address?
+
+End
+Fig. 6. Transaction validation process.
+
+If the block volume (number of transactions to store per
+block) is n, a block proposer starts to prepare their block as
+soon as their mempool is filled up with n pending transactions. After collecting n valid transactions, they generate
+a new block using Algorithm 4 [31]. As presented in the
+algorithm, the input is a set of confirmed transactions CT ,
+the previous block hash Bh− , and the wallet private–public
+key pair (kp , Qp ) of the block proposer. First, a Merkle tree
+{Mr , Mh } is generated by hashing the individual transactions in CT using the SHA256 hash function, where Mr is
+the Merkle root and Mh is a list of Merkle leaves or hashes.
+Second, each transaction is identified using a transaction
+index Ti and hash Th ∈ Mh . Then, block B is formed including block index Bi , block hash Bh , previous block hash Bh− ,
+block nonce Bn , timestamp Bt , Mr , CT , miner’s public key
+Bm , block reward Br , and block size Bs . The supply amount
+is considered a block reward, which is a nonzero value only
+when the block proposer is the CB. Before broadcasting B to
+the network, the proposer signs it with kp and generates a
+signature Sp . Finally, {B, Sp } is broadcast to the network.
+If the number of pending transactions is less than n, an
+empty block is broadcast so that other authorities can be
+informed that the proposer is active, but the number of
+pending transactions is insufficient. Unlike the Quorum
+Clique implementation [32], the empty block is not stored
+in the blockchain to reduce memory consumption.
+Upon receiving {B, Sp }, each authority first authenticates B by verifying Sp using Bm . Then, they verify
+each transaction in B and check the correctness of Bh .
+If everything is valid, they store B in L and delete the
+common transactions between B and their mempool from
+the mempool. When multiple blocks having the same block
+index appear, they apply the GHOST protocol to accept the
+appropriate block as described in Section 2.3.
+
+Input: Confirmed transactions CT , previous block hash Bh− , proposer’s
+private–public key pair (kp , Qp )
+Output: Block–signature pair
+1: Generate a Merkle tree using CT : Mt = {root : Mr , leaves : Mh }
+2: for i from 0 to len(CT ) do
+3:
+Set the transaction index: Ti = i
+4:
+Set the transaction hash: Th = Mh [i]
+5:
+Insert Ti and Th into CT [i]
+6: end for
+7: Compute the block nonce: Bn = os.urandom(8).hex()
+8: Compute the block timestamp: Bt = datetime.now()
+9: Compute the block hash: Bh = SHA256(Bh− ||Mr ||Bt ||Bn )
+10: Define the block miner: Bm = Qp
+11: Define the block reward: Br ← supply amount
+12: Create the block: B = {Bi , Bh , Bh− , Bn , Bt , Mr , CT , Bm , Br , Bs }
+13: Sign the block and generate a signature: Sp = sign(kp , B)
+14: return {B, Sp }
+
+Algorithm 5 User’s Funds Auditing
+Input: Blockchain L, user’s public key Q and random secrets, CA’s
+database
+Output: User’s wallet balance
+1: Lk ← List of random secrets ∈ Q stored in the CA’s database
+2: Define the user’s wallet balance: B = 0
+3: for i in range(0, len(Lk )) do
+4:
+Generate an output address:
+λ = B58Encode(RIP EM D160(SHA256(Lk [i]Q)))
+5:
+if λ matches any output address in L then
+6:
+if λ has not been used as an input address in L then
+7:
+B = B + the corresponding output amount
+8:
+end if
+9:
+end if
+10: end for
+11: return B
+
+3.3
+
+Auditing Mechanism
+
+A CA can audit their customer’s wallet balance using Algorithm 5. First, they access to their private database and
+collect the public key and random secrets belonging to the
+user under audit. Next, they generate an output address
+using each secret according to the given formula (17). Then,
+they search L for each output address and check whether it
+is a UTXO or has already been used. The wallet balance is
+the sum of all UTXO amounts the user owns.
+The computational complexity of all the proposed algorithms is O(n).
+
+4
+
+S ECURITY M ODEL
+
+For a CBDC system, the desired security properties include
+privacy, authenticity, verifiability, and unforgeability. A security model for the proposed system can be defined using
+games involving a CBDC oracle OCBDC , Type I adversary,
+and Type II adversary. These adversaries are differentiated
+with unique capabilities as follows:
+•
+
+•
+
+Type I adversary: This adversary is a malicious user
+who cannot retrieve the target user’s primary and
+auxiliary private keys but can replace the public key
+of any user. In addition, this type of attacker cannot
+access the private key of any CA.
+Type II adversary: This adversary is a malicious but
+passive CA who knows the auxiliary private keys
+of their clients but can neither access the clients’
+primary private keys nor replace their public keys.
+
+This work is licensed under a Creative Commons Attribution 4.0 License. For more information, see https://creativecommons.org/licenses/by/4.0/
+
+This article has been accepted for publication in IEEE Transactions on Services Computing. This is the author's version which has not been fully edited and
+content may change prior to final publication. Citation information: DOI 10.1109/TSC.2022.3226120
+
+JOURNAL OF LATEX CLASS FILES, VOL. X, NO. X, XXXX
+
+Several games [43] are played to satisfy the security notions
+for our system, which are described as follows:
+Game Privacy: This game is played between a Type I
+adversary AI and a challenger C . We define the privacy
+property as transaction untraceability. Thus, the ledger L
+reveals no identifying information about any users other
+than public information such as the anonymous addresses
+of transacting parties, public keys of CAs, transaction
+amounts, fees, and timestamps. In this game, AI tries to
+link the past transactions of a target user who has a list of
+transacting addresses Lλ . During the interaction between
+AI and C , C notes all queries with answers.
+Initialization: C defines the Secp256k1 curve parameters
+{E, p, q, G, G} and downloads the blockchain L.
+Query: AI sends the target user’s wallet public key QU
+to C . C searches for a list of random secrets L0k so that L0k
+and QU can generate an address list L0λ ∈ L. At the end of
+this query, C returns the search results to AI .
+Result: AI wins the game privacy if Lλ − L0λ = ∅.
+Game Authentication: This game is also played between
+AI and C . Authentication is required to ensure transaction
+auditability. To avoid an audit, AI sends a transaction
+directly to the network without satisfying the travel rule
+so that no one can identify the transacting addresses.
+Initialization: C defines the parameters {E, p, q, G, G}.
+Query: AI sends a transaction T containing two CA’s
+public keys QX and QY to C . C searches for the corresponding private key of QX or QY . If the private key is found, C
+signs T with the key, generates a signature S , and returns
+{T, S} to AI . Finally, AI broadcasts the set to the network.
+Result: AI wins the game authentication by avoiding
+the travel rule if they can broadcast a transaction with a
+valid signature that is verifiable using the public key of any
+corresponding CA.
+Game Encryption: AI plays this game with C to decrypt
+a ciphertext transmitted from one CA to another.
+Initialization: C defines the parameters {E, p, q, G, G}.
+Query: AI sends a ciphertext C and two CA’s public
+keys QX and QY to C , where the corresponding private
+keys kX ∈ Z∗q and kY ∈ Z∗q are unknown. C searches for a
+decrypting key kX kY G ∈ G. If the decrypting key is found,
+C decrypts C using the key and returns the plaintext or
+original message M to AI after decoding.
+Result: AI wins the game encryption by observing a
+secret message between two CAs if they can retrieve the
+private key of any of the CAs.
+Game Unforgeability: This game is played between C
+and any adversaries (AI or AII ). The adversary tries to
+tamper with a user’s transaction before the transaction is
+stored in a block.
+Initialization: C defines the parameters {E, p, q, G, G}.
+Query: AI or AII sends a target transaction T and an
+address λnew to C . C replaces an output address of T with
+λnew to reroute the recipient’s money to the new address.
+This replacement results in a new signature message M ∗
+that includes everything about the transaction except the
+input. M ∗ must be signed with the corresponding private
+key of the transaction input public key QI ∈ G. Therefore,
+C searches for a private key ki ∈ Z∗q so that QI = ki G holds.
+If ki is found, M ∗ is signed with this private key to generate
+a new input signature S ∗ . Finally, C returns the signing key
+
+10
+
+ki and the tampered transaction T ∗ containing M ∗ and S ∗
+to the adversary.
+Result: AI or AII wins the game unforgeability by
+tampering with a transaction if the new input signature S ∗
+is verified with the new transaction message M ∗ and the
+old input public key QI (i.e., verif y(QI , M ∗ , S ∗ ) = T rue).
+Definition 3: In OCBDC , if no adversary has nonnegligible
+advantage to solve the ECDLP and ECDHP, then transactions in
+the CBDC network are privacy-preserving, auditable, nonrepudiable, and unforgeable.
+
+5
+
+S ECURITY AND P RIVACY A NALYSES
+
+Theorem 1. The proposed CBDC system is secure against Type
+I and Type II adversaries in OCBDC with the notion that the
+ECDLP and ECDHP are unbreakable.
+Proof: From all the games in OCBDC , it is clear that the
+only way to break the security strength of the proposed
+system is to solve the ECDLP. The simplest algorithm for
+solving the problem is an exhaustive search in which one
+computes the sequence of points G, 2G, 3G, 4G, ... until
+Q is encountered. It requires approximately q PAs in the
+worst case and q/2 PAs on average. The fastest algorithm
+known for solving the ECDLP is the parallelized version
+of Pollard’s rho algorithm [36], whose expected running
+√
+time is roughly πq/(2m) PAs, where m is the number of
+machines working in parallel. No mathematical proof exists
+that the ECDLP is intractable. It is theoretically possible but
+practically difficult to solve the ECDLP over a sizable prime
+field [31]. The elliptic curve parameters should be carefully
+chosen with a sufficiently large curve order (e.g., q ≥ 2160 )
+to resist these attacks so that the attacker requires an infeasible amount of computation. Boneh et al. [44] revealed
+that if the ECDLP cannot be solved in subexponential time,
+then the ECDHP is also unsolvable. On our computer (CPU:
+Intel Core i5-10400 @ 2.9 GHz, RAM: 64 GB), a PA takes
+8 µs. From this viewpoint, even if 10000 computers with
+these specifications are combined to solve the ECDLP over
+a 256-bit Fq , it will take 3×1034 PAs ≈ 7.65×1021 years or
+infeasible time.
+Theorem 2. A sender cannot claim ownership of their transferred
+UTXO using the random secret they generate for a recipient.
+Proof: Recall the transaction Tx2 in which Alice multiplies Bob’s public key QB by a random secret k3 to hide his
+identity. To spend the UTXO received from Alice, Bob must
+sign the spending transaction with k3 kB ∈ Fq . Although
+both parties know k3 and k3 QB ∈ G, Alice does not
+know kB and k3 kB ∈ Fq . To provide a valid signature,
+she must retrieve either kB from QB or k3 kB ∈ Z∗q from
+k3 QB ∈ G, which she cannot do due to the ECDLP or
+ECDHP. Consequently, she cannot spend Bob’s UTXO.
+Theorem 3. All participants can view and verify network transactions.
+Proof: All participants (i.e., CBs, CAs, and users) can
+observe cash flows over the network and investigate the
+validity of any transactions. As presented in Fig. 6, to
+check the correctness of a transaction, the participants first
+confirm that the corresponding CAs are network-registered.
+Next, they confirm that the transaction input address is
+
+This work is licensed under a Creative Commons Attribution 4.0 License. For more information, see https://creativecommons.org/licenses/by/4.0/
+
+This article has been accepted for publication in IEEE Transactions on Services Computing. This is the author's version which has not been fully edited and
+content may change prior to final publication. Citation information: DOI 10.1109/TSC.2022.3226120
+
+JOURNAL OF LATEX CLASS FILES, VOL. X, NO. X, XXXX
+
+11
+
+the destination address of any other transaction and has
+not already been used. Then, they determine whether the
+balance is sufficient. Finally, they verify the input signature
+using the input public key.
+Theorem 4. No user can learn another user’s wallet balance.
+Proof: Let Alice ∈ CA1 , Bob ∈ CA2 , Charlie ∈ CA2 , and
+Dave ∈ CA3 be four users in the network. Alice, Charlie, and
+Dave are Bob’s merchants, and ζ = {λB1 , λB2 , λB3 ..., λB|ζ| }
+is Bob’s transacting address set.
+We need to prove that Alice cannot learn Bob’s wallet
+balance BB . For proof, we can classify Bob’s incoming and
+outgoing transactions into seven categories: Alice to Bob:
+TAB , Charlie to Bob: TCB , Dave to Bob: TDB , Bob to Bob
+(change): TBB , Bob to Alice: TBA , Bob to Charlie: TBC , and
+Bob to Dave: TBD , where each transaction is represented as
+a tuple of the transacting address and amount (i.e., {(x, y) :
+x ∈ ζ, y ∈ R+}).
+A UTXO is spent only once; thus, Bob’s UTXOs can be
+represented as follows:
+
+U = (TAB ∪ TCB ∪ TDB ∪ TBB ) − (TBA ∪ TBC ∪ TBD ).
+(23)
+His wallet balance can be calculated as follows:
+X
+BB =
+y − 2 × n(TBA ∪ TBC ∪ TBD ),
+
+(24)
+
+(x,y)∈U
+
+where a fee of 2 coins is applied per outgoing transaction.
+From (23) and (24), it is clear that Alice cannot learn
+Bob’s wallet balance unless Bob has no transaction other
+than TAB and TBA .
+Theorem 5. The CAs can only learn a user’s wallet balance if
+the user is one of their clients.
+Proof: We need to prove that CA1 cannot learn Bob’s
+wallet balance BB as Bob is not CA1 ’s client, whereas CA2
+knows BB . For proof, we refer to (23) and (24). CA1 cannot
+learn BB unless {TCB ∪ TBC ∪ TDB ∪ TBD } = ∅ or Bob
+only transacts with Alice who is CA1 ’s client. However, CA2
+knows BB as they observe Bob’s every transaction during
+the authentication phase.
+Theorem 6. No participant can double-spend a UTXO.
+Proof: Double-spending means spending the same
+UTXO in different transactions. Suppose, a user broadcasts
+transactions Ti and Tj with a common UTXO for two
+recipients λA and λB . We can consider two cases for a block
+volume of n transactions per block:
+•
+
+•
+
+i < j < n: In this case, Ti and Tj are stored in the
+same block. When the transactions simultaneously
+request validation from an honest authority, the authority rejects both double-spending transactions.
+i < n ≤ j : In this case, Ti and Tj are stored
+in different blocks. However, the earlier transaction
+is accepted, and the later transaction is rejected.
+When an honest authority observes that Tj contains
+a UTXO previously spent in Ti ∈ L, the authority
+rejects Tj .
+
+In cryptocurrencies, no one knows the identity of transacting parties. Therefore, these networks pose a higher
+
+double-spending possibility. In contrast, no users in the
+CBDC network attempt to double-spend a UTXO because
+their identities are known to their CAs. If anyone is accused
+of double-spending, their UTXOs are confiscated by the
+network authorities so that the funds can no longer be spent.
+Theorem 7. The proposed system is resistant to man-in-themiddle (MitM) attacks.
+Proof: A MitM attack occurs when an attacker stands
+between two parties of a transaction. The attacker changes
+the transaction output address to reroute the recipient’s
+money to the attacker’s wallet. However, the proposed
+system is resistant to this type of attack because transactions
+are unforgeable in the network.
+Theorem 8. The proposed system is not vulnerable to Sybil or
+51% attacks.
+Proof: Despite the improved level of security provided
+by blockchains, a 51% or Sybil attack poses a severe threat to
+a permissionless network [29]. If malicious consensus nodes
+from the same organization acquire more than half of the
+network’s mining power, they can override a transaction
+and alter a block by adding a new branch of blocks, which
+would appear as the network’s longest blockchain. In the
+proposed system, however, such an attack is impossible
+because validators come from distinct organizations, know
+each other, and are accountable for any misconduct.
+Theorem 9. The proposed system is less prone to distributed
+denial of service (DDoS) attacks.
+Proof: The PoA algorithm is vulnerable to DDoS attacks
+in the same way that other BFT and crash fault tolerance
+consensus algorithms are. As Aura PoA allows only the
+leader at each step to propose a block, DDoS attacks that
+target step leaders repeatedly may raise the block time
+and reduce the transaction throughput. Certain nodes’ poor
+internet connection can exacerbate this issue. However, in
+Clique PoA, multiple nodes can propose blocks at a step.
+Therefore, such an attack would be less likely to succeed in
+the proposed system.
+
+6
+
+I MPLEMENTATION
+MANCE A NALYSES
+
+R ESULTS
+
+AND
+
+P ERFOR -
+
+The proposed CBDC system was implemented using
+Python-Flask, and experiments were conducted using six
+virtual machines on the Oracle VM VirtualBox 6.1 installed
+in a Windows host computer (CPU: Intel Core i5-10400 @ 2.9
+GHz, RAM: 64 GB). Each machine worked as a consensus
+node or authority in the consortium blockchain network
+with a single-core virtual CPU (vCPU) and 8 GB RAM. The
+block volume was fixed to 90 transactions per block. First,
+the CB created the genesis block and supplied 50000 coins
+to the network. The supply amount was considered a block
+reward, which was then distributed among several users
+through transactions. Broadcast transactions were validated
+by the network authorities and stored in the blockchain
+while executing the Clique consensus algorithm. The latency
+required to generate, authenticate, and validate each transaction and block was measured. To evaluate the system’s
+performance, the following parameters were considered:
+
+This work is licensed under a Creative Commons Attribution 4.0 License. For more information, see https://creativecommons.org/licenses/by/4.0/
+
+This article has been accepted for publication in IEEE Transactions on Services Computing. This is the author's version which has not been fully edited and
+content may change prior to final publication. Citation information: DOI 10.1109/TSC.2022.3226120
+
+JOURNAL OF LATEX CLASS FILES, VOL. X, NO. X, XXXX
+
+12
+
+2 4
+1 0 0
+
+2 2
+
+9 0
+
+2 0
+
+8 0
+
+E p o c h tim e (s )
+
+B lo c k tim e (s )
+
+4 .0
+
+C o n firm a tio n tim e (h r)
+
+4 .5
+
+3 .5
+3 .0
+2 .5
+
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+
+2 .0
+0
+
+5
+
+1 0
+
+1 5
+
+2 0
+
+2 5
+
+3 0
+
+0
+0
+
+4
+
+8
+
+1 2
+
+1 6
+
+B lo c k in d e x
+
+B lo c k in d e x
+
+(a)
+
+(b)
+
+2 0
+
+2 4
+
+2 8
+
+Performance metrics
+
+Values
+
+Performance metrics
+
+Values
+
+34
+13
+9
+665
+6
+90
+
+Block size (KB)
+Block generation time (s)
+Block validation time (s)
+Data rate (Kbps)
+Average block time (s)
+Tx throughput (TPS)
+
+59
+0.84
+1.72
+510
+3.40
+26
+
+•
+
+6.1
+
+1 2
+1 0
+8
+6
+
+2 6 T P S
+5 0 T P S
+1 0 0 T P S
+
+4
+
+0 .0
+
+5 0 0 .0 k
+
+1 .0 M
+
+1 .5 M
+
+2 .0 M
+
+2 .5 M
+
+3 .0 M
+
+T ra n s a c tio n in d e x
+Fig. 8. Variation in transaction confirmation time for variable transaction
+arrival rates.
+
+Tx generation time (ms)
+Tx authentication time (ms)
+Tx verification time (ms)
+Tx size (B)
+No. of consensus nodes
+Block volume (Tx/block)
+
+•
+
+1 4
+
+0
+
+Table 1
+Performance of The Proposed System in Virtual Machines
+
+•
+
+1 6
+
+2
+
+Fig. 7. Block and epoch times of the first 30 blocks. (a) Block time. (b)
+Epoch time.
+
+•
+
+1 8
+
+Block time: This is the time interval between the
+storage of two consecutive blocks in the blockchain.
+Epoch time: Epoch time is the difference between the
+current and genesis (first) block timestamps.
+Confirmation time: Confirmation time of a transaction
+is the delay required to store the transaction in the
+blockchain after broadcasting to the network. It is the
+sum of the transaction waiting time in the mempool
+and block time in the consensus process.
+Transaction throughput: This is the quantity of transactions per second (TPS) that the network can process.
+Performance Evaluation
+
+Fig. 7a illustrates the block times of blocks 1 to 30 stored in
+the blockchain. Block time varied from block to block because of the performance variation of individual authorities
+with time. The average block time of the network was 3.4 s.
+Fig. 7b depicts the system’s mining speed in terms of epoch
+time. Each block in the network began processing as soon as
+its previous block was added to the blockchain. The network
+took 102 s to mine 30 blocks containing 2700 transactions.
+Table 1 presents the overall performance of the system.
+The transaction size was only 665 B, and the block size for 90
+transactions per block was 59 KB. The average transaction
+generation time, which covers preparation, encryption, and
+transmission, was 34 ms. The average transaction authentication and verification times were 13 and 9 ms, respectively.
+The average latency required to generate and validate a
+block was 0.84 and 1.72 s, respectively. The data rate was 510
+Kbps. In the experimental environment, the system achieved
+a throughput of 26 TPS.
+Fig. 8 shows the variation in transaction confirmation
+time for variable transaction arrival rates. When the transaction arrival rate is equal to the transaction throughput of the
+system (26 TPS), transaction waiting time in the mempool is
+
+negligible. Therefore, in that scenario, the confirmation time
+of a transaction is almost equal to the average block time
+(3.4 s) of the network. When the transaction arrival rate is
+50 and 100 TPS, the mempool expands by 24 and 74 TPS,
+respectively. As a result of large queue size, the confirmation
+time of a higher-indexed transaction increases substantially
+as it waits in the queue for a long time as per the first-infirst-out service [30]. For example, the transaction Tx3000000
+takes a day to be confirmed when the transaction arrival
+rate is 100 TPS, whereas it is confirmed immediately after
+being broadcast when the transaction arrival rate is 26 TPS.
+6.2
+
+Performance Comparison
+
+Table 2 presents a comparison between the functional features and performance of the proposed CBDC system and
+existing RTGS and CBDC systems. Project Ubin and Project
+Khokha are led by the CBs of Singapore and South Africa,
+respectively, and they aim to deploy a RTGS system for
+inter-bank payments. Phase II of Project Ubin performed
+separate RTGS experiments using multiple blockchains such
+as Hyperledger Fabric, Corda, and Quorum. Project Khokha
+focused only on Quorum. However, their reports do not
+provide sufficient experimental data [12], [15]. The primary
+limitation of these two RTGS systems is their insufficient
+transaction throughput, which cannot fulfill user demands.
+Wüst et al. [20] implemented a DLT-free centralized
+CBDC system named Platypus. ZK proofs based on the
+Pedersen commitments were used to verify transactions
+without affecting user privacy, but these proofs resulted
+in a larger transaction size. However, the transaction size
+was reduced to 672 B by using zk-SNARKs with a trusted
+setup. Although their system requires less time to generate
+a transaction, it is three times slower than our system while
+verifying transactions. It should be noted that transaction
+verification time is more important than transaction generation time in a blockchain network; users can wait a few
+seconds to generate a transaction, but validators need to
+verify thousands of transactions within a short time. As their
+system is centralized, it is more prone to cyber attacks. In
+addition, they did not mathematically verify the regulation
+mechanism although it was performed on encrypted values,
+which can also be false. In [24], Tinn et al. introduced IDlinked addresses for privacy-preserving CBDC transactions.
+
+This work is licensed under a Creative Commons Attribution 4.0 License. For more information, see https://creativecommons.org/licenses/by/4.0/
+
+This article has been accepted for publication in IEEE Transactions on Services Computing. This is the author's version which has not been fully edited and
+content may change prior to final publication. Citation information: DOI 10.1109/TSC.2022.3226120
+
+JOURNAL OF LATEX CLASS FILES, VOL. X, NO. X, XXXX
+
+13
+
+Table 2
+Performance Comparison of The Proposed CBDC System and Existing RTGS (Inter-Bank Payment) and CBDC Systems
+Parameters
+
+Project Ubin RTGS [12]
+
+Project Khokha RTGS [15]
+
+Platypus CBDC [20]
+
+CBDC [24]
+
+Proposed CBDC
+
+Transaction model
+Network type
+Technology used
+Consensus
+No. of nodes
+Anonymity & privacy
+Transparency
+Auditability
+Travel rule
+Address type
+Verification scheme
+Data provided
+Tx generation time
+Tx verification time
+Tx size
+Tx throughput (TPS)
+Machine specifications
+
+UTXO, UTXO-like
+Decentralized
+Fabric, Corda, Quorum
+Raft
+13
+3
+Partial
+3
+7
+Wallet address
+Signature, ZK proofs with TS
+Insufficient
+4s
+5s
+–
+0.2
+Processora
+
+Tokenized asset
+Multi-architectural
+Quorum
+IBFT
+7 (with TS), 6 (without TS)
+3
+Partial
+3
+7
+Wallet address
+ZK proofs with/without TS
+Insufficient
+–
+–
+–
+19 (with TS), 4 (without TS)
+Processorb
+
+Account
+Centralized
+Traditional e-cash
+N/A
+N/A
+3
+7
+Not verified
+7
+Wallet address
+ZK proofs
+3
+29 ms
+28 ms
+7244 B
+70
+Processorc
+
+P-hybrid
+Partially decentralized
+Arbitrary blockchain
+PoA
+–
+3
+Partial
+3(except private coins)
+7
+ID-linked address
+ZK proofs
+No implementation
+–
+–
+800 B
+2000 (Assumption)
+N/A
+
+UTXO
+Partially decentralized
+Customized blockchain
+Clique (PoA)
+6
+3
+3
+3
+3
+Wallet-linked address
+ECDSA
+3
+34 ms
+9 ms
+665 B
+26
+Processord
+
+a
+c
+
+b
+Azure VM: E2 v3, 2 vCPUs, 16 GB RAM.
+Azure VM: Standard D4, 4 vCPUs, 16 GB RAM.
+d
+CPU: Intel Core i7-7700 @ 3.60 GHz, 4 cores, RAM: 16 GB.
+Oracle VM: Windows, 1 vCPU, 8 GB RAM.
+
+In their approach, the recipient of a transaction cannot
+know the sender unless they communicate with each other
+after the transaction. In our system, the receiving CA of a
+transaction stores the sender’s identity in a private database
+during authentication. By logging onto the CA’s website, the
+recipient can easily determine who sent the transaction.
+The Clique consensus algorithm is faster than IBFT. Although Raft provides fast consensus, Raft followers blindly
+trust their leader. As it is a voting-based algorithm, it requires extra latency to elect each term leader. Furthermore,
+in the Quorum Raft network, an on-chain block can be
+rewritten by modifying transaction inputs and recalculating
+the block hash. As a result, other means of data protection
+are required to ensure the blockchain data integrity.
+Overall, our system provides the smallest transaction
+size and lowest verification time, independent of a consensus algorithm. In any consensus process, a smaller transaction helps avoid network overhead, and a lower verification time increases the transaction processing speed and
+throughput. None of the other systems satisfy the travel
+rule of payment. In contrast, the proposed system satisfies
+this rule because the corresponding CAs of a transaction
+observe the sender and recipient while authenticating the
+transaction.
+
+7
+
+L IMITATION AND S COPE
+
+One limitation of the proposed system is its lower throughput (26 TPS) compared with traditional centralized payment
+systems like Visa, which achieves a throughput of 1700 TPS.
+This limitation is a challenge for any CBDC system that uses
+DLT. As most CBDC systems are built on the blockchain
+technology in which transactions are stored in a distributed
+ledger through a consensus-based decision-making process,
+they require more time to confirm transactions than a
+conventional payment system that stores transactions in
+a centralized database without using any consensus algorithm. However, transaction speed must be compromised
+
+–: Unavailable.
+
+to avail of the advantages of DLT. The current average
+throughput of the Bitcoin and Ethereum cryptocurrencies
+is 3 and 13 TPS, respectively. Digital currency systems are
+not comparable with fiat currency systems. Furthermore,
+the experiment in this study was conducted using virtual
+machines working with a single-core processor and 8 GB
+RAM only. If faster processors and higher memory were utilized, a higher throughput would be achieved. In addition,
+transaction speed can be boosted by employing high-speed
+hardware technology such as application specific integrated
+circuit or field programmable gate array for digital signature
+verification. A hardware implementation is faster than a
+software implementation [38]; our system was implemented
+on a software platform. Nevertheless, even if a blockchainbased CBDC system cannot meet the demands of all citizens,
+its applications can be limited to public sectors only in order
+to monitor cash flows and reduce corruption in a country.
+The money supply policy is left to the choice of the CB.
+This study provides technical solutions for CBDC payments
+without considering economic policies that differ across
+countries. The CB will decide the supply amount based
+on the government’s economic policy. The proposed CBDC
+system only supports domestic transactions. As part of
+future work, we plan to establish a bridge between two
+CBDC systems for enabling cross-border payments (crosschain interoperability).
+
+8
+
+C ONCLUSION
+
+A UTXO-based CBDC system with its full-scale implementation, which provides privacy-preserving, auditable,
+and transparent digital currency payments in a consortium
+blockchain network, was proposed in this paper. To protect
+privacy in the conventional UTXO model, the recipient must
+provide the sender with a new public key each time they
+receive a payment. This requirement poses an issue when
+the recipient is any public service provider who prefers a
+static public key for receiving mass transactions simultaneously without revealing the wallet balance. Managing a
+
+This work is licensed under a Creative Commons Attribution 4.0 License. For more information, see https://creativecommons.org/licenses/by/4.0/
+
+This article has been accepted for publication in IEEE Transactions on Services Computing. This is the author's version which has not been fully edited and
+content may change prior to final publication. Citation information: DOI 10.1109/TSC.2022.3226120
+
+JOURNAL OF LATEX CLASS FILES, VOL. X, NO. X, XXXX
+
+large number of private–public key pairs is also difficult and
+risky. The proposed UTXO model addresses these concerns
+by enabling users to receive transactions using a fixed public key while preventing others from learning their wallet
+balances. Therefore, this model is more convenient than the
+conventional UTXO model. Furthermore, when each user
+holds only a single authorized wallet address, ensuring
+regulatory compliance in a CBDC network becomes easier.
+Compared with the existing CBDC and RTGS systems, our
+system provides additional functional features and a better
+balance between transaction size and speed. We believe that
+worldwide CBs will find this study useful for their ongoing
+CBDC pilot projects.
+
+ACKNOWLEDGMENT
+This work was supported by the National Research Foundation (NRF) of South Korea, grant funded by the Ministry
+of Science and ICT (MSIT) of the Korean government under
+Grant No. NRF-2021R1A2C2012476.
+
+R EFERENCES
+[1] S. Allen et al., “Design choices for central bank digital currency:
+Policy and technical considerations,” SSRN Electron. J., Aug. 2020,
+doi: 10.2139/ssrn.3670469.
+[2] Hong Kong Monetary Authority. (Oct. 2017). Whitepaper 2.0 on
+distributed ledger technology. [Online]. Available: https://www.hkma
+.gov.hk/media/eng/doc/key-functions/financial-infrastructure/
+infrastructure/20171025e1.pdf
+[3] P. R. Cunha, P. Melo, and H. Sebastião, “From bitcoin to central
+bank digital currencies: Making sense of the digital money revolution,” Future Internet, vol. 13, no. 7, p. 165, June 2021.
+[4] I. Mikhalev, K. Burchardi, I. Struchkov, B. Song, and J. Gross. (Jan.
+2021). Today’s central bank digital currencies status, CBDC Tracker. Accessed: 22 Nov. 2022. [Online]. Available: https://cbdctracker.org
+[5] D. Chaum, C. Grothoff, and T. Moser, “How to issue a central
+bank digital currency,” arXiv Preprint, Feb. 2021. [Online]. Available:
+https://arxiv.org/pdf/2103.00254.pdf
+[6] T. Zhang and Z. Huang, “Blockchain and central bank digital
+currency,” ICT Express, vol. 2022, no. 8, pp. 264–270, Oct. 2021.
+[7] M. C. K. Khalilov and A. Levi, “A survey on anonymity and privacy
+in bitcoin-like digital cash systems,” IEEE Commun. Surv. Tutor., vol.
+20, no. 3, pp. 2543–2585, Mar. 2018.
+[8] M. Conti, S. Kumar, C. Lal, and S. Ruj, “A survey on security and
+privacy issues of bitcoin,” IEEE Commun. Surv. Tutor., vol. 20, no. 4,
+pp. 3416–3452, May 2018.
+[9] E. A. Opare and K. Kim, “A compendium of practices for central
+bank digital currencies for multinational financial infrastructures,”
+IEEE Access, vol. 8, pp. 110810–110847, June 2020.
+[10] Payments Canada, Bank of Canada, and TMX Group. (Oct. 2018).
+Jasper phase III: Securities settlement using distributed ledger technology.
+[Online]. Available: https://www.payments.ca/sites/default/files
+/jasper phase iii whitepaper final 0.pdf
+[11] J. Chapman, R. Garratt, S. Hendry, A. McCormack, and W. McMahon, “Project Jasper: Are distributed wholesale payment systems
+feasible yet,” Financial Syst., vol. 59, pp. 59–68, June 2017.
+[12] Monetary Authority of Singapore and Accenture. (Nov. 2017).
+Project Ubin phase 2 report: Re-imagining RTGS. [Online]. Available:
+https://www.mas.gov.sg/-/media/MAS/ProjectUbin/ProjectUbin-Phase-2-Reimagining-RTGS.pdf
+[13] Bank of Canada, Monetary Authority of Singapore, and Accenture. (2016). Jasper-Ubin design paper: Enabling cross-border high
+value transfer using distributed ledger technologies. [Online]. Available:
+https://www.mas.gov.sg/-/media/Jasper-Ubin-Design-Paper.pdf
+[14] European Central Bank and Bank of Japan. (Mar. 2018). Securities
+settlement systems: Delivery-versus-payment in a distributed ledger environment. [Online]. Available: https://www.ecb.europa.eu/pub/pdf
+/other/stella project report march 2018.pdf
+
+14
+
+[15] South African Reserve Bank. (June 2018). Project Khokha
+Fintech report: Exploring the use of distributed ledger technology for interbank payments settlement in South Africa. [Online].
+Available: https://www.resbank.co.za/content/dam/sarb/quicklinks/fintech/SARB ProjectKhokha 20180605.pdf
+[16] Bank of Thailand, R3, Wipro, and CH & Co. (Aug. 2018).
+Project Inthanon phase 1: An application of distributed ledger technology for a decentralised real time gross settlement system using wholesale central bank digital currency. [Online]. Available:
+https://www.bot.or.th/Thai/paymentsystems/documents/
+Inthanon phase1 report.pdf
+[17] Central Bank of Brazil. (Aug. 2017). Distributed ledger technical research in central bank of Brazil. [Online]. Available:
+https://www.bcb.gov.br/htms/public/microcredito/Distributed
+ledger technical research in Central Bank of Brazil.pdf
+[18] J. B. Bernabe, J. L. Canovas, J. L. H.-Ramos, R. T. Moreno, and
+A. Skarmeta, “Privacy-preserving solutions for blockchain: Review
+and challenges,” IEEE Access, vol. 7, pp. 164908–164940, Oct. 2019.
+[19] I. Chatzigiannakis, A. Pyrgelis, P. G. Spirakis, and Y. C. Stamatiou,
+“Elliptic curve based zero knowledge proofs and their applicability
+on resource constrained devices,” in Proc. IEEE Int. Conf. Mobile
+Adhoc Sensor Syst. (MASS), Valencia, Spain, Oct. 2011, pp. 715–720.
+[20] K. Wüst, K. Kostiainen, and S. Capkun, “Platypus: A central
+bank digital currency with unlinkable transactions and privacy preserving regulation,” Cryptology ePrint Archive, Oct. 2021. [online].
+Available: https://eprint.iacr.org/2021/1443.pdf
+[21] J. Zhang et al., “A hybrid model for central bank digital currency
+based on blockchain,” IEEE Access, vol. 9, pp. 53589–53601, Apr.
+2021.
+[22] G. Danezis and S. Meiklejohn, “Centrally banked cryptocurrencies,” in Proc. Netw. Distrib. Syst. Secur. Symp., San Diego, CA, USA,
+May 2016, pp. 1–14.
+[23] J. Gross, J. Sedlmeir, M. Babel, A. Bechtel, and B. Schellinger,
+“Designing a central bank digital currency with support for cashlike privacy,” SSRN Electron. J., July 2021, doi: 10.2139/ssrn.3891121.
+[24] K. Tinn and C. Dubach, “Central bank digital currency
+with asymmetric privacy,” SSRN Electron. J., Feb. 2021. doi:
+10.2139/ssrn.3787088.
+[25] C. Lee et al., “Design of blockchain-based travel rule compliance system,” arXiv Preprint, Apr. 2022. [Online]. Available:
+https://arxiv.org/pdf/2204.13508.pdf
+[26] D. Hopwood, S. Bowe, T. Hornby, and N. Wilcox, “Zcash protocol
+specification,” Zerocoin Electric Coin Company, Lakewood, WA,
+USA, v2021.2.17, Dec. 2021.
+[27] Y. Yuan and F.-Y. Wang, “Blockchain and cryptocurrencies: Model,
+techniques, and applications,” IEEE Trans. Syst., Man, Cybern., Syst.,
+vol. 48, no. 9, pp. 1421–1428, Sep. 2018.
+[28] Y. Xiao, N. Zhang, W. Lou, and Y. T. Hou, “A survey of distributed
+consensus protocols for blockchain networks,” IEEE Commun. Surv.
+Tutor., vol. 22, no. 2, pp. 1432–1465, Jan. 2020.
+[29] M. Saad et al., “Exploring the attack surface of blockchain: A
+comprehensive survey,” IEEE Commun. Surv. Tutor., vol. 22, no. 3,
+pp. 1977–2008, Mar. 2020.
+[30] T. Meng, Y. Zhao, K. Wolter, and C.-Z. Xu, “On consortium
+blockchain consistency: A queueing network model approach,”
+IEEE Trans. Parallel Distrib. Syst., vol. 32, no. 6, pp. 1369–1382, June
+2021.
+[31] M. M. Islam, M. K. Islam, M. Shahjalal, M. Z. Chowdhury,
+and Y. M. Jang, “A low-cost cross-border payment system based
+on auditable cryptocurrency with consortium blockchain: Joint
+digital currency,” IEEE Trans. Serv. Comput., Sep. 2022, doi:
+10.1109/TSC.2022.3207224.
+[32] M. Mazzoni, A. Corradi, and V. D. Nicola, “Performance evaluation of permissioned blockchains for financial applications: The
+ConsenSys Quorum case study,” Blockchain Res. Appl., vol. 1, no. 4,
+p. 100026, May 2021.
+[33] S. D. Angelis, L. Aniello, R. Baldoni, F. Lombardi, A. Margheri,
+and V. Sassone, “PBFT vs proof-of-authority: Applying the CAP
+theorem to permissioned blockchain,” in Proc. Italian Conf. Cyber
+Secur., Milan, Italy, June 2018, pp. 1–11.
+[34] M. M. Islam, M. M. Merlec, and H. P. In, “A comparative analysis
+of proof-of-authority consensus algorithms: Aura vs Clique,” in
+Proc. IEEE Int. Conf. Serv. Comput. (SCC), Barcelona, Spain, July
+2022, pp. 327–332.
+[35] Y. Sompolinsky and A. Zohar, “Secure high-rate transaction processing in bitcoin,” in Proc. Int. Conf. Financial Cryptogr. Data Secur.
+(FC 2015), San Juan, PR, USA, Jan. 2015, pp. 507–527.
+
+This work is licensed under a Creative Commons Attribution 4.0 License. For more information, see https://creativecommons.org/licenses/by/4.0/
+
+This article has been accepted for publication in IEEE Transactions on Services Computing. This is the author's version which has not been fully edited and
+content may change prior to final publication. Citation information: DOI 10.1109/TSC.2022.3226120
+
+JOURNAL OF LATEX CLASS FILES, VOL. X, NO. X, XXXX
+
+[36] D. Hankerson, A. Menezes, and S. Vanstone, Guide to elliptic curve
+cryptography. New York, NY, USA: Springer-Verlag, 2004.
+[37] M. Qu, “SEC 2: Recommended elliptic curve domain parameters,”
+SEC2-Ver-1.0, Certicom Res., Mississauga, ON, Canada, 1999.
+[38] M. M. Islam, M. S. Hossain, M. K. Hasan, M. Shahjalal, and
+Y. M. Jang, “FPGA implementation of high-speed area-efficient
+processor for elliptic curve point multiplication over prime field,”
+IEEE Access, vol. 7, pp. 178811–178826, Dec. 2019.
+[39] A. Menezes, “Evaluation of security level of cryptography: The elliptic curve discrete logarithm problem (ECDLP),” Univ. Waterloo,
+Waterloo, ON, Canada, 2001.
+[40] D. Johnson, A. Menezes, and S. Vanstone, “The elliptic curve
+digital signature algorithm (ECDSA),” Int. J. Inf. Secur., vol. 1, no. 1,
+pp. 36–63, Aug. 2001.
+[41] S. Nakamoto. (2008). Bitcoin: A Peer-to-Peer electronic cash system.
+[Online]. Available: https://bitcoin.org/bitcoin.pdf
+[42] O. E. Akinbowale, H. E. Klingelhöfer, and M. F. Zerihun, “Analysis
+of cyber-crime effects on the banking sector using the balanced
+score card: A survey of literature,” J. Financ. Crime, vol. 27, no. 3,
+pp. 945–958, June 2020.
+[43] L. Xue, D. Liu, J. Ni, X. Lin, and X. S. Shen, “Enabling regulatory compliance and enforcement in decentralized anonymous
+payment,” IEEE Trans. Dependable Secure. Comput., Jan. 2022, doi:
+10.1109/TIEEEDSC.2022.3144991.
+[44] D. Boneh and R. Lipton, “Algorithms for black-box fields and their
+applications to cryptography,” in Lect. Notes Comp. Sci., vol. 1109,
+Springer-Verlag, Berlin, Germany, 1996, pp. 283–297.
+
+Md. Mainul Islam (Graduate Student Member,
+IEEE) received his B.Sc. degree in electrical and
+electronic engineering from Khulna University of
+Engineering & Technology, Khulna, Bangladesh,
+in April 2018. He obtained his M.Sc. degree in
+electronics engineering from Kookmin University, South Korea, in February 2021, achieving
+the Academic Excellence Award. Since March
+2021, he has been working as a full-time researcher at the Intelligent Blockchain Engineering Laboratory in the Department of Computer
+Science and Engineering, Korea University, South Korea. His research
+interests include blockchain, cross-border payment, central bank digital
+currency, cryptography, and cybersecurity. He served as a reviewer for
+IEEE, Elsevier, Wiley, and MDPI publishing journals.
+
+Hoh Peter IN (Member, IEEE) received his B.Sc.
+degree in computer engineering from Korea University, South Korea, in 1990. He received his
+M.Sc. degree in computer science from Korea
+University in 1992. He pursued his Ph.D. degree
+in computer engineering from the University of
+Southern California, USA, in 1998. In 1999, he
+became an assistant professor at Texas A&M
+University, USA. He joined the Department of
+Computer Science at Korea University as an
+assistant professor in 2003 and is a professor
+now. He is a founder and the emeritus president of the Korea Society of
+Blockchain and the director of the Blockchain Research Institute, South
+Korea. His main research interests are blockchain, smart contracts, and
+software engineering. He received the ICRE 10 Year Most Influential
+Paper Award 2006. He has published over 120 research papers.
+
+This work is licensed under a Creative Commons Attribution 4.0 License. For more information, see https://creativecommons.org/licenses/by/4.0/
+
+15
+
+

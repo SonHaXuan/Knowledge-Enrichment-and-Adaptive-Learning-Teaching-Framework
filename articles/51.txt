@@ -1,0 +1,1439 @@
+Journal of Monetary Economics 125 (2022) 62–79
+
+Contents lists available at ScienceDirect
+
+Journal of Monetary Economics
+journal homepage: www.elsevier.com/locate/jmoneco
+
+Designing central bank digital currenciesR
+Itai Agur∗, Anil Ari, Giovanni Dell’Ariccia
+International Monetary Fund, 700 19th St. NW, Washington DC 20431, United States
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 11 September 2020
+Revised 30 April 2021
+Accepted 3 May 2021
+Available online 8 May 2021
+JEL classiﬁcation:
+E41
+E58
+G21
+Keywords:
+CBDC
+Fintech
+Digital currency
+Financial intermediation
+Network effects
+
+a b s t r a c t
+The optimal design of a central bank digital currency (CBDC) is analyzed in an environment
+where agents sort into cash, CBDC, and bank deposits according to their preferences over
+anonymity and security; and where network effects make the convenience of a payment
+instrument depend on the number of its users. A CBDC can be designed with attributes
+similar to cash or deposits, and can be interest bearing: a CBDC that closely competes with
+deposits depresses bank credit and output, while a cash-like CBDC may lead to the disappearance of cash. Then, the optimal CBDC design trades off bank intermediation against
+the social value of maintaining diverse payment instruments. When network effects matter, an interest-bearing CBDC alleviates the central bank’s tradeoff.
+© 2021 International Monetary Fund. Published by Elsevier B.V. All rights reserved.
+
+1. Introduction
+Payment systems and, more fundamentally, money are evolving rapidly. Developments in digital networks and information technology and the increasing share of internet-based retailing have created the demand and technological space for
+digital transactions that have the potential to radically change payment and ﬁnancial intermediation systems. Central banks
+have been pondering whether and how to adapt. Many are exploring the idea of issuing central bank digital currency (CBDC)
+- a new type of ﬁat money that expands digital access to central bank reserves to the public at large, instead of restricting
+
+R
+We are particularly grateful to Narayana Kocherlakota, Carolyn Wilkins, and an anonymous referee. We would also like to thank Todd Keister, Morten
+Bech, Maria Soledad Martinez Peria, Tommaso Mancini-Griffoli, Marcello Miccoli, Dirk Niepelt, Raphael Auer, Beat Weber, Baozhong Yang, and audiences
+at the Carnegie-Rochester-NYU Conference on Central Banking in the 2020s and Beyond, the IMF, the Federal Reserve Board, the Bank of England, the
+European Central Bank, the Bank of Israel, Cambridge University, the 12th Annual Paul Woolley Centre Conference, the 12th Swiss Winter Conference on
+Financial Intermediation, the 19th Annual FDIC/JFSR Bank Research Conference, the ONB/BIS/CEBRA Conference on Digital Currencies, Central Banks and
+the Blockchain, the Atlanta Fed 2019 Conference on the Financial System of the Future, the Cleveland Fed and OFR 2019 Financial Stability Conference,
+the 2020 AEA Annual Meetings, the ADBI Conference on Fintech, Social Finance, and Financial Stability, the 2020 IJCB Annual Conference, the 2020 CEBRA
+Annual Conference, the ETH Workshop on Future Money, the Univ. of Ottawa’s Workshop on Digital Currency and Monetary Policy, the IMF’s 2nd Annual
+Macro-Finance Conference, and the RESMF-FRBIF Workshop on Financial Cycles and Central Banking for helpful comments. The views expressed are those
+of the authors only and do not represent the views of the IMF, its Executive Board or IMF management. Postal address (all authors): IMF, 700 19th St NW,
+20431, Washington DC.
+∗
+Corresponding author.
+E-mail addresses: iagur@imf.org (I. Agur), aari@imf.org (A. Ari), gdellariccia@imf.org (G. Dell’Ariccia).
+
+https://doi.org/10.1016/j.jmoneco.2021.05.002
+0304-3932/© 2021 International Monetary Fund. Published by Elsevier B.V. All rights reserved.
+
+I. Agur, A. Ari and G. Dell’Ariccia
+
+Journal of Monetary Economics 125 (2022) 62–79
+
+it to commercial banks.1 But would the CBDC resemble deposits by coming in the form of an account at the central bank,
+or would it come closer to cash, materializing as a digital token? How much anonymity could it offer users? Would it pay
+interest rates like a bank deposit, or would its nominal return be ﬁxed at naught, like cash?2 In this paper, we build a
+theoretical framework geared at analyzing the relation between the design of a CBDC, the demand for types of money, and
+ﬁnancial intermediation.
+Swings in the usage of payment instruments become particularly disruptive in the presence of network effects. For example, with a decline in the use of cash, banks may cut back on ATMs or shops may refuse to accept cash, a process currently
+underway in Sweden (Sveriges Riksbank, 2018). Because of such network effects, payment instruments may disappear when
+their use falls below a critical threshold, and the successful introduction of a CBDC could risk tipping the balance. Network
+effects are a critical feature of our model.
+Our starting point is a (static) economy with banks, ﬁrms and households. In this economy, banks collect deposits, extend
+credit to ﬁrms, and create social value in doing so: ﬁrms’ projects are worth less if they cannot receive bank loans.3 Both
+banks and ﬁrms engage in perfect competition.
+Households face a Hotelling linear city, where they aim to minimize the distance between the available forms of money
+and their preferences. In particular, households have heterogeneous preferences over anonymity and security in payments.
+We represent these preferences by an interval with cash and deposits at opposite ends: cash provides anonymity in transactions, while bank deposits are more secure.4 A CBDC can take any point on this interval, depending on its design. For
+instance, a central bank could provide partial anonymity (e.g., towards third parties but not the authorities), set transaction
+limits below which anonymity is retained, or make anonymity conditional, only to be lifted by a court order - possibilities
+under consideration in central banks’ studies of CBDCs (European Central Bank, 2019; Kiff et al., 2020; Mancini-Griffoli et al.,
+2018).
+Overall, taking into account the design of the CBDC, households optimally sort into different types of money according to
+three considerations: their (heterogeneous) preferences, network effects deriving from the relation between the convenience
+of using a payment instrument and the number of its users, and the interest rates offered on deposits and possibly on the
+CBDC.
+Our framework provides novel and policy-relevant insights for welfare analysis and optimal CBDC design. In our model,
+variety in payment instruments increases welfare because of the heterogeneity in household preferences. The CBDC then has
+social value due to its ability to blend features of cash and deposits. As emphasized by Lagarde (2018), there is a potential
+demand for partially anonymous means of payment that can, for example, protect consumers from the use of personal
+transactions data for credit assessments, a possibility that is increasingly enabled by technological developments.5 Indeed,
+the ability of monopolistic private payment providers to take advantage of data access is cited as a rationale for CBDC by the
+central banks of Canada, China, Norway, and Sweden.6 Borgonovo et al. (2019) conduct an experiment to measure the value
+that households place on anonymity in payments, speciﬁcally deriving the demand for different potential designs of CBDC.
+They ﬁnd that the degree of anonymity is an important determinant of potential CBDC demand.7 More generally, various
+authors discuss the legitimate reasons for households’ demand for privacy in payments (Garratt and Van Oordt, 2021; Kahn
+et al., 2005; McAndrews, 2017).8
+In spite of the social value of an intermediate payment instrument, introducing a CBDC has welfare costs to the extent
+that it crowds out demand for cash and deposits.9 Speciﬁcally, a cash-like CBDC can reduce the demand for cash beyond
+the point where network effects cause the disappearance of cash. But a deposit-like CBDC causes an increase in deposit
+
+1
+In a survey of 65 central banks, 86% reported to be exploring CBDC, 60% are developing proofs-of-concept, and 14% are moving forward to CBDC
+pilots (Boar and Wehrli, 2021). Notably, the People’s Bank of China and the Swedish Riksbank are expected to decide in the near term on moving from
+their ongoing pilots to full adoption, while the Bahamas, the Eastern Caribbean Currency Union and Jamaica have already decided to proceed with the
+introduction of CBDCs. See Auer et al. (2020) and Kiff et al. (2020) for lists of CBDC pilot programs around the world.
+2
+See Aymanns et al. (2020), Bank for International Settlements (2018) and Mancini-Griffoli et al. (2018) for other, operational design aspects of CBDCs,
+such as the means to disseminate and clear CBDCs; and see Bossu et al. (2020) on legal considerations.
+3
+We parameterize and vary the degree to which bank ﬁnancing of ﬁrms provides eﬃciency gains. On the special role of depository institutions in
+intermediation, see Diamond and Rajan (2001) and Donaldson et al. (2018), as well as Merrouche and Nier (2012) for supporting empirical evidence.
+4
+Empirical research on the choice of payment instruments attributes a central role to heterogeneous preferences (Ebner et al., 2021; Shy, 2021; Wakamori
+and Welte, 2017).
+5
+This forms the basis for the microfoundations that we develop in Appendix D (Supplementary Materials).
+6
+See Armelius et al. (2020b), Kiff et al. (2020), and Mancini-Griffoli et al. (2018).
+7
+For further discussions on experimental design to ascertain CBDC demand, see Borgonovo et al. (2018) and Masciandaro (2018). The central role for
+both anonymity and security preferences in shaping CBDC demand is also conﬁrmed by the public survey on CBDC of the European Central Bank (2021).
+Moreover, using survey data, Ebner et al. (2021) and Huynh et al. (2020) ﬁnd conﬁrming evidence for the role of security features in the demand for
+money.
+8
+Anonymous means of payment could also facilitate illicit activities, however (Alvarez et al., 2022; Oh and Zhang, 2020; Rogoff, 2016; Wright et al.,
+2017). We consider this possibility in an extension in Appendix C.2.
+9
+Nevertheless, a CBDC is certain to raise aggregate welfare in our framework, but only if it is optimally designed. Moreover, even when aggregate welfare
+rises, there are distributional effects, and some households are worse off due to CBDC availability. We analyze these distributional effects in Section 3.3,
+which also ﬁnds that a social planner that can observe household payment choices (but not their underlying preferences) cannot design a lump-sum
+transfer scheme to ensure that the introduction of a CBDC is a Pareto improvement.
+
+63
+
+I. Agur, A. Ari and G. Dell’Ariccia
+
+Journal of Monetary Economics 125 (2022) 62–79
+
+and loan rates, and a contraction in bank lending to ﬁrms. Because of relationship lending frictions, this decline in bank
+intermediation also curtails investment and output.10
+We show that the welfare-optimal CBDC design hinges on whether the CBDC is interest bearing, and whether network
+effects matter. When the CBDC is not interest bearing, its similarity to cash becomes the sole design instrument. The more
+important the role of banks in alleviating lending frictions, the more cash-like the optimal CBDC design becomes. But network effects twist the optimal design problem, as the variety of payment instruments that households value becomes challenging to sustain. A nonlinear optimal design pattern then emerges: increasing the value added of banks translates into a
+more cash-like optimal design up to a point, after which CBDC design is constrained to preserve cash. This is so unless bankbased intermediation is suﬃciently precious that the CBDC is introduced with a design that eliminates cash, and replaces it
+with a less than fully anonymous CBDC.
+As long as network effects do not constrain policy, the CBDC interest rate is best kept at zero, because it brings about
+price distortions in the households’ choice of payment instruments. Unlike the interest rates on bank deposits, there is
+no production underlying the payment of interest on the CBDC, which is funded with a lump-sum tax. Hence, the CBDC
+interest rate is a suboptimal tool compared to the design of CBDC payment attributes, which optimally center on meeting
+some households’ demand.
+However, access to an adjustable CBDC interest rate makes a palpable difference to the central bank when network effects
+come to the fore. If the introduction of a CBDC threatens cash with extinction, a negative CBDC interest rate can compensate.11 Indeed, when households care enough about payment instrument variety, an interest-bearing CBDC will optimally
+always keep cash alive, while limiting the CBDC’s impact on bank intermediation. This is a ﬁnding of policy relevance, since
+all ongoing central bank CBDC initiatives center on CBDCs that do not bear interest.
+In several extensions, we investigate whether considerations other than network effects can cause optimal CBDC rates to
+diverge from zero.12 For instance, when banks have market power in lending, the central bank makes the CBDC compete
+harder with deposits, which leads optimal CBDC rates to diverge from zero, regardless of network effects. We also show that
+our results are robust to alternate production functions.
+In another extension, we provide a model where households choose between cash and deposit-based payment services
+that are bundled with the provision of other services (e.g., credit provision related to transaction data). This microfounds
+a linear city of payment preferences, and highlights the potential demand for a CBDC whose attributes straddle those of
+existing payment systems.
+Lastly, we consider an extension of our framework with a private digital currency and analyze the private issuer’s design
+problem. The issuer cares about interest income as well as data acquisition, which depends positively on the size of the
+currency’s user base and negatively on the degree of anonymity the currency offers. The privately optimal design of this
+currency and its interest rate are never welfare optimal, as the issuer fails to internalize externalities on money variety and
+bank intermediation.
+Our paper is closely related to a recent and growing literature on CBDCs. One strand of this literature focuses on the
+impact of introducing a CBDC on the banking sector. Andolfatto (2021) and Chiu et al. (2019) develop models where a CBDC
+increases welfare by reducing banks’ deposit market power, while a set of recent papers consider the relation between
+banking panics and the availability of a CBDC.13 In Keister and Sanches (2019), a CBDC contributes to eﬃciency in exchange
+at the expense of crowding out deposits.
+Compared to this literature, our ﬁrst contribution is to highlight a tradeoff between preserving variety in payment instruments in the face of network effects, and mitigating the adverse effects of a CBDC on ﬁnancial intermediation. Our second
+contribution is to show when and why this tradeoff is harder to overcome with a non interest-bearing CBDC than with a
+CBDC that offers an interest rate.14
+Our paper also relates to the literature on payment systems as well as that on network effects. Our modeling of network
+effects follows closely on the seminal work of Katz and Shapiro (1985). While Katz and Shapiro (1985) study ﬁrms’ decisions
+to introduce mutually compatible products, we focus on a social planner’s decision to introduce and design a new payment
+
+10
+A central bank could attempt to mitigate the decline in bank lending by providing banks with cheap liquidity to replace lost deposits. However, this
+may not be feasible for two reasons. First, banks’ ability to intermediate funds may depend on their reliance on deposits (see, e.g., Diamond and Rajan,
+2001; Donaldson et al., 2018). Second, this policy would permanently expose the central bank to credit risk.
+11
+Beyond satisfying household preferences, the disappearance of cash may reduce economic activity when a portion of the population is unable or
+unwilling to transact with digital payment methods because of digital illiteracy or informality. See Chodorow-Reich et al. (2020) and Alvarez et al. (2022) for
+empirical assessments of such costs.
+12
+See Appendix C. In addition, see the last paragraph of Section 3.1 for a discussion of optimal CBDC design if cash has already fallen out of use prior to
+CBDC introduction.
+13
+Namely, Böser and Gersbach (2020), Brunnermeier and Niepelt (2019), Fernández-Villaverde et al. (2021), and Skeie (2019). This issue also features
+prominently in policy discussions (Armelius et al., 2020a; Bech and Garratt, 2017; Cukierman, 2020; Kahn et al., 2020).
+14
+As our framework is static, the CBDC interest rate here can represent any fee or income associated with CBDC, including a cost or subsidy for opening
+a CBDC account. For example, the pilot conducted by the central bank of Uruguay offered subsidies to CBDC holders (Bergara and Ponce, 2018). Moreover,
+we focus on the steady-state effects of CBDC rates on ﬁnancial intermediation and cash use, rather than their implications for monetary policy over the
+business cycle. On the relation between CBDC and domestic monetary transmission, see Agarwal and Kimball (2015, 2019), Assenmacher and Krogstrup
+(2021), Barrdear and Kumhof (2021), Bordo and Levin (2017), Bjerg (2017), Davoodalhosseini (2021), Goodfriend (2016), Jiang and Zhu (2021), Meaning
+et al. (2018), Niepelt (2020), and Parlour et al. (2021). For open-economy transmission, see George et al. (2020), International Monetary Fund (2020), and
+Mehl et al. (2020).
+
+64
+
+I. Agur, A. Ari and G. Dell’Ariccia
+
+Journal of Monetary Economics 125 (2022) 62–79
+
+instrument. In the literature on payment systems, the analysis and measurement of network effects centers on credit and
+debit card networks (Bounie et al., 2017; Chakravorti, 2010; Rochet and Tirole, 2006).15 Instead, we study the impact of a
+new form of money on the demand for the existing payment instruments, and on welfare. Lastly, the value of variety in
+payment instruments has a similarity to the value of product variety in international trade (Krugman, 1979). However, our
+model does not build on an assumed love of variety, but rather on a heterogeneity in preferences that is best served by
+variety.
+The remainder of this paper is organized as follows. Section 2 presents the model. Section 3 analyzes the optimal design
+of a CBDC. Section 4 concludes. Extensions of the model can be found in appendices contained in the paper’s supplement.16
+2. A model of payment instruments
+We consider a ﬁnancial economy populated by households, banks, ﬁrms, and a central bank that aims to maximize welfare. Events unfold over two stages. In the ﬁrst stage, the central bank decides whether and in what form to introduce a
+CBDC.17 In the second stage, households choose between holding cash, bank deposits and (if introduced) CBDC for their
+transactions, and banks use deposits collected from households to extend loans to ﬁrms, which in turn produce a consumption good.
+Along with the rate of interest offered (if any), households value two attributes of a payment instrument – anonymity and
+security – with heterogeneous preferences over their relative importance. At the core of our model lies a tension between
+these two attributes, because delinking transactions from personal identity leads to a loss of traceability that creates risks
+for the holder. For example, while depository accounts are relatively safe and traceable, cash is vulnerable to accidental loss
+and theft.18 It is precisely the fact that cash can be lost without any claim that also makes it perfectly anonymous.
+This intrinsic link between the degree of anonymity of a means of payment and the diﬃculty of keeping it safe extends
+to the realm of digital money.19 A CBDC can perhaps only approach the anonymity of cash if it takes the form of a token that
+is accessible through user accounts that are not independently veriﬁed, or a nameless payment card that can be purchased
+at stores or online.20 These forms of CBDC would also suffer from the risks of loss and theft associated with cash, either
+physically (e.g., card loss) or digitally (e.g., the untraceable loss of account information). At the other extreme, an account
+at the central bank that can be opened only using oﬃcial identiﬁcation would mimic the security and traceability of bank
+deposits.
+Unlike cash and deposits, however, CBDC can be designed to blend intermediate amounts of anonymity and security.21
+For example, anonymity may be preserved vis-à-vis third parties only, and transactions can be recorded but not accessed by
+the central bank unless a transaction size limit is breached and/or there is suspicion of wrongdoing. Such possibilities are
+being considered in central banks’ studies of CBDCs (European Central Bank, 2019; Kiff et al., 2020; Mancini-Griffoli et al.,
+2018).
+Considering, for instance, the idea of a transaction size threshold below which the central bank promises not to access
+transaction records, highlights the possibility of ”calibrating” anonymity, and its inherent link to security.22 The level of
+the threshold would effectively determine how much anonymity (i.e., what fraction of transactions) is being offered on the
+CBDC. At the same time, households’ ability to seek recourse when something goes wrong with a transaction below the
+threshold may be limited if the validity of the claim cannot be veriﬁed by the central bank without violating the promised
+anonymity (which the other party in the payment may not agree to forgo). Hence, security declines as anonymity rises.
+We formalize these considerations in an anonymity-security scale [0,1], where higher values denote a greater extent of
+anonymity and, equivalently, a lesser degree of security. If we let x j denote the place of each money type j in the anonymitysecurity scale, cash (denoted by c) is placed at the top of the scale xc = 1, deposits (denoted by d) are at the bottom xd = 0,
+and CBDC is placed at xcbdc = θ , where θ ∈ [0, 1] is a design parameter determined by the central bank. In addition, the
+central bank determines the (net) interest rate offered on the CBDC, rcbdc , which we allow to take any (positive, zero or
+negative) value. The combination (θ , rcbdc ) thus describes CBDC design in our framework.
+There are two important frictions in the model economy: relationship lending frictions and network externalities in
+payment transactions. Relationship lending frictions take the form of information asymmetries that bar households from
+15
+The role of strategic coordination and adoption equilibria has also been considered in the literature on cryptocurrencies (Biais et al., 2019; 2018; Bolt
+and Van Oordt, 2020). In addition, Van der Cruijsen and Knoben (2021) provide empirical evidence that consumers mirror the payment behavior of others
+in their social environment, implying another source of network effects.
+16
+All algebraic calculations are conducted in Mathematica. The ﬁle is available on request.
+17
+See Appendix E for an extension of the model with a privately issued digital currency, instead of a CBDC.
+18
+We abstract from default risk on bank deposits, which is negligible in normal times due to deposit insurance and implicit bailout guarantees.
+19
+See also Engert and Fung (2017) and Kahn et al. (2021).
+20
+It is an open question whether any digital currency could truly replicate the level of anonymity associated with cash. Cryptocurrencies, such as Bitcoin,
+are often characterized as pseudonymous, because tracking mechanisms may be possible (Goldfeder et al., 2018). In the case of a CBDC, a nameless payment
+card is one of the options under consideration in Sweden (Sveriges Riksbank, 2018), while in the Bahamas the central bank is partnering with Mastercard
+to offer its existing CBDC on prepaid cards. A related example is the Marshall Islands, where the new legal tender cryptocurrency (https://sov.foundation/)
+will be printable at ATMs and exchangeable like cash.
+21
+While some legal jurisdictions allow for deposit accounts that offer a degree of anonymity, these accounts are typically incompatible with payment
+services. Moreover, providing anonymity in deposits may undermine their complementarity with relationship lending (see, e.g., Donaldson et al., 2018).
+22
+In this case, public trust in the central bank would play a key role in determining whether the CBDC is actually seen as partly anonymous.
+
+65
+
+I. Agur, A. Ari and G. Dell’Ariccia
+
+Journal of Monetary Economics 125 (2022) 62–79
+
+lending directly to ﬁrms, which are endowed with positive net present value projects that require ﬁnancing. Firms may then
+either rely on intermediation by banks or liquidate their projects. The importance of bank intermediation is proportionate
+to the gap between ﬁrm productivity A and the liquidation value of ﬁrm projects φ . When (A − φ ) is higher, a given decline
+in bank deposits and credit leads to a sharper reduction in output and consumption.
+Network externalities give rise to a disutility cost of relying on a payment instrument that is not commonly used. We
+denote by η j the disutility cost of using money type j and adopt the functional form
+
+  
+η j = max 0, g s j ∀ j ∈ {c, cbdc, d}
+
+(1)
+
+g(1 ) < 0 , g(0 ) > 0 , g (. ) < −1
+where s j stands for the share of households holding a money type j. The functional form for η j is restrictive in two ways.
+First, we implicitly assume that, for a given share of users s j , network externalities are equivalent across different money
+types. Second, the maximum operator and the restrictions on g(. ) imply that network externalities only take hold when
+the share of households using a money type falls short of a threshold. We ﬁnd it convenient to deﬁne this threshold as
+s ≡ g−1 (0 ), where 0 < s < 1. Once network externalities come into play, the restriction g (. ) < −1 ensures that they lead to
+a cascade: each household that switches to a different money type incentivizes another to switch until that type of money
+falls out of use. This setup helps preserve tractability by eliminating unstable equilibria and ensuring that the equilibrium
+shares of money types that remain in use are not affected by network externalities.
+Below, we explain the activities of the households, banks, ﬁrms and the central bank in further detail. We then proceed
+to characterize the equilibria and conduct welfare analysis.
+2.1. Agents and their optimal strategies
+2.1.1. Household preferences
+There is a unit continuum of households with preferences h ∈ [0, 1] uniformly distributed over the anonymity-security
+scale.23 Households start with identical endowments in terms of (atomistic) shares in ﬁrms and liquid funds, which are
+normalized to 1. Liquid funds are stored in a money type j ∈ {c, d, cbdc} and used to purchase the consumption good at the
+end of the stage.24
+Households cannot attain their preference h by mixing different forms of money in their transactions because a transaction is only as anonymous as the least anonymous payment instrument used. In other words, anonymity is undiversiﬁable.
+This notion is further explored in Appendix D, which provides an example of how a linear-city setup, in the manner of
+Hotelling (1929), can be microfounded for the case of payment preferences.25 In that Appendix, the heterogeneity of payment preferences emanates from heterogeneity of consumption preferences, with households differing in what fraction of
+income they want to use for purchases of “sin goods” (e.g., alcohol, tobacco). Such goods lower their creditworthiness when
+purchases are observed by the deposit-taking institution, which also provides credit to households, and observes their incomes. This relates closely to, for example, the payment system in China, where most deposit-based transfers are processed
+by large Fintech providers, which are also major providers of credit. Households are shown to sort into different groups:
+those that want to consume few sin goods sort into deposits, and those with stronger preferences for sin goods sort into
+cash.26 Appendix D therefore provides an illustration of heterogeneous preferences for payment data privacy.
+2.1.2. Household optimization
+The household budget constraint is given by
+
+Cj = 1 + rj − T + π
+
+(2)
+
+where C j is consumption, π represents dividends from ﬁrm proﬁts, r j is the (net) interest earned on money holdings, so
+that
+
+
+
+rj =
+
+0
+rcbdc
+rd
+
+if j = c
+if j = cbdc
+if j = d
+
+(3)
+
+and T = rcbdc scbdc is a lump-sum tax used to fund interest rates on the CBDC (or equivalently a lump-sum transfer to redistribute revenues when rcbdc < 0).27
+23
+We adopt a uniform distribution for the sake of tractability. Qualitatively, our setup generalizes to any single peaked distribution with continuous
+support and suﬃcient weight in the tails to ensure that, absent a CBDC, both deposits and cash are sustained as payment instruments.
+24
+We assume that all forms of money are traded at par.
+25
+Spatial differentiation frameworks such as Hotelling (1929) or Salop (1979) have been used extensively to model agents’ heterogeneous preferences
+(or other features) in settings ranging from the market for cereals (Schmalensee, 1978), to voting preferences (Stokes, 1963), to the degree of information
+asymmetry in banking (Hauswald and Marquez, 2006).
+26
+As their incomes are observed, the households understand that the deposit-taking institution can infer that any part of their income not saved or
+used for consumption of other goods, is used to consume sin goods with cash. Therefore, the only way to effectively hide from the revelation of sin good
+consumption, is to opt out from the relationship with the deposit-taking institution altogether.
+27
+This can be interpreted as a zero-capital central bank: any revenue that the central bank makes is immediately paid out to households, and any capital
+shortfall leads directly to a recapitalization through a lump-sum tax.
+
+66
+
+I. Agur, A. Ari and G. Dell’Ariccia
+
+Journal of Monetary Economics 125 (2022) 62–79
+
+The households’ utility maximization problem can then be written as
+
+max
+
+j∈{c,d,cbdc}
+
+
+
+
+
+Uh ( j ) = ρC j − x j − h − η j
+
+(4)
+
+
+
+
+
+subject to the budget constraint (2). Here, x j − h represents the utility cost of selecting a payment method that differs
+from the household’s anonymity-security preference h while ρ > 0 denotes the marginal utility of consumption relative to
+payment preferences.28 Network effects are captured by η j , as deﬁned by (1). The solution to the household’s problem yields
+the following cut-off conditions for a household with preferences h to choose:
+
+cash over CBDC : 1 − h + ηc < |θ − h| − ρ rcbdc + ηcbdc
+
+(5)
+
+cash over deposits : 1 − h + ηc < h − ρ rd + ηd
+
+(6)
+
+CBDC over deposits :
+
+|θ − h| − ρ rcbdc + ηcbdc < h − ρ rd + ηd
+
+(7)
+
+2.1.3. Banks
+Banks collect deposits d from households at net deposit rate rd and extend loans l to ﬁrms at net loan rate R, with the
+budget constraint
+
+l=d
+
+(8)
+
+The representative bank is risk neutral and a price taker in both deposit and loan markets, so that its proﬁt maximization
+problem yields the ﬁrst-order condition
+
+rd = R
+
+(9)
+
+which simply equates interest rates on deposits and loans.29
+2.1.4. Firms
+Firms are perfectly competitive and begin with an identical endowment of productive projects k0 which require ﬁnancing
+to implement.30 The representative ﬁrm uses bank loans l to ﬁnance a portion k = l of projects. Once implemented, these
+projects yield a payoff in terms of consumption goods with the technology
+
+
+
+Y =
+
+A−
+
+k
+k
+2
+
+(10)
+
+where A > 1 denotes productivity.31 The remaining projects (k0 − k ) are liquidated at a constant rate of return φ ∈ (0, 1 ).32
+The representative ﬁrm’s proﬁt maximization problem can then be written as
+
+
+
+
+
+max Y + φ k0 − k − (1 + R )l
+
+(11)
+
+k,l
+
+subject to (10) and k = l. This yields the ﬁrst-order condition
+
+1+R=A−φ−l
+
+(12)
+
+which can be interpreted as a downward sloping loan demand curve. Notably, a decline in the liquidation value φ raises ﬁrm
+demand for loans, reﬂecting the increased importance of bank intermediation. More generally, we can refer to (A − φ ) as the
+value added from bank intermediation, since it captures the value generated by channeling funds to ﬁrms with productivity
+A, instead of having the ﬁrms sell off their projects at value φ . One can think of this from a cross-country perspective, where
+some countries are more reliant on bank-based intermediation and others less so, since in some countries relationship
+lending frictions are easier to overcome by alternate (i.e., nonbank) means.
+28
+
+The manner in which we combine consumption with payment preferences bears similarity to the utility function adopted in Gopinath and Stein (2018).
+See Appendix C.3 for an extension where we allow for market power in the bank loan market.
+30
+We impose the restriction k0 > 1 to ensure that lending frictions always bind such that k < k0 .
+31
+We adopt a quadratic functional form in the interest of tractability. Appendix C.1 considers a constant returns to scale technology as an alternative.
+32
+The liquidation value is also in terms of consumption goods. The liquidation of projects can be microfounded in a framework similar to Stein
+(2012) where projects are sold to outside buyers with a lower marginal valuation. While we do not explicitly incorporate outside buyers into our model,
+doing so would have no impact on welfare provided these buyers are non-residents and/or projects are priced at their opportunity cost to outside buyers.
+In the interest of tractability, we also assume that funds from liquidated projects cannot be used for ﬁnancing other projects. This could be due to a combination of information asymmetries and timing. For example, the time required for outside buyers to verify and pay for a project may exhaust the time
+for implementation by ﬁrms.
+29
+
+67
+
+I. Agur, A. Ari and G. Dell’Ariccia
+
+Journal of Monetary Economics 125 (2022) 62–79
+
+2.1.5. The central bank
+The central bank aims to maximize social welfare, deﬁned as the sum of household utilities
+
+W =
+
+h∈[0,1]
+
+Uh ( j∗ (h ) )dh
+
+(13)
+
+where j∗ (h ) denotes the payment instrument selected by household h. In doing so, the central bank decides whether to
+introduce a CBDC, and if introduced, its design characteristics (θ , rcbdc ).33 If a CBDC is introduced, the central bank’s design
+problem is given by
+
+max
+
+θ ∈[0,1],rcbdc
+
+h∈[0,1]
+
+Uh ( j∗ (h ) )dh
+
+(14)
+
+subject to a design constraint
+
+scbdc ≥ s
+
+(15)
+
+which ensures that there is suﬃcient uptake of the CBDC to overcome network effects.34
+In our framework, the central bank only considers the introduction of a single CBDC. We acknowledge that this is a
+potential limitation of our approach, because there might be cases where the introduction of multiple CBDCs would be
+socially optimal in the context of the model.
+Nevertheless, the presence of network effects would limit the number of CBDCs that can be introduced, which would
+imply that the key tradeoff that the central bank faces, providing households with more variety of payment instruments
+while limiting the impact on bank intermediation (see Section 2.2.2), would remain.35
+From an applied perspective, the focus on a single CBDC is well founded, as currently all central banks’ CBDC studies
+center on the introduction of one CBDC.36
+2.2. Equilibrium and welfare
+A competitive equilibrium where deposit, loan and capital markets clear, is given by
+
+sd = d = l = k
+
+(16)
+
+The interaction of network externalities with the three money types in our framework leads to a rich set of equilibrium
+types, as shown in Table 1. For the sake of brevity, we introduce the parameter restrictions
+
+1 < (A − φ ) ≤
+
+5
+;
+2
+
+3
+3
+≤ρ≤ ;
+4
+2
+
+s≤
+
+1
+17
+
+(17)
+
+which allow us to focus our discussions on “well-behaved” equilibria that give rise to plausible outcomes. For instance,
+when there is no CBDC, we should observe that deposits and cash are able to coexist, as they do in most countries.37 , 38 We
+also bring forward a number of results based on optimal CBDC design that are formally derived later in the paper. Lemma
+1 shows that an optimally designed CBDC always increases welfare. Therefore, the central bank always prefers to introduce
+a CBDC. Lemma 2 shows that the CBDC design constraint in (15) does not bind, while deposits remain in use under an
+optimal CBDC design.
+Lemma 1. Under optimal policies derived in Section 3, the introduction of an optimally-designed CBDC always strictly raises
+social welfare.
+Proof. Provided in Appendix A.
+Lemma 2. Under optimal policies derived in Section 3, the parameter restrictions in (17) imply that sd ≥ s and scbdc ≥ s.
+33
+An implicit assumption in our model is that the central bank does not allow any agent to take a short position in CBDC (i.e., the central bank does
+not grant CBDC credit to other parties). This precludes arbitrage opportunities by entities without payment preferences, such as banks, which might prefer
+funding themselves with CBDC rather than deposits. Based on CBDC studies currently underway at central banks, we consider this a realistic assumption.
+34
+The design constraint subsumes two conditions, rcbdc ≥ −(1 − θ )ρ −1 and θ > ρ (rd − rcbdc ), which respectively rule out the strict dominance of CBDC
+by cash and deposits (i.e., ensure that neither cash nor deposits offer all households a strictly better utility than CBDC) as per (5) and (7). For example, a
+completely cash-like CBDC (θ = 1) that pays negative rates (rcbdc < 0) would violate the ﬁrst condition, such that all households have a strict preference for
+cash over CBDC. Because of network externalities, these conditions are necessary, but not suﬃcient, for positive CBDC take-up.
+35
+For example, in a world with two CBDCs, the design of the most deposit-like CBDC determines the impact on bank intermediation, while the design of
+the most cash-like CBDC determines the intensity of competition with cash and hence whether cash falls prey to network effects.
+36
+For an overview of ongoing CBDC developments, including links to central bank studies, see Auer et al. (2020) and Annex 1 within Kiff et al. (2020).
+37
+While our model is not quantitative in nature, empirical evidence suggests that network effects only begin to play a signiﬁcant role when the use of a
+1
+. For instance, in Canada, cash is widely accepted although only about 10% of transactions
+payment instrument becomes very small, as represented by s ≤ 17
+in value terms are conducted with cash (Engert et al., 2018). In contrast, in Sweden, where network effects on cash are becoming a source of concern, cash
+use stands near 1% of transactions value (Sveriges Riksbank, 2017). We discuss the outcome when cash demand is too low to sustain cash, even absent the
+introduction of CBDC, at the end of Section 3.1.
+38
+The restriction (A − φ ) > 1 ensures that in equilibrium aggregate output (and hence consumption) increases as ﬁnancial intermediation rises. This
+, which, given k ≤ 1, is always positive for (A − φ ) > 1.
+follows directly from the derivative dY
+dk
+
+68
+
+I. Agur, A. Ari and G. Dell’Ariccia
+
+Journal of Monetary Economics 125 (2022) 62–79
+Table 1
+Possible equilibria and role in discussion.
+Equilibrium
+
+Role in discussion
+
+Deposits & Cash & CBDC
+Deposits & CBDC
+Deposits & Cash
+CBDC & Cash
+CBDC only
+Cash only
+Deposits only
+
+Referred to as ce
+Referred to as nce
+Never occurs under optimal policy
+Never occurs under optimal policy
+Never occurs under optimal policy
+Impossible under any policy
+Impossible under any policy
+
+Proof. Provided in Appendix A.
+As indicated by Table 1, these Lemmas allow us to narrow the set of possible equilibria to just two well-behaved equilibria: a ‘cash equilibrium’ (denoted by ce) where all three money types are in use, and a ‘cashless equilibrium’ (denoted by
+nce) where cash disappears and only deposits and CBDC remain in use.39
+Cash equilibrium
+In the cash equilibrium, cash use remains high enough to prevent network externalities from causing its disappearance.
+Using the properties of the uniform distribution, (5)-(7) can be solved to obtain the shares of households holding each
+money type, which are
+
+1 − θ − ρ rcbdc
+2
+
+sce
+c =
+
+(18)
+
+ρ (rd − rcbdc ) + θ
+
+sce
+d =
+
+(19)
+
+2
+
+sce
+cbdc =
+
+1 − ρ rd
++ ρ rcbdc
+2
+
+(20)
+
+Cashless equilibrium
+In the cashless equilibrium, network externalities lead to the disappearance of cash such that snce
+= 0, in which case the
+c
+shares of households holding CBDC and deposits become
+
+ρ (rd − rcbdc ) + θ
+
+snce
+=
+d
+
+(21)
+
+2
+
+snce
+cbdc = 1 −
+
+ρ (rd − rcbdc ) + θ
+
+(22)
+
+2
+
+Observe from (19) and (21) that the expressions for the shares of deposit holders are the same in the two equilibrium
+types (sce
+= snce
+). This is because, when there is a CBDC, deposits do not directly compete with cash. By (16), the expressions
+d
+d
+for deposit (and loan) interest rates, ﬁrm production, and aggregate consumption are also the same in both equilibrium types
+and given by
+
+rd =
+
+2(A − 1 − φ ) − (θ − ρ rcbdc )
+2+ρ
+
+(23)
+
+sd =
+
+ρ (A − 1 − φ − rcbdc ) + θ
+2+ρ
+
+(24)
+
+Y =
+
+A−
+
+h∈[0,1]
+
+sd
+s
+2 d
+
+C j∗ (h ) dh = 1 + φ k0 + A − φ − 1 −
+
+(25)
+sd
+s
+2 d
+
+(26)
+
+where sd represents the share of deposits after substituting for rd . Notably, regardless of the equilibrium type, the introduction of a CBDC that competes closely with deposits through a deposit-like design (i.e., low θ ) and/or by offering high interest
+39
+The three equilibria referred to as never occurring under optimal policy are further discussed in Appendix C.4, which considers outcomes of suboptimal
+CBDC design. The equilibria referred to as “impossible under any policy” are ruled out by the parameter restrictions which imply that, when there is no
+7
+3
+and inf sc = 22
+, both of which are above s. The derivations of these
+CBDC, the lowest possible shares of deposits and cash, respectively, are inf sd = 22
+results are available upon request.
+
+69
+
+I. Agur, A. Ari and G. Dell’Ariccia
+
+Journal of Monetary Economics 125 (2022) 62–79
+
+Fig. 1. Comparative statics of money shares. Note: Shares and boundaries are drawn according to (18)–(22) and (28). In Panel A, a more cash-like CBDC
+increases the shares of CBDC and deposits, while cash use declines. Cash falls out of use below a critical mass. In Panel B, when the CBDC interest rate
+increases, cash and deposits’ shares fall. Conversely, when CBDC interest rates are too low, there is no CBDC take up.
+
+rates rcbdc crowds out bank deposits. Although banks partially offset this by offering higher deposit rates rd , in equilibrium
+this brings about a decline in bank intermediation, which also reduces ﬁrm production and aggregate consumption as per
+(25) and (26). The extent of the decline in aggregate consumption depends on relationship lending frictions. When these
+frictions are stronger (i.e., A − φ is larger), a given decline in sd leads to a larger fall in aggregate consumption.
+Lastly, it is important to note that network externalities lead to strategic complementarities in households’ payment
+decisions, thus bringing about the possibility of multiplicity between cash and cashless equilibria. However, both of these
+equilibrium types may also arise due to fundamentals, and multiplicity does not lead to insights that are interesting, or that
+we observe in reality. Therefore, we rule out multiplicity by assuming that it is always resolved in favor of a cash equilibrium, which we consider to be similar to the pre-digital currency economy. A cashless equilibrium then arises only when
+fundamentals are such that the cash equilibrium is not self-conﬁrming, which is the case when the boundary condition
+
+sce
+c ≥s
+
+(27)
+
+is violated.40 Using (18), we can also write this condition in terms of CBDC design parameters as
+
+θ + ρ rcbdc ≤ 1 − 2s
+
+(28)
+
+which indicates that a CBDC that competes strongly with cash through a cash-like design (i.e., high θ ) and/or by offering a
+suﬃciently high interest rate rcbdc may eliminate cash and give rise to a cashless equilibrium. We proceed with a discussion
+of the resulting comparative statics.
+2.2.1. Comparative statics
+Fig. 1 depicts the comparative statics of money shares in terms of CBDC design parameters (θ , rcbdc ). The unshaded part
+of Panel A shows that cash holdings decline and bank deposits rise as the CBDC becomes more cash-like with higher θ .
+Notably, the share of CBDC holders rises as the CBDC becomes more cash-like. This is because banks respond to reduced
+competition from CBDC by lowering deposit rates rd , whereas cash offers no interest. However, when CBDC becomes so
+cash-like that cash use declines below a threshold s, network externalities lead to a cashless equilibrium, depicted by the
+shaded area at the right end of Panel A. This leads to a jump in the use of the CBDC, because cash holders switch to it.
+As the CBDC becomes even more cash-like, households with preferences on the margin between CBDC and bank deposits
+switch to the latter, thereby raising deposits and reducing CBDC use. Panel B shows that a higher CBDC rate rcbdc reduces
+the shares of both cash and deposits, while raising that of CBDC. However, as banks raise deposit rates in response to higher
+CBDC rates, deposits decline less than cash. A suﬃciently high rcbdc leads to a cashless equilibrium, which is depicted by the
+shaded area at the right end of the panel. Furthermore, the striped areas at the left ends of Panel A and B indicate domains
+where the CBDC design constraint is violated, and CBDC falls out of use.
+Finally, note that we can analyze the impact of introducing a CBDC with a given design (θ , rcbdc ) by comparing it with
+the equilibrium under a CBDC that is completely cash-like (θ = 1) and offers no interest (rcbdc = 0). With this design, the
+CBDC is identical to cash and becomes completely innocuous in our model. In other words, introducing a CBDC is like
+moving θ from 1 to a lower value and/or changing rcbdc away from 0. Once the CBDC moves away from cash mimicry, the
+combination (θ , rcbdc ) needs to be competitive enough if the CBDC is to have a positive uptake (as represented by the CBDC
+design constraint). Moreover, as compared to a world without CBDC, any such positive uptake of CBDC necessarily derives
+from both cash and deposits in our model. That is, introducing a CBDC always brings about some decline in banks’ deposit
+base and consequently in bank intermediation to ﬁrms, although the extent of this effect depends on how closely the CBDC
+40
+Resolving multiplicity in favor of the cashless equilibrium shifts the boundary condition to θ + ρ rcbdc > 1 − 2s − g(0 ) without any qualitative impact on
+our analysis.
+
+70
+
+I. Agur, A. Ari and G. Dell’Ariccia
+
+Journal of Monetary Economics 125 (2022) 62–79
+
+competes with deposits. To the extent that the CBDC reduces bank intermediation, it also causes a decline in aggregate
+output and consumption.
+2.2.2. Welfare analysis
+In equilibrium, social welfare can be split into two terms
+
+W =ρ
+
+h∈[0,1]
+
+C j∗ (h ) dh −
+
+h∈[0,1]
+
+
+
+x j∗ (h) − hdh
+
+(29)
+
+The ﬁrst term represents aggregate consumption as given by (26). Because of the role of banks in providing ﬁrm ﬁnancing,
+aggregate
+consumption
+relates closely to the extent of bank intermediation, and therefore to bank deposits sd . The second
+
+
+term x j∗ (h ) − h represents welfare losses due to the distance between households’ payment preferences and their preferred
+instrument. This term embodies the social value of variety in payment instruments, as increased variety provides heterogeneous households with greater opportunity to minimize the distance to their payment preferences.
+How these two terms affect welfare, particularly in relation to CBDC design instruments θ and rcbdc , becomes clearer in
+the closed form expressions for welfare provided in Lemma 3.
+Lemma 3. Social welfare in the cash and cashless equilibria are respectively given by
+
+
+
+
+
+2
+4ρ A − φ − 12 θ + 4(1 − θ )θ − 3ρθ 2 − (4 + ρ )ρ 2 rcbdc
++ ω1
+
+W (θ , rcbdc ) =
+ce
+
+4 (2 + ρ )
+
+W nce (θ , rcbdc ) =
+
+2
+2ρ (A − φ )θ + (4 − 3θ )θ − 2ρθ 2 − ρ 2 rcbdc
++ ω2
+
+2 (2 + ρ )
+
+(30)
+
+(31)
+
+where ω1 and ω2 are collections of constants
+
+
+
+
+ω1 ≡ ρ 7 + 4k0 φ ( 2 + ρ ) + ρ 6 + 2A2 − 4A ( 1 + φ ) + 2φ ( 2 + φ ) − 2
+
+(32)
+
+
+
+ω2 ≡ ρ 2 3 + A2 − 2A ( 1 + φ ) + φ ( 2 + 2k0 + φ ) + ρ ( 3 + 4k0 φ ) − 2
+
+(33)
+
+Proof. Provided in Appendix A.
+To provide intuition, we focus on the breakdown of the terms in the ﬁrst expression (30) which pertains to welfare under
+the cash equilibrium, although a similar breakdown applies to (31) and the cashless equilibrium as well.
+The ﬁrst term 4ρ A − φ − 12 θ captures the relation between the value of bank intermediation (A − φ ) and CBDC design
+characteristic θ . When (A − φ ) is greater, aggregate consumption and social welfare depend more strongly on the intermediation derived from bank deposits. This, in turn, calls for a CBDC that competes less intensely with banks, through a more
+cash-like CBDC design (i.e., high θ ).
+The second and third terms, 4(1 − θ )θ − 3ρθ 2 , pertain to the relation between variety in payment instruments and CBDC
+design. Notably, these terms are linear-quadratic in θ , meaning they have an interior maximum, and this captures the fact
+that variety in payment instruments is best served by an intermediate CBDC design that is differentiated from both cash
+and deposits.
+2 , is negative and quadratic in r
+The ﬁnal term −(4 + ρ )ρ 2 rcbdc
+cbdc , with the implication that a non interest-bearing CBDC
+maximizes welfare within a given equilibrium type. This is because an interest-bearing CBDC distorts households’ payment
+choices away from the instrument closest to their payment preferences. As this affects households on the margin between
+CBDC and another instrument, these distortions rise at an increasing rate as rcbdc moves further from zero. Moreover, unlike
+deposit rates, payment choice distortions caused by rcbdc are not offset by a contribution to ﬁnancial intermediation. While
+deposit rates reﬂect the surplus from increased bank lending and the resulting rise in ﬁrm production, CBDC rates are
+funded by lump-sum transfers that have no direct productive impact.
+Lastly, it is important to note that by focusing on welfare within a given type of equilibrium, our discussion has so far
+abstracted from network effects and the associated equilibrium determination condition (28). Accounting for these effects,
+social welfare is given by
+
+W (θ , rcbdc ) =
+
+W ce (θ , rcbdc )
+W nce (θ , rcbdc )
+
+if θ + ρ rcbdc ≤ 1 − 2s
+otherwise
+
+(34)
+
+and CBDC design parameters (θ , rcbdc ) may lead to a switch from one equilibrium type to another. In the next section, we
+shed more light on optimal CBDC design, including the role of the CBDC interest rate, in the presence of network effects.
+3. Optimal CBDC design
+In this section, we analyze the optimal CBDC design which maximizes social welfare, proceeding in two steps. First,
+we investigate the optimal design of a non interest-bearing CBDC, and then how optimization of an interest-bearing CBDC
+differs from this.
+71
+
+I. Agur, A. Ari and G. Dell’Ariccia
+
+Journal of Monetary Economics 125 (2022) 62–79
+
+This two-step approach is more than a matter of analytical convenience. In practice, most central banks appear to be constraining themselves to non interest-bearing CBDCs. This may be due to political economy considerations, such as concerns
+about a central bank liability that is held by the general public and can be made to pay negative interest.
+Alternatively, there could be legal hurdles to an interest-bearing CBDC. For instance, the need to tax interest earnings
+may interfere with a desire to offer a degree of anonymity on the CBDC in certain jurisdictions (Engert and Fung, 2017).
+However, in many countries tax exemptions have been granted for a variety of government issued securities. For example,
+in the US, interest earned on municipal bonds is exempt from Federal and state taxes for residents of the issuing state.
+Households’ earnings from CBDC interest rates could similarly be granted tax exempt status. Moreover, interest on a CBDC
+token could take the form of dual currency system with a crawling exchange rate peg between digital currency and cash.41 A
+predetermined appreciation or depreciation path that is built into the digital currency, much like for instance the volume of
+Bitcoin creation over time was predetermined at the coin’s inception, would be equivalent to accountless interest payments.
+As such, anonymity of CBDC interest payments could in principle be maintained.42
+Using our framework, we can analyze the economic ramiﬁcations of constraining the CBDC to a non interest-bearing
+form.
+3.1. Non interest-bearing CBDC
+When a CBDC is required to be non interest-bearing (rcbdc = 0), the design optimization problem is given by
+
+max {W (θ , 0 )}
+
+(35)
+
+θ ∈ [0 , 1 ]
+
+where W (θ , 0 ) is deﬁned according to (34) and Lemma 3.43 Accordingly, the optimal CBDC design in the cash and cashless
+equilibria can be solved to
+
+θ ce =
+
+2 + ρ (2 (A − φ ) − 1 )
+4 + 3ρ
+
+(36)
+
+θ nce =
+
+2 + ρ (A − φ )
+3 + 2ρ
+
+(37)
+
+where the parameter restrictions (17) ensure that θ ce and θ nce are well-deﬁned on [0, 1].44 The implication is that optimal
+policy leads to an interior CBDC design where CBDC’s cash-likeness equates the marginal beneﬁt on bank intermediation
+with marginal losses to payments system variety from moving too close to cash. Furthermore, combining these expressions
+with (30) and (31) shows that as long as network effects play no role, the cash equilibrium welfare dominates the cashless
+equilibrium, so that
+
+W ce (θ ce , 0 ) − W nce (θ nce , 0 ) =
+
+(ρ (A − φ − 2 ) − 1 )2
+>0
+2 ( 3 + 2ρ ) ( 4 + 3ρ )
+
+(38)
+
+where the inequality is strict because ρ (A − φ − 2 ) < 1 given our parameter assumptions. This dominance of the cash equilibrium derives from the fact that payment instrument variety creates social value for heterogeneous households. If sustaining that variety is costless, welfare is best served by having all three payment instruments in use.
+However, network effects impose costs on maintaining cash use by “constraining” the CBDC design optimization. In particular, when applied to a non interest-bearing CBDC, the condition (28) can be written as an upper bound on the degree
+to which the CBDC approximates cash,
+
+θ̄ ≤ 1 − 2s
+
+(39)
+
+above which the economy moves to a cashless equilibrium. That is, whenever θ ce > θ , the choice is no longer between
+W ce (θ ce , 0 ) and W nce (θ nce , 0 ), since the latter is no longer implementable: A CBDC with design θ ce is too cash-like and
+would reduce cash use below
+ the threshold s where network effects cause cash demand to spiral down to zero. Instead,
+optimization centers on W ce θ , 0 versus W nce (θ nce , 0 ), that is, preserving the cash equilibrium under a CBDC design constrained at θ̄ versus allowing cash to vanish and having unconstrained optimal policy with only CBDC and deposits in
+existence. Deﬁning  as optimal policy when taking into account the constraint imposed by network effects, we obtain
+Fig. 2.45
+
+41
+
+See Lilley and Rogoff (2020) and Agarwal and Kimball (2015, 2019) for further discussions on a dual currency system.
+Another option for anonymous CBDC interest payments is to charge a fee or offer a discount on a nameless CBDC payment card (e.g., a $100 CBDC card
+would cost $99 or $101).
+43
+The design constraint (15) is slack under optimal policies as per Lemma 2.
+ 7 16 
+ 7 23 
+44
+, 17 and θ nce ∈ 12
+, 24 .
+Given (17), these optimal policies can range between θ ce ∈ 17
+42
+
+45
+
+This is formally derived in Proposition 1 below.
+72
+
+I. Agur, A. Ari and G. Dell’Ariccia
+
+Journal of Monetary Economics 125 (2022) 62–79
+
+Fig. 2. Optimal non interest-bearing CBDC design. Note: The CBDC is optimally made more cash-like when bank intermediation matters more. But at
+cash’ critical threshold, optimal design is distorted towards deposit-like to retain cash. For high enough intermediation value, cash is allowed to disappear
+and the CBDC becomes more cash-like to compensate.
+
+Fig. 2 brings together several key aspects of our model.46 First, when network effects do not constrain policy, the optimal
+similarity of the CBDC to cash depends on the extent to which banks have an advantage at alleviating ﬁnancial frictions.
+On the one hand, locating the CBDC “centrally” relative to the attraction points of deposits and cash serves the payment
+needs of households with diverse preferences. On the other hand, when bank intermediation has more value, the CBDC is
+optimally made more cash-like, so as to limit its adverse impact on banks’ deposit base, and thereby on aggregate output
+and consumption.
+Second, as the value of bank intermediation (A − φ ) rises, a threshold A − φ is eventually reached, beyond which optimal
+design freezes in relation to (A − φ ). This is because optimal policy prevents the disappearance of cash in order to protect
+payment instrument variety. As long as the welfare gains from this variety outweigh the welfare costs from lost bank intermediation, optimal policy maintains all three payment instruments, rather than tipping cash over the disappearance point
+induced by network effects. However, when preserving bank intermediation becomes the dominant concern (namely when
+A − φ exceeds the threshold A − φ ), optimal policy forgoes variety, allowing cash to disappear, in exchange for a larger deposit base for the banks.
+Third, once cash vanishes, the CBDC bears the brunt of servicing former cash users, and therefore optimally moves further
+towards cash than it would have if all three forms of money were still in existence. In Fig. 2, this is seen from the portion
+of the blue line to the right of A − φ , which is above the dashed gray line.
+This last portion of the blue line also demonstrates the outcome when fundamentals are such that cash disappears prior
+to the introduction of a CBDC. If the CBDC is introduced after cash has disappeared, optimal policy is simply depicted by
+extending the portion of the blue line to the right of A − φ all the way to the vertical axis. In this case, network effects no
+longer play a role since cash would already be in disuse. As such, in a country that starts off cashless, optimal CBDC policy
+is quite straightforward, and the CBDC is always more cash-like than when cash exists.
+
+3.2. Interest-bearing CBDC
+This section considers an interest-bearing CBDC, where the CBDC rate can be varied as desired to maximize
+welfare.
+Unconstrained optimal
+
+ policy is now given by the solution to the system of two ﬁrst-order conditions,
+
+∂ W (θ ,rcbdc )
+∂ W (θ ,rcbdc )
+= 0,
+= 0 , which yields the same expressions for θ ce and θ nce as in (36) and (37) and for CBDC rates
+∂θ
+∂ rcbdc
+ce
+nce
+rcbdc
+= rcbdc
+=0
+
+(40)
+
+with the implication that the optimal CBDC rate is always zero in the absence of network effects. This outcome is consistent
+with the discussion in Section 2.2.2, which suggest that the CBDC interest rate is a suboptimal tool compared to θ . As such,
+
+46
+
+In addition to optimal policy derived in the Proof of Proposition 1, the exact shape of Fig. 2 relies on two more properties from (36) and (37): ﬁrst,
+
+θ nce > θ ce ; second, ∂ (∂θ
+> ∂ ∂θ
+> 0 and therefore the slope of θ nce is ﬂatter.
+A −φ )
+( A −φ )
+ce
+
+nce
+
+73
+
+I. Agur, A. Ari and G. Dell’Ariccia
+
+Journal of Monetary Economics 125 (2022) 62–79
+
+Fig. 3. Optimal interest-bearing CBDC design. Note: The central bank jointly determines the CBDC’s design and interest rate. The CBDC interest rate is
+used when network effects bind, which makes it easier to sustain payment variety: the threshold where cash vanishes is pushed out.
+
+our model indicates that in a world without network effects, central banks would be right to focus their attention on the
+issuance of non interest-bearing CBDCs.47
+However, as discussed in Section 3.1, such an optimal policy proﬁle is not always implementable, due to network effects.
+For an interest-bearing CBDC, the equilibrium determination condition (28) affects both θ and rcbdc . When this condition
+binds, and the central bank chooses to satisfy it in order to preserve cash, optimal CBDC design becomes
+
+θ =
+
+2 + ρ ( 2 ( A − φ ) − 1 − ρ ( 4 + ρ ) ( 2s − 1 ) )
+4 + ρ (1 + ρ ) (3 + ρ )
+
+(41)
+
+ρ ( ( A − φ ) + 3s − 2 ) + 4s − 1
+4 + ρ (1 + ρ ) (3 + ρ )
+
+(42)
+
+
+rcbdc = −2
+
+Hence, when network effects come into play, the optimal CBDC rate diverges from zero. Indeed, under the parameter restrictions in (17), the optimal CBDC rate always turns negative. This in turn allows CBDC design to become more cash-like
+than in the non-interest bearing case (θ > θ ), since the value of bank intermediation
+  (A − φ ) rises.
+Note that the constrained non interest-bearing optimal policy (θ , rcbdc ) = θ , 0 is within the feasible set of policies
+delineated by (28), but is found to be sub-optimal. Therefore, access to a second policy tool in the CBDC interest rate strictly
+raises welfare when network effects bind. Proposition 1 records our key results on optimal CBDC design, which are depicted
+in Fig. 3.
+
+
+
+
+
+Proposition 1. There is a cutoff ρ ∈ 34 , 32 , such that when ρ < ρ , cash never vanishes under an optimally designed interestbearing CBDC, where optimal design is given by
+
+
+
+θ, 
+rcbdc
+ ce ce 
+θ , rcbdc
+
+ce
+if θ ce + ρ rcbdc
+< 1 − 2s
+
+(43)
+
+otherwise
+
+For ρ > ρ , cash can vanish when the value of bank intermediation exceeds the threshold A
+− φ . However, this threshold is higher
+when the CBDC bears interest than when it does not, that is, A
+−φ > A−φ
+Proof. Provided in Appendix A.
+When the relative weight of payment preferences in household utility is large enough (ρ < ρ ), the presence of a variable
+CBDC interest rate as a second tool fundamentally alters the outcomes under optimal policy, as compared to a non interestbearing CBDC, depicted in Fig. 2. With a non interest-bearing CBDC, the only means to safeguard deposits is to make the
+CBDC eat into cash demand. But with a variable CBDC interest rate, optimal policy simultaneously reaps the welfare beneﬁts of sustaining variety in payment instruments and limits bank disintermediation. In particular, when network effects
+bind, optimal policy combines a (more) cash-like CBDC with a negative CBDC interest rate, thereby avoiding adverse network effects on cash use by making the CBDC less attractive, while simultaneously limiting the CBDC’s impact on ﬁnancial
+intermediation and production. This optimal policy is portrayed in the unshaded part of Fig. 3. For ρ < ρ , the shaded part
+of this ﬁgure is never reached, which means that cash never vanishes under optimal policy.
+47
+Appendix C investigates the robustness of this key result. We ﬁnd that the optimality of zero CBDC rates (absent network effects) is robust to the speciﬁcation of the production function. However, when banks have market power (Appendix C.3), or when anonymous payment instruments create negative
+social externalities (Appendix C.2), the optimal CBDC rate can deviate from zero.
+
+74
+
+I. Agur, A. Ari and G. Dell’Ariccia
+
+Journal of Monetary Economics 125 (2022) 62–79
+
+Fig. 4. Distributional effects of CBDC. Note: An optimally designed CBDC raises aggregate welfare, but not all households gain. Cash holders lose, especially
+if cash vanishes. A negative CBDC interest rate redistributes gains from CBDC users to others. See Appendix B for the underlying derivations.
+
+However, the deeper the CBDC interest rate moves into negative territory, the larger its costs in terms of payment choice
+distortions become. If the weight on payment preferences is relatively small (ρ > ρ ), then a point is reached where the
+value of bank intermediation (A − φ ) is large enough that welfare is best served by letting go of cash. This case, portrayed
+nce , which implies
+by the shaded area in Fig. 3, is similar to the jump seen in Fig. 2: optimal policy switches to θ nce , rcbdc
+a more cash-like CBDC to better accommodate the preferences of previous cash users, and a return to zero CBDC rates.
+Nevertheless, even when ρ > ρ , the availability of CBDC interest rates serves a purpose. In particular, raising (A − φ ) from
+lower to higher values, the possibility of varying the CBDC interest rates ”delays” the jump to a cashless equilibrium where
+households lose access to three differentiated means of payment (i.e., A
+− φ > A − φ ).
+3.3. Distributional effects
+So far, our welfare analysis has centered on aggregate welfare, which represents the total utility of all households. Introducing an optimally designed CBDC always raises aggregate welfare in our framework, but this is far from a Pareto improvement: some households gain while others lose.
+3.3.1. The CBDC’s impact on different households
+Fig. 4 shows the welfare impact of introducing a CBDC across the distribution of household preferences h ∈ [0, 1].48 The
+blue line depicts the impact of a non interest-bearing CBDC.
+To begin with, households with payment preferences closest to deposits (i.e., low h) remain as deposit users after the introduction of a CBDC. These households are impacted by the introduction of a CBDC through its negative effects on ﬁnancial
+intermediation, as well as its positive effects on bank deposit rates. On the one hand, the decline in ﬁnancial intermediation
+reduces total production and therefore proﬁt transfers, π , from ﬁrms. On the other hand, CBDC competition with bank deposits drives up deposit rates, rd . Overall, the latter effect dominates and the introduction of a CBDC raises the consumption,
+and hence the welfare, of all deposit users.
+At the other end of the spectrum, households with a strong preference for anonymity (i.e., high h) continue to use
+cash. CBDC impacts the welfare of these households through consumption. Since cash does not pay interest, the decline
+in ﬁrm proﬁts π brings about a decline in consumption and welfare for these households. If instead the CBDC instigates
+network effects on cash and drives it out of use, these households suffer from a further decline in welfare due to the loss
+of their preferred payment instrument. The extent of their welfare loss then becomes proportionate to their preference for
+anonymity, as depicted by the dashed blue line.
+Households that switch from deposits to CBDC experience a net welfare gain from the introduction of the CBDC, since
+otherwise they would have continued to use deposits. In other words, by virtue of optimality, these households only switch
+to CBDC if the gains in terms of payment preferences outweighs the loss of interest payments rd . The household with
+preference h = θ experiences the greatest increase in welfare. For households that marginally prefer CBDC to cash, the net
+welfare effect is negative, since CBDC holders also suffer from a fall in consumption
+  due to reduced ﬁrm proﬁts.
+Overall, we can deﬁne a boundary household, h, such that households h ∈ 0, h gain from the introduction of a CBDC and
+
+
+
+
+
+households h ∈ h, 1 lose, where the gains of the former group more than offset the losses of the latter in the aggregate. The
+fact that depositors emerge as winners and cash holders as losers hints at a potentially regressive impact of a CBDC. In our
+48
+
+See Appendix B for the underlying derivations.
+75
+
+I. Agur, A. Ari and G. Dell’Ariccia
+
+Journal of Monetary Economics 125 (2022) 62–79
+
+analysis, all households have identical endowments. In practice, however, households that primarily conduct their payments
+with cash tend to have lower income, while higher income households more often rely on deposit-based payments.
+The red line in Fig. 4 shows the welfare impact of an interest-bearing CBDC with slightly negative CBDC rates as per
+the optimal design prescribed in Section 3.2. Three factors determine the impact of negative CBDC rates here. First, the
+revenues from negative CBDC rates are transferred lump-sum to all households, which effectively redistributes welfare gains
+from CBDC users to cash and deposit users. Second, since negative CBDC rates increase deposits and ﬁnancial intermediation,
+ﬁrm proﬁts π rise, which beneﬁts all households, while deposit rates rd decrease, hurting depositors. However, the second
+effect is dominated by the ﬁrst, in that overall CBDC users lose out and deposit and cash users gain from the CBDC rate cut.
+Third, when CBDC rates prevent cash from going out of use, they stave off large welfare losses for cash holders from the
+loss of a preferred payment instrument.
+3.3.2. Fiscal transfers and Pareto improvement
+Since the introduction of a CBDC raises aggregate welfare but lowers the welfare of some households, a social planner could use lump sum taxes and subsidies to try and ensure that all households are better off from the CBDC. This is
+straightforward to accomplish if the social planner is capable of conditioning transfers on household preferences. However,
+in practice, the planner is unlikely to know individual household preferences. Instead, the planner might be able to observe
+households’ selected payment instruments, for example from the way that households choose to pay their taxes.
+We show that the social planner cannot make the introduction of a CBDC into a Pareto improvement by conditioning
+transfers on observed modes of household payments. The planner is well placed to redistribute between payment categories
+in which all households have become better off or worse off due to the CBDC. Indeed, households that continue using
+deposits are all better off, whereas households that continue using cash are all worse off, and therefore the planner could
+potentially redistribute gains from one group to the other. But households that switch to using CBDC do not all experience
+the same welfare effect. As discussed above, h is within the part of the spectrum where households switch to CBDC, meaning
+that some of those households are better off, while some are worse off. Therefore, the only way that the planner could
+achieve the desired Pareto improvement is by compensating all CBDC users suﬃciently that the least well off CBDC user is
+as well off as before the introduction of the CBDC. That is, deposit users would have to be taxed enough to achieve this, and
+to compensate cash users, without being taxed so heavily that they are themselves worse off than before the introduction
+of a CBDC. We show in Appendix B.4 that this is not possible.
+In sum, because part of the welfare gain from the introduction of a CBDC is captured by a subset of households that
+switch to using CBDC, and the social planner cannot differentiate these from other households that switch to using CBDC, a
+transfer mechanism to make everyone better off from the introduction of a CBDC cannot be engineered.49
+4. Conclusion
+As central banks across the world weigh the introduction of a digital currency, the implications of a CBDC for money
+demand and ﬁnancial intermediation are coming to the fore. This paper relates the effects on cash, deposits and bank
+intermediation to two key design choices involved in developing a CBDC: the degree to which the CBDC resembles cash,
+and whether it bears interest. In our framework, the social value of the CBDC comes from the fact that it can bring some
+of the anonymity of cash into the digital realm. The demand for digital payment privacy is already a major issue in some
+jurisdictions, and is likely to gain increased prominence globally with the spread of ﬁntech and companies’ ability to parse
+transaction data for their own gain.
+The CBDCs currently under consideration are mostly of a non interest-bearing type. Analyzing the optimal design of a
+non interest-bearing CBDC exposes a challenging welfare tradeoff for the central bank. On the one hand, a cash-like CBDC
+risks reducing the demand for cash below the critical mass where ATMs become sparser and fewer shops accept cash,
+placing at risk the variety of payment instruments that is valuable to households with diverse needs.50 On the other hand,
+if the central bank makes a CBDC more similar to deposits, the banks’ deposit base can come under threat, with negative
+implications for credit provision and output, especially if banks have a signiﬁcant role in alleviating lending frictions.
+Overall, in an economy where the banks’ role is limited, a CBDC is best designed in a manner that is as distinct from
+existing payment instruments as possible. Greater focus on preserving bank intermediation instead drives the optimal design
+of a CBDC to be more cash-like, but only up to a point: concerns that cash may fall prey to network effects gives the central
+bank cause to limit the extent to which CBDC competes against cash. Only when conserving banks’ deposit base becomes
+the overarching concern does the central bank give up on cash, and optimal policy then jumps towards a more cash-like
+CBDC.
+When network effects matter, an interest-bearing CBDC helps the central bank alleviate these tradeoffs. Moving the CBDC
+interest rate away from zero causes welfare losses as it creates price distortions in households’ choice between payment
+instruments. As long as network effects do not hold sway, the central bank thus shies away from varying the CBDC interest
+49
+Note that tax distortions (i.e., if households know in advance that redistributions based on their means of payment choice will lead to transfers) could
+further complicate the social planner’s task. But even abstracting from this (i.e., assuming no such foreknowledge on households’ part), as we do here, does
+not suﬃce to make the Pareto improvement feasible.
+50
+In remarks delivered on March 18, 2021, Federal Reserve Chair Powell emphasized the importance of ensuring that cash and CBDC would co-exist.
+
+76
+
+I. Agur, A. Ari and G. Dell’Ariccia
+
+Journal of Monetary Economics 125 (2022) 62–79
+
+rate. Therefore, in a world where network effects have no material impact, nothing is lost by limiting CBDC design to non
+interest-bearing CBDCs. However, when network effects pose a threat to the variety of payment instruments, an interestbearing CBDC becomes optimal. Notably, provided households care enough about payment variety, the CBDC interest rate
+can be used to ensure that cash remains in use. That is, an optimally designed interest-bearing CBDC meets the aims of
+safeguarding bank intermediation and protecting the trio of payment instruments against network effects, irrespective of
+the role of ﬁnancial frictions in the economy.
+This ﬁnding provides an economic counterweight to the political economy considerations that may otherwise drive central banks to opt for a non interest-bearing CBDC, such as concerns about the possibility of negative rates on publicly accessible central bank liabilities. At this early stage, when CBDCs are still in the laboratory, central banks may want to at least
+keep an eye on the inclusion of an adjustable CBDC interest rate, weighing its beneﬁts against possible political economy
+costs.
+Arguably, a key impetus for the development of CBDCs has come from the rising prominence of private digital currencies
+and modes of payment, including those provided or proposed by BigTechs. Understanding how CBDC and private digital
+currencies may compete with each other is therefore an important avenue for future research. Our framework seems well
+suited for this task because of its ability to accommodate multiple differentiated currencies. Appendix E takes a ﬁrst step
+towards such an analysis by introducing and solving the proﬁt-maximizing design problem of a private digital currency
+provider and highlighting how it differs from the socially optimal design. Future work could build on this in two respects.
+First, our extension sets an exogenous value for payment data acquisition for the private digital currency provider and a
+next step would be to establish microfoundations for this. Second, competition between digital currencies and a CBDC could
+be investigated under various assumptions on market structure and the timing of entry, such as simultaneous introduction
+of a CBDC and private digital currency or a ﬁrst-mover advantage for either.
+Declaration of Competing Interest
+No.
+Supplementary material
+Supplementary material associated with this article can be found in the online version at doi:10.1016/j.jmoneco.2021.05.
+002.
+References
+Agarwal, R., Kimball, M., 2015. Breaking Through the Zero Lower Bound. IMF Working Papers 15/224. International Monetary Fund. https://ideas.repec.org/
+p/imf/imfwpa/2015-224.html.
+Agarwal, R., Kimball, M., 2019. Enabling Deep Negative Rates to Fight Recessions: A Guide. IMF Working Papers 19/84. International Monetary Fund. https:
+//ideas.repec.org/p/imf/imfwpa/2019-084.html.
+Alvarez, F., Argente, D., Jimenez, R., Lippi, F., 2022. Cash: A Blessing or a curse? J. Monet. Econ. This Issue.
+Andolfatto, D., 2021. Assessing the impact of central bank digital currency on private banks. Econ. J. 131 (634), 525–540. doi:10.1093/ej/ueaa073.
+Armelius, H., Claussen, C.A., Hendry, S., 2020. Is central bank currency fundamental to the monetary system? Sveriges Riksbank Economic Review 2020:2.
+Sveriges Riksbank.
+Armelius, H., Guibourg, G., Levin, A.T., Söderberg, G., 2020. The rationale for issuing e-krona in the digital era. Sveriges Riksbank Economic Review 2020:2.
+Sveriges Riksbank.
+Assenmacher, K., Krogstrup, S., 2021. Monetary policy with negative interest rates: de-linking cash from digital money. Int. J. Central Bank. 17 (1), 67–106.
+https://www.ijcb.org/journal/ijcb21q1a3.pdf.
+Auer, R., Cornelli, G., Frost, J., 2020. The Rise of Central Bank Digital Currencies: Drivers, Approaches and Technologies. BIS Working Papers 880. Bank for
+International Settlements.
+Aymanns, C., Dewatripont, M., Roukny, T., 2020. Vertically disintegrated platforms. Proceedings of the 21st ACM Conference on Economics and Computation,
+p. 609
+Bank for International Settlements, 2018. Central Bank Digital Currencies. Technical Report. Basel Committee on Payments and Market Infrastructures.
+https://www.bis.org/cpmi/publ/d174.htm.
+Barrdear, J., Kumhof, M., 2021. The macroeconomics of central bank digital currencies. Journal of Economic Dynamics and Control. In Press. https://doi.org/
+10.1016/j.jedc.2021.104148.
+Bech, M.L., Garratt, R., 2017. Central bank cryptocurrencies. BIS Q. Rev. https://ideas.repec.org/a/bis/bisqtr/1709f.html.
+Bergara, M., Ponce, J., 2018. Central bank digital currencies: the uruguayan e-peso case. In: Masciandaro, D., Gnan, E. (Eds.), Do we need central bank digital
+currency? Economic, technology and institutions. SUERF Conference Volume.
+Biais, B., Bisière, C., Bouvard, M., Casamatta, C., 2019. The blockchain folk theorem. Rev. Financ. Stud. 32 (5), 1662–1715. https://ideas.repec.org/a/oup/rﬁnst/
+v32y2019i5p1662-1715..hml.
+Biais, B., Bisière, C., Bouvard, M., Casamatta, C., Menkveld, A.J., 2018. Equilibrium Bitcoin Pricing. TSE Working Papers 18–973. Toulouse School of Economics
+(TSE). https://ideas.repec.org/p/tse/wpaper/33141.html.
+Bjerg, O., 2017. Designing New Money - The Policy Trilemma of Central Bank Digital Currency. CBS Working Paper, June 2017.
+Boar, C., Wehrli, A., 2021. Ready, Steady, Go? Results of the Third BIS Survey on Central Bank Digital Currency. BIS Papers 114. Bank for International
+Settlements. https://www.bis.org/publ/bppdf/bispap114.pdf.
+Bolt, W., Van Oordt, M.R.C., 2020. On the value of virtual currencies. J. Money Cred. Bank. 52 (4), 835–862. doi:10.1111/jmcb.12619. https://onlinelibrary.
+wiley.com/doi/pdf/10.1111/jmcb.12619.
+Bordo, M.D., Levin, A.T., 2017. Central Bank Digital Currency and the Future of Monetary Policy. NBER Working Papers 23711. National Bureau of Economic
+Research. https://ideas.repec.org/p/nbr/nberwo/23711.html.
+Borgonovo, E., Caselli, S., Cillo, A., Masciandaro, D., 2018. Between Cash, Deposit and Bitcoin: Would We Like a Central Bank Digital Currency? Money
+Demand and Experimental Economics. Working Papers 1875. BAFFI CAREFIN. https://ideas.repec.org/p/baf/cbafwp/cbafwp1875.html.
+Borgonovo, E., Caselli, S., Cillo, A., Masciandaro, D., Rabitti, G., 2019. Privacy and Money: It Matters. Research Paper 2019-108. BAFFI CAREFIN Centre.
+77
+
+I. Agur, A. Ari and G. Dell’Ariccia
+
+Journal of Monetary Economics 125 (2022) 62–79
+
+Böser, F., Gersbach, H., 2020. Monetary Policy with a Central Bank Digital Currency: The Short and the Long Term. CEPR Discussion Paper 15322. Centre for
+Economic Policy Research.
+Bossu, W., Itatani, M., Margulis, C., Rossi, A., Weenink, H., Yoshinaga, A., 2020. Legal Aspects of Central Bank Digital Currency: Central Bank and Monetary
+Law Considerations. IMF Working Papers 20/254. International Monetary Fund.
+Bounie, D., François, A., Van Hove, L., 2017. Consumer payment preferences, network externalities, and merchant card acceptance: an empirical investigation.
+Rev. Ind. Organ. 51 (3), 257–290. doi:10.1007/s11151- 016- 9543- y. https://ideas.repec.org/a/kap/revind/v51y2017i3d10.1007_s11151- 016- 9543- y.html.
+Brunnermeier, M.K., Niepelt, D., 2019. On the equivalence of private and public money. J. Monet Econ. 106, 27–41. doi:10.1016/j.jmoneco.2019.07.004. http:
+//www.sciencedirect.com/science/article/pii/S0304393219301229.
+Chakravorti, S., 2010. Externalities in payment card networks: theory and evidence. Rev. Netw. Econ. 9 (2), 1–28. https://ideas.repec.org/a/bpj/rneart/
+v9y2010i2n3.html.
+Chiu, J., Davoodalhosseini, M., Jiang, J.H., Zhu, Y., 2019. Bank Market Power and Central Bank Digital Currency: Theory and Quantitative Assessment. Bank
+of Canada Staff Working Paper 19–20. Bank of Canada. https://ideas.repec.org/p/bca/bocawp/19-20.html.
+Chodorow-Reich, G., Gopinath, G., Mishra, P., Narayanan, A., 2020. Cash and the economy: evidence from India’s demonetization. Q. J. Econ. 135 (1), 57–103.
+doi:10.1093/qje/qjz027. https://academic.oup.com/qje/article-pdf/135/1/57/32526140/qjz027.pdf.
+Van der Cruijsen, C., Knoben, J., 2021. Ctrl+C Ctrl+Pay: do people mirror electronic payment behavior of their peers? J. Financ. Serv. Res. 59 (1), 69–96.
+doi:10.1007/s10693- 020- 00345- 6.
+Cukierman, A., 2020. Welfare and political economy aspects of a central bank digital currency. Manches. Sch. 88 (S1), 114–125. doi:10.1111/manc.12333.
+Davoodalhosseini, M., 2021. Central bank digital currency and monetary policy. J. Econ. Dyn. Control Forthcoming.
+Diamond, D.W., Rajan, R.G., 2001. Liquidity risk, liquidity creation, and ﬁnancial fragility: a theory of banking. J. Polit. Econ. 109 (2), 287–327. https:
+//ideas.repec.org/a/ucp/jpolec/v109y2001i2p287-327.html.
+Donaldson, J.R., Piacentino, G., Thakor, A., 2018. Warehouse banking. J. Financ. Econ. 129 (2), 250–267. doi:10.1016/j.jﬁneco.2018.04.011. http://www.
+sciencedirect.com/science/article/pii/S0304405X18301107.
+Ebner, T., Nellen, T., Tenhofen, J., 2021. The Rise of Digital Watchers. SNB Working Papers 1/2021. Swiss National Bank.
+Engert, W., Fung, B., 2017. Central Bank Digital Currency: Motivations and Implications. Bank of Canada Discussion Papers 17-16. Bank of Canada. https:
+//ideas.repec.org/p/bca/bocadp/17-16.html.
+Engert, W., Fung, B., Hendry, S., 2018. Is a Cashless Society Problematic? Bank of Canada Discussion Papers 18-12. Bank of Canada. https://ideas.repec.org/
+p/bca/bocadp/18-12.html.
+European Central Bank, 2019. Exploring Anonymity in Central Bank Digital Currencies. In Focus, Issue no. 4. European Central Bank. https://www.ecb.europa.
+eu/paym/intro/publications/pdf/ecb.mipinfocus191217.en.pdf.
+European Central Bank, 2021. Eurosystem Report on the Public Consultation on a Digital Euro. Technical Report. European Central Bank. https://www.ecb.
+europa.eu/paym/digital_euro/html/pubcon.en.html.
+Fernández-Villaverde, J., Sanches, D., Schilling, L., Uhlig, H., 2021. Central bank digital currency: central banking for all? Rev. Econ. Dyn. In Press. doi:10.
+1016/j.red.2020.12.004. https://www.sciencedirect.com/science/article/pii/S1094202520301150.
+Garratt, R.J., Van Oordt, M.R.C., 2021. Privacy as a public good: A Case for electronic cash. J. Polit. Econ. Forthcoming.
+George, A., Xie, T., Alba, J. D. A., 2020. Central Bank Digital Currency with Adjustable Interest Rate in Small Open Economies. SSRN Electronic Journal.
+Goldfeder, S., Kalodner, H., Reisman, D., Narayanan, A., 2018. When the cookie meets the blockchain: privacy risks of web payments via cryptocurrencies.
+Proc. Priv. Enhanc. Technol. 2018 (4), 179–199. doi:10.1515/popets- 2018- 0038. https://content.sciendo.com/view/journals/popets/2018/4/article- p179.
+xml.
+Goodfriend, M., 2016. The Case for Unencumbering Interest Rate Policy at the Zero Lower Bound. Paper presented at the August 2016, Jackson Hole Conference.
+Gopinath, G., Stein, J.C., 2018. Banking, Trade, and the Making of a Dominant Currency. NBER Working Paper 24485. National Bureau of Economic Research.
+10.3386/w24485.
+Hauswald, R., Marquez, R., 2006. Competition and strategic information acquisition in credit markets. Rev. Financ. Stud. 19 (3), 967–10 0 0. doi:10.1093/rfs/
+hhj021. https://academic.oup.com/rfs/article-pdf/19/3/967/24421698/hhj021.pdf.
+Hotelling, H., 1929. Stability in competition. Econ. J. 39 (153), 41–57. doi:10.2307/2224214.
+Huynh, K.P., Molnar, J., Shcherbakov, O., Yu, Q., 2020. Demand for Payment Services and Consumer Welfare: The Introduction of a Central Bank Digital
+Currency. Bank of Canada Staff Working Paper 2020-07. Bank of Canada.
+International Monetary Fund, 2020. Digital Money Across Borders: Macro-Financial Implications. IMF Policy Paper 2020/050, International Monetary Fund.
+Jiang, J., Zhu, Y., 2021. Monetary Policy Pass-Through with Central Bank Digital Currency. Bank of Canada Staff Working Paper 2021-10. Bank of Canada.
+Kahn, C.M., McAndrews, J., Roberds, W., 2005. Money is privacy. Int. Econ. Rev. 46 (2), 377–399. doi:10.1111/j.1468-2354.20 05.0 0323.x.
+Kahn, C.M., Rivadeneyra, F., Wong, T.-N., 2020. Should the central bank issue e-money? J. Financ. Market Infrastruct. 8 (4), 1–22. doi:10.21314/JFMI.2019.117.
+Kahn, C.M., Rivadeneyra, F., Wong, T.-N., 2021. Eggs in One Basket: Security and Convenience of Digital Currencies. Bank of Canada Staff Working Papers
+2021-6. Bank of Canada.
+Katz, M.L., Shapiro, C., 1985. Network externalities, competition, and compatibility. Am. Econ. Rev. 75 (3), 424–440. http://www.jstor.org/stable/1814809.
+Keister, T., Sanches, D.R., 2019. Should Central Banks Issue Digital Currency? Working Papers 19–26. Federal Reserve Bank of Philadelphia doi:10.21799/frbp.
+wp.2019.26. https://ideas.repec.org/p/ﬁp/fedpwp/19-26.html.
+Kiff, J., Alwazir, J., Davidovic, S., Farias, A., Khan, A., Khiaonarong, T., Malaika, M., Monroe, H., Sugimoto, N., Tourpe, H., Zhou, P., 2020. A Survey of Research
+on Retail Central Bank Digital Currency. IMF Working Papers 20/104, International Monetary Fund.
+Krugman, P., 1979. Increasing returns, monopolistic competition, and international trade. J. Int. Econ. 9 (4), 469–479. https://EconPapers.repec.org/RePEc:
+eee:inecon:v:9:y:1979:i:4:p:469-479.
+Lagarde, C., 2018. Winds of change: the case for a new digital currency. Remarks at the Singapore Fintech Festival.
+Lilley, A., Rogoff, K., 2020. The case for implementing effective negative interest rate policy. In: Cochrane, J.H., Taylor, J.B. (Eds.), Strategies for Monetary
+Policy. Hoover Institution Press.
+Mancini-Griffoli, T., Martinez Peria, M.S., Agur, I., Ari, A., Kiff, J., Popescu, A., Rochon, C., 2018. Casting light on central bank digital currencies. IMF Staff
+Discussion Notes 18/08. International Monetary Fund. https://ideas.repec.org/p/imf/imfsdn/2018-008.html.
+Masciandaro, D., 2018. Central bank digital cash and cryptocurrencies: insights from a new Baumol Friedman demand for money. Aust. Econ. Rev. 51 (4),
+540–550. doi:10.1111/1467-8462.12304.
+McAndrews, J., 2017. The Case for Cash. ADBI Working Paper 679. Asian Development Bank Institute.
+Meaning, J., Dyson, B., Barker, J., Clayton, E., 2018. Broadening Narrow Money: Monetary Policy with a Central Bank Digital Currency. Bank of England
+Working Paper 724. Bank of England. https://ideas.repec.org/p/boe/boeewp/0724.html.
+Mehl, A., Stracca, L., Ferrari, M., 2020. Central Bank Digital Currency in an Open Economy. ECB Working Paper Series 2488. European Central Bank.
+Merrouche, O., Nier, E., 2012. Payment systems, inside money and ﬁnancial intermediation. J. Financ. Intermed. 21 (3), 359–382. doi:10.1016/j.jﬁ.2012.01.002.
+https://ideas.repec.org/a/eee/jﬁnin/v21y2012i3p359-382.html.
+Niepelt, D., 2020. Reserves for all? central bank digital currency, deposits, and their (non)-equivalence. Int. J. Central Bank. 16 (3), 211–238. https://www.
+ijcb.org/journal/ijcb20q2a6.htm.
+Oh, E.Y., Zhang, S., 2020. Central Bank Digital Currency and Informal Economy. Working Papers in Economics and Finance 2020-11. University of Portsmouth.
+Parlour, C.A., Rajan, U., Walden, J., 2021. Payment system externalities. J. Finance Forthcoming.
+Rochet, J.-C., Tirole, J., 2006. Externalities and regulation in card payment systems. Rev. Netw. Econ. 5 (1), 1–14. https://ideas.repec.org/a/bpj/rneart/
+v5y2006i1n1.html.
+
+78
+
+I. Agur, A. Ari and G. Dell’Ariccia
+
+Journal of Monetary Economics 125 (2022) 62–79
+
+Rogoff, K., 2016. The curse of cash. Princeton University Press. https://EconPapers.repec.org/RePEc:pup:pbooks:10798.
+Salop, S.C., 1979. Monopolistic competition with outside goods. Bell J. Econom. 10 (1), 141–156. https://EconPapers.repec.org/RePEc:rje:bellje:v:10:y:1979:i:
+spring:p:141-156.
+Schmalensee, R., 1978. Entry deterrence in the ready-to-eat breakfast cereal industry. Bell J. Econ. 9 (2), 305–327. https://ideas.repec.org/a/rje/bellje/
+v9y1978iautumnp305-327.html.
+Shy, O., 2021. Cashless stores and cash users. J. Policy Model. Forthcoming. doi:10.1016/j.jpolmod.2021.02.001. https://www.sciencedirect.com/science/article/
+pii/S01618938210 0 0 053.
+Skeie, D. R., 2019. Digital Currency Runs. SSRN Electronic Journal. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3294313.
+Stein, J.C., 2012. Monetary policy as ﬁnancial stability regulation. Q. J. Econ. 127 (1), 57. doi:10.1093/qje/qjr054.
+Stokes, D.E., 1963. Spatial models of party competition. Am. Polit. Sci. Rev. 57 (2), 368–377. doi:10.2307/1952828.
+Sveriges Riksbank, 2017. Central Bank Digital Currencies. Technical Report. Sveriges Riksbank.
+Sveriges Riksbank, 2018. The Riksbank’s E-Krona Project. Technical Report. Sveriges Riksbank.
+Wakamori, N., Welte, A., 2017. Why do shoppers use cash? evidence from shopping diary data. J. Money Credit Bank. 49 (1), 115–169. doi:10.1111/jmcb.
+12379.
+Wright, R., Tekin, E., Topalli, V., McClellan, C., Dickinson, T., Rosenfeld, R., 2017. Less cash, less crime: evidence from the electronic beneﬁt transfer program.
+J. Law Econ. 60 (2), 361–383. https://ideas.repec.org/a/ucp/jlawec/doi10.1086-693745.html.
+
+79
+
+

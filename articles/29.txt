@@ -1,0 +1,1876 @@
+International Journal of Political Economy
+
+ISSN: 0891-1916 (Print) 1558-0970 (Online) Journal homepage: https://www.tandfonline.com/loi/mijp20
+
+Central Bank Digital Currency: Financial System
+Implications and Control
+Ulrich Bindseil
+To cite this article: Ulrich Bindseil (2019) Central Bank Digital Currency: Financial System
+Implications and Control, International Journal of Political Economy, 48:4, 303-335, DOI:
+10.1080/08911916.2019.1693160
+To link to this article: https://doi.org/10.1080/08911916.2019.1693160
+
+Published online: 06 Jan 2020.
+
+Submit your article to this journal
+
+Article views: 4259
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 1 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=mijp20
+
+International Journal of Political Economy, 48: 303–335, 2019
+# 2019 Taylor & Francis Group, LLC
+ISSN: 0891-1916 print/1558-0970 online
+DOI: 10.1080/08911916.2019.1693160
+
+Central Bank Digital Currency: Financial System
+Implications and Control
+Ulrich Bindseil
+Directorate General Market Infrastructures and Payment Systems, European Central Bank
+Abstract: IT progress and its application to the financial industry have inspired central banks and
+academics to reflect about the merits of central bank digital currencies (CBDC) accessible to the
+broad public. This paper first briefly recalls the advantages that have been associated with
+CBDC and reviews some relevant background from the history of the issuance of different forms
+of central bank money. It then discusses two key arguments against CBDC, namely (i) risk of
+structural disintermediation of banks and centralization of the credit allocation process within the
+central bank and (ii) risk of facilitation systemic runs on banks in crisis situations. The paper
+proposes as solution a two-tier remuneration of CBDC, as a tested and simple tool to control the
+quantity of CBDC both in normal and crisis times. It is, however, also acknowledged that controlling the quantity of CBDC is not necessarily sufficient to control its impact on the financial
+system. Finally, the paper compares the financial account implications of CBDC with the one of
+crypto assets, stable coins, and narrow bank digital money, noting the similarity and differences
+in terms of implications on the financial system. It is concluded that well-controlled CBDC
+seems feasible, without this implying that CBDC would not catalyze change in the financial system.
+Keywords central bank digital currencies; central banks; financial instability; financial accounts
+JEL Classifications E3; E5; G1
+
+INTRODUCTION
+Both academics and central banks have recently started to analyze merits and dangers of
+introducing central bank digital currencies (CBDC), i.e., some form of central bank money
+handled through electronic means and accessible to the broad public.1 CBDC could therefore
+be considered a third form of base money, next to (i) overnight deposits with the central
+bank, currently available only to banks, specific non-bank financial firms, and some official
+sector depositors; (ii) banknotes, being universally accessible but arguably of limited efficiency and relying on old technology. Some publications distinguish the case of “wholesale”
+and “general purpose” CBDC, the former being only accessible to certain firms, while the
+latter universally accessible to all households. This article discusses general purpose CBDC,
+since wholesale CBDC is of more limited scope and does not really question the established
+Ulrich Bindseil is Director General Market Infrastructure & Payments at the European Central Bank.
+
+304
+
+INTERNATIONAL JOURNAL OF POLITICAL ECONOMY
+
+structure of the monetary base. General purpose CBDC could be implemented in two alternative technical formats:
+1. CBDC could be offered in the form of deposit accounts with the central bank to all
+households and corporates. From a technological perspective, this would not be very
+innovative, but just a matter of scaling the number of deposit accounts currently offered.
+Although scaling is not innovative per se, it may be technologically challenging. For
+example, in the case of the Eurosystem, the number of accounts could grow from around
+10,000 to some number between 300 and 500 million (all registered major inhabitants of
+the euro area, plus firms fulfilling some legal status and/or some minimum criteria on
+payment or economic activity). The actual servicing and technical maintenance of the
+accounts could be assigned to one or several third-party providers, to ensure efficiency
+and to avoid that the (presumably somewhat less efficient) public sector takes over more
+tasks than needed. The accounts could offer the usual access- and payment functionality
+of sight deposit accounts with banks, including internet- and app-based solutions.
+Commercial banks would provide the service to exchange bank deposits against CBDC
+and banknotes, charging a competitive fee (similarly to ATM fees today).
+2. Alternatively, the central bank could offer a digital token currency that would circulate
+in a decentralized way without central ledger. This is often associated with anonymity,
+i.e. meaning that the central bank would not know who currently holds the issued tokens
+(like in the case of banknotes).
+Deposit based CBDC seems simpler and can obviously be made effective against money
+laundering and other illicit uses (Berentsen and Sch€ar 2018). It also seems to allow for a
+high security and control of the circulating amount of CBDC base money, without this
+requiring complex and/or computationally intensive solutions.2 One might argue that if banknotes would no longer be generally accepted in retail payments (assume that neither consumers nor retailers would want to continue using banknotes), a token CBDC could be nice to
+have as it could allow to preserve anonymous payments (e.g., H€aring 2018, strongly advocates the anonymity of payments). However, others will find the arguments for anonymous
+payments with token money more difficult to understand, or will argue that a more proportionate solution would consist in a sufficient protection of electronic payments data.
+A number of quite diverse benefits of CBDC have been put forward in the literature, as
+summarized in Table 1 (see also e.g., Engert and Fung 2017; Mancini-Griffoli et al. 2018)).
+The table also explains (in the last column) under what possible further conditions the
+respective advantage would actually materialize, or be particularly strong. Most of the proposed advantages are subject to controversial debate in the literature.
+Consider these possible arguments in favor of CBDC in more detail below.
+Efficient Retail Payments
+CBDC offers a number of advantages with regards to the convenience, efficiency, stability
+and accessibility of retail payment. While electronic payments with all their efficiency gains
+
+WINTER 2019
+
+305
+
+TABLE 1
+Overview of benefits that some have associated with CBDC, and related factors or requirements
+Benefit of CBDC
+
+Possible further factors or requirements
+
+A. Efficient retail payments
+A.1 Making available efficient, secure and modern
+central bank money to everyone
+
+In particular in economies without high-quality
+electronic commercial bank money, and/or without a
+secure and efficient payment system
+A.2 Strengthening the resilience, availability and
+In particular in economies in which banknote demand
+contestability of retail payments
+vanishes and private electronic payments solutions
+lack competition
+B. Overcome use of banknotes for illicit payment and store of value
+B. Better control of illicit payment and saving
+Requires (i) discontinuation of banknotes (or at least of
+activities, money laundering, and
+larger denominations); (ii) CBDC to not take the
+terrorist financing
+form of anonymous token money
+C. Strengthen monetary policy
+C.1 Allows overcoming the ZLB as negative interest
+Requires discontinuation of banknotes (or at least of
+rates can be applied to CBDC
+larger denominations)
+C.2 Interest rates on CBDC provide for additional
+monetary policy instruments, independently
+of ZLB
+C.3 Easier ability to provide helicopter money
+Requires that each citizen has a CBDC account
+D. Sovereign money related
+D.1 Improve financial stability and reduce moral
+CBDC takes over to large or full extent sight deposit
+hazard of banks by downscaling the role of the
+issuance by banks
+banking system in money creation
+D.2 Larger seignorage income to state (and citizens)
+CBDC takes over to large or full extent sight deposit
+as state takes back money creation from banks.
+issuance by banks
+
+have been possible for some decades on the basis of commercial bank money, offering electronic payments directly in central bank money could have additional advantages. A comprehensive analysis of these justifications of CBDC can be found for example in Sveriges
+Riksbank’s (2018) second report on the e-krona project.
+In short, collapsing demand for cash in the absence of CBDC would imply that citizens
+would no longer have access to the central bank balance sheet. In that state of the world, trust
+in the currency would entirely depend on trust in financial intermediaries issuing and managing commercial money. The Riksbank concludes on the basis of its report that the “proposed
+focus of this programme should be on developing an e-krona that constitutes a prepaid value
+(electronic money) without interest and with traceable transactions”. Barontini and Holden
+(2019: 3–4) also report about a recently conducted pilot by the Central Bank of Uruguay,
+which would qualify as the most advanced and concrete CBDC experiment up to now, and
+which was part of a financial inclusion program.
+A number of arguments can thus be distinguished that strengthen the case of CBDC to
+support efficient retail payments: (i) vanishing demand for banknotes; (ii) unsatisfactory
+access of relevant shares of households to commercial banking system, which can occur both
+in least-developed countries (with a generally underdeveloped banking system) and countries
+
+306
+
+INTERNATIONAL JOURNAL OF POLITICAL ECONOMY
+
+with a relatively high income disparity, such as the US (Rogoff 2016); (iii) an unstable or
+overly concentrated retail payment infrastructure. The CBDC survey amongst central banks
+of Barontini and Holden (2019: 8) reports that for central banks, the four most popular reasons to consider CBDC are, in this order of importance, (1) payment safety; (2) payment efficiency; (3) financial stability and (4) financial inclusion. Only financial stability seems to fall
+out of the category A of arguments in favor of CBDC.
+Prevent Illicit Payment and Store of Value with Central Bank Money
+This argument, which assumes a discontinuation or at least strong reduction in the role of
+banknotes, is developed in most detail by e.g., Rogoff (2016). Obviously, this motivation of
+CBDC would not apply if CBDC circulate as anonymous token money even for high
+amounts. Some, like H€aring (2018), who are strongly pre-occupied with the privacy of payments and fear that internet retailers and state authorities use payments data to curb eventually the freedom of citizens, will not agree with this specific argument for CBDC.
+Allows Overcoming the ZLB as One May Impose Negative Interest Rates on CBDC
+For example, Dyson and Hodgson (2016) argue that “if digital cash is used to completely
+replace physical cash, this could allow interest rates to be pushed below the zero-lower
+bound.” Rogoff (2016) develops this argument in detail. By allowing to overcome the zerolower bound (“ZLB”) and therefore freeing negative interest rate policies (“NIRP”) of its current constraints, a world with only digital central bank money would allow for – according to
+this view – strong monetary stimulus in a sharp recession and/or financial crisis. This could
+not only avoid recession, unemployment, and/or deflation but also the need to take recourse
+to nonstandard monetary policy measures which have more negative side effects than NIRP.
+Opponents of NIRP will obviously dislike this argument in favor of CBDC, and will thus see
+CBDC potentially as an instrument to overcome previous limitations of “financial repression”
+and “expropriation” of the saver.
+Interest on CBDC Provides an Additional Monetary Policy Instrument
+Dyson and Hodgson (2016) consider that CBDC “widens the range of options for monetary
+policy: Implementing digital cash can allow new monetary policy tools to be used”.
+According to this view, varying interest rates of CBDC would provide for a new, nonredundant monetary policy instrument that would allow improving the overall effectiveness
+of monetary policy. This idea is developed further by Barrdear and Kumhof (2016: 3) who
+find that “a CBDC regime can contribute to the stabilization of the business cycle, by giving
+policymakers access to a second policy instrument that controls either the quantity or the
+price of CBDC in a countercyclical fashion. This second policy instrument becomes especially effective in response to shocks to private money demand and private money creation.”
+Meaning et al. (2018) also analyze how CBDC could enrich the monetary policy toolkit and
+
+WINTER 2019
+
+307
+
+how it would impact the transmission mechanism, and come to the conclusion that it would
+all depend on the details of the design of CBDC. Finally, Berentsen and Sch€ar (2018: 102)
+argue that interest on CBDC would simplify monetary policy as the “central bank would simply use the interest rate paid on these accounts as its main policy tool”. Mancini-Griffoli
+et al. (2018: 25) take the view that CBDC is unlikely to affect the main channels of monetary
+policy transmission, which is also the assumption taken here.
+Easier Ability to Provide Helicopter Money
+Again, Dyson and Hodgson (2016) argue that “digital cash can be used as a tool to increase
+aggregate demand by making ‘helicopter drops’ of newly created digital cash to all citizens,
+making it easier to meet the Bank of England’s monetary policy target of price stability.”
+Obviously, the relevance of this argument will only be shared by supporters of helicopter
+money. Moreover, it could be argued that it is a relatively weak argument as it only facilitates the distribution of helicopter money (but is no pre-condition).
+Improve Financial Stability and Reduce Moral Hazard by Downscaling Banks
+The arguments D1 and D2 in favor of CBDC relate to the vision that CBDC is a tool to
+make feasible the “sovereign money”3 idea, i.e., a monetary system in which banks would no
+longer “create” sight deposits and thus means of payment (Benes and Kumhof 2012; H€aring
+2018: 214–223, Mayer and Huber 2014). For example, Dyson and Hodgson (2016) consider
+that CBDC “can make the financial system safer: Allowing individuals, private sector companies, and non-bank financial institutions to settle directly in central bank money (rather
+than bank deposits) significantly reduces the concentration of liquidity and credit risk in payment systems. This, in turn, reduces the systemic importance of large banks and thereby
+reduces the negative externalities that the financial instability of banks has on society. In addition, by providing a genuinely risk-free alternative to bank deposits, a shift from bank deposits to digital cash reduces the need for government guarantees on deposits, eliminating a
+source of moral hazard from the financial system.” Huber (1999: 5–6), one of the key
+German supporters of “sovereign money” develops this perspective in detail.
+Seignorage Income Redirected to State (and Citizens)
+For example, Dyson and Hodgson argue that CBDC “can recapture a portion of seigniorage
+and address the decline of physical cash … ” Also e.g., Mayer and Huber (2014) give much
+prominence to the assumed fiscal advantages of sovereign money. They estimate that e.g., in
+the euro area annual additional state revenues would be in the order of magnitude of more
+than EUR 100 billion (assuming a pre-2008 interest rate level). Obviously, with the current
+low levels of interest rates, and the outlook on future interest rates as it is priced in yield
+curves, this argument has become rather irrelevant for the time being.
+
+308
+
+INTERNATIONAL JOURNAL OF POLITICAL ECONOMY
+
+Overall, one may conclude from reviewing the arguments in favor of CBDC that the merits of CBDC of type A, i.e., contribute to an efficient, resilient, accessible and contestable
+payment system seem relatively uncontroversial, without this per se being sufficient to justify
+CBDC. Argument B is more controversial, but this controversy seems to be outside the area
+of payment system efficiency, monetary and financial stability. Argument C1 will be shared
+by monetary economists who support NIRP, but will be disliked by those who consider
+NIRP a form of financial repression. Arguments C2 and C3 are likely to be rejected by the
+majority of professional monetary economists. Finally, the sovereign money arguments (D)
+are also overall controversial, and again the majority of monetary economists are likely to
+reject them. Moreover, as will be discussed in sections “The Structural Bank
+Disintermediation Issue” and “Bank runs into CBDC”, the disintermediation of the banking
+system has been considered as one of the major drawbacks and risks of CBDC.
+Therefore, to isolate the more obvious, humble case for CBDC which is likely to be
+shared by most economists, namely that it could serve as an efficient retail means of payment
+(Argument A) from the perceived danger that CBDC leads unintendedly to a sovereign
+money financial system (as it would boost so much the relative attractiveness of central bank
+money relative to bank deposits) it seems essential to be able to steer the issuance of CBDC
+in such a way that it serves the efficiency of retail payments, without necessarily putting into
+question the monetary order by making CBDC a major form of store of value.4 It will be
+argued in this article that such a steering is feasible, and with less fundamental change than
+inherent e.g., in the proposal of Kumhof and Noone (2018). The well-tested tool of tiered
+remuneration seems to be a way to ensure that the volume of CBDC will be well controlled.
+A system of financial accounts calibrated towards the euro area will illustrate the mechanics
+and implications of CBDC and will allow presenting flow of funds implications.
+The rest of this article proceeds as follows. Section “Lessons from the history of central
+bank monetary liabilities” recalls some relevant history of the issuance of different forms of
+central bank money. Section “The Structural Bank Disintermediation Issue” discusses what
+some consider as the major problem with CBDC, namely that CBDC would disintermediate
+in a structural way the banking system (being what sovereign money advocates would consider a major improvement for the financial system and society). Section “The Structural
+Bank Disintermediation Issue” also introduces the financial accounts framework that illustrates the impact of CBDC on the financial structure, which will be used in different variants
+throughout the paper.5 Section “Bank runs into CBDC” discusses the second danger associated with CBDC, namely that it would facilitate runs out of bank deposits into central bank
+money in financial crisis situations (i.e., not structural, but say “cyclical” disintermediation).
+Section “A two-tier remuneration system for CBDC” proposes a simple approach to the control of the quantity of CBDC through a tiered remuneration system. This would allow controlling the quantity of CBDC at a level such that the central bank balance sheet size could
+be kept broadly stable and significantly reduce the political constraints on controlling the
+quantity of CBDC through low or negative interest rates. Section “Bank disintermediation
+with low-volume CBDC?” analyzes to what extent controlling the quantity of CBDC would
+really imply at the same time neutrality of CBDC for the financial system. Section “Flow-of
+funds comparison of CBDC with private digital currencies” compares CBDC to private
+
+WINTER 2019
+
+309
+
+digital money initiatives in terms of the impact on the financial system. Section
+“Conclusions” concludes.
+
+LESSONS FROM THE HISTORY OF CENTRAL BANK MONETARY LIABILITIES
+Central banks have traditionally issued two main forms of liabilities: Deposits and banknotes.
+In addition, mixed forms such as certificates of deposits have been widely used in some places, such as in particular in Naples, where the fede di credito served a means to pay with
+deposits, without having to be present in the public bank. As reviewed e.g., in Roberds and
+Velde (2014), Ugolini (2017), or Bindseil (2019), the first public banks issuing means of
+payment, i.e., the earliest central banks, did so in the form of deposits, and not in the form of
+banknotes. Before the Stockholm Banco invented modern banknotes in 1661, there had been
+at least six large and successful early public central banks that successfully issued giro
+deposits, namely: the Taula de Canvi founded of Barcelona in 1401, the Casa San Giorgio of
+Genoa of 1407, the Banco di Rialto of Venice of 1587, the Bank of Amsterdam of 1609, the
+Hamburger Bank of 1619 and the Banco del Giro of Venice in 1619. Moreover, the Naples
+public banking system created in the 1580s also worked as a system of quasi-central banks
+with mutual recognition of their liabilities. These public banks granted the possibility to open
+deposit accounts in principle to anyone, partially subject to a minimum initial deposit. In this
+sense, they granted universal access to central bank liabilities (such as banknotes do, and
+such as CBDC would). However, in the absence of electronic remote access, reach was limited to those who could come to the bank to undertake their transactions physically there,
+and who had some wealth to deposit and to use for payments (whereby the fede di credito
+solved this problem to some extent – see below). For example, the Taula de Canvi of
+Barcelona would have had 1460 depositors in the year 1433 (Roberds and Velde 2014: 29).
+The Bank of Amsterdam had more than 2000 depositors between 1650 and 1790, with a
+peak close to 3000 in the first decades of the eighteenth century (Van Dillen 1934). Actually,
+there was no discrimination at that time between “households”, “corporates” and
+“commercial banks” with regards to access to central bank accounts. Most depositors were
+domestic and international merchants and other wealthy businessmen and families, including
+some who specialized in financial intermediation services. Early central banks also already
+acted systematically as the bank of the government, i.e., receiving the deposits of the government, and providing the accounts of the government being used for receiving tax and other
+payments and for making large payments e.g., to suppliers.
+Banknotes were a more universally accessible form of central bank liabilities as they were
+by definition transferable and “to the bearer”, i.e., everyone could receive them as means of
+payment, and could further use them to make payments to others. Banknotes were first issued
+by the Riksens St€anders Bank in 1661–1664, and then again by the Bank of England
+(founded in 1694) and the Bank of Scotland (founded in 1695). The Bank of Scotland would
+have been the first central bank issuing low-denomination banknotes almost from the beginning, i.e., which were also suitable for retail payments and thereby effectively granting universal access to central bank money. According to Saville (1996: 26), the Bank of Scotland
+
+310
+
+INTERNATIONAL JOURNAL OF POLITICAL ECONOMY
+
+issued 5- and 10 Pounds Scot notes as of 1700, and in 1704 started to issue 1 Pound Scots
+notes (with 12 Pound Scot being equal to 1 Pound Sterling). The Bank of England began
+issuing notes with fixed denominations only in 1725, the first such denomination having
+been £20. In 1759, notes for £10 and £15 were issued. The war with Napoleon led to the
+issue of banknotes for £5 in 1793 (Bank of England 1969: 212), corresponding to around
+523 g silver, i.e., still a very large value at that time.
+An intermediate form of central bank liabilities were the so-called fede di credito that
+were invented in the late sixteenth century by the Naples public banking system
+(Costabile and Nappi 2018). These were essentially certificates of deposits that could be
+used to settle financial claims in central bank deposit money without physical presence
+at the central bank. Payment via fede di credito may be considered an early form of
+today’s electronic payments via bank deposits – they relied on bank deposits and the
+associated booking in a central ledger, but payments could be done remotely. Of course,
+settlement modalities were different, as the transaction was only settled in the books of
+the public banks once a fede returned to the bank, which could take a long time. In the
+meantime, the relevant amount remained blocked on the account of the depositor who
+had paid with the fede di credito.
+Whether banknotes and deposits are of a fundamentally similar or different nature has
+been a heated issue of debate during the eighteenth and even more during the nineteenth century, whereby banknotes tended to be associated for a long time with higher risks in terms of
+tempting (central) banks to over-issue until they become illiquid and default. This view was
+inspired by examples such as the Stockholm Banco which had to be saved in 1664 and the
+Banque Royale of John Law, which failed in 1720. Reflecting this differentiation, for
+example Peel’s Act of 1844 constrained the ability of the Bank of England to issue banknotes, but not to issue deposits. The literature comes back to the topic again and again, like
+B€
+usch (1801: 4–6) and Dunbar (1906). Dunbar (1906: 243) is surprised that the act establishing the Reichsbank in 1875 makes such a difference in terms of imposing liquid reserves on
+banknotes, but not on deposit issuance:
+These restrictions seem to illustrate the exaggerated importance which is still ascribed to the
+issue of notes on the continent of Europe. Notes are still regarded as the one important factor in
+the phenomena which result from the operations of banks, and the essential similarity in most
+respects of notes and deposits is overlooked
+
+That notes were deemed more vulnerable to cause runs, especially as long as multiple noteissuing banks were competing, as it was the case in parts of the nineteenth century, may have
+been justified to some extent. The universal access to them (as also people physically remote to
+the issuing institution could hold banknotes) gave possibly more scope for an unstable demand.
+Still in 1924, the Dawes plan requested that the new Reichsbank statutes would foresee a precious metal reserve ratio for banknotes of one third, without constraining deposit issuance.
+Eventually, the concept of the monetary base, which sees banknotes and central bank deposits as
+fundamentally equivalent forms of money, conquered monetary economics as of the 1930s.
+Moreover, the switch to a paper standard after the end of the Bretton Woods system made the
+problem of over-issuance of central bank money less relevant, at least from the angle of
+
+311
+
+WINTER 2019
+
+TABLE 2
+Forms of central bank money in six early central bank balance sheets, averages for periods within
+1770–1811 (source: Bindseil 2019, which also contains the data sources)
+
+Bank of
+Amsterdam
+Time period
+Giro deposits
+issued/total BS
+Banknotes issued/
+total BS
+Banknotes/deposits
+
+Hamburger
+Bank
+
+Bank
+of England
+
+Riksens
+St€
+anders
+Bank
+
+Caisse
+d’Escompte
+
+Bank of the
+United States
+
+1.00
+
+1770–1800
+1.00
+0.12
+
+0.06
+
+1777–1792
+0.09
+
+1792–1811
+0.26
+
+0.00
+
+0.00
+
+0.33
+
+0.47
+
+0.41
+
+0.18
+
+0.00
+
+0.00
+
+2.75
+
+7.8
+
+4.6
+
+0.7
+
+TABLE 3
+€nder/Bundesbank: share of different types of depositors
+Reichsbank/Bank Deutscher La
+(Source: Reichsbank 1925; Deutsche Bundesbank 1976)
+
+1914
+1925
+1938
+1948
+1960
+1970
+
+Banks (%)
+
+Non-bank private (%)
+
+Public (%)
+
+39
+16
+53
+50
+81
+79
+
+16
+19
+40
+7
+1
+1
+
+45
+65
+7
+43
+18
+20
+
+convertibility. The table below provides an overview of which types of central bank liabilities
+(deposits or banknotes) were issued by some selected pre-1800 central banks, and of their relative relevance in the last decades of the eighteenth century (see Bindseil 2019; Table 2).
+It is noteworthy that deposits have not only been the original form of central bank money
+(sometimes including remote-access techniques, like the fede di credito of Naples), but that
+for a long time, the feeling has occasionally been expressed that banknotes might not be the
+ultimate form of central bank money either, but only a temporary one, that will be replaced
+again by deposits, being eventually superior. For example, in the words of Ulens (1908: 5):
+No-one is questioning today the advantages of fiduciary money; the advantages of replacing
+metallic money with it are universally accepted. That fiduciary money takes the form of
+banknotes … is far from being the last word of progress. Much more perfect will be the
+mechanism of exchange based on current account deposits. … But we are not yet there. … The
+love of gold for its own sake has been replaced by the love of the banknote for its own sake.
+
+The broad access to central bank deposits continued generally until the mid of the twentieth century. The following table provides evidence of the share of bank, non-bank private,
+and public overnight deposits with German twentieth century central banks. Bank deposits
+became clearly dominant only after WWII, while before, non-bank private deposits played a
+significant role. Non-bank private deposits were marginal as of the 1960s (Table 3).
+
+312
+
+INTERNATIONAL JOURNAL OF POLITICAL ECONOMY
+
+It would deserve a study on its own to review the decisions and justifications that led
+central banks to restrict more and more in the course of the twentieth century the access of
+non-banks to central bank accounts (such as in the case of the German central banks). De
+Kock (1939: 10) notes that
+As regards their business relations with customers other than Governments and banks, the range
+varied from the Bank of England, which by the end of the nineteenth century had already come
+to give up most of its commercial banking business and to deal mainly with operators in the
+money market, to the Banque de France, which had a large number of branches and conducted
+a large business with regular clients, including many small tradesmen all over the country.
+
+Moreover, De Kock (1939: 327–332) identifies it as one amongst four big trends in central banking at that time to restrict direct dealings with the public. He quotes various central
+bank laws of the 1930s, which restricted central banking business accordingly, although
+mostly he refers to lending operations of the central banks.
+From this review of practices over the last centuries, two key points can be retained for
+CBDC: First, deposits with unconstrained access for all types of depositors were the original
+form of central bank monetary liabilities, and neither banknotes, nor deposits restricted to
+commercial banks. Even some sort of remote use of deposits was practiced at a large scale
+starting in the 1580s in Naples in the form of the fede di credito. Since access to deposits
+was not constrained during the first centuries of central banking, any household or firm could
+open an account provided it deposited a possible minimum deposit amount. The current
+restriction of central bank deposits to banks (besides public deposits) was only implemented
+around 70 years ago. In this sense, it could be argued that moving to CBDC would be returning to the roots of central banking. Second, for a long time, i.e., from the Riksbank’s first
+unsustainable issuance of banknotes in 1661–1664, to at least the Dawes Plan of 1924, banknotes were considered the more dangerous form of central bank liabilities, compared with
+deposits. It is useful to remind these centuries-long controversial (and inconclusive) discussions about the relative dangers of different forms of central bank liabilities in the context of
+CBDC, which are also controversially discussed from the same angle. History in any case
+suggests caution and to avoid preempting the conclusion that CBDC would constitute a particularly dangerous central bank liability. At least, such a conclusion should not be reached
+before considering tools to control CBDC.
+
+THE STRUCTURAL BANK DISINTERMEDIATION ISSUE
+CBDC has both found support, and caused strong concerns, with regards to its impact on the
+structure and scale of bank intermediation. Advocates of “sovereign money” see bank disintermediation as precisely the goal of CBDC. Already Huber (1999: 18), an advocate of
+“sovereign money”, had correctly identified the financial account implications of central
+bank money replacing bank-issued sight deposits.
+Others have strongly rejected the idea of CBDC inflating the central bank balance sheet at
+the expense of deposit funding of banks. For example, Pollock (2018), in a testimony to the
+
+WINTER 2019
+
+313
+
+Subcommittee on Monetary Policy and Trade of the Committee on Financial Services United
+States House of Representatives, argues that CBDC would lead to various distortions precisely because of bank disintermediation. Accordingly, on one side the central bank would
+benefit from an unfair competitive advantage in deposit collection and amass undue power
+and market share (also likely misusing its regulatory powers to strengthen further its unfair
+advantages). On the other hand, it would have competitive disadvantages in credit provision,
+which it would however ignore, leading to inefficiency, conflicts of interest and financial
+losses that eventually the taxpayer would have to bear.
+CPMI-MC (2018: 2) also express somewhat similar concerns that structurally, CBDC
+could have negative effects on credit allocation and thereby economic efficiency:
+Introducing a CBDC could result in a wider presence of central banks in financial systems.
+This, in turn, could mean a greater role for central banks in allocating economic resources,
+which could entail overall economic losses should such entities be less efficient than the private
+sector in allocating resources. It could move central banks into uncharted territory and could
+also lead to greater political interference.
+
+Carstens (2019) reiterates such worries (see also Mancini-Griffoli et al 2018: 21–24).
+Finally, CPMI-MC (2018: 2) emphasizes the cross-border issues that CBDC may create.
+Indeed, also for banknotes, foreign demand has been a major factor in recent decades (e.g.,
+Jobst and Stix 2017). CBDC, if offered in the same perfectly elastic way as banknotes, could
+facilitate further the cross-border access to central bank money:
+For currencies that are widely used in cross-border transactions, all the considerations outlined
+above would apply with added force, especially during times of generalized flight to safety. The
+introduction of a CBDC in one jurisdiction could adversely affect others. Central banks that
+have introduced or are seeking to introduce a CBDC should consider cross-border issues
+where relevant.
+
+The creation of CBDC is captured in a financial account system shown below in Figure 1,
+which very broadly replicates the euro area financial accounts as of Q2 2018 (as provided in
+the ECB Statistics Warehouse or the ECB Economic Bulletin). The accounts are simplified
+in particular with regards to netting and that the non-bank financial sectors (OFIs and ICPFs,
+i.e., “other financial institutions” and “insurance companies and pension funds”) have been
+left aside, or been broadly integrated into the household sector. Also, the ECB’s asset purchase program is not reflected.
+If households substitute banknotes with CBDC, then central bank and commercial bank
+balance sheets do not really change. However, if households substitute commercial bank
+deposits with CBDC, then this would imply a funding loss for commercial banks and could
+lead to “disintermediation” of the banking sector. In particular, sight deposits with low remuneration could be expected to shift at least to some extent into riskless CBDC, leading to a
+loss of commercial banks’ funding of equal size. Banks would have to try to offer better conditions on their deposits in order to protect their deposit base as much as possible – but this
+would imply higher funding costs for banks and a loss of commercial bank “seignorage”.
+Below, the creation of CBDC has thus been split into two parts: CBDC1 which substitute
+
+314
+
+INTERNATIONAL JOURNAL OF POLITICAL ECONOMY
+
+Households, pension and investment funds, insurance companies
+Real Assets
+20
+Household Equity
+40
+Sight deposits
+5
+-CBDC2
+Savings + me deposits
+4
+Bank loans
+5
+CBDC
++CBDC1 +CBDC2
+Banknotes
+1 -CBDC1
+Bank bonds
+4
++S1
+Corporate/Government bonds 7
+-S1
+Equity
+8
+Corporates
+Real assets
+13
+Bonds issued
+3
+Sight deposits
+2
+Loans
+8
+Savings deposits
+1
+Shares / equity
+5
+Government
+Real assets
+11
+Bonds issued
+9
+Loans
+2
+Commercial Banks
+Loans to corporates
+8
+Sight deposits
+7 -CBDC2
+Loans to government
+2
+Savings + me deposits 5
+Loans to HH
+5
+Bonds issued
+4
++S1
+Corp/state bonds
+5 -S2
+Equity
+3
+Central bank credit
+1 +CBDC2 -S1-S2
+Central bank deposits
+0
+Central Bank
+Credit to banks
+1 +CBDC2 -S1-S2
+Banknotes issued
+1 -CBDC1
+Corp/Government bonds
+0
++S1+S2
+Deposits of banks
+0
+CBDC
++CBDC1 +CBDC2
+
+Figure 1. Financial accounts representation of CBDC, compensating securities purchases by the central bank, and
+possible bank deleveraging (numbers in trillion of euro broadly illustrating euro area accounts).
+
+banknotes and CBDC2 which substitute deposits with banks. It seems most likely that indeed
+CBDC would do both of those, but it is unclear with what weights. The effect of CBDC1 on
+the rest of the financial accounts is neutral, but the effects of CBDC2 are not: CBDC2
+lengthens the central bank balance sheet, as central bank credit will have to fill the funding
+gaps of the banks. The central bank may want to avoid this effect by purchasing government
+and corporate bonds, whereby the source of the bonds could be either households or banks,
+being captured in the financial accounts by S1 and S2, respectively. In the former case, it has
+been assumed here that the households will not keep the money obtained in the form of bank
+deposits, but would purchase bank bonds that the banks would in addition issue. However,
+from a financial account perspective, it makes no difference if the purchases of bonds by the
+central bank from households imply additional deposits with banks or additional capital market investments of households into bank bonds.
+While CBDC1 appears uncontroversial as it merely substitutes one form of central bank
+money into another without changing the rest of the financial system, CBDC2 increases the
+dependence of banks on central bank credit and decreases sight deposits with the banking
+system. Both S1 and S2 have positive effects in the sense that they reduce again the dependence of banks on central bank credit. CBDC2 will obviously have effects on funding costs of
+the banking system. This is because, typically, central bank credit and bond issuance are
+more expensive than the remuneration rate of sight deposits (except in unusual
+
+WINTER 2019
+
+315
+
+circumstances, as the ones prevailing e.g., in the euro area since 2014, in which obtaining
+credit from the central bank was partially possible for banks at negative rates, while sight
+deposits of households with banks remained non-negative). Moreover, a larger recourse to
+central bank credit could lead to collateral scarcity issues and the question whether the central bank collateral framework becomes so crucial from a credit allocation perspective that
+one would observe an effective centralization of the credit provision process. Both effects
+will be analyzed further in the next two subsections.
+Effects on Bank Funding Costs of CBDC2
+Following Juks (2018: section 4.2–4.3), one needs to understand what impact CBDC will
+have on average funding costs of banks, and therefore on bank lending rates (see also e.g.,
+Engert and Fung 2017). In addition, it should be understood how this might affect monetary
+policy interest rate setting of the central bank and the seignorage income of the central bank.
+Bank funding costs will obviously increase because a cheap funding source (sight deposits)
+decreases, and more expensive funding sources (central bank credit or bank bond issuance)
+have to take over. The central bank would have to compensate the implied tightening of
+financial conditions caused by a decrease of cheap sight deposit financing of banks by lowering the monetary policy rate. The extent of the required lowering of short-term interest rates
+would depend on the size of CBDC2, on the relative share of bank funding in the economy,
+and on the spread between the other bank funding rates with the monetary policy operations
+rate. Moreover, substitution effects from bank-based to capital market-based financing of the
+economy would impact on the overall needed adjustment of central bank rates. The fact that
+bank funding is only one part of overall funding of the economy implies that the central
+bank will not reduce the short-term interest rates in a way that bank funding costs are stabilized, but only partially so. Therefore, in the new equilibrium, banks will have lost competitiveness and will lose some market share relative to other forms of funding (though capital
+markets and non-bank intermediaries).
+Tables 4 and 5 provide the average levels of the relevant shares and interest rates for the
+period 2003–2008, and 2009–2018, respectively (Data sources: bond yields Merrill Lynch;
+all other data: ECB).
+The largest share in bank funding came from deposits with residual maturity of less than
+2 years and redeemable at 3- or less month notice, i.e., the types of deposits contained in the
+monetary aggregate M3. This is also the cheapest funding source in the first period, while in
+the second period, central bank funding becomes even cheaper. Actually, overnight deposits
+contribute 50–65% of these deposits, and have a significantly lower interest rate. For
+example, in December 2005, new overnight deposits were remunerated on average at 0.71%
+while up to 1-year term deposits at 2.15%.
+What happens to overall central bank income because of CBDC2? Two effects partially
+compensate each other: the increase of the monetary base, against the needed lowering of interest rates. The net effect will, in any case, be an increase of central bank income and an increase
+of overall bank funding costs. For example, assume that the 2003–2008 data applies and that
+
+316
+
+INTERNATIONAL JOURNAL OF POLITICAL ECONOMY
+
+TABLE 4
+Euro area bank funding costs across different instruments, 2003–2008
+
+Deposits (in M3)
+Other deposits
+Bonds issued
+Equity issued
+Central bank credit (MRO rate)
+
+Share in bank funding (%)
+
+Average interest rate (%)
+
+44
+13
+30
+10
+3
+
+1.83
+3.25
+4.10
+8.47
+2.79
+
+TABLE 5
+Euro area bank funding costs across different instruments, 2009–2018.
+
+Deposits (in M3)
+Other deposits
+Bonds issued
+Equity issued
+Central bank credit (MRO rate)
+
+Share in bank funding (%)
+
+Average interest rate (%)
+
+47
+14
+23
+12
+4
+
+0.78
+2.39
+2.15
+10.54
+0.50
+
+10% points of M3-deposits of banks are substitute with CBDC2, and also that CBDC is not
+remunerated. If everything else remains unchanged, then the funding costs of banks increase
+by 0.1(2.79–1.83%), i.e., around 10 basis points. If the central bank wants to keep financial
+conditions unchanged, it needs now to lower the general interest rate level. If bank funding is
+50% of total funding of the economy, the rest being capital market based, then the central bank
+will have to lower the interest rate level by 5 basis points if it wants to achieve that the average
+funding costs of the real economy stay unchanged (and if one ignores secondary effects). The
+central bank’s income will have evolved as follows: 13%2.74%  3%2.79% ¼ 0.13% of the
+balance sheet length of banks. Depositors will have given up 10%1.83% of income, i.e.,
+0.18% of the balance sheet length of banks (which they do voluntarily because they were
+assumed to choose this shift out of preference for CBDC). Average funding costs of banks will
+have increased by 5 basis points, and costs of capital market financing will have decreased by
+the same amount, implying some loss of competitiveness of banking.
+
+Increase of Banks’ Reliance on Central Bank Credit, Collateral Constraints, and
+Credit Centralization?
+To what extent could CBDC undermine the decentralized, market-based financing of the real
+economy by increasing massively the central bank balance sheet, and thereby making it,
+either via increased central bank securities holdings, or via an increased funding of banks
+through central bank credit, an important (but potentially inefficient) element of the credit
+allocation process?
+
+WINTER 2019
+
+317
+
+State liabilities can be stores of value for households, in particular if they are matched, in
+the state balance sheet, by real assets that the state owns. However, probably the state would
+not want to become a financial intermediary for household savings, which would happen if
+the state re-invested proceeds from issuing debt to households in the form of financial assets,
+or in the form of real assets not linked to state tasks, just for the sake or re-investment. This
+logic may also be applied to central banks in a somewhat different way as central banking
+starts from the liability side: to the extent they issue means of payment, they need to re-invest
+the proceeds from doing so. However, the central bank probably does not want central bank
+money to become a large-scale store of value, i.e., investment vehicle, as this would mean
+that the central bank would become a financial intermediary. Turning to the asset side of the
+central bank balance sheet, one may note different views of central banks on what is the best
+match with its monetary liabilities: The Fed and the Bank of England systematically invested
+the proceeds from the issuance of banknotes into government paper. The Deutsche
+Bundesbank in contrast traditionally considered exposures of the central bank to the government as problematic and therefore preferred assets in the form of loans to banks collateralized with high quality securities or bills of exchange.
+In view of the outstanding levels of government debt in developed economies (end 2018
+levels for e.g., the euro area and UK around 85%; US around 105%; Japan around 235%),
+and the much lower level of banknotes in circulation so far (around 10% of GDP for
+advanced economies, and 8% for emerging economies, see e.g., Riksbank 2018: 6), it would
+appear that there would be some scope for CBDC2 to be matched on the central bank asset
+side with higher holdings of government bonds, such that neither (i) the reliance of banks on
+central bank credit would need to increase, nor (ii) would the central bank have to hold a
+credit risk intense portfolio of securities. In any case, currently at least, the central banks of
+the UK, Japan and the Euro area hold large QE related portfolios that created large amounts
+of excess reserves of banks, that would provide scope for CBDC2 of at least the size of
+banknotes in circulation before reserve scarcity would emerge (without any further purchases
+of government bonds). Moreover, once the potential for matching CBDC with government
+exposures would have been exhausted, the central bank can still try to minimize the impact
+of the lengthening of the central bank balance sheet on the credit allocation process by aiming at diversified exposures to the private sector (e.g., outright holdings of various securities
+types and issuers proportional to market capitalization; credit operations with banks against a
+broad collateral set).
+In so far, it could be argued that there is some scope for CBDC2 before the central banks
+would have to accept really credit-intense exposures to the private sector, and thereby play a
+potentially larger role in the credit allocation of the economy, which may eventually be negative for the overall efficiency of the economy. Only if CBDC2 takes even much larger
+dimensions, such as desired by the promotors of sovereign money, then an issue relating to
+the centralization of credit would emerge. For example, in the euro area financial accounts,
+as shown in a very simplified way in the financial accounts system above, the full shift of all
+sight deposits with banks to CBDC2 (as wished by sovereign money supporters) would
+increase the minimum balance sheet of the central bank from EUR 1 trillion to 8 trillion.
+Currently, the Eurosystem holds outright policy portfolios of more than 2.5 trillion plus other
+
+318
+
+INTERNATIONAL JOURNAL OF POLITICAL ECONOMY
+
+securities and foreign reserves of around 1.5 trillion, bringing its actual balance sheet to EUR
+4 trillion. Therefore, without additional securities purchases, it would have to provide credit
+of around EUR 4 trillion to banks (everything else unchanged), i.e., 20% of the banks’ balance sheets. This would probably force the ECB to revisit its collateral framework, such as
+to accept in addition some asset classes it formerly did not accept, like portfolios of mortgage
+loans. If haircuts on loans would be in the order of magnitude of 30%, then banks should
+normally be able to provide sufficient collateral for the extended amount of central bank
+credit needed (even before they would try to find other financing sources, such as an
+increased issuance of equity or of bank bonds to households, and before the central bank
+would increase its outright portfolios of government securities). However, it needs to be
+acknowledged that the impact of the central bank collateral on asset prices (and yields) would
+tend to intensify (see e.g., Bindseil et al. 2017; Nyborg 2016 for discussions on how the collateral framework of the central bank may impact on relative asset prices). Unless one is a
+supporter of sovereign money, one will therefore be interested in finding solutions to control
+effectively the volume of CBDC, to make sure that it will not lead to any centralization of
+the credit allocation process.
+Finally, as noted by Juks (2018: 84), a large shrinkage of the deposit base of banks and a
+replacement with other liabilities will also have implications on the ability of banks to fulfill
+regulatory liquidity requirements. Indeed, household deposits are treated as a rather stable
+liability class in most regulations, such that their decline will tend to make it more difficult
+for banks to comply and require possibly further costly adjustments, which could make
+maturity transformation more expensive.
+
+BANK RUNS INTO CBDC
+Mersch (2018), amongst others, has emphasized the destabilizing effects of CBDC in a financial crisis, namely its facilitation of a run on the banking system:
+During a systemic banking crisis, holding risk-free central bank issued DBM [CBDC] could
+become vastly more attractive than bank deposits. There could be a sector-wide run on bank
+deposits, magnifying the effects of the crisis. Even in the absence of a crisis, readily convertible
+DBM could completely crowd out bank deposits – putting the existence of the two-tier banking
+system at risk. In this situation, the efficient flow of credit to the economy would likely
+be impaired.
+
+CPMI-MC (2018: 2) also supports the view that CBDC could make worse bank run
+dynamics in a crisis:
+The introduction of a CBDC would raise fundamental issues that go far beyond payment
+systems and monetary policy transmission and implementation. A general purpose CBDC could
+give rise to higher instability of commercial bank deposit funding. Even if designed primarily
+with payment purposes in mind, in periods of stress a flight towards the central bank may occur
+on a fast and large scale, challenging commercial banks and the central bank to manage
+such situations.
+
+WINTER 2019
+
+319
+
+Households, pension and investment funds, insurance companies
+Real Assets
+20
+Household Equity
+40
+Sight deposits bank 1
+2.5 -R1 -R2/2 -R3/2
+Sight deposits bank 2
+2.5 +R1 -R2/2 -R3/2
+Bank loans
+5
+Savings + me deposits
+4
+Deposits with central bank
++R3
+Banknotes
+1
++R2
+Corporate/gvt bonds
+7
+Bank bonds and Equity
+12
+Corporates
+Real assets
+13
+Bonds issued
+3
+Sight deposits
+2
+Loans
+8
+Savings deposits
+1
+Shares / equity
+5
+Government
+Real assets
+
+Loans to Corporates/Gvt/HH
+Corp/gvt bonds
+Central bank deposits
+
+11
+
+Bonds issued
+Loans
+Commercial bank 1
+7.5
+2.5
+0
+
+Sight deposits
+Savings + me deposits
+Bonds and equity issued
+Central bank credit
+
+9
+2
+3.5 -R1 -R2/2 – R3/2
+2.5
+3.5
+0.5 +R1 +R2/2 +R3/2
+
+Commercial bank 2
+Sight deposits
+3.5 +R1 -R2/2 - R3/2
+Loans to Corporates/Gvt/HH
+7.5
+Savings + me deposits 2.5
+Corp/gvt bonds
+2.5
+Bonds and equity issued 3.5
+Central bank deposits max(0, -(0.5 -R1 +R2/2 +R3/2))
+
+Central bank credit max(0, 0.5 -R1 +R2/2 + R3/2)
+
+Central Bank
+Credit to banks 0.5 +R1+R2/2+R3/2 +max(0, 0.5 -R1+R2/2+ R3/2)
+Banknotes issued
+1 +R2
+Deposits of banks max(0, -(0.5-R1+R2/2+R3/2))
+Corp/state bonds
+0
+Non-bank deposits
+R3
+Figure 2. Financial accounts representation of bank run, distinguishing between three targets of flows.
+
+Also Mancini-Griffoli et al. (2018: 24–25) discuss this aspect of CBDC, but conclude that
+overall these effects are likely to be muted. A run on commercial banks can take three forms
+in principle,6 if one makes the distinction from the perspective of where the deposits flow to,
+namely: “R1”, into deposits with other banks, i.e., within the banking system; “R2”, into
+banknotes, i.e., the classical physical bank run where queues could arise in front of bank
+branches and ATMs; “R3”, into non-bank deposits with the central bank, which in the past
+decades was limited to deposits of official sector institutions, but in the future could be facilitated by CBDC. In the financial accounts below, these three flows are shown as originating
+from the household/investment sector. In contrast to Figure 1, two separate banks constituting
+the banking system are now distinguished, such as to allow representing R1 (Figure 2).
+Note that R2 and R3 are observable in aggregate accounts while R1 is not. Indeed, R1
+does not become visible in the aggregate accounts until the bank benefitting from deposit
+inflows has paid back all of its central bank credit. Moreover, R1 would have to be extracted
+
+320
+
+INTERNATIONAL JOURNAL OF POLITICAL ECONOMY
+
+TABLE 6
+Indicators of run on bank deposits, 2008 and 2011, Eurosystem
+D in % of stock at beginning of period
+Comparison
+between
+December
+averages of:
+2008 vs 2007
+2012 vs. 2010
+
+Banknotes
+(“R2”) (%)
+
+Excess
+reserves of
+banks (%)
+
+Excess
+reserves of
+non-bank
+depositors
+(“R3”) (%)
+
+þ13
+þ8
+
+þ3675
+þ580
+
+þ 321
+þ151
+
+D in % of Eurosystem balance sheet at
+beginning of the period
+
+Banknotes
+(“R2”) (%)
+
+Excess
+reserves of
+banks (%)
+
+Excess
+reserves of
+non-bank
+depositors
+(“R3”) (%)
+
+þ7
+þ4
+
+þ32
+þ38
+
+þ23
+þ10
+
+from the excess reserves of banks, which are also influenced, by R2 and R3 (and, in reality,
+there are obviously not only two banks). The table below captures the importance of the three
+types of runs, again with the above-mentioned caveat for R1. Moreover, the Eurosystem
+somewhat invited the creation of excess reserves in 2011 through particularly attractive credit
+operations, so that the increase of excess reserves overestimates the inter-banking system run
+(Table 6).
+The table suggests that the contribution of a run from bank deposits into banknotes was
+remarkably small compared to the two other factors. The run from weak into strong banks
+was clearly the strongest amongst the three, followed by the run into non-bank deposits.
+It may be recalled that the spread between the rate on the ECB’s main refinancing operations (MRO – conducted as a so-called “fixed rate full allotment”) and the rate of remuneration of excess reserves is the tool to set incentives against a run from deposits with one
+bank into the deposits of another bank. However, if anything, the Eurosystem narrowed this
+spread during the crisis episodes, relative to the pre-crisis level of 200 basis points, suggesting that trying to prevent a run through price incentives was not considered the right solution
+(see e.g., Bindseil and Jablecki 2011).
+To understand better the drivers of R3 over the last decade, the figure below reports the
+evolution of three liability positions of the Eurosystem that capture non-bank deposits open
+to different public sector entities, namely (according to Annex IV of the ECB’s accounting
+guideline, see ECB 2016):
+ L.5.1 “General Government. Current accounts, fixed-term deposits, deposits repayable
+on demand”
+ L.5.2 “Other liabilities. Current accounts of staff, companies and clients including financial institutions listed as exempt from the obligation to hold minimum reserves (see
+liability item 2.1 ‘Current accounts’); fixed-term deposits, deposits repayable on demand”
+ L.6 “Liabilities to non-euro area residents denominated in euro. Current accounts,
+fixed-term deposits, deposits repayable on demand including accounts held for payment
+purposes and accounts held for reserve management purposes: of other banks, central
+banks, international/supranational institutions including the European Commission; current accounts of other depositors. Repo transactions in connection with simultaneous
+
+WINTER 2019
+
+321
+
+reverse repo transactions for the management of securities denominated in euro. Balances
+of TARGET2 accounts of central banks of Member States whose currency is not
+the euro.”
+The figure suggests that the pricing of non-bank deposits by the Eurosystem was not such
+as to prevent any increase of non-bank liabilities in each of the three balance sheet expansions over the last years. During the banking crisis in 2008, in particular L6 increased steeply
+and rapidly, peaking in December 2008, while L5 increased more gradually. During the sovereign debt crisis, again L6 reached high levels, this time peaking in July 2012. The highest
+levels were reached for all three types of deposits during the asset purchase program APP,
+with the peaks being reached with the maximum level of APP stocks in December 2018.
+Actually, three special factors have to be distinguished during these phases. First, in particular during 2008, but also again during 2011–2012, strong perceptions of credit riskiness
+with regards to at least parts of the banking system triggered withdrawals of deposits. From
+the perspective of the banks with deposit outflows, it makes no particular difference if the
+outflows of a certain amount benefit other banks, go to some non-bank deposit account with
+the central bank, or take the form of banknotes (as explained above, see also Juks 2018, section 5). Second, exceptional levels of central bank rates had implications on the relative
+attractiveness of different investments. For example, if the remuneration rate of some nonbank deposits is set to be zero by the central bank, this may normally, i.e., in the old world
+of positive interest rates, have been considered unattractive, and as ensuring that the amounts
+deposited will remain low. But once monetary policy interest rates move, contrary to previous assumptions, to zero or even to below zero, then the previously unattractive (tier two)
+non-bank deposit remuneration rates become attractive, until the central bank changes the
+rate setting formula to react to the new reality. Indeed, the Eurosystem adjusted its formulas,
+although not in a way to prevent fully an increase. Third, exceptional amounts of excess
+reserves pushed some short-term market rates to below the level of the deposit facility
+accessible to banks. For example, GC repo overnight rates traded in 2017–2018 around 15
+basis points below the rate of the deposit facility, which would have been unthinkable in normal liquidity conditions.
+As mentioned, the Eurosystem would not have needed to tolerate these episodes of
+increase of non-bank deposits, i.e., by pricing deposits more aggressively. For example if the
+Eurosystem would have remunerated them at 5%, it would have prevented a large increases
+of these deposits, as the official sector investors would then have preferred to invest in AAA
+rated government bonds. That the Eurosystem did not do so reveals the judgement of the
+Eurosystem that the observed increase of non-bank deposits was acceptable both from the
+perspective of financial stability and monetary policy (Figure 3).
+A Two-Tier Remuneration System for CBDC
+CBDC should be launched only if the central bank can be confident that the issues discussed
+in the previous two sections – undesired structural disintermediation of the banking system,
+and avoidance in systemic crises of a facilitation of aggregate bank runs – have been solved.
+
+322
+
+INTERNATIONAL JOURNAL OF POLITICAL ECONOMY
+
+Figure 3. Evolution of non-bank deposits with the Eurosystem, 2007–2018.
+
+Supporters of CBDC have acknowledged these issues and, in particular, Kumhof and Noone
+(2018) have devoted substantial efforts to design solutions to them. Their approach relies on
+four key principles (from their abstract):
+We find that if the introduction of CBDC follows a set of core principles, bank funding is not
+necessarily reduced, credit and liquidity provision to the private sector need not contract, and
+the risk of a system-wide run from bank deposits to CBDC is addressed. The core
+principles are:
+
+i. CBDC pays an adjustable interest rate.
+ii. CBDC and reserves are distinct, and not convertible into each other.
+iii. No guaranteed, on-demand convertibility of bank deposits into CBDC at commercial
+banks (and therefore by implication at the central bank).
+iv. The central bank issues CBDC only against eligible securities (principally government securities).
+The final two principles imply that households and firms can freely trade bank deposits against
+CBDC in a private market, and that the private market can freely obtain additional CBDC from
+the central bank, at the posted CBDC interest rate and against eligible securities.
+
+Kumhof and Noone (2018) correctly identify the issues that need to be addressed. Overall,
+it could be perceived that the principles of Kumhof and Noone, while aiming at controlling
+the effects of CBDC in a way that CBDC does not undermine too much the existing financial
+order, introduce changes to this order which are far reaching. In particular, core principles of
+banking and central banking relating to convertibility would be put into question, at least
+
+WINTER 2019
+
+323
+
+conditionally. This does not mean that the principles of Kumhof and Noone are unthinkable
+or flawed, but that one should try to find lighter solutions to the legitimate concerns regarding uncontrolled CBDC volumes.
+Kumhof and Noone (2018: 34) are well aware of the possibility to address CBDC’s potential structural and cyclical bank disintermediation through applying unattractive and/or negative interest rates on CBDC. However, they are skeptical that the tool of negative interest
+rates will always be sufficiently effective in crisis times:
+any nascent increase in the demand for CBDC can be eliminated by a drop in the interest rate
+on CBDC. But there are potential limits if this requires a highly negative interest rate, and if
+further reductions of the interest rate below this level become politically difficult … Assume
+therefore a CBDC price rule where the central bank fixes the interest rate on CBDC at the
+lowest politically acceptable level, and assume that even at this penalty rate group A wants to
+convert deposits to CBDC at (almost) any price, perhaps because it is concerned about the
+solvency of banks …
+
+In this section, it is proposed to solve the problem of political acceptance of (temporarily) very low interest rates on CBDC by differentiating remuneration according to the
+amount of deposits held, i.e., “tiering”. Actually, such reserve tiering systems have often
+been applied by central banks for the remuneration of deposits, and exactly for the purpose to control the total amount of deposits while being forthcoming towards moderate
+levels of deposits. Under such a system, a relatively attractive remuneration rate is
+applied up to some quantitative ceiling, while a lower interest rate is applied for amounts
+beyond the threshold. The Eurosystem has applied such tiering systems for deposit
+accounts of public sector institutions, notably of domestic government and foreign central
+banks or sovereign wealth funds. Regarding the remuneration of government deposits, for
+example, article 5 of the Eurosystem’s DALM guideline7 specifies that a two-tier system
+applies as follows:
+1. Remuneration of government deposits shall be subject to the following ceilings: (a) for
+overnight deposits, the unsecured overnight market rate; (b) for fixed term deposits, the
+secured market rate or, if not available, the unsecured overnight market rate.
+2. On any calendar day, the total amount of overnight and fixed term deposits of all governments with an NCB exceeding the higher of either: (a) EUR 200 million; or (b) 0.04
+% of the gross domestic product of the Member State in which the NCB is domiciled,
+shall be remunerated with an interest rate of zero per cent. If the deposit facility rate on
+this day is negative, then an interest rate no higher than the deposit facility rate
+shall apply.’
+Similarly, the Eurosystem reserve management services (ERMS8), granting accounts to
+foreign central banks and public sector funds, also typically foresee the differentiation
+between a more attractive rate applying up to some limit, and a less attractive one without limits. If the remuneration rate for tier two deposits is sufficiently unattractive, then
+the amount of such deposits should be low, or even zero. The central bank should also
+
+324
+
+INTERNATIONAL JOURNAL OF POLITICAL ECONOMY
+
+be able to counter, through an as aggressive as needed lowering of tier two remuneration
+rates, the inflow of additional deposits in a financial crisis context.
+One may also note that some central banks (DK, SE, CH, JP) have collected experience
+over the last years with a differentiated remuneration of bank deposits with the central bank.
+For example, the Bank of Japan introduced on 29 January 2016 a three-tier system (Press
+release of the Bank of Japan dated 29 January 2016) following the existence of two-tier
+approaches in other central banks:
+The Bank will introduce a multiple-tier system which some central banks in Europe (e.g. the
+Swiss National Bank) have put in place. Specifically, it will adopt a three-tier system in which
+the outstanding balance of each financial institution’s current account at the Bank will be
+divided into three tiers, to each of which a positive interest rate, a zero interest rate, or a
+negative interest rate will be applied, respectively.
+
+The size of the better remunerated tiers is calculated by the Bank of Japan for each bank
+essentially in proportion to the bank’s required reserves, which itself are calculated proportionally to the short-term liabilities of the bank to non-banks. Even before that, a differentiated remuneration had been applied by many central banks for required and non-required
+reserves of banks with the central bank. For example, in the case of the Eurosystem, since
+the launch of the euro in 1999, required reserves were remunerated at the rate of the main
+refinancing operations, while excess reserves were remunerated at zero (and in addition, a
+deposit facility was offered which provided remuneration normally at 100 basis points below
+the rate of the main refinancing operation).
+In sum: central banks have ample experience with tiered remuneration systems. These could
+be readily applied to deposit-based CBDC and could address the structural and the financial
+crises related bank disintermediation issues without exposing households using CBDC for payment purposes to (perceived) final repression. Of course, an undue structural or transitionary
+increase in CBDC at the expense of banks could also be addressed by a single tier system in
+which the interest rate applied to the entire CBDC deposits would be sufficiently low (or temporarily lowered). However, a two-tier system seems to have important advantages:
+ It allows assigning the payment function of money to tier one CBDC, while the store of
+value function would be assigned to tier two, and would essentially be dis-incentivized
+through an unattractive remuneration rate. Indeed, central bank money should probably
+not become a large-scale store of value, i.e. a major form of investment of households,
+as this eventually implies that the central bank would become an investment intermediary
+of the economy (for which it has no particular qualification).
+ It ensures that CBDC is attractive to have in principle for all households, as reliance on
+tier one CBDC never needs to be dis-incentivized by a particularly low remuneration rate.
+ A two-tier system allows better steering of the amount of CBDC, which provides
+additional confidence into the manageability of the introduction of CBDC.
+ As mentioned above, it avoids that in a crisis situation, one would need to push into
+negative territory the remuneration of all CBDC. Thereby tiering decisively reduces the
+
+WINTER 2019
+
+325
+
+scope for popular criticism of the central bank (e.g. of financial repression, expropriation
+of money holders, etc.). The central bank would need to communicate clearly at an early
+stage that the remuneration of tier-two CBDC is not meant to be attractive, and may be
+made particularly unattractive in a crisis, as needed. For tier one CBDC, the central bank
+can commit to never charge negative rates.
+The central bank can also provide a commitment with regard to the quantity of tier one
+CBDC. For example, it could promise always to provide per capita a tier one quota of e.g.,
+EUR 3500, implying an amount of total tier one CBDC for households of around EUR 1.2
+trillion (assuming an eligible euro area population of 340 million; the allowances of minors
+could be either set to zero or they could be allocated to a parent’s CBDC account). To recall:
+banknotes in circulation in the euro area are somewhat above EUR 3500 per capita (summing
+up currently to around EUR 1.2 trillion); securities holdings of the Eurosystem (including
+both investment and policy portfolios) are currently around EUR 3 trillion; and the banking
+system has excess reserves close to EUR 2 trillion. Everything else unchanged, there would
+thus still be no need for large scale credit operations with banks if CBDC of a total amount of
+EUR 1 trillion would be issued now. The central bank could, moreover, commit to increase
+the tier one CBDC quota when the amount of banknote in circulation decreases. An amount
+of EUR 3500 for tier one CBDC could be interpreted as covering the average monthly net
+income of euro area households, such that the normal payment function of money would be
+covered. CBDC tier one allowances for companies would not necessarily have to be high, as
+it could be argued that the main objective of CBDC is to serve citizens. When estimating how
+tier one CBDC allowances would be translated into total CBDC volumes, it should on one
+side be taken into account that not all CBDC accounts will be opened rapidly, and maybe
+some households will never open an account, or will not hold the full tier one allowance on
+the account. On the other side, some households will be willing to hold tier two allowances.
+For corporates (financial non-banks and non-financials), the tier 1 allowance could be set
+to zero, or alternatively it could be calculated to be proportional to some measure of their
+size and thereby presumed payment needs. Simplicity and controllability of the assignments
+would be essential. Foreigners, if allowed to open accounts, should have a tier one ceiling of
+zero. Finally, a deposit based CBDC framework could in principle be complemented by an
+anonymous token-based CBDC. If so, then the anonymous token-based part would be remunerated at the same level as account-based tier two CBDC. Simple solutions (such as a stored
+value card like the Oyster card) could be sufficient, for instance, to allow tourists to use
+CBDC without having an account. Again, those cards should normally be subject to the tier
+two remuneration rate.
+The tier 1 remuneration rate r1 could be set in principle at a relatively attractive level,
+which could be the rate of remuneration of banks’ excess reserves, and it would, in addition,
+be specified that it could never fall below zero. The tier 2 remuneration rate would be set
+such that tier 2 deposits are rather unattractive as store of value, i.e., less attractive than bank
+deposits or other short-term financial assets, even when taking into account risk premia. The
+two rates could co-move in parallel with policy interest rates, with in addition some special
+provision when the zero lower bound territory is approached. The rates would themselves not
+
+326
+
+INTERNATIONAL JOURNAL OF POLITICAL ECONOMY
+
+be regarded as policy rates. Moving the rates would simply serve keeping a similar spread
+over time to other central bank rates, and thus in principle to other market rates. The objective would be to sufficiently stabilize and control over time the incentives to hold CBDC. Of
+course, the existence of banknotes, which are invariably remunerated at zero, creates a variable spread between the remuneration of banknotes and CBDC, which may also have quantitative effects on both.
+Initially, for example the following remuneration could be considered by the ECB for tier
+1 CBDC: r1 ¼ max(iDFR, 0), and for tier 2 CBDC: r2 ¼ (iDFR – 2%). In words: r1 would
+equal the rate of remuneration of excess reserves, with however a zero lower bound applying,
+while r2 would be 2% points below the remuneration of excess reserves, but without floor.
+An even less attractive option for tier 2 CBDC would be r2 ¼ min(0, iDFR – 2%). In this
+case, CBDC2 would be remunerated either like banknotes (as long as DFR > 0) or lower. In
+any case, a special downwards adjustment to the remuneration rate of CBDC would likely
+have been useful during the critical year after the Lehman default in 2008.
+It would also not be a problem to add a third tier to CBDC with an even lower remuneration, if this is considered useful to achieve an optimal level of control of total CBDC quantities. For example, the second tier could be three times the first tier, the second tier’s
+remuneration could always be kept at (iDFR – 2%), but the third tier could be remunerated
+very negatively, say at 3% in normal times, and in crisis times if needed at e.g., 10%.
+From a technological perspective, introducing another tier should not be an issue. Obviously,
+as long as banknotes exist, CBDC holders can transform badly remunerated CBDC into
+banknotes – but if they prefer banknotes to deposits with banks, then they can do so already
+today. Finally, as mentioned, a special remuneration rate could also apply to foreign CBDC
+depositors, i.e., outside the tiering system, which would apply to domestic households and
+enterprises. At the end, the central bank could establish any matrix of remuneration rates,
+with one dimension of the matrix capturing the different types of holders, and the other
+remuneration rates for the potentially many tiers. The additional complexity implied by such
+a matrix would be moderate. Of course, the ambitions of the matrix should remain humble:
+to control sufficiently the overall amount of CBDC, while letting different types of entities
+benefit from it in a fair manner. Ideally, the matrix would be based on objective criteria, also
+to avoid criticism of parties that would feel treated unfavorably.
+In sum: the central bank would have significant degrees of freedom to set the remuneration of tiered CBDC in a way to make CBDC both attractive and controllable,
+namely through:
+ Distinguishing an attractively remunerated first tier from a less attractively, remunerated
+second tier (and possibly even a third tier with an even worse remuneration, etc.).
+ Choosing the size of the tier one allowance per capita. Taking the euro area as example,
+e.g. 1000, 3500, or 5000 euro would imply an amount of tier one CBDC of around 30%,
+100%, and 140% of the current level of euro banknotes in circulation.
+ Choosing the remuneration rate of each tier, and in particular of tier two, which could be
+either moderately or clearly unfavorable, whereby the latter case is of course most
+
+WINTER 2019
+
+327
+
+effective to be confident that CBDC volumes will not significantly exceed the total tier
+one CBDC allowance.
+ Reserve the right to do further adjustments on the remuneration rate of tier two (and tier
+three, etc.) CBDC if needed, while committing never to remunerate tier one
+CBDC negatively.
+
+BANK DISINTERMEDIATION WITH LOW-VOLUME CBDC?
+The attractiveness of CBDC for payment purposes does not only depend on the amount of
+CBDC that would be remunerated at a fairly attractive level, but also on other features of the
+use of CBDC as means of payment. It will matter in particular whether account services of
+CBDC include the services that deposit accounts with commercial banks typically offer, like
+remote internet access, mobile phones and cards, periodic payments to other accounts, debit
+orders, user-defined maximums for different types of transfers, etc. The ability to link the
+account with the accounts of broker-dealers, which offer a full range of investment services,
+will also be relevant. In any case, the central bank would presumably not offer other advanced
+banking services (foreign exchange transfers, FX operations, derivatives, etc.). There would
+therefore still be a difference relative to the breadth of services by commercial banks.
+If the services offered by the central bank are relatively comprehensive, then, despite an
+effective control of the total amount of CBDC at a moderate level, still CBDC risks undermining the role of the banking system as a relevant share of households may want to combine a central bank account with the services of a non-bank financial services firm, and no
+longer have any bank deposit account. In this case, the length of the central bank balance
+sheet may remain limited, but the length of the banks’ balance sheet may decrease at the
+benefit of the non-bank financial intermediation through securities-brokers, insurance companies, and mutual funds.
+The following system of financial accounts illustrates such a case in which the total quantity of CBDC is well controlled, but where, nevertheless, the banking system is disintermediated because its sight deposits services are no longer needed. The creation of CBDC is now
+assumed to be fully at the expense of banknote circulation only, such that it has no effects on
+financial accounts of banks (i.e., it is of type CBDC1). The variable SUBST captures the
+possible disintermediation of the banking system, in the sense that deposit-taking institutions
+could lose clients, for the benefits of non-bank financial services providers. It is assumed that
+the benefitting non-bank financial firms would also take over a part of the loan business of
+banks, maybe focusing on securitizations of loans or syndicated loans, or financing of largescale infrastructure projects etc. The corporate and government sectors are not again shown
+as they are assumed to be unaffected (Figure 4).
+To what extent would the disintermediation of banks and the shift of business towards
+non-bank financial intermediaries matter? This will also depend on the differences between
+the regulatory treatment of commercial banks (deposit taking institutions) and other financial
+intermediaries, since regulation creates a clear segregation between the two. The regulator
+would, therefore, have to see if any regulatory adjustments may be desirable to react to the
+
+328
+
+INTERNATIONAL JOURNAL OF POLITICAL ECONOMY
+
+Households, pension and investment funds, insurance companies
+Real Assets
+20
+Household Equity
+Sight deposits
+5 -SUBST
+Savings + me deposits
+4
+Bank loans
+New non-bank intermediaries
++SUBST
+CBDC
++CBDC1
+Banknotes
+1 -CBDC1
+Bank bonds
+4 + S1
+Corporate/state bonds
+7 - S1
+Equity
+8
+
+40
+5
+
+New non-bank intermediaries
+Loans to corporates
+Corp/gvt bonds
+Loans to corporates
+Loans to government
+Loans to HH
+Corp/gvt bonds
+Central bank deposits
+Credit to banks
+Corp/gvt bonds
+
++Subst/2
++Subst/2
+
+Household investments
+
+Commercial Banks
+8 -Subst /2
+Sight deposits
+2
+Savings + me deposits
+5
+Bonds issued
+5 -Subst /2
+Equity
+0
+Central bank credit
+Central Bank
+1
+Banknotes issued
+0
+Deposits of banks
+CBDC
+
++Subst
+
+7 -Subst
+5
+4
+3
+1
+1 -CBDC1
+0
+CBDC1
+
+Figure 4. Impact on bank funding despite unchanged length of central bank balance sheet.
+
+changes of financial structure caused indirectly by CBDC (see also section 6 of Juks 2018).
+Overall, it should be acknowledged that CBDC will be a further factor contributing to change
+in the financial system, and to some extent independently of the total volume of CBDC, and
+that this may include effects on the relative competitiveness of banks. However, (i) there are
+anyway various technological developments that are relevant in this respect beyond CBDC;
+(ii) per se, change should not be seen as a problem, but as an opportunity. Legitimate worries
+would relate to disruptive change scenarios, which may occur if the change is too rapid.
+
+FLOW-OF FUNDS COMPARISON OF CBDC WITH PRIVATE
+DIGITAL CURRENCIES
+In this section, we briefly compare the implications of CBDC on financial accounts with the
+ones of crypto-assets, stable coins and narrow bank digital currency.
+Crypto-Assets
+According to ECB Crypto-Assets Task Force (2019: 3), crypto assets are an “asset recorded
+in digital form and enabled by the use of cryptography that is not and does not represent a
+
+WINTER 2019
+
+329
+
+financial claim on, or a liability of, any identifiable entity”. Moreover, according to this task
+force report (3), “Crypto-assets do not fulfill the functions of money and, at the current stage,
+neither do they entail a tangible impact on the real economy nor have significant implications
+for monetary policy.” The global market capitalization of crypto-assets relative to euro area
+GDP has fluctuated since June 2017 between around 1% and around 5% (11). As cryptoassets are neither a financial claim nor a financial liability, they per se do not affect the
+accounts of the financial sector. They only directly affect the accounts of the household /
+investment sector, which holds and mines these commodity-like assets (we assume here for
+the sake of simplicity that the mining takes place directly by households). To the extent that
+“mining” consumes resources, crypto-assets appear (in the simplest representation) as an
+asset switch from real assets to crypto assets (CRYPTO.A). To the extent that the value of
+the crypto-assets exceeds the mining costs, it is a balance sheet lengthening for households
+matched by an increase of net wealth (CRYPTO.B) (Figure 5).
+As noted in the task force report quoted above, crypto-assets are not particularly suitable
+as means of payment and store of value (as their value denominated in the unit of account
+fluctuates heavily). Therefore, they are not really in competition with banknotes or sight
+deposits with banks and, therefore, the secondary effects on the financial system are expected
+to remain limited for the foreseeable future.
+Stable Coins Backed by Reserves
+“Stable coins” are attempts to overcome the extreme volatility of existing crypto-assets by aiming at a stable value (denominated in some unit of account). There is quite some diversity in
+stable coins constructions, and “to the extent that they have an identified issuer, are not cryptoassets according to the definition used in this paper and might qualify as e-money under some
+national legislation” (Bullmann et al. 2019; ECB Crypto-Assets Task Force 2019: 14; G7
+Working Group on Stablecoins 2019). Recently, central bankers’ interest in stable coins
+increased, after Facebook announced its Libra stable coin project (see www.libra.org). As
+Libra is planned to be backed fully by liquid and high-quality reserves, it could indeed be interpreted to go more in the direction of an e-money institution. Libra would be “stable” in the
+currency basket it will replicate, and not in a single currency. Also projects such that “Utility
+Settlement Coin” (USC) fall under the stable coin definition (see www.fnality.org).
+Stable coins can be backed by reserves in the form of central bank deposits or in other
+forms (deposits with highly rated banks or short-term government securities – the vision of
+Libra). The financial accounts below illustrate both cases. As stable coins are much more
+suitable as means of payments than crypto-assets (if we assume that they are issued for general payment purposes), they would be expected to substitute banknotes and/or sight deposits
+with banks or both (similarly to CBDC). The Government and corporate accounts are not
+shown as they are expected not to be affected. STC2 are the stable coin holdings that result
+from the substitution of sight deposits with banks, and STC1 are those resulting from the
+substitution of banknotes. With regards to the case of backing with commercial bank money
+and government bills, we assume that the two forms of reserves have a share of a and (1-a),
+
+330
+
+INTERNATIONAL JOURNAL OF POLITICAL ECONOMY
+
+Households, pension and investment funds, insurance companies
+Real Assets
+20 –CRYPTO.A
+Household Equity
+40 +CRYPTO.B
+Sight deposits
+5
+Bank loans
+5
+Savings + me deposits
+4
+Crypto-assets
+CRYPTO.A +CRYPTO.B
+Banknotes
+1
+Bank bonds
+4
+Corporate/state bonds
+7
+Equity
+8
+Figure 5. Impact of crypto-asset on financial accounts.
+
+respectively. We also assume (for the sake of simplification) that the holdings of government
+debt by the stable coin vehicle are coming from former banks’ holdings (and not from household holdings) (Figure 6 and 7).
+
+The Narrow Bank
+A narrow bank is defined here as a bank which would have all the deposits it issues matched
+on the asset side with central bank deposits (see also Mancini-Griffoli et al. 2018: 13).
+Other assets (physical assets) would be financed with equity. The running costs and the
+remuneration of capital would be covered by a spread between the narrow bank deposit rates
+and the rates at which the central bank remunerates the reserves of banks. Such a narrow
+bank tried to establish itself in the US (www.tnbusa.com). Assume that narrow banks would
+issue “narrow bank digital currency” (NBDC) – how would they change the financial system? Actually the financial accounts representation is identical to a stable coin backed by
+central bank deposits (see above), whereby the role of the stable coin vehicle is taken over
+by the narrow bank (i.e., replace in the accounts “Stable coin issuing vehicle” by “Narrow
+bank”; “STC1” by “NBDC1”; “STC2” by “NBDC2”) .
+
+Comparison of Private Digital Currency Innovations with CBDC
+The following table compares the balance sheet implications of the different schemes on the
+banking system, i.e., commercial banks and the central bank. We call X1 the amount of new
+means of payments substituting banknotes and X2 the amount of new means of payments
+substituting deposits with banks. Similarity in this table does not necessarily imply similarity
+in practice, as the success of different schemes may be very different, and thereby the actual
+size of X1 and X2. As mentioned, in the case of CBDC, a close control of the amounts
+issued is possible through a two-tiered remuneration system.
+Actually, the financial accounts implications have similarities across forms of digital currencies, and in particular stable coins backed by central bank deposits (“STCCB”), NBDC
+and CBDC seem to have identical financial account implications. Of course, in practice, they
+
+331
+
+WINTER 2019
+
+Households, pension and investment funds, insurance companies
+Real Assets
+20
+Household Equity
+Sight deposits
+5 - STC2
+Savings + me deposits
+4
+Bank loans
+
+STC
+Banknotes
+Bank bonds
+Corporate/state bonds
+Equity
+
+40
+5
+
+STC2+STC1
+1 -STC1
+4
+7
+8
+Stable coin issuing vehicle
+
+Deposits with banks
+Government bonds
+Loans to corporates
+Loans to government
+Loans to HH
+Corp/gvt bonds
+Central bank deposits
+
+Credit to banks
+
+α(STC2+STC1)
+(1-α)(STC2+STC1)
+
+STC issued
+
+STC2+STC1
+
+Commercial Banks
+8
+Sight deposits
+7 –STC2
+2
+STC Deposits
+α(STC2+STC1 )
+5
+Savings + me deposits 5
+5 – (1-α)(STC2+STC1)
+Bonds issued
+4
+0
+Equity
+3
+Central bank credit
+1 -STC1
+Central Bank
+1 –STC1
+Banknotes issued
+1 -STC1
+
+Figure 6. Financial accounts representation of stable coin with reserves in the form of deposits held with commercial
+banks and in the form of government bonds (e.g., like envisaged by Libra).
+
+will not necessarily be identical since the success of each and the implied volume and dislocation of the financial accounts may vary.
+ First, the confidence of households into STCCB/NBDC schemes will not necessarily be the
+same as the confidence into CBDC. Theoretically, it could be possible that STCCB/NBDC
+benefits from high levels of trust, since the schemes would aim at avoiding any credit and
+liquidity risk. Fraud risk could probably be low, as the vehicles could operate easily in full
+transparency, and emphasize and seek closest co-operation with regulatory authorities.
+ Second, the efficiency of STCCB/NBDC might be higher or lower than CBDC. It could
+be higher as STCCB/NBDC could take the form of competing entities, i.e. the market
+mechanism could continue to apply, and the vehicles could be very innovative in offering
+retail payment solutions, or rely on a broad initial global customer basis, such as Libra.
+On the other side, a direct provision by the central bank could also benefit from substantial economies of scale, and would reduce costs relating to credibility-providing mechanisms (Klein and Leffler 1981), regulatory compliance, equity, etc.
+ Third, the remuneration rate of private digital currencies would be determined by the
+efficiency of competing issuing entities and the rate of remuneration of reserves (be they
+deposits with the central bank or a mixture of other high-quality assets). For example,
+Libra would, according to the Libra white paper, not be remunerated, implying normally
+
+332
+
+INTERNATIONAL JOURNAL OF POLITICAL ECONOMY
+
+Households, pension and investment funds, insurance companies
+Real Assets
+20
+Household Equity
+Sight deposits
+5 - STC2
+Savings + me deposits
+4
+Bank loans
+STC
+STC2+STC1
+Banknotes
+1 -STC1
+Bank bonds
+4
+Corporate/state bonds
+7
+Equity
+8
+
+40
+5
+
+Stable coin issuing vehicle
+Deposits with CB
+Loans to corporates
+Loans to government
+Loans to HH
+Corp/gvt bonds
+
+Credit to banks
+
+STC2+STC1
+
+STC issued
+
+STC2+STC1
+
+Commercial Banks
+Sight deposits
+7 –STC2
+Savings + me deposits
+5
+Bonds issued
+4
+Equity
+3
+Central bank credit
+STC2
+Central Bank
+1+ STC2
+Banknotes issued
+1 -STC1
+Deposits of banks
+0
+STC deposits
+STC2+STC1
+
+8
+2
+5
+5
+
+Figure 7. Financial accounts representation of stable coin holds its reserves with the central bank.
+
+a positive carry (seignorage), but potentially also a negative carry if global interest rates
+are very low and partially negative. The central bank may choose for CBDC in principle
+any remuneration formula, including tiering systems. In so far, CBDC allows for better
+control. The competitiveness of STCCB/NBDC would also depend on the operational
+framework applied by the central bank, notably whether it operates in a corridor or a
+floor system, with the latter being more favorable to NBDC. A corridor system with a
+sufficient spread (e.g. 100 basis points) between the market overnight target rate and the
+remuneration rate of reserves would reduce the competitiveness of STCCB/NBDC
+schemes relative to the case of a floor system in which market overnight rates would be
+close to the rate of remuneration of reserves.
+ Fourth, the regulatory treatment of private digital currencies will matter, as it may constrain their operations or make them more costly.
+ Finally, STCCB/NBDC schemes depend on the willingness of the central bank to grant the
+issuer access to central bank deposits. Only if the issuer comes along with a normal banking
+license, the central bank may anyway be obliged to allow it to deposit at standard conditions.
+CONCLUSIONS
+This article tried further to demystify CBDC, also by representing it in a simple system of
+financial accounts, which allows capturing its flow of funds implications. Moreover, the
+paper revisited the question how to address the risk, rightly stressed in the literature, that
+
+WINTER 2019
+
+333
+
+CBDC could structurally, or cyclically (in relation to financial crises) disintermediate the
+banking system. A simpler and less innovative alternative to the approach of Kumhof and
+Noone (2018) is developed, which relies on a tiered remuneration of CBDC, in line with
+long-tested central bank logic and practice. To use the terminology of Basil Moore (1988),
+the approach proposed here may be considered a “horizontalist” one, which is more instinctive to central bank market operations practitioners, in contrast to the contingent “verticalist”
+elements foreseen in Kumhof and Noone (2018). At the same time, it was acknowledged that
+the control of CBDC quantities is not equivalent to the control of the impact of CBDC on
+the financial system. In particular, CBDC might be a catalyst for the further shrinkage of
+bank balance sheets at the benefit of non-bank intermediaries, in particular if CBDC accounts
+offer relatively comprehensive account services such that many households may no longer
+feel a need to have a bank deposit account.
+As remarked by Carstens (2019: 10), central banks are not there to “put a brake on innovations just for the sake of it”, but to ensure that implications of major changes are well understood so “that innovations set the right course for the economy, for businesses, for citizens, for
+society as a whole”. From this perspective, this paper may suggest that central banks could be
+somewhat open to studying CBDC, although the overall business case and the precise risks to
+change the financial system in a disruptive way deserve further analysis. This conclusion seems
+similar to the one of Juks (2018), although Juks is less assertive on the tools to address possible
+unwarranted effects of the introduction of CBDC. The overall business case for CBDC will
+also still depend on preferences of households as money users and voters. In progressive countries, in which the demand for banknotes falls rapidly and in which electronic payments have
+become the normal, a business case for CBDC seems relatively plausible. The recent take up of
+attention devoted to stable coins or related projects such as Libra, and the similarity of financial
+accounts implications of stable coins to the ones of CBDC suggests that the discussions on
+CBDC should take place also in the context of such private electronic money innovations.
+ACKNOWLEDGMENT
+Opinions expressed in this paper are my own ones, and not necessarily those of the ECB. I
+would like to thank for their helpful comments Lea Bitter, Dirk Bullmann, Benoit Coeure,
+Frank Heinemann, Reimo Juks, Michael Kumhof, Clare Noone, Martin Summer, Jens
+Tapking, Fabrizio Zennaro, and participants to the 46th Economic Conference of the OeNB
+in co-operation with SUERF on 2/3 May in Vienna, participants to the conference on the
+Future of Central Banking in Talloires/France on 26 May 2019, as well as members of the
+ECB Market Operations Committee. All remaining errors are mine.
+NOTES
+1. Recent publications include Engert and Fung (2017), CPMI-MC (2018), Kumhof and Noone (2018), Sveriges
+Riksbank (2018), Armelius et al. (2018), Juks (2018), Nessen, Sellin and Sommar (2018) – see also the further
+literature referenced there. According to the survey of Barontini and Holden (2019: 7), 70% of responding central
+
+334
+
+2.
+
+3.
+
+4.
+
+5.
+6.
+7.
+
+8.
+
+INTERNATIONAL JOURNAL OF POLITICAL ECONOMY
+
+banks are currently engaged in CBDC work. Five central banks would be progressing on, or running pilot
+projects (8).
+Of course, it is not excluded that effective solutions preventing money laundering and other illicit activities
+and a high security and control of the circulating amount of CBDC can be achieved with a token CBDC.
+However, as also convincingly argued by Berentsen and Sch€ar (2018), a deposit based CBDC offers simpler
+solutions to all of these issues.
+The “sovereign money” idea has nothing to do with “modern monetary theory” (MMT). The former is about
+substituting commercial bank money with central bank money, while the latter is about the interaction between
+monetary and fiscal policy.
+Armelius et al. (2018) also consider that the net macro-economic benefits of CBDC depend on the positive
+effects from a more efficient and resilient payment system, against the possible negative effects on credit
+provision and financial stability.
+A financial accounts framework to analyse CBDC is also used by Meaning et al. (2018), but more in the form
+of a graphical illustration.
+Juks (2018 section 5) also distinguishes three forms of runs, although not identical ones. Still the conclusions
+are rather similar.
+GUIDELINE OF THE EUROPEAN CENTRAL BANK of 20 February 2014 on domestic asset and liability
+management operations by the national central banks (ECB/2014/9), as amended by GUIDELINE OF THE
+EUROPEAN CENTRAL BANK of 5 June 2014 amending Guideline ECB/2014/9 on domestic asset and
+liability management operations by the national central banks (ECB/2014/22).
+https://www.ecb.europa.eu/paym/erms/html/index.en.html
+
+REFERENCES
+Armelius, H., P. Boel, C.A. Claussen, and M. Nessen. 2018. “The E-Krona and the Macroeconomy.” Sveriges
+Riksbank (3): 43–65.
+Bank of England. 1969. “The Bank of England Note: A Short History.” Quarterly Bulletin 211–L.
+Barrdear, J., and M. Kumhof. 2016. “The Macroeconomics of Central Bank Issued Digital Currencies.” Bank of
+England Staff Working Paper No. 605.
+Barontini, C., and H. Holden. 2019. “Proceeding with Caution – a Survey on Central Bank Digital Currencies.” BIS
+Paper No. 101.
+Benes, J., and M. Kumhof. 2012. “The Chicago Plan Revisited.” IMF WP/12/202.
+Berentsen, A., and F. Sch€ar. 2018. “The Case for Central Bank Electronic Money and the Non-Case for Central
+Bank Cryptocurrencies.” Federal Reserve Bank of St. Louis Review 100: 97–106.
+Bindseil, U. 2019. Central Banking Before 1800: A Rehabilitation. Oxford, UK: Oxford University Press,
+forthcoming.
+Bindseil, U., and J. Jablecki. 2011. “The Optimal Width of the Central Bank Standing Facilities Corridor and
+Banks’ Day-to-Day Liquidity Management.” ECB Working Paper Series No. 1350.
+Bindseil, U., M. Corsi, B. Sahel, and A. Visser. 2017. “The ECB Collateral Framework Explained.” ECB
+Occasional Paper No. 189.
+B€usch, J. G. 1801. S€
+amtliche Schriften €
+uber Banken und M€
+unzwesen—Abhandlungen von den Banken. Hamburg:
+Carl Ernst Bohn.
+Bullmann, D., A. Klemm, and A. Pinna. 2019. “In Search for Stability in Crypto-Assets: Are Stablecoins the
+Solution?” ECB Occasional Paper No. 230.
+Carstens, A. 2019. “The Future of Money and Payments.” Speech Held in Dublin, March 22.
+Costabile, L., and E. Nappi. 2018. “The Public Banks of Naples between Financial Innovation and Crisis.” In
+Financial Innovation and Resilience. A Comparative Perspective on the Public Banks of Naples (1462–1808), ed.
+L. Costabile and L. Neal, 55–70. Palgrave Studies in the History of Finance. Basingstoke: Palgrave-Macmillan.
+CPMI-MC. 2018. “Central Bank Digital Currencies.” Join report by the Committee on Payments and Market
+Infrastructures and the Markets Committee. Basel: Bank of International Settlement.
+Deutsche Bundesbank. 1976. Deutsches Geld- und Bankwesen in Zahlen 1876–1975. Statistischer Beiband zur
+Bundesbank - Festschrift, W€ahrung und Wirtschaft 1876 – 1975. Frankfurt am Main: Deutsche Bundesbank.
+
+WINTER 2019
+
+335
+
+Dunbar, C. F. 1906. Chapters on the Theory and History of Banking. Second enlarged edition, ed. O.M.W. Sprague:
+New York and London: Sprague, G.P. Putman’s Sons.
+Dyson, B., and G. Hodgson. 2016. Digital Cash: Why Central Banks Should Start Issuing Electronic Money.
+London: Positive Money.
+ECB Crypto-Assets Task Force. 2019. “Crypto-Assets: Implications for Financial Stability, Monetary Policy, and
+Payments and Market Infrastructures.” ECB Occasional Paper. No. 223.
+Engert, Walter, and Ben S. Fung. 2017. “Central Bank Digital Currencies: Motivations and Implications.” Staff
+Discussion Paper 2017–16. Bank of Canada.
+European Central Bank. 2016. Guideline (EU) 2016/2249 of the European Central Bank of 3 November 2016 on the
+legal framework for accounting and financial reporting in the European System of Central Banks (ECB/2016/34)
+(recast), published in the Official Journal of the European Union L 347/37, 20 December 2016.
+G7 Working Group on Stablecoins. 2019. “Investigating the Impact of Global Stablecoins.” Joint group by the BIS,
+CPMI, IMF, and G7.
+H€aring, N. 2018. Die Abschaffung des Bargelds und die Folgen [The Abolition of Cash and the Consequences].
+Bastei L€ubbe Taschenbuch.
+Huber, J. 1999. “A Proposal for Supplying the Nations with the Necessary Means in a Modern Monetary System.”
+Der Hallesche Graureiher :99–93. Revised version October 1999.
+Jobst, C., and H. Stix. 2017. “Doomed to Disappear? The Surprising Return of Cash across Time and Across
+Countries.” CEPR Paper : DP12327.
+Juks, R. 2018. “When a Central Bank Digital Currency Meets Private Money: Effects of an E-Krona on Banks.”
+Sveriges Riksbank Economic Review 2018 (3):79–98.
+Klein, B., and K. B. Leffler. 1981. “The Role of Market Forces in Assuring Contractual Performance.” Journal of
+Political Economy 89 (4):615–641. doi: 10.1086/260996.
+Kumhof, M., and C. Noone. 2018. “Central Bank Digital Currencies - Design Principles and Balance Sheet
+Implications.” Bank of England Staff WP No. 725.
+Mancini-Griffoli, T., M. S. Martinez Peria, I. Agur, J. Kiff, A. Popescu, and C. Rochon. 2018. “Casting Light on
+Central Bank Digital Currency.” IMF Staff Discussion Note, August 18.
+Mayer, T., and R. Huber. 2014. Vollgeld. Das Geldsystem der Zukunft. Unser Weg aus der Finanzkrise [Full of
+Money. The Monetary System of the Future. Our Way out of the Financial Crisis]. Tectum.
+Meaning, J., J. Barker, E. Clayton, and B. Dyson. 2018. “Broadening Narrow Money: Monetary Policy with a
+Central Bank Digital Currency.” Bank of England Staff Working Paper, No. 724.
+Mersch, Y. 2018. “Virtual or Virtueless? The Evolution of Money in the Digital Age.” Lecture at the Official
+Monetary and Financial Institutions Forum, London, February 8.
+Moore, B. 1988. Horizontalists and Verticalists: The Macroeconomics of Credit Money. Cambridge: Cambridge
+University Press.
+Nessen, M., P. Sellin, and P.A. Sommar. 2018. “The Implications of an E-Krona for the Riksbank’s Operational
+Framework for Implementing Monetary Policy.” Sveriges Riksbank Economic Review 3: 29–42.
+Nyborg, K. 2016. Collateral Frameworks: The Open Secret of Central Banks. Cambridge: Cambridge University
+Press.
+Pollock, Alex J. 2018. “Testimony to the Subcommittee on Monetary Policy and Trade of the Committee on Financial
+Services”, United States House of Representatives, Hearing on “The Future of Money: Digital Currency”, July 18.
+Reichsbank. 1925. Die Reichsbank 1901–1925. Berlin: Druckerei der Reichsbank.
+Rogoff, K. 2016. The Curse of Cash. Princeton: Princeton University Press.
+Roberds, J., and F. Velde. 2014. “Early Public Banks.” Federal Reserve Bank of Atlanta Working Paper Series,
+2014-9.
+Saville, R. 1996. Bank of Scotland, A History, 1695–1995. Edinburgh: Edinburgh University Press.
+Sveriges Riksbank. 2018. The Riksbank’s e-krona project – Report 2, October.
+Ugolini, S. 2017. The Evolution of Central Banking: Theory and History. Palgrave Studies in Economic History.
+London: Palgrave-Macmillan.
+
+Ulens, R. 1908. Les banques d’emission. [The Issuing Banks]. Etudes
+historiques et de legislation comparee
+[Historical studies and comparative legislation]. Brussels: Hayez.
+Van Dillen, J. G. 1934. “The Bank of Amsterdam.” In History of the Principal Public Banks, ed. J. G. Van Dillen,
+79–123. Lieden: Nijhoff.
+
+

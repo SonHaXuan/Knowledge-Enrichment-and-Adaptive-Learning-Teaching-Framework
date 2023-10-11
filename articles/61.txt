@@ -1,0 +1,1282 @@
+                            INTERNATIONAL JOURNAL OF FINANCE & BANKING STUDIES 11 (2) (2022) 49-68
+
+
+
+                                                                                      Finance & Banking Studies
+                                                                                             IJFBS VOL 11 NO 2 ISSN: 2147-4486
+                                                                                                              Available online at www.ssbfnet.com
+                                                                                    Journal homepage: https://www.ssbfnet.com/ojs/index.php/ijfbs
+
+
+
+
+A Two-Period Decision Model for Central Bank Digital Currencies
+and Households
+Guizhou Wang (a),                  Kjell Hausken (a)*
+(a)
+      Faculty of Science and Technology, University of Stavanger, 4036 Stavanger, Norway
+
+
+
+      ARTICLE INFO                                    ABSTRACT
+
+      Article history:                                Central bank digital currencies (CBDCs) give rise to many possibilities including those of negative
+                                                      interest rates. A two-period decision model is presented between one central bank and one
+      Received 03 May 2022                            representative household. The central bank applies the Taylor (1993) rule to choose its interest rate.
+      Received in rev. form 28 May 2022               The household allocates its resources strategically to production, consumption, CBDC holding, and
+      Accepted 30 May 2022                            non-CBDC holding. The results are determined analytically and illustrated numerically by varying 19
+                                                      parameter values. Interesting novelties of the article are that the central bank may choose negative
+                                                      CBDC interest rates when the household holds far more CBDC than non-CBDC, for low inflation
+      Keywords:                                       rates, low real interest rates, low household’s potential production, low weight assigned to inflation in
+      Central Bank, Digital Currency,                 the Taylor (1993) rule, high target inflation rate, and high household’s production parameter. That
+      Transaction Efficiency, Decision                usually causes the household to decrease its CBDC holding and increase its non-CBDC holding,
+      Theory, Inflation, Economic Shocks              production and consumption. The central bank may increase its CBDC interest rate to compete with
+                                                      an increasing non-CBDC interest rate if the household’s transaction efficiencies for CBDC and non-
+      JEL Classification:                             CBDC increase, or the household’s transaction efficiency for consumption decreases. Shocks to
+      C6                                              production, inflation and interest rates are analyzed.
+
+                                                      © 2022 by the authors. Licensee SSBFNET, Istanbul, Turkey. This article is an open access article
+                                                      distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license
+                                                      (http://creativecommons.org/licenses/by/4.0/).
+
+
+
+
+Introduction
+Background
+
+Technological developments in cryptography and blockchain have made digital currencies worldwide accessible. Central banks
+increasingly explore and develop CBDCs (central bank digital currencies). The Bank for International Settlements predicts that
+central banks for 20% of 7.9 billion people can be expected to issue CBDCs within three years (Boar & Wehrli, 2021). New
+cryptocurrencies emerge every day. December 30, 2021, 16,211 cryptocurrencies contribute to a market cap of $1.8 trillion.1. G.
+Wang, Zhang, Yu, and Ning (2021) provide a holistic picture of cryptocurrencies and blockchain research. Bhimani, Hausken, and
+Arif (2022) assess cryptocurrency adoption.
+
+Digital currencies provide new possibilities that include higher transaction efficiencies, universal accessibility, confidentiality and
+privacy, flexible monetary policy, etc. Theoretically, low or negative interest rates can stimulate production and consumption. Some
+countries currently choose negative interest rates. For example, Blanke and Krogstrup (2016) cite the negative interest rates -0.75%
+for Switzerland, -0.5% for Denmark, and -0.1% for Japan. CBDSc make a negative interest policy more widely feasible, which can
+impact the economy substantially. That suggests a need for thorough analysis.
+
+
+
+
+1
+    https://coinmarketcap.com/, retrieved April 28, 2022.
+
+* Corresponding author. ORCID ID: orcid.org/0000-0001-7319-3876
+© 2022 by the authors. Hosting by SSBFNET. Peer review under responsibility of Center for Strategic Studies in Business and Finance.
+https://doi.org/10.20525/ijfbs.v11i2.1789
+                 Wang and Hausken, International Journal of Finance & Banking Studies 11(2) (2022), 49-68
+
+
+Contribution
+This article is the first in a series of two articles. This first article builds the decision model involving the central bank applying the
+Taylor (1993) rule and a representative household choosing strategically and compares with a benchmark solution assumed to be
+common in practice. The second article, G. Wang and Hausken (2022), compares with the empirics for the US, China and Russia.
+The objective and research question intended to fill the current research gap are to explore the relationship between positive and
+negative CBDC interest rates and a household’s production, consumption, CBDC holding and non-CBDC holding. A CBDC in this
+article can be interpreted as money supply M2 issued by the central bank. A two-period decision model is developed involving a
+central bank and a representative household. The central bank applies the Taylor (1993) rule to determine its positive or negative
+CBDC interest rate. A Cobb Douglas utility with four elasticities for the household accounts for the household allocating its resources
+strategically to production, consumption, CBDC holding, and non-CBDC holding.
+A central bank fully controls its monetary policy and applies a variety of policy instruments, sometimes referred to as discretionary
+policy. Although no central bank officially uses the Taylor (1993) rule, the rule is frequently used as indicative of what a central bank
+does or may do. Even for central banks occasionally or more permanently applying a fixed exchange rate strategy, the rule may be
+indicative if economic conditions are comparable to other countries. The rule was proposed by Taylor (1993) in 1992 to stabilize
+economic policy by determining an interest rate based on inflation and production.
+The four elasticities are adjusted by the CBDC and non-CBDC interest rates, and the household’s transaction efficiency which
+increases with the household’s CBDC and non-CBDC holdings and decreases with consumption. Solutions are provided analytically
+and numerically relative to a benchmark for how 19 parameters impact the central bank’s application of the Taylor (1993) rule and
+the household’s strategies. The impacts are analyzed of shocks to production, inflation, and the CBDC, non-CBDC, and real interest
+rates.
+Article organization
+Section 2 provides a literature review. Section 3 develops the methodology and the model. Section 4 examines the model. Section 5
+shows and exemplifies the solution. Section 6 analyzes shocks to production, inflation, the CBDC interest rate, the non-CBDC interest
+rate, and the real interest rate. Section 7 discusses the results with economic interpretation. Section 8 concludes.
+
+Literature Review
+The literature has four categories. First, CBDCs enable central banks to implement negative interest rates which may become an
+important policy. Second, the central bank, one of the two actors in the article, provide and design the CBDC, and assess its impact.
+The third part presents decision theoretic analyses. The fourth part is about CBDCs and policy implications.
+Negative interest rates
+
+The article explores how a negative CBDC interest rate is connected to a household’s allocations into production, consumption, and
+holding CBDC and non-CBDC. Grasselli and Lipton (2019) think that CBDCs enable the central bank to overcome any lower interest
+rate bound. They build a stock-ﬂow macroeconomic model to explore the theoretical eﬀectiveness of negative interest rates. They
+show that negative interest rates have lower impact on consumption than on investment. In contrast, we show that negative interests
+greatly and positively impacts both production and consumption.
+Czudaj (2020) evaluates the effectiveness of negative interest rates based on expectations data from surveys for 44 economies 2002-
+2017. He finds reduced expectations for 10-year government bond yields and 3-month money market interest rates, and positive
+impact on GDP growth and preventing deflation, consistently with the current article.
+Jia (2020) presents a model to investigate the macroeconomic impact of negative interest rates on CBDC. He shows that negative
+interest rates compel agents to save less and consume more, which in turn leads to declining capital investment and output. In the
+current article agents also save less CBDC and consume more. In contrast, the current article finds that agents save more non-CBDC
+and produce more.
+M. Davoodalhosseini, Rivadeneyra, and Zhu (2020) suggest that an interest-bearing CBDC is a versatile instrument for a central
+bank. Theoretically, it may boost monetary policy. For instance, it can impose a negative interest rate, carry out non-linear transfers,
+decrease incentives to use alternative means of payments like cash, etc. That partly relates to the current article’s finding that a
+household’s CBDC holding is typically the opposite of its non-CBDC holding.
+Assenmacher and Krogstrup (2021) think that digital money removes how monetary policy is constrained by a lower bound. They
+investigate how a central bank may construct and run a negative interest rate system. They show that without the lower bound
+constraint, the central bank can stabilize the economy by applying conventional policies. With low to intermediate real interest rates,
+the central bank can make deﬂationary spirals and the length of business cycle downturns less likely. That partly relates to the current
+article’s finding of how the CBDC interest greatly impacts each household.
+
+
+50
+                 Wang and Hausken, International Journal of Finance & Banking Studies 11(2) (2022), 49-68
+
+
+Meaning, Dyson, Barker, and Claytona (2021) point out that central banks may pay positive, zero or negative interest rates, and may
+impose different rates on different CBDC holders. This flexibility could be an important monetary policy instrument, to stabilize
+inflation and output, and regulate demand. That issue can be explored in a future extension of the current article by assuming
+households with different characteristics.
+Mooij (2021) explores the legal framework in the Eurozone, including whether CBDCs could be classified as legal tender, and used
+as a monetary policy instrument. He concludes that the ECB mandate legally permits using CBDCs. He suggests that a CBDC
+enabling interest can decrease the negative lower bound to near zero, and that negative CBDC interest rates may cause capital flows
+into cryptocurrencies. That is consistent with the current article’s finding that a household’s CBDC holding is usually the opposite
+of its non-CBDC holding.
+Some research has focused on pre-commitment rules, dynamic consistency and optimal policy related to negative interest rate. For
+example, Borio and Zabai (2018) find that various unconventional policies including negative interest rates in varying degrees
+influence financial conditions. They suggest that the policies are exceptional, for use in specific circumstances, and that the cost-
+benefit balance is likely to deteriorate over time. They criticize prevailing analyses of helicopter money and explore the risks
+associated with negative nominal interest rates. Ferrero and Neri (2017) assess reasons for historically low interest rates, including
+structural factors and cyclical and financial phenomena. They frame their assessment around a so-called natural interest rate and a
+transmission mechanism for money. They attempt to specify possible policy changes that may follow.
+Decision theoretic analyses
+The article considers a decision model involving the central bank choosing the CBDC interest rate and a representative household
+choosing production, consumption, holding CBDC and holding non-CBDC. G. Wang and Hausken (2021) build a model involving
+a representative household selecting a cryptocurrency or a national currency, analogously to the current article where a household
+chooses whether to hold CBDC or non-CBDC, and selects the probability of tax evasion for each currency. The government decides
+how to tax the two currencies, and how to detect and impose penalties for tax evasion. Welburn and Hausken (2015, 2017) investigate
+economic crises. Six kinds of players are included. These are countries, central banks, firms, banks, households, and financial inter-
+governmental organizations. Each player has multiple strategies, i.e. choosing interest rate, borrowing, lending, producing,
+consuming, investing, defaulting, etc.
+CBDC design and the economy
+The article considers the features of CBDC, i.e., higher transaction efficiencies for consumption, compared to non-CBDCs (including
+Bitcoin, bonds, stocks, etc.) and flexible monetary policies that include negative interest rates. Kiff et al. (2020) review the literature
+on central bank experiments, present main considerations on retail CBDCs, and provide a structured framework for CBDC issuance.
+Allen et al. (2020) argues that CBDCs may achieve a broad range of new capabilities, e.g., frictionless payments, new financial
+instruments, direct disbursements, broader tax bases, financial inclusion, the overcoming of technological vulnerabilities, etc. But
+CBDCs also lead to various challenges related to privacy, security, disintermediation of the banking system, etc. They summarize
+the basic technical design choices of CBDCs, especially as they relate to privacy, security, and performance. Auer and Böhme (2020)
+focus on retail CBDCs. They depict the CBDC pyramid that maps consumer needs into the CBDC design choice of central banks.
+They argue that the retail CBDC design needs to make tradeoffs between being secure, accessible, convenient and the safeguarding
+of privacy. Additional assessments addressed in the current article are how a household compares CBDC against non-CBDC,
+production and consumption.
+Agur, Ari, and Dell’Ariccia (2021) present an optimal CBDC design, where each agent holds cash, CBDCs and bank deposits. The
+agent chooses based on its preference for anonymity and security. They find that the optimal CBDC design entails a tradeoff between
+bank intermediation and the maintenance of various payment instruments. H. Wang and Gao (2021) investigate various types of
+CBDCs and their implications on regulation and global financial networks. They suggest that the optimal CBDC networks will be
+decentralized, and cause monetary policy diffusion without regulatory convergence. Lee, Yan, and Wang (2021) explore how a
+CBDC structure can keep a balance between benefits and risks. Advantages of CBDC include inclusiveness, cost-saving, managed
+anonymity, lower cross-border payments, transaction efficiency, security, and more. The risks of CBDCs include bank
+disintermediation, blockchain-based technology vulnerabilities, and the regulation of shadow and derivate markets of CBDCs. They
+conclude that CBDCs will become the primary tools of the digital economy.
+
+Urbinati et al. (2021) present the status quo of CBDC-related work worldwide. They illustrate a potential digital euro solution that
+will combine an account-based platform and distributed ledger technology. Based on the experiments, they find that this combination
+may provide a sound solution for regulations and retail demand. Choi, Henry, Lehar, Reardon, and Safavi-Naini (2021) introduce a
+hypothetical retail CBDC design for the Bank of Canada. They think that the design is sound and feasible because it is scalable,
+resilient, privacy-centric, and universally accessible. Boar and Wehrli (2021) survey worldwide CBDC developments. They find that
+central banks for 20% of 7.9 billion people can be expected to issue CBDCs within three years.
+
+
+
+
+                                                                                                                                        51
+                 Wang and Hausken, International Journal of Finance & Banking Studies 11(2) (2022), 49-68
+
+
+CBDCs and policy implications
+This article relates to this literature by exploring positive and negative CBDC interest rates, and transaction efficiencies. Böser and
+Gersbach (2020) examine the impact of an interest-bearing CBDC on bank activities and monetary policy. They point out that setting
+appropriate collateral requirements will boost aggregate productivity. However, if households hold massive amounts of CBDCs,
+policy with restrictive collateral requirements is risky for banks related to liquidity. That may induce the central bank to abandon
+these policies. This illustrates the dilemmas faced by central banks when issuing CBDCs. S. M. Davoodalhosseini (2021) explores
+the optimal monetary policy when an agent chooses between cash and a CBDC. He finds that only a CBDC may be used if its cost
+is limited, since more eﬃcient allocations can be achieved.
+Beniak (2019) discusses potential challenges of CBDC implementation for monetary policy. He points out that CBDCs will impact
+the interest rates of the central bank, implementation of policy, and the mechanism for transmission. These impacts depend on the
+design of, and the demand for, CBDC. Bindseil (2020) summarizes the advantages of CBDCs, which include efficient payments,
+anti-illegal activities, flexible monetary policy with a negative interest rate, etc. The potential risks of CBDCs are bank
+disintermediation, systemic runs on banks, possible centralization within the central bank, etc. He introduces a two-tier remuneration
+of CBDC as a solution. Bindseil and Fabio (2020) think that a two-tier CBDC provides a sound solution to issues like bank
+disintermediation, negative interest rate policy, financial stability, etc. The CBDC with tiered remuneration has four key objectives,
+including being an attractive means of payment, being universally accessible, depressing the risks of structural bank
+disintermediation, and providing negative interest rates.
+
+Methodology: The model
+This section specifies how the central bank determines the interest rate through the Taylor (1993) rule. The household’s resource
+constraint for production, consumption, CBDC holding and non-CBDC holding, is specified. The household’s utility is built up
+gradually over four steps. Appendix A shows the nomenclature.
+The central bank’s Taylor (1993) rule application
+The central bank applies in period 1 the Taylor (1993) rule to determine the interest rate
+
+                                            𝑝ℎ
+ 𝐼𝑚 = max {𝜋 + 𝐼𝑟 + 𝑎𝜋 (𝜋 − 𝜋 ∗ ) + 𝑎𝑝 𝐿𝑜𝑔 ( ℎ ) , 𝑧}                                                                          (1)
+                                            𝑝̅
+
+where 𝐼𝑟 , 𝐼𝑟 ∈ ℝ, is the equilibrium real interest rate, where ℝ is the set of all real numbers; 𝜋, 𝜋 ∈ ℝ, is the inflation rate (which can
+be positive or negative); 𝜋 ∗ , 𝜋 ∗ ∈ ℝ, is the desired inflation rate; 𝑝ℎ , 𝑝 ≥ 0, is the representative household’s production; ℎ is a
+production parameter; 𝑝̅ ℎ , 𝑝̅ ≥ 0, is the household’s potential production (which can be sustained over the long term); 𝐿𝑜𝑔 is the
+logarithm with base ten; 𝑎𝜋 , 𝑎𝜋 ≥ 0, is the weight assigned to inflation; 𝑎𝑝 , 𝑎𝑝 ≥ 0, is the weight assigned to production; and 𝑧, 𝑧 ≤
+0, is the negative lower bound on the interest rate 𝐼𝑚 .
+
+The household’s strategic choices and utility
+
+The representative household has resources 𝑟 which comprise labor capacity and convertible assets. The resources 𝑟 are in period 2
+converted at unit cost 𝑎 into production 𝑝, and converted at unit cost 1 into consumption 𝑐, CBDC (Central Bank Digital Currency)
+𝑚, and non-CBDC 𝑞, i.e.
+
+ 𝑟 = 𝑎𝑝 + 𝑐 + 𝑚 + 𝑞                                                                                                            (2)
+
+where 𝑐, 𝑚, 𝑞 are equivalently scaled on a suitable scale, e.g. US$. As CBDCs are not widely available at the time of writing this
+article, we may interpret CBDC as money supply M2 that the central bank issues, made available to the household. The household’s
+production 𝑝 follows from applying its labor capacity which may generate a salary or useful products. The non-CBDC 𝑞 can be a
+cryptocurrency such as Bitcoin, a CBDC from another central bank, or any asset. The CBDC 𝑚 and non-CBDC 𝑞 are money demands
+which in (2) have the same interpretation as resource allocation into any asset. The household’s production 𝑝 causes productive
+output 𝑝ℎ , where ℎ = 1 means linear production, ℎ > 1 means convex production, 0 < ℎ < 1 means concave production, and ℎ = 0
+means no production.
+The household’s Cobb Douglas utility is advanced in four steps. First, the household’s Cobb Douglas utility has four output
+elasticities. The first is 𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 for production, 0 ≤ 𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ≤ 1, where 𝛼 is the basic elasticity from which the
+CBDC interest rate 𝐼𝑚 and the non-CBDC interest rate 𝐼𝑞 , with weights 𝑀 and 𝑄, are subtracted. The reasoning is that when the
+interest rates 𝐼𝑚 and 𝐼𝑞 increase, production decreases as is commonly observed, and is thus assigned lower elasticity or weight.
+
+The second elasticity is 𝛽 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 for consumption, 0 ≤ 𝛽 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ≤ 1, where, analogously, 𝛽 is the basic elasticity
+from which the CBDC interest rate 𝐼𝑚 and the non-CBDC interest rate 𝐼𝑞 , with weights 𝑀 and 𝑄, are subtracted. The reasoning is
+that when the interest rates 𝐼𝑚 and 𝐼𝑞 increase, consumption decreases as is commonly observed, and is thus assigned lower elasticity
+or weight.
+
+52
+                     Wang and Hausken, International Journal of Finance & Banking Studies 11(2) (2022), 49-68
+
+
+The third elasticity is 𝛾 + 2𝑀𝐼𝑚 for saving CBDC 𝑚, 0 ≤ 𝛾 + 2𝑀𝐼𝑚 ≤ 1, where 𝛾 is the basic elasticity to which the CBDC interest
+rate 𝐼𝑚 , with weight 2𝑀, is added. The reasoning is that when the interest rate 𝐼𝑚 increases, the household assigns higher elasticity
+or weight to saving CBDC 𝑚. The weight 2𝑀 is chosen to ensure that the four elasticities sum to 1.
+
+The fourth elasticity is 1 − 𝛼 − 𝛽 − 𝛾 + 2𝑄𝐼𝑞 for saving non-CBDC 𝑞, 0 ≤ 1 − 𝛼 − 𝛽 − 𝛾 + 2𝑄𝐼𝑞 ≤ 1, where 1 − 𝛼 − 𝛽 − 𝛾 is
+the basic elasticity to which the non-CBDC interest rate 𝐼𝑞 , with weight 2𝑄, is added. The reasoning is that when the interest rate 𝐼𝑞
+increases, the household assigns higher elasticity or weight to saving non-CBDC 𝑞. The weight 2𝑄 is chosen to ensure that the four
+elasticities sum to 1. The household’s utility is thus
+
+ 𝑈1 = 𝑝ℎ(𝛼−𝑀𝐼𝑚 −𝑄𝐼𝑞) 𝑐 𝛽−𝑀𝐼𝑚−𝑄𝐼𝑞 𝑚𝛾+2𝑀𝐼𝑚 𝑞1−𝛼−𝛽−𝛾+2𝑄𝐼𝑞                                                                                         (3)
+
+which manifests constant returns to scale. Since the Cobb Douglas elasticities sum to 1, increasing one elasticity means that at least
+one other elasticity must decrease. For example, if 𝛼 and 𝛽 increase, assigning higher weight to production 𝑝 and consumption 𝑐,
+The four exponents sum to 1. Second, the household earns interest 𝐼𝑚 on CBDC 𝑚, and earns interest 𝐼𝑞 , 𝐼𝑞 ∈ ℝ, on the non-CBDC
+𝑞. Interest rates are, at least historically, mostly positive. For digital currencies, including CBDC 𝑚 and non-CBDC 𝑞, interest rates
+can be negative. Hence, we multiply 𝑚 and 𝑞 with 1 + 𝐼𝑚 and 1 + 𝐼𝑞 , respectively, to denote how interest rates are earned. Absorbing
+these multiplications into (3) gives
+                                                   𝛾+2𝑀𝐼𝑚                      1−𝛼−𝛽−𝛾+2𝑄𝐼𝑞
+ 𝑈2 = 𝑝ℎ(𝛼−𝑀𝐼𝑚 −𝑄𝐼𝑞 ) 𝑐 𝛽−𝑀𝐼𝑚 −𝑄𝐼𝑞 (𝑚(1 + 𝐼𝑚 ))              (𝑞(1 + 𝐼𝑞 ))                                                                      (4)
+
+Third, to transact between consumption 𝑐, CBDC 𝑚, and non-CBDC 𝑞, the household has to pay transaction costs. The household
+prefers high transaction efficiency, which ceteris paribus expresses lower transaction cost. The household’s transaction efficiency 𝐸
+is modeled to increase with holding CBDC 𝑚 and holding non-CBDC 𝑞, and decrease with consumption 𝑐, i.e.
+            𝑚𝜇 𝑞 𝜂
+ 𝐸=                                                                                                                                            (5)
+             𝜃𝑐 𝜆
+where 𝜇, 𝜇 ≥ 0, is the household’s transaction efficiency for CBDC 𝑚; 𝜂, 𝜂 ≥ 0, is the household’s transaction efficiency for non-
+CBDC 𝑞. The parameter 𝜆 is the household’s transaction efficiency for consumption 𝑐, and 1⁄𝜃, 𝜃 ≥ 0, scales the degree or level
+of the household’s transaction efficiency. The requirement 0 ≤ 𝜆 ≤ 𝛽 ≤ 1 expresses that the household prefers consumption, shown
+as 𝑐 𝛽 in (4), although incurring the transaction cost 1⁄𝑐 𝜆 in (5). The assumption 𝜂 ≥ 𝜆 ensures that the household’s transaction
+efficiency 𝜂 for non-CBDC 𝑞 is higher than or equal to the household’s transaction efficiency 𝜆 for consumption 𝑐.
+                                                 𝜕𝐸          𝜕𝐸          𝜕𝐸          𝜕2 𝐸          𝜕2 𝐸                     𝜕2 𝐸                     𝜕2 𝐸
+In (5) the transaction efficiency 𝐸 satisfies         ≤ 0,        ≥ 0,        ≥ 0,          ≥ 0,          ≤ 0 𝑤ℎ𝑒𝑛 𝜇 ≤ 1,          ≤ 0 𝑤ℎ𝑒𝑛 𝜂 ≤ 1,          ≤
+                                                 𝜕𝑐          𝜕𝑚          𝜕𝑞          𝜕𝑐 2          𝜕𝑚2                      𝜕𝑞 2                     𝜕𝑐𝜕𝑚
+     𝜕2 𝐸
+0,          ≤ 0, see Appendix B. Hence 𝐸 decreases convexly in consumption 𝑐, and increases in the CBDC 𝑚 and the non-CBDC 𝑞.
+     𝜕𝑐𝜕𝑞
+For other accounts of the transaction efficiency 𝐸, often expressed as the transaction cost 1⁄𝐸, see Feenstra (1986), Bougheas (1994),
+and Saygılı (2012).
+
+The inverse 1⁄𝐸 of 𝐸 in (5), interpreted as the transaction cost, is commonly analyzed in the literature, where 𝜃 scales the transaction
+cost. Higher transaction efficiency for CBDC 𝑚 than for non-CBDC 𝑞, to enable negative interest rates 𝐼𝑚 < 0 on CBDC 𝑚, requires
+𝜇 > 𝜂. This article does not impose that requirement since we may have even more negative interest rates 𝐼𝑞 < 𝐼𝑚 < 0 for non-
+CBDC 𝑞. Multiplying (5) with (4) gives the household’s utility
+
+                                                   𝛾+2𝑀𝐼𝑚                      1−𝛼−𝛽−𝛾+2𝑄𝐼𝑞          𝑚𝜇 𝑞 𝜂
+ 𝑈3 = 𝑝ℎ(𝛼−𝑀𝐼𝑚 −𝑄𝐼𝑞 ) 𝑐 𝛽−𝑀𝐼𝑚 −𝑄𝐼𝑞 (𝑚(1 + 𝐼𝑚 ))              (𝑞(1 + 𝐼𝑞 ))                                                                      (6)
+                                                                                                      𝜃𝑐 𝜆
+Fourth, the household’s resource constraint in (2) shows that the household has three free choice variables, i.e. production 𝑝,
+consumption 𝑐 and CBDC 𝑚, where non-CBDC 𝑞 = 𝑟 − 𝑎𝑝 − 𝑐 − 𝑚 follows from solving (2) with respect to 𝑞. Inserting 𝑞 = 𝑟 −
+𝑎𝑝 − 𝑐 − 𝑚 into (6) gives the household’s utility
+                                                 𝛾+2𝑀𝐼𝑚
+ 𝑈 = 𝑝ℎ(𝛼−𝑀𝐼𝑚−𝑄𝐼𝑞) 𝑐 𝛽−𝑀𝐼𝑚−𝑄𝐼𝑞 (𝑚(1 + 𝐼𝑚 ))
+                                                                                                                                               (7)
+                                    1−𝛼−𝛽−𝛾+2𝑄𝐼𝑞   𝑚𝜇 (𝑟 − 𝑎𝑝 − 𝑐 − 𝑚)𝜂
+ × ((𝑟 − 𝑎𝑝 − 𝑐 − 𝑚)(1 + 𝐼𝑞 ))
+                                                            𝜃𝑐 𝜆
+which has three strategic choice variables 𝑝, 𝑐 and 𝑚, and which is the household’s utility 𝑈 which we now proceed to analyze.
+
+We analyze a two-period decision model. In period 1 the central bank applies the Taylor (1993) rule to determine its interest rate 𝐼𝑚 .
+In period 2 the household makes three strategic choices, i.e., production 𝑝, consumption 𝑐, and its holding 𝑚 of CBDC. Applying (1)
+gives the household’s holding 𝑞 of non-CBDC.
+
+
+
+
+                                                                                                                                                            53
+                 Wang and Hausken, International Journal of Finance & Banking Studies 11(2) (2022), 49-68
+
+
+Analyzing the model
+This section determines the household’s production 𝑝, consumption 𝑐, CBDC holding 𝑚, non-CBDC holding 𝑞, and utility 𝑈. An
+implicit solution is presented for the CBDC interest rate 𝐼𝑚 . The signs of the first and second order derivatives of the variables are
+determined. Further analysis is provided when the CBDC interest rate 𝐼𝑚 is a parameter.
+
+Analyzing the household
+Assumption 1.
+                                                                0 ≤ 𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ≤ 1,
+                                                                𝛽 − 𝜆 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ≥ 0,
+ {𝑝 ≥ 0, 𝑐 ≥ 0, 𝑚 ≥ 0, 𝑞 ≥ 0, 𝑈 ≥ 0} ⇔                            𝛾 + 2𝑀𝐼𝑚 + 𝜇 ≥ 0,                                          (8)
+                                                             1 − 𝛼 − 𝛽 − 𝛾 + 𝜂 + 2𝑄𝐼𝑞 ≥ 0,
+                                           {1 − (1 − ℎ)(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ) + 𝜂 − 𝜆 + 𝜇 ≥ 0}
+
+
+Property 1. When Assumption 1 holds, the household’s production 𝑝, consumption 𝑐, CBDC holding 𝑚, non-CBDC holding 𝑞, and
+utility 𝑈, are
+
+                   𝑟ℎ(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 )
+ 𝑝=                                                           ,
+      𝑎(1 − (1 − ℎ)(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ) + 𝜂 − 𝜆 + 𝜇)
+
+                𝑟(𝛽 − 𝜆 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 )
+ 𝑐=                                                  ,
+      1 − (1 − ℎ)(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ) + 𝜂 − 𝜆 + 𝜇
+
+                    𝑟(𝛾 + 2𝑀𝐼𝑚 + 𝜇)
+ 𝑚=                                                      ,
+       1 − (1 − ℎ)(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ) + 𝜂 − 𝜆 + 𝜇
+
+            𝑟(1 − 𝛼 − 𝛽 − 𝛾 + 𝜂 + 2𝑄𝐼𝑞 )
+ 𝑞=                                                  ,
+      1 − (1 − ℎ)(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ) + 𝜂 − 𝜆 + 𝜇
+
+      (1 − 𝛼 − 𝛽 − 𝛾 + 𝜂 + 2𝑄𝐼𝑞 )                                       1−𝛼−𝛽−𝛾+2𝑄𝐼𝑞
+ 𝑈=                                  (1 + 𝐼𝑚 )𝛾+2𝑀𝐼𝑚 (1 + 𝐼𝑞 )
+         𝜃(𝛽 − 𝜆 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 )                                                                                               (9)
+                                                                  ℎ(𝛼−𝑀𝐼𝑚 −𝑄𝐼𝑞 )
+                  −𝑟ℎ(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 )
+ ×(                                            )
+   𝑎 ((1 − ℎ)(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ) − 𝜂 + 𝜆 − 𝜇 − 1)
+
+                                                         −𝛼−𝛽−𝛾+𝜂+2𝑄𝐼𝑞
+           −𝑟(1 − 𝛼 − 𝛽 − 𝛾 + 𝜂 + 2𝑄𝐼𝑞 )
+ ×(                                        )
+   (1 − ℎ)(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ) − 𝜂 + 𝜆 − 𝜇 − 1
+                                                         1+𝛽−𝜆−𝑀𝐼𝑚 −𝑄𝐼𝑞
+              −𝑟(𝛽 − 𝜆 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 )
+ ×(                                        )
+   (1 − ℎ)(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ) − 𝜂 + 𝜆 − 𝜇 − 1
+                                                         𝛾+2𝑀𝐼𝑚 +𝜇
+             −𝑟(𝛾 + 2𝑀𝐼𝑚 + 𝜇)
+ ×(                                        )
+   (1 − ℎ)(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ) − 𝜂 + 𝜆 − 𝜇 − 1
+
+
+
+Proof. Appendix C. ∎
+
+Analyzing the central bank
+
+Property 2. When Assumption 1 holds, the central bank’s CBDC interest rate 𝐼𝑚 for the household’s CBDC holding 𝑚 is
+
+                                                         𝑟ℎ(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 )
+ 𝐼𝑚 = max {𝜋 + 𝐼𝑟 + 𝑎𝜋 (𝜋 − 𝜋 ∗ ) + 𝑎𝑝 ℎ𝐿𝑜𝑔 (                                             ) , 𝑧}                           (10)
+                                             𝑎(1 − (1 − ℎ)(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ) + 𝜂 − 𝜆 + 𝜇)𝑝̅
+
+
+
+Proof. Follows from inserting 𝑝 in (9) into (1). ∎
+
+Since the CBDC interest rate 𝐼𝑚 appears on the left-hand side and twice inside the logarithm 𝐿𝑜𝑔 with base ten in (10), 𝐼𝑚 has no
+analytical solution and is determined numerically.
+54
+                            Wang and Hausken, International Journal of Finance & Banking Studies 11(2) (2022), 49-68
+
+
+Analyzing the household and the central bank
+
+The CBDC interest rate 𝐼𝑚 in (10) depends on 𝑟,𝑎,𝛼,𝑀,𝑄,𝐼𝑞 ,𝜇,𝜂,𝜆,𝐼𝑟 ,𝜋,𝜋 ∗ ,ℎ,𝑝̅ ,𝑎𝜋 ,𝑎𝑝 ,z, and hence does not depend on 𝛽,𝛾,𝜃. Assume
+               𝑘𝑟
+that 𝑝̅ =           , which means that the household’s potential production 𝑝̅ is a fraction 𝑘, 0 ≤ 𝑘 ≤ 1, where 𝑘 is a parameter, of the
+                𝑎
+                                                                 𝑟
+maximum possible production 𝑝 = obtained when 𝑐 = 𝑚 = 𝑞 = 0 in (2). Then 𝐼𝑚 in (10) also does not depend on 𝑟 and 𝑎. Hence
+                                                                 𝑎
+Property 3 determines the derivatives of 𝑝, 𝑐, 𝑚, 𝑞, 𝑈 with respect to 𝛽, 𝛾, 𝜃, 𝑟, 𝑎 when 𝑝̅ = 𝑘𝑟/𝑎.
+                                                                              𝜕𝑝        𝜕𝑝        𝜕𝑝            𝜕2 𝑝       𝜕2 𝑝       𝜕2 𝑝          𝜕𝑝          𝜕2 𝑝          𝜕𝑝          𝜕2 𝑝          𝜕𝑐            𝜕2 𝑐
+Property 3. When Assumption 1 holds,                                                =         =          = 0,          =          =          = 0,        ≥ 0,          = 0,        ≤ 0,          ≥ 0,        ≥ 0,            =
+                                                                              𝜕𝛽      𝜕𝛾   𝜕𝜃                𝜕𝛽 2   𝜕𝛾2               𝜕𝜃 2          𝜕𝑟          𝜕𝑟 2          𝜕𝑎          𝜕𝑎2           𝜕𝛽            𝜕𝛽 2
+     𝜕𝑐       𝜕𝑐             𝜕𝑐          𝜕𝑐              𝜕𝑐           𝜕2 𝑐          𝜕𝑐   𝜕2 𝑐               𝜕𝑚    𝜕2 𝑚                 𝜕𝑚            𝜕2 𝑚          𝜕𝑚         𝜕2 𝑚         𝜕𝑚            𝜕2 𝑚
+0,        =         = 0,          =             = 0,          ≥ 0,           = 0,         =         = 0,          =            = 0,          ≥ 0,            = 0,         =          = 0,           ≥ 0,          =
+     𝜕𝛾       𝜕𝛾2           𝜕𝜃           𝜕𝜃 2            𝜕𝑟          𝜕𝑟 2           𝜕𝑎  𝜕𝑎2                 𝜕𝛽          𝜕𝛽 2           𝜕𝛾             𝜕𝛾2            𝜕𝜃       𝜕𝜃 2          𝜕𝑟             𝜕𝑟 2
+     𝜕𝑚        𝜕2 𝑚          𝜕𝑞                 𝜕𝑞            𝜕2 𝑞    𝜕2 𝑞           𝜕𝑞  𝜕2 𝑞                𝜕𝑞             𝜕2 𝑞             𝜕𝑞       𝜕2 𝑞          𝜕𝑈         𝜕2 𝑈          𝜕𝑈            𝜕2 𝑈
+0,        =             = 0,        ≤ 0,             ≤ 0,            =          = 0,         =           = 0,          ≥ 0,          = 0,         =          = 0,         ⋚ 0,          > 0,        ⋚ 0,          >
+     𝜕𝑎       𝜕𝑎2                𝜕𝛽             𝜕𝛾            𝜕𝛽 2  𝜕𝛾2      𝜕𝜃                   𝜕𝜃 2          𝜕𝑟            𝜕𝑟 2           𝜕𝑎       𝜕𝑎2           𝜕𝛽           𝜕𝛽 2          𝜕𝛾          𝜕𝛾2
+     𝜕𝑈        𝜕2 𝑈               𝜕𝑈              𝜕2 𝑈           𝜕𝑈     𝜕2 𝑈
+0,        < 0,            > 0,           > 0,            ⋚ 0,            < 0,           ⋚ 0.
+     𝜕𝜃            𝜕𝜃 2           𝜕𝑟              𝜕𝑟 2           𝜕𝑎               𝜕𝑎2
+
+Proof. Follows from (19), (20), (21), (22), (23) in Appendix D. ∎
+
+Property 3 states, first, that the household’s consumption 𝑐 increases linearly, while its non-CBDC holding 𝑞 decreases linearly, in
+its output elasticity 𝛽 for consumption 𝑐. As 𝛽 increases, the household values consumption 𝑐 more and values non-CBDC 𝑞 less.
+The household’s production 𝑝 and CBDC holding 𝑚 are independent of 𝛽. The household’s utility 𝑈 can increase or decrease in 𝛽.
+
+Second, the household’s CBDC holding 𝑚 increases linearly, while its non-CBDC holding 𝑞 decreases linearly, in its output elasticity
+𝛾 for holding CBDC 𝑚. As 𝛾 increases, the household values CBDC 𝑚 more and values non-CBDC 𝑞 less. The household’s
+production 𝑝 and CBDC holding 𝑚 are independent of 𝛾. Also, here the household’s utility 𝑈 can increase or decrease in 𝛾.
+
+Third, the household’s production 𝑝, consumption 𝑐, CBDC holding 𝑚, and non-CBDC holding 𝑞, are independent of the household’s
+scaling 𝜃 of the transaction cost. That’s because 𝜃 appears only in the denominator in (7), and hence does not impact the household’s
+strategic choices. However, a high 𝜃 is costly and impacts the household’s utility 𝑈 which decreases convexly.
+
+Fourth, the household’s production 𝑝, consumption 𝑐, CBDC holding 𝑚, and non-CBDC holding 𝑞, increase linearly in the
+household’s resources 𝑟. That’s because more resources are beneficial for the household. Hence the household’s utility 𝑈 also
+increases in 𝑟.
+
+Fifth, the household’s production 𝑝 decreases convexly, causing the household’s utility U also to decrease, in the household’s unit
+production cost 𝑎. The household’s consumption 𝑐, CBDC holding 𝑚, and non-CBDC holding 𝑞 are independent of 𝑎.
+
+Analyzing the household when 𝑰𝒎 is a parameter
+
+Property 4. Assume that Assumption 1 holds, and that 𝐼𝑚 is a parameter.
+𝜕𝑝             𝜕2 𝑞              𝜕𝑚              𝜕2 𝑚
+      ≤ 0,       2      ≥ 0,            ⋚ 0,       2     ⋚ 0.
+𝜕𝐼𝑚            𝜕𝐼𝑚               𝜕𝐼𝑚             𝜕𝐼𝑚
+
+                          𝜕2 𝑝             𝜕𝑐             𝜕2 𝑐               𝜕𝑞
+If 0 ≤ ℎ ≤ 1,               2    ≥ 0,            ≤ 0,       2    ≥ 0,              ≤ 0.
+                          𝜕𝐼𝑚             𝜕𝐼𝑚             𝜕𝐼𝑚                𝜕𝐼𝑚
+
+                𝜕2 𝑝              𝜕𝑞
+If ℎ ≥ 1,         2     ≤ 0,             ≥ 0.
+                𝜕𝐼𝑚               𝜕𝐼𝑚
+
+                   𝜕𝑐             𝜕2 𝑐
+If ℎ ≫ 1,                 ≥ 0,      2     ≥ 0.
+                 𝜕𝐼𝑚              𝜕𝐼𝑚
+
+Proof. Follows from (24) in Appendix E. ∎
+
+Property 4 states, first, that the household’s production 𝑝 decreases in the CBDC interest rate 𝐼𝑚 , since the subtraction of 𝑀𝐼𝑚 in the
+numerator in (9) has higher impact than the role of 𝑀𝐼𝑚 in the denominator in (9).2
+
+Second, the household’s consumption 𝑐 decreases convexly in 𝐼𝑚 if 0 ≤ ℎ < 1, and decreases linearly in 𝐼𝑚 if ℎ = 1. The
+household’s consumption 𝑐 can increase in 𝐼𝑚 if ℎ is sufficiently above 1 as specified in (24).
+
+Third, the household’s non-CBDC holding 𝑞 decreases convexly in 𝐼𝑚 if 0 ≤ ℎ ≤ 1, due to the competing CBDC 𝑚 offering more
+favorable interest rate 𝐼𝑚 , and otherwise increases concavely due to the high household’s production parameter ℎ > 1.
+                                                                                                                       𝜕𝑚
+Fourth, the household’s CBDC holding 𝑚 usually increases in 𝐼𝑚 ,                                                             ≥ 0, which tends to make holding CBDC 𝑚 more attractive.3
+                                                                                                                       𝜕𝐼𝑚
+
+
+
+2
+  If ℎ > 1, the production 𝑝 decreases concavely. If 0 ≤ ℎ < 1, the production 𝑝 decreases convexly. If ℎ = 1, the production 𝑝 decreases linearly.
+3
+  However, numerical simulation has shown that extreme parameter values, such as negative non-CBDC interest rate 𝐼𝑞 , low ℎ, high 𝛼, low 𝜇 and
+high 𝜆, may cause the household’s CBDC holding 𝑚 to decrease in 𝐼𝑚 .
+                                                                                                                                                                                                                             55
+                    Wang and Hausken, International Journal of Finance & Banking Studies 11(2) (2022), 49-68
+
+
+Illustrating the solution
+This section varies the parameter values 𝑟, 𝑎, 𝛼, 𝛽, 𝛾, 𝑀, 𝑄, 𝑀 = 𝑄, 𝐼𝑞 , 𝜇, 𝜂, 𝜆, 𝜃, 𝐼𝑟 , 𝜋, 𝜋 ∗ , ℎ, 𝑝̅ , 𝑎𝜋 , 𝑎𝑝 relative to a benchmark. The
+                                           1                                               1       2        1                              1
+benchmark values are 𝛼 = 𝛽 = 𝛾 = , 𝑟 = 𝑎 = 𝑀 = 𝑄 = 1, 𝐼𝑞 = 𝐼𝑟 = 2%, 𝜂 = , 𝜇 = , 𝜆 =                              , 𝜋 = 3%, 𝜋 ∗ = 2%, ℎ =        , 𝑝̅ =
+                                           4                                               5       5        10                             10
+1               1                                                                                       1
+    , 𝑎𝜋 = 𝑎𝑝 = , 𝑧 = −5%. The benchmark is chosen to be realistic in practice. First, 𝛼 = 𝛽 = expresses equal weight or elasticity
+2               2                                                                                       4
+for production 𝑝, consumption 𝑐, respectively. Second, 𝛾 = 1 − 𝛼 − 𝛽 − 𝛾 = 1/4 reflects identical weight or elasticity for CBDC
+                                     1                                                                                      2
+𝑚 and non-CBDC 𝑞. Third, 𝜂 =             depicts a middle-level transaction efficiency for non-CBDC. Fourth, 𝜇 =                expresses a higher
+                                     5                                                                                      5
+                                                                   1
+transaction efficiency or lower cost for CBDC 𝑚. Fifth, 𝜆 =             expresses low transaction efficiency for consumption 𝑐. Sixth, 𝐼𝑞 =
+                                                                   10
+2% reflects an intermediate interest rate for non-CBDC. 𝐼𝑟 = 2% expresses a desired or equilibrium real interest rate. Seventh, 𝑟 =
+𝑎 = 𝑀 = 𝑄 = 1 are chosen for the sake of simplicity, and value one is also plausible. Eighth, 𝜋 = 3% presents the inflation rate.
+                                                                   𝑟      1
+Nineth, 𝜋 ∗ = 2% reflects a desired inflation rate. Tenth, 𝑝̅ =         = expresses the potential production, which is 50% of what can be
+                                                                  2𝑎      2
+                                                                                 1
+produced if the entire resource 𝑟 is allocated to production. Eleventh, ℎ =          reflects a concave production function for the household.
+                                                                                10
+                        1
+Twelfth, 𝑎𝜋 = 𝑎𝑝 = expresses the common equal weight assigned to inflation and production in the Taylor (1993) rule. Thirteenth,
+                        2
+𝑧 = −5% is the negative lower bound on the CBDC interest rate 𝐼𝑚 . With these benchmark parameter values, the benchmark solution
+is 𝐼𝑚 = 2.16%, 𝑝 = 0.0159, 𝑐 = 0.0826, 𝑚 = 0.5282, 𝑞 = 0.373, 𝑈 = 0.281. In Figure 1 each of the 20 parameters values is
+changed from its benchmark, as illustrated with labels along the horizontal axis, while the other 19 parameter values remain at their
+benchmarks. The Wolfram Mathematica 13 software package (wolfram.com) has been used. Multiplication of 𝑝 and 𝐼𝑚 with 10 is
+for scaling purposes.
+
+
+
+
+56
+Wang and Hausken, International Journal of Finance & Banking Studies 11(2) (2022), 49-68
+
+
+
+
+                                                                                           57
+                    Wang and Hausken, International Journal of Finance & Banking Studies 11(2) (2022), 49-68
+
+
+
+
+Figure 1: The household’s production 𝑝, consumption 𝑐, CBDC holding 𝑚, non-CBDC holding 𝑞, and utility 𝑈, and the CBDC
+interest rate 𝐼𝑚 , as functions of 𝑟, 𝑎, 𝛼, 𝛽, 𝛾, 𝑀, 𝑄, 𝑀 = 𝑄, 𝐼𝑞 , 𝜇, 𝜂, 𝜆, 𝜃, 𝐼𝑟 , 𝜋, 𝜋 ∗ , ℎ, 𝑝̅ , 𝑎𝜋 , 𝑎𝑝 relative to the benchmark parameter values
+                1                                                  1       2          1                             1         1              1
+𝛼 = 𝛽 = 𝛾 = , 𝑟 = 𝑎 = 𝑀 = 𝑄 = 1, 𝐼𝑞 = 𝐼𝑟 = 2%, 𝜂 = , 𝜇 = , 𝜆 =                            , 𝜋 = 3%, 𝜋 ∗ = 2%, ℎ =        , 𝑝̅ = , 𝑎𝜋 = 𝑎𝑝 = , 𝑧 =
+                4                                                  5       5       10                               10        2              2
+−5%. Multiplication of 𝑝 and 𝐼𝑚 with 10 is to ensure proper scaling.
+
+
+In Figure 1a, if the household’s resources 𝑟 increases, which is intuitively beneficial, its production 𝑝, consumption 𝑐, CBDC holding
+𝑚, and non-CBDC holding 𝑞, increase linearly according to (9). The central bank’s CBDC interest rate 𝐼𝑚 remains constant, since
+                                                                           𝑟
+resources 𝑟 are abbreviated in the Taylor (1993) rule in (10) since 𝑝̅ = . The household’s utility 𝑈 increases convexly according to
+                                                                                 2𝑎
+(9). Specifically, production 𝑝 increases slowly, while CBDC holding 𝑚 increases rapidly.
+
+In Figure 1b, if the household’s unit production cost 𝑎 increases, its production 𝑝 and utility 𝑈 intuitively decrease convexly. The
+other variables remain constant, and 𝑎 is abbreviated in (10). The household intuitively benefits from the unit cost 𝑎 approaching
+zero, which causes the production 𝑝 and expected utility 𝑈 to approach infinity.
+
+In Figure 1c, if the household’s output elasticity 𝛼 for production 𝑝 increases from 𝛼 = 0.06, its production 𝑝, consumption 𝑐, CBDC
+holding 𝑚, and the household’s utility 𝑈, increase convexly, while non-CBDC holding 𝑞 decreases convexly reaching 𝑞 = 0 when
+𝛼 > 0.74, since the output elasticity 1 − 𝛼 − 𝛽 − 𝛾 + 2𝑄𝐼𝑞 in (7) decreases. When 𝛼 < 0.06, no production 𝑝 occurs due to
+subtraction of 𝑀𝐼𝑚 + 𝑄𝐼𝑞 in (9), where the CBDC interest rate 𝐼𝑚 is high to induce the household to save in CBDC 𝑚 rather than
+non-CBDC 𝑞. The CBDC interest rate 𝐼𝑚 decreases and becomes negative when 𝛼 > 0.61, since the household then saves far more
+in CBDC 𝑚 than in non-CBDC 𝑞, and the central bank can charge the household for saving in CBDC 𝑚. When 𝐼𝑚 becomes negative,
+subtraction of 𝑀𝐼𝑚 for production 𝑝 and consumption 𝑐 in (9) causes addition of −𝑀𝐼𝑚 which is positive. When 𝛼 > 0.61, the
+household values consumption 𝑐 more than non-CBDC 𝑞.
+
+In Figure 1d, if the household’s elasticity 𝛽 for consumption 𝑐 increases from 𝛽 = 0.14, its consumption 𝑐 increases linearly. The
+CBDC interest rate 𝐼𝑚 in (10) is independent of 𝛽, and hence production 𝑝 and CBDC holding 𝑚 in (9) are also independent of 𝛽.
+The household’s non-CBDC holding 𝑞 decreases linearly reaching 𝑞 = 0 when 𝛽 > 0.74, since the output elasticity 1 − 𝛼 − 𝛽 −
+𝛾 + 2𝑄𝐼𝑞 in (7) decreases. Interestingly, the household’s utility 𝑈 is U shaped. That’s because holding non-CBDC 𝑞 causes high
+58
+                 Wang and Hausken, International Journal of Finance & Banking Studies 11(2) (2022), 49-68
+
+
+utility 𝑈 when 𝛽 is low, choosing high consumption 𝑐 causes high utility 𝑈 when 𝛽 is high, and 𝑈 is intermediate when 𝑞 and 𝑐 are
+intermediate at the intermediate 𝛽 = 0.44. When 𝛽 < 0.14, no consumption 𝑐 occurs due to subtraction of 𝑀𝐼𝑚 + 𝑄𝐼𝑞 − 𝜆 in (9).
+
+In Figure 1e, if the household’s output elasticity 𝛾 for holding CBDC 𝑚 increases, its CBDC holding 𝑚 intuitively increases, and its
+non-CBDC holding 𝑞 decreases reaching 𝑞 = 0 when 𝛾 > 0.74, according to (9). When 𝛾 > 0.15, the household values CBDC 𝑚
+more than non-CBDC 𝑞. The CBDC interest rate 𝐼𝑚 in (10) is independent of 𝛾, and hence production 𝑝 and consumption 𝑐 in (9)
+are also independent of 𝛾. The household’s utility 𝑈 is U shaped, but less symmetric than in Figure 1d. That’s because 𝑚 crosses 𝑞
+at the low value 𝛾 = 0.15, causing high utility 𝑈 when 𝑚 is high, while 𝑐 crosses 𝑞 at the intermediate 𝛽 = 0.44 in Figure 1d.
+
+In Figure 1f, if the household’s weight 𝑀 of the CBDC interest rate 𝐼𝑚 in its output elasticities increases, its CBDC holding 𝑚
+increases, while its non-CBDC holding 𝑞 decreases. Subtracting 𝑀𝐼𝑚 in the household’s output elasticity for production 𝑝 and
+consumption 𝑐 in (7), as also shown in the numerator for 𝑝 and 𝑐 in (9), causes production 𝑝 and consumption 𝑐 to decrease.
+Consumption 𝑐 eventually decreases to 𝑐 = 0 when 𝑀 > 4.65. Interestingly, the CBDC interest rate 𝐼𝑚 increases, which is not
+intuitively obvious. It illustrates the multiple tradeoffs that the central bank has to make. The household benefits more from holding
+CBDC 𝑚 at an increasing CBDC interest rate 𝐼𝑚 , than the costs of decreasing 𝑞, 𝑝, 𝑐. Its utility 𝑈 thus increases.
+
+In Figure 1g, if the household’s weight 𝑄 of the non-CBDC interest rate 𝐼𝑞 in its output elasticities increases, its non-CBDC holding
+𝑞 increases, while its CBDC holding 𝑚 decreases. That intuitively stands in contrast to Figure 1f. The other four curves are
+qualitatively similar to Figure 1f, since the household merely shifts its interest from CBDC 𝑚 to non-CBDC 𝑞. That is, subtracting
+𝑄𝐼𝑞 in the household’s output elasticity for production 𝑝 and consumption 𝑐 in (7) causes production 𝑝 and consumption 𝑐 to decrease.
+Consumption 𝑐 eventually decreases to 𝑐 = 0 when 𝑄 > 6.10. The CBDC interest rate 𝐼𝑚 and the household’s utility 𝑈 increase.
+
+In Figure 1h, if the household’s equal weights 𝑀 = 𝑄 of the CBDC and non-CBDC interest rates 𝐼𝑚 and 𝐼𝑞 in its output elasticities
+increase, its holding of both CBDC 𝑚 and non-CBDC 𝑞 increase. That follows since 2𝑀𝐼𝑚 and 2𝑄𝐼𝑞 are added to the output
+elasticities in (7). In contrast, 𝑀𝐼𝑚 and 𝑄𝐼𝑞 are subtracted from the output elasticities for production 𝑝 and consumption 𝑐 in (7),
+causing these to decrease. Consumption 𝑐 eventually decreases to 𝑐 = 0 when 𝑀 = 𝑄 > 3.13, which is a lower value than in Figure
+1f and Figure 1g. As in Figure 1f and Figure 1g, and for the same reason, the CBDC interest rate 𝐼𝑚 and the household’s utility 𝑈
+increase.
+
+In Figure 1i, if the non-CBDC interest rate 𝐼𝑞 increases, the household’s non-CBDC holding 𝑞 increases, while its CBDC holding 𝑚
+decreases. The six variables are qualitatively similar to Figure 1g as functions of 𝑄. That’s intuitive since 𝑄𝐼𝑞 always appear
+multiplicatively together in (9) and (10), and never separately alone. Hence production p decreases, and consumption 𝑐 decreases
+reaching 𝑐 = 0 when 𝐼𝑞 > 12%. That is, the household stops consuming when the non-CBDC interest rate 𝐼𝑞 is high, and saves non-
+CBDC 𝑞 instead. The CBDC interest rate 𝐼𝑚 increases to compete with the increasing 𝐼𝑞 , and the household’s utility 𝑈 increases
+convexly.
+
+In Figure 1j, if the household’s transaction efficiency 𝜇 for CBDC 𝑚 increases, its CBDC holding 𝑚 increases concavely, while its
+production 𝑝, consumption 𝑐, non-CBDC holding 𝑞, and utility 𝑈 decrease convexly. When 𝜇 > 0.20, the household values CBDC
+𝑚 more than non-CBDC 𝑞. The central bank increases its CBDC interest rate 𝐼𝑚 .
+
+In Figure 1k, if the household’s transaction efficiency 𝜂 for non-CBDC 𝑞 increases, its non-CBDC holding 𝑞 increases concavely,
+while its production 𝑝, consumption 𝑐, CBDC holding 𝑚, and utility 𝑈 decrease convexly. Hence the CBDC 𝑚 and non-CBDC 𝑞
+have switched roles compared to Figure 1j, and 𝑝, 𝑐, 𝑈 are qualitatively similar. When 𝜂 > 0.41, the household values non-CBDC 𝑞
+more than CBDC 𝑚. Interestingly, the central bank increases its CBDC interest rate 𝐼𝑚 .
+
+In Figure 1l, if the household’s transaction efficiency 𝜆 for consumption 𝑐 increases, its consumption 𝑐 decreases according to (9),
+eventually reaching 𝑐 = 0 when 𝜆 > 0.21. In contrast, it saves more. Hence both its CBDC holding 𝑚 and non-CBDC holding 𝑞
+increase. The household’s production 𝑝 increases marginally, and its utility increases convexly. The central bank decreases its CBDC
+interest rate 𝐼𝑚 .
+
+In Figure 1m, if the household’s scaling 𝜃 of the transaction cost increases, causing the transaction efficiency 𝐸 in (5) to decrease,
+only its utility 𝑈 is affected and decreases convexly. The other variables, i.e., production 𝑝, consumption 𝑐, CBDC holding 𝑚, non-
+CBDC holding 𝑞, and the CBDC interest rate 𝐼𝑚 , remain unchanged.
+
+In Figure 1n, if the equilibrium real interest rate 𝐼𝑟 increases, the CBDC interest rate 𝐼𝑚 increases according to (10). That induces the
+household to increase its CBDC holding 𝑚, decrease its non-CBDC holding 𝑞, and decrease its production 𝑝 and consumption 𝑐
+which decreases to 𝑐 = 0 when 𝐼𝑟 > 12%. The household’s utility 𝑈 increases.
+
+In Figure 1o, if the inflation rate 𝜋 increases, the impact is qualitatively similar to Figure 1n, except that the CBDC interest rate 𝐼𝑚
+becomes negative when the inflation rate 𝜋 decreases below 𝜋 = 1.6%. That’s because 𝜋 appears twice on the right hand side of
+(10), and 𝜋 − 𝜋 ∗ is negative when 𝜋 decreases below the desired inflation rate 𝜋 ∗ = 2%. The central bank thus combats low and
+decreasing inflation 𝜋 below the target inflation 𝜋 ∗ by choosing negative CBDC interest rate 𝐼𝑚 , thus inducing the household to
+
+                                                                                                                                      59
+                 Wang and Hausken, International Journal of Finance & Banking Studies 11(2) (2022), 49-68
+
+
+increase its consumption 𝑐, production 𝑝, and non-CBDC holding 𝑞, and decrease its CBDC holding 𝑚, which causes convexly
+decreasing utility 𝑈. The household’s consumption 𝑐 decreases to 𝑐 = 0 when 𝜋 > 9.80%.
+
+In Figure 1p, if the desired inflation rate 𝜋 ∗ increases, the impact is opposite that of Figure 1o. All the variables move in the opposite
+direction. That follows from the term 𝜋 − 𝜋 ∗ in (10) and the minus sign before 𝜋 ∗ . The CBDC interest rate 𝐼𝑚 becomes negative
+when the desired inflation rate 𝜋 ∗ increases above 𝜋 ∗ = 6.1%. When 𝜋 ∗ increases above 𝜋 ∗ = 15.6%, the CBDC interest rate 𝐼𝑚
+decreases to its negative lower bound 𝑧 = −5%, causing all the six variables to remain constant when 𝜋 ∗ > 15.58%. As 𝜋 ∗ increases,
+the household’s consumption 𝑐, production 𝑝, and non-CBDC holding 𝑞 increase, while its CBDC holding 𝑚 and its utility 𝑈
+decrease.
+
+In Figure 1q, if the household’s production parameter ℎ increases, so that it produces more effectively, its production 𝑝,
+consumption 𝑐, and non-CBDC holding 𝑞 increase, while its CBDC holding 𝑚 and utility 𝑈 decrease. The CBDC interest rate 𝐼𝑚
+becomes negative when ℎ increases above ℎ = 0.143. When ℎ increases above ℎ = 0.215, the CBDC interest rate 𝐼𝑚 decreases to
+its negative lower bound 𝑧 = −5%, causing all the six variables to remain constant.
+
+Figure 1r replicates Figure 1q with no lower bound 𝑧 = −∞ on the interest rate 𝐼𝑚 . Then the interest rate 𝐼𝑚 decreases to 𝐼𝑚 =
+−32.5% when the household eliminates its CBDC holding 𝑚 to 𝑚 = 0 when ℎ > 0.353. As ℎ increases to ℎ = 0.353, the other
+four variables increase. That is, the household’s production 𝑝, consumption 𝑐, and non-CBDC holding 𝑞 increase, and the utility 𝑈
+is U shaped with a minimum at ℎ = 0.296 and thereafter increases. The situation when ℎ > 0.353 models a world with no central
+bank where, with these parameter values, the household benefits from high utility 𝑈.
+
+In Figure 1s, if the household’s potential production 𝑝̅ increases to its maximum 𝑝̅ = 𝑟/𝑎 = 1, the central bank increases its CBDC
+interest rate to 𝐼𝑚 = 2.74%. Applying (9), that causes the household to increase its CBDC holding 𝑚, which increases its utility 𝑈,
+and decrease its production 𝑝, consumption 𝑐, and non-CBDC holding 𝑞. As 𝑝̅ decreases, the CBDC interest rate 𝐼𝑚 becomes negative
+when 𝑝̅ < 0.144, and decreases to the negative lower bound 𝑧 = −5% when 𝑝̅ = 0.067.
+
+In Figure 1t, if the weight assigned to inflation 𝑎𝜋 in the Taylor (1993) rule increases, the impact is qualitatively similar to Figure 1o
+where the inflation rate 𝜋 increases. That can be seen mathematically from the term 𝑎𝜋 (𝜋 − 𝜋 ∗ ) in (10). The CBDC interest rate 𝐼𝑚
+becomes negative when 𝑎𝜋 decreases below 𝑎𝜋 = 0.241. Since inflation then is assigned low weight 𝑎𝜋 , and production is assigned
+higher weight 𝑎𝑝 = 1 − 𝑎𝜋 , the household chooses lower CBDC holding 𝑚, and chooses higher production 𝑝, consumption 𝑐, and
+non-CBDC holding 𝑞, which causes lower utility 𝑈.
+
+In Figure 1u, if the weight assigned to production 𝑎𝑝 in the Taylor (1993) rule increases, the impact is opposite that of Figure 1s,
+since 𝑎𝑝 = 1 − 𝑎𝜋 . Thus the CBDC interest rate 𝐼𝑚 becomes negative when 𝑎𝑝 increases above 𝑎𝑝 = 0.759. Furthermore, the
+household chooses lower CBDC holding 𝑚, and chooses higher production 𝑝, consumption 𝑐, and non-CBDC holding 𝑞, which
+causes lower utility 𝑈.
+
+Shocks to production, inflation, interest rates of CBDC and non-CBDC, and real interest rate
+Shocks to production 𝒑
+The household’s production is characterized by its unit cost 𝑎 of production considered in Figure 1b, and its production parameter ℎ
+considered in Figure 1q and Figure 1r. Figure 1b shows increased household production 𝑝 and household utility 𝑈, and the other
+variables are constant, as 𝑎 decreases. Figure 1q and Figure 1r show increased household production 𝑝, consumption 𝑐, and non-
+CBDC holding 𝑞, and decreased CBDC holding 𝑚 and CBDC interest rate 𝐼𝑚 , and decreased utility 𝑈, up to a certain point, as ℎ
+increases.
+
+Shocks to inflation 𝝅 and target inflation 𝝅∗
+Inflation is characterized by the inflation rate 𝜋 considered in Figure 1o, and the desired or target inflation rate 𝜋 ∗ considered in
+Figure 1p. Figure 1o shows decreased household production 𝑝, consumption 𝑐 and non-CBDC holding 𝑞, and increased CBDC
+holding 𝑚, utility 𝑈 and CBDC interest rate 𝐼𝑚 , as 𝜋 increases. Figure 1p shows all the variables moving in the opposite direction.
+Hence the household prefers high inflation rate 𝜋 and low target inflation rate 𝜋 ∗ .
+
+Shocks to the CBDC interest rate 𝑰𝒎
+The CBDC interest rate 𝐼𝑚 is the central bank’s free choice variable. Shocks to 𝐼𝑚 may occur if the central bank were to depart from
+the optimal solution analyzed in the previous sections. Considering 𝐼𝑚 as a parameter, Figure 2 plots the household’s production 𝑝,
+consumption 𝑐, CBDC holding 𝑚, non-CBDC holding 𝑞, and utility 𝑈, as functions of 𝐼𝑚 ranging from 𝐼𝑚 = −20% to 𝐼𝑚 = 20%.
+
+
+
+
+60
+                      Wang and Hausken, International Journal of Finance & Banking Studies 11(2) (2022), 49-68
+
+
+
+
+Figure 2: The household’s production 𝑝, consumption 𝑐, CBDC holding 𝑚, non-CBDC holding 𝑞, and utility 𝑈 as functions of the
+                                                                           1                                         1
+CBDC interest rate 𝐼𝑚 as a parameter relative to the benchmark 𝛼 = 𝛽 = 𝛾 = , 𝑟 = 𝑎 = 𝑀 = 𝑄 = 1, 𝐼𝑞 = 𝐼𝑟 = 2%, 𝜂 = , 𝜇 =
+                                                                                         4                                          5
+2          1                              1         1             1
+    ,𝜆 =        , 𝜋 = 3%, 𝜋 ∗ = ℎ = 2%,        , 𝑝̅ = , 𝑎𝜋 = 𝑎𝑝 = , 𝑧 = −5%. Multiplication of 𝑝 with 10 is for scaling purposes.
+5          10                             10        2             2
+
+
+
+In Figure 2, if the CBDC interest rate 𝐼𝑚 increases, the five variables change as follows: First, and intuitively, the household’s CBDC
+holding 𝑚 increases. When 𝐼𝑚 > −0.8%, the household holds more CBDC 𝑚 than non-CBDC 𝑞. Second, the household’s non-
+CBDC holding 𝑞 decreases due to the substitution effect between CBDC 𝑚 and non-CBDC 𝑞. Third and fourth, holding more CBDC
+𝑚 induces the household to decrease its production 𝑝 and consumption 𝑐. The household’s consumption 𝑐 eventually decreases to
+𝑐 = 0 when 𝐼𝑚 > 13%. Fifth, the household’s utility 𝑈 is U shaped, reaching a minimum of approximately 0.25 when the CBDC
+interest rate 𝐼𝑚 = −0.94%. Hence the household prefers 𝐼𝑚 to be low or high. When 𝐼𝑚 is low, the household derives moderately
+high utility 𝑈 due to high production 𝑝 and consumption 𝑐, and substantial non-CBDC holding 𝑞. When 𝐼𝑚 is high, the household
+derives high utility 𝑈 due to substantial CBDC holding 𝑚 at a high CBDC interest rate 𝐼𝑚 .
+
+Shocks to the non-CBDC interest rate 𝑰𝒒
+Shocks to the non-CBDC interest rate 𝐼𝑞 is considered in Figure 1i which shows decreased household production 𝑝, consumption 𝑐,
+and CBDC holding 𝑚, and increased non-CBDC holding 𝑞, utility 𝑈, and CBDC interest rate 𝐼𝑚 , as 𝐼𝑞 increases. That benefits the
+household. The central bank needs to increase its interest rate 𝐼𝑚 to compete.
+
+Shocks to the real interest rate 𝑰𝒓
+Shocks to the real interest rate 𝐼𝑟 is considered in Figure 1n which shows decreased household production 𝑝, consumption 𝑐, and
+non-CBDC holding 𝑞, and increased CBDC holding 𝑚, utility 𝑈, and CBDC interest rate 𝐼𝑚 , as 𝐼𝑟 increases. Again, that benefits the
+household, and the central bank increases its interest rate 𝐼𝑚 to compete.
+
+Discussion and economic interpretation
+The following results in the previous sections are noteworthy, related to varying 19 parameter values relative to a benchmark.
+The household’s production, consumption, CBDC holding and non-CBDC holding increase as its resources increase. The intuition
+is that it is beneficial to have more resources. Thus, as resources increase, the household’s utility increases.
+If the household’s unit production cost increases, it intuitively decreases its production, which decreases the household’s utility. The
+household’s consumption, CBDC holding, and non-CBDC holding remain constant if the unit production cost changes.
+If the household’s output elasticity for production increases, it increases its production, consumption, and CBDC holding. However,
+the non-CBDC holding decreases since the output elasticities sum to one and higher elasticity assigned to production means lower
+elasticity assigned to non-CBDC holding. The CBDC interest rate becomes negative when the household holds far more CBDC than
+non-CBDC. Since the household saves substantially in CBDC, the central bank sees no reason to encourage further saving.
+If the household’s elasticity for consumption increases, it increases its consumption, but decreases its non-CBDC holding since higher
+elasticity assigned to consumption means lower elasticity assigned to non-CBDC holding. The CBDC interest rate, production, and
+CBDC holding remain constant since the CBDC interest rate is independent of the elasticity for consumption. The household’s utility
+is U shaped in the elasticity for consumption. That is, it prefers either high or low elasticity for consumption.
+
+If the household’s output elasticity for holding CBDC increases, it increases its CBDC holding, but decreases its non-CBDC holding.
+The CBDC interest rate is independent of the output elasticity for holding CBDC. Thus, the household’s production and consumption
+remain constant.
+If the household’s weight of the CBDC interest rate in its elasticities increases, it increases its CBDC holding and decreases its non-
+CBDC holding. This is similar to the increase of the output elasticity for holding CBDC. The increase of the CBDC interest rate
+shows the multiple tradeoffs that the central bank strikes. The household’s utility increases from holding more CBDC if the CBDC
+interest rate increases, which offsets the decrease in production, consumption, and non-CBDC holding.
+                                                                                                                                        61
+                 Wang and Hausken, International Journal of Finance & Banking Studies 11(2) (2022), 49-68
+
+
+Intuitively and in contrast to the previous point, if the household’s weight of the non-CBDC interest rate in its output elasticities
+increases, it increases its non-CBDC holding and decreases its CBDC holding.
+
+We consider the case when the weight of the CBDC interest rate in the output elasticities equals the weight of the non-CBDC interest
+rate. If the household’s equal weights increase, the household increases both its CBDC holding and its non-CBDC holding, and the
+central bank increases its CBDC interest rate. Since the weights are subtracted from production and consumption, production and
+consumption decrease.
+If the non-CBDC interest rate increases, the household increases its non-CBDC holding and decreases its CBDC holding. This is
+because holding non-CBDC becomes more attractive since the household benefits from gaining higher interest from non-CBDC. The
+central bank chooses to increase the CBDC interest rate to compete with the non-CBDC. Hence a household’s CBDC holding is
+typically the opposite of its non-CBDC holding, as found by Mooij (2021) and partly found by M. Davoodalhosseini et al. (2020).
+If the household’s transaction efficiency for CBDC increases, it intuitively increases its CBDC holding, and decreases its non-CBDC
+holding. The central bank increases its CBDC interest rate to support the household’s CBDC holding.
+In contrast to the previous point, if the household’s transaction efficiency for non-CBDC increases, it increases its non-CBDC
+holding, and decreases its CBDC holding. Interestingly, also here the central bank increases its CBDC interest rate, to compete with
+the non-CBDC.
+If the household’s transaction efficiency for consumption increases, its consumption decreases since transactions become more costly.
+However, the household increases its CBDC holding and non-CBDC holding, and the central bank decreases its CBDC interest rate.
+If the household’s scaling of the transaction efficiency increases, the transaction efficiency decreases accordingly. Only the
+household’s utility is impacted, and it decreases.
+If the real interest rate increases, the CBDC interest rate increases, in accordance with the Taylor (1993) rule. Thus, if the real interest
+rate increases, the household holds more CBDC and less non-CBDC. Meanwhile, the household’s production and consumption
+decrease.
+Similarly to the previous point, if the inflation rate increases, the CBDC interest rate increases, encouraging more CBDC saving and
+less non-CBDC saving. The central bank combats low inflation via a negative CBDC interest rate.
+
+In contrast to the previous point, if the target inflation rate increases, the CBDC interest rate decreases. The central bank combats a
+high target inflation rate through a negative CBDC interest rate. That, in turn, induces agents to save less CBDC and consume more,
+as also found by Jia (2020).
+If the household’s production parameter increases, it increases its production, consumption, and non-CBDC holding, but decreases
+its CBDC holding. This is because the household produces more effectively. The central bank decreases its CBDC interest rate,
+which also enhances the household’s production and consumption.
+
+If the household’s potential production increases, the central bank increases its CBDC interest rate. Thus, the household increases its
+CBDC holding, and decreases its production, consumption, and non-CBDC holding.
+If the weight assigned to inflation in the Taylor (1993) rule increases, the impact is similar to increasing the inflation rate. The central
+bank chooses negative interest rate when inflation is assigned low weight. Since a higher weight assigned to inflation means a lower
+weight assigned to production, the household’s production and consumption decrease. In contrast, Grasselli and Lipton (2019) show
+that negative interest rates have lower impact on consumption than on investment.
+The following further results are noteworthy, related to analyzing the impacts of shocks to production, inflation, the CBDC interest
+rate, the non-CBDC interest rate, and the real interest rate.
+Production shocks are captured by the unit cost of production and production parameter. If the unit cost decreases, the household’s
+production increases, and the other variables remain constant. If the production parameter increases, the household’s production,
+consumption, and non-CBDC holding increase, while the household’s CBDC holding and utility, and the CBDC interest rate,
+decrease.
+Inflation shocks are characterized by changes to the inflation rate and the target inflation rate. If the inflation rate increases, the
+household’s production, consumption, and non-CBDC holding decrease, and the CBDC interest rate, CBDC holding and utility
+increase.
+If the CBDC interest rate increases, the household increases its CBDC holding, and decreases its non-CBDC holding. The household
+decreases its production and consumption. Its utility is U shaped. When the CBDC interest rate is low, the household gains utility
+from production, consumption, and non-CBDC holding. When the CBDC interest rate is high, the household gains utility from
+holding CBDC with high CBDC interest return.
+
+
+
+62
+                 Wang and Hausken, International Journal of Finance & Banking Studies 11(2) (2022), 49-68
+
+
+The non-CBDC interest shock shows that if the non-CBDC interest rate increases, the household decreases its production,
+consumption, and CBDC holding, increases its non-CBDC holding, and eventually earns higher utility.
+
+The real interest rate shock shows that if the real interest rate increases, the household decreases its production, consumption, and
+non-CBDC holding, and increases its CBDC holding, while the central bank increases its CBDC interest rate.
+
+Conclusion
+The article explores a two-period decision model between a central bank and a representative household. The central bank applies
+the Taylor (1993) rule to choose a positive or negative interest rate. The representative household owns resources or energy allocated
+into production, consumption, CBDC (central bank digital currency) holding, and non-CBDC holding. The non-CBDC holding can
+be various cryptocurrencies like Bitcoin, Ethereum, etc., or stocks, bonds, real estate, etc. A Cobb Douglas utility with elasticities for
+the household’s allocations is presented, and adjusted by the CBDC interest rate, the non-CBDC interest rate, and the transaction
+efficiency. In period 1, the central bank chooses its interest rate. In period 2, the household determines its production, consumption,
+CBDC holding and non-CBDC holding.
+The article shows that if the household’s output elasticities for production, consumption, CBDC holding, and non-CBDC holding
+change, the household’s strategies change as expected. The central bank chooses negative interest rate when the household holds far
+more CBDC than non-CBDC, to discourage further saving. Increasing the non-CBDC interest rate, which causes the household to
+hold more non-CBDC and less CBDC, induces the central bank to increase its CBDC interest rate to compete with the threat from
+the attractive non-CBDC interest rate. Increasing the household’s transaction efficiencies for CBDC and non-CBDC cause the central
+bank to increase its CBDC interest rate, to support the household’s holding of CBDC and compete with the non-CBDC, respectively.
+However, increasing the household’s transaction efficiency for consumption has the opposite impact of decreasing the CBDC interest
+rate. Decreasing the real interest rate or the inflation rate or the household’s potential production or the weight assigned to inflation
+in the Taylor (1993) rule, or increasing the target inflation rate or the household’s production parameter, causes lower and eventually
+negative CBDC interest rate, which induces the household to hold less CBDC, more non-CBDC, produce and consume more, and
+earn lower utility.
+Positive shocks to production cause lower and eventually negative CBDC interest rate. The household holds less CBDC and earns
+lower utility, but produces and consumes more and holds more non-CBDC. Positive inflation shocks cause the household to hold
+more CBDC and earn higher utility due to a higher CBDC interest rate, while the production, consumption, and non-CBDC holding
+decrease. Positive shocks to the CBDC interest rate cause the household to hold more CBDC and less non-CBDC, and conversely
+for positive shocks to the non-CBDC interest rate. Both these two shocks cause the household to produce and consume less and
+eventually earn higher utility. Positive shocks to the real interest rate cause higher CBDC interest rate.
+
+Future research, which implicitly illustrates limitations of the article, should consider the interactions of several CBDCs and non-
+CBDCs. More players can be introduced, e.g. governments, commercial banks, firms, etc. Various negative interest rate bounds, and
+corner solutions can be analyzed. In addition, the burning and issuance of CBDCs and non-CBDCs should be analyzed. Expansion
+should be made to heterogeneous households. Each household’s Cobb Douglas utility should be expanded to account for additional
+factors such as safety, convenience, taxes, etc. The analysis can also be generalized to allow each household and one or multiple
+central banks to choose their strategies simultaneously or sequentially in one-period or repeated games. More extensive empirical
+research should be conducted.
+
+Appendix A Nomenclature
+Parameters
+𝑟        Household’s monetary energy, or resources, 𝑟 ≥ 0
+𝑎        Household’s unit cost of production, 𝑎 ≥ 0
+𝛼        Household’s output elasticity for production 𝑝, 0 ≤ 𝛼 ≤ 1
+𝛽        Household’s output elasticity for consumption 𝑐, 0 ≤ 𝜆 ≤ 𝛽 ≤ 1
+𝛾        Household’s output elasticity for CBDC 𝑚, 0 ≤ 𝛾 ≤ 1
+𝑀        Household’s weight of the CBDC interest rate 𝐼𝑚 in its output elasticities, 𝑀 ≥ 0
+𝑄        Household’s weight of the non-CBDC interest rate 𝐼𝑞 in its output elasticities, 𝑄 ≥ 0
+1 − 𝛼 − 𝛽 − 𝛾 + 2𝑄𝐼𝑞 Household’s output elasticity for non-CBDC 𝑞, 0 ≤ 1 − 𝛼 − 𝛽 − 𝛾 + 2𝑄𝐼𝑞 ≤ 1
+𝐼𝑞       Non-CBDC interest rate, 𝐼𝑞 ∈ ℝ
+𝜇        Household’s transaction efficiency for CBDC 𝑚, 𝜇 ≥ 0
+𝜂        Household’s transaction efficiency for non-CBDC 𝑞, 𝜂 ≥ 𝜆
+𝜆        Household’s transaction efficiency for consumption 𝑐, 0 ≤ 𝜆 ≤ 𝛽 ≤ 1
+𝜃        Scaling or degree or level of the household’s transaction cost, 𝜃 ≥ 0.
+𝐼𝑟       The equilibrium real interest rate, 𝐼𝑟 ∈ ℝ
+𝜋        The inflation rate, 𝜋 ∈ ℝ
+𝜋∗       The desired or target inflation rate, 𝜋 ∗ ∈ ℝ
+ℎ        The household’s production parameter, ℎ ≥ 0
+                                                                                                                                       63
+                 Wang and Hausken, International Journal of Finance & Banking Studies 11(2) (2022), 49-68
+
+
+𝑝̅ ℎ    The household’s potential production, 0 ≤ 𝑝̅ ≤ 𝑟/𝑎
+𝑎𝜋      The weight assigned to inflation in the Taylor (1993) rule, 0 ≤ 𝑎𝜋 ≤ 1
+𝑎𝑝 = 1 − 𝑎𝜋 The weight assigned to production in the Taylor (1993) rule, 0 ≤ 𝑎𝑝 ≤ 1
+z       The negative lower bound on the interest rate 𝐼𝑚 , 𝑧 ≤ 0
+
+Household’s free choice variables
+𝑝       Household’s production, 0 ≤ 𝑝 ≤ 𝑟/𝑎
+𝑐       Household’s consumption, 0 ≤ 𝑐 ≤ 𝑟
+𝑚       Household’s CBDC holding, 0 ≤ 𝑚 ≤ 𝑟
+
+Dependent variables
+𝐼𝑚       CBDC interest rate for the household’s CBDC holding 𝑚, 𝐼𝑚 ∈ ℝ
+𝑈        Household’s utility
+𝑞 = 𝑟 − 𝑎𝑝 − 𝑐 − 𝑚Household’s non-CBDC holding, 0 ≤ 𝑞 = 𝑟 − 𝑎𝑝 − 𝑐 − 𝑚 ≤ 𝑟
+𝐸        Household’s transaction efficiency
+
+Appendix B The derivatives for the transaction efficiency 𝑬
+Differentiating the transaction efficiency 𝐸 in (5) with respect to 𝑐, 𝑚 and 𝑞 gives
+
+ 𝜕𝐸      𝑐 −1−𝜆 𝑚𝜇 𝑞𝜂 𝜆      𝜕𝐸 𝑐 −𝜆 𝑚−1+𝜇 𝑞𝜂 𝜇          𝜕𝐸 𝑐 −𝜆 𝑚𝜇 𝑞−1+𝜂 𝜂
+     =−                 ≤ 0,      =                 ≥ 0,     =                   ≥0                                           (11)
+ 𝜕𝑐             𝜃            𝜕𝑚            𝜃             𝜕𝑞            𝜃
+The second derivatives of the transaction efficiency 𝐸 in (5) with respect to 𝑐, 𝑚 and 𝑞 gives
+
+ 𝜕 2 𝐸 𝑐 −2−𝜆 𝑚𝜇 𝑞𝜂 𝜆(1 + 𝜆)
+      =                        ≥ 0,
+ 𝜕𝑐 2             𝜃
+ 𝜕 2 𝐸 𝑐 −𝜆 𝑚−2+𝜇 𝑞𝜂 (−1 + 𝜇)𝜇
+      =                           ≤ 0, 𝑤ℎ𝑒𝑛 𝜇 ≤ 1,
+ 𝜕𝑚2                𝜃
+   2     −𝜆   𝜇  −2+𝜂
+ 𝜕 𝐸 𝑐 𝑚 𝑞            (−1 + 𝜂)𝜂
+      =                           ≤ 0, 𝑤ℎ𝑒𝑛 𝜇 ≤ 1,                                                                            (12)
+ 𝜕𝑞2                𝜃
+    2         −1−𝜆   −1+𝜇  𝜂
+  𝜕 𝐸       𝑐      𝑚      𝑞 𝜆𝜇
+       =−                       ≤ 0,
+ 𝜕𝑐𝜕𝑚                𝜃
+    2        −1−𝜆   𝜇  −1+𝜂
+ 𝜕 𝐸       𝑐      𝑚 𝑞       𝜂𝜆
+       =−                      ≤0
+ 𝜕𝑐𝜕𝑞               𝜃
+
+Appendix C Proof of Property 1
+Calculating the defivative of the household’s utility 𝑈 in (7) with respect to its free choice variables 𝑝, 𝑐 and 𝑚, and equating to zero,
+gives
+ 𝜕𝑈 1 𝛽−𝜆−𝑀𝐼 −𝑄𝐼                             1−𝛼−𝛽−𝛾+2𝑄𝐼𝑞
+    = 𝑐        𝑚   𝑞 (1 + 𝐼 )𝛾+2𝑀𝐼𝑚 (1 + 𝐼 )
+                           𝑚               𝑞
+ 𝜕𝑝 𝜃
+ × 𝑚𝛾+2𝑀𝐼𝑚+𝜇 𝑝−1+ℎ(𝛼−𝑀𝐼𝑚 −𝑄𝐼𝑞 ) (𝑟 − 𝑐 − 𝑚 − 𝑎𝑝)−𝛼−𝛽−𝛾+𝜂+2𝑄𝐼𝑞                                                                 (13)
+ × (ℎ(𝑟 − 𝑐 − 𝑚 − 𝑎𝑝)(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ) − 𝑎𝑝(1 − 𝛼 − 𝛽 − 𝛾 + 𝜂 + 2𝑄𝐼𝑞 )) = 0,
+
+ 𝜕𝑈 1 −1+𝛽−𝜆−𝑀𝐼 −𝑄𝐼                             1−𝛼−𝛽−𝛾+2𝑄𝐼𝑞
+    = 𝑐           𝑚    𝑞 (1 + 𝐼 )𝛾+2𝑀𝐼𝑚 (1 + 𝐼 )
+                               𝑚              𝑞
+ 𝜕𝑐 𝜃
+ × 𝑚𝛾+2𝑀𝐼𝑚+𝜇 𝑝ℎ(𝛼−𝑀𝐼𝑚 −𝑄𝐼𝑞) (𝑟 − 𝑐 − 𝑚 − 𝑎𝑝)−𝛼−𝛽−𝛾+𝜂+2𝑄𝐼𝑞                                                                     (14)
+ × ((𝑟 − 𝑚 − 𝑎𝑝)(𝛽 − 𝜆 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ) − 𝑐(1 − 𝑀𝐼𝑚 + 𝑄𝐼𝑞 − 𝛼 − 𝛾 + 𝜂 − 𝜆)) = 0,
+
+ 𝜕𝑈 1 𝛽−𝜆−𝑀𝐼 −𝑄𝐼                             1−𝛼−𝛽−𝛾+2𝑄𝐼𝑞
+     = 𝑐        𝑚   𝑞 (1 + 𝐼 )𝛾+2𝑀𝐼𝑚 (1 + 𝐼 )
+                            𝑚              𝑞
+ 𝜕𝑚 𝜃
+ × 𝑚−1+𝛾+2𝑀𝐼𝑚+𝜇 𝑝ℎ(𝛼−𝑀𝐼𝑚 −𝑄𝐼𝑞 ) (𝑟 − 𝑐 − 𝑚 − 𝑎𝑝)−𝛼−𝛽−𝛾+𝜂+2𝑄𝐼𝑞                                                                 (15)
+ × ((𝑟 − 𝑐 − 𝑎𝑝)(𝛾 + 2𝑀𝐼𝑚 + 𝜇) − 𝑚(1 − 𝛼 − 𝛽 + 𝜂 + 𝜇 + 2𝑀𝐼𝑚 + 2𝐼𝑞𝑄)) = 0,
+
+which are solved to yield 𝑝, 𝑐 and 𝑚 in (9). The dependent variable 𝑞 follows from solving (2) with respect to 𝑞 and inserting 𝑝, 𝑐
+and 𝑚. The second order conditions, inserting (14) to (14), are
+
+ 𝜕2𝑈     1                                       1−𝛼−𝛽−𝛾+2𝑄𝐼𝑞
+    2
+      = − 𝑐 𝛽−𝜆−𝑀𝐼𝑚−𝑄𝐼𝑚 (1 + 𝐼𝑚 )𝛾+2𝑀𝐼𝑚 (1 + 𝐼𝑞 )
+ 𝜕𝑝      𝜃                                                                                                                    (16)
+ × 𝑚𝛾+2𝑀𝐼𝑚+𝜇 𝑝ℎ(𝛼−𝑀𝐼𝑚 −𝑄𝐼𝑞) (𝑟 − 𝑐 − 𝑚 − 𝑎𝑝)−𝛼−𝛽−𝛾+𝜂+2𝑄𝐼𝑞
+
+
+
+64
+                 Wang and Hausken, International Journal of Finance & Banking Studies 11(2) (2022), 49-68
+
+
+   2𝑎ℎ(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 )(1 − 𝛼 − 𝛽 − 𝛾 + 𝜂 + 2𝑄𝐼𝑞 )
+ ×(
+                        𝑝
+
+     ℎ(𝑟 − 𝑐 − 𝑚 − 𝑎𝑝) (1 − ℎ(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 )) (𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 )
+ +
+                                  𝑝2
+     𝑎2 (𝛼 + 𝛽 + 𝛾 − 𝜂 − 2𝑄𝐼𝑞 )(1 − 𝛼 − 𝛽 − 𝛾 + 𝜂 + 2𝑄𝐼𝑞 )
+ +                                                         ),
+                        𝑟 − 𝑐 − 𝑚 − 𝑎𝑝
+
+
+ 𝜕2𝑈      1                                      1−𝛼−𝛽−𝛾+2𝑄𝐼𝑞
+    2
+      = − 𝑐 𝛽−𝜆−𝑀𝐼𝑚−𝑄𝐼𝑚 (1 + 𝐼𝑚 )𝛾+2𝑀𝐼𝑚 (1 + 𝐼𝑞 )
+ 𝜕𝑐       𝜃
+ × 𝑚𝛾+2𝑀𝐼𝑚+𝜇 𝑝ℎ(𝛼−𝑀𝐼𝑚 −𝑄𝐼𝑞) (𝑟 − 𝑐 − 𝑚 − 𝑎𝑝)−𝛼−𝛽−𝛾+𝜂+2𝑄𝐼𝑞
+     2(1 − 𝛼 − 𝛽 − 𝛾 + 𝜂 + 2𝑄𝐼𝑞 )(𝛽 − 𝜆 − 𝑀𝐼𝑚 − 𝑄𝐼𝑚 )
+ ×(
+                             𝑐                                                                              (17)
+   (𝛼 + 𝛽 + 𝛾 − 𝜂 − 2𝑄𝐼𝑞 )(1 − 𝛼 − 𝛽 − 𝛾 + 𝜂 + 2𝑄𝐼𝑞 )
+ +
+                     𝑟 − 𝑐 − 𝑚 − 𝑎𝑝
+   (𝑟 − 𝑐 − 𝑚 − 𝑎𝑝)(𝛽 − 𝜆 − 𝑀𝐼𝑚 − 𝑄𝐼𝑚 )(1 − 𝛽 + 𝜆 + 𝑀𝐼𝑚 + 𝑄𝐼𝑞 )
+ +                                                              ),
+                                  𝑐2
+
+
+ 𝜕2𝑈      1                                      1−𝛼−𝛽−𝛾+2𝑄𝐼𝑞
+      = − 𝑐 𝛽−𝜆−𝑀𝐼𝑚−𝑄𝐼𝑚 (1 + 𝐼𝑚 )𝛾+2𝑀𝐼𝑚 (1 + 𝐼𝑞 )
+ 𝜕𝑚2      𝜃
+ × 𝑚𝛾+2𝑀𝐼𝑚+𝜇 𝑝ℎ(𝛼−𝑀𝐼𝑚 −𝑄𝐼𝑞) (𝑟 − 𝑐 − 𝑚 − 𝑎𝑝)−𝛼−𝛽−𝛾+𝜂+2𝑄𝐼𝑞
+    2(1 − 𝛼 − 𝛽 − 𝛾 + 𝜂 + 2𝐼𝑞 𝑄)(𝛾 + 2𝑀𝐼𝑚 + 𝜇)
+ ×(
+                         𝑚                                                                                  (18)
+   (𝛼 + 𝛽 + 𝛾 − 𝜂 − 2𝑄𝐼𝑞 )(1 − 𝛼 − 𝛽 − 𝛾 + 𝜂 + 2𝑄𝐼𝑞 )
+ +
+                    𝑟 − 𝑐 − 𝑚 − 𝑎𝑝
+   (𝑟 − 𝑐 − 𝑚 − 𝑎𝑝)(1 − 𝛾 − 𝜇 − 2𝑀𝐼𝑚 )(𝛾 + 2𝑀𝐼𝑚 + 𝜇)
+ +                                                     )
+                            𝑚2
+
+Appendix D Proof of Property 3
+Differentiating (9) gives
+
+ 𝜕𝑝 𝜕𝑝 𝜕𝑝         𝜕2 𝑝 𝜕2𝑝 𝜕2𝑝
+    =   =    = 0, 2 = 2 = 2 = 0,
+ 𝜕𝛽 𝜕𝛾 𝜕𝜃         𝜕𝛽    𝜕𝛾    𝜕𝜃
+ 𝜕𝑝              ℎ(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 )               𝜕2𝑝
+    =                                          , 2 = 0,
+ 𝜕𝑟 𝑎(1 − (1 − ℎ)(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ) + 𝜂 − 𝜆 + 𝜇) 𝜕𝑟
+                −ℎ𝑟(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 )                                                                         (19)
+ 𝜕𝑝
+    =                                            ,
+ 𝜕𝑎 𝑎2 (1 − (1 − ℎ)(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ) + 𝜂 − 𝜆 + 𝜇)
+ 𝜕2𝑝              2ℎ𝑟(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 )
+     =
+ 𝜕𝑎2 𝑎3 (1 − (1 − ℎ)(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ) + 𝜂 − 𝜆 + 𝜇)
+
+ 𝜕𝑐                     𝑟                    𝜕2𝑐
+    =                                       , 2 = 0,
+ 𝜕𝛽 1 − (1 − ℎ)(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ) + 𝜂 − 𝜆 + 𝜇 𝜕𝛽
+ 𝜕𝑐   𝜕𝑐       𝜕𝑐   𝜕𝑐
+    =     = 0,    =     = 0,
+ 𝜕𝛾 𝜕𝛾 2       𝜕𝜃 𝜕𝜃 2
+                                                                                                            (20)
+ 𝜕𝑐             𝛽 − 𝜆 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞            𝜕2𝑐
+    =                                      , 2 = 0,
+ 𝜕𝑟 1 − (1 − ℎ)(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ) + 𝜂 − 𝜆 + 𝜇 𝜕𝑟
+ 𝜕𝑐 𝜕 2 𝑐
+    =     =0
+ 𝜕𝑎 𝜕𝑎2
+
+ 𝜕𝑚 𝜕 2 𝑚
+     =      = 0,
+ 𝜕𝛽    𝜕𝛽2
+ 𝜕𝑚                   𝑟                     𝜕2𝑚
+     =                                     , 2 = 0,                                                         (21)
+ 𝜕𝛾 1 − (1 − ℎ)(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ) + 𝜂 − 𝜆 + 𝜇 𝜕𝛾
+ 𝜕𝑚 𝜕 2 𝑚
+     =      = 0,
+  𝜕𝜃   𝜕𝜃 2
+
+                                                                                                                   65
+                Wang and Hausken, International Journal of Finance & Banking Studies 11(2) (2022), 49-68
+
+
+ 𝜕𝑚                     𝑟                     𝜕2𝑚
+    =                                        , 2 = 0,
+ 𝜕𝑟   1 − (1 − ℎ)(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ) + 𝜂 − 𝜆 + 𝜇 𝜕𝑟
+ 𝜕𝑚 𝜕 2 𝑚
+    =      =0
+ 𝜕𝑎   𝜕𝑎2
+
+ 𝜕𝑞 𝜕𝑞                       −𝑟                  𝜕2 𝑞 𝜕2𝑞
+    =    =                                      , 2 = 2 = 0,
+ 𝜕𝛽 𝜕𝛾 1 − (1 − ℎ)(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ) + 𝜂 − 𝜆 + 𝜇 𝜕𝛽     𝜕𝛾
+ 𝜕𝑞 𝜕 2 𝑞
+    =     = 0,
+ 𝜕𝜃 𝜕𝜃 2                                                                                                   (22)
+ 𝜕𝑞         1 − 𝛼 − 𝛽 − 𝛾 + 𝜂 + 2𝑄𝐼𝑚        𝜕2𝑞
+    =                                      , 2 = 0,
+ 𝜕𝑟 1 − (1 − ℎ)(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ) + 𝜂 − 𝜆 + 𝜇 𝜕𝑟
+ 𝜕𝑞 𝜕 2 𝑞
+    =     =0
+ 𝜕𝑎 𝜕𝑎2
+
+ 𝜕𝑈 1 𝛽−𝜆−𝑀𝐼 −𝑄𝐼                         1−𝛼−𝛽−𝛾+2𝑄𝐼𝑞 𝛾+2𝑀𝐼 +𝜇
+   = 𝑐      𝑚   𝑞 (1 + 𝐼 )𝛾+2𝑀𝐼𝑚 (1 + 𝐼 )            𝑚     𝑚
+                        𝑚              𝑞
+ 𝜕𝛽 𝜃
+                                                                                𝑐
+               × 𝑝ℎ(𝛼−𝑀𝐼𝑚−𝑄𝐼𝑞) (𝑟 − 𝑐 − 𝑚 − 𝑎𝑝)1−𝛼−𝛽−𝛾+𝜂+2𝑄𝐼𝑞 𝐿𝑜𝑔 (                         ),
+                                                                   (1 + 𝐼𝑞 )(𝑟 − 𝑐 − 𝑚 − 𝑎𝑝)
+ 𝜕 2 𝑈 1 𝛽−𝜆−𝑀𝐼 −𝑄𝐼                              1−𝛼−𝛽−𝛾+2𝑄𝐼𝑞 𝛾+2𝑀𝐼 +𝜇
+      = 𝑐           𝑚   𝑞 (1 + 𝐼 )𝛾+2𝑀𝐼𝑚 (1 + 𝐼 )            𝑚     𝑚
+                                𝑚              𝑞
+ 𝜕𝛽2 𝜃
+ × 𝑝ℎ(𝛼−𝑀𝐼𝑚 −𝑄𝐼𝑞 ) (𝑟 − 𝑐 − 𝑚 − 𝑎𝑝)1−𝛼−𝛽−𝛾+𝜂+2𝑄𝐼𝑞
+                                         2
+         (1 + 𝐼𝑞 )(𝑟 − 𝑐 − 𝑚 − 𝑎𝑝)
+ × (𝐿𝑜𝑔 (                         )) ,
+                      𝑐
+ 𝜕𝑈 1 𝛽−𝜆−𝑀𝐼 −𝑄𝐼                                 1−𝛼−𝛽−𝛾+2𝑄𝐼𝑞 𝛾+2𝑀𝐼 +𝜇
+      = 𝑐         𝑚    𝑞 (1 + 𝐼 )𝛾+2𝑀𝐼𝑚 (1 + 𝐼 )             𝑚        𝑚
+                               𝑚              𝑞
+ 𝜕𝛾 𝜃
+                                                                  𝑚(1 + 𝐼𝑚 )
+ × 𝑝ℎ(𝛼−𝑀𝐼𝑚 −𝑄𝐼𝑞 ) (𝑟 − 𝑐 − 𝑚 − 𝑎𝑝)1−𝛼−𝛽−𝛾+𝜂+2𝑄𝐼𝑞 𝐿𝑜𝑔 (                            ),
+                                                          (1 + 𝐼𝑞 )(𝑟 − 𝑐 − 𝑚 − 𝑎𝑝)
+ 𝜕 2 𝑈 1 𝛽−𝜆−𝑀𝐼 −𝑄𝐼                               1−𝛼−𝛽−𝛾+2𝑄𝐼𝑞
+       = 𝑐          𝑚    𝑞 (1 + 𝐼 )𝛾+2𝑀𝐼𝑚 (1 + 𝐼 )
+                                 𝑚              𝑞
+ 𝜕𝛾 2 𝜃
+ × 𝑚𝛾+2𝑀𝐼𝑚+𝜇 𝑝ℎ(𝛼−𝑀𝐼𝑚 −𝑄𝐼𝑞) (𝑟 − 𝑐 − 𝑚 − 𝑎𝑝)1−𝛼−𝛽−𝛾+𝜂+2𝑄𝐼𝑞
+                                         2
+                   𝑚(1 + 𝐼𝑚 )
+ × (𝐿𝑜𝑔 (                         )) ,
+         (1 + 𝐼𝑞 )(𝑟 − 𝑐 − 𝑚 − 𝑎𝑝)
+                                                                                                           (23)
+ 𝜕𝑈       1                                            1−𝛼−𝛽−𝛾+2𝑄𝐼𝑞 𝛾+2𝑀𝐼 +𝜇
+      = − 2 𝑐 𝛽−𝜆−𝑀𝐼𝑚 −𝑄𝐼𝑞 (1 + 𝐼𝑚 )𝛾+2𝑀𝐼𝑚 (1 + 𝐼𝑞 )               𝑚     𝑚
+ 𝜕𝜃      𝜃
+ × 𝑝ℎ(𝛼−𝑀𝐼𝑚 −𝑄𝐼𝑞 ) (𝑟 − 𝑐 − 𝑚 − 𝑎𝑝)1−𝛼−𝛽−𝛾+𝜂+2𝑄𝐼𝑞 ,
+ 𝜕2𝑈     2 𝛽−𝜆−𝑀𝐼 −𝑄𝐼                                 1−𝛼−𝛽−𝛾+2𝑄𝐼𝑞 𝛾+2𝑀𝐼 +𝜇
+       =    𝑐        𝑚     𝑞 (1 + 𝐼 )𝛾+2𝑀𝐼𝑚 (1 + 𝐼 )              𝑚     𝑚
+                                   𝑚               𝑞
+ 𝜕𝜃 2 𝜃 3
+ × 𝑝ℎ(𝛼−𝑀𝐼𝑚 −𝑄𝐼𝑞 ) (𝑟 − 𝑐 − 𝑚 − 𝑎𝑝)1−𝛼−𝛽−𝛾+𝜂+2𝑄𝐼𝑞 ,
+ 𝜕𝑈 1 𝛽−𝜆−𝑀𝐼 −𝑄𝐼                                  1−𝛼−𝛽−𝛾+2𝑄𝐼𝑞 𝛾+2𝑀𝐼 +𝜇
+      = 𝑐         𝑚    𝑞 (1 + 𝐼 )𝛾+2𝑀𝐼𝑚 (1 + 𝐼 )                𝑚     𝑚
+                                𝑚              𝑞
+ 𝜕𝑟 𝜃
+ × 𝑝ℎ(𝛼−𝑀𝐼𝑚 −𝑄𝐼𝑞 ) (𝑟 − 𝑐 − 𝑚 − 𝑎𝑝)−𝛼−𝛽−𝛾+𝜂+2𝑄𝐼𝑞 (1 − 𝛼 − 𝛽 − 𝛾 + 𝜂 + 2𝑄𝐼𝑞 ),
+ 𝜕 2 𝑈 1 𝛽−𝜆−𝑀𝐼 −𝑄𝐼                                  1−𝛼−𝛽−𝛾+2𝑄𝐼𝑞 𝛾+2𝑀𝐼 +𝜇
+       = 𝑐          𝑚    𝑞 (1 + 𝐼 )𝛾+2𝑀𝐼𝑚 (1 + 𝐼 )               𝑚     𝑚
+                                 𝑚               𝑞
+ 𝜕𝑟 2 𝜃
+ × 𝑝ℎ(𝛼−𝑀𝐼𝑚 −𝑄𝐼𝑞 ) (𝑟 − 𝑐 − 𝑚 − 𝑎𝑝)−1−𝛼−𝛽−𝛾+𝜂+2𝑄𝐼𝑞 (1 − 𝛼 − 𝛽 − 𝛾 + 𝜂 + 2𝑄𝐼𝑞 )
+ × (−𝛼 − 𝛽 − 𝛾 + 𝜂 + 2𝑄𝐼𝑞 ),
+ 𝜕𝑈      1                                            1−𝛼−𝛽−𝛾+2𝑄𝐼𝑞 𝛾+2𝑀𝐼 +𝜇
+      = − 𝑐 𝛽−𝜆−𝑀𝐼𝑚 −𝑄𝐼𝑞 (1 + 𝐼𝑚 )𝛾+2𝑀𝐼𝑚 (1 + 𝐼𝑞 )                𝑚     𝑚
+ 𝜕𝑎      𝜃
+ × 𝑝1+ℎ(𝛼−𝑀𝐼𝑚 −𝑄𝐼𝑞 ) (𝑟 − 𝑐 − 𝑚 − 𝑎𝑝)−𝛼−𝛽−𝛾+𝜂+2𝑄𝐼𝑞 (1 − 𝛼 − 𝛽 − 𝛾 + 𝜂 + 2𝑄𝐼𝑞 ),
+ 𝜕 2 𝑈 1 𝛽−𝜆−𝑀𝐼 −𝑄𝐼                                  1−𝛼−𝛽−𝛾+2𝑄𝐼𝑞 𝛾+2𝑀𝐼 +𝜇
+       = 𝑐          𝑚    𝑞 (1 + 𝐼 )𝛾+2𝑀𝐼𝑚 (1 + 𝐼 )               𝑚     𝑚
+                                 𝑚               𝑞
+ 𝜕𝑎2 𝜃
+ × 𝑝2+ℎ(𝛼−𝑀𝐼𝑚−𝑄𝐼𝑞) (𝑟 − 𝑐 − 𝑚 − 𝑎𝑝)−1−𝛼−𝛽−𝛾+𝜂+2𝑄𝐼𝑞 (1 − 𝛼 − 𝛽 − 𝛾 + 𝜂 + 2𝑄𝐼𝑞 )
+ × (−𝛼 − 𝛽 − 𝛾 + 𝜂 + 2𝑄𝐼𝑞 )
+
+Appendix E Proof of Property 4
+Differentiating (9) when 𝐼𝑚 is a parameter gives
+
+
+
+66
+                  Wang and Hausken, International Journal of Finance & Banking Studies 11(2) (2022), 49-68
+
+
+ 𝜕𝑝                 𝑟ℎ𝑀(1 + 𝜂 − 𝜆 + 𝜇)
+     =−                                          2,
+ 𝜕𝐼𝑚    𝑎(1 − (1 − ℎ)(𝛼 − 𝑀𝐼 − 𝑄𝐼 ) + 𝜂 − 𝜆 + 𝜇)
+                                     𝑚          𝑞
+ 𝜕2𝑝          2𝑟ℎ𝑀2 (1 − ℎ)(1 + 𝜂 − 𝜆 + 𝜇)
+   2 =                                           ,
+ 𝜕𝐼𝑚 𝑎(1 − (1 − ℎ)(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ) + 𝜂 − 𝜆 + 𝜇)3
+ 𝜕𝑐       𝑟𝑀(1 + (1 − ℎ)(𝛽 − 𝛼 − 𝜆) + 𝜂 − 𝜆 + 𝜇)
+     =−                                          2,
+ 𝜕𝐼𝑚    (1 − (1 − ℎ)(𝛼 − 𝑀𝐼 − 𝑄𝐼 ) + 𝜂 − 𝜆 + 𝜇)
+                                    𝑚       𝑞
+ 𝜕 2 𝑐 2𝑟𝑀2 (1 − ℎ)(1 + (1 − ℎ)(𝛽 − 𝛼 − 𝜆) + 𝜂 − 𝜆 + 𝜇)
+    2 =                                            3   ,
+ 𝜕𝐼𝑚     (1 − (1 − ℎ)(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ) + 𝜂 − 𝜆 + 𝜇)
+ 𝜕𝑚 𝑟𝑀(2 − 2 ((1 − ℎ)(𝛼 − 𝑄𝐼𝑞 ) − 𝜂 + 𝜆) − (1 − ℎ)𝛾 + (1 + ℎ)𝜇)                                                                     (24)
+     =                                                2        ,
+ 𝜕𝐼𝑚       (1 − (1 − ℎ)(𝛼 − 𝑀𝐼 − 𝑄𝐼 ) + 𝜂 − 𝜆 + 𝜇)
+                                           𝑚        𝑞
+                2 (1
+ 𝜕2𝑚      𝑟𝑀     − ℎ) (2 − 2 ((1 − ℎ)𝑄𝐼𝑞 + 𝛼 − 𝜂 + 𝜆) − 𝛾 + 𝜇 + ℎ(2𝛼 + 𝛾 + 𝜇))
+   2 =−                                                          3            ,
+ 𝜕𝐼𝑚                   (1 − (1 − ℎ)(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ) + 𝜂 − 𝜆 + 𝜇)
+ 𝜕𝑞         (1 − ℎ)𝑀𝑟(1 − 𝛼 − 𝛽 − 𝛾 + 𝜂 + 2𝑄𝐼𝑞 )
+     =−                                            2,
+ 𝜕𝐼𝑚     (1 − (1 − ℎ)(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ) + 𝜂 − 𝜆 + 𝜇)
+ 𝜕2𝑞    2𝑟𝑀2 (1 − ℎ)2 (1 − 𝛼 − 𝛽 − 𝛾 + 𝜂 + 2𝑄𝐼𝑞 )
+   2 =
+ 𝜕𝐼𝑚 (1 − (1 − ℎ)(𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ) + 𝜂 − 𝜆 + 𝜇)3
+Combining 0 ≤ 𝛼 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ≤ 1 and 𝛽 − 𝜆 − 𝑀𝐼𝑚 − 𝑄𝐼𝑞 ≥ 0 gives 𝛽 − 𝛼 − 𝜆 ≥ 𝑀𝐼𝑚 + 𝑄𝐼𝑞 − 𝛼 ≥ −1. Hence 1 +
+                                                        𝜕𝑐             𝜕2 𝑐
+(1 − ℎ)(𝛽 − 𝛼 − 𝜆) ≥ 0 if 0 ≤ ℎ < 1, causing                 < 0 and     2    > 0.
+                                                    𝜕𝐼𝑚                𝜕𝐼𝑚
+
+
+
+
+Acknowledgement: We thank two referees of this journal for useful comments.
+Author Contributions: Conceptualization: G.W.,K.H.; Methodology: G.W.,K.H.; Data Collection: G.W.,K.H.; Formal Analysis: G.W.,K.H.;
+Writing-Original Draft Preparation: G.W.,K.H.; Writing-Review and Editing: G.W.,K.H. All authors have read and agreed to the published the final
+version of the manuscript.
+Institutional Review Board Statement: Ethical review and approval were waived for this study, due to that the research does not deal with
+vulnerable groups or sensitive issues.
+Data Availability Statement: The data presented in this study are available on request from the corresponding author. The data are not publicly
+available due to privacy.
+Conflicts of Interest: The authors declare no conflict of interest.
+
+
+
+
+References
+Agur, I., Ari, A., & Dell’Ariccia, G. (2021). Designing Central Bank Digital Currencies. Journal of Monetary Economics, 125, 62-
+          79, doi:https://doi.org/10.1016/j.jmoneco.2021.05.002
+Allen, S., Čapkun, S., Eyal, I., Fanti, G., Ford, B. A., Grimmelmann, J., . . . Zhang, F. (2020). Design Choices for Central Bank
+          Digital Currency: Policy and Technical Considerations. National Bureau of Economic Research Working Paper.
+          No.w27634, National Bureau of Economic Research, Cambridge.
+Assenmacher, K., & Krogstrup, S. (2021). Monetary Policy with Negative Interest Rates: De-linking Cash from Digital Money.
+          International Journal of Central Banking, 17(1), 67-106.
+Auer, R., & Böhme, R. (2020). The Technology of Retail Central Bank Digital Currency. Bank for International Settlements Quarterly
+          Review. Basel.
+Beniak, P. (2019). Central Bank Digital Currency and Monetary Policy: A Literature Review. Manuscript. University Library of
+          Munich, Munich.
+Bhimani, A., Hausken, K., & Arif, S. (2022). Do National Development Factors Affect Cryptocurrency Adoption? Technological
+          Forecasting and Social Change, 181, Article number 121739, https://doi.org/121710.121016/j.techfore.122022.121739
+Bindseil, U. (2020). Tiered CBDC and the Financial System. Manuscript. European Central Bank, Frankfurt.
+Bindseil, U., & Fabio, P. (2020). CBDC Remuneration in a World With Low or Negative Nominal Interest Rates. Manuscript.
+          European Central Bank, Frankfurt.
+Blanke, J., & Krogstrup, S. (2016). Negative Interest Rates: Absolutely Everything You Need to Know. Retrieved from
+          https://www.weforum.org/agenda/2016/11/negative-interest-rates-absolutely-everything-you-need-to-know/
+Boar, C., & Wehrli, A. (2021). Ready, Steady, Go? - Results of the Third BIS Survey on Central Bank Digital Currency. Bank for
+          International Settlements Papers. No.114, Bank for International Settlements, Basel.
+Borio, C., & Zabai, A. (2018). Unconventional Monetary Policies: A Re-Appraisal. In P. Conti-Brown & R. M. Lastra (Eds.),
+          Research Handbook on Central Banking (pp. 398–444). Cheltenham, Great Britain: Edward Elgar Publishing.
+Böser, F., & Gersbach, H. (2020). Monetary Policy with a Central Bank Digital Currency: the Short and the Long Term. Centre for
+          Economic Policy Research Working Paper. DP15322, Centre for Economic Policy Research, London.
+
+                                                                                                                                            67
+                  Wang and Hausken, International Journal of Finance & Banking Studies 11(2) (2022), 49-68
+
+
+Bougheas, S. (1994). Asset and Currency Prices in an Exchange Economy with Transactions Costs. Journal of Macroeconomics,
+           16(1), 99-107. doi:https://doi.org/10.1016/0164-0704(94)90046-9
+Choi, K. J., Henry, R., Lehar, A., Reardon, J., & Safavi-Naini, R. (2021). A Proposal for a Canadian CBDC. Manuscript. University
+           of Calgary, Calgary.
+Czudaj, R. L. (2020). Is the Negative Interest Rate Policy Effective? Journal of Economic Behavior & Organization, 174, 75-86.
+           doi:10.1016/j.jebo.2020.03.031
+Davoodalhosseini, M., Rivadeneyra, F., & Zhu, Y. (2020). CBDC and Monetary Policy. Manuscript. Bank of Canada, Ottawa.
+Davoodalhosseini, S. M. (2021). Central Bank Digital Currency and Monetary Policy. Journal of Economic Dynamics and Control,
+           104150. doi:https://doi.org/10.1016/j.jedc.2021.104150
+Feenstra, R. C. (1986). Functional Equivalence Between Liquidity Costs and the Utility of Money. Journal of Monetary Economics,
+           17(2), 271-291. doi:10.1016/0304-3932(86)90032-2
+Ferrero, G., & Neri, S. (2017). Monetary Policy in a Low Interest Rate Environment. Bank of Italy Occasional Paper. No.392, Bank
+           of Italy, Rome, http://dx.doi.org/10.2139/ssrn.3056267
+Grasselli, M. R., & Lipton, A. (2019). On the Normality of Negative Interest Rates. Review of Keynesian Economics, 7(2), 201-219.
+           doi:DOI:10.4337/ROKE.2019.02.06
+Jia, P. (2020). Negative Interest Rates on Central Bank Digital Currency. Manuscript. Nanjing University, Nanjing.
+Kiff, J., Alwazir, J., Davidovic, S., Farias, A., Khan, A., Khiaonarong, T., . . . Zhou, P. (2020). A Survey of Research on Retail Central
+           Bank Digital Currency. International Monetary Fund Working Paper. No. 20/104, International Monetary Fund,
+           Washington.
+Lee, D. K. C., Yan, L., & Wang, Y. (2021). A Global Perspective on Central Bank Digital Currency. China Economic Journal, 14(1),
+           52-66. doi:10.1080/17538963.2020.1870279
+Meaning, J., Dyson, B., Barker, J., & Claytona, E. (2021). Broadening Narrow Money: Monetary Policy with a Central Bank Digital
+           Currency. International Journal of Central Banking, 17(2), 1-42, https://www.ijcb.org/journal/ijcb21q2a1.htm.
+Mooij, A. A. M. (2021). European Central Bank Digital Currency: the Digital Euro. What Design of the Digital Euro Is Possible
+           Within the European Central Bank’s Legal Framework? BRIDGE Network Working Paper Series. No.14, Tilburg
+           University, Tilburg.
+Saygılı, H. (2012). Consumption (In)Efficiency and Financial Account Management. Bulletin of Economic Research, 64(3), 319-
+           333. doi:10.1111/j.1467-8586.2010.00387.x
+Taylor, J. B. (1993). Discretion Versus Policy Rules in Practice. Carnegie-Rochester Conference Series on Public Policy, 39, 195-
+           214. doi:https://doi.org/10.1016/0167-2231(93)90009-L
+Urbinati, E., Belsito, A., Cani, D., Caporrini, A., Capotosto, M., Folino, S., . . . Tiberi, P. (2021). A Digital Euro: a Contribution to
+           the Discussion on Technical Design Choices. Manuscript. Bank of Italy, Rome.
+Wang, G., & Hausken, K. (2021). Governmental Taxation of Households Choosing Between a National Currency and a
+           Cryptocurrency. Games, 12(2), Article 34, https://doi.org/10.3390/g12020034
+Wang, G., & Hausken, K. (2022). Comparative Analysis of Households and Digital Currencies for the US, China and Russia.
+           International Journal of Finance & Banking Studies, 11(2), 69-86, https://doi.org/10.20525/ijfbs.v11i2.1790
+Wang, G., Zhang, S., Yu, T., & Ning, Y. (2021). A Systematic Overview of Blockchain Research. Journal of Systems Science and
+           Information, 9(3), 205-238, https://doi.org/10.21078/JSSI-2021-205-34
+Wang, H., & Gao, S. (2021). The Future of the International Financial System: A CBDC Network and Regulatory Outlook.
+           Manuscript. University of New South Wales, Sydney.
+Welburn, J. W., & Hausken, K. (2015). A Game Theoretic Model of Economic Crises. Applied Mathematics and Computation, 266,
+           738-762. doi:http://dx.doi.org/10.1016/j.amc.2015.05.093
+Welburn, J. W., & Hausken, K. (2017). Game Theoretic Modeling of Economic Systems and the European Debt Crisis.
+           Computational Economics, 49(2), 177-226. doi:DOI 10.1007/s10614-015-9542-3
+
+
+
+Publisher’s Note: SSBFNET stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+© 2022 by the authors. Licensee SSBFNET, Istanbul, Turkey. This article is an open access article distributed under the terms and conditions of the
+Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).
+
+International Journal of Finance & Banking Studies (2147-4486) by SSBFNET is licensed under a Creative Commons Attribution 4.0 International
+License.
+
+
+
+
+68
+

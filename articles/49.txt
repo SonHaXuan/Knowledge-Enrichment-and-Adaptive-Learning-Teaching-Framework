@@ -1,0 +1,894 @@
+Circular Economy and Sustainability (2022) 2:1501–1516
+https://doi.org/10.1007/s43615-022-00170-0
+
+    SHORT COMMUNICATION
+
+
+
+Circular Economy and Central Bank Digital Currency
+
+Peterson K. Ozili1
+
+Received: 21 November 2021 / Accepted: 29 March 2022 / Published online: 7 April 2022
+© The Author(s), under exclusive licence to Springer Nature Switzerland AG 2022
+
+
+Abstract
+The emergence of central bank digital currency (CBDC) provides an opportunity for cen-
+tral banks to make an important contribution to the transition to a circular economy. This
+paper examines the role of a central bank digital currency in the circular economy. Central
+banks can contribute to the transition to a circular economy in two ways: first, by making
+central bank digital currency accessible to circular businesses and other players in the cir-
+cular economy sector, and second, by looking into how the design features of CBDC can
+support circular economy goals. On the role of CBDC in the circular economy, I argue
+that a central bank digital currency offers a better payment option for circular economy
+financial transactions; central bank digital currency can lead to greater financial inclusion
+for ‘unbanked’ informal workers in the circular economy; CBDC can create a gateway that
+allows a central bank to offer financial assistance to distressed circular businesses; using a
+central bank digital currency can reduce illicit activities in the circular economy; a central
+bank digital currency can be used to provide stimulus funding to support circular busi-
+nesses during crises; and, a central bank digital currency can offer low transaction cost for
+circular economy financial transactions. The paper also shows the link between CBDC and
+the circular economy. It also offers a critical perspective on the link between CBDC and
+the circular economy.
+
+Keywords Circular economy · Central bank digital currency · Circular finance · Linear
+economy · Resources · Sustainability · Central bank · CBDC design · Blockchain ·
+Sustainable development · Payment system · Innovation
+
+
+Introduction
+
+The circular economy is part of global efforts to achieve the sustainable development goals
+of the United Nations. The circular economy aims to preserve and maximize the value of
+materials until materials reach the end of its life [1]. In other words, the circular economy
+ensures that the value of materials is preserved for a long time. Corporations, such as the
+Ellen MacAuthur Foundation, the FinanCE Working Group, ING, and RaboBank, have
+been at the forefront of the transition from a linear economy to a circular economy.
+
+
+* Peterson K. Ozili
+  petersonkitakogelu@yahoo.com
+1
+      Central Bank of Nigeria, Abuja, Nigeria
+
+
+                                                                                                13
+                                                                                        Vol.:(0123456789)
+1502                                           Circular Economy and Sustainability (2022) 2:1501–1516
+
+
+    A central bank digital currency is the digital representation of paper money and is
+a direct liability of the issuing central bank. Central bank digital currency, apart from
+being a money equivalent, can be designed to be used as a payment solution for most
+types of transactions. A central bank digital currency has many potential benefits,
+including the potential to offer low transaction cost than that charged by financial insti-
+tutions; it can increase cross-border remittances and increase financial inclusion [2].
+Given the enormous opportunity that central bank digital currency presents for busi-
+nesses and projects in the circular economy, there is need for a discussion on how cir-
+cular businesses can benefit from a central bank digital currency. Also, as central bank
+digital currency and circular economy concepts are growing in popularity among practi-
+tioners and policymakers, there is a need to examine the link between the two concepts.
+    Although the transition to a circular economy is expected to generate some environ-
+mental, economic, and social benefits [3], the transition to a circular economy cannot
+be fully achieved without substantial funding for circular businesses and circular pro-
+jects [4]. And even when funding is fully available for circular economy projects and
+business activities, there is a need to develop innovative payment solutions that enables
+efficient allocation of funding to circular projects and activities. The current model of
+financing that puts banks and financial institutions at the epicenter of financial inter-
+mediation presents some challenges. The most significant of the challenges is the high
+transaction cost involved in investing and lending to circular businesses. An innovative
+solution that has emerged to reduce transaction cost for circular businesses is the central
+bank digital currency.
+    Previous studies have looked at how payment solutions can facilitate activities in
+various sectors of the circular economy. For instance, Kouhizadeh et al. [5] focused on
+blockchain payment and argue that automatic agreements stored on the blockchain can
+be initiated using blockchain payment that help to reduce cost, reduce time and minimize
+communication problems in supply chains in the circular economy. Kouhizadeh and Sarkis
+[6] show that blockchain-based smart contracts have a variety of applications in circular
+economy practices, for instance, it allows suppliers to pay for returned products through
+blockchain payment rather than allowing the buyer to dispose the product as waste when
+the buyer no longer need the purchased product. Pizzi et al. [7] focused on Fintech pay-
+ment and show that Fintech enterprises can provide customizable payment solutions that
+are suitable for circular business models. Other related studies include Upadhyay et al. [8],
+Böckel et al. [9], Blakstad and Allen [10], etc. Despite these existing studies, the litera-
+ture has not addressed how specific payment alternatives, such as a central bank digital
+currency (CBDC), can facilitate activities in the circular economy. The lack of previous
+studies in this area makes it difficult to gain a rigorous understanding of how CBDCs can
+facilitate growth in the circular economy, and how circular economy activities can rein-
+force the need for CBDCs. This paper addresses this issue by establishing a link between
+the circular economy and central bank digital currency. Establishing a link between the
+circular economy and CBDC is important because it can offer insights on how retail or
+wholesale CBDCs can be designed, and redesign, to support circular economy goals in the
+circular economy.
+    To date, the circular economy literature has not explored how innovative payment solu-
+tions, such as a central bank digital currency, can promote activities in the circular econ-
+omy. This paper is the first to explore the potential role of a central bank digital currency in
+accelerating the transition to a circular economy. There is also a need to create a common
+understanding of the role of central bank digital currency in circular finance. Such under-
+standing can stir up helpful debates in the literature and can open up new opportunities for
+
+13
+Circular Economy and Sustainability (2022) 2:1501–1516                                     1503
+
+
+small businesses, large corporations, and individuals that want access to finance to carry
+out circular economy activities.
+    The discussion in this paper contributes to the literature in the following ways. Firstly,
+the study contributes to the circular economy literature. Some studies in this literature
+include Andrews [11], Kouhizadeh et al. [5], Geissdoerfer et al. [3], Schöggl et al. [12],
+etc. The present study contributes to the circular economy literature by showing that the
+presence of an effective payment alternative, such as a central bank digital currency, is
+crucial to support and accelerate the transition to a circular economy. Secondly, this study
+contributes to the literature that examine circular finance. Some studies in this literature
+include Dewick et al. [13], Aranda-Usón et al. [14], Ozili [15], etc. The present study con-
+tributes to the circular finance literature by showing that a central bank digital currency can
+act as a reliable low-cost payment solution to facilitate circular economy financial trans-
+actions. Thirdly, the discussion in the paper opens up new discussions about the role of
+central banks in the transition to a circular economy. Such discussions can offer ideas on
+how central banks can design, and redesign, the CBDC in ways that promote sustainable
+financing for circular economy projects and activities which are geared towards sustainable
+development.
+    Regarding methodology, I used desk research method to analyse available informa-
+tion that link central bank digital currency with the circular economy. The desk research
+method involves collecting and examining information that already exists in publicly avail-
+able policy documents, practitioner white papers, media reports, academic journals, and
+use-case reports. The information obtained from these sources were used to establish a link
+between central bank digital currency and the circular economy.
+    The rest of the paper is structured as follows. The paper begins by presenting a con-
+ceptual background of the circular economy, circular finance, and central bank digital cur-
+rency in the “Conceptual Background” section. The paper then reviews studies on the link
+between innovative finance and the circular economy in the “Literature Review” section.
+Thereafter, the paper discusses the role of CBDC in the circular economy in the “Role of
+CBDC in the Circular Economy” section. The paper then shows the direct link between
+CBDC and the circular economy in the “Direct Link Between Circular Economy and
+CBDC” section. Afterwards, the paper presents some critical perspective on the use and
+application of CBDC in the circular economy in the “Critical Perspective on CBDC for the
+Circular Economy” section. Finally, the paper highlights the contribution of the study to
+existing knowledge in the “Contribution to Existing Knowledge” section.
+
+
+
+Conceptual Background
+
+Circular Economy
+
+A circular economy is an economic system, or economic philosophy, that preserves the
+value of resources and raw materials by minimizing raw materials or resources waste and
+promoting the reuse and recycling of resources and raw materials [16, 17],and [15]. 3,
+p.7) define the circular economy as “a regenerative system in which resource input, waste,
+emission, and energy leakage are minimised by slowing, closing, and narrowing material
+and energy loops.”
+   The circular economy is based on three principles, which are (i) eliminating waste and
+pollution, (ii) recycling products and materials at their highest value, and (iii) regenerating
+
+                                                                                   13
+1504                                                              Circular Economy and Sustainability (2022) 2:1501–1516
+
+
+nature [18]. A circular economy decouples economic activity from the depletion of finite
+resources towards the preservation and regeneration of finite resources [19], thereby gener-
+ating positive benefits for business, people, and the environment [18].
+    The circular economy needs to be distinguished from the linear economy. The linear
+economy operates a take–make–dispose model that degrades resources and generates unac-
+ceptable levels of waste [20]. In the linear economy, raw materials are sourced, and then
+transformed into final products for use by consumers until they are finally discarded as
+waste and then destroyed [21]. In the linear economy, value is created by producing and
+selling as many products as possible [22]. In contrast, the circular economy operates a
+reduce–reuse–recycle model that preserve resources, thereby protecting the environment
+[23]. In the circular economy, the value of resources and raw materials are preserved by
+minimizing raw materials or resources waste, and promoting the reuse and recycling of
+resources and raw materials [24].
+    The circular economy plays a significant role in the climate change mitigation agenda.
+It contributes to mitigating resource scarcity, resource waste, and pollution, which together
+helps to preserve the environment and contribute to the climate change mitigation agenda.
+
+Circular Finance
+
+Finance is needed to accelerate the transition to a circular economy. Financial institutions
+need to allocate more capital to stimulate economic growth through the transition from a
+linear economy to a circular economy [25]. One way in which financial institutions can do
+this is by creating financial instruments that can be used to raise capital to fund circular
+economy projects and activities. Common terms used to describe financial instruments that
+are design for circular economy purposes are “circular financing” or “circular economy
+finance” (see, for example, [13, 26]. Circular finance, or circular economy finance, refers to
+financial instruments where the funding raised (e.g., investments, loans, or donations) will
+be exclusively used to finance or re-finance, in part or in full, new and/or existing eligible
+companies or projects in the circular economy [27]. Circular finance can also be viewed
+as any form of financial service or financial instrument that integrates circular economy
+factors into business and investment decisions in order to accelerate the transition to a cir-
+cular economy as a basic cornerstone of sustainable development [28].1 These definitions
+show that circular finance uses financial instruments to accelerate the transition to a circu-
+lar economy.
+    There is need for innovative circular economy financial instruments that are structured to
+reduce investment risk and increase risk-adjusted returns. These innovative financial instru-
+ments also need to be ring-fenced to ensure that the financial instruments are used only to
+finance specific circular economy projects and activities [27]. If the financial instruments
+are not ring-fenced, it means the financial instruments can be used to finance both circular
+and linear projects and activities [27]. Types of financing instruments that can be used to
+fund circular economy projects and activities include: own capital (e.g., personal savings
+of the entrepreneur and contributions received family members and friends,subsidies and
+grants; venture capital (e.g., capital provided by angel investors; crowdfunding (e.g., funds
+contributed or donated by generous members of the public who support circular economy
+goals; and bank funding (e.g., loans provided by banks [29]. Investors, banks, and financial
+
+
+
+1
+    https://​www.​pwc.​ch/​en/​insig​hts/​susta​inabi​lity/​circu​lar-​finan​ce.​html
+
+
+13
+Circular Economy and Sustainability (2022) 2:1501–1516                                      1505
+
+
+regulators can play a significant role in accelerating the transition to a circular economy by
+ensuring that there are abundant financing instruments to meet the financing needs of the
+circular economy.
+
+
+
+CBDC
+
+CBDC is a digital representation of paper money or physical money [2, 30]. The origin
+of CBDC dates back to the 1980s when central banks permitted commercial banks to use
+digital money, and this led to a rise in digital money [31]. Digital money at that time was
+depositors’ account balances that are accessible using bank applications, mobile wallets, or
+Internet banking applications which today is known as mobile banking or Internet bank-
+ing [31]. Two decades later, cryptocurrencies, also known as private digital currencies,
+emerged, which allows people to hold large amounts of private digital currencies without
+needing an intermediary and without regulation. Examples of cryptocurrencies include Bit-
+coin, Ethereum, Dogecoin, Tether, etc. (Náñez Alonso et al., 2021). Central banks observed
+that cryptocurrencies were becoming very popular and that a large number of people had
+embraced private digital currencies. It also led to concerns that people could abandon fiat
+paper money in favor of cryptocurrencies. This led central banks to look into the possibility
+of creating their own digital currencies, and to determine whether there is a strong case for
+creating a central bank digital currency [32]. As of 2021, six countries have fully launched
+a digital currency. They are the Bahamas, Saint Kitts and Nevis, Antigua and Barbuda,
+Saint Lucia, Nigeria, Grenada, Dominica, and Montserrat. Other countries have formally
+declared that they are conducting research into CBDC or plan to adopt a CBDC in the near
+future. These countries include Thailand, Ghana, the USA, India, the UK, etc.
+    CBDC has specific features. The first and most important feature of a CBDC is that
+it is a fiat digital currency or a digital legal tender [33]. This means that the central bank
+digital currency is recognized by law. A CBDC is issued only by the central bank and is a
+liability of the central bank [34]. This means that the central bank is fully liable for any loss
+of CBDC arising from data breaches, privacy breaches and theft. A CBDC is designed to
+perform all the functions of paper money and can perform additional functions [35]. This
+means that the CBDC can be used as a medium of exchange, a store of value, a unit of
+account, and for settlement of debt. CBDC can be used by individuals, firms and govern-
+ments to make micro and large payments [2]. A CBDC is also designed to offer settlement
+finality for all transactions [36]. This means that a transfer of funds using CBDC is final,
+irrevocable, and unconditional.
+    Here’s how CBDCs work. A central bank can issue CBDC directly to the digital wal-
+let of citizens [34], which is similar to how a government make stimulus payment directly
+into bank account of citizens. In this case, the central bank will credit the account of the
+receiver with specified units of CBDC in exchange for the paper money equivalent held
+in the receiver’s bank account. The central bank can also issue CBDC to financial institu-
+tions for distribution. In this case, a person who has money in his or her bank account will
+notify the bank that he or she wants to convert a specified amount of deposit balances into
+CBDC units. This amount is then transferred to the CBDC account of the person. After
+conversion, the deposit balances in the CBDC account can then be used to make electronic
+payment. The person initiates an electronic payment transaction and selects the amount to
+be paid. The person approves the electronic payment by scanning his or her transaction QR
+code against the QR code of the seller (in the case of an account-based CBDC held in a
+
+
+                                                                                     13
+1506                                          Circular Economy and Sustainability (2022) 2:1501–1516
+
+
+digital wallet), or by validating the token of the seller before making payment (in the case
+of a token-based CBDC). Once this is done, value is transferred electronically.
+    While the design of a CBDC may vary across countries, one feature that is common to
+all CBDC is that a CBDC is usually designed to fit with the current payment system infra-
+structure. This ensures that CBDCs will work like a mobile wallet which most people are
+already familiar with.
+
+
+
+Literature Review
+
+CBDC Literature
+
+Central bank digital currency is a recent innovation and is becoming a hot topic in main-
+stream public discourse and in the academic literature. Calle and Eidan [36] show that the
+reason for issuing and using a central bank digital currency will differ widely depending on
+the particular central bank and the existing payment systems in each country. They show
+that central banks’ motivation for issuing a retail CBDC is to increase seigniorage income,
+support monetary policy, link payments to identity, enable participation in a tokenized
+financial ecosystem, foster competition within the private sector, provide a cash alterna-
+tive, or to generally modernize the payment system. Ozili [37] shows that another reason
+why central banks issue a central bank digital currency is to promote financial inclusion
+by digitizing value chains, offering low transaction cost, and being able to have CBDC
+holdings without needing a bank account. Ponce [38] shows that a central bank digital cur-
+rency serves as an alternative tool to help central banks improve efficiency, resilience, and
+security in retail payments and to preserve financial stability. Huynh et al. [39] suggest
+that CBDC should be an easy-to-use, low-cost, and secure payment method to ensure full
+consumer adoption and merchant acceptance. Khiaonarong and Humphrey [40] argue that
+the level and trend in cash use in a country will influence the demand for central bank
+digital currency, and the demand for digital currency may be low in countries where there
+is high preference for cash substitutes such as cards, electronic money, and mobile phone
+payments.
+   Several studies have called for caution when using CBDCs. For example, Mancini-Grif-
+foli et al. [33] show that the impact of CBDC will depend on its design. They suggest that
+central banks need to consider their specific country circumstances when designing and
+adopting CBDC while paying careful attention to the risks of CBDC. Barontini and Holden
+[32] argue that central banks will move at different speeds in adopting a CBDC due to dif-
+ferences in technical capabilities, and central banks should apply a great deal of caution in
+adopting a CBDC. They further suggest that a central bank should collaborate with other
+central banks to develop a robust and effective CBDC. Williamson [41] argues that CBDC
+tends to encourage banking panics, even though banking panics are less disruptive with
+central bank digital currency than with physical currency. Ozili [2] shows that there is a
+need to (i) determine the optimal CBDC design that meets all competing objectives, (ii)
+determine the effect of CBDC on the cost of credit, (iii) the effect of CBDC on financial
+stability, and (iv) find a balance between limiting the CBDC holdings of users and allowing
+users to hold unlimited units of CBDC. Arner et al. [42] suggest that most central banks
+should focus on transforming their existing payment systems rather than on rolling out a
+central bank digital currency. Davoodalhosseini [43] shows that having both cash and a
+CBDC available to people at the same time may result in lower welfare than in the cases
+
+13
+Circular Economy and Sustainability (2022) 2:1501–1516                                     1507
+
+
+where only cash or only a CBDC is available. They suggest that it is better to have only one
+available option at a time either cash or CBDC.
+
+
+Circular Economy Literature
+
+Several studies identify some benefits and challenges of a circular economy. Stahel [44]
+suggests that the circular economy can reduce resource waste by encouraging the re-use
+and recycling of materials to save resources, energy, and create local jobs. Brydges [45]
+shows that the circular economy will lead to a more efficient, closed-loop economy. Sal-
+menperä et al. [46] investigate the application of the circular economy in the waste man-
+agement industry. They show that a circular economy approach to waste management will
+promote the retention of material value through waste recycling, better sharing of waste-
+related data, greater dialogue and cooperation between key players, and harmonization of
+regulations and their interpretations. Chen et al. [47] examine the application of circular
+economy in the textiles industry. They were concerned about the rate at which textile waste
+end up in landfills. They suggest ways in which circular economy can change this trend
+such as by creating renewable raw materials sources, rethinking production, maximizing
+the use and reuse of textile products, adopting reproduction and recycling strategies, redis-
+tributing textiles to new and parallel markets, and improvising means to extend the textiles
+lifetime. Geng et al. [48] suggest ways in which policymakers can globalize the circular
+economy. Some of the suggested ideas include (i) setting up a global database that capture
+the link between resource use and resource waste, (ii) fostering knowledge sharing about
+the circular economy, (iii) encouraging international collaboration to promote large-scale
+experimentation of a circular economy model, (iv) developing standards for performance
+measurement, reporting and accounting in the circular economy, and (v) formulating and
+enforcing regulation of the circular economy on a global scale. Notwithstanding, Chhim-
+wal et al. [49], Pincelli et al. [50], and Droege et al. [51] identify some challenges in imple-
+menting a circular economy model. The challenges include non-compliance with environ-
+mental laws, revenue generation problems, difficulty in attracting investors, technological
+limitations, lack of policy support, the high cost involved in the circular economy transi-
+tion, and low demand for refurbished and reused products.
+
+
+Literature on the Relationship Between Circular Economy and Financing Options
+
+A number of studies explore the financing options that are available for growing the circu-
+lar economy. For instance, Dewick et al. [13] suggest that a major shift in private and pub-
+lic investment is needed to forge a transition to a circular economy. Sepetis [52] calls for
+collaboration between the public and private sector for change towards sustainable finance
+and a shift towards circular business models. Sepetis also suggests that environmental,
+social, and governance (ESG) risk should be incorporated into circular economy financing
+models. Meanwhile, Hassan et al. [53] suggest that non-interest financial instruments can
+offer sufficient funding for the transition from the linear economy to the circular economy.
+    Empirical studies such as Demirel and Danisman [54] examine the impact of availa-
+ble external funding for circular economy activities on the growth of European small and
+medium scale enterprises (SMEs). They find that equity finance, particularly venture capi-
+tal investments, contribute positively to the growth of European SMEs. Aranda-Usón et al.
+[14], in an analysis of Spanish companies, find that the availability of funds, the quality of
+
+                                                                                    13
+1508                                                       Circular Economy and Sustainability (2022) 2:1501–1516
+
+
+firms’ financial resources, and the availability of public subsidies have a positive effect in
+stimulating the implementation of circular economy initiatives.
+   Other studies explore the role of banks and other financial institutions in the circu-
+lar economy. For instance, Goovaerts and Verbeek [55] suggest that financial institu-
+tions can contribute to the circular economy transition in two ways: first, by providing
+appropriate financial and legal advice,and second, by looking at their own business
+models and risk assessment frameworks to better balance linear and circular risks.
+Ozili and Opene [4] identify the role of banks in the circular economy. They suggest
+that banks should: develop a common understanding of the circular economy,issue
+widely accepted and recognized guidelines on circular economy finance; adapt exist-
+ing finance models to fit into a circular economy model; offer credit lines to circular
+businesses; create a green bank; train bank staff; promote a strong culture of waste
+reduction and material re-use; ensure that the board risk committee is competent in
+circular risk management and control. Also, Ozili [15] shows that the circular econ-
+omy offers some benefits to banks such as greater loan diversification opportunities,
+increased lending to circular clients in the recycling sector, and promoting responsi-
+ble and sustainable banking. Some benefits to non-bank financial institutions include
+greater sustainability-adjusted return on investment for investment companies, greater
+funding to microfinance institutions; and more opportunities for collaborative funding
+to circular businesses [15].
+
+
+Role of CBDC in the Circular Economy
+
+CBDC Offers a Better Payment Option for Investing in the Circular Economy
+
+Circular investors can pay for their investment using CBDC. Payments made using
+CBDC are low-cost, fast, flexible, safe, and secure [56]. They also provide a level of
+convenience that is not obtainable with credit cards, debit cards, or bank transfer pay-
+ment alternatives [57]. Investors and donors will be able to use central bank digital
+currency as a means of payment [58], and to transfer funds directly to circular busi-
+nesses and projects, thereby bypassing financial institutions and the associated high
+transaction cost. Recently, the assets in public equity funds dedicated to the circular
+economy grew from US$300 million in 2019 to almost US$9.5 billion by November
+2021.2 Using CBDC to accelerate circular investment can further increase the amount
+of public equity funds invested in the circular economy by reducing investment fees
+and transaction cost.
+
+CBDC Can Increase Financial Inclusion for Circular Economy Workers
+
+Many informal employees or local waste pickers working for circular businesses are
+often paid in cash [59], either because they do not own a formal bank account or for
+some other reasons. This situation is common in developing countries and in poor
+countries, and it presents a major hindrance to financial inclusion for informal work-
+ers working for circular businesses especially in developing and poor countries. A
+
+
+2
+    Ellen MacArthur Foundation https://​ellen​macar​thurf​ounda​tion.​org/​topics/​finan​ce/​overv​iew
+
+
+13
+Circular Economy and Sustainability (2022) 2:1501–1516                                1509
+
+
+central bank digital currency can change this trend by giving employers an option to
+pay the wages of informal workers into their account-based CBDC wallet if informal
+workers do not have a formal bank account. This means that informal workers can be
+financially included in the formal financial system through owning a CBDC wallet
+even though they do not have a formal bank account, thereby, increasing financial
+inclusion [37]. For example, employers in the circular economy can pay the wages
+of informal workers into their CBDC wallets if informal workers are having difficul-
+ties in meeting the burdensome documentation required to open a formal account in a
+bank.
+
+CBDC Creates a Gateway that Allow a Central Bank to Offer Financial Assistance
+to Distressed Circular Businesses
+
+CBDC can be used as a means to make welfare and stimulus payments to distressed
+firms [60]. Using central bank digital currency to facilitate circular economy trans-
+actions can establish a direct connection between circular economy players and the
+central bank. The advantage is that it makes it easier for the central bank to give loans
+directly to circular economy businesses, thereby eliminating third-party risks. Also,
+the direct connection created between the central bank and circular businesses, when
+the latter use CBDC can provide an opportunity for distressed circular businesses
+to approach the central bank for financial assistance (e.g., a distress relief loan),
+thereby allowing circular businesses to avoid the high interest rate they will incur if
+they sought financial assistance from traditional lending institutions. Although cen-
+tral bank’s loan support and financial assistance to circular businesses may appear
+to be a less compelling case for why CBDC is important to circular businesses, it
+is important to understand that circular businesses operating in a high interest rate
+environment may experience difficulty in obtaining low-interest loan for traditional
+financial institutions, and this could affect their survival in the short term. Such cir-
+cular businesses may have no choice but to approach the central bank for financial
+assistance since most central banks are allowed to lend to non-banks under exigent
+circumstances. The central bank will find it easier to transfer CBDC-based digital
+loans to circular businesses than to issue loans in the form of cash to circular busi-
+nesses. Notwithstanding, there is no guarantee that central banks will lend directly
+to non-banks or offer financial assistance to circular businesses just because circular
+businesses use CBDC in their business activities.
+
+Reducing Illicit Activity in the Circular Economy
+
+Cash is a very appealing instrument for money laundering, tax evasion, payment
+fraud, illegal diversion of funds, and other criminal activities [61]. Such risks can be
+avoided or reduced when circular economy financial transactions are made using cen-
+tral bank digital currency rather than cash. The advantage of central bank digital cur-
+rency is that a central bank digital currency is deployed on a permissioned distributed
+ledger technology or blockchain [62], and all transactions can be traced to the unique
+ID of the sender and recipient of funds [63, 64]. Therefore, using a central bank digi-
+tal currency can make it very difficult to carryout illicit activity in the circular econ-
+omy. This can help to reduce criminal activities and other risks associated with cash-
+based transactions in the circular economy. A real-life example that comes to mind
+
+                                                                               13
+1510                                                       Circular Economy and Sustainability (2022) 2:1501–1516
+
+
+is a criminal case reported in China in November 2021.3 A criminal (name withheld)
+was arrested by Police in China for scamming over 300,000 yuan ($47,000) from a
+victim (name withheld) using China’s central bank digital currency—the digital yuan.
+The criminal allegedly called the victim, and impersonated police to obtain the vic-
+tim’s personal information including the ID number, bank account details and a photo
+of the victim’s face. The criminal then registered a digital yuan e-wallet for the victim
+and transferred the money from the victim’s bank account, before transferring it again
+to the criminal’s own e-wallet. The police traced the transaction and identified the
+criminal as the owner of the receiving CBDC e-wallet. The criminal was arrested and
+admitted to being involved in money laundering through the digital yuan. This real-
+life example shows how easy it is to link CBDC transactions to the unique ID of the
+sender and receiver, thereby making it easy to detect illicit activities using a CBDC.
+This advantage of CBDC can be extended to the circular economy as CBDC can help
+to detect financial fraud and reduce illicit criminal activity in the circular economy.
+
+CBDC Can Help Circular Businesses Cope with Crises
+
+Circular businesses may be affected by crises that lead to significant loss of revenue or
+income [65]. Such crises can make it difficult for circular businesses to pay employee
+wages and salaries. With CBDC, the government can intervene by providing stimulus
+funding to support circular economy businesses. The government can do this by making
+CBDC payments into the wallet-based account or token-based account of circular busi-
+nesses to support circular economy businesses that are affected by the crisis. It can also
+help businesses to cope with the negative effects of the crisis such as a pandemic, eco-
+nomic recession, or financial crisis.
+
+CBDC Can Offer Low Transaction Cost for Circular Economy Financial Transactions
+
+CBDC can offer low transaction cost [33]. The benefit to circular businesses is that it
+will become cheaper to receive circular economy donations, funding and investments
+from generous donors and investors in other countries. The low transaction cost of
+CBDC payments will make cross-border financial transactions cheaper [66]. A central
+bank digital currency will also be beneficial to circular economy businesses that pay a
+high transaction fee to move cash to different locations to pay informal workers their
+wages. CBDC can reduce cost for merchants and consumers in the circular economy,
+making it a cheaper alternative to bank notes, cheques, debit and credit cards, and
+online transfers because the central bank may charge a very low transaction cost to
+process CBDC payments. Reducing transaction cost is a strong argument for adopt-
+ing CBDC. For example, a 2021 JPMorgan report4 shows that global corporations
+pay $120 billion in transaction cost through intermediary networks each year. Using
+CBDC to make payments can save global corporations an estimated £100 billion in
+transaction cost. Also, during the 2020 COVID-19 pandemic in the United States,
+
+
+
+
+3
+  https://​www.​bloom​berg.​com/​news/​artic​les/​2021-​11-​17/​chine​se-​police-​makes-​arrest-​over-​digit​al-​yuan-​
+scam
+4
+  https://​www.​jpmor​gan.​com/​news/​jpmor​gan-​centr​al-​bank-​digit​al-​curre​ncy-​report
+
+
+13
+Circular Economy and Sustainability (2022) 2:1501–1516                                                 1511
+
+
+there were arguments that circular economy entrepreneurs could have received their
+paycheck protection program (PPP)5 check in the form of CBDC (digital dollar) pay-
+ments if the US government had adopted a digital dollar at the time. This would have
+reduced the cost incurred by the government in making PPP check payments to circu-
+lar entrepreneurs and to everyone else.
+
+
+Direct Link Between Circular Economy and CBDC
+
+The direct link between CBDC and the circular economy depends on the CBDC design,
+and the effect on circular economy transactions. Generally, a CBDC is usually designed
+to meet specific goals such as payment efficiency, financial stability or financial inclusion
+[2, 67, 68]. This means that the unique nature of a CBDC depends on the design of the
+CBDC and the goal the central bank wants to achieve by adopting a CBDC. A CBDC
+that is designed to support circular economy goals will have design features that encour-
+age the use of CBDC for circular economy financial transactions. For example, a CBDC
+can be designed to offer a transaction cost waiver for transactions that are channeled to
+waste reduction activities or waste re-use activities. A CBDC can also be designed to have
+features that give tax rebates for transactions that are channeled to waste reduction activi-
+ties or waste re-use activities. A CBDC can also be designed to exempt circular economy
+transactions from being taxed so as to encourage more circular businesses to use CBDC.
+This type of specially-designed CBDC will offer huge incentives to circular businesses,
+it can lead to cost savings, and can help to grow the circular economy industry. A CBDC
+that is designed to promote circular economy goals will also have technical features that
+restrict the use of CBDC for linear economy transactions. Such CBDC can be designed to
+impose high taxes for linear economy transactions, thereby, inhibiting growth in the linear
+economy. This means that a CBDC can be designed to have features that support circu-
+lar economy goals while discouraging growth in the linear economy. In sum, a direct link
+between CBDC and the circular economy can be established only if a CBDC is designed to
+incorporate features that support circular economy goals while discouraging growth in the
+linear economy. Figure 1 shows the direct link between CBDC and circular economy.
+
+
+
+Critical Perspective on CBDC for the Circular Economy
+
+Although a CBDC present new opportunities for growth in the circular economy [69],
+there are potential impediments to using CBDC in the circular economy. The first impedi-
+ment is that individual preference and choice will play a significant role in determining
+whether CBDC will be fully embraced by circular workers, circular entrepreneurs, circular
+investors, and circular corporations [39]. Individuals and businesses involved in circular
+economy activities will have many payment options available to them, e.g., physical cash,
+credit card, CBDC, cryptocurrency, debit card, etc. They will prefer one payment option
+
+
+5
+  The Paycheck Protection Program (PPP) is a $953-billion business loan program established by the
+United States federal government in 2020 through the Coronavirus Aid, Relief, and Economic Security Act
+(CARES Act). It was established to help certain businesses, self-employed workers, sole proprietors, certain
+nonprofit organizations, and tribal businesses to continue paying their workers.
+
+
+                                                                                               13
+1512                                               Circular Economy and Sustainability (2022) 2:1501–1516
+
+
+
+
+Fig. 1  Direct link between circular economy and CBDC. Source: Constructed by author
+
+
+over the other, and these preferences will reveal the extent to which individuals and busi-
+nesses embrace CBDC in their circular economy activities. For instance, informal workers
+may refuse to receive wages in the form of CBDC payment. Another example is that circu-
+lar businesses may prefer to accept bank transfer payment rather than CBDC payment. The
+implication is that if circular entrepreneurs, circular merchants, and circular corporations
+do not fully embrace CBDC, the value of CBDC in the circular economy will decline.
+Another potential impediment lies in the design of a CBDC. Central banks may not take
+into account circular economy goals when designing a CBDC especially when they have
+more important statutory priorities. Central banks tend to give more priority to price
+stability and financial stability goals when designing a CBDC [67, 68], and may not be
+interested in incorporating circular economy considerations in the CBDC design. Another
+potential impediment is that economic agents in the circular economy may not understand
+how a CBDC works, and as a result, they may prefer to continue using the existing payment
+channels they are familiar with. Others may avoid CBDCs because they want their circular
+economy transactions to be completely anonymous since the government actively monitors
+CBDC transactions but cannot closely monitor cash transactions. Another potential imped-
+iment is that there may be digital connectivity problems when using CBDC as a means of
+payment for circular economy transactions [70]. This can limit the usefulness of CBDC
+for circular economy transactions especially in developing and poor countries where high
+cost of digital connectivity is a major problem. Another potential impediment is the lack
+of awareness about CBDC. Circular entrepreneurs and businesses may not be aware about
+the benefits of CBDC, and this can be attributed to poor publicity, poor awareness, and low
+sensitization about the benefits of CBDC in promoting business activities in the circular
+economy [71]. Another potential impediment is the cost of converting paper currency to
+CBDC, and the cost of converting CBDC back to paper currency. The cost of converting
+paper currency to CBDC and the cost of converting central bank digital currency back
+to paper currency may be substantial to individuals and small businesses involved in cir-
+cular economy activities, and this can discourage them from using CBDC. Finally, the
+above mentioned impediments suggest that there is a need to proceed with caution in using
+
+
+13
+Circular Economy and Sustainability (2022) 2:1501–1516                                    1513
+
+
+CBDC to accelerate the transition to a circular economy. Central banks need to find a way
+to ensure that CBDC design supports circular economy goals without sacrificing price sta-
+bility, monetary stability, and financial stability goals of the central bank.
+
+
+
+Contribution to Existing Knowledge
+
+The discussions in this paper contribute to the literature that examine the role of finance
+in accelerating the transition to a circular economy (see, for example, [13, 14, 72], etc.).
+These studies show that the finance industry can provide financial resources to acceler-
+ate the transition to a circular economy [13]. Ling-hua [72] shows that abundant financial
+resources are needed to develop the circular economy, while other studies, such as Aranda-
+Usón et al. [14], show that the availability of funds, the quality of a firm’s own financial
+resources, and public subsidies can stimulate circular economy initiatives in the finance
+industry. These three studies show that financial resources are needed to accelerate the
+transition to a circular economy. The findings of the present study support the previous lit-
+erature, and also extends the literature by showing how innovative payment channels, such
+as a CBDC, can be used to channel financial resources to the circular economy such as the
+recycling sector. Also, the findings of the present study extend the literature by showing
+that CBDC can increase access to finance for circular economy activities, thereby acceler-
+ating the transition to a circular economy. The findings of this paper also extend existing
+knowledge by being the first study to examine how CBDC can accelerate the transition to a
+circular economy.
+
+
+
+Conclusion
+
+This paper analyzed the role of a central bank digital currency in the circular economy. In
+the paper, I argued that a central bank digital currency offers a better payment option for
+circular economy transactions; central bank digital currency can increase financial inclu-
+sion for unbanked informal workers in the circular economy; CBDC creates a gateway that
+allows a central bank to offer financial assistance to distressed circular businesses; using a
+central bank digital currency can help to reduce illicit activity in the circular economy; a
+central bank digital currency can be used to provide stimulus funding to support circular
+businesses during crises; and a central bank digital currency can offer low transaction cost
+for circular economy financial transactions.
+    The implication of the findings of this paper is that the current discussions about cir-
+cular finance should also include discussions about the opportunities that a central bank
+digital currency present for the circular economy as well as the benefits of using a central
+bank digital currency to accelerate the transition to a circular economy. This can open up
+an opportunity for policy makers, such as central banks, to support the circular economy
+agenda. However, it is yet to be seen whether central banks will play a significant role in
+supporting the transition to a circular economy other than offering its central bank digi-
+tal currency as an alternative payment solution, and given their other statutory priorities.
+Finally, a central bank digital currency is not the only existing innovative payment alterna-
+tive that can support the circular economy transition. It is one of many payments alterna-
+tive such as cryptocurrency, bitcoins, stable-coins, etc. As a result, there will be debates
+
+                                                                                  13
+1514                                                  Circular Economy and Sustainability (2022) 2:1501–1516
+
+
+about whether the circular economy should embrace CBDC or a better blockchain-based
+alternative. Future studies can explore the role of other payment alternative in accelerating
+the transition to a circular economy.
+
+Author Contribution All contributions were made by the sole author.
+
+Data availability Not applicable.
+
+Code Availability Not applicable.
+
+Declarations
+Ethics Approval Not applicable.
+
+Consent to Participate Not applicable.
+
+Consent for Publication Not applicable.
+
+
+Conflict of Interest The authors declare no competing interests.
+
+
+
+
+References
+ 1. Blomsma F, & Tennant M (2020) Circular economy: preserving materials or products? Introducing the
+    Resource States framework. Resour Conserv Recycl 156:104698
+ 2. Ozili PK (2022b) Central bank digital currency research around the World: a review of literature. J
+    Money Laund Control.
+ 3. Geissdoerfer M, Savaget P, Bocken NM, Hultink EJ (2017) The Circular Economy–A new sustainabil-
+    ity paradigm? J Clean Prod 143:757–768
+ 4. Ozili PK, & Opene F (2021) The role of banks in the circular economy. Available at SSRN.
+ 5. Kouhizadeh M, Zhu Q, Sarkis J (2020) Blockchain and the circular economy: potential tensions and
+    critical reflections from practice. Prod Plan Control 31(11–12):950–966
+ 6. Kouhizadeh M, Sarkis J (2018) Blockchain practices, potentials, and perspectives in greening supply
+    chains. Sustainability 10(10):3652
+ 7. Pizzi, S., Leopizzi, R., & Caputo, A. (2022). The enablers in the relationship between entrepreneurial
+    ecosystems and the circular economy: the case of circularity.com. Manage Environ Qual: Int J 33(1),
+    26–43
+ 8. Upadhyay A, Mukhuty S, Kumar V, & Kazancoglu Y (2021) Blockchain technology and the circular
+    economy: implications for sustainability and social responsibility. J Clean Prod 293:126130
+ 9. Böckel A, Nuzum AK, Weissbrod I (2021) Blockchain for the circular economy: analysis of the
+    research-practice gap. Sustain Prod Consum 25:525–539
+10. Blakstad S, & Allen R (2018) Green Fintech. In FinTech Revolution (pp. 183–199). Palgrave Macmil-
+    lan, Cham.
+11. Andrews D (2015) The circular economy, design thinking and education for sustainability. Local Econ
+    30(3):305–315
+12. Schöggl JP, Stumpf L, & Baumgartner RJ (2020) The narrative of sustainability and circular economy-
+    a longitudinal review of two decades of research. Resour Conserv Recycl 163:105073
+13. Dewick P, Bengtsson M, Cohen MJ, Sarkis J, Schröder P (2020) Circular economy finance: Clear win-
+    ner or risky proposition? J Ind Ecol 24(6):1192–1200
+14. Aranda-Usón A, Portillo-Tarragona P, Marín-Vinuesa LM, Scarpellini S (2019) Financial resources for
+    the circular economy: a perspective from businesses. Sustainability 11(3):1–23
+15. Ozili PK (2021) Circular economy, banks, and other financial institutions: what’s in it for them? Circ
+    Econ Sustain 1:787–798
+16. Korhonen J, Honkasalo A, Seppälä J (2018) Circular economy: the concept and its limitations. Ecol
+    Econ 143:37–46
+
+
+
+
+13
+Circular Economy and Sustainability (2022) 2:1501–1516                                               1515
+
+
+17. Pomponi F, Moncaster A (2017) Circular economy for the built environment: A research framework. J
+    Clean Prod 143:710–718
+18. MacArthur E (2017) Beyond plastic waste. Science 358(6365):843–843
+19. Giampietro M, Funtowicz SO (2020) From elite folk science to the policy legend of the circular
+    economy. Environ Sci Policy 109:64–72
+20. Sariatli F (2017) Linear economy versus circular economy: a comparative and analyzer study for
+    optimization of economy for sustainability. Visegrad Journal on Bioeconomy and Sustainable
+    Development 6(1):31–34
+21. Esposito M, Tse T, Soufani K (2018) Introducing a circular economy: new thinking with new man-
+    agerial and policy implications. Calif Manage Rev 60(3):5–19
+22. Gardetti MA (2019) Introduction and the concept of circular economy. In Circular economy in tex-
+    tiles and apparel (pp. 1–11). Woodhead Publishing.
+23. Kirchherr J, Reike D, Hekkert M (2017) Conceptualizing the circular economy: An analysis of 114
+    definitions. Resour Conserv Recycl 127:221–232
+24. Heshmati A (2017) A Review of the Circular Economy and its Implementation. Int J Green Econ
+    11(3–4):251–288
+25. UNEPFI (2020). Financing circularity: demystifying finance for circular economies. UN Environ-
+    ment Programme Finance Initiative. Available at: https://​www.​unepfi.​org/​publi​catio​ns/​gener​al-​
+    publi​catio​ns/​finan​cing-​circu​larity/
+26. De La Cuesta-Gonzalez M, & Morales-García M (2021) Does finance as usual work for circular
+    economy transition? A financiers and SMEs qualitative approach. J Environ Plan Manage 1–22.
+27. CEFG (2018). Circular economy finance guidelines. Amsterdam. Available at: https://​circu​larec​
+    onomy.​europa.​eu/​platf​orm/​en/​toolk​its-​guide​lines/​circu​lar-​econo​my-​finan​ce-​guide​lines
+28. PWC (2021). Circular finance – the fulcrum of a circular economy. Research and Insight report.
+29. Wyman O (2017) Supporting the circular economy transition – the role of the financial sector in
+    The Netherlands. Amsterdam. Available at: https://​www.​olive​r wyman.​com/​conte​nt/​dam/​oliver-​
+    wyman/​v2/​publi​catio​ns/​2017/​sep/​Circu​larEc​onomy_​web.​pdf
+30. Bordo MD, & Levin AT (2017) Central bank digital currency and the future of monetary policy
+    (No. w23711). National Bureau of Economic Research.
+31. Adrian T, Mancini-Griffoli T (2019) The rise of digital money. Annu Rev Financ Econ 13:57–77
+32. Barontini C, & Holden H (2019) Proceeding with caution-a survey on central bank digital currency.
+    Proceeding with Caution-A Survey on Central Bank Digital Currency. BIS Paper, No. 101.
+33. Mancini-Griffoli T, Peria MSM, Agur I, Ari A, Kiff J, Popescu A, & Rochon C (2018) Casting light
+    on central bank digital currency. IMF staff discussion note, 8.
+34. Ward O, & Rochemont S (2019) Understanding central bank digital currencies (CBDC). Institute
+    and Faculty of Actuaries.
+35. Miedema J, Minwalla C, Warren M, & Shah D (2020) Designing a CBDC for universal access.
+    Bank of Canada Working Paper, No. 10.
+36. Calle G, & Eidan D (2020) Central Bank Digital Currency: an innovation in payments. R3 White
+    Paper, April.
+37. Ozili PK (2022a) Can central bank digital currency increase financial inclusion? Arguments for and
+    against. Emerald Series in Finance, Insurance and Risk Management.
+38. Ponce MJL (2020) Digitalization, retail payments and Central Bank Digital Currency. Financial
+    Stability Review 39:127–155
+39. Huynh K, Molnar J, Shcherbakov O, & Yu Q (2020) Demand for payment services and consumer
+    welfare: the introduction of a central bank digital currency. Bank of Canada, Working Paper, No 7.
+40. Khiaonarong T, Humphrey D (2019) Cash use across countries and the demand for central bank
+    digital currency. J Paym Strat Syst 13(1):32–46
+41. Williamson SD (2021) Central bank digital currency and flight to safety. J Econ Dyn Control
+    104146
+42. Arner DW, Buckley RP, Zetzsche DA, & Didenko A (2020) After Libra, Digital Yuan and COVID-
+    19: Central Bank digital currencies and the new world of money and payment systems. European
+    Banking Institute Working Paper Series, No. 65.
+43. Davoodalhosseini SM (2021) Central bank digital currency and monetary policy. J Econ Dyn Con-
+    trol 104150
+44. Stahel WR (2016) The circular economy. Nature News 531(7595):435
+45. Brydges, T. (2021). Closing the loop on take, make, waste: Investigating circular economy prac-
+    tices in the Swedish fashion industry. Journal of Cleaner Production, 293, 126245.
+46. Salmenperä H, Pitkänen K, Kautto P, & Saikku L (2021) Critical factors for enhancing the circular
+    economy in waste management. J Clean Prod 280:124339
+
+
+
+                                                                                             13
+1516                                                 Circular Economy and Sustainability (2022) 2:1501–1516
+
+
+47. Chen X, Memon HA, Wang Y, Marriam I, Tebyetekerwa M (2021) Circular Economy and sustain-
+    ability of the clothing and textile Industry. Materials Circular Economy 3(1):1–9
+48. Geng Y, Sarkis J, Bleischwitz R (2019) How to globalize the circular economy? Nature 565:153–155
+49. Chhimwal M, Agrawal S, & Kumar G (2021) Challenges in the implementation of circular economy in
+    manufacturing industry. J Model Manag
+50. Pincelli IP, de Castilhos Júnior AB, Matias MS, Rutkowski EW (2021) Post-consumer plastic packag-
+    ing waste flow analysis for Brazil: The challenges moving towards a circular economy. Waste Manage
+    126:781–790
+51. Droege H, Raggi A, Ramos TB (2021) Overcoming current challenges for circular economy assess-
+    ment implementation in public sector organisations. Sustainability 13(3):1182
+52. Sepetis, A. (2022). Sustainable finance and circular economy. In Circular Economy and Sustainability
+    (pp. 207–226). Elsevier.
+53. Hassan MK, Saraç M, Alam AW (2020) Circular economy, sustainable development, and the role of
+    Islamic finance. Istanbul University Press, Istanbul, Islamic Perspective for Sustainable Financial Sys-
+    tem, pp 1–26
+54. Demirel P, Danisman GO (2019) Growth and finance in the circular economy: Evidence from Euro-
+    pean SMEs. In Academy of Management Proceedings 1:10747
+55. Goovaerts L, & Verbeek A (2018) Sustainable banking: finance in the circular economy. In Investing
+    in Resource Efficiency (pp. 191–209). Springer, Cham.
+56. Shkliar AI (2020) The phenomenon of central banks’ digital currencies (CBDC): key attributes and
+    implementation perspectives. Ukrainian Society 1(72):123–137
+57. Usher A, Reshidi E, Rivadeneyra F, & Hendry S (2021) The positive case for a CBDC. Bank of Can-
+    ada Working Paper No 11.
+58. Maniff J, Wong P (2020) Comparing means of payment: what role for a central bank digital currency?
+    FEDS Notes 08:13–22
+59. Wiener M, Gall M, de Oliveira CC, & Lang R (2019) circular business model innovation–insights
+    from Mr. Green Africa. Working Paper, Johannes Kepler University Linz, Austria.
+60. Williamson S (2019) Central bank digital currency: welfare and policy implications. Unpublished,
+    University of Western Ontario, p 4
+61. Riccardi M, & Levi M (2018) Cash, crime and anti-money laundering. In The Palgrave Handbook of
+    Criminal and Terrorism Financing Law (pp. 135–163). Palgrave Macmillan, Cham.
+62. Kumar, S. (2021). Permission blockchain network based central bank digital currency. In 2021 IEEE
+    4th International Conference on Computing, Power and Communication Technologies (GUCON) (pp.
+    1–6). IEEE.
+63. Laboure M, Müller H-P, M., Heinz, G., Singh, S., & Köhling, S. (2021) Cryptocurrencies and CBDC:
+    The Route Ahead. Global Pol 12(5):663–676
+64. Oh EY, & Zhang S (2020) Central bank digital currency and in-formal economy. Working Papers in
+    Economics & Finance, No 11. University of Portsmouth UK
+65. Giudice F, Caferra R, Morone P (2020) COVID-19, the food system and the circular economy: Chal-
+    lenges and opportunities. Sustainability 12(19):7939
+66. Auer R, Haene P, & Holden H (2021) Multi-CBDC arrangements and the future of cross-border pay-
+    ments. BIS Papers, No 115.
+67. Agur I, Ari A, Dell’Ariccia G (2022) Designing central bank digital currencies. J Monet Econ
+    125:62–79
+68. Allen S, Čapkun S, Eyal I, Fanti G, Ford BA, Grimmelmann J, Juels A, Kostiainen K, Meiklejohn S,
+    Miller A and Prasad E (2020). Design choices for central bank digital currency: Policy and technical
+    considerations (No. w27634). National Bureau of Economic Research.
+69. Engert W, & Fung BSC (2017) Central bank digital currency: Motivations and implications. Bank of
+    Canada Staff Discussion Paper, No. 16.
+70. Lee E (2018) Central bank digital currencies. Tools for an Inclusive Future? Belfer Center for Science
+    and International Affairs, Research Paper.
+71. Söilen KS, Benhayoun L (2022) Household acceptance of central bank digital currency: the role of
+    institutional trust. Int J Bank Market 40(1):172–196
+72. Ling-hua, D. I. N. G. (2007). A study on finance supporting the development of circular economy. Sci-
+    ence Technology and Industry, 8.
+
+
+
+
+13
+

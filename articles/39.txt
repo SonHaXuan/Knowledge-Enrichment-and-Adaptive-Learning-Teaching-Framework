@@ -1,0 +1,345 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/362593727
+
+The role of Distributed Ledger Technology (DLT) in Designing Crypto currency
+and Digital currency
+Article · August 2022
+
+CITATIONS
+
+READS
+
+0
+
+114
+
+3 authors, including:
+G. Kumar
+
+A. Gajendran
+
+SRM Institute of Science and Technology
+
+SRM Institute of Science and Technology
+
+3 PUBLICATIONS 0 CITATIONS
+
+27 PUBLICATIONS 2 CITATIONS
+
+SEE PROFILE
+
+SEE PROFILE
+
+Some of the authors of this publication are also working on these related projects:
+
+Descriptive Study On Investors Stock Market Awareness And Their Perception Towards Investment Pattern (With Special Reference To Tamil Nadu) View project
+
+All content following this page was uploaded by A. Gajendran on 10 August 2022.
+The user has requested enhancement of the downloaded file.
+
+TELEMATIQUE
+ISSN: 1856-4194
+
+Volume 21 Issue 1, 2022
+2417 – 2423
+
+The role of Distributed Ledger Technology (DLT) in Designing Crypto
+currency and Digital currency
+Dr. S. Jahira Parveen1, Dr. G. Kumar2, Dr.A.Gajendran3
+1,2,3
+
+Assistant Professor, College of Management, SRM Institute of Science and Technology,
+Kattankulathur, Chennai, Tamil Nādu- 603203
+Email: 1jahiraps@srmist.edu.in, 2kumarg@srmist.edu.in, 3gajendra@srmist.edu.in
+Received 16/07/2022; Accepted 10/08/2022
+
+Abstract
+A digital currency that is encrypted is known as a crypto currency or crypto. Individual
+ownership records are kept in a digital database and utilized as a means of exchange. They are
+not subject to any country's official regulation, making them impervious to meddling and
+manipulation. This study's objective is to research and clarify how Distributed Ledger
+Technology (DLT) contributes to the development of crypto currencies and digital currency and
+to study the connectivity between the crypto currencies with DLT technology and DLT
+technology future applications. Data collection method for this study is secondary data from
+Journals, magazines, IMF reports and RBI reports, other countries financial institutions database.
+DLT is also called Block chain technology. Nowadays this technology is most important and
+inevitably accepted technology in various businesses sectors. Particularly DLT uses in banking
+sectors and financial institution sectors makes reductions of transaction cost, transparency in
+theirs activity. Bit coin, Hyper ledger, Algorand, Ethereum and Corda R3 are the various
+development platforms of DLT in the globe. More than 2500 patents filed over the last 5years
+around the world and there are many research projects is going about DLT in central bank. More
+than 100 big giant corporations have joined together in the block chain consortium and more
+than 1.5 billion US dollar amount invested in DLT technology over the past five years.
+Worldwide, many banks are ready to adopted DLT in their normal activity (World Economic
+Forum 2016). Implementing of DLT application in future may be possibly in the all business
+sectors with the higher security.
+1. INTRODUCTION
+Crypto means secret or hidden that origin from Latin and Greek meaning of hidden or secretly
+supports. Cryptography is the study of techniques for secure communication by the way of using
+secrets codes. Crypto currency is a tradable and decentralized digital currency and digital money.
+It is designed to be used over the computerized digital ledger technology. It is a form of digital
+currency built on block chain technology without central monetary authority involvement. It is
+new type of virtual currency that operates in a modern way with the use of distributed ledger
+technology. It is first emerged in the year of 2009 when the world’s first decentralized digital
+currency that Bitcoin was created. Crypto currencies, virtual currency, or "crypto" refers to a
+2417
+
+TELEMATIQUE
+ISSN: 1856-4194
+
+Volume 21 Issue 1, 2022
+2417 – 2423
+
+collection of binary data that is intended to function as a medium of trade. An autonomous
+database called a ledger is used to store information about specific coin ownership.
+Crypto currency is not supported by government or RBI and it can be an asset class in payment
+mechanism. But digital rupees vary from the crypto currencies, digital rupees are backed by
+government. Central Bank Digital Currency (CBDC) introduced by RBI is different from the
+crypto currency. CBDC is fiat currency and legal tender currency approved by Reserve Bank of
+India. Crypto currency is not treated as legal currency in India that is privately created by block
+chain method of ledger. There is no control that will be big threat to country macro economics
+and financial management. Crypto currency is managed by decentralized digital ledger called as
+block chain technology. They cannot be utilized outside of the ledger. It shows as a digital asset
+that can be traded not used as legal currency. Crypto currencies are many namely Bitcoin,
+Ethereum, Dash, Maker, Dogecoin, etc,
+1.
+Background and History of Crypto currency
+In 2009, Nakamoto released Bitcoin and there were 50 of them in circulation at the time. Early
+on, only computer lovers from around the world were responsible for the buzz (Wallace, 2011).
+Mt Gox, a Japanese org., developed a platform for using Bitcoin as a buy and sell mechanism in
+2010. The site has a potential risk of currency changing hands at 4.951 cents. Approximately one
+US dollar used to be the total amount. The charge significantly increased as Bitcoin's popularity
+grew.
+According to Bohme et al. (2015), scarcity is the main foundation for the bitcoin price. It is the
+basis for assigning a price to any monetary organisation. The economic authorities or the central
+financial institution keeps and reserves the money under the modern use of fiat currency. The
+United States' central bank has the power to modify both the absolute amount and flow of
+money. The financial firm is able to produce only a certain amount of paper money in order to
+control a nation's fiscal outcomes.
+2.
+High Return
+The unique characteristics of cryptocurrency and its capacity to work with monetary features
+make it a valuable asset (Briere et al., 2015). History indicates that Bitcoin is an extremely
+erratic currency, but it nevertheless generates sizable profits for investors. Early Bitcoin investors
+who had been holding onto their coins may have made profits of between 1000 and 10,000
+percent (Bohme et al., 2015).
+The interactions between the pricing determinants were examined by Ciaian et al. in (2016). The
+cost for Bitcoin itself is predicted to increase owing to market demand. Newer Bitcoin would be
+introduced every four years, when the existing Bitcoin supply is halved. The lack of Bitcoin will
+only drive up the price. According to Kristoufek (2013), the price of Bitcoin has increased in
+lockstep with searches on Wikipedia and Google Trends.
+3.
+Crypto currency in the Globe
+Crypto currency is spread across the globe and utilizations are on the rise. Up to date it is
+evolving and crossing theirs crypto hands all over the world. According to Statista Global
+Consumer Survey (Bitcoin.com), Nigerians are in first place among the world; around 33 percent
+2418
+
+TELEMATIQUE
+ISSN: 1856-4194
+
+Volume 21 Issue 1, 2022
+2417 – 2423
+
+of them used and owned crypto currency. The second and third largest countries are Vietnam and
+Philippines in using of crypto currency among the globe. Philippine’s central bank approved
+crypto currency operations. Union Bank has introduced bitcoin ATM. Africa, Latin America,
+Brazil, Peru, Mexico; Argentina adopted 11 to 16 percent crypto currency. European, Japanese
+had very low levels of adoptions. Denmark has very lowest use of crypto currency. The market
+of crypto currency seems to be 2.2 trillion US dollar but Americans are using very lowest percent
+of crypto currencies.
+4.
+
+Types of crypto currency
+Different forms of money, including a. Bitcoin (BCH), b. Ethereum (ETH), c. Litecoin
+(LTC), d. Cardano (ADA), e. Polkadot (DOT), f. Stellar (XLM), g. Dogecoin (DOGE), h.
+Binance coin (BNB), i. Tether (USDT), and Monero, are utilised as value tokens (XMR).These
+currencies are having biggest billion dollar market cap around the world. Most of the currencies
+are using Block chain technology. Some of them are open source for all. Some of them are
+restricted with closed group only.
+As per the experts in the field, any system that falls under the category of crypto currency must
+meet the following requirements. There should not be any centralized authority and the system
+should be maintained through distributed networks using block chain technology. Computers
+maintain records of crypto currency units and their owners. The system decides whether new
+units can be created and in case it does, decide the origin and the ownership terms. The title for
+crypto currencies can be proved exclusively cryptographically. Transactions can be done through
+system for change of ownership of cryptographic units
+5.
+Strength of crypto currency: The following can be considered as strength with regard
+to Crypto currency. Without the involvement of third parties, the transfer of funds between two
+or more parties will be simple. It is cheaper when compared to online transactions. As there is
+anonymity, payments are safe and secure. Funds can be transferred with the lowest processing
+fees. As they do not use third party intermediaries’ crypto currency transfer can be made faster as
+compared to standard money transfers. Crypto currency investments can generate profits. There
+are no chances of personal information leakage as one need not share his private key with
+anyone. It operates 24/7 and it is not like financial institutions that are closed on the weekends
+and holidays. They are hard to confiscate. It has a finite known supply as the total circulation
+will be 21 billion coins. It will be distributed to network nodes in which they make blocks, with
+the amount cut in blocks every four years. There is dynamic price discovery as it results in
+arbitrage trade across the global market. Crypto currency payments are more widely used among
+large organizations and in sectors. As it is a novel one, it has growing popularity. It is an
+appreciating asset which has bucked up even during the COVID 19 depression
+6.
+Weaknesses of crypto currency: There are possibilities to use one’s virtual wallet or
+delete one’s currency. The value of crypto currencies such as bit coins can change significantly.
+As it is not regulated there are no rules in place to protect one’s business. Digital currencies
+might lose its value and become obsolete if people stopped using them. Cyber-attacks against
+crypto currency exchanges could result in the permanent loss of an investor's investment. They
+are vulnerable to scams. It is more volatile. It has abnormal growth as there were previously only
+2419
+
+TELEMATIQUE
+ISSN: 1856-4194
+
+Volume 21 Issue 1, 2022
+2417 – 2423
+
+13000 types of crypto currencies and it has grown to Rs.50000 per unit recently. There are
+chances of speculative transactions. It is popular in casino-like economies which are akin to
+gambling. It has not caught up in Dollar or Euro areas.
+7.
+Opportunities of crypto currency: There are chances for capital formation and
+migration. As it is gaining in popularity, there are prospects for crypto assets. It is also a possible
+source of revenue if brought under the tax net and regulation. Governments can capitalize on its
+popularity by entering the field suggested by the CBDC.
+8.
+Challenges of crypto currency: There is a hectic task if a government is to regulate or
+manage its growth. The frauds in this field have to be traced as it may lead to money-laundering.
+As there are more chances for speculation it is tough to control. It is also difficult to channelize
+the resources for national growth. The field has great potential for suitable exploitation. If
+properly regulated the system may generate additional capital that will serve as a growth
+stimulator. This is especially vital in these volatile times in which market fluctuations often
+defeat the fiscal calculations of all financial regulators. But it is dangerous to allow the present
+system without proper regulation.
+According to Triple A ,the Block chain and cryptocurrency technology firm, there are currently
+more than 3 billion cryptocurrency users worldwide. Over 18,000 businesses now accept
+payment in some kind of cryptocurrency, with the average country-level ownership rate of
+cryptocurrencies being 3.9 percent. No matter the nation, people are far more likely to be
+educated and young. About three out of every five cryptocurrency users are men.
+(https://www.gobankingrates.com). The top 10 crypto-using nations worldwide are, according to
+statistics: a. Nigeria: 32%; b. Vietnam: 21%; c. Philippines: 20%; d. Turkey: 16%; e. Peru: 16%;
+f. Switzerland: 11%; g. India: 9%; h. China: 7%; i. U.S.: 6%; j. Germany: 5%; k. Japan: 4%.
+9.
+Distributed Ledger Technology
+Distributed ledger technology (DLT) is electronic ledger using independent computer to keep
+recorded, stored, shared, analyzed and synchronized transactions. DLT is a recoding common
+ledger which carries more information about daily transactions of buying and selling of crypto
+currencies wit h closed group. It should be transparent, secured, decentralized, efficient and low
+cost manner. The block chains are classified as many, let us see the important terms a. Public
+Blockchain, b. Private Blockchain c. Consortium Blockchain . (He et al., 2016; Buterin (2015).
+A computerised system for tracking asset transactions called distributed ledger technology
+(DLT) allows for the simultaneous recording of transactions and their associated information in
+numerous locations. Distributed ledgers don't have a central data store or management features,
+in contrast to conventional databases. A distributed ledger generates a record of every item and
+establishes a consensus as to its authenticity since each node processes and validates every item.
+Both static data, like that in a registry, and dynamic data, such that in financial transactions, can
+be recorded on a distributed ledger.
+
+2420
+
+TELEMATIQUE
+ISSN: 1856-4194
+
+Volume 21 Issue 1, 2022
+2417 – 2423
+
+.
+Figure 1: The Concept of Block chain Technology, Source: World Economic Forum
+
+Ledger
+
+Block 1
+
+Block 2
+
+Block n
+
+Transaction records
+
+Figure 2: The Concept of Blockchain Technology: Source: illustration based on Bitcoin
+info. and Nakamoto (2008)
+10.
+DLT role in other businesses
+Block chains applications of smart contracts are using various businesses such as contract
+management, supply chain management, entertainment, music, and film industries, health care
+2421
+
+TELEMATIQUE
+ISSN: 1856-4194
+
+Volume 21 Issue 1, 2022
+2417 – 2423
+
+sectors, insurance companies, IoT systems, banking and financial services. In these industries
+and companies also used DLT as good smart system for solving compliances, reduce fraud
+activity, customer value chain and relationship.
+11.
+role in financial institutions DLT
+Blockchain is a fundamental technology with the ability to significantly lower transaction costs
+and transform the economy, claim Ian Siti & Lakhani (2017). According to the Harvard Business
+Review, blockchain technology will have the same impact on financial organisations as the
+internet had on the media (Joichi, et al., 2017). The foundation of blockchain was initially
+created to support Bitcoin, the most well-known decentralised digital currency (Nakamoto,
+2008). When it comes to transmitting data, information, and money, blockchain is especially
+advantageous for financial transactions and institutions and has the ability to solve a lot of
+difficulties (Tapscott & Tapscott 2016). Banks and financial institutions can use block chains to
+handle sensitive data and provide secure infrastructure services with less risk Forrest (2016).
+Many venture capital companies in USA have designed R3CEV model of DLT as Block chain
+network on financial market for crypto, exchanges of capitals, ventures capitals and they created
+and implemented innovative solutions to financial institution in the year of 2013. For global
+payments, many of the world financial institutions made a emerging DLT as whole for
+investment area. Deeply it has considered the possibility of implementation in financial
+instruments exchanges through block chain technology. More than 42 banks in December 2015
+have collaboratively joint ventured on DLT- driven Bitcoin system with the good IT architecture.
+2. CONCLUSION
+It's possible that legacy apps or systems won't be quickly replaced by blockchain technology.
+Blockchain can, however, be used in conjunction with existing systems and, in the near future,
+might even inspire the creation of new ones. In conclusion, as this sector is still in its exploratory
+stage and there are numerous legal and technical difficulties that need to be handled, more
+thorough research in this area of Blockchain Technology is required to progress the maturity of
+this subject. The study provides a helpful jumping off point for upcoming research on the
+creation of Blockchain applications.
+3. REFERENCES
+[1] .
+[2] .
+[3] .
+[4] .
+
+2422
+
+Böhme, R., Christin, N., Edelman, B., & Moore, T. (2015). Bitcoin: Economics,
+technology, and governance. Journal of economic Perspectives, 29(2), 213-38.
+Briere, M., Oosterlinck, K., & Szafarz, A. (2015). Virtual currency, tangible return:
+Portfolio diversification with bitcoin. Journal of Asset Management, 16(6), 365-373.
+Buterin, V., Coleman, J., & Wampler-Doty, M. (2015). Notes on Scalable Blockchain
+Protocols (verson 0.3).
+Ciaian, P., Rajcaniova, M., & Kancs, D. A. (2016). The economics of BitCoin price
+formation. Applied economics, 48(19), 1799-1815.
+
+TELEMATIQUE
+ISSN: 1856-4194
+
+Volume 21 Issue 1, 2022
+2417 – 2423
+
+Forrest, C. 2016. “Microsoft Believes Blockchain Tech Could Help Fight Human
+Trafficking, Child Exploitation.” May 31. http://www.techrepublic.com/article/microsoftbelieves-blockchain-tech-could-help-fight-human-trafficking-child-exploitation/.
+[6] . He, W., Wu, H., & Kanwal, M. (2016, December). Proof of luck: An efficient blockchain
+consensus protocol. In proceedings of the 1st Workshop on System Software for Trusted
+Execution (pp. 1-6).
+[7] . Joichi I, Narula N, Ali R (2017) The blockchain will do to the financial system what the
+internet did to media. Harvard business review digital articles, pp 2–5.
+https://hbr.org/2017/03/the-blockchain-will-do-to-banks-and-law-firms-what-theinternet-did-to-media. Accessed 27 june 2022.
+[8] . Kristoufek, L. (2013). BitCoin meets Google Trends and Wikipedia: Quantifying the
+relationship between phenomena of the Internet era. Scientific reports, 3(1), 1[9] . Lakhani, K. R., & Iansiti, M. (2017). The truth about blockchain. Harvard Business
+Review, 95(1), 119-127.
+[10] . Nakamoto, S. (2008). Re: Bitcoin P2P e-cash paper. The Cryptography Mailing List, 1-2.
+[11] . Tapscott, D., & Tapscott, A. (2016). Blockchain revolution: how the technology behind
+bitcoin is changing money, business, and the world. Penguin.
+[12] . Wallace, B. (2011). The rise and fall of Bitcoin. Wired, 19(12).
+[5] .
+
+2423
+
+View publication stats
+
+

@@ -1,0 +1,1706 @@
+The Digital Programmable Euro, Libra and CBDC:
+Implications for European Banks
+Philipp Sandner1, Jonas Gross2, Lena Grale3, Philipp Schulden4
+July 2020
+Abstract
+Existing payment systems get more and more disrupted. As a consequence of the global trend
+of digitizing payments and generating new business models from the use of blockchain-based
+digital programmable money, several new payment initiatives have been announced recently.
+Besides “classical” crypto assets, also stablecoins become increasingly important. The
+announcement of the Facebook-initiated Libra stablecoin is mainly perceived as a gamechanger for the financial sector. Today, also central banks discuss the introduction of their
+own digital currencies, so-called CBDCs. To date, these payment innovations are not
+sufficiently discussed and analyzed from the perspective of different sectors and industries,
+as its implications remain unclear since most initiatives have not yet been introduced. At this
+point, the literature does not sufficiently discuss the implications of these innovations on the
+financial sector. This paper sheds light on the perception of these payment initiatives by
+interviewing more than 50 senior experts. In this study, we analyze the impact of digital
+programmable Euro initiatives, such as the Libra stablecoin, and CBDCs, on banks. We find
+that both Libra and a Euro CBDC might heavily affect European banks. Experts fear that largescale financial disintermediation of the financial sector could take place, and digital bank runs
+could be triggered. Besides these risks, our findings suggest that banks also have the
+opportunity to develop new business models stemming from these initiatives. Therefore, Libra
+and a CBDC Euro should not only be seen as threats but also as opportunities.
+Keywords:
+
+Central bank digital currencies, Libra, banks, digital programmable Euro
+
+JEL Codes:
+
+E42, E52, G21
+
+1
+
+Frankfurt School of Finance and Management, Adickesallee 32-34, 60322 Frankfurt am Main,
+philipp.sandner@fs-blockchain.de.
+2
+
+Corresponding author, Frankfurt School of Finance and Management, University of Bayreuth
+jonas.gross@fs-blockchain.de.
+3
+
+Frankfurt School of Finance and Management, lena.grale@fs-blockchain.de.
+
+4
+
+Frankfurt School of Finance and Management, philipp.schulden@fs-blockchain.de.
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+1.
+
+Introduction
+
+Currently, there are tremendous efforts ongoing to digitize payments. As a reaction to the
+advent of crypto assets and the underlying distributed ledger technology (DLT) with the
+origination of Bitcoin in 2008, more and more institutions, such as central banks, banks and
+private corporations, are currently working on initiatives aiming to establish a new
+technological basis for money. Payments via bank transfers, credit cards, and mobile payment
+solutions are already fully digital today. Nevertheless, cash is still the predominant means of
+payment in most industrialized countries, but the use of cash continues to decline (see Bank
+for International Settlements, 2020). Market shares of mobile payment solutions, like Apple
+Pay and Google Pay, as well as crypto assets like Bitcoin and Ether, increase steadily. The
+increasing market shares are also due to a certain inefficiency of the current system: Cash is
+costly to store, to distribute and to send. Further, the integration with other business processes
+(e.g., settlement of securities) can be costly and time intensive. Moreover, cross-border
+payments processed via banks or specialized financial organizations such as Western Union
+often take several days and are subject to significant transaction fees. Even more, due to the
+high market potential of digital payments, an increasing number of players from the private
+and public sector are developing their own digital payment solutions. In this context, more and
+more initiatives of a DLT-based digital Euro, a so-called digital programmable Euro, enter the
+market. Such a DLT-based digital programmable Euro is more and more demanded by the
+industry and aims to address current inefficiencies, to generate new business models in the
+context of the Internet of Things (IoT) and the machine economy (see FinTechRat beim
+Bundesministerium der Finanzen, 2020; Klein, Gross & Sandner, 2020). Such digital,
+programmable Euro projects include, for example, Euro stablecoins, referring to crypto assets
+that are backed by Euros, such as Libra, commercial bank and e-money money tokenized on
+a DLT and – potentially – also a Euro central bank digital currency (CBDC).
+
+As the most prominent example of a stablecoin, a Facebook-led consortium announced the
+project “Libra” in June 2019. In April 2020, the proposal was updated, and Libra now intends
+to be a general payment infrastructure for traditional currencies with its own digital means of
+payments (see Libra Association, 2020). The Libra platform will consist of two means of
+payments: A multi-currency stablecoin that is backed by a currency basket, and various singlecurrency stablecoins. One single-currency stablecoin will be the Libra Euro that constitutes a
+form of a DLT-based digital programmable Euro. Libra aims to increase financial inclusion in
+developing and emerging economies and to increase payment efficiency by decreasing
+
+1
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+transaction costs for cross-border payments as Libra provides a stable, convenient, digital and
+global means of payment. To date, approximately 1.7 billion people worldwide do not have
+access to financial services, but two-thirds of them own smartphones (see World Bank, 2018).
+The Libra consortium intends to facilitate mobile payments by integrating Libra into major
+social media networks, such as Facebook or WhatsApp, thereby increasing efficiency and
+convenience.
+
+Besides the private sector, also public-sector central banks consider issuing their own digital
+currencies, CBDCs. According to a study by the Bank for International Settlements (BIS), 80%
+of worldwide central banks work on such CBDC-related projects – 20% of surveyed central
+banks intend to launch a CBDC in the next few years (see Boar, Holden, Wadsworth, 2020).
+In April 2020, the first CBDC went live in China on a test basis so that in some cities parts of
+government salaries are already paid via the Chinese CBDC. Also, the European Central Bank
+(ECB) researches CBDCs and published research papers about a potential Euro CBDC (see
+European Central Bank, 2019; Bindseil, 2020).
+
+This paper seeks to analyze the implications of the digital programmable Euro (and CBDCs)
+for the end user, the industry and the financial sector. To date, the implications of Libra and a
+Euro CBDC remain highly uncertain as both initiatives have not yet been launched and are,
+therefore, in a conceptual stage. Therefore, it is not yet possible to empirically analyze the
+economic impact of these innovations. However, it can be expected that the introduction of
+e.g. Libra and a CBDC would have a significant impact on the European payment sector in
+general and on banks' business models in particular. On the one hand, Libra would become a
+relatively cheap means of payment for cross-border payments that could challenge banks'
+market shares in the market for remittances, but also in domestic payment markets, if Libra
+was to become a substitute for bank deposits. A CBDC, on the other hand, is a digital form of
+central bank money. Note that we are agnostic regarding the implementation model of a
+CBDC, i.e., direct, hybrid or indirect (see Auer & Boehme, 2020). Since central bank money
+constitutes a claim on the central bank, a CBDC can be classified as less risky than
+commercial bank money. A CBDC introduction could, therefore, lead to a disintermediation of
+the banking sector resulting in higher refinancing costs for banks (see Bindseil, 2020) and
+trigger digital bank runs that could threaten banks’ liquidity and banks’ business models.
+Consequently, these innovations could disrupt and challenge banks’ profitability. Thus, it is
+essential to understand the benefits, risks and impacts of such initiatives in order to estimate
+the expected impact on banks and to discuss proper regulatory responses. Profound analyses
+
+2
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+have to be conducted before both initiatives will be launched to have still enough time to react.
+Such analyses currently constitute a gap in the literature.
+
+The objective of this paper is to analyze benefits, risks and the expected impact of CBDCs
+and Libra on banks. For this purpose, we conducted more than 50 interviews with senior
+experts from various sectors and industries, e.g., central banks, banks, international
+organizations, academia, associations and others, about the benefits, risks, and the expected
+impact of the digital programmable Euro, CBDCs and Libra on banks. Our study is the first to
+survey different sectors and industries about these two digital money initiatives. The current
+debate about Libra and CBDCs lacks sufficient interdisciplinary exchange even if both Libra
+and CBDCs are highly relevant for several industries.
+
+Our main findings are as follows: First, a digital programmable Euro is demanded by most of
+the surveyed experts in order to address inefficiencies of the current financial system and
+increase automation due to a programmable means of payments. This needs to be highlighted
+as the majority of the surveyed experts leave no doubt that a DLT-based digital programmable
+Euro is needed. Second, Libra and a Euro CBDC will heavily affect banks’ business models,
+for example, such that disintermediation of the financial sector and digital bank runs could
+result from an introduction of a Euro CBDC and disintermediation from an introduction of Libra.
+Thirdly, experts also see various benefits and new business opportunities that retail, industrial
+and financial companies can develop and realize in the context of Libra, CBDCs and the digital
+programmable Euro. Therefore, experts suggest to not only perceive these initiatives as a
+threat but also as an opportunity.
+
+This paper is structured as follows. In the second chapter, we explain the current private and
+public sector initiatives in the field of digital money and provide an introduction into stablecoins,
+Libra and CBDCs. Further, we briefly discuss why Libra and a Euro CBDC could potentially
+have a significant impact on European banks. Afterward, we outline the methodology used for
+our analysis. In chapters four and five, we show the results of the expert interviews and discuss
+their implications. Chapter six concludes.
+
+3
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+2.
+
+Background: Stablecoins, Libra and CBDC
+
+2.1
+
+Private sector digital money initiatives: Stablecoins and Libra
+
+This chapter discusses current private sector initiatives for digitizing payments, i.e. in the form
+of a digital programmable Euro. While the market share of “classical” crypto assets such as
+Bitcoin and Ether is increasing steadily, ever more new DLT-based crypto assets are
+launched. Currently, there exist more than 5,500 different crypto assets (see CoinMarketCap,
+2020). A large fraction of these novel crypto assets can be classified as stablecoins such as
+Tether, TrueUSD or DAI. A stablecoin is a crypto asset that bears an underlying mechanism
+to stabilize its price, for example, by using fiat currencies or government bonds as collateral.
+Therefore, a stablecoin is a value-stable crypto asset. One reason why Bitcoin and other
+crypto assets are not yet widely used as means of payment for daily transactions are their
+high price volatility – an issue stablecoins try to address.
+
+The most prominent and undoubtedly the stablecoin initiative receiving the highest public
+attention is the Libra project. Libra was announced in June 2019 by the Switzerland-based
+Libra Association, a consortium of mostly US-based companies; currently 27 companies
+including Facebook’s subsidy Novi, Spotify and Uber. Libra aims to create a global payment
+infrastructure with its own means of payment, the Libra tokens. The initiative intends to
+increase efficiency in cross-border payments and to support financial inclusion. According to
+the World Bank, providers for cross-border payments, on average, charge a 7% fee for
+international money transfers (see World Bank, 2019). Such high transaction fees combined
+with typically slow payment processing reveal severe inefficiencies of the current system. As
+Libra is based on a DLT, the Libra Association expects to create a payment infrastructure that
+is more efficient than legacy systems and can process transactions at low marginal cost. The
+Libra Association seeks to address financial inclusion by providing a secure and user-friendly
+digital means of payment that can be used on mobile phones and will be integrated into social
+media platforms, such as Facebook, WhatsApp or Instagram. Currently, 1.7 billion people
+worldwide are financially excluded as they do not have access to bank accounts. Two-thirds
+of them own mobile phones (see World Bank, 2018) to potentially conduct transactions in Libra
+and to get financially included.
+
+Libra is designed as a value-stable means of payment. Price stability is to be achieved by
+investing the funds obtained from the sale of the Libra tokens in (mainly) short-term
+
+4
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+government bonds and (partly) in bank deposits. Libra will, therefore, be fully backed by highly
+liquid, secure assets. According to the current concept, the Libra platform will consist of two
+types of stablecoins. Firstly, there will be so-called single-currency stablecoins that are backed
+by one currency. Examples are the Libra Euro that is backed by Euro units and the LibraDollar that is backed by US dollar units. Secondly, there will be a so-called multi-currency
+stablecoin ("Libra Coin") that is backed by a basket of currencies comparable to the special
+drawing rights (SDR) issued by the International Monetary Fund (IMF). The described Libra
+stablecoin system is visualized in Figure 1.
+
+Figure 1: The Libra stablecoin system
+(Source: Adapted from Groß, Herz, Schiller, 2020)
+
+The single-currency stablecoins will be backed by (at least) 20% bank deposits denominated
+in the respective fiat currency and (more than) 80% short term government bonds. In case of
+the Euro area, the Libra Euro will be backed by Euro bank deposits and Euro area government
+bonds. The multi-currency stablecoin, the “Libra Coin”, will consist of the various singlecurrency stablecoins and is, therefore, indirectly backed by a currency basket. The creation of
+the multi-currency stablecoin is highly automated so that a smart contract will create the multicurrency stablecoins automatically without human interaction.
+According to the Libra Association’s official goals, Libra will mainly be used in emerging and
+developing economies, where national currencies tend to be weak so that the stability of Libra
+would be particularly beneficial. Here, the multi-currency Libra Coin as a token backed by a
+
+5
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+currency basket consisting of strong currencies such as the Euro and the US dollar is an
+attractive means of payment and store of value. In industrialized countries, the single-currency
+stablecoins are likely to be of particular interest. One benefit of Libra is that it is based on a
+DLT and can thus be used as "programmable money” (see Klein, Gross, Sandner, 2020). For
+example, Libra payments could be programmed to automatically execute a subsequent event
+Y when a certain event X occurs. In this way, for example, interest payments or other financial
+flows could be highly automated – efficiency gains that are of particular interest for the
+industrial and financial sector.
+
+2.2
+
+Public sector digital money initiatives: CBDC
+
+Driven by the developments around stablecoins and the announcement of the Libra project,
+central banks intensified their efforts to issue their own digital currencies, so-called CBDCs.
+Central bankers are concerned that Libra could threaten monetary sovereignty if it (partly)
+replaces banknotes (and bank deposits) as general means of payment. A decline in the
+demand for banknotes would reduce the importance and power of central banks in the
+monetary system. To address these risks and to maintain their role in the monetary system,
+central banks consider issuing their own digital currency that is available to the end user, a
+retail CBDC.
+
+A retail CBDC would coexist alongside bank money and cash and could be used as a general
+means of payment for daily transactions. Unlike bank deposits, it would not be a claim on a
+legal tender but would become legal tender itself, like cash. The ultimate goal of a retail CBDC
+is thus to digitize physical cash and, therefore, to provide access to central bank money for
+the end user in the digital age. A retail CBDC could be based on both DLT or on a centralized
+database. For a discussion about the technological basis of a CBDC see Klein, Gross &
+Sandner, 2020).
+
+Note that to date, no retail CBDC has been introduced yet. However, 10% of central banks
+surveyed by the BIS (see Boar, Holden, Wadsworth, 2020) indicated that they are likely to
+introduce a retail CBDC in the short-term (up to three years) and 20% in the medium-term (up
+to six years). Further, 15% of central banks consider the introduction of a CBDC possible in
+the next three years (an additional 18% in the next six years). CBDC pioneers that are likely
+to issue a CBDC in the next few years are e.g., China, the Eastern Caribbean Currency Union,
+
+6
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+the Marshall Islands and Sweden. In China, the DC/EP project is currently tested, and some
+parts of salaries of employees in the public sector are already paid on the digital DC/EP wallet.
+
+Moreover, the ECB is also active and it has intensified its CBDC efforts and published various
+CBDC publications (see e.g. European Central Bank, 2019; Bindseil, 2020). Christine Lagarde
+stressed at her first press conference as ECB President in November 2019 that the ECB will
+establish an internal CBDC Task Force. This Task Force is expected to publish a detailed
+report about CBDC in the second half of 2020. In addition, the ECB has joined a consortium
+of several central banks, including the Bank of England, the Bank of Japan, the Riksbank and
+the BIS to share experiences from their analyses of potential use cases for CBDCs and to
+jointly explore the implications of a CBDC introduction. Thus, it seems possible that a CBDC
+could become reality in the Euro area within the next decade, but – as our experts also
+indicated – most likely after Libra is launched.
+
+2.3
+
+Impact on European banks
+
+The discussions on Libra and CBDCs indicate that stablecoins like Libra, and CBDC might
+have strong implications for banks. Both Libra – in the form of the Libra-Euro – and a Euro
+CBDC – as a digital representation of Euro banknotes – digitize the Euro and can therefore be
+seen as a “digital Euro” – if based on a DLT also as a DLT-based “digital programmable Euro”.
+Libra, on the one hand, will be designed as a (relatively) stable, fast and cheap means of
+payment for cross-border transactions. Libra could, therefore, challenge banks’ market shares
+in the market for cross-border payments. Besides, it cannot be ruled out that Libra will also
+drive currency substitution in Europe so that payments are more and more carried out in Libra
+and less in Euro bank money. If indeed less bank money would be used, banks’ business
+models could be threatened. Accordingly, Jens Weidmann, President of the German
+Bundesbank, argues that Libra is mainly a competitor for commercial banks. Therefore, banks
+are under pressure to create their own digital payment innovations as a reaction to Libra (see
+PYMNTS.com, 2020).
+
+A retail CBDC, on the other hand, would be a digital form of central bank money available for
+the general public and – depending on its implemented structure – could constitute a close
+substitute to banknotes and bank money. The introduction of a CBDC could lead to significant
+changes in the financial sector as the holder of a CBDC would have a claim on the central
+bank and would, therefore, not be exposed to creditor risk, as in the case of bank deposits.
+
+7
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+Thus, a retail CBDC is, like cash, a risk-free means of payment, but in a digital form. Bech and
+Garratt (2017) and Houben et al. (2018) argue that the availability of such risk-free digital
+central bank money could trigger excessive transfers of funds from the banking sector to the
+central bank. One consequence of such a disintermediation of the banking sector could be
+that banks would experience higher funding costs. As clients would provide less bank
+deposits, banks would have to change their funding sources, e.g., relying on a higher
+refinancing by the central bank and the capital markets. Such refinancing would increase
+bank’s funding costs, as central bank and capital market funding is typically more expensive
+than funding via deposits (see Bindseil, 2020). The resulting higher refinancing costs could
+put banks under immense stress and could accelerate another banking crisis.
+
+Further, a CBDC introduction could trigger digital bank runs. In such scenarios, clients
+withdraw a large share of their bank deposits “per click” and convert it into a CBDC. Mersch
+(2018) explains the bank run risk related to CBDC as follows:
+“During a systemic banking crisis, holding risk-free central bank-issued DBM [CBDC]
+could become vastly more attractive than bank deposits. There could be a sector-wide
+run on bank deposits, magnifying the effects of the crisis. Even in the absence of a crisis,
+readily convertible DBM could completely crowd out bank deposits – putting the
+existence of the two-tier banking system at risk. In this situation, the efficient flow of
+credit to the economy would likely be impaired.”
+
+To summarize, in the case of a CBDC, bank runs could become more likely as withdrawals in
+digital form can be carried out easier, cheaper and more quickly (see also Bech & Garratt,
+2017; Mancini-Griffoli et al., 2018). Therefore, a CBDC introduction could potentially have
+negative effects on banks as clients could excessively shift funds from risky commercial bank
+money to risk-free central bank money.
+
+8
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+3.
+
+Methodology
+
+This chapter describes the research methods applied to analyze the research question of how
+Libra and a Euro CBDC could affect the financial sector. It is our goal to investigate by using
+expert interviews how experts from various fields, e.g., from banking, central banking, the
+industry, international organizations, associations, academia and other sectors, perceive
+these digital money initiatives in order to assess its benefits and risks for the financial sector.
+This paper primarily uses qualitative research methods (see Saunders, Lewis, & Thornhill,
+2009) that interpret data utilizing an open and flexible design (see Corbin & Strauss, 2015).
+
+The nature of the topic of this paper calls for an exploratory study of the research question
+(see Zikmund, 2003). It is the goal of such a design to clarify the issue of the digital
+programmable Euro and grasp a better hold on its expected impacts. Like any exploratory
+study, this paper does not claim to provide final answers to the research questions addressed.
+Instead, subsequent research will be needed to gain a more sophisticated understanding of
+the dimensions of the digital programmable Euro, Libra and a CBDC. Nevertheless, this paper
+also has a descriptive character since concrete phenomena are described by a self-conducted
+investigation that supports the existing literature (see Zikmund, 2003). Generally, exploratory
+and descriptive studies complement and strengthen one another, and, therefore, both
+methods can be used in parallel (see Strohhecker, 2008).
+
+Data for the descriptive character of this study has been gathered using semi-structured expert
+interviews with identical question sets for each interviewee (see Corbin & Strauss, 2015;
+Saunders, Lewis, & Thornhill, 2009). Due to the exploratory approach of this paper, gathering
+objective knowledge as well as personal assessments of experienced and skilled people in
+the field of digital money is a suitable method to analyze the research questions (see Kaiser,
+2014). Furthermore, since we are interested in opinions and sentiments of experts, qualitative
+interviews are appropriate as they provide a rich and detailed data set (see Saunders, Lewis,
+& Thornhill, 2009). A guideline-based questionnaire (see Gläser & Laudel, 2009) and openended questions were utilized as this is most suitable for exploratory studies since they offer
+interviewees the possibility to give unique answers. This way, experts are less biased by
+specific framing of interview questions resulting in a detailed data set (see Zikmund, 2003).
+
+The first set of questions focussed on the digital programmable Euro in general. The experts
+were asked how important they rate benefits of the digital programmable Euro, such as higher
+
+9
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+efficiency in cross-border payments, near real-time settlement with other assets, rights or
+goods, and automation. In the second part of the interview, the experts were then asked about
+CBDCs. Questions were for example “Which benefits and which risks do you see in a retail
+CBDC?”, “Which impacts might the introduction of a retail CBDC have in the Euro area?”,
+“How will a retail CBDC impact banking activities (considering e.g., domestic and cross-border
+payments)?” and “When do you think that a Euro CBDC for the general public (retail CBDC)
+will be issued by the ECB?”. The previous questions were then modified and asked in a similar
+fashion in the context of Libra also to ask experts about the benefits, risks and impacts of
+Libra.
+
+The sample size of this study is 51 (n=51). Potential interviewees have been selected due to
+their expertise in digital money across various sectors in different jurisdictions. To meet the
+holistic approach of the study, not only bankers and central bankers but also senior experts
+from numerous fields have been interviewed (see Appendix A). The expert panel includes
+senior experts from the industrial sector, from associations, bankers, central bankers, lawyers,
+academics and other sectors. After the transcription of the expert interviews, the obtained data
+were rearranged according to systematic criteria (see Kaiser, 2014). For the evaluation, the
+qualitative data analysis software NVivo has been used for supporting the process of deriving
+analytical categories from the raw data and for clustering the experts’ statements accordingly
+(see Pope, Ziebland & Mays, 2000).
+
+The following analytical categories have been selected:
+1. Benefits and use cases of the digital programmable Euro
+2. Benefits and risks of CBDC and its impact on banks
+3. Benefits and risks of Libra and its impact on banks
+
+10
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+4.
+
+Results of the interviews
+
+This chapter presents the results of the conducted expert interviews. The key findings are
+visualized in Figure 2.
+
+Figure 2: Key results of expert interviews
+(Source: Frankfurt School Blockchain Center)
+
+4.1
+
+Benefits and use cases of the digital programmable Euro
+
+The following chapter discusses the results of the conducted expert interviews. The survey
+first assesses the main benefits of the digital programmable Euro in general, Libra and
+CBDCs. The experts were asked to quantify the importance of key benefits of the digital
+programmable Euro on a scale from 1 to 5, where 1 indicates not important at all, and 5
+indicates very important. As depicted in Figure 3, automation is regarded as the most
+important benefit of the digital programmable Euro with a mean of 4.34. Higher efficiency in
+cross-border payments and near real-time settlement with other assets, rights or goods are
+rated with a mean of 3.90 and 3.91, respectively. Other benefits of a digital programmable
+Euro mentioned by the experts were higher interoperability, convenience and financial integrity
+by simplifying anti-money laundering procedures.
+
+11
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+Figure 3: What are the key benefits of the digital programmable Euro?
+(Source: Frankfurt School Blockchain Center)
+
+37 experts state that a digital programmable Euro is needed for the general public (see Figure
+4). 4 experts do not see a particular need for such a digital Euro. They argue that payment
+systems are already well-functioning and efficient today. In 4 interviews, experts express that
+a digital programmable Euro is not yet needed; its issuance will, however, become more
+urgent in the future. Other experts underline that the need highly depends on the
+circumstances. Explicitly, expert C1 names the following scenario in which a digital Euro would
+be necessary: "If cash would vanish in usage [...] you as a central bank need to offer a basic
+means of payment to citizens, and that could then be a digital Euro. Or there is a scenario
+where international means of payment [...] like Libra, would take a very strong position [...] that
+would be also, maybe from the perspective of European sovereignty, non-desirable, and that
+could also justify a digital Euro then." Further, 4 experts state that the need for implementing
+a digital Euro depends on the exact design and the underlying circumstances.
+
+12
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+Figure 4: Do we need a digital Euro for the general public?
+(Source: Frankfurt School Blockchain Center)
+
+In total, 31 experts, mostly working for banks, associations, or in the industrial sector, are
+convinced that these benefits can only be achieved if the digital Euro is based on a DLT
+system. As depicted in Figure 5, 10 experts argue that the digital Euro must not necessarily
+be implemented on a DLT but that using DLT has significant advantages over other
+technological choices. Academics point out that DLT is not sufficiently mature yet and more
+research is needed. Specifically, experts A3 and A5 stress that DLT is the superior
+technological choice in the absence of a trusted central party. They argue that central banks
+are such trusted third parties. Still, academics suggest that transparency and interoperability
+can only be achieved through the use of DLT. 9 experts, mainly central bankers, are undecided
+whether DLT is the appropriate technology to implement the digital Euro. They do not exclude
+the possibility that DLT can be used, however, they are also open to other approaches. None
+of the interviewed experts state that DLT would certainly not be a viable option for
+implementing the digital Euro.
+Furthermore, most experts indicate that the DLT system should be permissioned, meaning
+that access would be restricted so that participants would need permission to join and interact
+with the network. Experts D5 and O1 state that the central bank would not agree to open up
+such a system. Consequently, the system will, therefore, necessarily be permissioned. On the
+other hand, experts from the industrial sector point out that the economy can only profit from
+the full advantages of a DLT if the system is permissionless. In the case of a permissionless
+blockchain, access to the system would not be restricted and anyone could join without
+permission.
+
+13
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+Figure 5: Is DLT the appropriate technology to implement a digital programmable
+Euro?
+(Source: Frankfurt School Blockchain Center)
+
+4.2
+
+Benefits and risks of CBDC and its impact on banks
+
+Most experts express that (private) end users would be the primary users of a CBDC. Some
+experts also see corporations as potential users. Therefore, surveyed experts see the primary
+use case for a CBDC being a means of payment for the private sector. Moreover, some
+experts expect use cases in the context of the machine economy and IoT due to the potential
+programmability feature of a CBDC.
+
+Figure 6: Benefits of a CBDC
+(Source: Frankfurt School Blockchain Center)
+
+14
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+The surveyed experts see various substantial benefits that a CBDC could bring (see Figure
+6). Note that experts were allowed to give multiple answers. 18 experts, mainly from the
+industrial sector and academia, expect efficiency gains due to lower transaction costs and
+higher transaction speed. Further, 7 experts expect decreasing (business) costs due to a
+higher level of automation. Such automation is particularly promising for IoT and the machine
+economy and stems from the potential programmability of a CBDC. Furthermore, 12 experts
+expect higher payment convenience as a CBDC could provide a convenient means of
+payment. 5 experts in academia and the industrial sector stress that a key benefit of CBDC is
+that it can act as a safe store of value. They suggest that there is a need for safe digital central
+bank money, for example, in times of financial distress. Expert A4 states that a CBDC will
+constitute "a risk-free means of payment, and therefore also a risk-free store of value, which
+is not the case with bank money [...] even though you have [...] prudential regulation and
+guarantee schemes, etc. But history shows, it's not sufficient alone."
+
+12 experts mention financial integrity as another significant benefit of a CBDC and point out
+that a CBDC can reduce informality, tax evasion, and illegal activities as the central bank can
+monitor transaction flows more efficiently than with physical cash and commercial bank
+money. Therefore, also anti-money laundering (AML) and measures to combat the financing
+of terrorism (CFT) can be implemented more efficiently. Additionally, experts mention that
+privacy of financial transaction data can be reached more efficiently by the public as compared
+to the private sector.
+
+8 experts argue that a CBDC can be beneficial for monetary policy. Monetary policy could
+become more effective if central banks are in control of the issuance of money creation instead
+of commercial banks. Further, with a CBDC central banks can maintain their role in the
+monetary system. Academics also argue that an (interest-bearing) CBDC provides a new
+instrument to conduct monetary policy with a “potentially faster and stronger, more direct
+monetary policy transmission,” as stated by expert A9. According to 9 experts, CBDC will
+foster financial inclusion.
+
+Further, 4 experts express that a CBDC could preserve European monetary sovereignty in
+case Non-European payment systems get more and more adopted. Specifically, expert F5
+states that a CBDC can increase “the competitiveness of a national currency overall, if you as
+a specific country will be able to transparently deploy a retail CBDC and show that it's
+governed in a way that it's healthy, democratic.” Expert B1 argues that if the ECB does not
+
+15
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+introduce a CBDC, the physical Euro will soon be outcompeted by other payment systems.
+Accordingly, he states: "Be it Libra or be it foreign CBDCs – [they] could gain market shares
+here and this would cost employment and jobs." He concludes that a CBDC is necessary to
+protect European monetary sovereignty.
+
+Maintaining monetary sovereignty by implementing a Euro CBDC is further discussed against
+the background of China's launch of its own digital currency, the DC/EP project. Most experts
+expect that the DC/EP project will be an accelerator for the introduction of a CBDC in the Euro
+area. Moreover, expert D1 stresses geopolitical implications and observes a "battle between
+the Chinese and the Americans, who is going to dominate the world of […] digital currencies".
+In case the Chinese digital currency – and also the Libra multi-currency stablecoin – is used
+on a large scale, it will result in diminishing importance of the Euro as a global currency.
+Specifically, expert A1 states that "if not only the Chinese but also the Americans start a project
+like this, I think this would be a wake-up call for the ECB."
+
+Figure 7: Risks of a CBDC
+(Source: Frankfurt School Blockchain Center)
+
+Besides these benefits, experts also see several risks if a CBDC is indeed introduced by the
+ECB (see Figure 7). 24 experts mention potential risks for financial stability. This includes bank
+disintermediation and digital bank runs. Accordingly, experts point out that a CBDC is
+competing with bank deposits and could drive a disintermediation of funds from the banking
+sector to the central bank. Further, due to the increased availability of such digital central bank
+money, the likelihood of bank runs could increase. All of the surveyed central bankers, as well
+
+16
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+as academics, see such risks as critical and argue that a CBDC should be implemented in a
+way that does not threaten financial stability.
+
+Besides financial stability, 5 experts express concerns from an increased centralization of
+credit with a larger balance sheet of central banks as a consequence of a CBDC introduction.
+According to experts O3 and A4, end users could further be negatively affected if CBDC
+deposits will be remunerated with negative interest rates. Likewise, they warn against
+significant effects if negative interest rates are accompanied by a potential abolishment of
+cash.
+
+15 experts see operational risks regarding the implementation process of a CBDC.
+Accordingly, an implementation is costly and cumbersome and also includes reputational risks
+if the issuer does not manage to meet the requirements of the public resulting in a low adoption
+rate of a CBDC. 5 experts from the industrial sector specifically draw upon the difficulties
+finding an efficient way of designing a CBDC. They underline the issues of cybersecurity, data
+privacy and the technological implementation. Accordingly, expert I7 stresses that a CBDC
+might “increase the feeling of [...] being controlled, being observed and becoming the
+transparent citizen,” so that citizens may be increasingly skeptical.
+
+Experts across all sectors seem to agree that banks will be negatively affected by the
+introduction of a CBDC. 22 of the surveyed experts state that they expect a crowding out of
+financial institutions offering payment services. Other experts expect that incumbent banks will
+lose large parts of their market shares, and their business models will be profoundly affected.
+Precisely, experts expect the number of intermediaries in financial markets to shrink.
+
+13 experts, contrarily, state potential positive effects on the financial industry and banks. The
+disruptive effects of the implementation of a CBDC could be an enabler for innovation and will
+open up new business models for banks. Specifically, expert I7 stresses that intermediaries
+“would [...] need to specialize more on their value-added services.” Expert A7 is convinced
+that a CBDC will certainly transform the banking system but that banks are able to adapt to
+such a change. Others argue that new opportunities will evolve that have the power to reform
+existing financial institutions.
+
+Further, 12 experts expect commercial banks to be involved in CBDC distribution processes
+(for more details of such a hybrid form of a CBDC see Auer & Boehme, 2020). Specifically,
+
+17
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+expert D2 describes the potential future role of commercial banks as follows: "One could
+foresee a future where the legal tender, which is today physical banknotes, is in future a CBDC
+and the banking sector, in a similar way as it is doing today, is distributing this legal tender."
+Additionally, 3 central bankers point out that it should be made use of the existing
+infrastructures of commercial banks and that central banks do not intend to displace incumbent
+banks or private payment service providers. 5 experts do not see any impact of the introduction
+of CBDC on commercial banks at all.
+
+As the last question on CBDC, we asked the experts, when the ECB will issue a CBDC. The
+results are shown in Figure 8. 21 surveyed experts estimate that a Euro CBDC will be issued
+by the ECB in 3 to 5 years. Another 21 experts expect that a CBDC will be launched in 6 to
+10 years. Further, 2 experts expect a Euro CBDC issuance within the next 2 years. 3 experts
+do not think the ECB will issue a CBDC before 2030. Another 3 experts did not provide an
+estimate of when or whether at all a CBDC will be introduced in the Euro area.
+
+Figure 8: When will a Euro CBDC be issued by the ECB?
+(Source: Frankfurt School Blockchain Center)
+
+4.3
+
+Benefits and risks of Libra and its impact on banks
+
+The majority of the surveyed experts agree that end users will be the primary users of Libra.
+Some experts see merchants as further adopters, as they are needed to install wide-scale
+Libra payment systems. Merchants are incentivized to use the Libra payment infrastructure as
+the Libra platform is likely to be cheaper than credit or debit card schemes. Some other experts
+suggest that the industry will later on also adopt Libra since corporates might benefit from the
+
+18
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+programmability feature of Libra. Mainly experts from the industrial sector state that firms will
+accelerate their ambitions to make use of IoT and smart contracts in combination with Libra.
+
+Figure 9: Benefits of Libra
+(Source: Frankfurt School Blockchain Center)
+
+According to the experts, the Libra project provides various advantages (see Figure 9). Higher
+efficiency in payment transactions is the most frequently mentioned advantage, with 18
+experts stressing that Libra will enable faster and cheaper transactions, especially for crossborder payments. In this context, 11 experts further point out that Libra will offer more
+convenient transactions than with currently existing means of payment. As pointed out by
+experts from the non-financial industry, such convenience could be especially beneficial for
+use cases in e-commerce. 3 experts underline the high interoperability of Libra as a major
+advantage over CBDCs that are most likely limited in their global use.
+
+12 experts see a significant advantage of Libra in the context of financial inclusion. They stress
+significant benefits for countries in that the share of unbanked people is particularly high.
+Likewise, Libra, as a global stablecoin, could provide easy and convenient access to a
+financial system and a stable currency that could be both used as a means of payment and
+store of value.
+
+As another benefit of Libra, experts mention increasing competition in the payments market
+due to Libra's disruptive force. Expert E1 indicates that its implementation will "shake [...] the
+international financial system" and, thus, enable financial innovations. Some experts point out
+that with increasing competitiveness, the financial sector and central banks now need to act
+19
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+quickly and find responses to Libra. Expert B1 calls it a "Sputnik moment for CBDC suppliers"
+and sees Libra as a wake-up call for current players in the financial system. 13 experts support
+the view of Libra being a wake-up call for bankers and central bankers.
+
+Figure 10: Risks of Libra
+(Source: Frankfurt School Blockchain Center)
+
+Even though Libra is perceived to be beneficial in various dimensions, experts stress that
+several potential risk factors could arise (see Figure 10). The most significant risk mentioned
+by 13 experts regards the possibility of Libra abusing its market power. Specifically, expert A4
+points out the importance of network effects with respect to payment services and states that
+the “network effect will be there from the beginning, in an ideal form.” According to the experts,
+Libra is likely to become dominant. Therefore, many experts worry that the Libra Association
+will abuse its market power. Correspondingly, such fear stems from the fact that Libra will be
+centralizing large amounts of data if it reaches a considerable amount of users. Accordingly,
+8 experts perceive Libra’s high degree of data centralization as a threat. Expert B5 identifies
+potential conflicts in the close relationship between Libra and Facebook, the initiator of the
+Libra Association and represented by its subsidy Novi. In addition to data privacy, 9 experts
+mention insufficient consumer protection and privacy risks as further risk factors. 12 experts
+consider the regulation of Libra to be essential and emphasize that regulatory measures must
+be carried out diligently. Accordingly, expert C2 expresses that “it needs to be ensured that
+money laundering can be avoided – so that risks regarding money laundering and terror
+financing will not arise.” So far, regulation is not yet in place and also difficult to implement for
+such a globally operating financial platform.
+
+20
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+Lawyers point to issues related to competition and entity trust law. 9 experts are concerned
+about the diminishing power of central banks resulting in less efficient monetary policy
+measures. In contrast, 5 experts, mainly from the industrial sector, argue that many perceived
+risks regarding Libra are exaggerated. Specifically, expert D1 compares the potential size of
+the Libra reserve with the volume of large exchange-traded funds (ETFs), which he considers
+ultimately riskier than the Libra project.
+
+According to the experts, a distinction has to be made between developing and industrial
+regions when analyzing the potential impact of Libra. Several experts are convinced that the
+effects of the introduction of Libra in industrialized countries will be minimal. The prevalent
+opinion is that a new payment system such as Libra is not needed in industrialized countries
+since there are efficient financial systems in place. Therefore, some experts anticipate that
+people will remain with their incumbent retail banks and will not use Libra on a wide scale.
+Nevertheless, a few experts argue that due to the high convenience of Libra and the expected
+low transaction costs, clients have a reason to change their payment service providers from a
+bank to the Libra Association.
+
+Experts presume that the impact of Libra in developing countries will be higher than in
+industrialized countries. In developing countries, (volatile and week) domestic currencies are
+likely to be substituted with Libra. Accordingly, such substitution has far-reaching
+consequences for the monetary system and monetary policy of central banks in developing
+countries. Also, since banking services are often not fully developed and, therefore, not as
+efficient as in developed countries, experts expect that users are likely to switch to Libra.
+Additionally, they mention that Libra will be an attractive means of payment and a stable store
+of value. Experts reach a consensus on the fact that Libra will foster financial inclusion and
+that it can have positive impacts on economic growth.
+
+Similar to the effects of a Euro CBDC, 25 experts also expect that Libra will drive a
+disintermediation of financial intermediaries. On the one hand, many of the surveyed experts
+assume that Libra will take away market shares of banks, credit card schemes or payment
+service providers. Expert I4 points out that Libra “could completely take over cross border
+payments.” On the other hand, 11 experts expect that Libra may transform the financial market
+in a positive way, so that Libra will “spur competition, and [...] will create more innovation,” as
+expert I13 indicates. Experts in the industrial sector state that Libra will make banks increase
+
+21
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+their efforts in investing in new technologies so that banks will also be more innovative in the
+future.
+
+Other experts expect a limited impact of Libra on banking in developed countries due to the
+lock-in effect of substantial customers of retail banks. Expert B2 concretely states that "the
+bank account is so deeply embedded into the current financial world of the developed
+countries that it will stay." Some experts are even more optimistic and stress that banks will
+potentially be involved in the Libra ecosystem as Libra will need intermediaries to provide
+services to end users and could support managing the Libra Reserve.
+
+According to most experts, Libra is likely to be introduced in the Euro area next year (see
+Figure 11). 14 experts date the implementation of Libra in 2022. Further, 4 experts believe
+that we will not have Libra in the Euro area before 2023. 3 experts are convinced that Libra
+will be launched until the end of this year.
+
+Figure 11: When will Libra be introduced in the Euro area?
+(Source: Frankfurt School Blockchain Center)
+
+5.
+
+Discussion: Impact of CBDC and Libra on banks
+
+Our results indicate that banks might be heavily affected by the introduction of a digital
+programmable Euro, in the form of Libra, and a Euro CBDC. Recall that in this paper, we are
+agnostic regarding a direct, hybrid or indirect CBDC model (see Auer & Boehme, 2020).
+Experts presume that both Libra and a Euro CBDC will have a severe impact on banks’
+business models and profitability. As described in the previous chapter, one of the main risks
+22
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+experts see in a CBDC is a potential disintermediation of the financial sector, when end users
+convert a high amount of bank deposits into a CBDC. The experts we asked, therefore, fear
+that the introduction of a CBDC will yield a crowding out of bank deposits as CBDC is mainly
+perceived as a riskless substitute for bank deposits. Consequently, the refinancing costs of
+banks could increase as central bank and capital market funding is typically more expensive
+than funding via bank deposits (see Bindseil, 2020).
+
+Furthermore, experts expect that the availability of a digital form of central bank money could
+trigger digital bank runs. In the current system, there is also a certain risk that bank runs occur
+so that clients massively withdraw physical cash from their bank accounts. One example is
+the bank run in Cyprus in 2013. Households feared that their bank deposits were no longer
+safe and withdrew more than 40% of their funds within one year. However, the likelihood of
+such a bank run is limited by monetary and non-monetary transaction costs, e.g., related to
+the storage of cash and the imposed daily limits for cash withdrawals. In the case of a CBDC,
+such bank runs could become more likely as withdrawals in digital form can be carried out
+easier and most of the mentioned monetary and non-monetary transaction costs would no
+longer arise (see Bech & Garratt, 2017). Note that we abstract from an (unrealistic) scenario
+where CBDC completely substitutes bank deposits so that bank runs can no longer appear.
+
+Recent publications by the ECB indicate that it is essential for the ECB to preserve financial
+stability and to prevent a disintermediation of the financial sector and digital bank runs. If such
+threats cannot be ruled out, according to Ulrich Bindseil, Director General for Market
+Infrastructures and Payments at the ECB, a CBDC will not be introduced:
+
+"CBDC should be launched only if the central bank can be confident that [...] undesired
+structural disintermediation of the banking system, and avoidance in systemic crises of
+a facilitation of aggregate bank runs, have been solved." (Bindseil, 2020)
+
+However, note that there are already proposals in the literature how to prevent such a
+disintermediation and digital bank runs. Such proposals include introducing maximum
+conversion limits of bank money in CBDC (see Panetta, 2018), introducing an exchange rate
+between bank deposits and CBDC (see Kumhof & Noone, 2018) or implementing a two-tiered
+interest rate structure on CBDC holdings (see Bindseil, 2020).
+
+23
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+Besides CBDC, a significant number of surveyed experts presume that also Libra will affect
+banks’ businesses. According to the experts, Libra will constitute an additional competitor for
+banks as Libra will provide an alternative payment platform that competes with banks’ payment
+infrastructures. Moreover, it is also possible that in the future third parties use the Libra network
+to grant loans denominated in Libra. The availability of such Libra loans could also accelerate
+a crowding out of bank money. Further, experts expressed that Libra could impact banks’
+market shares in the cross-border payment business. Libra aims to increase financial inclusion
+and to decrease transaction costs for cross-border payments. If transaction costs will, in the
+end, indeed be very low, then clients could switch from classical cross-border payment service
+providers such as banks or financial organizations such as Western Union or Moneygram to
+the Libra Association. Such a shift would lower the market shares of banks in the field of crossborder payments. Nevertheless, our results suggest that such potential substitution is more
+likely to occur in developing and emerging economies as compared to industrialized countries
+as Libra will most likely be mainly used in developing and emerging countries. Further, experts
+presume that the impact of Libra on banks will be smaller than the impact of CBDC on banks.
+
+Our results also indicate that banks still have the chance to assert themselves and to mitigate
+a large-scale crowding out of bank deposits. Despite the expected negative effects on banks,
+our findings suggest that banks should not only perceive Libra and a Euro CBDC as a threat
+but also as an opportunity to adjust their business models and to generate new profitable
+services. In a future scenario with Libra and a Euro CBDC being introduced, banks could
+generate new business models and services both in the Libra and the CBDC system. Banks
+are very experienced in conducting Know-Your-Customer (KYC) services and in detecting and
+preventing money laundering and terror financing. Therefore, a CBDC system could be
+designed in such a way that banks will keep an important position. In the current two-tiered
+money system, banks obtain banknotes from the central bank and distribute these banknotes
+to the end users. Therefore, banks undertake tasks to interact with end users – the central
+bank does not directly interact with the end user. Therefore, tasks are divided between the
+central bank and commercial banks in the form of a private-public partnership. Such a twotiered system is also imaginable for a CBDC so that banks would continue to distribute central
+bank money, not only in the form of banknotes but also in the form of a CBDC, for example in
+a hybrid CBDC model (see Auer & Boehme, 2020). Such a two-tiered system is, for example,
+suggested for most of the current global CBDC initiatives, e.g., in China and in Sweden (see
+Weisbrodt & Gross, 2020). Also, the ECB suggests the use of a two-tiered system in a CBDC
+publication (see ECB, 2019). Therefore, a CBDC can also be set up in such a system where
+banks remain important.
+24
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+Also in the Libra system, banks could become essential players. First, banks could join the
+Libra Association and would get financially rewarded by a share of the transaction fees and a
+share on the interest income from the Libra Reserve assets as all members of the Libra
+Association. Secondly, banks could act as designated dealers or virtual asset service
+providers in the Libra ecosystem. Designated dealers, on the one hand, are intermediaries
+between the Libra Association – that creates Libra units – and the end user – who then spends
+the created units. Besides distributing the Libra tokens, designated dealers also buy
+government bonds for the Libra Reserve and provide them to the Libra Association as
+collateral. Such tasks could be conducted by banks that would get financially rewarded in
+return. Virtual asset service providers, on the other hand, are third-parties that offer services
+on top of the Libra network. Therefore, banks could e.g., provide custody services and develop
+their own wallet solutions on top of the Libra network. Also, banks could, in theory, grant Libra
+denominated loans. Accordingly, our results suggest that also in a Libra and CBDC system,
+banks could become essential players. Consequently, these innovations should not only be
+seen as threats but also as opportunities to diversify and generate new business models.
+
+Besides an active role in the Libra and the CBDC system, banks could also drive their own
+initiatives in the field of payment innovations. DLT provides new opportunities, for example,
+for DLT-based pay-per-use business models within the framework of IoT. Here, a
+programmable and digital form of the Euro serves as a backbone for applications in the fields
+of e.g., Industry 4.0, mobility and energy. The emerging networked economy facilitates new
+forms of inter-organizational and inter-industry collaboration. Within this framework, banks
+could act as issuers of a DLT-based (digital programmable) Euro and tokenize commercial
+bank money for the use in e.g. integrated business ecosystems. Our results show that the
+industry demands such a DLT-based Euro e.g., in the field of IoT, the machine economy and
+prospective digital business models. Therefore, banks could address this market gap and
+generate new business models by providing such a DLT-based Euro.
+
+6.
+
+Conclusion
+
+Our analysis suggests that the introduction of the digital programmable Euro, Libra, and a
+Euro CBDC would have strong implications for the industry and the financial sector. Our main
+findings are as follows: First, a digital programmable Euro is demanded by most of the
+surveyed experts in order to address inefficiencies of the current financial system and increase
+automation due to a programmable means of payments. Second, Libra and a Euro CBDC will
+
+25
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+heavily affect banks’ business models, for example, such that disintermediation of the financial
+sector and digital bank runs could result from an introduction of a Euro CBDC and
+disintermediation from an introduction of Libra. Thirdly, experts also see various benefits and
+new business opportunities that retail, industrial and financial companies can develop and
+realize in the context of Libra, CBDC and the digital programmable Euro. Therefore, experts
+suggest to not only perceive these initiatives as a threat but also as an opportunity.
+
+The surveyed experts expect that Libra will be introduced before a Euro CBDC. More than
+80% of the experts estimate that Libra will be launched in the Euro area by 2022 and a Euro
+CBDC by 2030. According to our surveyed experts, banks will be heavily affected by the
+introduction of Libra and a Euro CBDC and should take precautions so that, in the end, new
+business models will emerge. The mentioned benefits of Libra and a Euro CBDC and the high
+relevance of the aspect of programmability point to one fact: These two initiatives are not
+necessarily an end in themselves but rather a vehicle to achieve a desired objective, i.e., the
+digital programmable Euro. Our findings suggest that bank-related opportunities emerge
+besides the discussed risks for banks. Such a digital programmable Euro can create
+significantly higher efficiency for cross-border payments, enables near real-time settlement
+with other assets, rights and goods and, above all, a high degree of automation. Therefore,
+such a digital programmable Euro is demanded by the Association of German Banks (see
+Bundesverband deutscher Banken, 2020). As a result, this in turn forms the basis for business
+models associated with the machine economy in the fields of e.g. Industry 4.0, logistics,
+mobility, energy and IoT. The cross-sectoral application of digital money implies that the
+introduction of a digital programmable Euro will not only affect banks, but also the industrial,
+non-banking, sector. Such a vehicle opens up cross-sectoral business opportunities that could
+not be achieved in the absence of a digital programmable Euro. In this respect, a significant
+portion of the surveyed experts regard DLT as the appropriate technology for the
+implementation of a digital programmable Euro.
+
+Our results provide a number of implications. First, banks should not solely regard Libra and
+CBDC as a threat, but also as a reason to take innovative action to adjust their business
+models as well as to generate new profitable services. First, banks could become essential
+pillars in the Libra and CBDC system in order to generate returns. In addition, banks may
+provide services within the scope of their traditional range of operations, such as custody and
+distribution of digital money, along with services such as AML and KYC. Third, a digital
+programmable Euro enables the programmability of money through smart contracts and
+thereby enables automated processes as well as financial services such as interest payments,
+26
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+loans, escrow accounts, leasing and factoring. Therefore, a digital programmable Euro could
+also yield efficiency gains for banks. Fourth, with the introduction of a digital programmable
+Euro, a high degree of interoperability could be achieved across multiple payment
+ecosystems. Such interoperability is of particular importance when considering the
+requirements of the machine economy, in which machines such as cars, industrial plants or
+sensors are also involved in processing payments. In this context, banks could act as
+accelerators to develop an interoperability standard in a banking consortium.
+
+It should be noted that further research on this subject is required as this study is exposed to
+limitations. Our sample of 51 experts may not be sufficient to obtain a full picture of the
+implications of Libra, CBDC and the digital programmable Euro for European banks. Future
+research could, therefore, increase the sample size and the geographic reach of the surveyed
+experts. Moreover, a sample bias could also result from the disproportionate origin of a large
+fraction of the experts from Germany. We acknowledge that the discussions about the digital
+programmable Euro, Libra and CBDCs are mainly conceptional as these initiatives are not live
+yet. Therefore, high uncertainties about the exact design of these initiatives remain.
+Nevertheless, now is the time for banks to develop positions, strengthen them and ultimately
+create new business opportunities.
+
+27
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+7.
+
+Bibliography
+
+Auer, R. & Boehme, R. (2020). The technology of retail central bank digital currency. BIS
+Quarterly Review March. Basel.
+Bundesverband deutscher Banken. (2020). Europe’s answer to Libra – potential and
+prerequisites
+
+of
+
+a
+
+programmable
+
+euro.
+
+Retrieved
+
+July
+
+24,
+
+2020,
+
+from
+
+https://en.bankenverband.de/newsroom/comments/europe-answer-libra/.
+
+Bank for International Settlements (2020). BIS Annual Economic Report 2020: III. Central
+banks and payments in the digital era. Basel.
+
+Bech, M. L. & Garratt, R. (2017). Central bank cryptocurrencies. BIS Quarterly Review
+September. Basel.
+
+Bindseil, U. (2020). Tiered CBDC and the financial system. ECB Working Paper Series, No.
+2351. Frankfurt am Main.
+Boar, C., Holden, H., & Wadsworth, A. (2020). Impending arrival – a sequel to the survey on
+central bank digital currency. BIS Papers, No. 107. Basel.
+
+Chapman, J., Garratt, R., Hendry, S., McCormack, A., & McMahon, W. (2017). Project Jasper:
+Are Distributed Wholesale Payment Systems Feasible Yet? Financial System Review,
+1–11.
+
+CoinMarketCap. (2020). Top 100 Cryptocurrencies by Market Capitalization. Retrieved July
+10, 2020, from https://coinmarketcap.com/1/.
+
+Corbin, J., & Strauss, A. (2015). Basics of Qualitative Research: Techniques and Procedures
+for Developing Grounded Theory (4th ed.). Thousand Oaks: SAGE Publications, Inc.
+
+European Central Bank. (2019). Exploring anonymity in central bank digital currencies. IN
+FOCUS, 1(4), 1–11.
+
+28
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+FinTechRat beim Bundesministerium der Finanzen. (2020). Der digitale, programmierbare
+Euro.
+
+Gläser, J., & Laudel, G. (2009). Experteninterviews und qualitative Inhaltsanalyse - als
+Instrumente rekonstruierender Untersuchungen (3rd ed.). Wiesbaden: VS Verlag für
+Sozialwissenschaften.
+
+Griffoli, M. T. M., Peria, M. M. S. M., Agur, M. I., Ari, M. A., Kiff, M. J., Popescu, M. A., &
+Rochon, M. C. (2018). Casting Light on Central Bank Digital Currencies. International
+Monetary Fund Staff Discussion Notes No. 18/08.
+
+Gross,
+
+J.,
+
+Herz,
+
+B.,
+
+&
+
+Schiller,
+
+J.
+
+(forthcoming).
+
+Bitcoin,
+
+Libra
+
+und
+
+digitale
+
+Zentralbankwährungen - auf dem Weg in ein neues Geldsystem? Wirtschaftsdienst.
+
+Houben, A. et al. (2018). Central bank digital currencies. Joint report by the Committee on
+Payments and Market Infrastructures and the Markets Committee. Bank for International
+Settlements. Basel.
+
+Kaiser, R. (2014). Qualitative Experteninterviews: Konzeptionelle Grundlagen und praktische
+Durchführung. In Qualitative Experteninterviews (1st ed.). Wiesbaden: VS Verlag für
+Sozialwissenschaften.
+
+Klein, M., Gross, J., & Sandner, P. (2020). The Digital Euro and the Role of DLT for Central
+Bank
+
+Digital
+
+Currencies.
+
+Frankfurt
+
+am
+
+Main.
+
+Retrieved
+
+from
+
+http://explore-
+
+ip.com/2020_The-Digital-Euro-and-the-Role-of-DLT-for-Central-Bank-DigitalCurrencies.pdf.
+
+Kumhof, M. & Noone, C. (2018). Central bank digital currencies - design principles and
+balance sheet implications. Bank of England Staff WP No. 725.
+
+Libra
+
+Association
+
+(2020).
+
+Libra
+
+White
+
+Paper.
+
+Retrieved
+
+July
+
+10,
+
+2020,
+
+from
+
+https://libra.org/en-US/white-paper/?noredirect=en-US.
+
+Mersch, Y. (2018). Virtual or virtueless? The evolution of money in the digital age. Lecture at
+the Official Monetary and Financial Institutions Forum. February 8, 2018. London.
+
+29
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+Panetta, F. (2018). 21st century cash: central banking, technological innovation and digital
+currency. In Gnan , E. & Masciandaro, D. (eds.). Do We Need Central Bank Digital
+Currency? (pp. 23-32). SUERF Conference Proceedings018/2, 23-32.
+
+Pope, C., Ziebland, S., & Mays, N. (2000). Qualitative research in health care: Analyzing
+qualitative data. The British Medical Journal, 320, 114-116.
+
+PYMNTS.com (2020). ECB policy maker tells banks to seek better alternatives to Libra.
+Retrieved May 30, 2020, from https://www.pymnts.com/cryptocurrency/2020/ecb-policymaker-tells-banks-to-seek-better-alternatives-to-libra/.
+
+Saunders, M., Lewis, P., & Thornhill, A. (2009). Research methods for business students (5th
+ed.). Harlow: Pearson Education Limited. Retrieved from www.pearsoned.co.uk.
+
+Strohhecker, J. (2008). Wissenschaftlich Arbeiten: Techniken und Konventionen (2nd ed.).
+Frankfurt am Main: Frankfurt School Verlag.
+
+Weisbrodt, J., & Gross, J. (2020). CBDC pioneers: Which countries are currently testing a
+retail
+
+central
+
+bank
+
+digital
+
+currency?
+
+Retrieved
+
+July
+
+10,
+
+2020,
+
+from
+
+https://medium.com/@jonas.ku1994/cbdc-pioneers-which-countries-are-currentlytesting-a-retail-central-bank-digital-currency-49333be477f4.
+
+World Bank (2018). Financial inclusion on the rise, but gaps remain, global findex database
+shows. Retrieved July 23, 2020, from https://www.worldbank.org/en/news/pressrelease/2018/04/19/financial-inclusion-on-the-rise-but-gaps-remain-global-findexdatabase-shows
+
+World Bank (2019). Record high remittances sent globally in 2018. Retrieved July 15, 2020,
+from
+
+https://www.worldbank.org/en/news/press-release/2019/04/08/record-high-
+
+remittances-sent-globally-in-2018.
+
+Zikmund, W. (2003). Business Research Methods (8th ed.). Boston: Cengage Learning.
+
+30
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+Appendix A: Expert interview participants
+No.
+
+ID
+
+Field of work
+
+Country
+
+Profession
+
+1
+
+A1
+
+Academia
+
+Germany
+
+Professor
+
+2
+
+A2
+
+Academia
+
+Germany
+
+Research Assistant
+
+3
+
+A3
+
+Academia
+
+Switzerland
+
+Research Assistant
+
+4
+
+A4
+
+Academia
+
+Switzerland
+
+Professor
+
+5
+
+A5
+
+Academia
+
+Denmark
+
+Research Assistant
+
+6
+
+A6
+
+Academia
+
+Germany
+
+Professor
+
+7
+
+A7
+
+Academia
+
+Spain
+
+Research Assistant
+
+8
+
+A8
+
+Academia
+
+Republic of
+Korea
+
+Research Assistant
+
+9
+
+A9
+
+Academia
+
+Switzerland
+
+Professor
+
+10
+
+B1
+
+Banking
+
+Germany
+
+Chief Economist and Head of Research
+
+11
+
+B2
+
+Banking
+
+Germany
+
+Digital Markets Development Manager
+
+12
+
+B3
+
+Banking
+
+Germany
+
+Managing Director
+
+13
+
+B4
+
+Banking
+
+Germany
+
+Digital Office
+
+14
+
+B5
+
+Banking
+
+Germany
+
+CFO
+
+15
+
+B6
+
+Banking
+
+Germany
+
+Senior Trader
+
+16
+
+B7
+
+Banking
+
+Germany
+
+Undisclosed
+
+17
+
+C1
+
+Central Banking
+
+Pan-European
+
+Undisclosed
+
+18
+
+C2
+
+Central Banking
+
+Germany
+
+Undisclosed
+
+19
+
+C3
+
+Central Banking
+
+Ukraine
+
+Undisclosed
+
+20
+
+C4
+
+Central Banking
+
+United States
+
+Undisclosed
+
+21
+
+D1
+
+Associations
+
+Germany
+
+Head of Research
+
+22
+
+D2
+
+Associations
+
+Germany
+
+Undisclosed
+
+23
+
+D3
+
+Associations
+
+Germany
+
+Director of Economics
+
+24
+
+D4
+
+Associations
+
+Germany
+
+Research Assistant
+
+25
+
+D5
+
+Associations
+
+Germany
+
+Partner Lawyer
+
+26
+
+E1
+
+International
+Organization
+
+United States
+
+Economist
+
+27
+
+F1
+
+Consultancy
+
+Germany
+
+Director Digital Finance
+
+28
+
+F2
+
+Consultancy
+
+Germany
+
+Research Assistant
+
+29
+
+F3
+
+Consultancy
+
+Germany
+
+Research Assistant
+
+30
+
+F4
+
+Consultancy
+
+Germany
+
+Senior Expert
+
+31
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+31
+
+F5
+
+Consultancy
+
+Germany
+
+Expert Principle
+
+32
+
+F6
+
+Consultancy
+
+Germany
+
+Knowledge Specialist
+
+33
+
+I1
+
+Industry
+
+Switzerland
+
+Chief Economist
+
+34
+
+I2
+
+Industry
+
+Barbados
+
+Executive Vice Chairman
+
+35
+
+I3
+
+Industry
+
+Germany
+
+Project Leader
+
+36
+
+I4
+
+Industry
+
+Germany
+
+Business Expert
+
+37
+
+I5
+
+Industry
+
+Germany
+
+Research Assistant
+
+38
+
+I6
+
+Industry
+
+Denmark
+
+Research Assistant
+
+39
+
+I7
+
+Industry
+
+Germany
+
+CTO
+
+40
+
+I8
+
+Industry
+
+Germany
+
+Consultant
+
+41
+
+I9
+
+Industry
+
+Germany
+
+CEO
+
+42
+
+I10
+
+Industry
+
+Germany
+
+Founder and CEO
+
+43
+
+I11
+
+Industry
+
+Germany
+
+Chief Business Development Officer
+
+44
+
+I12
+
+Industry
+
+Canada
+
+Solution Architect
+
+45
+
+I14
+
+Industry
+
+Germany
+
+Consultant
+
+46
+
+I13
+
+Industry
+
+United Kingdom CEO
+
+47
+
+L1
+
+Lawyer
+
+Germany
+
+Legal Partner
+
+48
+
+L2
+
+Lawyer
+
+Germany
+
+Head of Digital Assets and DeFi
+
+49
+
+O1
+
+Others
+
+Germany
+
+Co-founder
+
+50
+
+O2
+
+Others
+
+Germany
+
+Head of Innovation
+
+51
+
+O3
+
+Others
+
+Germany
+
+Research Assistant
+
+32
+
+Electronic copy available at: https://ssrn.com/abstract=3663142
+
+

@@ -1,0 +1,1050 @@
+International Journal of Economics and Business Administration
+Volume VIII, Issue 2, 2020
+pp. 65-86
+
+FinTech, Blockchain and Islamic Finance:
+An Extensive Literature Review
+Submitted 08/01/20, 1st revision 30/01/20, 2nd revision 10/02/20, accepted 03/04/20
+
+Mustafa Raza Rabbani1, Shahnawaz Khan2, Eleftherios I. Thalassinos3
+Abstract:
+Purpose: The paper aims to review the academic research work done in the area of Islamic
+financial technology. The Islamic FinTech area has been classified into three broad
+categories of the Islamic FinTech, Islamic Financial technology opportunities and
+challenges, Cryptocurrency/Blockchain sharia compliance and law/regulation. Finally, the
+study identifies and highlights the opportunities and challenges that Islamic Financial
+institutions can learn from the conventional FinTech organization across the world.
+Approach/Methodology/Design: The study collected 133 research studies (50 from Social
+Science Research Network (SSRN), 30 from Research gate, 33 from Google Scholar and 20
+from other sources) in the area of Islamic Financial Technology. The study presents the
+systematic review of the above studies.
+Findings: The study classifies the Islamic FinTech into three broad categories namely,
+Islamic FinTech opportunities and challenges, Cryptocurrency/Blockchain sharia
+compliance and law/regulation. The study identifies that the sharia compliance related to the
+cryptocurrency/Blockchain is the biggest challenge which Islamic FinTech organizations are
+facing. During our review we also find that Islamic FinTech organizations are to be
+considered as partners by the Islamic Financial Institutions (IFI’s) than the competitors. If
+Islamic Financial institutions want to increase efficiency, transparency and customer
+satisfaction they have to adopt FinTech and become partners with the FinTech companies.
+Practical Implications: The study will contribute positively to the understanding of Islamic
+Fintech for the academia, industry, regulators, investors and other FinTech users.
+Originality/Value: The study believes to contribute positively to understanding of Fintech
+based technology like cryptocurrency/Blockchain from sharia perspective.
+Keywords: Blockchain, cryptocurrency, FinTech, Islamic finance, Sharia compliance.
+JEL classification: G15, G32.
+Paper Type: Literature review study.
+
+1
+
+Department of Finance and Accounting, College of Business Administration, Kingdom
+University, Bahrain, e-mail: m.rabbani@ku.edu.bh
+2
+Department of Information Technology, University College of Bahrain, Bahrain,
+e-mail: skhan@ucb.edu.bh
+3
+Professor, University of Pireaus, Affiliate Professor University of Malta,
+e-mail: thalassinos@ersj.eu
+
+FinTech, Blockchain and Islamic Finance: An Extensive Literature Review
+66
+
+1. Introduction
+Financial technology is one of the most widespread term used for research in finance
+industry in present time. Financial Technology (FinTech) is the use of modern
+innovative technology in the field of finance. It is basically the use of innovative and
+disruptive technology for providing the financial services. Fintech as a concept
+peaked up the in the late 2010s (Haddad, 2018). Fintech catered to this need of more
+security for the investors by providing innovative and secured financial services. The
+other reason for the emergence of Fintech could be attributed to the need for the
+financial services at more affordable cost which provides mobility and faster pace
+(Anikina et al., 2016). The primary reason for the emergence of FinTech has been
+the global financial crisis of 2008 (Haddad, 2018). Global Financial crisis was the
+period where people lost confidence in the financial system and were looking for
+something which gives them more assurance in terms of their investment. The
+severity of financial crisis in 2008 has laid the way for Islamic Financial systems to
+emerge as the vehicle of recovery from financial crisis (Hussain, 2010).
+The answer to the reason why FinTech is happening now is that FinTech innovations
+are more genuine and they are unlike the previous innovations in the financial
+services (Rupeika-Apoga et al., 2018: Thalassinos et al., 2015a; 2015b). These
+innovations are changing the lives of the people and they associated the common
+people they are genuine, having an infrastructure effect (Schindle, 2017). Islamic
+FinTech (Financial technology) is any Fintech catering to the needs of the Islamic
+financial institutions and are designed to asper the principles laid down by sharia.
+The paper aims to review the academic research work done in the area of Islamic
+financial technology. The Islamic FinTech area has been classified into three broad
+categories of the Islamic FinTech, Islamic Financial technology opportunities and
+challenges, Cryptocurrency/Blockchain sharia compliance and law/regulation.
+It is estimated that the global cumulative investment in FinTech will exceed $1.5
+billion in the next 3-5 years (PWC, 2019). Banks and financial institutions across the
+world are facing the most difficult time as there is lack of innovation in banking and
+finance industry (Tornjanski et al., 2015; Alt, 2018; Thalassinos, 2008; Thalassinos
+et al., 2010; 2014; Jędrzejowska-Schiffauer et al., 2019) and FinTech has come as a
+blessing in disguise for these organizations as it provides more opportunities with
+enough innovation and tech-based services (Dapp, 2015). There is still no consensus
+about the term FinTech, still some of the most popular definitions of FinTech is
+summarized as follows:
+FinTech as a term emerged in 1972 by Abraham Leo Bettinger by saying “FinTech
+can be defined as a contraction which combines bank experience and expertise with
+information technology” (Bettinger, 1972). Schueffel (2017) said “FinTech is the
+new term in finance industry and objective of which is to improve the financial
+services through the use of technology”. Milian et al. (2019) mentioned that
+“FinTech is a thrill or hype in the media or an important innovation which can be
+
+M.R. Rabbani, S. Khan, E.I. Thalassinos
+67
+
+attributed to the field of finance”. According to IOSCO (2017) “it is the innovative
+business models that that can transform the finance industry”. Oxford Dictionary
+defines “FinTech is the traditional financial services provided through the use of
+information technology”. In the words of Dorfeitner et al. (2017) “FinTech is
+basically the composition of companies or group of companies providing the
+modern, innovative and financial services through technologies” while Sanicola
+(2019) said “FinTech is about both, promoting the technology to enhance the use of
+financial and also about the promotion and growth of digital consulting”.
+However, from the definitions mentioned above, from the authors’ perspective,
+definitions cover only some of the aspects of the activities which are using financial
+technologies. FinTech can be defined as following: “FinTech is the fusion of
+Information Technology and Finance for providing the financial services at an
+affordable cost with a seamless user experience”.
+2. Islamic FinTech Opportunities and Challenges
+The future of Islamic finance especially Islamic FinTech is very good in Muslim
+countries. The development of mobile and smartphone has paved way for the growth
+of FinTech in these countries. Of course, these opportunities are not without
+challenges the biggest challenge for the Islamic FinTech companies are about
+regulation and lack of good and authentic research in the Islamic Fintech sector
+(Brian, 2017; Firmansyah and Anwar, 2019). Another study (Firmansyah and
+Ramdani, 2018) argued that the presence of Islamic Fintech companies can help the
+startups in an effective way. It will be a good boost for the young graduates as there
+is a lack of organizations who support the young graduate aspirants with sharia
+compliance financing.
+Fintech has grown at the double pace in the European region, in fact, at a twice rate
+than the Silicon Valley since 2008. Since, 2011 the volume of FinTech deals in
+London region has increased by three times and is more than 50% of the all
+European activity (Skan, 2014). There is a scope for the new financial technology
+companies, and it can be achieved through the wide range of financial services and
+respect from the clients. It is very critical for the development of financial services
+companies and banks as development and growth of FinTech companies will give an
+option to the customers to use both traditional financial services as well as new and
+innovative services provided through the FinTech companies (Gomber, 2018; 2017;
+Saksonova and Merlino, 2017). The FinTech companies have given traditional banks
+a lifeline to go digital and provide financial services at a low cost. In a country like
+Czech Republic the low-cost banking with Fintech will help the banks to compete
+with the larger and more established banks (Hes and Jilkova, 2016).
+Islamic FinTech is based on the ethos and value of Sharia and it has the ability to
+lead the finance world across the globe. The biggest advantage with the Islamic
+Fintech is that it is transparent, accessible and easy to use (Laldin, 2018;
+
+FinTech, Blockchain and Islamic Finance: An Extensive Literature Review
+68
+
+Wintermeyer, 2017). The global financial crisis has not affected the financial
+performance of the Islamic banks because of the nature of the Islamic finance, it has
+emerged as an alternative to the conventional finance. With the emergence of
+Islamic FinTech, it provides Islamic banks an opportunity to make the finance world
+better and emerge as an alternative finance with more transparency and ethical
+values (Satyawati et al., 2017). Technological changes are just the beginning of the
+things to come the innovation in finance and banking industry (Arize et al., 2018). It
+is really important for the Islamic financial institutions to be prepared and embrace
+the changes. Sharia compliance Islamic FinTech has the capability to attract 150
+million new customers in the next 3 years (Wonglimpiyarat, 2017; Chen, 2018).
+However, it is expected to grow further as we are expecting the explosion in the
+growth of Muslim population as the Muslim population is expected to reach 3 billion
+by 2060 (Cooper, 2018). Till that date, Malaysia, UK and Indonesia are holding the
+first three position in terms of Islamic FinTech startups (Cooper, 2018). Another
+study (Rusydiana, 2018) concluded that the biggest obstacle for developing the
+Islamic FinTech has been the lack of trained human personnel and clear policy from
+the government. Researchers further states that to develop a proper ecosystem for the
+development of Islamic FinTech in the country the government has to bring proper
+regulation, educational intuitions have to bring good researches and provide trained
+personnel. The success of Islamic Fintech can be associated to the number of
+financial service areas where FinTech can be linked to, for example, it can be linked
+to the cryptocurrencies, blockchain and other areas such as cross border payments
+(Gambler, 2018; Michalopoulos and Tsermenidis, 2018). Islamic FinTech needs to
+keep itself at pace with the rapid development going in the conventional finance
+world. In fact, the opportunities for Islamic finance is more than the conventional
+finance because the basic concept of FinTech-shared capital is in accordance with
+the rules prescribed by the sharia. Islamic FinTech has the same values and ethics
+which are the basics of Islamic Finance (Alam, 2019a; Haqqi, 2018).
+The development of Islamic Fintech provides great opportunities for the developing
+countries, as it provides the cost-effective solution to the financial services. At the
+same time, it also tests the regulating bodies to maintain the stability and to protect
+the investors and institutions from the fraudulent trade practices (Saba, 2019). In
+order to make sure that Islamic FinTech is growing and having sustainable
+development, an awareness program among the university students can be started
+among those who are using the technologies (Saad, 2019). If Fintech want to be
+relevant in the longer period of time, it must be innovative as adoption of FinTech
+by the Islamic financial institutions are not only affecting the Muslim community,
+but it also affects the non-Muslims and global finance world (Irfan, 2019).
+Fintech has become a challenge for the financial institutions which can be turned
+into opportunities by making FinTech companies partners in providing innovative
+services than treating them as competitors (Cristea and Thalassinos, 2016;
+Thalassinos and Thalassinos, 2006). The main risk associated with the development
+
+M.R. Rabbani, S. Khan, E.I. Thalassinos
+69
+
+of FinTech is that banks are exposed at every level (Anil, 2019; Romanova and
+Kudinska, 2017; Rabbani, 2016). FinTech is still new and the firms are not able to
+make sure how much investments are worth investing as far as Fintech projects are
+concerned (Lee, 2018). To overcome this challenge, banks and Fintech firms needs
+to sit together and integrate and evaluate their efforts. The Fintech and banks are
+needed to evaluate their value proposition in terms of integrating innovation and
+FinTech (Coates, 2015; Drasch et al., 2018). The opportunities and challenges of
+Islamic Fintech are summarized as in the following Table 1.
+Table 1. Islamic FinTech Opportunities and Challenges
+Islamic FinTech Opportunities
+Islamic Fintech companies can help the
+new startups in a big way
+Islamic FinTech companies can provide a
+wide range of innovative products and
+services.
+It provides an option to the customers to
+use both traditional financial services as
+well as new and innovative services.
+It can provide cost-effective solution to the
+financial services and will give a lifeline to
+traditional Islamic banks to go digital and
+provide financial services at a low cost.
+Islamic Fintech is transparent, accessible
+and easy to use and can gain customer
+confidence easily.
+It can be linked to the cryptocurrencies,
+Blockchain and other areas such as cross
+border payments.
+It can easily gain the confidence of Muslim
+investors as it is in accordance with the
+rules prescribed by the sharia.
+
+Islamic FinTech Challenges
+Lack of good and authentic research in the
+Islamic Fintech sector.
+Developing the Islamic FinTech has been
+the lack of trained human personnel and
+clear policy from the government.
+Educational intuitions must bring good
+researches and provide trained personnel
+and academic researchers must provide
+good research.
+Islamic FinTech needs to keep itself at pace
+with the rapid development going in the
+conventional finance world.
+Islamic FinTech must maintain the stability
+and must protect the investors and
+institutions from the fraudulent trade
+practices.
+The banks are exposed at every level as
+technology brings more transparency.
+Since, Islamic FinTech is still new and
+investors are not able to make sure how
+much investments are worth investing.
+
+3. Islamic Fintech and Regulatory Challenges
+Fintech is already giving massive benefits to the users and investors. With the evergrowing competitions from the FinTech firms the service providers are forced to
+adopt the consumer centric approach. However, the evolution of Fintech also brings
+a lot of risks to the investors and regulators and they must find ways to safeguard the
+interest of the both, investors and consumers. For the consumer, the evolution of
+FinTech is a win-win situation as they are benefitting from the new and innovative
+financial services and existing financial services are made more competitive and
+affordable as well (Wijayanti, 2017; Loo, 2018). As the development of FinTech has
+evolved over different eras but post global financial crisis of 2008 the need for more
+stringent regulation was felt. Now, the focus has shifted from products or services
+
+FinTech, Blockchain and Islamic Finance: An Extensive Literature Review
+70
+
+delivered to the use of technology in delivering the services. Now, it posts a great
+challenge to the regulators and developers to make a correct balance between the
+benefits of the new innovations and the risk it brings (Arner, 2015; 2016; Ladin,
+2017). The fast and rapid development in Fintech can be equally disruptive if it is
+not regulated properly (Vijayanti, 2017). As the FinTech is in its early stage of
+development and the impact of FinTech on various stakeholders can only be
+understood by using the dimensions such as regulation (Sangwan, 2019).
+FinTech companies need to be more alert regarding the massive transformation
+going in the industry as it will impact the Fintech companies and they have to find
+ways to deal with these transformations (Lee and Shin, 2018). Since FinTech is at
+the early stage of innovation so instead of putting this into rigorous regulation, a
+more flexible and principle-based strategy are to be adopted.
+The approach of regulatory authority should be kind and easy going to foster more
+innovation (Tsai and Peng, 2017). Regulatory Technology (RegTech) is the future of
+financial regulation as the need for regulating the FinTech companies increases the
+demand for RegTech will also increase. RegTech development will make the
+regulators to feel for developing and reconceptualization of existing FinTech
+regulation (CGAP, 2018; Armour, 2016). The big data approach is to be used for
+regulating the new FinTech organizations and new generation of RegTech
+organizations are needed for the online reporting and streamlining and providing the
+software for regulation (Treleaven, 2015; Shahnawaz, 2019). The externalities can
+be considered as a consequence of failure of financial market and it should be
+conceptualized to responsibility failure. This reconceptualization will make the
+government and regulating bodies to make a law that will consider this cost as
+internal cost (Schwarcz 2013; Rabbani 2020a).
+The regulatory regime needs to be principle-based regulation to make a balance
+between the stability and access to the financial services provided by FinTech
+organizations (Tsai, 2016). It is very difficult to bring a uniform law which brings all
+of them under one umbrella because of the decentralized nature of the financial
+services provided by the FinTech organizations (Peter, 2015). Disruptive innovation
+has the potential to bring positive changes in the life of the people and it can be
+achieved if we have more relaxed, liberal and principal-based approach in regulating
+the Fintech organization (Anagnostopoulos, 2018).
+Regulating the Islamic Fintech is a challenge, the industry has already made a target
+for the standardizing and developing the Islamic FinTech regulation (Natoor, 2019).
+As the rapid growth of fintech and Islamic FinTech continues, it provides both
+opportunities and threat to the policymakers and regulators. The policymakers and
+regulators must take into account the adoption ad acceptance of Islamic FinTech by
+making the proper balance between the benefit it brings as well as the threat it poses
+in terms of increased risk (Miskam, 2018; Rabbani, 2020b) as the sharia-based
+contracts are more complex than the conventional finance contracts. In fact, the
+
+M.R. Rabbani, S. Khan, E.I. Thalassinos
+71
+
+emergence and adoption of FinTech by the Islamic financial institutions is the
+solution to the regulatory challenges they were facing before. It will bring more
+transparency and FinTech regulators can benefit from the innovations (Finnovasia,
+2017). The players in the mega FinTech world constitute of banks, newly startups
+and FinTech companies. In most of the countries, the regulatory framework is still
+evolving and is in conflict with some of the existing regulations. The Islamic
+FinTech can benefit from all these by bringing more acceptable ways of regulation
+to stakeholders (Gassner and Lawrence, 2018; Financial Market Authority, 2017).
+The success of Innovation in the FinTech industry lies with the transparent and clear
+regulation and with the introduction of new startups, banks, and financial innovation
+companies, the need for the formal regulation of the Fintech companies have
+increased (Alam et al., 2019b; MacDonagh, 2016). New and innovative technologies
+are to be encouraged as they benefit the consumer at large and RegTech applies to
+all these organizations to overcome their regulatory challenges (FCA, 2019).
+Rapidly growing Fintech provides a challenge to financial regulators who are
+already facing the challenge of regulating the financial institutions after the financial
+crisis. ‘Regulatory Sandboxes’ aims to encourage the innovations and test their
+innovations in the safe environment (Bromberg, 2017; Godwin 2017).
+In another study related to Fintech in the European Union (EU) countries (Bajakic,
+2019; Fetai, 2015; Thalassinos and Thalassinos, 2018) reveals that EU provides the
+platform to FinTech companies to promote innovation in the area of financial
+services while safeguarding the interest of the consumers and investors. The goal of
+EU is to empower all these companies to provide tech enabled technologies such as
+Big data (Shahnawaz, 2019), Artificial Intelligence (AI), blockchain and
+cryptocurrency. Promoting and encouraging the innovation is more than just
+regulating these organizations (Bijakic, 2019). Islamic fund management is
+embracing technology, and this is a disruption and it creates a kind of new concern
+for the regulators and provides the opportunities. AI has become synonyms to the
+Islamic fund management (Miskam, 2019). The following Table 2 summarizes the
+opportunities and threats for Islamic Fintech.
+Table 2. Regulations and Islamic Fintech
+Regulation as an opportunity for
+boosting Islamic FinTech
+The externalities can be considered because
+of the failure of financial market and it
+should be conceptualized to responsibility
+failure.
+The government and regulating bodies to
+make a law that will consider the cost of
+regulations as an internal cost.
+The regulation should be relaxed, liberal
+and principal-based approach in regulating
+the Fintech organization.
+
+Regulation as a threat for Islamic
+FinTech
+The financial regulators who are already
+facing the challenge of regulating the
+financial institutions after the financial
+crisis
+The regulation brings balance between the
+benefit it brings as well as the threat it poses
+in terms of increased risk
+The regulatory framework is still evolving
+and conflict with some of the existing
+regulations.
+
+FinTech, Blockchain and Islamic Finance: An Extensive Literature Review
+72
+
+4. Blockchain and Islamic Finance
+Blockchain technology has gained a lot of attention and has attracted worldwide
+interest from a variety of stakeholders. Blockchain and artificial intelligence is the
+new trend for Fintech innovations. Artificial Intelligence use a variety of approaches
+such as artificial neural network (Khan, 2011; Shahnawaz, 2011), rule-based
+approach (Shahnawaz, 2013a), statistical approach (Shahnawaz, 2013b), case-based
+reasoning (Shahnawaz, 2015) and many more and has been used in wide range of
+applications such as sentiment analysis (Shahnawaz, 2017), machine translation
+(Khan, 2018), image processing, self-deriving automobiles, chatbot (Khan, 2020)
+etc. Blockchain technology has several evident advantages because of its nature and
+the underlying technological structure. Blockchain is a collection of linked blocks on
+a peer to peer network where blocks are connected using cryptographic hash code
+because of which there is no single point of failure. As even if a few nodes fail in the
+peer to peer network, other nodes will continue to work which makes blockchain
+more reliable to operate and maintain. Second vital feature of the blockchain is that
+it is digital technology which enables it to be applied in a variety of applications.
+Another crucial feature of blockchain is the transparency, blockchain transactions
+are traceable and visible to all the users of the blockchain. Immutability is another
+key feature of the blockchain. It is almost impossible to make any changes to the
+transactions on blockchain or to the blockchain. However, some very rare cases have
+been found for blockchain changes. Many theorists have been predicting that the
+financial services will be disrupted using blockchain technology in the coming
+future.
+Blockchain is an expanding list of blocks. Each block contains transaction data, a
+timestamp and a cryptographic hash code of the previous block (Nakamoto, 2008).
+The key interesting feature of the blockchain is its resistance to data modification
+and trackable transactions. Therefore, blockchain, if used fairly, can be a boon to the
+Islamic banking and finance for providing trackable transactions and transparency. It
+can boost the trust in Islamic financial dealings, transfers and transactions (AbuBakar, 2018).
+A Fintech study in Islamic banking discusses one of the major issues which is to find
+out if the agent is working in the best interest of the stakeholders. This research
+proposes a blockchain based monitoring process for transparency of the form and
+degree of accountability of the Islamic Bank (agent). Though, smart contracts still
+have neither been accepted legally nor have been regulated by the government in
+majority of the countries around the globe where Islamic Banking is available.
+However, this study advocates the use of blockchain and smart contract in the agent
+monitoring process so that all the key stakeholders (Sharia Supervisory Boards,
+contributors, governmental regulators and beneficiaries) in Islamic banking can have
+transparency in all the agent dealing (Lacasse, 2018). If we ignore the fact of the
+
+M.R. Rabbani, S. Khan, E.I. Thalassinos
+73
+
+legality, blockchain based monitoring process can be useful tool in Islamic Fintech
+(Lacasse, 2018). Smart contract transactions can create a record of ownership and
+assets and these transactions are immutable and trackable. As per Lawrence (2017),
+the use of smart contracts as replacement of the financial contracts and services cost
+can be minimized by up to 95% and Islamic Banking can be revolutionized. One
+aspect of the Islamic Finance and Banking is to contribute to the social causes.
+Contributors usually mandate Islamic Finance and Banking agents for this task and
+give them the decree for transferring contributions according to Shariah for the
+social causes on their behalf. There is an assumption related to agency theory that
+Finance and Banking agents seek to maximize their compensation and welfare.
+However, smart contracts can be a useful mechanism in all financial transactions and
+the monitoring and regulation process can be reduced to mere writing a smart
+contract (Lacasse, 2017).
+A research study considers Blockchain management system (BMS) as an accounting
+system (Evans, 2015). Blockchain based systems like Bitcoin can be used as a
+reliable solution for various types of transactions. In Bitcoin, peer to peer network
+nodes verifies the transactions. The transactions are recorded in a distributed public
+network and linked using cryptography. The application of blockchain in the
+financial sector is observing new avenues in various domains every day. One of
+such application is in the domain of crowdfunding, a research by Muneeza (2018)
+discuss the application of blockchain in crowdfunding. Research suggests that the
+use of blockchain technology in crowdfunding can diminish the issues faced on
+crowdfunding platforms based on six crowdfunding platforms (Muneeza, 2018).
+Fundraisers can use smart contracts or issue their own shares providing a guarantee
+to return pledge contributions in case funding targets are not met. This type of
+guarantee will help the initiators of the projects and as well as crowdfunding
+shareholders in securing their rights at a minimal cost (Zhu and Zhou, 2016). Some
+of the challenges in traditional banking are multiple intermediate, a central fund
+management party, high transactions cost, centralized database management and
+double payments etc. However, the use of the blockchain based crowdfunding
+system can overcome these challenges. Along with these, a blockchain based
+crowdfunding system can add new functionalities such as a blockchain based voting
+system can include shareholders and crowd in corporate governance, smart contracts
+can be used to detect fundraising frauds (Niforos et al., 2017; Zhu and Zho, 2016),
+identity management system to avoid identity theft (Niforos et al., 2017) and use of
+digital currency can eliminate central intermediary (Biancone, 2019; Collins and
+Baeck, 2015).
+Blockchain technology can be used to streamline the financial transactions. Some
+estimates have suggested that blockchain technology can help the financial
+institutions to save at least $20 billion in cross border payment, regulatory, and
+settlement costs (Fanning, 2016). Saadiqin is a Shariah compliant industrial financial
+solution and claims 80% reduction in outstanding issues, 50% reduction of your
+
+FinTech, Blockchain and Islamic Finance: An Extensive Literature Review
+74
+
+close-of-business times and 99% efficiency in operation (Saadiqin, 2020). Although,
+integrating blockchain with existing financial solutions is not a simple task. Efforts
+have been made in the direction of integrating existing digital solutions with
+blockchain with the help of third-party software (Alidin, 2018). It can give a new
+direction in the use of blockchain for Islamic finance and Shariah compliant
+financial services. The following Table 3 outlines the major issues of Islamic
+Finance and advantages and some applications of using Blockchain in Islamic
+Fintech.
+Table 3. Major issues of Islamic Finance and advantages and some applications of
+using Blockchain in Islamic Fintech
+Advantages
+No single point of failure.
+It can easily detect frauds.
+Blockchain transactions are transparent and are traceable and visible to all the users of the
+blockchain.
+It is almost impossible to make any changes to the transactions on blockchain or to the
+blockchain.
+Smart contracts can be a useful mechanism in all financial transactions and the monitoring
+and regulation process can be reduced to mere writing a smart contract.
+Financial contracts and services cost can be minimized by up to 95%.
+Applications
+Blockchain management system (BMS) as an accounting system.
+Domain of crowdfunding etc.
+Issues in Islamic Finance
+Major issues which is to find out if the agent is working in the best interest of the
+stakeholders.
+Agents seeks to maximize their compensation and welfare.
+
+5. Cryptocurrency, Bitcoin and Islamic Finance
+Cryptocurrency is the electronic cash which can be used in place of the fiat money as
+a medium of exchange. It uses blockchain technology which provides basis for
+secure, trackable and immutable financial transactions. The creation of additional
+units is also controlled with the help of blockchain (Andy, 2011; Polansek, 2016).
+Cryptocurrency systems do not have a central control system unlike the traditional
+central banking systems and digital currency like Amazon cash etc., (Allison, 2015).
+One major issue every digital cash payment network has is double spending. Double
+spending means that the same amount has been spent twice by the same entity. In
+digital cash payment network, a central server keeps the balance record to stop
+double spending. In cryptocurrency systems, there is no centralized system, it is a
+decentralized network, therefore, the network keeps the history and list of all the
+transactions and any transactions has to be approved by the peers which eliminates
+the case of double spending (Ameer, 2018).
+
+M.R. Rabbani, S. Khan, E.I. Thalassinos
+75
+
+The cryptocurrency capitalization has direct causal relationship with the bank
+deposits. As the investment in cryptocurrency increases the deposit in the bank
+account decreases. In order to remove this threat, the only option left with the bank
+is to offer cryptocurrency as an alternative investment offer to investors. The banks
+are forced to embrace the cryptocurrency as the alternative investment in portfolio
+diversification or they can adopt the Blockchain option to provide their customer a
+low cost and highly secured and ease of use investment (Othman, 2019). Bitcoin is a
+fairly new currency and its risks are unknown and most of the experts are of the
+opinion that the use of bitcoin is to be avoided (Folkinshteyn, Lennon and Reilly
+2015). Virtual currency is unlike real currency and brings a lot of risk for the users
+and it also poses a threat to the real economy (Zahudi, 2016). Despite of the fact that
+bitcoin is one of the hottest properties, it has not received much attention from the
+scholar community. Whatever little researches has been done, it is done either on
+regulatory framework or on the technical aspect of the bitcoin. There is a lack of
+research to examine bitcoin from currency perspective. Bitcoin must be promoted or
+introduced as a complement to the fiat currency than the substitute to the fiat
+currency (Carrick, 2016).
+Muslim scholars have mixed views over sharia compliance of cryptocurrencies.
+Some famous scholars like grand Mufti of Egypt Shaikh Shaki Alam, has out rightly
+rejected the cryptocurrency on the ground that it violates the basic principles of
+Islam that is declared haram. To be declared it halal, it must be complying with the
+Maqasid al sharia. Those scholars or Mufties who are declaring Cryptocurrency as
+haram have not understood the working of the term itself. There are more than 2800
+cryptocurrencies and all of them are not currencies, they can be called as crypto
+assets. The coin is not the only type of crypto assets. The crypto assets do not fulfill
+the criteria of store of value, unit of account and medium of exchange to be called as
+a currency (Yakubowski, 2019). Bitcoin cannot be accepted by the sharia scholar as
+it provides the transactions which are prohibited by sharia.
+There is an element of gharar in the bitcoin transaction as real value of currency is
+not known, prices are highly volatile, also there is variance in store of value and
+method of value. Because the fundamental principles of finance say that the gharar is
+against the sharia and it is haram (Abu Bakar, 2017), gharar is defined as the
+uncertainty, deception and risk. It is an Arabic word which is used for selling
+something which is yet to exist (Ahmad, 2008; Cattelan, 2009). In another study on
+Bitcoin and cryptocurrency it was concluded that since bitcoin lacks intrinsic value
+and has zero supervision of the central bank it can easily be misused. It also violates
+the basic principle of Islamic economics i.e., social justice, because of these reasons
+the bitcoin is considered as against sharia and should be prohibited (Meera, 2018).
+However, according to some researchers, Bitcoin cryptocurrency is a Nobel idea in
+the society with ever popularity and demand for it. There is no proper evidence that
+the bitcoin violates the sharia principles. The record increasing price of bitcoin (20k
+USD on Dec. 12, 2018) does not mean that it is against the sharia principles. It only
+
+FinTech, Blockchain and Islamic Finance: An Extensive Literature Review
+76
+
+means the growing popularity and faith of the people in the bitcoin and
+cryptocurrency (Oziev, 2018). Bitcoin can be discussed in two unique ways like
+maslaha (benefits to the society) and risk sharing rather than the risk shifting. If talk
+about the maslaha there are millions of muslim adults with just mobile phone and
+internet connection are getting benefit from it and with regarding to risk sharing
+bitcoin works on the principles of Musharakah where two or more persons come
+together in doing a business and shares the risk. As in case of Bitcoin there is a large
+pool of people, so risk is minimized (Evans, 2015). With the massive popularity of
+cryptocurrency like Bitcoin, the talks are going on whether Central Banks should
+issue their own digital currency named as Central Bank Digital Currency (CBDC).
+With Central Banks issuing their own digital currency will provide the individuals
+an opportunity to open an account directly with the Central Bank and transact as
+legal tender (Ahmat, 2017). According to a report published in Stellar blogspot,
+‘Stellar’ has already become the first sharia certified distributed ledger protocol. The
+sharia supervisory board from Bahrain has given certification and asked the financial
+institutions to deploy the Stellar technology in Islamic financial institutions
+(Alexandre, 2018). Cryptocurrency have presence of both haram and halal elements.
+While declaring the cryptocurrency haram or halal it must be checked on transaction
+to transaction basis. It is very difficult to say that the cryptocurrency is haram as a
+whole (Asif, 2018). There is scope to develop the digital currency compatible with
+Islam using Blockchain technology. If we are able to develop a digital currency
+which is as per the ethos and principle of sharia, it will be a great revolution in the
+field of finance and technological advancement (Alzubaidi and Abdullah, 2017).
+Blockchain and cryptocurrency are a financial innovation and it can bring positive
+changes in the lives of the Muslim community, scholars should review their decision
+about declaring it haram (Abojeib, 2019).
+There is a need to develop a new strategy for all section of society including,
+consumer, government, financial institution and investors to cope and understand
+this digital revolution. More insightful information is needed for understanding the
+concept of Blockchain and cryptocurrency itself (Mohamed, 2018). For a sharia
+scholar, it should be an ultimate objective to find ways to give benefits to all the
+interested Muslim community through this financial revolution. Because digital
+currency can take the shape of various sustainable and diversifiable projects. The
+investment in cryptocurrency can not only give them profit but can also change their
+lives for good (Noordin, 2018). The area of developing an Islamic digital currency
+using the blockchain technology has also been investigated by some scholars
+(Alzubaidi, 2017).
+A significant number of cryptocurrencies is in operation in the present time. These
+cryptocurrencies can be of various types and may use different types of algorithms.
+However, for the sustainability of the cryptocurrency, it should observe all legal
+requirements, as of now, there is no operational procedure or standard system which
+
+M.R. Rabbani, S. Khan, E.I. Thalassinos
+77
+
+can verify compliance with legal requirements. This is a negative aspect of
+cryptocurrency in the market which says that since there is no supervision, people
+will lose the money. For any cryptocurrency, to be a sustainable cryptocurrency, it
+should follow and sustain all legal requirements (Billah, 2019). The research by
+Ibrahim (2017) has concluded that developing an Islamic digital currency is feasible.
+6. Cryptocurrency and its Legality as per Sharia
+Islamic scholars have mixed perspective in regard to cryptocurrency, some scholars
+consider it permissible (halal) and some scholars consider it impermissible (haram).
+The views, which keep cryptocurrency into the category of permissible, state its
+principle and nature (Al-hussaini, 2019). There is clearly an inadequacy of Islamic
+laws for cryptocurrency use in any form of transactions and there is a need of a
+model and system for Islamic digital currency. There are views behind keeping
+cryptocurrency into the category of impermissible such as violation of the
+governmental constitution, uncertainties in the cryptocurrency implementation as
+revealed in many fatwas and stated by many researchers. Another reason for
+considering cryptocurrencies as impermissible is the uncertainty of its value because
+the value of cryptocurrency can fluctuate because of variety of reasons such as a
+system hack or a technical glitch etc., (Al-hussaini, 2019).
+There are several known issues with paper-based currencies such as forgery,
+unlimited supply, inflation and government abuse etc. If we consider these issues,
+these are not in compliance with Shariah law as used in Islamic finance and banking
+which implies that paper-based currency is not an ideal medium of exchange. On the
+other hand, cryptocurrencies are more reliable, transparent, decentralized, limited in
+supply and highly unlikely to be hacked (forgery and abuse) (Siswantoro, 2020;
+Amri, 2019). Some researchers have a view related to the connectivity to the world
+economy, some countries are not connected to the world economy, blockchain
+technology and cryptocurrencies can bridge this gap and provide them the power
+over their own wealth and security of their wealth without relying on a central
+agency (Fait Muedini, 2018). However, because of digital divide many people
+around the world do not have access to the internet which means many people
+around the world won’t have access to money or medium of exchange.
+A research by Oziev (2017) on Shariah perspective of cryptocurrency suggests that
+cryptocurrency like Bitcoin can be considered permissible in certain scenarios such
+as in the case of currency exchange or for the making the payments for services or
+goods. However, because of the high instability in the exchange value of
+cryptocurrencies, it is not permissible to acquire them for the purpose of
+accumulation or for investment. According to Oziev (2017), the way of acquiring the
+cryptocurrency is also an important aspect in the deciding the permissibility or
+impermissibility, if the cryptocurrency has been acquired for the purpose of the
+settlement of payments for goods or services then it is permissible, however, if the
+cryptocurrency has been mined for saving and the miner has the intention that it will
+
+FinTech, Blockchain and Islamic Finance: An Extensive Literature Review
+78
+
+give high return in future, then it is nothing but speculation (maysir) and excessive
+risk (garar) and is impermissible. Alam et al. (2019c) discusses that a cryptocurrency
+can be permissible and even supported by government if it can overcome the
+negative aspect of it. For example, if a cryptocurrency can provide some certainty in
+the stability of exchange value, protection or surety from abuse of the
+cryptocurrency such as usage in fraudulent activities and operation under Shariah
+and Financial regulation, then it can be accepted as Islamic cryptocurrency.
+In some of the major economies of the world such as China and Russia,
+cryptocurrencies are banned because of the risk and safety reasons (Siswantoro,
+2020). In Islamic countries, the cryptocurrencies face another challenge which is
+their compliances with the Shariah law. Islamic countries such as Pakistan, Algeria,
+Egypt, Morocco have banned cryptocurrencies partially and, in some countries,
+completely. The reasons behind complete or partial ban of the cryptocurrency is its
+compliance with the Shariah law and Islamic teachings on which different scholars
+have different views. However, an important factor in permissibility or
+impermissibility of the cryptocurrency is the purpose of acquiring it. If the purpose
+of acquiring is to gain the profit then it is impermissible to own it according to
+majority of the scholars and if the motives behind acquiring the cryptocurrency is
+just to use as a medium of exchange then majority of the scholars keep it in the
+permissible category. The following Table 4 sum up the permissibility and
+impermissibility factors for Cryptocurrency as per Shariah.
+Table 4. Permissibility and Impermissibility factors for Cryptocurrency as per
+Shariah
+Impermissible
+
+Permissible
+
+Impermissible due to violation of the
+governmental constitution, uncertainties in
+the cryptocurrency implementation.
+
+Cryptocurrency
+can
+be
+considered
+permissible based on its principle and nature
+
+Not permissible to acquire them for the
+purpose of accumulation or for investment.
+
+Permissible in certain scenarios such as in
+case of currency exchange or for the making
+the payments for services or goods
+
+7. Concluding Remarks
+This study conducts a comprehensive review of the various factors of the use of
+Financial Technologies such as Blockchain, Cryptocurrencies in Islamic Finance.
+Any innovation is welcome is Islam as long as it does not violate basic teachings of
+the Quran and Sunnah. The prospect for Islamic Fintech is really bright in Islamic
+world and among the Muslim users of financial services as it provides opportunities
+for innovation and can provide financial services at affordable cost.
+The use of FinTech in Islamic Finance or Islamic FinTech poses lot of challenges as
+well as it explores numerous opportunities. Islamic FinTech can give a boost to
+
+M.R. Rabbani, S. Khan, E.I. Thalassinos
+79
+
+startups as it is transparent, accessible and easy to use and can gain customer
+confidence with an ease which is very important for the startups. FinTech solutions
+are more cost-effective in providing the financial services as compare to traditional
+finance and banking. Islamic FinTech will emerge as a lifeline for the Islamic
+Finance and Banking institution because of its cost effectiveness and the reach to the
+communities. Islamic FinTech can easily gain the confidence of Muslim
+communities as well as the non-muslim communities primarily because of its
+transparency. However, along with the great opportunities comes great challenges as
+well, such as there is a lack good and authentic research in Islamic FinTech, lack of
+trained human personnel, government and Shariah compliance trade-offs, cyberattacks and the confidence of the investors as Islamic FinTech is still in its infancy.
+Regulatory framework is another important area for Islamic FinTech which has to be
+regularized and overcome its flaws. As Islamic FinTech is still in its inception, there
+are several regulatory challenges such as regulatory framework is still evolving and
+are in conflict with some of the existing regulations. The regulatory bodies should
+use relaxed, liberal and principal-based approaches in regulating the Fintech
+organization.
+As far as the Blockchain technology in Islamic FinTech is concerned, it gives a more
+secured and innovative way of doing business. The transactions under Blockchain
+are more transparent and visible to all the users. Also, Smart contracts can be a
+useful mechanism in all financial transactions and the monitoring and regulation
+process can be reduced to mere writing a smart contract. The Cryptocurrency has
+been a revelation and Muslim countries seriously needs to have to more research and
+must find ways to develop and a cryptocurrency fully compatible with the sharia
+principle. As of now no Muslim country allow cryptocurrency for legal transactions.
+References:
+Abojeib, M., Habib, F. 2019. Blockchain for Islamic Social Responsibility Institutions,
+FinTech as a Disruptive Technology for Financial Institutions. IGI Global, 221-240.
+Abu-Bakar, N., Sofian, R., Kiyotaka, U. 2017. Cryptocurrency Framework Diagnostics from
+Islamic Finance Perspective: A New Insight of Bitcoin System Transaction.
+International Journal of Management Science and Business Administration, 4(1),
+19-28.
+Abu-Bakar, M.M. 2018. Shariah Analysis of Bitcoin, Cryptocurrency and Blockchain.
+Ahmad, W.M.W., Marhaini, W. 2008. Some Issues of Gharar (Uncertainty) in Insurance.
+Essential Readings in Islamic Finance.
+Ahmat, N., Bashir, S. 2017. Central Bank Cryptocurrency: A Monetary Policy Perspective.
+Bank Negara Malaysia, September.
+Alam N., Gupta L., Zameni, A. 2019a. Fintech Regulation. In: Fintech and Islamic Finance,
+137-158. Palgrave Macmillan, Cham.
+Alam, N., Gupta, L., Zameni, A. 2019b. Challenges and Success Factors for Islamic Fintech.
+In Fintech and Islamic Finance, 159-173. Palgrave Macmillan, Cham.
+Alam, N., Gupta, L., Zameni, A. 2019c. Cryptocurrency and Islamic Finance. In Fintech and
+Islamic Finance, 99-118. Palgrave Macmillan, Cham.
+
+FinTech, Blockchain and Islamic Finance: An Extensive Literature Review
+80
+Alexandre, A. 2018. Stellar Becomes ‘First’ Shari’ah-Certified Blockchain for Payments and
+Asset Tokenization. In the Cointelegraph, the Future of Money, 18.
+Al-hussaini, A.I.S., Ibrahim, A.A., Fauzan, M. 2019. Users Perception of Cryptocurrency
+System Application from the Islamic Views.
+Alidin, A.A., Ali-Wosabi, A.A.A., Yusoff, Z. 2018. Overview of Blockchain Implementation
+on Islamic Finance: Saadiqin Experience. Cyber Resilience Conference (CRC),
+Putrajaya, Malaysia,1-2. doi: 10.1109/CR.2018.8626822.
+Allison, I. 2015. If Banks Want Benefits of Blockchains, they Must Go Permissionless.
+International Business Times.
+Alt, R., Beck, R., Smits, M.T. 2018. FinTech and the transformation of the financial industry.
+Electronic Markets, 28, 235-243. https://doi.org/10.1007/s12525-018-0310-9.
+Alzubaidi, I.B., Abdullah, A. 2017. Developing a Digital Currency from an Islamic
+Perspective: Case of Blockchain Technology. International Business Research, 10,
+1-9.
+Alzubaidi, I.B., Adam, A. 2017. Developing a Digital Currency from an Islamic Perspective:
+Case of Blockchain Technology. International Business Research, 10(11).
+Ameer, R. 2018. What Is Cryptocurrency: 21st-Century Unicorn – or the Money of the
+Future? Blockgeeks.
+Anagnostopoulos, Y. 2018. Fintech and Regtech: Impact on Regulators and Banks. Journal
+of Economics and Business, 100(10). Doi:1016/j.jeconbus.2018.07.003.
+Andy, G. 2011. Crypto Currency. Forbes. Retrieved 10 Feb 2020.
+Anikina, I.D., Gukova, V.A., Golodova, A.A., Chekalkina, A.A. 2016. Methodological
+Aspects of Prioritization of Financial Tools for Stimulation of Innovative Activities.
+Anil, S.K., Alistair, M. 2019. FinTech and the future of financial services: What are the
+research gaps? CAMA Working Papers, Centre for Applied Macroeconomic
+Analysis, Crawford School of Public Policy, the Australian National University.
+Arize, C.A., Andreopoulos-Campanelli, G., Kallianiotis, N.I., Malindretos, J. 2018. MNC
+Transactions Foreign Exchange Exposure: An Application. International Journal of
+Economics & Business Administration, 6(1), 54-60.
+Armour, J., Awrey, D., Davies, P., Enriques, L., Gordon, J.N., Mayer, C., Payne, J. 2016.
+Principles of Financial Regulation, Oxford, UK: Oxford University Press.
+Arner, D.W., Barberis, J.N., Buckley, R.P. 2015. The Evolution of FinTech: A New PostCrisis Paradigm? University of Hong Kong, Faculty of Law Research Paper No.
+2015/047; UNSW Law Research Paper No. 2016–62.
+Arner, D.W., Barberis, J.N., Buckley, R.P. 2016. FinTech, RegTech and the
+Reconceptualization of Financial Regulation. Northwestern Journal of International
+Law & Business.
+Asif, S. 2018. The Halal and Haram Aspects of Digital Currencies in Islam,
+https://www.researchgate.net/publication/326398987_The_Halal_and_Haram_Aspe
+cts_of_DigitalCurrencies_in_Islam.
+Bajakić, I. 2019. Financial Integration of the New Member States–Case Study of EU’s
+Regulatory Initiative on Financial Technologies.
+doi.org/10.31410/EMAN.2019.331.
+Beik, I.S., Arsyianti, L.D. 2008. Why the rate of financing in Islamic Banks is high? An
+analysis based on the Malaysian case. Tazkia Islamic Finance and Business Review,
+3(1).
+Bettinger, A. 1972. Fintech: A series of 40-time shared models used at manufacturers
+Hanover trust company. Interfaces 62-63.
+Biancone, P.P., Secinaro, S., Kamal, M. 2019. Crowdfunding and Fintech: business model
+
+M.R. Rabbani, S. Khan, E.I. Thalassinos
+81
+sharia-compliant. European Journal of Islamic Finance, 12.
+Billah, M.M. 2019. Islamic Cryptocurrency. Islamic Financial Products, 413-434.
+Brian, Y. 2017. Fintech could be solution for regulatory challenges facing Shariah contracts.
+International Financial Law Review. Available at:
+https://search.proquest.com/openview/beff0318536ed68104ec4b7be68b10af/1?pqorigsite=gscholar&cbl=36341.
+Bromberg, L.E., Godwin, A.J., Ramsay, I. 2017. Fintech Sandboxes: Achieving a Balance
+between Regulation and Innovation. Journal of Banking and Finance Law and
+Practice, 28(4), 314-336.
+Carrick, J. 2016. Bitcoin as a Complement to Emerging Market Currencies. Emerging
+Markets Finance and Trade, 52(10), 2321-2334.
+Cattelan, V. 2009. From the concept of haqq to the prohibitions of ribā, gharar and maysir in
+Islamic finance. Int. J. Monetary Economics and Finance, Vol. 2, Nos. ¾.
+CGAP. 2018. RegTech and Digital Finance Supervision: A Leap into the Future. Available
+at: https://www.cgap.org/blog/regtech-and-digital-finance-supervision-leap-future.
+Chen, K. 2018. Financial Innovation and Technology Firms: A Smart New World with
+Machines. In Banking and Finance Issues in Emerging Markets, 279-292.
+Coates, R. 2015. Chinese Shadow Banking and the Rise of the Bank of Foxconn. Supply
+China Management Review.
+Collins, L., Baeck, P. 2015. Cryptocurrencies could bring cost-savings to crowdfunding and
+make it easier to hold small stakes in companies, UK: NESTA, available from:
+https://www.nesta.org.uk/blog/crowdfunding-and-cryptocurrencies/.
+Cooper, T. 2018. The Race to Become the World’s Leading Leading Islamic Fintech Hub –
+Raconteur. Racounter. At: https://www.raconteur.net/finance/race-become-worldsleading- leading-islamic-fintech-hub.
+Cristea, M., Thalassinos, I.E. 2016. Private Pension Plans: An Important Component of the
+Financial Market. International Journal of Economics and Business Administration
+4(1), 110-115. DOI: 10.35808/ijeba/95.
+Dapp, T.M. 2014. Fintech-The Digital ®evolution in the Financial Sector: Algorithm-based
+Banking with the Human Touch.
+Dorfleitner, G., Hornuf, L., Schmitt, M., Weber, M. 2017. Definition of FinTech and
+description of the FinTech industry. In FinTech in Germany, 5-10, Springer, Cham.
+Drasch, B., Schweizer, A., Urbach, N. 2018. Integrating the ‘Troublemakers’: A Taxonomy
+for Cooperation between Banks and Fintechs. Journal of Economics and Business.
+10.1016/j.jeconbus.2018.04.002.
+El Amri, M.C., Mohammed, M.O. 2019. The Analysis of Cryptocurrency Based on Maqasid
+al-Shari’ah. In Halal Cryptocurrency Management, 119-131. Palgrave Macmillan,
+Cham.
+Evans, C. 2015. Bitcoin in Islamic Banking and Finance. Journal of Islamic Banking and
+Finance, 3(1), 1-11.
+Fait, M. 2018. The Compatibility of Cryptocurrencies and Islamic Finance. European Journal
+of Islamic Finance, 10.
+Fanning, K., Centers, D.P. 2016. Blockchain and its Coming Impact on Financial Services.
+Journal of Corporate Accounting & Finance, 27(5), 53-57. doi:10.1002/jcaf.22179.
+FCA. 2019. RegTech Applies to New Technologies Developed to Help Overcome
+Regulatory Challenges in Financial Services. At:
+https://www.fca.org.uk/firms/regtech.
+Fetai, B. 2015. Financial Integration and Financial Development: Does Financial Integration
+Matter? European Research Studies Journal, 18(2), 97-106.
+
+FinTech, Blockchain and Islamic Finance: An Extensive Literature Review
+82
+Financial Market Authority. 2017. Regulatory Treatment of Initial Coin Offerings (ICOs).
+(Accessed on 10-Feb-2020) Available at:
+https://www.finma.ch/en/~/media/finma/dokumente/dokumentencenter/myfinma/4d
+okumentation/finma-aufsichtsmitteilungen/20170929-finma-aufsichtsmitteilung-042017.pdf
+FInnovasia. 2018. HongKong FInTech week 2017. Available at:
+https://fintechnews.hk/2990/various/hong-kong-fintech-week-2017-day-4highlights/.
+Firmansyah, E.A., Anwar, M. 2019. Islamic Financial Technology (Fintech): Its Challenges
+and Prospect. Advances in Social Science, Education and Humanities Research,
+216. Available at: https://www.researchgate.net/publication/330923829.
+Firmansyah, H.B., Ahmad, L.R. 2018. The Role of Islamic Financial Technology (FinTech )
+Start-up. In Improving Financial Inclusion in Indonesia Case. Angsur.
+Folkinshteyn, D., Lennon, M.M., Reilly, T. 2015. The Bitcoin mirage: An oasis of financial
+remittance. Journal of Strategic and International Studies, 10(2), 118-122.
+Gassner, M., Lawrence, J. 2018. Fintech in Islamic Finance: Theory and Practice. Taylor and
+Francis Group. USA.
+Gomber, P., Kauffman, R.J., Parker, C., Weber, B.W. 2018. On the Fintech revolution:
+interpreting the forces of innovation, disruption, and transformation in financial
+services. Journal of Management Information Systems, 35(1), 220-265.
+Gomber, P., Koch, J., Siering, M. 2017. Digital Finance and FinTech: current research and
+future research directions. Journal of Business Economics, 87, 537-580.
+Haddad, C., Hornuf, L. 2019. The emergence of the global fintech market: economic and
+technological determinants. Small Bus Econ 53, 81-105.
+Haqqi, A. 2018. Strengthening Islamic Finance in South East Asia through Innovation:
+Islamic Fintech in Brunei Darussalam.
+Hes, A., Jilkova, P. 2016. Position of Low-Cost Banks on the Financial Market in Czech
+Republic. European Research Studies Journal, 19(4), 42-52.
+Ibrahim, M.A., Fisol, W.N.M., Haji-Othman, Y. 2017. Customer intention on Islamic home
+financing products: an application of the theory of planned behavior (TPB).
+Mediterranean Journal of Social Sciences, 8(2), 77-86.
+IOSCO. 2017. IOSCO analyzes potential of tech-driven change in the securities market
+industry. Available at: https://www.iosco.org/news/pdf/IOSCONEWS451.pdf.
+Irfan, H., Ahmed, D. 2019. Fintech: The opportunity for Islamic finance. In Fintech in
+Islamic Finance. Theory and Practice, 19-30. Routledge.
+Jędrzejowska-Schiffauer, I., Schiffauer, P., Thalassinos, I.E. 2019. EU Regulatory Measures
+Following the Crisis: What Impact on Corporate Governance of Financial
+Institutions. European Research Studies Journal, 22(3), 432-456.
+Khan, S.N., Rabbani, M.R. 2020. Artificial Intelligence and NLP based Chatbot as Islamic
+Banking and Finance Expert. 2020 International Conference on Computational
+Linguistics and Natural Language Processing (CLNLP 2020), Seoul, South Korea
+on July 20-22.
+Khan, S.N., Usman, I. 2019. A model for English to Urdu and Hindi machine translation
+system using translation rules and artificial neural network. Int. Arab J. Inf.
+Technol., 16(1), 125-131.
+Khan, S.N., Mishra, R.B. 2011. Translation rules and ANN based model for English to Urdu
+machine translation. INFOCOMP, 10(3), 36-47.
+Khan, S.N., Mir, U., Shreem, S.S., Alamri, S. 2018. Translation Divergence Patterns
+
+M.R. Rabbani, S. Khan, E.I. Thalassinos
+83
+Handling in English to Urdu Machine Translation. International Journal on Artificial
+Intelligence Tools, 27(05), 1850017.
+Lacasse, R.M., Lambert, B., Khan, N. 2017. Blockchain technology-Arsenal for a Shariahcompliant financial ecosystem. Journal of Business and Economics.
+Lacasse, R.M., Lambert, B., Nida, K.H.A.N. 2018. Islamic Banking-Towards a Blockchain
+Monitoring Process. Revue de Gestion et d’Économie, 6(1&2), 33-46.
+Laldin, M.A. 2018. FinTech and Islamic Finance. IFN Islamic Finance News, 15, 67.
+Lee, I., Shin, Y.J. 2018. Fintech: Ecosystem, business models, investment decisions, and
+challenges. Business Horizons, 61(1), 35-46.
+Loo, R.V. 2018. Making innovation more competitive: The case of Fintech. UCLA Law
+Review, 65, 232.
+MacDonagh, M. 2016. Artificial Intelligence Set to Transform Regulatory Compliance.
+Banking Tech. Available at: https://www.bankingtech.com/2016/09/artificialintelligence-set-to-transform-regulatory-compliance/.
+Meera, A. 2018. Cryptocurrencies from Islamic Perspectives: The Case of Bitcoin. Buletin
+Ekonomi Moneter Dan Perbankan, 20(4), 475-492.
+Milian, E., Spinola, M., Carvalho, M. 2019. Fintechs: A Literature Review and Research
+Agenda. Electronic Commerce Research and Applications, 34, 100833.
+10.1016/j.elerap.2019.100833.
+Michalopoulos, G., Tsermenidis, K. 2018. Country Risk on the Bank Borrowing Cost
+Dispersion Within the Euro Area during the Financial and Debt Crises. International
+Journal of Economics and Business Administration, 6(4), 76-92.
+Miskam, S., Shahwahid, F.M., Sholehuddin, N.B. 2018. Catching the Fintech Wave in
+Islamic Finance: Regulatory Approach for Malaysia. 4th Muzakarah Fiqh &
+International Fiqh Conference (MFIFC 2018).
+Miskam, S., Yaacob, A., Rosman, R. 2019. Fintech and Its Impact on Islamic Fund
+Management in Malaysia: A Legal Viewpoint. Oseni, U., Hassan, M. and Hassan,
+R. (Ed.) Emerging Issues in Islamic Finance Law and Practice in Malaysia, Emerald
+Publishing Limited, 223-246. https://doi.org/10.1108/978-1-78973-545-120191019.
+Mohamed, H., Ali, H. 2018. Blockchain, Fintech, and Islamic Finance: Building the Future
+in the New Islamic Digital Economy: Walter de Gruyter GmbH & Co KG.
+Muneeza, A., Arshad, N.A., Arifin, A.T. 2018. The Application of Blockchain Technology in
+Crowdfunding: Towards Financial Inclusion via Technology. International Journal
+of Management and Applied Research, 5(2), 82-98.
+Nakamoto, S. 2008. Bitcoin: A Peer-to-Peer Electronic Cash System. bitcoin.org.
+Natoor, B. 2019. Islamic FinTech faces regulatory hurdles, Fitch Ratings says. Available at:
+https://ibsintelligence.com/ibs-journal/ibs-news/islamic-fintech-fitch/.
+Niforos, M., Ramachandran, V., Rehermann, T. 2017. Block Chain: Opportunities for Private
+Enterprises in Emerging Market. Washington, D.C., International Finance
+Corporation, available at
+https://openknowledge.worldbank.org/handle/10986/28962.
+Noordin, K.A. 2018. Islamic Finance: Is Cryptocurrency halal? The Edge, Malaysia.
+Othman, A., Alhabshi, S., Kassim, S., Sharofiddin, A. 2019. The impact of cryptocurrencies
+market development on banks’ deposits variability in the GCC region. Journal of
+Financial Economic Policy. At: https://doi.org/10.1108/JFEP-02-2019-0036.
+Oxford Dictionary. http://www.oxforddictionaries.com/it/definizione/inglese/fintech.
+Oziev, G., Yandiev, M. 2017. Cryptocurrency from Shari’ah Perspective. Available at
+SSRN: https://ssrn.com/abstract=3101981 or
+http://dx.doi.org/10.2139/ssrn.3101981.
+
+FinTech, Blockchain and Islamic Finance: An Extensive Literature Review
+84
+Oziev, G., Magomet, Y. 2018. Cryptocurrency from a Shari’ah Perspective. Al-Shajarah:
+Journal of the International Institute of Islamic Thought and Civilization (ISTAC)
+23(2), 315-338.
+https://journals.iium.edu.my/shajarah/index.php/shaj/article/view/748.
+Polansek, T. 2016. CME, ICE prepare pricing data that could boost bitcoin. Reuters.
+PWC. 2019. Pwc Global FinTech Survey 2019. Available on:
+https://www.pwc.com/gx/en/industries/financial-services/fintech-survey/blurredlines.html.
+Rabbani, M.R. 2020a. Financial Literacy Among the Private University Students in Kingdom
+of Bahrain. International Journal of Scientific and Technology Research, 9(3).
+Rabbani, M.R., Qadri, F.A., Ishfaq, M. 2016. Service Quality, Customer Satisfaction and
+Customer Loyalty: An Empirical Study on Banks in India. VFAST Transactions on
+Education and Social Sciences, 11(2), 1-9.
+Rabbani, M.R., Shahnawaz, A.J., Rahiman, H. 2020b. Analysis of Critical Barriers to
+Women Entrepreneurship in Bahrain: An Exploratory study. International Journal of
+Scientific and Technology Research, Vo. 9, Issue 3.
+Romanova, I., Kudinska, M. 2017. Banking & Fintech: A Challenge or Opportunity.
+Contemporary Studies in Economic and Financial Analysis, 21-35.
+Rupeika-Apoga, R., Zaidi, H.S., Thalassinos, E.Y., Thalassinos, I.E. 2018. Bank Stability:
+The Case of Nordic and Non-Nordic Banks in Latvia. International Journal of
+Economics and Business Administration, 6(2), 39-55, DOI: 10.35808/ijeba/156.
+Rusydiana, S.A. 2018. Developing Islamic Financial Technology in Indonesia. Hasanuddin
+Economics and Business Review, Vol. 2, No. 2, 143-152.
+Saad, M.A., Fisol, W.N., Bin, M. 2019. Financial Technology (Fintech) Services in Islamic
+Financial Institutions. In International Postgraduate Conference 1–10.
+Saadiqin. 2020. http://www.saadiqin.com/.
+Saba, I., Rehana, K., Imran, S.C. 2019. FinTech and Islamic Finance-Challenges and
+Opportunities. Review of Economics and Development Studies, Volume 5, No. 4.
+Saksonova, S., Kuzmina-Merlino, I. 2017. Fintech as Financial Innovation-The Possibilities
+and Problems of Implementation. European Research Studies Journal, 20(3A), 961973.
+Sangwan, V.H., Prakash, P., Singh, S. 2019. Financial technology: a review of extant
+literature. Studies in Economics and Finance. https://doi.org/10.1108/SEF-07-20190270.
+Sanicola, L. 2019. What is FinTech? Huffington Post. Available online:
+https://www.huffpost.com/entry/what-isfintech_b_58a20d80e4b0cd37efcfebaa.
+Satyawati, I., Suroso, S., Suryanto, T., Nurjannah, S.D. 2017. Does Financial Performance of
+Islamic Banking is better? Panel Data Estimation. European Research Studies
+Journal, 20(2A), 592-606.
+Schindler, J. 2017. FinTech and Financial Innovation: Drivers and Depth. Finance and
+Economics Discussion Series. Doi: 10.17016/FEDS.2017.081.
+Schueffel, P. 2016. Taming the beast: A scientific definition of fintech. Journal of Innovation
+Management, 4, 32-54. doi: 10.24840/2183-0606_004.004_0004.
+Schwarcz, S.L. 2013. Regulating Shadows: Financial Regulation and Responsibility Failure.
+Lee Law Review, 1781-1825.
+Shahnawaz, Thirunavukkarasu, K. 2019. Indexing Issues in Spatial Big Data Management.
+International Conference on Advances in Engineering Science Management &
+Technology. Uttaranchal University, Dehradun, India, 14th - 15th March.
+Shahnawaz, Astya, P. 2017. Sentiment analysis: Approaches and open issues. International
+
+M.R. Rabbani, S. Khan, E.I. Thalassinos
+85
+Conference on Computing, Communication and Automation (ICCCA).
+doi:10.1109/ccaa.2017.8229791
+Shahnawaz, Mishra, R.B. 2013a. Rule-based approach for handling of case markers in
+English to Urdu/Hindi translation. International Journal of Knowledge Engineering
+and Soft Data Paradigms, 4(2), 138-165. Inderscience Publishers,
+DOI:10.1504/IJKESDP.2013.058128
+Shahnawaz, Mishra, R.B. 2013b. Statistical machine translation system for English to Urdu.
+International Journal of Advanced Intelligence Paradigms, 5(3), 182-203.
+Inderscience Publishers, DOI: 10.1504/IJAIP.2013.056421
+Shahnawaz, Mishra, R.B. 2015. An English to Urdu translation model based on CBR, ANN
+and translation rules. International Journal of Advanced Intelligence Paradigms,
+7(1), 1-23.
+Shahnawaz, M.R. 2011. ANN and rule-based model for English to Urdu-Hindi machine
+translation system. In Proceedings of National Conference on Artificial Intelligence
+and agents: Theory& Application, AIAIATA 2011, 115-121.
+Siswantoro, D., Handika, R., Mita, A.F. 2020. The requirements of cryptocurrency for
+money, an Islamic view. Heliyon, 6(1), e03235.
+Skan, J., Lumb, R., Masood, S., Conway, S.K. 2014. The boom in global Fintech investment:
+A new growth opportunity for London. Retrieved from
+https://www.cbinsights.com/research-reports/Boom-in-Global-FinTechInvestment.pdf.
+Thalassinos, I.E., Thalassinos, Y. 2018. Financial Crises and e-Commerce: How Are They
+Related. Available at SSRN: https://ssrn.com/abstract=3330169.
+Thalassinos, I.E., Pintea, M., Raţiu, I.P. 2015a. The Recent Financial Crisis and Its Impact on
+the Performance Indicators of Selected Countries during the Crisis Period: A Reply.
+International Journal of Economics and Business Administration, 3(1), 3-20.
+Thalassinos, I.E., Stamatopoulos, D.T. and Thalassinos, E.P. 2015b. The European Sovereign
+Debt Crisis and the Role of Credit Swaps. Chapter book in The WSPC Handbook
+of Futures Markets (eds) W. T. Ziemba and A.G. Malliaris, in memory of Late
+Milton Miller (Nobel 1990), 605-639. DOI: 10.1142/9789814566926_0020.
+Thalassinos, I.E., Liapis, K. and Thalassinos, E.J. 2014. The role of the rating companies in
+the recent financial crisis in the Balkan and black sea area. Chapter book in
+Economic Crisis in Europe and the Balkans, 79-115, Contributions to Economics,
+Springer International Publishing, DOI: 10.1007/978-3-319-00494-5_6.
+Thalassinos, I.E., Deceanu, L., Pintea, M. 2010. New Dimensions of Country Risk in the
+Context of the Current Crisis: A Case Study for Romania and Greece. European
+Research Studies Journal, 13(3), 225-236.
+Thalassinos, I.E. 2008. Trends and Developments in the European Financial Sector.
+European Financial and Accounting Journal, 3(3), 44-61.
+Thalassinos, I,E., Thalassinos, E.P. 2006. Stock Markets' Integration Analysis. European
+Research Studies Journal, 9(3-4), 3-14.
+Tornjanski, V., Marinković, S., Săvoiu, G., Čudanov, M. 2015. A Need for Research Focus
+Shift: Banking Industry in the Age of Digital Disruption. Econophysics,
+Sociophysics & other Multidisciplinary Sciences Journal, 5(3), 11-15.
+Treleaven, P. 2015. Financial Regulation of Fintech. Journal of Financial Perspectives, 3(3).
+Tsai, C.H., Peng, K.J. 2017. The FinTech Revolution and Financial Regulation: The Case of
+Online Supply-Chain Financing. Published online by Cambridge University Press.
+Tsai, Chang-Hsien. 2016. Legal Transplantation or Legal Innovation? Equity Crowdfunding
+
+FinTech, Blockchain and Islamic Finance: An Extensive Literature Review
+86
+Regulation in Taiwan after Title III of the U.S. Jobs Act. Boston University
+International Law Journal 233-277.
+Wijayanti, D.M., Pradipta, H. 2017. Sharia FinTech: Positive Innovation in Consumer
+Perspective. Paper presented at the International Seminar Academic Network on
+Competition Policy, Bali.
+Wintermeyer, L. 2017. The Future of Islamic FinTech is Bright.
+https://www.forbes.com/sites/lawrencewintermeyer/2017/12/08/the-future-ofislamic-fintech-is-bright/#684952e465fa.
+Wintermeyer, L., Abdul, Haseeb Basit. 2017. The Future of Islamic FinTech Is Bright.
+Forbes. https://www.forbes.com/sites/lawrencewintermeyer/2017/12/08/the-futureof-islamic-fintech-is-bright/#47e1b19a65fa.
+Wonglimpiyarat, J. 2017. FinTech banking industry: a systemic approach. Foresight, Vol. 19,
+No. 6, 590-603. https://doi.org/10.1108/FS-07-2017-0026.
+Yakubowski, M. 2019. Could Crypto be Compliant with Sharia Law? Avaialble at
+https://cointelegraph.com/news/could-crypto-be-compliant-with-sharia-law-expertsanswer.
+Zahudi, Z.M., Amir, R.A.T.R. 2016. Regulation of Virtual Currencies: Mitigating the Risks
+and Challenges Involved. Journal of Islamic Finance, 5(1), 63-73.
+Zhu, Z., Zhou, Z.Z. 2016. Analysis and outlook of applications of blockchain technology to
+equity crowdfunding in China. Financial Innovation, Vol. 2, No. 1, 29-36.
+
+

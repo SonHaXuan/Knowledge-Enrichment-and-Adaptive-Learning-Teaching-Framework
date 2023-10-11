@@ -1,0 +1,913 @@
+Economics & Education 2021 06(02) August
+
+GLOBALIZATION
+
+Viktor Boiko
+
+Department of International Finance
+Kyiv National Economic University named after Vadym Hetman, Kyiv, Ukraine
+E-mail: viktorboiko@kneu.edu.ua
+ORCID: https://orcid.org/0000-0002-2810-7788
+
+Central banks digital currencies and prospects
+for the Ukrainian economy
+Abstract
+The article is devoted to the study of the main directions of research on the introduction of digital money of
+the world's leading central banks. The paper analyze the experience of the central banks of Saudi Arabia and
+the United Arab Emirates in implementing a single digital dual-issue currency and cross-border payment
+system (Aber project). Also we found the Helvetia project, a joint experiment of the BIS Innovation Hub, SIX
+Group AG and the Swiss National Bank. The project provided issuance of a new wholesale digital currency by
+the central bank and can be classified as a private permissioned peer-to-peer network with hierarchical access
+to the ledger. Interesting for our study was the experience of creating a CBDC in Uruguay (E-Peso), where
+CBDC have been issued in form of unique digital banknotes of several denominations. The article considers
+the main prospects for the implementation of CBDC in Ukraine. The paper studies the use and legal status
+of electronic digital signatures in Ukraine. Today, only reporting to regulatory authorities and document
+flow between users is carried out using electronic digital signatures. CBDC and blockchain network can
+provide secure storage of information by data centers of regulatory authorities and a common operational
+space in the financial information channels. The blockchain network should be token-based, and service
+providers could use an account-based retail payment system. The article defines the main characteristics of
+token-based and account-based distributed ledgers. Attention is also paid to the anonymity of transactions
+in payment systems, protection of personal data and the cultural component of cash circulation. Most
+likely the introduction of CBDC will reduce the total amount of bank financing and banks need to consider
+how to respond to potential loss of deposit funding. The most likely changes associated with CBDC is the
+redistribution of profits that banks receive from cheap liabilities in favor of customers. This applies to the
+owners of operating accounts, on which banks usually charge symbolic interest and which users keep in a
+liquid form for making payments.
+
+Keywords
+Payment system,
+Central bank,
+cross-border payments,
+blockchain, CBDC
+JEL: E42, F33, O31
+
+DOI: https://doi.org/10.30525/2500-946X/2021-2-13
+
+1 Introduction
+Modern central banks, being at the top of the money
+pyramid, offer a two-tier payment system and issue two
+types of money – paper money, which is a direct obligation
+of the central bank, and a system of accounts for commercial
+banks, which are essentially digital money issuers. The
+central banks of the world's leading countries are actively
+studying the benefits and problems of introducing a new
+format of money – central bank digital currencies (CBDC).
+The main purpose of central bank is to ensure the basic
+functions of money – medium of exchange, store of value
+and unit of account. But concerns arise from the structural
+dependence of the banking system on incomes and savings
+of their users.
+Digital money of commercial institutions (banks,
+financial companies, trading platforms and international
+payment systems) has a number of risks for the national
+payment system, including: legal, operational, credit,
+liquidity, general commercial, settlement risks and the
+most destructive – systemic risk. Each country has its own
+characteristics of money circulation, monetary policy of
+the central bank and the availability of payment services.
+In different countries we can find different problems that
+
+can be solved with digital money. Most central banks have
+noted a significant decline in the role of cash for payments
+in recent years, making commercial financial institutions
+an almost monopoly providers of money – digital money,
+which always has an intermediary for users. The decline in
+cash transactions and the growing popularity of e-wallets,
+cryptocurrencies and stablecoins in recent years have
+made it increasingly difficult to control the money supply
+of commercial banks.
+One of the most likely changes associated with CBDC
+is the redistribution of profits that banks receive from
+cheap liabilities in favor of customers. This applies
+to the owners of operating accounts, on which banks
+usually charge symbolic interest and which users keep in
+a liquid form for making payments. Digital money will
+significantly change the rules for users – banks do not
+need to know who pays whom and for what, and they
+will not be the nominal holder of digital money. Banks
+have invested in today's infrastructure and will probably
+try to avoid additional costs against the background of
+a possible outflow of such a cheap resource for them
+as current accounts. Given the market share of stateowned banks in Ukraine, innovation issues are becoming
+political.
+73
+
+Economics & Education 2021 06(02) August
+
+2 Key research areas for CBDC
+Experts of the Bank for International Settlements
+noted that in some countries credit card fees reach more
+than 1% of GDP, but in most countries there are several
+payment systems, each of which provides different market
+segments. These systems can be classified into three main
+types: type of payment (wholesale or retail); operator
+(central bank or private sector); and the calculation
+mode (net or gross basis) (CBDCs: an opportunity for
+the monetary system). CBDC are mainly proposed as a
+complementary retail payment system, ie the third type of
+money for the general public, which will complement the
+paper cash system and the non-cash bank system.
+R. Todd and M. Rogers combined the research of
+central banks into a single document, which somewhat
+simplified our study (Todd, Rogers, 2020). Most
+CBDC offerings support a two-tier monetary system
+architecture and mainly consider retail payment systems.
+Special attention of central banks is also paid to crossborder payments. Although only a few central banks are
+likely to progress to full project implementation and
+digital currency issuance over the next 5 years, a few
+have already completed or are in the process of initiating
+progressive pilot projects. The two-tier architecture
+assumes that financial intermediaries remain providers of
+payment infrastructure, and CBDC users can store digital
+money without the involvement of such intermediaries.
+The technological solutions under consideration are
+centralized infrastructure, permitted or permissionless
+blockchain protocols.
+An interesting experience in Uruguay offers the concept
+of "digital banknotes". The Central Bank of Uruguay has
+already completed a general-purpose CBDC pilot program.
+In November 2017, the Central Bank of Uruguay launched
+a pilot program to issue, distribute and test E-Peso
+(Barontini, Holden, 2019). Unique digital banknotes of
+several denominations have been issued for distribution
+on the "electronic note manager platform". The platform
+acted as a register of ownership of digital banknotes. A
+total of 20 million electronic pesos were issued, of which
+7 million were distributed by third-party PSPs that had
+the equivalent value of pesos in a central bank account.
+Transfers were peer-to-peer, via mobile phones, text
+messages or E-Peso applications. Individual users and
+companies in e-wallets held a maximum of 30,000 and
+200,000 e-pesos, respectively.
+The legal mandate of the Central Bank of Uruguay was
+sufficient to issue electronic pesos in addition to physical
+
+GLOBALIZATION
+
+cash. The pilot was declared successful and closed in April
+2018, after which all electronic pesos were canceled. The
+program is currently under evaluation and a number of
+issues are being considered before further testing and
+potential issuance can be decided. These include specific
+design tasks, such as how best to manage the stock of
+digital banknotes of different denominations, as well as the
+level of anonymity of E-Peso, whether it will have interest,
+the ultimate role of the central bank and wider business
+and economic impact.
+Indeed, the design of coins and banknotes is a unique
+feature of paper money. And if digital technology is able
+to provide sufficient protection against counterfeiting,
+then transferring the cultural component of money is
+the next challenge for technology. The idea of creating
+digital banknotes was implemented on public blockchains
+in the Non fungible token (NFT) format. This format of
+cryptocurrencies became quite popular and led to the
+emergence of the digital art market (Makarov, 2021).
+Central banks in their digital money research mainly
+mention the retail payment system which can be created
+in two versions – token-based or account-based distributed
+ledgers (Ghose, 2021). Citigroup researchers identified the
+main characteristics of each version (Table 1).
+As an example of a wholesale payment system we found
+project Helvetia, a joint experiment of the BIS Innovation
+Hub, SIX Group AG and Swiss National Bank (Project
+Helvetia). The project provided issuance of a new wholesale
+digital currency by the central bank and establishing
+a connection between the new SIX Digital Exchange
+platform (SDX) and the existing central bank payment
+system (RTGS) and Swiss Interbank Clearing (SIC).
+Technically, the SDX platform can be classified as a private
+permissioned peer-to-peer network with hierarchical
+access to the ledger, which has three types of nodes:
+– Participant nodes, that can store states, initiate new
+transactions and execute business logic;
+– SDX node, that can store states, initiate new
+transactions, and execute special business logic
+available only to SDX. For example, organizes and
+executes multilateral instructions based on SDX
+Trading and executes business logic for the issuance or
+redemption of SDX coins;
+– Notary node, which is also controlled by SDX and has
+two important functions: (1) prevention of double
+spending of assets in the network; and (2) ensuring the
+finality of the calculations.
+Most cross-border payments today are paid using
+correspondent bank accounts. In this case, currency
+
+TABLE 1 The main characteristics of token-based and account-based distributed ledgers
+Tokens
+– Chains of digital signatures
+– May be offered by unregulated entities
+– Public or private DLT database
+– May or may not represent liability of an institution
+– Programmable through ‘smart contracts’
+– Wallets may or may not be KYC’d
+– May be pseudonymous or anonymous
+– Digital bearer instruments
+– Synthetic and national currency units
+– Atomic settlement – token transfer equals messaging & settlement
+– ‘Always on’ infrastructure
+
+Accounts
+– Double entry bookkeeping ledgers
+– Offered by regulated banks and non-banks
+– Traditional database technology
+– Liabilities of an institution to a depositor
+– Programmable through APIs
+– KYC on the account holder
+– Not pseudonymous or anonymous
+– Not a bearer instrument
+– Denominated in national currency units
+– Payment messaging and settlement are separate functions
+– Batch processing and ‘store and forward’ messaging
+
+Source: generated by the author based on (Ghose, 2021)
+
+74
+
+Economics & Education 2021 06(02) August
+
+GLOBALIZATION
+
+conversion usually involves multiple parties, meaning
+fewer payments will be credited and hedged in the wholesale
+markets by banks. Payment systems and payment methods
+are different. Payment systems achieve cross-border and
+currency interaction in three different ways (Auer, 2021):
+1. Compatible standards (eg similar regulatory
+frameworks, market practices, messaging formats and data
+requirements).
+2. Interconnected systems through technical interfaces,
+common clearing mechanisms or appropriate schemes.
+3. Establishment of a single multi-currency payment
+system.
+The Aber project was an initiative launched by the
+central banks of Saudi Arabia and the United Arab
+Emirates to study the viability of a single digital dualissue currency as a tool for internal and cross-border
+settlements between the two countries (Saudi central
+bank…). Aber propose the wholesale CBDC and uses a
+transaction model which is a hybrid between an account
+and token model. There are two types of digital currency
+transfer transactions: within a privacy group (sub-ledger)
+and across privacy groups. A token model is used for
+accounting movement of digital currency across subledgers. Once the digital currency is moved into a ledger,
+it can be exchanged peer-to-peer using an account model.
+This allows to decouple the privacy and safety concerns
+and handle them in two different types of ledgers, using
+different transaction models.
+An important aspect of the project was the active
+business and technical participation of commercial banks
+from the earliest stage. In total, six commercial banks (three
+from each jurisdiction) participated in all stages of the
+project. Research has focused on cross-border payments,
+interactions between multiple ledgers or technologies,
+tokenization of multiple asset types, and atomic swaps.
+Aber uses automated fund management features. This
+works by predicting the liquidity shortage for the next
+cycle, based on demand in the previous N cycles and the
+state of input and output flows. This predicting is done for
+each channel in which the bank participates.
+Similar liquidity pools can be found in so-called
+decentralized finance (Defi) on the Ethereum blockchain.
+According to DeFi Pulse total value locked in DeFi is $ 69.56
+billion (as of 1.08.2021). Figure 1 shows the growth of the
+DeFi market in the last year (Total Value Locked in DeFi,
+2021).
+The privacy of user data and transactions in all studies
+of central banks is determined by an important element of
+
+payment security. The choice between complete anonymity
+and user transparency is always a compromise. Experience
+in the cryptocurrency market shows that anonymous
+settlements create a favorable field for illegal activities.
+First of all, this concerns drug traffick and cyber fraud, as
+well as a wide range of services offered by the Darknet.
+For CBDC implementation, the issues of the level of
+anonymity, the process of identifying new users, the format
+for accumulating and storing confidential data must be
+resolved. For instance in the European Union, the General
+Data Protection Regulation, GDPR (REGULATION (EU)
+2016/679, 27 April 2016) came into force in May 2018.
+Companies that process and collect personal data must be
+built on the principle of "privacy by purpose and by default",
+which means that personal data must be stored using
+pseudonyms or complete anonymization. The business must
+be able to deny such permission at any time. Businesses
+must also report any data protection breach that negatively
+impacts user privacy within 72 hours.
+Programmable money is the next object for central banks
+research. Companies often may have supply chains, which
+waiting for products to be sold. Programmable money will
+not only optimize payments for the end consumer, but also
+for product producers in the supply chains. Also the money
+reservation may allow pre-order products format. Today,
+many companies are trying to work in direct sales and preorder deliveries.
+Programmable money can also be in the form of mass
+payment systems and micro payments. Large companies
+often have to send a significant number of payments at
+once, for instance, making wages to hundreds or thousands
+of employees. These mass payments are usually not critical,
+but require time to process. This is a question of database
+compatibility. Micropayments – payments for small
+amounts, the processing cost of which may be greater
+than the cost of the payment itself. Micropayments can
+support alternative revenue models for digital media (such
+as moving away from existing subscription and advertising
+models). They can also support the development of Internetof-Things (IoT) programs that connect networks of physical
+devices.
+3 Prospects for the implementation
+of CBDC in Ukraine
+In Ukraine, the official use of digital signatures began
+in 2004 with the entry into force of the Law of Ukraine
+
+FIGURE 1 Total value locked in DeFi, USD billion
+75
+
+Economics & Education 2021 06(02) August
+
+GLOBALIZATION
+
+"On Electronic Digital Signature", which established the
+legal status of electronic digital signatures and defined
+the conditions of its use. In 2017, this law was replaced
+by the Law of Ukraine “On Electronic Trust Services”
+(Law of Ukraine "On electronic trust services", 2017).
+Ukrainian legislation provides for the operation of statelicensed certificate issuing centers that issue (generate)
+digital signatures and guarantee their authenticity. The
+user submits documents to the certification center for
+confirmation of identity and authority and receives a pair of
+keys – public and private. A copy of the public key is stored
+in the certification center, which acts as a guarantor of the
+authenticity of the issued key. Reporting to regulatory
+authorities and interaction (now only document flow)
+between users is carried out through electronic services
+and software.
+The emerging network of relationships is increasingly
+becoming decentralized. In practice, users create their own
+databases and have to take care of database backups on
+their own. Also there are a number of state institutions
+that issue digital signatures for their own usage, as well
+as a number of digital services for tax reporting and the
+state services provision. For instance, access to a personal
+account on the official website of the State Fiscal Service
+of Ukraine is carried out only using a digital signature.
+State institutions act as public nodes, and users store their
+pieces of the database.
+Blockchain technology may ensure the formation of
+a common database and verifiability of users without
+their identification. The proof-of-database concept can
+provide advanced features for private databases such
+as ledger and CBDC. The database can contain not only
+tax reports and commercial documents, but also digital
+money. Thus, payments to counterparties and taxes can
+be programmed. For instance, the use of smart contracts
+can provide guaranteed peer-to-peer payment against
+delivery. A digital VAT report in the form of a smart
+contract could periodically conduct clearing calculations
+and payments according to the data of the Unified
+Register of Tax Invoices.
+It should be noted that the legislation also requires
+the use of secured physical devices for storing private
+keys, which allow to protect the key from copying and
+
+transferring to third parties – the signature is generated
+and exists only for one specific device. According to the
+Central Certification Body of the Ministry of Digital
+Transformation of Ukraine, 7.2 million qualified
+certificates of electronic signatures were generated in
+2020, of which 822,800 were generated on secured devices
+(Official site of the Ministry of Digital Transformation of
+Ukraine). Table 2 shows the number of digital signatures
+issued by authorized providers in 2020.
+According to the National Bank of Ukraine, as
+of April 1, 2021, UAH 550.2 billion banknotes and
+UAH 3.6 billion coins were in circulation (The main
+indicators of the banks of Ukraine, 2021). The growth of
+cash in circulation began at the beginning of quarantine
+and did not stop during 2020. The largest number of
+banknotes with a face value of UAH 200 and coins with
+a face value of 10 kopecks is in circulation (23.7 % and
+29.1 %, respectively). A significant part of banknotes
+with a face value of UAH 100, 200 and 500 are placed in
+the network of ATMs. As of the end of 2020, commercial
+banks held cash and cash equivalents in the amount of
+UAH 73.2 billion (Table 3). Over the past 5 years, cash
+balances in banks have doubled. We also note a significant
+and stable share of foreign currencies in the assets and
+liabilities of banks. Ukraine has a widespread market for
+the exchange of foreign currencies, which is essentially
+one more payment system in Ukraine.
+The National Bank of Ukraine conducted a survey
+of market participants on the potential demand for
+the digital currency of the central bank – E-hryvnia and
+possible options for its use (The results of the survey on the
+possibility of introducing e-hryvnia, 2021). 100 financial
+market experts took part in the survey, which ended this
+year. According to experts, the most promising "use case"
+of the E-hryvnia could potentially be a retail payment
+system (primarily – P2P transfers between individuals
+and e-commerce transactions). In second place in terms
+of the number of survey points – E-hryvnia as a tool for
+cross-border payments (primarily – P2P transfers between
+individuals).
+The results of the survey will be the basis for further
+research by the National Bank of Ukraine. The following
+areas are considered:
+
+TABLE 2 The structure of the qualified digital signature service providers in 2020
+Qualified provider
+1
+
+2
+
+Users
+
+Users share, %
+
+Total number of
+keys
+
+Including on secured
+physical devices
+
+3
+
+4
+
+5
+
+6
+
+3 010 554
+
+66,7
+
+5 284 751
+
+412 253
+
+"Key Certification Center "Ukraine", LLC
+
+546 733
+
+12,1
+
+608 313
+
+54 936
+
+3
+
+Information and reference department of
+the State Tax Service
+
+444 236
+
+9,8
+
+534 089
+
+37 155
+
+4
+
+"Ukrainian special systems", SE
+
+112 534
+
+2,5
+
+285 805
+
+369
+
+5
+
+"UkrSibbank", JSC
+
+79 871
+
+1,8
+
+92 684
+
+72 852
+
+6
+
+"DIYA", SE
+
+67 201
+
+1,5
+
+82 305
+
+32 194
+
+7
+
+State Treasury Service of Ukraine
+
+57 127
+
+1,3
+
+85 281
+
+85 281
+
+8
+
+"State Savings Bank of Ukraine", PJSC
+
+56 073
+
+1,24
+
+92 586
+
+92 586
+
+9
+
+"Art-master" (MasterKey), LLC
+
+53 061
+
+1,18
+
+74 306
+
+3 245
+
+10
+
+National Bank of Ukraine
+
+1 159
+
+0,03
+
+1 279
+
+756
+
+4 510 880
+
+98,2
+
+7 243 966
+
+822 764
+
+1
+
+"PRIVATBANK", JSC
+
+2
+
+Total:
+
+Source: generated by the author based on (Official site of the Ministry of Digital Transformation of Ukraine)
+
+76
+
+Economics & Education 2021 06(02) August
+
+GLOBALIZATION
+
+TABLE 3 Assets and liabilities of Ukrainian banks in 2016–2020
+Balance sheets
+1
+
+2
+
+1
+
+Number of operating banks
+
+2
+
+Assets, UAH bln
+
+3
+4
+
+including in foreign currencies
+Cash and cash equivalents
+
+5
+
+Funds in the National Bank of Ukraine
+
+6
+
+Loans provided
+
+7
+8
+
+including business entities
+
+2017
+
+2018
+
+2019
+
+2020
+
+3
+
+4
+
+5
+
+6
+
+7
+
+96
+
+82
+
+77
+
+75
+
+73
+
+1 256,3
+
+1 333,8
+
+1 359,7
+
+1 493,3
+
+1 822,8
+
+519,1
+
+506,9
+
+494,6
+
+492,2
+
+585,5
+
+36,2
+
+44,1
+
+46,9
+
+56,3
+
+73,2
+
+40,8
+
+37,4
+
+35,5
+
+76,1
+
+37,6
+
+1 005,9
+
+1 036,7
+
+1 118,9
+
+1 033,4
+
+960,6
+
+847,1
+
+864,4
+
+919,1
+
+821,9
+
+749,3
+
+157,4
+
+170,8
+
+196,9
+
+206,7
+
+199,6
+
+9
+
+Bonds and long-term investments
+
+332,3
+
+425,8
+
+480,6
+
+539,5
+
+791,4
+
+11
+
+Net capital
+
+123,8
+
+161,1
+
+155,0
+
+199,9
+
+209,5
+
+12
+
+Liabilities of banks
+
+1 132,5
+
+1 172,7
+
+1 204,7
+
+1 293,4
+
+1 613,4
+
+644,2
+
+613,7
+
+587,9
+
+568,6
+
+648,0
+
+13
+
+including individuals
+
+2016
+
+including in foreign currencies
+
+14
+
+Funds of business entities
+
+369,9
+
+404,0
+
+406,4
+
+498,2
+
+646,5
+
+15
+
+Funds of individuals
+
+437,2
+
+478,1
+
+508,5
+
+552,1
+
+681,9
+
+Source: generated by the author based on (The main indicators of the banks of Ukraine, 2021)
+
+– E-hryvnia for retail non-cash payments with the
+possible functionality of "programmed" money and the
+ability to make targeted social payments;
+– E-hryvnia for use in the field related to the circulation
+of virtual assets (for example, for exchange, issuance
+and other transactions with virtual assets);
+– E-hryvnia for cross-border payments.
+4. Conclusion
+The widespread adoption of digital money from
+central banks requires a detailed analysis of a number
+of technical, economic and legal issues. These issues
+include impact on monetary policy, financial stability,
+business models of banks, international cash flows and
+supervision of service providers. Unification of user
+identification process on the basis of digital signature can
+lead to the emergence of lending, compliance, borrower
+evaluation, project financing services. Such services will
+be provided by financial institutions and this adds value
+to interest-bearing commercial banks' money and expands
+opportunities for joint investment and profit sharing. But
+most likely the introduction of CBDC will reduce the total
+amount of bank financing. Banks need to consider how to
+respond to potential loss of deposit funding.
+Decentralized transactions require the central bank to
+establish basic standards (cryptography, user verification
+and distributed ledger security) that will allow the use of
+central bank money. Blockchain technology and proofof-database concept can provide (1) secure storage of
+information by data centers of regulatory authorities (with
+appropriate access mode) and (2) a common operational
+
+space in the financial information channels. The blockchain
+network should be token-based, and service providers could
+use an account-based retail payment system.
+The current sectors of NFT and DeFi in decentralized
+payment systems need further research. Non fungible token
+format can provide design and presentation of money to the
+user on the smartphone screen not in the form of written
+numbers with two decimal places, but as a set of banknotes
+and coins of the usual denominations for paper money. The
+programmed design of digital banknotes can add collectible
+value to them. Defi is a relatively new market for digital
+assets and demonstrates the example of creating liquidity
+pools in currency pairs that can be used for cross-border
+settlements.
+The appropriate degree of anonymity in the CBDC
+system is a political and social issue, not just a technical.
+The CBDC must comply with anti-money laundering
+regulations that exclude completely anonymous payments.
+However, CBDC can be designed to protect privacy and
+give users control over their personal data. A number of
+CBDC studies suggest that CBDC is equivalent to cash, and
+therefore it should offer the same degree of anonymity.
+But anonymity of cash was not a basic necessity when cash
+appeared. Many years ago, when digital payment systems
+did not exist, the characteristics of paper money, such as
+simplification of transportation, accountability and public
+acceptance were more important than anonymity. Although
+only a few central banks are likely to progress to digital
+currency issuance over the next 5 years, a few have already
+completed or are in the process of initiating progressive
+pilot projects. But, nevertheless, in our opinion, paper
+money will remain in the economy for a long time.
+
+References
+[1]
+[2]
+
+CBDCs: an opportunity for the monetary system. BIS Annual Economic Report (2021). Bank for International
+Settlements. E-source: https://www.bis.org/publ/arpdf/ar2021e3.htm
+Todd, R., & Rogers, M. (2020). A Global Look at Central Bank Digital Currencies: From Iteration to Implementation.
+The Block Crypto. E-source: https://www.theblockcrypto.com/post/75022/a-global-look-at-central-bank-digitalcurrencies-full-research-report
+77
+
+Economics & Education 2021 06(02) August
+
+[3]
+[4]
+[5]
+[6]
+[7]
+[8]
+[9]
+[10]
+[11]
+[12]
+[13]
+
+GLOBALIZATION
+
+Barontini, C., & Holden, H. (2019). Proceeding with caution – a survey on central bank digital currency. Bank for
+International Settlements. E-source: https://www.bis.org/publ/bppdf/bispap101.htm
+Makarov, F. (2021). What is NFT. Startups, business, technology. E-source: https://vc.ru/crypto/214497-chtotakoe-nft (in Russian)
+Ghose, R. at al. (2021). Future of money. Crypto, CBDCs and 21st Century Cash. Citigroup. E-source:
+https://www.citivelocity.com/citigps/future-of-money
+Project Helvetia: Settling tokenised assets in central bank money (2020). Bank for International Settlements.
+E-source: https://www.bis.org/publ/othp35.htm
+Auer, R. at al. (2021). Multi-CBDC arrangements and the future of cross-border payments. Bank for International
+Settlements. E-source: https://www.bis.org/publ/bppdf/bispap115.htm
+Saudi central bank and Central bank of the UAE joint digital currency and distributed ledger project (2020).
+Central Bank of the U.A.E. E-source: https://www.centralbank.ae/en/node/2382
+Total Value Locked in DeFi (2021). DeFi Pulse. E-source: https://defipulse.com/
+Law of Ukraine "On electronic trust services" (2017). E-source: https://zakon.rada.gov.ua/laws/show/2155-19
+(in Ukrainian)
+Official site of the Ministry of Digital Transformation of Ukraine. czo.gov.ua. E-source: https://czo.gov.ua/
+development?tab=1 (in Ukrainian)
+The main indicators of the banks of Ukraine (2021). National Bank of Ukraine. E-source: https://bank.gov.ua/ua/
+statistic/supervision-statist/data-supervision#1 (in Ukrainian)
+The results of the survey on the possibility of introducing e-hryvnia (2021). National Bank of Ukraine. E-source:
+https://bank.gov.ua/ua/news/all/rezultati-opituvannya-schodo-mojlivosti-zaprovadjennya-e-grivni (in Ukrainian)
+
+78
+
+

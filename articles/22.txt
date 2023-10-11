@@ -1,0 +1,982 @@
+Research in International Business and Finance 62 (2022) 101690
+
+Contents lists available at ScienceDirect
+
+Research in International Business and Finance
+journal homepage: www.elsevier.com/locate/ribaf
+
+Supply chain management based on volatility clustering: The
+effect of CBDC volatility
+Shusheng Ding a, Tianxiang Cui b, Xiangling Wu a, Min Du c, *
+a
+b
+c
+
+School of Business, Ningbo University, China
+School of Computer Science, The University of Nottingham Ningbo China, China
+The Business School, Edinburgh Napier University, United Kingdom
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+JEL classification:
+D81
+E42
+
+A Central Bank Digital Currency (CBDC) launched by the Bank of England could enable businesses
+to directly make electronic payments. It can be argued that digital payment is helpful in supply
+chain management applications. However, the adoption of CBDC in the supply chain could bring
+new turbulence since the CBDC value may fluctuate. Therefore, this paper intends to optimize the
+production plan of manufacturing supply chain based on a volatility clustering model by reducing
+CBDC value uncertainty. We apply both GARCH model and machine learning model to depict the
+CBDC volatility clustering. Empirically, we employed Baltic Dry Index, Bitcoin and exchange rate
+as main variables with sample period from 2015 to 2021 to evaluate the performance of the two
+models. On this basis, we reveal that our machine learning model overwhelmingly outperforms
+the GARCH model. Consequently, our result implies that manufacturing companies’ performance
+can be strengthened through CBDC uncertainty reduction.
+
+Keywords:
+CBDC
+Volatility clustering
+Machine learning
+Digital currency
+Supply chain management
+
+1. Introduction
+Cryptocurrencies, represented by Bitcoin, have exhibited a significant impact on the current financial system (Easley et al., 2019;
+Zhang and Li, 2020; Huynh et al., 2021; Jin et al., 2021; Prat and Walter, 2021), especially after the outbreak of COVID-19 (Guo et al.,
+2021; Diniz-Maganini et al., 2021) and Fintech development (Le et al., 2021; Chaudhry et al., 2022). As a result, to confront and
+replace such an emerging private digital currency system, the Bank of England announced the launch of a Central Bank Digital
+Currency (CBDC), which served as a new form of digital currency issued by the Bank of England and can be used by households and
+businesses (BenDhaou and Rohman, 2018; Vessio, 2021).
+Since CBDC is still under development, copious of scholars advocate the adoption of blockchain techniques into CBDC systems,
+which can yield a number of benefits, such as increased payment safety and information transparency (Sun et al., 2017; Sethaput and
+Innet, 2021). Moreover, several countries have already signified the adoption of blockchain in their CBDC payment systems (Xu and
+Zou, 2021). On the other hand, bitcoin is an exceedingly representative digital coin based on the blockchain technique (Hughes et al.,
+2019; Jiang et al., 2022). Consequently, we use bitcoin to depict blockchain-based digital currency, which aligns with the future
+development trend of digital currency like CBDC.
+Actually, the adoption of blockchain techniques into supply chains has been documented in recent Supply Chain Management
+* Corresponding author.
+E-mail addresses: dingshusheng@nbu.edu.cn (S. Ding), tianxiang.cui@nottingham.edu.cn (T. Cui), wuxiangling@nbu.edu.cn (X. Wu), a.du@
+napier.ac.uk (M. Du).
+https://doi.org/10.1016/j.ribaf.2022.101690
+Received 1 February 2022; Received in revised form 25 April 2022; Accepted 25 May 2022
+Available online 6 June 2022
+0275-5319/© 2022 The Author(s).
+Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Research in International Business and Finance 62 (2022) 101690
+
+S. Ding et al.
+
+(SCM) studies see (Cole et al., 2019; Saberi et al., 2019; Kshetri, 2021; Gökalp et al., 2022), proposing an advanced technology
+application blending with supply chain management in the leading research of supply chain management. As a result, companies,
+especially manufacturing companies, value SCM highly, and the influence of digital currency on the supply chain becomes increasingly
+crucial.
+Therefore, the research questions of the paper are twofold. What is the impact of CBDC volatility on SCM for manufacturing
+companies, and more importantly, how can those firms reduce the uncertainty brought by CBDC through SCM? On this basis, this
+paper addresses how manufacturing companies can manage their supply chain under volatile circumstances, focusing on volatile CBDC
+value and transportation cost. In particular, we contribute to the literature by formulating an effective production plan to reduce costs
+and increase revenue associated with currency value and transportation cost uncertainties as the CBDC applies in SCM. Empirically,
+our results illustrate that CBDC volatility plays a crucial role in the SCM of manufacturing companies. Moreover, we also unfold the fact
+that our SCM framework can aid manufacturing companies in saving transportation costs as well as increasing operating revenue by
+frustrating the impact of digital currency uncertainty.
+In fact, digital currency has been widely used during the payment process in supply chains. Massive companies have embraced
+digital currency for their business transactions (Viriyasitavat et al., 2021). The adoption of digital currency payments would be
+beneficial for both payers and receivers, leading to a more liquidated and automated transaction along the supply chain (Choi, 2021). It
+is thereby valuable to investigate the effect of CBDC volatility on supply chain management. Since the CBDC was still at the starting
+stage, we need to use a proxy to simulate CBDC volatility. Because the CBDC holds both digital currency and sovereign currency
+characteristics, we use Bitcoin (BTC) as the proxy of digital currency and Great British Pound (GBP) as the proxy of sovereign currency.
+As a result, this paper intends to reveal the impact of the CBDC volatility effect on supply chain management from the combination of
+both BTC and GBP by using the machine learning approach to meld both effects.
+In practice, Supply Chain Management (SCM) plays an important role in manufacturing companies in terms of resource allocation
+and cost minimization (Olhager and Selldin, 2004). More recently, Xu et al. (2019) proposed a manufacturing industry supply chain
+management system integrated with the digital currency of Ethereum. Pranesh et al. (2020) also suggest an Ethereum-based coun­
+terfeited product detection system to enhance supply chain management.
+However, the value of CBDC would be volatile from both digital currency and sovereign currency properties. A sound supply chain
+and logistics management are challenged by risk factors and environmental uncertainties (Aqlan and Lam, 2016). As a result, the
+ability to respond to those uncertainties can assist companies in strengthening their core competence and alleviating their long-term
+business suffering, leading to better cost and revenue management (Hendricks and Singhal, 2005). Therefore, the supply chain
+decision-making framework, which takes uncertainty into account to reduce cost, has become largely demanding in recent years
+(Guerra-Zubiaga and Young, 2008).
+In particular, uncertainties play pivotal roles in SCM. Van der Vorst and Beulens (2002) argue that lessening uncertainties should be
+a key consideration of companies for improving their performance. They used a case study to show that service levels have been
+substantially enhanced by controlling uncertainties in food chain management. More recently, Thun et al. (2011) unveiled that the
+increasingly fluctuating business environment places a heavy burden on manufacturing companies with risk issues in their supply
+chains. Wong et al. (2011) advocate that environmental uncertainty plays a crucial role in influencing the effectiveness of a managing
+system. More importantly, currency value uncertainty, referred to as exchange rate risk, is a vital consideration for supply chain
+management see (Huchzermeier and Cohen, 1996; Kim and Park, 2014; De Soyres et al., 2021).
+As a result, the main contribution of this paper is to develop a framework for manufacturing companies to formulate their pro­
+duction plans via the reduction of market uncertainties with the adoption of CBDC. Our framework is based on the volatility clustering
+model, and we schedule all market-related activities into low-volatility periods of CBDC and BDI. Under such a framework, we can
+thereby reduce the overall currency value uncertainty faced by manufacturing companies as well as the transportation cost un­
+certainties through rescheduling. We adopt a decision tree method to determine the next production stage in the supply chain based on
+the volatility clustering result to optimize the production plan. Our results unravel that the supply chain management can be enhanced
+by scheduling firm activities to low volatility periods as high market uncertainties can be neutralized. We thereby demonstrate that the
+accuracy of volatility forecasting plays a vital role in supply chain scheduling and therefore our machine learning approach out­
+performs traditional GARCH model in strengthening supply chain scheduling plans.
+Empirically, we use three key business variables to extract transportation cost and currency value uncertainties, which are the
+Baltic Dry Index (BDI), Bitcoin (BTC) and exchange rate (GBP). For the exchange rate, we take the British Pound against Dollar as the
+CBDC issued by the Bank of England is concerned. These three key business variables represent the transportation cost and currency
+value, respectively. We adopt the GARCH (generalized autoregressive conditional heteroscedasticity) model for the conditional
+volatility estimation and volatility clustering. It has been well documented that GARCH estimation of volatility is consistent with
+volatility clustering patterns exhibited in financial time series see (Bai et al., 2003; Ardia et al., 2019; Kenc et al., 2021; Venter and
+Maré, 2022).
+Based on the data of three key business variables, we deliver empirical results to reveal that our framework can aid manufacturing
+companies in saving operating costs as well as increasing operating revenue by decreasing market uncertainty. We first discover that
+the GARCH model has a negative improvement for the cost savings and revenue increase of the production plan. The GARCH model
+delivers as much as − 9.49 % of the overall improvement rate. Then, we changed to the machine learning model, and the model
+performance was improved. For transportation cost, our framework can help manufacturing companies to save 6.68 % cost. For the
+sale price of export regarding the currency value, our framework can raise the revenue as much as 2.86 % for BTC and 9.77 % for GBP.
+The overall cost savings and revenue generation of our machine learning model through production scheduling is approximately 20 %.
+Therefore, it is arguable that our machine learning framework would be helpful to manufacturing companies for cost savings and
+2
+
+Research in International Business and Finance 62 (2022) 101690
+
+S. Ding et al.
+
+revenue increases, especially in volatile periods.
+The remainder of the paper is organized as follows. Section 2 covers the data description of key variables, including BDI, BTC and
+GBP exchange rates, as well as the GARCH-type model setup. Section 3 presents the empirical result of model performance for the
+GARCH model. We reveal that the GARCH model has inferior performance. Therefore, in section 4, we introduce the Density Based
+Spatial Clustering of Applications with Noise (DBSCAN) model and show the empirical model performance of DBSCAN. Section 5
+concludes the paper.
+2. Data and methodology
+2.1. Data of key business variables
+In this paper, we focus on the volatilities of three key business variables, namely, the Baltic Dry Index (BDI), Bitcoin (BTC) and
+exchange rate (Great Brain Pound (GBP) against dollars). The BDI indicates the transportation cost, BTC indicates the CBDC from the
+blockchain-based currency side and GBP indicates the CBDC from the sovereign currency side.
+The sample data we collect are for the Baltic Dry Index (BDI), Bitcoin (BTC) and exchange rate (Great Brain Pound (GBP) against
+dollars) from the WIND database on a daily basis. The sample covers the period from 1 January 2015–31 December 2021 (1775 daily
+total observations for each series). To eliminate the size effect of all prices when we conduct the GARCH model, we take the natural log
+of oil price, BDI, BTC and GBP, where the logged price moving trend is plotted in Fig. 1. The corresponding statistical summary for all
+three variables is presented in Table 1.
+2.2. Volatility estimation through the GARCH model
+It is noticeable that there might be a heteroscedasticity effect rooted in business variable volatilities. The conditional hetero­
+scedasticity or autocorrelation embedded in a time series is called an autoregressive conditional heteroscedasticity (ARCH) effect. The
+ARCH-LM (Lagrange-Multiplier) test is used to assess the significance of ARCH effects for a particular time series. As a result, we report
+the ARCH-LM test results in Table 2 for the three key business variables with the null hypothesis that the time series has no ARCH
+effects. It is observable that all three key business variables have rejected the null hypothesis on the 10% significance level, indicating
+that the heteroscedasticity effect existed within those time series.
+On this basis, we use generalized autoregressive conditional heteroscedasticity (GARCH) to model all volatilities in this paper. The
+advantage of employing the GARCH model has been well documented in the literature. The GARCH model prevails to provide the
+estimation of stochastic volatility instead of traditional constant volatility, and the model can converge parameters to their long-term
+
+Figure 1. Price trend movement of three key business variables.
+3
+
+Research in International Business and Finance 62 (2022) 101690
+
+S. Ding et al.
+
+Table 1
+Statistical summary of three key business variables.
+Key Business Variables
+
+Obs
+
+Mean
+
+Std. Dev.
+
+Min
+
+Max
+
+BDI
+BTC
+Exchangle Rate
+
+1775
+1775
+1775
+
+7.01
+8.22
+0.29
+
+0.57
+1.71
+0.0670
+
+5.67
+5.180
+0.13
+
+8.63
+11.12
+0.46
+
+Table 2
+ARCH-LM test results of three key business variables.
+Key Business Variables
+
+Chi2
+
+P-value
+
+lag (s)
+
+BDI
+BTC
+Exchange Rate
+
+490.24
+13.26
+6.68
+
+0.00
+0.00
+0.01
+
+1
+1
+1
+
+values as the model intakes enough time series observations (Alexander, 2002). Moreover, the GARCH model considers the hetero­
+scedasticity effect, which can imply the volatility clustering trend of the time series (Choudhry and Wu, 2009). In order to show the
+volatility clustering features indicated by the heteroscedasticity effect, all volatilities in our paper are conditional volatilities based on
+the GARCH model, and since the time lag in the ARCH-LM test is 1, we use the GARCH (1, 1) model for our study. Nevertheless, a
+number of scholars have pointed out the limitations of using the GARCH model. For instance, the GARCH may fail to capture nonlinear
+effects of the time series, and it is difficult to include direct long memory effects (Gavrishchaka and Banerjee, 2006). Given the
+limitations of the GARCH model, we adopt another method in this study, the machine learning approach. Compared with the GARCH
+model, one main drawback of using machine learning methods is that this method may lead to a black box model, which normally is
+not inherently interpretable. Moreover, sound hyperparameter configurations are always desired for machine learning algorithms, and
+this procedure can be time-consuming compared with the GARCH model procedure.
+GARCH family models are widely applied in volatility modeling and forecasting in finance and economics, including Baltic Dry
+Index (BDI) volatility (Ding et al., 2019); BTC volatility (Katsiampa, 2017; Troster et al., 2019; Aharon et al., 2022; Bergsli et al., 2022)
+and GBP exchange rate volatility (Kenourgios et al., 2015; Sun and Yu, 2020; You and Liu, 2020).
+The standard GARCH (1, 1) model has the following form:
+(1)
+
+σ2t = α0 + α1 σ 2t− 1 + α2 ε2t− 1 .
+where σt is the volatility of the target time series and εt is the residual term from the return prediction equation, which is:
+
+(2)
+
+rt = ϕ + εt ,
+
+where ϕ is the conditional mean, and εt ∼ N(0, σ 2t ).
+Based on the GARCH model, we estimate conditional volatilities for all three key business variables, and the corresponding sta­
+tistical summary is exhibited in Table 3. From Fig. 2, it is clear that all volatilities are clustered into two areas, the upper half area and
+the lower half area, with certain thresholds, which is according to the long-run equilibrium of the volatility series. For example, the
+threshold of BTC volatility clustering is approximately 3.2. As a result, a volatility level above 3.2 can be categorized as high volatility,
+whereas a volatility level below 3.2 can be categorized as low volatility.
+3. Production planning for manufacturing supply chain based on GARCH model
+3.1. Preliminary settings
+According to Maravelias and Sung (2009), the supply chain for a manufacturing company mainly comprises three activities,
+namely, raw material procurement, manufacturing finished product from the raw material, and distributing finished products to
+customers. Since three stages are involved in the manufacturing process, we need to allocate time into different stages. Based on Gnoni
+et al. (2003), we take a manufacturing production capacity of approximately 9600 min per month as our example, equivalently, 20
+days per month with 8 h per day. If we presume there are 30 days in one month, then we can assume 5 days for material procurement
+from suppliers and 5 days for distribution to customers. Practically, purchasing raw materials is a prerequisite for production, and
+Table 3
+Statistical summary for conditional volatilities of three key business variables.
+Key Business Variables
+
+Obs
+
+Mean
+
+Std. Dev.
+
+Min
+
+Max
+
+BDI
+BTC
+Exchange Rate
+
+1755
+1755
+1755
+
+0.34
+3.36
+0.45
+
+0.008
+2.75
+0.005
+
+0.003
+0.001
+0.0002
+
+2.47
+13.92
+0.036
+
+4
+
+Research in International Business and Finance 62 (2022) 101690
+
+S. Ding et al.
+
+Figure 2. Plotting of conditional volatilities for all three key business variables.
+
+similarly, manufacturing products is a prerequisite for distribution. Therefore, the supply chain shall be strictly on the
+procurement-production-distribution sequence, so we cannot interrupt this sequence for annual production scheduling.
+On this basis, formulating the annual production plan of the supply chain is as follows:
+1. We divide all days in one year into 73 blocks, with 72 blocks of 5 days plus one Remaining Block (RB). The RB can be 5 days in
+normal years and 6 days in leap years, which can be considered holidays without scheduling, and we leave them at the end of the
+year. Therefore, we only have 360 days for the annual production plan.
+
+Figure 3. Decision tree example.
+5
+
+Research in International Business and Finance 62 (2022) 101690
+
+S. Ding et al.
+
+2. Since we have 5 days for material procurement from suppliers, 20 days for manufacturing and 5 days for distribution to customers
+for each month, the numbers of corresponding blocks are 12 blocks for material procurement from suppliers, 48 blocks for
+manufacturing and 12 blocks for distribution to customers for the annual production plan. Therefore, the number of blocks for the
+procurement-production-distribution sequence shall be 1 block − 4 blocks − 1 block matched.
+3. Because of the procurement-production-distribution sequence, the first five blocks in January must be one block for procurement
+and four blocks for production, whereas the last block in December must be for distribution. As a result, those six blocks in the
+supply chain cannot be rescheduled.
+4. Our optimized production plan of the supply chain is based on the volatility clustering result, which is presented in Fig. 2. The
+principle of optimization is that we schedule all purchase and distribution activities in the low market volatility periods to keep our
+cost low or keep our revenue high. The BDI is associated with the transportation cost. The transportation cost is related to the
+procurement and distribution stages. On the other hand, the exchange rate (BTC and GBP) relates to the sale price of overseas
+distribution for UK companies. Both are related to production and distribution stages.
+5. To formulate such an optimized production plan, we adopt the decision tree method. We present an example of our decision tree
+method in Fig. 3. As demonstrated in Fig. 3, the first stage in January should be procurement, and the second stage in January
+should be production (here, the pink block stands for 5 days (i.e., 1 block), the blue production block represents a total of 20 days (i.
+e., 4 blocks in the figure), so there are no branches between those two blocks. Then, we have two branches after the production
+stage, which are the procurement stage and the distribution stage in pink. If the transportation cost stays in the low volatility area,
+which can be observed in Fig. 2. Then, we continue to the procurement stage; otherwise, we follow the production branch.
+6. For the upward procurement stage in pink, we can have three branches followed. We can continue to purchase materials if material
+transportation cost volatility remains in the low volatility area, or we can distribute production from the previous blue production
+stage if the exchange rate volatility stays in the low volatility area. If both key business variable volatilities are all in the high
+volatility area, we can continue the production stage alternatively.
+7. By the downward distribution stage in pink, we complete one production sequence, so we have to start with the procurement stage,
+where only one branch is followed after the downward distribution stage. After the procurement stage, we can continue to purchase
+materials if material purchase price volatility remains in the low volatility area. Otherwise, we continue to the production stage,
+and because we do not finish the production stage, we have no distribution stage followed.
+3.2. Empirical results for the GARCH model
+This Fig. 3 is only a demonstration and one part of our scheduling procedure, and we continue on the figure to finish all 72 blocks
+for one year. We repeat the procedure for the 12-year market price sample. Then, we calculate averaged prices for those 72 scheduled
+blocks regarding the procurement and distribution stages for the whole sample. On this basis, we can obtain an annual average price
+for each year and each time series presented in Tables 4 to 6.
+We compare our optimized result with the benchmark procedure with no scheduling. As stated at the beginning of this section, the
+benchmark procedure is based on the standard procurement-production-distribution sequence, where 6 blocks are for one sequence
+and we have 12 standard sequences per year. Then, we calculate averaged prices related to the procurement and distribution blocks,
+and we have an annual average price for each year and each time series presented in Tables 4 to Tables 6 for the whole sample.
+By using the supply chain volatility clustering scheduling technique based on the GARCH model, we have developed annual
+production plans for manufacturing companies. The results of annual production plans are exhibited in Tables 4 to Tables 6, where
+Tables 4 and Tables 5 are on the revenue side and Table 6 is on the cost side.
+On the other hand, from the revenue side, in Tables 4 and 5, our model demonstrates an overall improvement rate of − 0.84 % and
+− 8.18 % (decrease the currency value). In fact, the exchange rate is assumed to be related to the revenue side. Consequently, when we
+sell products at a higher exchange rate, we can earn more in terms of BTC and GBP. The overall performance of our GARCH model is
+quite weak, so we will analyze the reasons and try to improve our result in the next section.
+For the transportation cost shown in Table 6, our GARCH model exhibits noteworthy improvements in 2017 and 2019. Fig. 2 shows
+that 2015 and 2017 were in high volatility areas. Under such circumstances, our GARCH model is able to schedule market-related
+activities from high-volatility periods into low-volatility periods, gaining superior performance. Nevertheless, the overall perfor­
+mance is negative (increase the transportation cost), indicating that our GARCH model may have shortcomings in production planning.
+Table 4
+Model comparison regarding Bitcoin for GARCH Model.
+Bitcoin
+
+a
+
+Year
+
+Benchmark
+
+GARCH model
+
+Improvementa
+
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+Average
+
+5.83
+6.33
+7.88
+8.88
+8.83
+9.25
+10.75
+8.25
+
+5.78
+5.98
+7.82
+9.01
+8.77
+9.22
+10.88
+8.2
+
+− 0.87 %
+− 5.85 %
+− 0.77 %
+1.44 %
+− 0.68 %
+− 0.33 %
+1.19 %
+− 0.84 %
+
+: for the bitcoin price, we are dealing with the sale price for export, so when the bitcoin price is higher, we can earn more.
+6
+
+Research in International Business and Finance 62 (2022) 101690
+
+S. Ding et al.
+
+Table 5
+Model comparison for exchange rate for GARCH model.
+Exchange Rate (GBP)
+
+a
+
+Year
+
+Benchmark
+
+GARCH model
+
+Improvementa
+
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+Average
+
+0.42
+0.31
+0.24
+0.29
+0.25
+0.26
+0.32
+0.29
+
+0.38
+0.32
+0.25
+0.22
+0.21
+0.27
+0.3
+0.28
+
+− 10.53 %
+3.13 %
+4.00 %
+− 31.82 %
+− 19.05 %
+3.70 %
+− 6.67 %
+− 8.18 %
+
+: for the exchange rate of GBP/USD, we are dealing with the sale price for export, so when the exchange rate is higher, we can earn more.
+
+Table 6
+Model comparison for transportation cost for the GARCH model.
+Transportation Cost (BDI)
+
+Year
+
+Benchmark
+
+GARCH model
+
+Improvement
+
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+Average
+
+6.88
+6.46
+7.04
+7.18
+7.12
+6.86
+7.93
+7.06
+
+6.63
+6.44
+6.57
+8.02
+7.11
+6.93
+8.22
+7.13
+
+− 3.77 %
+− 0.31 %
+− 7.15 %
+10.47 %
+− 0.14 %
+1.01 %
+3.53 %
+0.52 %
+
+4. Production planning for manufacturing supply chain based on machine learning model
+To our surprise, our GARCH model has this inferior performance, and we believe there are several reasons for this result. First, as
+mentioned in Section 3.1, we have three time series to manage simultaneously. Therefore, the correlations among the key business
+variables play a vital role in supply chain management. It is arguable that the traditional GARCH model considers volatility separately.
+As a result, if we can consider volatilities in two time series (CBDC with BDI) simultaneously, the result could be improved. More
+importantly, if we can consider volatilities in both time series simultaneously, the correlation between the two time series shall also be
+taken into account. Second, when we estimate volatility, there could be noise involved in the time series without useful information
+(Bandi and Russell, 2006). Consequently, if we can filter the noise from the volatility time series, the model might provide us with more
+valuable information, and thus, we can formulate more effective production plans compared with the traditional GARCH model. To
+address the two key issues, we introduce the machine learning technique to help us formulate effective production plans, and the
+formulation process follows Section 3.1.
+4.1. Density based spatial clustering of applications with noise
+In this section, we adopt an unsupervised learning machine learning algorithm, namely, Density Based Spatial Clustering of Ap­
+plications with Noise (DBSCAN), to cluster the data for model building. DBSCAN is a representative density-based algorithm that has
+considerable advantages over partitional and hierarchical clustering algorithms because they are not limited to finding sphericalshaped clusters but can find clusters of arbitrary shapes. In addition, density-based algorithms can effectively identify noise points,
+which is desired for this work because there could be a significant noise ingredient within the volatility process (Merville and Pieptea,
+1989). This noise ingredient may interfere with the information reflection role of the whole volatility process. Therefore, noise
+filtration of the volatility process could be helpful for our information extraction from the volatility process.
+DBSCAN clusters the data points by density. It is primarily based on the concepts of density-reachability and density-connectivity.
+There are two important input parameters, epsilon(eps) and the minimum number of points (minPts). Epsilon is used to define its epsneighborhood by using the distance around a point object. In this work, we calculate the Euclidean distance between two point objects.
+For a given point object q, if there are at least minPts point objects that lie within its eps-neighborhood, then q is defined as a core point
+object, and all point objects within its eps-neighborhood are considered density reachable from q. In addition, a point object p is density
+reachable if it is within the eps-neighborhood of an object that is directly density reachable or density reachable from q. Furthermore,
+two point objects p and q are density-connected if there is another point object o that both p and q are density-reachable from o.
+The notions of density-reachability and density-connectivity are primarily used to find the clusters. In DBSCAN, a cluster is defined
+as the set of point objects that are density-connected to a particular core point object. Any point objects that are not part of a cluster will
+be classified as noise. This is different from other unsupervised clustering algorithms (for example, K-means), which assign every object
+to a cluster.
+The DBSCAN procedure is simple and works as follows: first, all point objects are assumed to be unassigned. Next, it randomly
+selects a point object p; if it finds that p is a core point object, it may find all the density-connected point objects based on the given eps
+7
+
+Research in International Business and Finance 62 (2022) 101690
+
+S. Ding et al.
+
+and minPts. All these point objects may form a new cluster. If it finds that p is not a core point object, then p is considered to be noise at
+the moment and may move to the next unassigned point object. Once every point object is processed, the algorithm stops.
+By using DBSCAN, we attempt to emphasize the effect of CBDC. It has a clear advantage over volatility estimation using a single key
+business variable, as it can capture the correlation between each two key business variables. The correlation between two time series
+would be highly useful because it allows us to consider volatility clustering of both time series simultaneously. The overall results are
+shown in Figs. 4 to 7. Fig. 4 presents the volatility clustering result of BTC volatility against BDI volatility, where the red nodes
+represent high volatility periods, blue nodes represent low volatility periods and green nodes represent noise within the volatility
+process. To clearly show the periods of volatility clustering, we add a time domain to make Figure 3-D, which is Fig. 5. From Fig. 5, we
+can easily identify different volatility clustering periods in the time axis. Then, we can schedule all our procurement activities into
+those low volatility periods. Similarly, Fig. 6 presents the volatility clustering result of GBP volatility against BDI volatility, where the
+red nodes represent high volatility periods, blue nodes represent low volatility periods and green nodes represent noise within the
+volatility process. To clearly show the periods of volatility clustering, we also add a time domain to make Figure 3-D, which is Fig. 7.
+From Fig. 7, we can easily identify different volatility clustering periods in the time axis. Further, we also plot the GBP volatility against
+BTC in Fig. 8, and the GBP volatility against BTC with time dimension in Fig. 9. Those two figures illuminate the combination effect of
+GBP with BTC to represent the effect of CBDC. Then, we can schedule all our distribution activities into those low volatility periods.
+Therefore, we are able to shift all manufacturing company activities into low volatility areas for both CBDC and BDI in supply chain
+management. These results can be helpful for firms to take advantage of production rescheduling based on CBDC volatility, which also
+yields the effect of CBDC volatility represented by two different currencies.
+4.2. Empirical results for the volatility clustering model with machine learning
+By using the supply chain volatility clustering scheduling technique with DBSCAN, we have developed new annual production
+plans for manufacturing companies. The detailed machine learning volatility clustering can be found in Figs. 4 to 7, as mentioned in the
+last section. The results of annual production plans from the machine learning model are exhibited in Tables 7 to 9, where Tables 7 and
+Tables 8 are on the revenue side and Table 9 is on the cost side.
+In particular, we meld both BTC volatility and GBP volatility in the rescheduling model, where BTC represents the digital currency
+side of CBDC and GBP represents the sovereign currency side of CBDC. We undertake production plan optimization by considering both
+currency volatilities. From the BTC side, most years from our machine learning model have a positive improvement rate for all
+subsample years, resulting in a higher revenue for manufacturing companies. The detailed result is shown in Table 8. Similarly, from
+the GBP side, our model has positive improvement in all years, also resulting in a higher revenue for manufacturing companies. The
+detailed result is shown in Table 8 From our machine learning model, we both have positive overall performance in two currencies,
+which is more desirable than the GARCH model.
+From saving transportation costs, the model comparison results are presented in Table 9. Table 9 indicates that our machine
+learning model presents an overall improvement rate of 6.68% and that all years have positive improvement rates. BDI represents the
+
+Figure 4. Plotting of BTC volatility against BDI volatility.
+8
+
+Research in International Business and Finance 62 (2022) 101690
+
+S. Ding et al.
+
+Figure 5. Plotting of BTC volatility against BDI volatility with time domain.
+
+Figure 6. Plotting of GBP volatility against BDI volatility.
+
+overall transportation cost level, and reducing the transportation price level can help manufacturing companies save costs. Therefore,
+our machine learning model would be helpful in reducing the cost, as shown in Table 9.
+Tables 10 and 11 summarize the overall performance of the GARCH model and our model compared with the benchmark model.
+The overall improvement rates for the other three time series, namely, BDI, BTC and GBP, are 0.52 %, − 0.84 %, and − 8.18 %,
+respectively for the GARCH model presented in Table 10. As a result, it is arguable that our GRACH model has a quite weak per­
+formance in the production planning performance. On the other hand, our machine learning model results in Table 11 show that the
+overall improvement rates for the other three time series, namely, BDI, BTC and GBP, are − 6.68 %, 2.86 %, and 9.77 %, respectively.
+As a result, it is arguable that our machine learning model can help manufacturing firms save approximately 7 % of the overall cost and
+raise approximately 12 % revenue, which is more favored than the previous GARCH model.
+9
+
+Research in International Business and Finance 62 (2022) 101690
+
+S. Ding et al.
+
+Figure 7. Plotting of GBP volatility against BDI volatility with time domain.
+
+Figure 8. Plotting of GBP volatility against BTC volatility.
+
+5. Conclusion
+In summary, the main issue for this paper to accommodate is to deliver a sensible production plan based on the volatility clustering
+model regarding manufacturing companies with the application of CBDC in the supply chain. We unravel the fact that CBDC volatility
+can generate considerable effect on the supply chain management for manufacturing companies. Consequently, manufacturing
+companies formulate the production plan based on volatility clustering model can be helpful in the reduction of uncertainties from
+both CBDC and BDI. Our framework is based on the volatility clustering model, and we schedule company-related activities into lowvolatility periods. Under such a framework, we can thereby reduce the overall uncertainty levels faced by manufacturing companies, as
+both CBDC and BDI uncertainties can be lessened through rescheduling.
+10
+
+Research in International Business and Finance 62 (2022) 101690
+
+S. Ding et al.
+
+Figure 9. Plotting of GBP volatility against BTC volatility with time domain.
+Table 7
+Model comparison regarding Bitcoin for machine learning model.
+Bitcoin
+
+a
+
+Year
+
+Benchmark
+
+Our model
+
+Improvementa
+
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+Average
+
+5.83
+6.33
+7.88
+8.88
+8.83
+9.25
+10.75
+8.25
+
+6.1
+6.55
+8.02
+9.02
+9.15
+9.36
+11.23
+8.49
+
+4.43 %
+3.36 %
+1.75 %
+1.55 %
+3.50 %
+1.18 %
+4.27 %
+2.86 %
+
+: for the bitcoin price, we are dealing with the sale price for export, so when the bitcoin price is higher, we can earn more.
+
+Table 8
+Model comparison for exchange rate for machine learning model.
+Exchange rate (GBP)
+
+a
+
+Year
+
+Benchmark
+
+Our Model
+
+Improvementa
+
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+Average
+
+0.42
+0.31
+0.24
+0.29
+0.25
+0.26
+0.32
+0.29
+
+0.44
+0.35
+0.32
+0.3
+0.28
+0.29
+0.33
+0.33
+
+4.55 %
+11.43 %
+25.00 %
+3.33 %
+10.71 %
+10.34 %
+3.03 %
+9.77 %
+
+: for the exchange rate of GBP/USD, we are dealing with the sale price for export, so when the exchange rate is higher, we can earn more.
+
+To capture the feature of CBDC volatility, we meld both BTC volatility and GBP volatility in the rescheduling model, where BTC
+represents the digital currency side of CBDC and GBP represents the sovereign currency side of CBDC. We first used the GARCH model
+as the volatility clustering model for production planning, where the model performance is inferior. We argue that if we can consider
+volatilities in both time series simultaneously and filter the noise from the time series, the model performance could be enhanced.
+Hence, we adopt the DBSCAN technique, which is a type of machine learning approach to achieve these two goals, and the perfor­
+mance actually has been improved. Thus, we can conclude that manufacturing companies’ production plans can be strengthened
+through uncertainty reduction. We combine BTC volatility with GBP volatility to reveal the CBDC volatility effect on SCM, and we
+schedule the production plan within those low volatility periods for both BTC and GBP accordingly. On this basis, our model verifies
+that the enhanced production plan can help companies to have better cost and revenue management, as it reduces costs and increases
+11
+
+Research in International Business and Finance 62 (2022) 101690
+
+S. Ding et al.
+
+Table 9
+Model comparison for transportation cost for machine learning Model.
+Transportation cost (BDI)
+
+Year
+
+Benchmark
+
+Our Model
+
+Improvement
+
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+Average
+
+6.88
+6.46
+7.04
+7.18
+7.12
+6.86
+7.93
+7.06
+
+6.77
+6.31
+6.22
+6.98
+6.36
+6.27
+7.52
+6.63
+
+−
+−
+−
+−
+−
+−
+−
+−
+
+1.51 %
+2.38 %
+13.18 %
+2.87 %
+11.95 %
+9.41 %
+5.45 %
+6.68 %
+
+Table 10
+Summary of key variable overall improvement rates by taking the
+exponential function for the GARCH model.
+Key Business Variables
+
+Overall improvement
+
+BDI
+BTC
+Exchange Rate
+Overall
+
+0.52 %
+− 0.84 %
+− 8.18 %
+− 9.49 %
+
+Table 11
+Summary of key variable overall improvement rates by taking the
+exponential function for the machine learning model.
+Key business variables
+
+Overall improvement
+
+BDI
+BTC
+Exchange Rate
+Overall
+
+− 6.68 %
+2.86 %
+9.77 %
+19.31 %
+
+revenue.
+Furthermore, our study also yields significant policy implications. As we demonstrate in the empirical part, companies that arrange
+their activities into a low-volatility period of CBDC could generate a vast amount of benefits. Therefore, the stable operation of CBDC
+becomes crucial. This financial stability issue of CBDC has also been mentioned in Williamson (2021). Therefore, the selection of a
+CBDC operation platform and the efficiency of transactions tackling become pivotal before the issuance of CBDC. As a result, the
+decentralized distributed databases will be preferred as they can handle tremendous transactions simultaneously based on the
+blockchain technique. This thereby ensures the stability of CBDC and thus reduces the uncertainty. More importantly, the adoption of
+blockchain techniques can inspire the future development of intelligentized supply chains, such as the integration of smart contracts
+with supply chains (Chang et al., 2019). As Dolgui et al. (2020) illuminate, smart contract integration in a supply chain can be helpful
+in the automatic execution of physical operations in the supply chain and can also be valuable in improving cybersecurity. We thereby
+shed light on the integration of digital currency in the supply chain, which further envisages a luminous blueprint for future CBDC
+development.
+Funding
+This paper is supported by the Academy of Longyuan Construction Financial Research Grant (Grant Number: LYZDB2004) and is
+also supported by International Research Center for Sustainable Finance.
+Authorship contributions
+Please indicate the specific contributions made by each author (list the authors’ initials followed by their surnames, e.g., Y.L.
+Cheung). The name of each author must appear at least once in each of the three categories below.
+Declarations of Competing Interest
+None.
+
+12
+
+Research in International Business and Finance 62 (2022) 101690
+
+S. Ding et al.
+
+Acknowledgments
+All persons who have made substantial contributions to the work reported in the manuscript (e.g., technical help, writing and
+editing assistance, general support), but who do not meet the criteria for authorship, are named in the Acknowledgments and have
+given us their written permission to be named. If we have not included an Acknowledgments, then that indicates that we have not
+received substantial contributions from non-authors.
+References
+Aharon, D.Y., Demir, E., Lau, C.K.M., Zaremba, A., 2022. Twitter-based uncertainty and cryptocurrency returns. Res. Int. Bus. Financ. 59, 101546.
+Alexander, C., 2002. Principal component models for generating large garch covariance matrices. Econ. Notes 31, 337–359.
+Aqlan, F., Lam, S.S., 2016. Supply chain optimization under risk and uncertainty: a case study for high-end server manufacturing. Comput. Ind. Eng. 93, 78–87.
+Ardia, D., Bluteau, K., Ruede, M., 2019. Regime changes in bitcoin garch volatility dynamics. Financ. Res. Lett. 29, 266–271.
+Bai, X., Russell, J.R., Tiao, G.C., 2003. Kurtosis of garch and stochastic volatility models with non-normal innovations. J. Econ. 114, 349–360.
+Bandi, F.M., Russell, J.R., 2006. Separating microstructure noise from volatility. J. Financ. Econ. 79, 655–692.
+BenDhaou, S.I., Rohman, I.K., 2018. Everything and its opposite: Socio-economic implications of blockchain technology: Case of monetary policy. In: Proceedings of
+the 11th International Conference on Theory and Practice of Electronic Governance, pp. 631–639.
+Bergsli, L.Ø., Lind, A.F., Molnár, P., Polasik, M., 2022. Forecasting volatility of bitcoin. Res. Int. Bus. Financ. 59, 101540.
+Chang, S.E., Chen, Y.C., Lu, M.F., 2019. Supply chain re-engineering using blockchain technology: a case of smart contract based tracking process. Technol. Forecast.
+Soc. Change 144, 1–11.
+Chaudhry, S.M., Ahmed, R., Huynh, T.L.D., Benjasak, C., 2022. Tail risk and systemic risk of finance and technology (fintech) firms. Technol. Forecast. Soc. Change
+174, 121191.
+Choi, T.M., 2021. Creating all-win by blockchain technology in supply chains: impacts of agents’ risk attitudes towards cryptocurrency. J. Oper. Res. Soc. 72,
+2580–2595.
+Choudhry, T., Wu, H., 2009. Forecasting the weekly time-varying beta of uk firms: garch models vs. kalman filter method. Eur. J. Financ. 15, 437–444.
+Cole, R., Stevenson, M., Aitken, J., 2019. Blockchain technology: implications for operations and supply chain management. Supply Chain Manag.: Int. J. 24,
+469–483.
+De Soyres, F., Frohm, E., Gunnella, V., Pavlova, E., 2021. Bought, sold and bought again: the impact of complex value chains on export elasticities. Eur. Econ. Rev.
+140, 103896.
+Ding, S., Zhang, Y., Duygun, M., 2019. Modeling price volatility based on a genetic programming approach. Br. J. Manag. 30, 328–340.
+Diniz-Maganini, N., Diniz, E.H., Rasheed, A.A., 2021. Bitcoinas price efficiency and safe haven properties during the covid-19 pandemic: a comparison. Res. Int. Bus.
+Financ. 58, 101472.
+Dolgui, A., Ivanov, D., Potryasaev, S., Sokolov, B., Ivanova, M., Werner, F., 2020. Blockchain-oriented dynamic modelling of smart contract design and execution in
+the supply chain. Int. J. Prod. Res. 58, 2184–2199.
+Easley, D., O’Hara, M., Basu, S., 2019. From mining to markets: the evolution of bitcoin transaction fees. J. Financ. Econ. 134, 91–109.
+Gavrishchaka, V.V., Banerjee, S., 2006. Support vector machine as an efficient framework for stock market volatility forecasting. Comput. Manag. Sci. 3, 147–160.
+Gnoni, M., Iavagnilio, R., Mossa, G., Mummolo, G., DiLeva, A., 2003. Production planning of a multi-site manufacturing system by hybrid modelling: a case study from
+the automotive industry. Int. J. Prod. Econ. 85, 251–262.
+Gökalp, E., Gökalp, M.O., Çoban, S., 2022. Blockchain-based supply chain management: understanding the determinants of adoption in the context of organizations.
+Inf. Syst. Manag. 39, 100–121.
+Guerra-Zubiaga, D.A., Young, R.I., 2008. Design of a manufacturing knowledge model. Int. J. Comput. Integr. Manuf. 21, 526–539.
+Guo, X., Lu, F., Wei, Y., 2021. Capture the contagion network of bitcoin-evidence from pre and mid covid-19. Res. Int. Bus. Financ. 58, 101484.
+Hendricks, K.B., Singhal, V.R., 2005. Association between supply chain glitches and operating performance. Manag. Sci. 51, 695–711.
+Huchzermeier, A., Cohen, M.A., 1996. Valuing operational flexibility under exchange rate risk. Oper. Res. 44, 100–113.
+Hughes, A., Park, A., Kietzmann, J., Archer-Brown, C., 2019. Beyond bitcoin: what blockchain and distributed ledger technologies mean for firms. Bus. Horiz. 62,
+273–281.
+Huynh, T.L.D., Ahmed, R., Nasir, M.A., Shahbaz, M., Huynh, N.Q.A., 2021. The nexus between black and digital gold: evidence from us markets. Ann. Oper. Res. 1–26.
+Jiang, S., Li, Y., Wang, S., Zhao, L., 2022. Blockchain competition: the tradeoff between platform stability and efficiency. Eur. J. Oper. Res. 296, 1084–1097.
+Jin, X., Zhu, K., Yang, X., Wang, S., 2021. Estimating the reaction of bitcoin prices to the uncertainty of fiat currency. Res. Int. Bus. Financ. 58, 101451.
+Katsiampa, P., 2017. Volatility estimation for bitcoin: a comparison of garch models. Econ. Lett. 158, 3–6.
+Kenc, T., Cevik, E.I., Dibooglu, S., 2021. Bank default indicators with volatility clustering. Ann. Financ. 17, 127–151.
+Kenourgios, D., Papadamou, S., Dimitriou, D., 2015. On quantitative easing and high frequency exchange rate dynamics. Res. Int. Bus. Financ. 34, 110–125.
+Kim, K.K., Park, K.S., 2014. Transferring and sharing exchange-rate risk in a risk-averse supply chain of a multinational firm. Eur. J. Oper. Res. 237, 634–648.
+Kshetri, N., 2021. Blockchain and sustainable supply chain management in developing countries. Int. J. Inf. Manag. 60, 102376.
+Le, L.T., Yarovaya, L., Nasir, M.A., 2021. Did covid-19 change spillover patterns between fintech and other asset classes? Res. Int. Bus. Financ. 58, 101441.
+Maravelias, C.T., Sung, C., 2009. Integration of production planning and scheduling: overview, challenges and opportunities. Comput. Chem. Eng. 33, 1919–1930.
+Merville, L.J., Pieptea, D.R., 1989. Stock-price volatility, mean-reverting diffusion, and noise. J. Financ. Econ. 24, 193–214.
+Olhager, J., Selldin, E., 2004. Supply chain management survey of swedish manufacturing firms. Int. J. Prod. Econ. 89, 353–361.
+Pranesh, S., Viswanathan, N., Vijayalakshmi, M., et al., 2020. Design and analysis of incentive mechanism for ethereum-based supply chain management systems. In:
+Proceedings of the 2020 11th International Conference on Computing, Communication and Networking Technologies (ICCCNT), IEEE. pp.1–6.
+Prat, J., Walter, B., 2021. An equilibrium model of the market for bitcoin mining. J. Political Econ. 129, 2415–2452.
+Saberi, S., Kouhizadeh, M., Sarkis, J., Shen, L., 2019. Blockchain technology and its relationships to sustainable supply chain management. Int. J. Prod. Res. 57,
+2117–2135.
+Sethaput, V., Innet, S., 2021. Blockchain application for central bank digital currencies (cbdc), In: Proceedings of the 2021 Third International Conference on
+Blockchain Computing and Applications (BCCA), IEEE. pp.3–10.
+Sun, H., Yu, B., 2020. Forecasting financial returns volatility: a garch-svr model. Comput. Econ. 55, 451–471.
+Sun, H., Mao, H., Bai, X., Chen, Z., Hu, K., Yu, W., 2017. Multi-blockchain model for central bank digital currency. In: Proceedings of the 2017 18th International
+conference on parallel and distributed computing, applications and technologies (PDCAT), IEEE pp. 360–367.
+Thun, J.H., Druke, M., Hoenig, D., 2011. Managing uncertainty-an empirical analysis of supply chain risk management in small and medium-sized enterprises. Int. J.
+Prod. Res. 49, 5511–5525.
+Troster, V., Tiwari, A.K., Shahbaz, M., Macedo, D.N., 2019. Bitcoin returns and risk: a general garch and gas analysis. Financ. Res. Lett. 30, 187–193.
+Van der Vorst, J.G., Beulens, A.J., 2002. Identifying sources of uncertainty to generate supply chain redesign strategies. Int. J. Phys. Distrib. Logist. Manag. 32,
+409–430.
+Venter, P.J., Maré, E., 2022. Price discovery in the volatility index option market: a univariate garch approach. Financ. Res. Lett. 44, 102069.
+Vessio, M.L., 2021. The bank of england’s approach to central bank digital currencies–considerations regarding a native digital pound and the regulatory aspects. In:
+FinTech, Artificial Intelligence and the Law. Routledge, pp. 169–189 (pp).
+Viriyasitavat, W., Hoonsopon, D., Bi, Z., 2021. Augmenting cryptocurrency in smart supply chain. J. Ind. Inf. Integr. 21, 100188.
+
+13
+
+Research in International Business and Finance 62 (2022) 101690
+
+S. Ding et al.
+
+Williamson, S.D., 2021. Central bank digital currency and flight to safety. J. Econ. Dyn. Control, 104146.
+Wong, C.Y., Boon-Itt, S., Wong, C.W., 2011. The contingency effects of environmental uncertainty on the relationship between supply chain integration and
+operational performance. J. Oper. Manag. 29, 604–615.
+Xu, Z., Zou, C., 2021. What can blockchain do and cannot do? China Econ. J. 14, 4–25.
+Xu, Z., Liu, Y., Zhang, J., Song, Z., Li, J., Zhou, J., 2019. Manufacturing industry supply chain management based on the ethereum blockchain. In: Proceedings of the
+2019 IEEE International Conferences on Ubiquitous Computing & Communications (IUCC) and Data Science and Computational Intelligence (DSCI) and Smart
+Computing, Networking and Services (SmartCNS), IEEE. pp. 592–596.
+You, Y., Liu, X., 2020. Forecasting short-run exchange rate volatility with monetary fundamentals: a garch-midas approach. J. Bank. Financ. 116, 105849.
+Zhang, W., Li, Y., 2020. Is idiosyncratic volatility priced in cryptocurrency markets? Res. Int. Bus. Financ. 54, 101252.
+
+14
+
+

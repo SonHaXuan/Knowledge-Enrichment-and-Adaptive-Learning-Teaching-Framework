@@ -1,0 +1,2697 @@
+Dialogue on Global Digital Finance Governance
+
+Technical Paper 1.2
+
+Digital currencies and CBDC
+impacts on least developed
+countries (LDCs)
+Katherine Foster, Sofie Blakstad, Sangita Gazi and Martijn Bos
+
+The findings of the Dialogue on Global Digital Finance
+Governance are packaged into three thematic areas:
+
+Theme 1
+BigFintechs and their impacts on
+sustainable development
+• T
+ echnical Paper 1.1 BigFintechs and their
+impacts on sustainable development
+• Technical Paper 1.1B BigFintechs and their
+impacts on macroeconomic policies
+• Technical Paper 1.2 Digital currencies and
+CBDC impacts on least developed countries
+
+Theme 2
+Corporate governance innovations
+• T
+ echnical Paper 2.1 BigFintechs and the UN SDGs:
+the role of corporate governance innovations
+
+Theme 3
+BigFintechs and international governance,
+policymaking and the SDGs
+• T
+ echnical Paper 3.1 Policymakers, BigFintechs and
+the United Nations Sustainable Development Goals
+• T
+ echnical Paper 3.2 BigFintechs and international
+governance, policymaking and the UN Sustainable
+Development Goals: the SDGs in the international
+governance of finance
+• T
+ echnical Paper 3.3 A principles-based approach
+to the governance of BigFintechs
+
+Executive Summary
+The purpose of this Technical Paper is to garner a more
+robust understanding of the potential macroeconomic
+impacts and related regulatory challenges of central bank
+digital currencies (CBDCs) and other digital currency
+initiatives on developing countries. This paper begins
+from a point of recognition that the landscape of digital
+currencies, their associated taxonomy as well as related
+regulations are still evolving alongside their potential
+implications. As such, we focus on the different types
+of digital currencies previously in circulation, delineating
+these from those on the near and immediate horizon.
+We employ an umbrella definition to encompass CBDCs
+and digital ledger technology (DLT)-based currencies
+including stablecoins, as well as earlier versions of digital
+money, as subsets of digital currency to examine the
+evolution of macroeconomic impacts on developing
+countries as well as the emerging regulatory gaps.
+We cluster key elements and draw assumptions
+across common parameters in research, for the sake
+of consistency and to retain the focus on advancing
+the understanding of the broader macroeconomic
+impacts on least developed countries (LDCs).
+We begin with the evolution of mobile money and
+e-money as a subset of digital currencies and their well
+understood positive impact on financial inclusion. We
+touch briefly upon the regulatory challenges related to
+the near monopolies of mobile financial services providers
+and the implications on the traditional commercial
+banking sector as well as for consumer protection. We
+also examine the implications of regulatory gaps and
+risks related to e-money including the market dominance
+of BigFintech (BFT) companies offering e-money. The
+
+Electronic copy available at: https://ssrn.com/abstract=3871301
+
+1
+
+The Dialogue on Global Digital Finance Governance
+was established by the UN Secretary General’s Task
+Force on Digital Financing of the SDGs. During its
+investigations, the Task Force recognized that
+digitalization is not only reshaping the world of
+finance; it is also driving the emergence of a new
+generation of global, dominant digital finance
+platforms (BigFintechs) with increasing cross-border
+spillover effects on many areas of sustainable
+development across the world, particularly
+in developing economies.
+The potential impacts of these platforms are both
+positive and negative, and one of the main challenges
+in addressing them is that existing policy approaches
+to BigFintechs have mostly focused on narrow,
+although important, financial stability, consumer
+protection and market integrity issues, and some
+aspects of data, Internet and competition regulation,
+but have remained largely disconnected from the
+broader SDG/ESG debate. Another issue is that the
+governing arrangements of such platforms have
+seldom involved developing economies, where their
+impacts are often strongest, and the potential for
+transformation is greatest.
+The Dialogue was established to explore the nexus
+of BigFintechs and sustainable development. Its goal
+is to catalyse governance innovations that take
+greater account of the SDG impacts of BigFintechs
+and are more inclusive of the voices of developing
+nations. To this end, the Dialogue has produced a
+series of Technical Papers that bring new,
+complementary perspectives on these issues.
+The papers have been drafted by commanding
+experts in the field and have been peer-reviewed
+by leading institutions and academics.
+
+paper also examines BFTs from the perspective of their
+use of government-issued digital currencies and/or
+development or use of private-issued digital currencies.
+An examination of stablecoins is then undertaken with
+regard to the implications and relationship with existing
+global payment systems, outlining the limited benefits for
+developing countries in comparison to existing payment
+systems. Global stablecoins such as the proposed
+Diem are examined with a specific emphasis related to
+the macroeconomic implications for LDCs. Likewise,
+the paper provides a targeted analysis of the potential
+macroeconomic implications of CBDCs particularly for
+LDCs, drawing on key examples of CBDC and digital
+currencies that have been launched or are being piloted.
+We provide a section on the implications of digital
+currencies in the African context as it is home to most
+of the world’s LDCs, and is an ongoing focal point for
+mobile money, financial inclusion technology and digital
+currencies. The implications of the COVID-19 pandemic
+are also discussed for the African context as are the global
+considerations of shadow banking.
+The paper concludes with a summary of the potential
+risks and macroeconomic implications both nationally and
+internationally including those related to the fragmented
+regulatory approaches as well as the emerging
+technology and governance structures that do not fall
+within traditional regulatory oversight and mechanisms.
+It extrapolates key points to better inform the dialogue
+around a new generation of governance innovations to
+address the emerging trends, risks and vulnerabilities,
+particularly in LDCs, and around a potential gap between
+national fiscal and monetary policy and the capabilities of
+nations to execute such policies.
+
+The following paper is Technical Paper 1.2 under
+Theme 1.
+The Dialogue on Global Digital Finance Governance
+is hosted by the Swiss and Kenyan Governments and
+stewarded jointly by the United Nations Development
+Programme (UNDP) and United Nations Capital
+Development Fund (UNCDF).
+
+Electronic copy available at: https://ssrn.com/abstract=3871301
+
+2
+
+About the authors
+Katherine Foster - Executive Strategy Officer, Open Earth Foundation (USA); Member ESMA Financial Innovation
+Standing Committee Consultative Working Group and the EU Blockchain Observatory; co-author IIED Brief Digital
+technologies for an inclusive, low-carbon future that puts people first.
+Sofie Blakstad - CEO, impact Fintech start-up hiveonline; author, Fintech Revolution: Universal Inclusion in the New
+Financial Ecosystem.
+Sangita Gazi - Research Fellow, Asian Institute of International Financial Law (AIIFL), University of Hong Kong (HKU);
+PhD researcher at the Faculty of Law, HKU, focusing on the cross-border and monetary policy implications of central
+bank digital currency (CBDC) in emerging economies.
+Martijn Bos - Financial Technology & Financial Inclusion Consultant, co-author of The European Fintech Landscape in
+Green Digital Finance.
+Copyright © 2021 UNDP, UNCDF
+All rights reserved.
+The views expressed in this publication are those of the author(s) and do not necessarily represent those of the United Nations,
+including UNCDF and UNDP, or their Member States.
+
+Contents
+INTRODUCTION												4
+SCOPE AND STRUCTURE OF THE PAPER									5
+EMERGING APPLICATIONS FOR DIGITAL CURRENCIES								5
+MOBILE MONEY												6
+E-MONEY													8
+STABLECOINS													10
+MACROECONOMIC CONSIDERATIONS OF STABLECOINS							10
+GLOBAL STABLECOINS (GSCS)											11
+MACROECONOMIC CONSIDERATIONS OF DIEM: BFT’S ADOPTION OF A GSC					
+
+12
+
+CENTRAL BANK DIGITAL CURRENCIES (CBDCS)								12
+MACROECONOMIC CONSIDERATIONS OF CBDCS								15
+NATIONAL BANK OF CAMBODIA’S PROJECT BAKONG								17
+HUB AND SPOKE MODEL IN CHINA: DC/EP									17
+RIKSBANK’S E-KRONA												17
+CBDCS VERSUS STABLECOINS											18
+COMBINED MACROECONOMIC IMPACTS OF CBDCS AND DIGITAL CURRENCIES ON LDCS			
+
+19
+
+DIGITAL CURRENCIES IN THE AFRICAN CONTEXT								19
+POTENTIAL EVOLUTION OF AN AFRICAN BLOC CURRENCY							20
+UNBANKED COMMUNITIES: THE FRONTLINE FOR MAINTAINING CURRENCY SOVEREIGNTY			
+
+21
+
+GLOBAL CONSIDERATIONS: SHADOW BANKING AND COVID-19						21
+KEY EXTRAPOLATIONS AND CONCLUSIONS									22
+
+Electronic copy available at: https://ssrn.com/abstract=3871301
+
+3
+
+Introduction
+Technology has always been a catalyst of change in
+monetary and payment systems across the globe. The
+Fintech-led evolution in the payments systems has seen
+the concept of currency undergo transformation in an
+unprecedented way.1 Although currency existed in virtual
+forms before (such as mobile money and e-money),
+Bitcoin’s launch in 2009 marked an alteration in the
+conceptualization of ‘virtual currency’ by introducing
+a cryptographic form of electronic cash operated on a
+blockchain protocol—a peer-to-peer distributed ledger
+technology (DLT) that securely records transactions
+across computers.2 Despite the presence of DLT since
+1991,3 it was Bitcoin4 that for the first time successfully
+conceptualized the technology into building a peerto-peer transaction network and creating a distinct
+form of cryptographically encrypted currencies, that
+is cryptocurrencies. Although these blockchain-based
+cryptocurrencies operated in an unregulated space for a
+long time,5 with some occasional exceptions,6 they did
+not gain popularity as alternative ‘currencies’7 because of
+their extremely volatile and speculative nature. However,
+Facebook’s proposal of ‘Libra’ (now ‘Diem’)—an assetbacked global stablecoin (GSC)—opened up a new avenue
+with the prospect of creating a widely available alternative
+monetary instrument to be used across a range of
+payments platforms.8 With a massive global reach
+among Facebook, Instagram and WhatsApp users, Libra
+potentially threatened the ‘sovereignty’ aspect of money
+and thus triggered responses from regulators worldwide.
+Subsequently, Facebook had to step back from its original
+plan of adopting a multi-currency asset-pegged Libra to
+issuing a single currency $-backed coin (now named Diem)
+as a result of the backlash from regulators. Moreover,
+Facebook’s announcement of a GSC initiative resurfaced
+the need for regulation to curb the adverse impacts of
+blockchain-enabled cryptocurrencies and stablecoins.9
+1
+
+2
+3
+
+4
+
+5
+6
+7
+8
+
+9
+
+ For a general discussion, see Arner D, Barberis J, Buckley R, ‘The Evolution of
+Fintech: A New Post-Crisis Paradigm’, UNSW Law Research Paper No. 201662, 2016, <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2676553>.
+ Nakamoto S, ‘Bitcoin: A Peer-to-Peer Electronic Cash System’, bitcoin, 2008,
+<https://bitcoin.org/bitcoin.pdf>.
+ The first DLT description which was a precursor to blockchain was Haber S,
+Stornetta WS, ‘How to Time-stamp a Digital Document’, 1991, <www.anf.es/
+pdf/Haber_Stornetta.pdf>.
+ Stuart Harber and W Scott Stornetta first established a cryptographically secured chain of blocks; see ‘History of Blockchain’, ICAEW, <www.icaew.com/
+technical/technology/blockchain/blockchain-articles/what-is-blockchain/history>.
+ The regulatory responses were sporadic across the world and did not spur
+until the beginning of the initial coin offering (ICO) rush.
+ Such as ICO or banning cryptocurrency in many jurisdictions.
+ A currency as a legal tender has three major features: (1) unit of account, (2)
+store of value and (3) a medium of exchange.
+ Hockett R, ‘Facebook’s Proposed Crypto-Currency: More Pisces than Libra
+for Now’, Forbes, June 2019, <www.forbes.com/sites/rhockett/2019/06/20/
+facebooks-proposed-crypto-currency-more-pisces-than-libra-for-now/?sh=7b684b2e2be2>.
+ To address the regulatory risks around stablecoins, the Financial Stability
+Board (FSB), 18 October 2019, presented a paper before the G20 Finance Ministers and Central Bank Governors setting out the areas of concerns regarding
+stablecoins; see ‘Regulatory Issues of Stablecoins’, Financial Stability Board,
+October 2019, <www.fsb.org/wp-content/uploads/P181019.pdf> and G-Seven
+Working Group on Stablecoins, ‘Investing the Impact of Global Stablecoins’,
+Bank of International Settlement, October 2019, <www.bis.org/cpmi/publ/
+d187.pdf>. The following year, the FSB prepared a consultative document that
+critically analyses the regulatory, supervisory and oversight challenges evolving
+
+Recently, the United States Office of the Comptroller of
+the Currency (OCC) decided to allow banks to transact
+using digital assets including stablecoins.10 As Bitcoin’s
+price continues to see dramatic leaps in value, it appears
+that the market participants11 are also interested in
+normalizing $-pegged stablecoins or even Bitcoin as
+a medium of exchange, which could incentivize the
+possibility of widespread adoption of blockchain-based
+digital currencies.
+The COVID-19 pandemic boosted the need for
+‘contactless’ payment and the ‘digitalization’ of payment
+systems, especially in developed and emerging
+economies. Interest in DLT both from public and private
+authorities also culminated in actual releases: China
+developed its first ever digital form of money—Digital
+Currency-Electronic Payment (DC/EP),12 and the Bahamas
+introduced its US-dollar pegged central bank digital
+currency (CBDC)—the Sand Dollar.13 CBDC is also taking
+a regional form as the Eastern Central Caribbean Central
+Bank (ECCB) rolled out its pilot of DCash—a regional
+CBDC to be operated in seven island nations. Regional
+collaboration is also under way to establish a single
+platform for multiple CBDCs (‘m-CBDC bridge’) among the
+Hong Kong Monetary Authority, Bank of Thailand, Central
+Bank of the United Arab Emirates and People’s Bank of
+China’s Digital Currency Institute.14
+As technology remains a major catalyst in changing
+the paradigm of monetary and payment systems (both
+influenced by public and private authorities), there is
+around the new crypto-asset class; see ‘Addressing the Regulatory, Supervisory and Oversight Challenges Raised by “Global Stablecoin” Arrangements:
+Consultative Document’, The Financial Stability Board, April 2020, <www.fsb.
+org/2020/04/addressing-the-regulatory-supervisory-and-oversight-challenges-raised-by-global-stablecoin-arrangements-consultative-document/>. See
+also ‘Regulation, Supervision and Oversight of “Global Stablecoin” Arrangements: Final Report and High-Level Recommendations’, Financial Stability
+Board, October 2020, <www.fsb.org/wp-content/uploads/P131020-3.pdf>.
+In the European Union, the EU Commission adopted comprehensive draft on
+cryptoasset regulation, ‘Markets in Cryptoasset Regulation (MiCA)’, to enhance consumer and investor protection and reduce the risks associated with
+digital finance; see Latham & Watkins LLP, ‘MiCA: EU Commission Publishes
+Comprehensive Cryptoasset Market Regulation Proposal’, Global Fintech &
+Payments Blog, October 2020, <www.fintechandpayments.com/2020/10/
+mica-eu-commission-publishes-comprehensive-cryptoasset-market-regulation-proposal/>.
+10 Office
+
+of the Comptroller of the Currency [OCC] ‘Federally Chartered Banks
+and Thrifts May Participate in Independent Node Verification Networks and
+Use Stablecoins for Payment Activities’, Washington, January 2021, <www.
+occ.gov/news-issuances/news-releases/2021/nr-occ-2021-2.html>.
+11 Khatri
+
+Y, ‘Visa Now Settles Payments in USDC Stablecoin on Ethereum
+Blockchain’, The Block, March 2021; ‘PayPal Now Allows Crypto Spending at
+Millions of Merchants’, The Block, March 2021; see also, Nicholas K, ‘Tesla
+Now Accepts Bitcoin as Payment for Cars, Musk Says’, The Bloomberg, March
+2021, <www.bloomberg.com/news/articles/2021-03-24/you-can-now-buy-atesla-with-bitcoin-elon-musk-says>.
+12 Areddy JT, ‘China Creates Its Own Digital Currency, a First for Major Economy’, The Wall Street Journal, April 2021, <www.wsj.com/articles/china-createsits-own-digital-currency-a-first-for-major-economy-11617634118>.
+13 Bharathan
+
+V, ‘Central Bank Digital Currency: The First Nationwide CDC in the
+World Has Been Launched by the Bahamas’, Forbes, October 2020, <www.
+forbes.com/sites/vipinbharathan/2020/10/21/central-bank-digital-currency-thefirst-nationwide-cbdc-in-the-world-has-been-launched-by-the-bahamas/?sh=11b81a5d506e>.
+14 The Hong Kong Monetary Authority, ‘Fintech Co-operation between the Hong
+Kong Monetary Authority and the Central Bank of the United Arab Emirates’,
+Press Release, February 2021, <www.hkma.gov.hk/eng/news-and-media/
+press-releases/2021/02/20210223-4/> ; see also, ‘Multiple CBDC (mCBDC)
+Bridge’, Bank for International Settlements, <www.bis.org/about/bisih/topics/
+cbdc/mcbdc_bridge.htm>.
+4
+
+Electronic copy available at: https://ssrn.com/abstract=3871301
+
+also an urgency to study the large-scale macroeconomic
+impacts of digital currencies and how these could
+alter the dynamics of current monetary and payment
+systems and global financial stability. Further, this also
+demands that impacts are studied in the context of least
+developed countries (LDCs) and how they influence
+the United Nations’ Sustainable Development Goals
+(SDGs). From a cross-border aspect, digital currencies,
+including CBDCs are likely to reduce transaction costs
+for end-users, and hence transfer of remittance is likely
+to be easier and cheaper. Adversely, depending on the
+arrangements, this could provide a backdoor to avoid
+economic sanctions and affect international relations
+by triggering geopolitical tension.15 Digital currencies
+could also pose risks and policy challenges, including
+impacts on the ability of central banks to implement
+monetary policy, and of governments to implement
+fiscal policy. This paper examines these applications
+and effects, as well as knock-on effects created in
+socio-economic spheres, particularly in LDCs.
+Overall, we observe that the potential availability of
+foreign currency-denominated CBDCs and GSCs in LDCs
+could create a growing gap between national fiscal and
+monetary policy, and the capabilities of nations to execute
+these policies. CBDCs issued by global superpowers
+and GSCs denominated in their currencies, are likely to
+impact central banks’ control of money supply in LDCs
+through currency substitution16 and in developed countries
+because of increased efficiencies in commercial or market
+settlements.17 Such impacts can be mitigated through
+regulations18 and design of CBDCs. Despite the technical
+opportunity to implement monetary policies via CBDCs
+with a variable interest-rate, it should be noted that no
+country has yet indicated its intention to do so.
+The acceleration in the issuance of CBDCs is likely to
+impact both how the commercial banking sector is used
+to implement monetary policy as well as its pivotal
+role in moving and storing value. Monetary policy and
+financial supervision need to be revised internationally
+to acknowledge these changes and to mitigate potential
+negative impacts.
+
+15
+
+16
+
+17
+
+18
+
+
+Biggs
+J, ‘Venezuela Tries to Avoid US Sanctions by Trading in Rubles and
+Crypto’, Coindesk, May 2019, <www.coindesk.com/venezuela-tries-to-avoidus-sanctions-by-trading-in-rubles-and-crypto>.
+CBDC design dictates a wide range of features such as whether the CBDC is
+used only domestically or also internationally, capital controls which could limit
+cross-border impacts and barriers to entry preventing it from being used as a
+substitute currency.
+CBDCs as a settlement instrument can decrease settlement periods for securities, as well as increasing real-time gross settlement (RTGS) opportunities in
+commercial markets.
+LDCs could, for example, restrict use of foreign-denominated CBDCs or
+GSCs in their countries, although such bans would be hard to enforce without
+restricting Internet access, especially in the informal economy. Alternatively,
+regulators could force private issuers to restrict sale of their currencies; however, again, this would be difficult to enforce, while regulators lack motivation
+to constrain opportunities for national commercial growth at the expense of
+foreign countries.
+
+Scope and structure of the paper
+As CBDC is emerging as a topic of immediate interest
+for central banks around the world, the debate about
+technical structures, accessibility, role of the commercial
+banking system and the private sector is ongoing. While
+we refer to some of these implications, discussion of
+alternative CBDC structures is outside the scope of this
+paper. For the sake of consistency and focus we are
+clustering some elements, and drawing conclusions and
+assumptions across the common parameters of those
+elements, based on current research and policy dialogues.
+The scope of this paper is on potential macroeconomic
+implications of CBDCs (and digital currencies), with a
+specific focus on the implications for LDCs.
+•T
+ his paper discusses the growth of money in ‘digital’19
+form,20 and is structured around the delineation between
+the different types of digital currencies in circulation
+today and those on the immediate and near horizon. It
+evaluates their current and potential macroeconomic
+impacts and regulatory challenges on LDCs from
+national and international perspectives.
+•T
+ his paper will explore, in a limited capacity, the
+influence of BigFintech (BFT) companies and their
+use of government-issued digital currencies and/or
+development or use of private-issued digital currencies.
+It is important to note that the supply of both GSCs and,
+more recently, CBDCs, with China’s DC/EP, is seeing
+accelerated growth.
+•T
+ his paper notes that domestic CBDCs and, to an
+extent, domestic denominated stablecoins21 have the
+potential to serve—intentionally or unintentionally—as
+a technical instrument for implementing monetary
+or fiscal policy. The design of CBDCs impacts their
+availability (i.e. barriers to adoption) as well as whether
+they can be used to implement monetary or fiscal
+policy—through applying interest rates, taxation or other
+programmable elements which are likely to be subject
+to political challenges. However, CBDC design is not
+within the scope of this paper.
+
+19
+
+Digitally
+
+or electronically issued, stored-complex, rather understood in the
+absence of physical cash.
+20 The scope of this paper does not allow for an econometric assessment of
+CBDCs in relation to LDC market functioning. This is also not yet fully feasible
+because of the nascent and rapidly shifting landscape. In addition, the scope
+does not encompass decentralized cryptocurrencies, which until now have
+not served in a substantial role as ‘money’ in society and have faced barriers
+to widespread adoption including a lack of regulatory clarity over classification
+of digital assets, limited utility as a payment instrument, a lack of accessible
+tools, compatibility with payment devices and terminals, price volatility of
+cryptocurrencies, limited supply and negative public perception.
+21 Although domestic-denominated stablecoins are unlikely to be used directly to
+implement monetary or fiscal policy, they could help maintain money supply,
+reduce the risk of currency substitution and increase visibility of commercial
+activities towards wider collection of taxes.
+
+Electronic copy available at: https://ssrn.com/abstract=3871301
+
+5
+
+•T
+ he macroeconomic impacts of CBDCs must be
+considered in terms of design choices which are
+still highly theoretical. The impacts could also vary
+depending on the technology used, size of the economy
+where it is issued, the regulation and macroeconomic
+policy of the issuing country and other variable factors
+(such as strong and mature financial institutions); and
+therefore, these impacts are not fully predictable at this
+stage as very few economies have adopted CBDCs.
+•T
+ he paper traces to the earlier versions of digital
+money, such as Fintech-led mobile money and
+e-money, and captures the gradual evolution of
+current discourse of digital currencies, including
+privately issued stablecoins, GSCs and sovereignissued digital currencies. Nonetheless, it recognizes
+that the landscape of digital currencies and their
+associated taxonomy and regulations are still
+evolving alongside their potential implications.
+
+Emerging applications
+for digital currencies
+Digital currencies, whether issued by a sovereign central
+bank, a private sector organization or a community,
+represent both an innovation in payment systems22
+and a form of virtual money.23 The key innovation
+behind DLT-based digital currency is the introduction of
+‘distributed ledger’, which allows a currency to be used
+in a decentralized payment system and to be applied to a
+host of other distributed data systems, with applications
+ranging from transaction monitoring to certification.
+Although the concept of currency in ‘digital or virtual’
+form is not new (such as mobile money and e-money),
+we argue that the application of emerging technology in
+currency-creation requires closer attention because of the
+technology involved (DLT and non-DLT) and its potential
+impact on developing macroeconomic risks depending
+on the design choices and motives and the entities
+associated (public and private). Therefore, for the purpose
+of this paper, we define digital currencies as an umbrella
+term that (1) involves the use of DLT and non-DLT-based
+technologies; or (2) has an exchange or store-value; or
+(3) is generated, stored and transferred through a digital
+technology solution. DLT-based currencies are a subset of
+digital currencies,24 as are mobile money and e-money.
+
+Mobile money
+Mobile money, usually delivered via mobile phones
+through a mobile financial services (MFS) provider, was
+one of the earliest forms of Fintech innovation which
+has significantly impacted the lives of unbanked and
+underserved populations by giving them access to
+standard financial services or alternative financial services.
+Starting with M-Pesa in Kenya in 2007, mobile money
+has established a strong foothold in Africa with tens of
+millions of customers. Usually, mobile money originates
+from users transferring mobile credits in lieu of cash
+which is escrowed against fiat currency by the MFS
+provider. As the infrastructure involved in mobile money
+does not critically require a formal financial institution
+account to be used, mobile money is convenient, cheap
+and user-friendly, and thus has become a means of
+financial inclusion for millions of people across the world.
+Given the increasing popularity of mobile money because
+of its conveniences, BFTs are also collaborating with the
+MFS providers to expand the customer base of both.
+For example, Ant Financial has recently entered into
+a strategic partnership with bKash—the largest MFS
+network in Bangladesh with more than 180,000 agents
+and over 30 million registered accounts.25 In a country of
+160 million, bKash has established a major infrastructure
+empowering millions of unbanked and underbanked by
+giving them access to financial services without requiring
+them to open a traditional bank account.
+In hindsight, MFS providers have given rise to near
+monopolies,26 having more customers than banks in their
+native countries.27 In addition, they usually do not require
+banking licences because they are not providing full
+banking services. Although some countries have adopted
+MFS regulations (such as Bangladesh), major mobile
+money providers like M-Pesa and Ant Financial initially
+requested regulatory guidance but have been allowed
+to operate under a special licence by their respective
+regulators, with Ant Group founding MyBank via a
+formal banking licence in 2015.28 These special licences
+were awarded because the benefits were recognized as
+significant by government regulators and international
+agencies such as the United Nations and the World Bank
+Group. For example, Ant Financial helped move the
+25
+
+22 That
+
+is, any system enabling the transfer of monetary value to settle financial
+transactions between parties.
+23 That is, a digital instrument used as a medium of exchange or store of value
+that facilitates economic activity such as manufacturing or trade, and the
+transfer of purchasing power from the present to the future, aka savings, or a
+unit of account.
+24 There is disagreement on whether pure cryptocurrencies (as opposed to stablecoins) can be considered a store of value because of their price volatility, or
+a medium of exchange because of the speed and cost of some cryptocurrency
+transactions. See Blakstad S, Allen R ‘Fintech Revolution: Universal Inclusion
+in the New Financial Ecosystem’, Palgrave, 2018, <www.palgrave.com/gp/
+book/9783319760131>.
+
+26
+
+27
+
+28
+
+‘bKash
+
+and Ant Financial in strategic partnership to promote financial inclusion
+for the unbanked in Bangladesh’, bKash, April 2018, <www.bkash.com/
+node/2473>.
+See,
+
+for example, ‘Interoperability needed to break monopoly of MFS market’,
+The Business Standard, August 2020, <https://tbsnews.net/economy/banking/
+interoperability-needed-break-monopoly-mfs-market-123337>.
+M-Pesa
+
+had 24.91m customers in Kenya as of end 2019 (‘Financial highlights’,
+Safaricom, 2020, <www.safaricom.co.ke/annualreport_2020/financial-highlights/>), whereas KCB Bank, Kenya’s largest bank by customer numbers,
+has 21.6m across six countries including Kenya (‘About us’, KCB Bank Group
+Kenya, <https://ke.kcbgroup.com/about-us>).
+Both
+
+M-Pesa and Ant were awarded ‘special licences under their respective
+regulatory regimes, with Ant Group founding MyBank with a formal banking
+licence in 2015.
+
+Electronic copy available at: https://ssrn.com/abstract=3871301
+
+6
+
+banked population of China from 64 per cent to 80 per
+cent in less than a decade.29 Similarly, M-Pesa, starting
+from an even lower base in Kenya, has helped increase
+the per centage of the population that is part of the formal
+financial sector from about 20 per cent to more than
+60 per cent over a 10-year period (2007–2017).30
+With the growth in customer bases, M-Pesa and the
+Chinese payments platforms are now offering a range of
+services including lending backed by financial institutions31
+and increasingly off their own books, such as Ant Group’s
+MyBank and M-Pesa’s Fuliza.32 The BFTs’ unfettered
+growth in combination with light regulation gives rise
+
+to significant regulatory concerns—the monopolistic
+behaviour of BFTs threatens the operation of the
+traditional commercial banking sector and raises concerns
+about consumer protection. However, regulators are
+now pushing back, most recently demonstrated by the
+suspension of Ant Group’s IPO33 by the People’s Bank of
+China (PBOC). This occurred one day before the IPO was
+to be issued, on the apparent grounds that this would
+make Ant Group ‘too big’ and potentially capable of
+exacerbating the SME credit bubble. To quote Forbes,
+“Ant is creating the conditions for a repeat of the same
+sort of ‘subprime’ credit crisis that triggered the 2008
+financial debacle in the U.S.”.34
+
+Graph 1: The Money Flower: A taxonomy of money
+Central bankissued
+
+Electronic
+
+Virtual
+currency
+
+Universally
+accessible
+
+Peer-to-peer
+Settlement
+or reserve
+accounts
+
+Bank
+deposits,
+mobile
+money
+
+Deposited
+currency
+accounts
+
+CBCC
+(wholesale)
+
+CBCC
+(retail)
+Cash
+
+Cryptocurrency
+
+Local
+currency
+
+Cryptocurrency
+(wholesale)
+
+Commodity
+money
+
+Source: Bank for International Settlement 2018
+
+29
+
+30
+
+31
+
+32
+
+See, for example, Tattersall M, ‘Ant Group has filed for its much-anticipated
+IPO’, Business Insider, August 2020, <www.businessinsider.com/ant-groupfiles-for-ipo-after-enjoying-strong-revenue-growth-2020-8#:~:text=Ant%20
+Group%20has%20over%201,year%20increase%2C%20per%20the%20
+filing>.
+Reuters Staff, ‘M-Pesa helps drive up Kenyans’ access to financial services
+- study’, Reuters, April 2019, <www.reuters.com/article/kenya-banking/mpesa-helps-drive-up-kenyans-access-to-financial-services-study-idUSL8N21L2HK>; see also World Bank, ‘Findex Global Database’, <https://globalfindex.
+worldbank.org/>.
+See, for example, Oludimu T, ‘Safaricom launches Fuliza, an overdraft facility
+for its M-Pesa customers’, Techpoint.africa, January 2019, <https://techpoint.
+africa/2019/01/10/safaricom-launches-mpesa-fuliza-feature/>.
+See, for example, Shah R, Kumar R, ‘Ant Group now makes more money from
+lending than from payments’, Tellimer, October 2020, <https://tellimer.com/
+article/ant-group-now-makes-more-money-from-lending-t>.
+
+33
+
+34
+
+
+Wade
+M, Teracino E, ‘China clips Jack Ma’s wings with Ant Group IPO
+delay’, Nikkei Asia, November 2020, <https://asia.nikkei.com/Opinion/
+China-clips-Jack-Ma-s-wings-with-Ant-Group-IPO-delay?utm_source=taboola&utm_medium=msn-msn&utm_campaign=BA%20HK%20
+RSS&utm_term=1000408&utm_content=RSS&tblci=GiCnObspucYuTOIGm7CNhodn_NpDbsaepUZO8EamIyAX6CDAhkE#tblciGiCnObspucYuTOIGm7CNhodn_NpDbsaepUZO8EamIyAX6CDAhkE>.
+C
+ alhoun G, ‘Why China Stopped The Ant Group’s IPO (Part 2): Ant’s Dangerous
+Business Model’, Forbes, November 2020, <www.forbes.com/sites/georgecalhoun/2020/11/16/why-china-stopped-the-ant-groups-ipopart-2-ants-dangerousbusiness-model/?sh=3a26725658bf>.
+
+Electronic copy available at: https://ssrn.com/abstract=3871301
+
+7
+
+e-money
+Fully backed by fiat currency, electronic money
+(e-money) can be an umbrella term to include money
+held in pre-paid cards, electronic wallet or web-based
+services, such as PayPal.35 With the growth of BFTs’
+product portfolios and their adoption of more innovative
+technologies, and in the light of recent announcements
+by Visa36 and others, e-money should be assumed to
+include stablecoins.37 For the purpose of this paper,
+we use the European Union’s definition: “e-money is
+a digital alternative to cash”, which “allows users to
+make cashless payments with money stored on a card
+or a phone, or over the Internet”.38 e-money can be
+used to transact between individuals and businesses
+via a mobile app or other digital platform. Examples of
+e-money include WeChat Pay and Alipay’s e-wallets, both
+widely used in China. The major difference between
+mobile money and e-money is, in the case of e-money,
+the e-wallet is linked with the users’ existing traditional
+bank accounts or credit cards, while the mobile money
+wallet does not require an underlying bank account.
+
+Amid the popularity of digital currencies, many BFT
+companies, including social media companies, are
+supporting e-money, leveraging the strong network
+effects
+as e-money is convenient, relatively cheap and ensures
+faster peer-to-peer transactions. Yet, e-money carries
+the risks associated with a lack of deposit insurance. For
+instance, any money stored in PayPal is not covered by
+the deposit insurance scheme delineated under the US
+Federal Deposit Insurance Corporation.39 The platforms
+are regulated to a lower standard and hence carry risks of
+consumer protection, cybersecurity and lax enforcement
+of Know Your Customer (KYC) requirements. The lack of
+interchangeability and interoperability40 poses a risk that
+only the largest provider will survive. Central banks could
+give e-money providers access to their reserve accounts,
+providing a strong protection regime for depositors with
+similar regulatory requirements regarding liquidity and
+KYC as commercial banks. Similar to CBDCs, this would
+also mean that there is a risk of “potential and partial
+disintermediation of commercial banks if some depositors
+preferred holding e-money”.41
+Table 1 demonstrates the current trends of digital
+currencies issued and adopted across the financial
+markets. The table serves to illustrate that traditional
+banks and non-bank Fintechs are frontrunners in adopting
+digital currencies. As this form of currency evolves, the
+associated risks also change because of the varying
+nature of technology used and assets involved as
+collateral.
+
+35
+
+Firpo J, ‘E-Money – Mobile Money – Mobile Banking – What’s the Difference’,
+World Bank Blogs, January 2009, <https://blogs.worldbank.org/psd/e-moneymobile-money-mobile-banking-what-s-the-difference>.
+36 Dillet R, ‘Visa supports transaction settlement with USDC stablecoin’, Techcrunch, March 2021, <https://techcrunch.com/2021/03/29/
+visa-supports-transaction-settlement-with-usdc-stablecoin/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAADUMEugkSz2Bhy0BtQcXDXgWd_MpUJjXPQMkWwe3HTxfI7WcK1sN8q8WtWlUc4qjC_76kKajTwXEJ40WgM16K47qOzU2Wi7cMwFP6QUQfri5g771bcV5ftKL27zVSgbxEIzEQZUzLOdTQa3gyaF9DQ9o0G-QLYHgocrFiTVjaAK->.
+37 Tobias A ‘Stablecoins, Central Bank Digital Currencies, and Cross-Border
+Payments: A New Look at the International Monetary System’ IMF-Swiss
+National Bank Conference, Zurich, May 2019, <www.imf.org/en/Publications/
+fintech-notes/Issues/2019/07/12/The-Rise-of-Digital-Money-47097>.
+38 E-money - Directive 2009/110/EC, European Commission, <https://ec.europa.
+eu/info/law/e-money-directive-2009-110-ec_en>.
+
+39
+
+PayPal
+
+User Agreement, <www.paypal.com/us/webapps/mpp/ua/useragreement-full#communications>.
+40 There are aggregators that provide interoperability, but these come at an
+additional cost.
+41 Adrian T, ‘Stablecoins, Central Bank Digital Currencies, and Cross-Border
+Payments: A New Look at the International Monetary System. Remarks by
+Tobias Adrian at the IMF-Swiss National Bank Conference’, May 2019, <www.
+imf.org/en/News/Articles/2019/05/13/sp051419-stablecoins-central-bank-digital-currencies-and-cross-border-payments>.
+
+Electronic copy available at: https://ssrn.com/abstract=3871301
+
+8
+
+Table 1: The current landscape of digital currencies42
+Issuer
+
+43
+
+44
+
+Collateral
+
+Risk
+
+Bank, e.g. JPM Coin
+‘Cash on Ledger’
+
+US$, EUR, other
+stable fiat currencies
+
+Fractional reserve limits,
+i.e. no external or central
+bank collateral requirement
+but offset 1:1 against bank
+issued currency43
+
+Central Bank,
+e.g. PBOC
+
+National currency
+
+n/a, issued under national
+monetary policy money
+supply limits
+
+Inherits risk of national currency
+
+Consortium of
+banks, e.g. Fnality
+
+US$, CAD, GBP,
+EUR, YEN
+
+Cash reserve at central
+banks (Fnality)
+
+Partially that of bank but supported by
+national currency because of cash reserve
+
+Inherits risk of issuing bank (part of fractional
+reserve by extension—holding same risks and
+subject to same rules)
+
+Non-bank Fintech
+(fiat backed
+stablecoins),
+e.g. Tether
+
+National currency
+
+Cash reserve in
+commercial bank
+
+Inherits risk of the holding commercial bank;
+however (as with Tether), requires
+transparency to maintain confidence. It also
+threatens financial stability as it carries the
+traditional risks of private sector-mandated
+stablecoins being ‘too big to fail’ and ‘too
+connected to fail’. Furthermore, it carries
+the risks of impacting countries’ monetary
+policy transmission and may threaten the
+effectiveness of the central bank’s functions
+as a lender of last resort44
+
+Non-bank Fintech
+(collateral backed),
+e.g. MakerDAO DAI
+
+US$, EUR, other
+stable currencies
+
+Collateral reserve held as
+digital assets
+
+Managed by Fintech and governed by
+Board, Foundation, etc.
+
+US$ + YEN +
+CHF + GBP + EUR...
+
+Can include fiat currency
+and bonds (i.e. Diem
+originally proposed a mixture
+of cash and bonds held in a
+Swiss Commercial Bank)
+
+Inherits risk of holding commercial bank BUT
+not clear how currency valuation and
+fluctuations would be managed
+
+Non-bank Fintech
+(fiat backed, multiple
+currency) e.g. Diem
+
+42
+
+Underlying
+currency
+
+Haahr M, Foster K, Blakstad S, ‘Blockchain: Gateway for Sustainability Linked
+Bonds (Green Digital Finance Alliance)’, HSBC Center of Sustainable Finance
+and the Sustainable Digital Finance Alliance, 2019 <https://docs.wixstatic.com/
+ugd/3d4f2c_a8d74cac6f974984a67f7b8c05146fbe.pdf>.
+Because a bank-issued coin is backed by cash reserves held at the bank, it
+carries the same risk as that bank’s deposits, unlike CBDCs which are backed
+by central bank reserves. Theoretically, stablecoins have a 1-1 ratio in reserve;
+however, this is also bank money and so part of the fractional reserve by
+extension—they hold the same risks as the bank and are subject to the
+same sector rules. The question as to whether it is bank-issued currency
+(not backed by a central bank) is about what level of risk is applied.
+Calhoun G, ‘Why China Stopped The Ant Group’s IPO (Part 2): Ant’s
+Dangerous Business Model’, Forbes, November 2020, <www.forbes.com/
+sites/georgecalhoun/2020/11/16/why-china-stopped-the-ant-groups-ipopart-2ants-dangerous-business-model/?sh=3a26725658bf>.
+
+Electronic copy available at: https://ssrn.com/abstract=3871301
+
+9
+
+Stablecoins
+Stablecoins, such as Tether or DAI,45 are digital
+currencies pegged to a ‘stable’ fiat currency, asset or
+pool of assets.46 Bitcoin pioneered the paradigm of
+a disintermediated peer-to-peer financial transaction
+network, but because of its volatility, high transaction cost
+and low throughput, it lacks the necessary characteristics
+to be an efficient medium of exchange. As a result of an
+in-built price stability mechanism, stablecoins, in general,
+have comparative advantages over cryptocurrencies “in
+terms of privacy, stability, decentralization and solvency”.47
+As a store of value, stablecoins, like some physical assets
+such as gold, may gain popularity among investors where
+fiat currencies are unstable.48 Stablecoins may be favoured
+as an underlying asset by a small niche of traders in
+securities such as futures and options.49
+While cryptocurrency is popular in some African countries
+such as Kenya and Nigeria,50 adoption in LDCs has been
+limited to date.51 In contrast, stablecoins derive leverage
+from the fact that the coin is backed or collateralized by
+a store of assets or currencies. Thus, depending on the
+design and arrangement, stablecoins carry the potential
+to facilitate secure and convenient transactions without
+volatility, at a lower cost than telecom-issued mobile
+money, and, depending on the currency design, held in
+a wide variety of non-bank wallets. Stablecoins do not
+share cryptocurrency characteristics such as volatility or
+predetermined limits on supply.52 With the recent OCC
+ruling that US banks can use stablecoins for payments53—
+in a move that could be interpreted as opening up
+45
+
+46
+
+47
+48
+
+49
+
+50
+
+FSB has a non-exhaustive list for stablecoins available cross-border, with
+Tether being the leading one. Other stablecoins include DAO, DAI, TrueUSD,
+USDPax, PAXGold, Everex, SGDR, 1SG, SDS, USDC, USDS, EURX, JPYX,
+GBPX, AUDX, NZDX, CNYX, RUBX, CHFX, CADX, GLDX and SLVX; see
+‘Addressing the Regulatory, Supervisory and Oversight Challenges Raised by
+“Global Stablecoin” Arrangements’, The Financial Stability Board, April 2021,
+<www.fsb.org/wp-content/uploads/P140420-1.pdf>.
+For a general discussion on the taxonomy of stablecoins, see Bullmann
+D, Klemm J, Pinna A, ‘In Search for Stability in Crypto-Assets: Are Stablecoins the Solution?’, <https://papers.ssrn.com/sol3/papers.cfm?abstract_
+id=3444847>.
+Li C, Shen Y, ‘The Potential Impacts and Risks of Global Stablecoins’, China
+Economic Journal, 2019 <http://doi.org/10.1080/17538963.2021.1872167>.
+Reuters Staff, ‘Bitcoin emergence as ‘digital gold’ could lift price to 146000,
+says JPM’, Reuters, January 2021, <www.reuters.com/article/crypto-currencies-jpm/bitcoin-emergence-as-digital-gold-could-lift-price-to-146000-says-jpmidUSL8N2JG2MM>.
+Russell D, ‘Crypto Futures Are in Contango, Creating Potential Opportunities for Savvy Traders’, TradeStation, April 2021, <www.tradestation.com/
+insights/2021/04/01/crypto-futures-contango-cash-carry/>.
+See, for example, ‘The rise of crypto adoption in Africa’, International Finance,
+May 2019, <https://internationalfinance.com/the-rise-of-crypto-adoption-in-
+
+africa/>.
+Nigerian Central Bank banned the use of cryptocurrency on 5 February 2021,
+see Ogunrinoa I, ‘Banning Cryptocurrency Trade in Nigeria: Was the CBN
+Right?’, Business Today, April 2021, <https://businessday.ng/opinion/article/
+banning-cryptocurrency-trade-in-nigeria-was-the-cbn-right/#:~:text=On%20
+February%205%202021%2C%20Nigeria%2C%20through%20its%20Central,perceived%20dangers%20to%20both%20end-users%20and%20the%20
+country.>.
+52 The reserve capability of the issuer is related to the amount of money that
+goes into the system, so, in theory, could extend to the entire money supply
+of a particular currency.
+53 Sun M, ‘OCC Says Banks Can Use Stablecoins in Payments’, The Wall Street
+Journal, January 2021, <https://www.wsj.com/articles/occ-says-banks-canuse-stablecoins-in-payments-11610068515>.
+
+competition for the proposed Diem—their utility has
+been extended. Therefore, stablecoins could serve as a
+means of payment and store of value within and alongside
+existing global payment systems, although for developed
+countries, the benefits compared to existing payment
+systems are limited, while they may carry consumer risks
+such as poorly managed reserves.
+
+Macroeconomic considerations
+of stablecoins
+Domestically, stablecoins, supported by improved
+accessibility through tools such as mobile apps, can
+support financial inclusion by enabling people to transact
+and save digitally without the need for a formal bank
+account, for example using Fintech wallets with lower
+KYC requirements, similar to those applied today to
+mobile money, but at a lower cost than telecom-issued
+mobile money. As the poorest are very price-sensitive,
+this is likely to increase the number of people using
+electronic money for payments and savings. This in turn
+would allow those currently underserved by financial
+institutions to build digital histories, which can lead to
+formalization of a business or access to credit.54 Used as a
+means of payment or settlement cross-border, stablecoins
+have the potential to overcome significant shortcomings
+and friction in existing cross-border payments.55 This has
+been trialled within financial institutions as a cost-saving
+measure, for instance for interbank settlements, but
+could also extend to reducing friction in cross-border retail
+transactions, extending trading opportunities for small and
+micro businesses in LDCs.
+Nonetheless, stablecoins could also pose numerous
+challenges and risks. In 2019, the Group of Seven
+(G7) Working Group on Stablecoins investigated their
+global impacts and concluded that such adverse effects
+could be felt both nationally and internationally on
+monetary sovereignty and financial stability.56 In addition,
+stablecoins could also affect countries’ efforts to combat
+money laundering, terrorist financing and tax avoidance.
+Moreover, this emerging sector of financial innovation
+is yet to be accepted as a payment means on a global
+scale given that there has been significant fragmentation
+in regulatory approaches towards stablecoins and
+cryptocurrencies. For instance, while the OCC has
+recently declared that federally chartered banks could
+issue stablecoins for payments,57 the UK and EU are
+
+51
+
+54
+
+55
+56
+
+57
+
+Blakstad
+
+S and Amars L, ‘Fintech at the Frontier: Technology developments
+supporting financial inclusion in Niger’, Journal of Digital Banking 4(4), 2020,
+<www.henrystewartpublications.com/jdb/v4>.
+Arner D, Auer R, Frost J, ‘Stablecoins: risks, potential and regulation’, BIS
+Working Paper No. 905, 2020, <www.bis.org/publ/work905.pdf>.
+G7
+ , International Monetary Fund [IMF], and The Committee on Payments
+and Monetary Infrastructures [CPMI], ‘Investigating the impact of global
+stablecoins’, IMF, 2020, <www.imf.org/~/media/Files/Research/G7SC-Report-on-Global-Stablecoins102019.ashx?la=en>.
+Supra
+
+note 20.
+
+Electronic copy available at: https://ssrn.com/abstract=3871301
+
+10
+
+still cautious in measuring the appropriate regulatory
+approach. The HM Treasury put forth in its ‘Consultation
+and call for evidence’ paper that such an approach should
+be “proportionate” and “sensitive to risks posed, and
+responsive to new developments in the market”.58
+At the EU level, the proposed Markets in Crypto-assets
+(MiCA) regulation aims to provide legal certainty for
+cryptocurrency firms within the EU and beyond.59
+In contrast, some developing economies where
+cryptocurrencies have been popular as an alternative
+store of wealth, or used to avoid taxation or AML controls
+and, in many cases, exposed consumers to risk, have
+responded with strict regulations for cryptocurrencies.
+An example of such a ban is Nigeria, where the
+Central Bank of Nigeria banned banks from holding
+accounts which are used to trade in cryptocurrencies.60
+Previously, Bangladesh imposed a ban on all types of
+virtual currencies during the Bitcoin frenzy in 2017.61
+Such bans have previously been implemented prior to a
+country launching its own digital currency, for example in
+Venezuela and then China. However, many LDCs are yet
+to clearly define regulation of cryptocurrencies or other
+digital assets. In the context of regulatory uncertainties
+and fragmented opinions, there is a lack of uniform
+standardized practice in regulating digital currencies,
+including stablecoins. The most recent probe on Tether
+and Bitfinex62 divulges that without a robust and strong
+regulatory enforcement, stablecoins could be a means of
+market manipulation hurting retail investors and causing
+general distrust among consumers.
+On a macroeconomic level, for LDCs, stablecoins
+could substitute national currencies and trigger capital
+flight which could lead to reduction in cash supply (in
+local currencies) and thus change the basic monetary
+structure in a sovereign country.63 A large-scale issuance
+of stablecoins is likely to have an impact on the legal
+tender of a country. In a small and open economy, US$backed stablecoins could enhance the dominant position
+of the US$ and undermine the domestic currency.64
+58
+
+59
+
+60
+
+61
+
+62
+
+63
+
+64
+
+HM Treasury ‘UK Regulatory Approach to Cryptoassets and Stablecoins: Consultation and Call for Evidence’, January 2021, <https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/950206/
+HM_Treasury_Cryptoasset_and_Stablecoin_consultation.pdf>.
+MiCA also seeks to harmonize national legislations, including Malta which is
+known as ‘Blockchain Island’, and provide uniform rules for all cryptocurrency
+markets.
+BBC News, ‘Nigerian cryptocurrency: CBN ban Crypto [Dogecoin, Bitcoin,
+Ethereum] trading in Nigeria, how Atiku, Davido, odas use ‘CowtoCurrency’
+react’, February 2021, <www.bbc.com/pidgin/world-55961189>.
+Mowla G, ‘Central Bank Issues Notice Banning Bitcoin in Bangladesh’,
+Dhaka Tribune, December 2017, <www.dhakatribune.com/business/
+banks/2017/12/27/bangladesh-bank-ban-bitcoin#:~:text=Bangladesh%20
+Bank%20has%20banned%20the%20use%20of%20Bitcoin,,currency%20
+in%20any%20other%20country%20in%20the%20world>.
+Browne R, ‘Cryptocurrency firms Tether and Bitfinex agree to pay $18.5 million
+to end New York probe’, CNBC, February 2021, <www.cnbc.com/2021/02/23/
+tether-bitfinex-reach-settlement-with-new-york-attorney-general.html>.
+‘Crypto-Asset Markets: Potential Channels for Future Financial Stability Implications’, Financial Stability Board, 2018, <www.fsb.org/wp-content/uploads/
+P101018.pdf>. See also supra note 61.
+Ibid.
+
+Because of its faster circulation, GSC could “evolve into
+a bridge between the US dollars and the local currency”
+and thus “expedite the transformation of local legal
+currency to the stablecoin”.65 This could potentially lead
+to the gradual dollarization of small economies and
+aggravate the devaluation of their domestic currencies.66
+Furthermore, stablecoins use a novel technology and
+governance structure67 that falls outside the scope of
+traditional regulatory oversight and therefore may give
+rise to new risks such as poorly managed reserves,
+exposing customers to potential losses.68 If stablecoins
+are adopted globally and grow to be systemically
+significant, cross-border transactions in regions could be
+possible without financial intermediaries and third-party
+payment institutions which would raise holdings of GSCs
+significantly.69 In the absence of effective regulations and
+monetary policies, these risks will be amplified and could
+potentially subvert the national monetary and financial
+systems to the extent that it could widely substitute cash
+and deposit in LDC economies, and eventually threaten
+the safety, efficiency and integrity of the financial system.
+Comprehensive regulation, supervision and oversight
+mechanisms combined with domestic and international
+cooperation will be needed to curb the adverse impacts
+of GSCs.70
+
+Global stablecoins (GSCs)
+According to the Financial Stability Board (FSB) three
+major characteristics distinguish GSCs from other
+stablecoins and cryptocurrencies: (i) stabilization
+mechanism; (ii) usable as a means of payment and/
+or store of value (these two make them separate from
+cryptocurrencies); and (iii) the potential to achieve
+substantive volume across multiple jurisdictions (this
+feature keeps a GSC separate from other stablecoins).71
+Diem (formerly ‘Libra’) is an example of a GSC. Diem is
+an independent “global, digitally native, reserve-backed
+cryptocurrency” and subject to its own association.72
+Originally proposed as ‘Libra’ by Facebook, Diem has
+scaled back its ambitions of pegging the coin to a basket
+of assets comprising currencies and bonds following
+pushbacks by US regulators and is likely to offer only
+US$-backed stablecoins. Facebook’s massive global reach
+65
+66
+67
+
+Ibid.,
+
+p. 5.
+Ibid.
+
+As distributed ledgers and the systems built on them authorize and validate
+transactions via distributed security and consensus protocols, there is no
+financial institution to regulate.
+
+68
+69
+
+Supra
+
+note 68.
+ VISA and other major payment networks are increasingly becoming
+As
+involved in transactions using stablecoins, distribution opportunities are
+expanding exponentially, raising the potential for systemic significance. See
+supra note 15.
+For
+ a discussion on GSCs’ regulatory, supervisory and oversight challenges
+and G20 and FSB’s high-level recommendation in response to them, see supra
+note 14.
+‘Addressing
+
+the Regulatory, Supervisory and Oversight Challenges Raised by
+“Global Stablecoin” Arrangements’, FSB, April 2020, <www.fsb.org/wp-content/uploads/P140420-1.pdf>.
+‘Whitepaper
+
+2.0’, Diem, April 2020, <www.diem.com/en-us/white-paper/>.
+
+70
+
+71
+
+72
+
+Electronic copy available at: https://ssrn.com/abstract=3871301
+
+11
+
+among billions of users through its social networks and
+platforms could position Diem as a systemically important
+GSC. With sufficient reach and utility to consumers, Diem
+could pose an existential threat to countries’ monetary
+systems as Diem’s confidence effect, convertibility and
+easy exchangeability could potentially restrict the central
+banks’ control on money supply. Even in its revised dollar
+form, it presents a risk of currency substitution to less
+stable currencies. However, currency substitution by
+Diem or any other GSCs may depend on the degree of
+adoption, monetary stability, including legal frameworks
+and regulation.73
+
+Macroeconomic considerations
+of Diem: BFT’s adoption of a GSC
+Diem, in its stablecoin form, presents several potential
+risks specific to LDC currencies. These risks include a
+flight from illiquid currencies to more stable ones such
+as the euro or dollar. An easily accessible alternative
+payment instrument and store of value, more stable than
+local currencies and with utility across borders, could
+be adopted as a substitute currency and once adopted,
+used as a store of value. The likely high cost of exchange
+to fiat could lead to further concentration.74 Although the
+economic consequences of Diem or any GSC depend
+on the degree of adoption,75 in smaller countries like the
+Pacific Islands, Diem could eradicate national currencies
+altogether. This existential threat, combined with a BFT’s
+aggressive customer acquisition, proprietary e-wallet
+and low barriers to entry—such as less rigorous KYC and
+accessibility over a mobile phone—presents a scenario
+of significant risk across Africa and in other developing
+economies to lose currency sovereignty. Further, BFTs’
+capitalization of network effects coupled with big
+customer-base gives a conducive environment to gain
+consumer confidence. Once consumers’ trust is achieved,
+GSCs can de-link from fiat currencies and run as an
+independent payment method.76 Because of the potential
+for an easily accessible alternative payment instrument
+and store of value, more stable than local currencies and
+with utility across borders, to be adopted as a substitute
+currency, the likely outcome would be widespread
+adoption in countries with less stable currencies. It is
+important to understand that, although potentially valuable
+in enabling unbanked or underbanked people to save or
+trade without the risks of cash, such alternative monetary
+systems are able to exist because of a lack of globally
+coordinated regulation, allowing corporations with large,
+73
+
+‘Digital Money Across Borders-- Macro Financial Implications’, International
+Monetary Fund, September 2020, <www.imf.org/en/Publications/Policy-Papers/Issues/2020/10/17/Digital-Money-Across-Borders-Macro-Financial-Implications-49823>.
+74 Blakstad S, ‘Libra: Economic Implications of Global Cryptocurrency’, The Alt
+Coin Magazine, July 2019, <http://medium.com/the-capital/libra-economic-implications-of-global-cryptocurrency-8a5eef8bc9b7>.
+75 Ibid.
+76 Ibid.
+
+internationally distributed financial resources to commit
+regulatory arbitrage (intentionally or unintentionally), with
+unintended consequences such as potentially destabilizing
+national interests in pursuit of their corporate objectives.
+
+Central bank digital
+currencies (CBDCs)
+CBDCs are a new form of digital central bank currency
+distinguished from reserves or settlement balances held
+by commercial banks at central banks.77 In response to
+the rapid rise of digital payments in preference to cash
+and the emergence of commercial GSCs, most central
+banks are now researching or actively developing CBDCs
+as an “alternative safe, robust, and convenient payment
+instrument”.78 The BIS reports that 86 per cent of central
+banks around the world are now undertaking extensive
+research on CBDCs.79
+Although large-scale CBDC adoption has not been
+achieved, the Bahamas launched the first CBDC in
+October 2020.80 The Eastern Caribbean Central Bank
+(ECCB) went live with their pilot CBDC project, DCash,
+in April 2021,81 which involved “secure minting of a
+digital version of the Eastern Caribbean dollar as legal
+tender”.82 Along with CBDC, central banks are also
+considering digital versions of their local currencies—such
+as China’s DC/EP and Cambodia’s Bakong. In Europe,
+Sweden launched a year-long sovereign digital currency
+project called ‘e-krona’. Moreover, the US has also been
+contemplating establishing a CBDC infrastructure83 and
+saw additional discussion and proposals in the wake of
+
+77
+
+78
+79
+
+80
+
+81
+
+82
+83
+
+Mancini-Griffoli
+
+T, et al., ‘Casting Light on Central Bank Digital Currencies’, IMF
+Staff Discussion Notes 18/08, 2018, <www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2018/11/13/Casting-Light-on-Central-Bank-Digital-Currencies-46233>.
+‘Central Bank Digital Currencies’, BIS, March 2018, <www.bis.org/cpmi/publ/
+d174.pdf>.
+Boar
+
+C, Wehrli A, ‘Ready, Steady, Go? -- Results of Third BIS Survey on Central
+Bank Digital Currency’, BIS Papers No. 114, 2021, <www.bis.org/publ/bppdf/
+bispap114.pdf>. In a previous survey before the pandemic, BIS reported that
+80 per cent of central banks were conducting research on CBDC. See Boar
+C, Holden H, Wadsworth A, ‘Impending Arrival - A Sequel to the Survey on
+Central Bank Digital Currency’, BIS Papers No. 107, 2020, <www.bis.org/publ/
+bppdf/bispap107.pdf>.
+Bharathan
+
+V, ‘Central Bank Digital Currency: The First Nationwide CBDCs
+in the World has been Launched by the Bahamas’, Forbes, October 2020,
+<www.forbes.com/sites/vipinbharathan/2020/10/21/central-bank-digital-currency-the-first-nationwide-CBDCs-in-the-world-has-been-launched-by-the-bahamas/?sh=d780b3506eb7>; Sekiguchi K, Onishi T, ‘Cambodia Debuts Digital
+Currency as Emerging Countries Lead Charge’, The Nikkei Asia, October 2020
+<http://asia.nikkei.com/Spotlight/Cryptocurrencies/Cambodia-debuts-digital-currency-as-emerging-countries-lead-charge>.
+King
+
+R, ‘ECCB Launches Lives CBDC Pilot’, Central Banking, April 2021,
+<www.centralbanking.com/fintech/cbdc/7817766/eccb-launches-live-cbdc-pilot>.
+‘ECCB
+
+Digital EC Currency Pilot: What You Should Know’ Eastern Caribbean
+Central Bank, <http://eccb-centralbank.org/p/what-you-should-know-1>.
+Brett
+
+J, ‘Federal Reserve Reveals Research Plans for Digital Dollar’, Forbes,
+August 2020, <www.forbes.com/sites/jasonbrett/2020/08/13/federal-reserve-reveals-research-plans-for-digital-dollar/?sh=241f1bf25946>.
+
+Electronic copy available at: https://ssrn.com/abstract=3871301
+
+12
+
+the COVID-19 pandemic.84 Similarly, dozens of central
+banks in emerging economies are considering issuing
+CBDCs,85 while many international commercial banks
+are already issuing internal ‘cash on ledger’ based on
+blockchain to manage settlements and internal transfers.
+Current international efforts regarding CBDC projects
+revolve around CBDC’s designs, underlying technologies
+and benefits. It is argued that CBDC has the potential of
+creating “synergies with private payment solutions” and
+contributing to an “innovative, competitive and resilient”
+payment system across regions.86 It is likely to digitalize
+the economy and achieve innovation across the payments
+and monetary systems. It can create more efficient,
+faster, and secure cross-border payments ensuring
+smooth capital flow internationally. A large-scale adoption
+of digital currencies by emerging market economies may
+promote financial inclusion, especially for the unbanked
+population.87 However, the success of CBDCs hinges
+heavily on performance as a true alternative to cash
+among users, including private consumers, financial
+intermediaries and central banks. In other words, the core
+success of CBDC depends on its functionality as a better
+and more stable medium of exchange.
+
+Another important aspect of CBDC is the type issued
+(retail88 or wholesale89) and the associated design choices.
+Designs of CBDCs and/or sovereign digital currencies
+may vary in terms of access, technology, degree of
+anonymity, operational availability and interest-bearing
+characteristics.90 Design choices may depend on the
+broader policy objective a central bank is likely to achieve
+through adoption of CBDC. A domestic CBDC has the
+potential to act as a central bank’s new monetary policy
+tool and thus affect the central bank’s policy objectives.91
+Different forms of CBDCs may have varying impacts on
+payment systems, monetary policy transmissions as
+well as the structure and stability of the financial system.
+CBDC choice needs to be carefully weighed as CBDCs
+could trigger macroeconomic shocks with their “effect
+on portfolio choices of households and the probability of
+bank runs”.92 Therefore, flexibility in designing a CBDC to
+curb macroeconomic shock is paramount.93 It is possible
+for CBDCs to be designed in a way to represent public–
+private collaboration.94
+
+88
+
+89
+
+90
+
+84
+
+85
+86
+87
+
+See, for example, a number of bills introduced in both the US House and
+Senate in March 2020, ‘US Democrat bill for Covid-19 plans digital dollar for
+stimulus to unbanked’, Ledger Insights, March 2020, <www.ledgerinsights.
+com/digital-dollar-us-democrat-bill-for-covid-19-central-bank-digital-currencycbdc/>.
+Supra note 60.
+‘Report on a Digital Euro’, European Central Bank, October 2020, p. 2, <www.
+ecb.europa.eu/pub/pdf/other/Report_on_a_digital_euro~4d7268b458.en.pdf>.
+Mancini-Griffoli T, et al., ‘Casting Light on Central Bank Digital Currency’, in C.
+Brummer (Ed.), Cryptoasset: Legal, Regulatory, and Monetary Perspectives
+(First ed., pp. 307–339). The United States: Oxford University Press; 2019.
+
+91
+
+92
+93
+94
+
+ lso known as ‘general purpose’ CBDC, a retail CBDC will be issued for
+A
+the general consumers. For a critical analysis on retail CBDC and its design
+choices, see Auer R, Bohme R, ‘The Technology of Retail Central Bank Digital
+Currency’, BIS Quarterly Review, March 2020, <www.bis.org/publ/qtrpdf/r_qt2003j.pdf>.
+A wholesale CBDC is for financial institutions holding reserve deposits with a
+central bank. A wholesale CBDC could be exclusively for interbank payments,
+see supra note 79 and also infra note 93.
+Agur I, Ari A, Dell’Ariccia G, ‘Designing Central Bank Digital Currencies’,
+IMF Working Paper WP/19/252, 2019, <www.imf.org/en/Publications/WP/
+Issues/2019/11/18/Designing-Central-Bank-Digital-Currencies-48739>. See also
+Auer R, Cornelli G, Frost J, ‘Rise of the central bank digital currencies: drivers,
+approaches and technologies’, BIS Working Papers, no. 880, 2020, <www.bis.
+org/publ/work880.htm>.
+Although in practice, no central bank has yet expressed an intention to do
+so. See Francesca Carapella F, Flemming J, ‘Central Bank Digital Currency:
+A Literature Review’, FEDS Notes, November 2020, <www.federalreserve.
+gov/econres/notes/feds-notes/central-bank-digital-currency-a-literature-review-20201109.htm>.
+Ibid.
+Ibid.
+For
+ further analysis see Allen S, et al., ‘Design choices for Central Bank Digital
+Currency: Policy and technical considerations’, Brookings Institute, 2020,
+<www.brookings.edu/wp-content/uploads/2020/07/Design-Choices-for-CBDC_Final-for-web.pdf>.
+
+Electronic copy available at: https://ssrn.com/abstract=3871301
+
+13
+
+Box 1: Design choices of CBDC
+CBDC could be either retail issued to the public for retail payments or wholesale issued to financial institutions for exclusively
+interbank settlement purposes.95 Within retail and wholesale CBDCs, there are several design choices available as per the
+existing CBDC literature.96
+1.1. In terms of CBDC’s ability to provide anonymity, it could be divided between account-based and token-based. In an
+account-based CBDC, funds are transferred from account to account,97 whereas in a token-based CBDC the transfer occurs
+via wallets. For an account-based CBDC, the central bank maintains a central ledger for settlement, while settlement in a
+token-based CBDC could be either centralized or decentralized. For both CBDCs, central banks could verify the users’
+identities. Therefore, it is unlikely that CBDC would be fully anonymous like cash, yet some degree of pseudonymity is
+achievable through token-based CBDCs.
+1.2. In terms of access and legal claim, a retail CBDC could be direct, indirect or hybrid.98
+
+Direct CBDC
+• CBDC is a direct claim on central banks
+• Central Banks handle payments directly
+
+Hybrid CBDC99
+• CBDC is a direct claim on central banks
+• C
+ entral banks handle retail balances
+periodically
+
+Indirect CBDC
+• A CBDC claim belongs to an intermediary
+• Intermediaries handle retail payments
+and central banks deal with wholesale
+payments
+
+1.3. Although, to date, none of the central banks are considering interest-bearing CBDC, theoretically, CBDC can
+
+be interest-bearing (with attributes similar to deposits) or non-interest-bearing (similar to cash).100 While an
+interest-bearing CBDC could trigger bank disintermediation, it could alleviate the macroeconomic shocks arising
+from the disappearance of cash.101
+A CBDC can carry a wide range of macroeconomic
+impacts, depending on the design and technology used,
+CBDC’s characteristics (cash-like and interest-bearing) and
+the size of the economy. Several studies have considered
+the macroeconomic implications and financial stability
+issues raised by the possible introduction of CBDC.102
+These studies used a more or less closed-economy as the
+context in which trade and capital flows are restricted.103
+
+95
+
+
+Adrian
+T, Mancini-Griffoli T, ‘The rise of digital money’, IMF Note, no 19/001,
+July 2019; Kumhof M, Noone C, ‘Central bank digital currencies – design
+principles and balance sheet implications’, Bank of England Working Papers,
+no 725, 2018, Mancini-Griffoli T, et al., ‘Casting light on central bank digital
+currencies’, International Monetary Fund, November 2018.
+96 Ibid.
+97 This is more like today’s commercial banks’ transactions between depositors.
+98
+99
+
+See supra note 91.
+
+Also
+known as ‘synthetic CBDC’; for a general discussion on ‘synthetic CBDC’,
+see supra note 99.
+
+100 See
+
+supra note 93.
+101 Ibid.
+102 Ibid. See also, Barrdear J, Kumhof M, ‘The Macroeconomics of Central Bank
+Issued Digital Currencies’, Bank of England Working Paper No. 605, 2016,
+<www.bankofengland.co.uk/working-paper/2016/the-macroeconomics-of-central-bank-issued-digital-currencies>; Andolfatto D, ‘Assessing the Impact of
+Central Bank Digital Currency on Private Banks’, Federal Reserve Bank of St.
+Louis, 2018, <www.sfu.ca/~dandolfa/CBDC.pdf>; Brunnermeier MK, Niepelt
+D, ‘On the equivalence of private and public money’, Journal of Monetary
+Economics 106(27), 2019, <www.sciencedirect.com/science/article/abs/pii/
+S0304393219301229>; Chiu J, Al Hosseini MD, Jiang J, ‘Bank Market Power
+and Central Bank Digital Currency: Theory and Quantitative Assessment’
+Bank of Canada Staff Working Paper (2010-20), 2019 <www.econ.ntu.edu.
+tw/uploads/asset/data/5ef0594348b8a1027b00180e/HKBU_1090703.pdf>;
+Fernandez-Villaverde J, et al., ‘Central Bank Digital Currency: Central Banking
+For All?’, NBER Working Paper Series No. 26753, 2020, <www.sas.upenn.
+edu/~jesusfv/Central_Banking_All.pdf>.
+103 Minesso Ferrari M, Mehl A, Stracca L, ‘The International Dimension of a Central Bank Digital Currency’, Vox EU, October 2020, <https://voxeu.org/article/
+international-dimension-central-bank-digital-currency>.
+
+The macroeconomic and social welfare implications
+were also studied using a CBDC model with adjustable
+interest rate in a small but open economy context with
+trade and capital flows.104 This showed that an interestbearing CBDC “could be a versatile instrument that
+would, in theory, improve monetary policy by allowing
+non-linear transfers and more direct implementation and
+transmission”.105 Economists also explored the potential
+of offering a negative interest rate on CBDCs and argued
+that “paying a negative interest rate on CBDC can cause
+a decrease in capital investment and GDP”.106 However,
+understanding the full macroeconomic implications of a
+CBDC at this exploratory stage is beyond the scope of
+this paper. Hence, based on the current literature, publicly
+available information and resources, this paper forwards
+some general macroeconomic considerations of CBDC
+keeping LDC economies in the focus. It is our observation
+that each of these macroeconomic considerations
+requires a full in-depth analysis and could vary depending
+on CBDC’s design, technology used and the size of the
+economy in which it is issued.
+
+104
+
+105
+
+106
+
+G
+ eorge A, Xie T, Alba JD, ‘Central Bank Digital Currency with Adjustable
+Interest Rate in Small Open Economies’, SSRN, 2020, <https://papers.ssrn.
+com/sol3/papers.cfm?abstract_id=3605918>.
+Al Hosseini MD, Rivadeneyra F, Zhu Y, ‘Central Bank Digital Currency and
+Monetary Policy’, Bank of Canada, February 2020, <www.bankofcanada.
+ca/2020/02/staff-analytical-note-2020-4/>.
+J ia P, ‘Negative Interest Rates on Central Bank Digital Currency’, MPRA Paper
+No. 103828, 2020, <https://mpra.ub.uni-muenchen.de/103828/1/MPRA_paper_103828.pdf>.
+14
+
+Electronic copy available at: https://ssrn.com/abstract=3871301
+
+Macroeconomic considerations
+of CBDCs
+Given the decentralized nature of DLT, a CBDC issued
+on DLT could lead to a reduced role for traditional
+players such as commercial banks and other financial
+intermediaries and may lead to a decrease in their
+lending.107 This is more likely in LDCs with limited financial
+infrastructure, which could choose to rely on non-bank
+distribution opportunities offered by Fintechs to achieve
+penetration to largely unbanked populations, leading to
+credible alternatives to traditional banks for those who do
+have access to financial services. While most jurisdictions
+will opt for a centralized or hybrid architecture giving banks
+and even non-banks a key role in the distribution of money
+and opening of accounts, in the case of LDCs with limited
+financial infrastructure, banks’ role as custodians of store
+of value and payments intermediaries could diminish in
+favour of Fintechs, impacting their potential to implement
+monetary policy. Unlike developed economies in which
+the financial institutions are mature, a large movement
+of bank deposits to domestically issued CBDCs held by
+private individuals, businesses or non-bank custodians
+in LDCs (where there is low trust in institutions), could
+reduce banks’ liquidity, impacting their ability to offer credit,
+which could be offset by limits to transaction sizes or
+account sizes, as currently applied to non-bank deposits in
+many countries. Conversely, CBDCs used as a wholesale
+settlement instrument would reduce settlement times
+and the amount of value locked up in gross settlements.108
+Economists and policymakers will need to respond to these
+impacts on money supply when designing monetary policy.
+Emerging market economies are especially advanced
+in experimenting with the possibility of issuing CBDCs.
+These economies are motivated to test CBDCs, given the
+opportunities presented for financial inclusion, financial
+stability, domestic payments efficiency, reduced monopoly
+of private payments systems, payments safety and
+because they fear that cross-border payment alternatives,
+such as Diem and foreign-issued CBDCs, could displace
+their own currencies. An IMF study shows that if CBDCs
+issued by stable economies are not well-designed,
+they could cause or accelerate ‘currency substitution’ in
+emerging markets and developing economies, particularly
+in countries with weaker macroeconomic policies, which
+are unable to control cash-based currency substitution
+through regulation and may face the same or greater
+challenges with those currencies in digital form.109
+
+107
+
+108
+109
+
+
+Disintermediation
+can be avoided if banks still have access to reserve that
+will facilitate their lending businesses. For reference, see supra note 93
+citing Andolfatto D, ‘Assessing the Impact of Central Bank Digital Currency on
+Private Banks’, Federal Reserve Bank of St. Louis Working Paper (2018-25),
+2018, <www.sfu.ca/~dandolfa/CBDC.pdf>.
+Supra note 14.
+Supra note 78.
+
+Furthermore, the availability of CBDCs associated with
+large economies, such as China, lays the ground for a
+potential flight to the currency from illiquid currencies and
+speculation on the open market (mirroring the concerns
+regarding Diem). While China has introduced control
+mechanisms to maintain stability, there was significant
+interest from investors in the DC/EP when it was first
+announced, bolstered by the idea that a widely available,
+accessible digital currency has potential to replace the
+US$ as the world’s de facto reserve currency.110 The
+impact on less stable economies of a significant flight
+to alternative currencies would be to reduce the ability
+of governments to collect tax and to maintain control
+of their fiscal or monetary policy. It can be argued
+that in some LDCs with very high inflation, currency
+substitution could actually stabilize the economy to the
+benefit of people and SMEs, as has recently been seen
+in Venezuela,111 which has also seen higher demand for
+cryptocurrencies alongside US$.112 However, the benefits
+may be difficult to achieve if a CBDC is tied to foreign
+reserves.113 A CBDC pegged to foreign currency could also
+“[increase] asymmetries in the international monetary
+system by reducing monetary policy autonomy in foreign
+economies”.114 For instance, if a foreign government’s
+CBDC is available in developing economies that have
+better control of monetary policy, but higher inflation, it is
+likely that the foreign government’s CBDC could gradually
+substitute the local currency and thus can have a negative
+impact. In short, the LDCs’ central banks would lose
+control of money supply as a result of gradual currency
+substitution, impacting sustainable development of that
+country.115
+Although it is debatable whether China’s DC/EP will have
+the characteristics likely to offer first mover advantages,
+such as increased use as a reserve currency or in
+international trade, over other nations as a result of its
+digital nature alone,116 its effort to internationalize RMB
+110 The
+
+Yuan is currently the third reserve currency behind the US$ and EUR,
+and some speculate that it could become more dominant both through investment and through currency substitution. See Birch DGW, ‘The Currency Cold
+War: Cash and Cryptography, Hash Rates and Hegemony’, London Publishing
+Partnership, 2020; John A, ‘Explainer: How does China’s digital yuan work?’,
+Reuters, October 2020, <www.reuters.com/article/us-china-currency-digital-explainer-idUSKBN27411T>.
+111 ‘Venezuela
+
+Economic Outlook’, Focus Economics, November 2020, <www.
+focus-economics.com/countries/venezuela>.
+112 Helmes
+
+K, ‘Venezuela’s Bitcoin Use Soars Amid Hyperinflation: 3rd on Global
+Crypto Adoption Index’, Bitcoin.com, August 2020, <https://news.bitcoin.
+com/venezuela-bitcoin-use-hyperinflation-crypto-adoption/>.
+113 Iancu
+
+A, et al. ‘Reserve Currencies in an Evolving International Monetary
+System’, IMF, November 2020, <www.imf.org/en/Publications/Departmental-Papers-Policy-Papers/Issues/2020/11/17/Reserve-Currencies-in-an-Evolving-International-Monetary-System-49864>.
+114 Supra
+
+note 108.
+115 See
+
+‘Selected sustainable development trends in the least developed
+countries – 2019’, United Nations Conference on Trade and Development
+(UNCTAD), 2019, <http://unctad.org/system/files/official-document/aldc2019d1_en.pdf>.
+116 While accessibility gives the first CBDC issued by a major economy a headstart in retail and potentially trade, its potential to replace US$ as a global
+reserve currency is dependent on additional factors such as existing global
+reserves: Carsten A, ‘Central bank digital currencies: putting a big idea into
+practice’, Bank for International Settlements, March 2021, <www.bis.org/
+speeches/sp210331.pdf>.
+
+Electronic copy available at: https://ssrn.com/abstract=3871301
+
+15
+
+and decrease dependence on the dollar-dominated
+financial system is taking on real shape as China is
+working closely with regional financial hubs to establish
+a platform where DC/EP is interoperable with other
+countries.117 CBDC’s interoperability and cross-border
+operability with other jurisdictions could also give rise to
+multifaceted macroeconomic impacts in LDCs, although
+such features have certain advantages in establishing
+an efficient, cheaper and faster international payment
+system.118
+
+Table 2: Countries in which retail CBDC/digital currencies have launched,
+or are being piloted or researched
+
+The Bahamas (Sand Dollar)
+
+Launched
+
+Pilot stage
+
+Research
+
+Cambodia (Bakong)
+Eastern Caribbean (DCash) (comprising St Kitts and Nevis, Saint Vincent
+and the Grenadines, Saint Lucia, Grenada, Dominica, Caribbean, Antigua and Barbuda)
+China
+
+Singapore
+
+Ecuador
+
+Sweden
+
+Jamaica
+
+Turkey
+
+Japan
+
+Ukraine
+
+Republic of Korea
+
+Uruguay
+
+Australia
+
+Kenya
+
+Bahrain
+
+Madagascar
+
+Brazil
+
+Mauritius
+
+Brunei
+
+Morocco
+
+Canada
+
+New Zealand
+
+Czechia
+
+Norway
+
+Eurozone
+
+South Africa
+
+Finland
+
+Suriname
+
+Ghana
+
+Thailand
+
+Iceland
+
+Tunisia
+
+India
+
+United Kingdom
+
+Indonesia
+
+USA
+
+Source: Bank of International Settlements 2021119
+
+117
+
+118
+
+119
+
+
+Inthanon-LionRock
+is a CBDC project for cross-border payments by the Hong
+Kong Monetary Authority (HKMA) and the Bank of Thailand (BoT). Recently,
+the Inthanon-LionRock project has been extended to include China’s Digital
+Currency Institute and the UAE. The joint initiative is supported by the BIS
+and renamed as ‘mCBDC Bridge’. For reference, see supra note 19.
+For a general analysis on the cross-border aspects of CBDCs, see Auer R,
+Haene P, Holden H, ‘Multi-CBDC Arrangements and the Future of Cross-Border Payments’, Bank for International Settlements, March 2020, <https://
+www.bis.org/publ/bppdf/bispap115.pdf>.
+Auer R, Cornelli G, Frost J, ‘Rise of the central bank digital currencies: drivers,
+approaches and technologies’, Bank of International Settlements Working
+Paper No. 880, August 2020, <www.bis.org/publ/work880.htm>.
+
+Electronic copy available at: https://ssrn.com/abstract=3871301
+
+16
+
+Graph 2: Interactive map of CBDC status (updated to 7 April 2021)
+
+Source: Raphael Auer, Giulio Cornelli and Jon Frost, Rise of the central bank digital currencies: drivers, approaches and technologies.
+BIS Working Papers No 880. 24 August 2020. https://www.bis.org/publ/work880.htm
+
+National Bank of Cambodia’s
+Project Bakong
+With a view to simplifying and expediting access to
+financial services for its citizens, the Central Bank of
+Cambodia recently launched ‘Project Bakong’—leaning
+on a mixture of more established financial services and
+more novel CBDC approaches. The recently launched
+project allows users to transact in Cambodian Riel or US$
+and features DLT to help record transactions in a way
+that lowers compliance burdens for financial institutions.
+To date, 18 of the country’s 43 commercial banks have
+signed up to be able to process Project Bakong payments,
+facilitated by Hyperledger Iroha120 and its ability to connect
+with ease to legacy systems.121
+
+Hub and spoke model
+in China: DC/EP
+China’s DC/EP has been extensively tested and is
+undergoing extensive piloting with plans for launch
+in 2022. Because China already has a mature digital
+payments infrastructure, with 95 per cent of payments
+going through digital wallets, the Central Bank of China is
+using BFTs, WeChatPay and AliPay, and the state-owned
+commercial banking system (Bank of China (BOC), the
+China Construction Bank (CCB), the Agricultural Bank of
+China (ABC) and the Industrial and Commercial Bank of
+China (ICBC)), to distribute its CBDC through digital
+
+120
+121
+
+ reference, see Hyperledger Iroha <www.hyperledger.org/use/iroha>.
+For
+See Project Bankong <https://bakong.nbc.org.kh>.
+
+wallets (CGTN 2020).122 Although the digital cash will
+be tracked on databases held in the various institutions,
+mimicking a blockchain node structure, the currency
+will not initially use blockchain technology, somewhat
+protecting Chinese commercial banks while reducing
+potential settlement benefits.
+
+Riksbank’s e-krona
+The growing disappearance of cash prompted Sweden’s
+central bank to launch a pilot project, e-krona, a CBDC
+with attributes similar to Swedish krona.123 Although it can
+be designed in various ways—either in physical form (such
+as banknotes and coins) or electronic (such as money in
+bank accounts)—currently the Riksbank is testing e-krona
+in a token form, “a uniquely identifiable digital unit of
+value” similar to the value of a Swedish krona.124
+Under the distribution model of e-krona (similar to
+the current model for cash) developed on blockchain
+technology, transactions are made through nodes run by
+the Riksbank and other participants, such as payment
+service providers.125 e-krona requires the user to have a
+debiting account in the Riksbank’s settlement system—
+RIX. KYC obligation lies with the participants in distribution
+of e-krona.126
+122
+
+124
+
+‘China
+
+to Begin Pilot Run of Digital Currency Electronic Payment’, CGTN,
+August 2020, <https://news.cgtn.com/news/2020-08-14/China-to-begin-pilot-run-of-Digital-Currency-Electronic-Payment-SWz6W63E1q/index.html>.
+Fulton
+
+C, ‘Sweden Starts Testing World’s First Central Bank Digital Currency’,
+Reuters, February 2020, <www.reuters.com/article/us-cenbank-digital-sweden-idUSKBN20E26G>.
+‘E-krona Pilot Phase 1’, Sveriges Riksbank, April 2021, p. 5 <www.riksbank.
+
+125
+126
+
+se/globalassets/media/rapporter/e-krona/2021/e-krona-pilot-phase-1.pdf>.
+Ibid.
+
+Ibid.
+
+
+123
+
+Electronic copy available at: https://ssrn.com/abstract=3871301
+
+17
+
+Graph 3: How e-krona is distributed127
+THE RIKSBANK'S NODE
+The Riksbank creates and
+destroys e-kronor that are
+represented by tokens.
+THE E-KRONA
+NETWORK
+
+Withdrawal/
+deposit
+Transfer
+
+NOTARY NODE
+A technical function operated by the Riksbank. It
+checks that a token has
+not been used before.
+
+END-USERS
+Deposits/withdrawals are
+made with the aid of digital
+wallets, connected to e.g. a
+mobile app or a card.
+THE PARTICIPANTS’ NODES
+The participants, for instance, banks
+and payment service providers, operate their own nodes and check the authenticity of the tokens.
+
+Source: ‘E-krona Pilot Phase 1’, Sveriges Riksbank, April 2021, p. 5
+<www.riksbank.se/globalassets/media/rapporter/e-krona/2021/e-krona-pilot-phase-1.pdf>.
+
+7
+
+CBDCs versus stablecoins
+A key difference between CBDCs and their fiat equivalent
+is the accessibility of that currency both to national
+residents and potentially to non-residents (unless the
+decision is taken to issue solely for domestic use). If
+granted access, residents in high-inflation countries
+may turn to CBDCs issued by a low-inflation country
+(as they do nowadays with cash).128 Like CBDCs,
+commercially issued stablecoins, which share many
+characteristics with CBDCs, could present an alternative
+or—for the unbanked—a primary store of value for
+their assets. Similarly, central banks could partner with
+e-money providers to issue ‘synthetic CBDCs’ which
+provide a desired stability of e-money and stablecoins
+from market, liquidity and foreign exchange risks.129
+
+From a monetary policy transmission perspective,
+this public–private entanglement means that in the
+absence of strong capital control by central banks
+and enforceable regulations against holding foreign
+CBDC, emerging economies may face the risks of
+currency substitution as the BFTs may prefer a mode
+of currency preferable to them, such as US$. Privately
+issued stablecoins used as a store of value, backed
+by commercial bank fiat or other assets, present an
+asymmetry to CBDCs backed by central bank reserves.
+This could reduce bank retail deposits in favour of
+protected accounts130 and consequently reduce
+the central bank’s ability to implement monetary
+policy via the commercial banking system.
+
+127
+
+Ibid, p. 7.
+
+130
+
+128
+
+Supra note 126.
+
+129
+
+Supra note 79.
+
+Under
+
+Basel III, escrowed deposits have lower fractional reserve allowances.
+
+Electronic copy available at: https://ssrn.com/abstract=3871301
+
+18
+
+In light of these emerging macroeconomic challenges,
+it is likely that many governments and central banks will
+need to rethink fiscal and monetary policies. Some weak
+economies, dependent on foreign investment and aid for
+infrastructure development, may already have lost much
+of their fiscal control; however, this challenge will be
+amplified and likely spread to additional countries, even
+as the benefits of digitization are delivered.
+
+Combined macroeconomic
+impacts of CBDCs and digital
+currencies on LDCs
+The traceability of digital money could build confidence
+to reignite foreign direct investment (FDI) and offer
+opportunities for sustainability-linked investment such as
+green and impact bonds, to encourage greater cashflow
+into LDC economies.131 Most LDCs132 are likely to be
+behind other countries in issuing domestic CBDCs as
+governments lack the resources to focus on development,
+leaving them vulnerable to an influx of foreign-issued
+CBDCs and commercial GSCs, which may increase
+dollarization of countries with weak monetary control, but
+could improve financial resilience for the poor, by offering
+a stable store of value.133 Domestic CBDCs, like GSCs or
+foreign CBDCs, could also accelerate financial inclusion
+in excluded populations by giving people access to stores
+of central bank currency in a wallet issued by a Fintech,
+without the need for a bank account, so that the very
+poorest are able to avoid the high costs charged by banks
+and mobile money providers. However, this will depend
+on central banks either lowering KYC restrictions in an
+account-based system, or choosing to issue their currency
+as a truly cash-like CBDC with no KYC restrictions, such
+as in a token-based system.134 This will be one of the
+key decisions that central banks need to make between
+control and utility.
+Unlike China, in most countries the central bank and
+government-owned banking institutions are dwarfed by
+the commercial sector, thus the state’s ability to control
+and maintain low pricing on bank-issued wallets would
+be lower. LDCs generally have limited formal financial
+infrastructure, with the majority of people outside the
+131
+132
+
+133
+
+134
+
+Supra note 43.
+
+With
+exceptions, for example, Cambodia: ‘Cambodia launches national blockchain payment system Bakong’, Ledger Insights, December 2020, <www.
+ledgerinsights.com/cambodia-national-blockchain-payment-system-bakong-cbdc/>.
+Mobile penetration in LDCs is relatively low, while other adoption barriers
+such as low literacy and device ownership are likely to prevent rapid adoption
+of GSCs in the short term. However, as mobile penetration increases (to
+50% in 2025 for sub-Saharan Africa, according to GSMA <www.gsma.com/
+mobileeconomy/wp-content/uploads/2020/09/GSMA_MobileEconomy2020_
+SSA_Eng.pdf>) and Fintech solutions enabling wallets to be held without a
+smartphone emerge, adoption is likely to grow.
+While issuing institutions will have KYC restrictions, there is no KYC on
+peer-to-peer transactions and a token-based versus account-based structure
+is still very much up for debate. See, for example, <https://www.bis.org/publ/
+qtrpdf/r_qt2003j.htm>.
+
+financial system and more likely to turn to private Fintechs
+than banks. Furthermore, digital financial inclusion is
+dependent on access, via technology. Adoption rates for
+mobile, while rapidly rising, are still low in rural areas and
+for traditionally excluded demographics such as women,
+refugees and disabled people. BFT’s business models
+would allow them to benefit these last mile populations
+through alternative channels such as community-focused
+mobile solutions, which allow account access to those
+without devices. However, they may lack motivation
+to reach these last mile demographics because of
+the greater income potential from wealthier (urban)
+customers.
+The introduction of digital substitute currencies, including
+CBDCs and GSCs, could benefit LDCs as they have
+the potential of making cross-border payments faster,
+reducing trade barriers and stabilizing savings for people
+in LDCs. Nonetheless, this may also mean that the
+LDC governments’ abilities to benefit from local entities
+through taxation could, rather than improving through
+greater visibility, be curtailed because of a lack of visibility
+for substitute currency transactions. It could further
+minimize regulators’ ability to control consumers’ choice
+of currency for savings and stores of value, which could
+potentially affect their ability to implement monetary
+policy. As noted previously, while in some LDCs with very
+high inflation this could stabilize the economy, benefiting
+the population and SMEs, in less volatile economies this
+could have a negative impact on development.
+
+Digital currencies in the
+African context
+Africa is home to most of the world’s LDCs,135 which are
+also facing the hardest economic impact from COVID-19.
+The COVID-19 pandemic is responsible for reducing
+previously forecasted 2020 growth from nearly 4 per
+cent to between −1.7 per cent and −3.4 per cent.136
+As the population growth rate across the continent
+is 2.7 per cent annually, many businesses, especially
+from China and the US, are recognizing the continent’s
+huge market potential and have started to both invest
+in and distribute goods and services there, including
+technology and infrastructure, enabling wider adoption of
+mobile devices thanks to cheap imports and improving
+networks. Some BFTs such as M-Pesa are home-grown
+African businesses, although more are now moving into
+Africa from elsewhere through acquisition or horizontal
+expansion from other service offerings.
+
+135
+
+‘Map of least developed countries’, UNCTAD, <https://unctad.org/topic/vul-
+
+136
+
+nerable-economies/least-developed-countries/map>.
+‘African
+
+Economic Outlook 2020’, African Development Bank <https://www.
+afdb.org/en/news-keywords/african-economic-outlook-2020>.
+
+Electronic copy available at: https://ssrn.com/abstract=3871301
+
+19
+
+Facebook’s Free Basics rollout has reached hundreds of
+millions of customers, giving people access to free data to
+view a curated range of websites, despite being banned
+in India because of concerns about data harvesting and
+‘fake news’. Ant Group is targeting Africa’s areas with low
+levels of financial infrastructure, as the service offerings
+do not require physical or server infrastructure (i.e. no
+need for one centralized data centre but rather on cloud
+or DLT).137 While its recent IPO attempt was blocked by
+regulators, Ant’s expansion seems inevitable. At a macro
+level, both of these organizations have the scale and reach
+to potentially weaken local financial institutions, even
+unintentionally, through the introduction of accessible
+substitute currencies and to materially compromise
+central banks’ abilities to control monetary policy.
+Although platforms like Facebook Free Basics do not yet
+offer wide-scale financial services, with the advancement
+of Facebook’s digital wallet and the maturation of the
+Diem stablecoin, this is unlikely to be far off. This is a key
+example of a BFT’s ability to use an existing platform as
+a key enabler and vehicle through which to reach large,
+underserved populations—in many cases circumventing
+national financial services providers. Privately issued
+stablecoins are increasingly being adopted through various
+Fintech platforms, further encouraging central banks to
+move into this space because of the “mushrooming of
+private cryptocurrencies”.138
+Some technically savvy Africans have embraced
+cryptocurrencies: consumers in Kenya, Nigeria and
+South Africa are all in the top 10 users of cryptocurrency
+globally139 according to Chainalysis, although these
+countries are not necessarily representative of subSaharan Africa or LDCs as a whole. In addition, Senegal
+launched a digital version of the West African Franc
+in 2016, although it failed to gain traction with other
+West African Economic and Monetary Union (WAEMU)
+countries and lost the support of Senegal’s Central
+Bank. However, other West African countries have digital
+currencies planned and Senegal is trying again with Akoin,
+a commercially issued stablecoin.140
+
+Potential evolution of an
+African bloc currency
+Beyond the current landscape of digital currencies, Africa
+is developing a distinct trend to use digital currency
+as a means to promote regional trade and economic
+integration among countries within the region.141 African
+countries have been working towards a continental free
+trade agreement (African Continental Free Trade Area or
+AfCFTA142) to encourage cross-border trade facilitated
+by several regional organizations, such as the South
+African Development Community (SADC), the East
+African Community (EAC), the West African Economic
+and Monetary Union (WAEMU), Central African Economic
+and Monetary Community (CEMAC) and Economic
+Community of West African States (ECOWAS). There
+is also a region-specific trend towards establishing a
+common monetary zone with a common currency under
+a common central bank. Fourteen African countries
+currently use bloc currencies—the Central African Franc
+and the West African Franc.
+With the proliferation of digital currencies, especially
+projects undertaken by sovereigns and regions like the
+EU, there have been similar attempts to create both an
+Anglophone West African bloc currency by ECOWAS (to
+be known as ‘Eco’)143 and an East African144 bloc currency
+by EAC. Unlike the Euro, these bloc currency zones
+are a “legacy of colonialism”; however, this legacy also
+provides a template for currency blocs.145 Overall, this
+provides a foundation for the potential emergence of bloc
+cryptocurrencies across Africa, likely starting with existing
+bloc currencies. The move from paper to national bankbacked digital currencies could provide significant crossborder trade opportunities, particularly for Francophone
+West African countries, in which telco mobile money has,
+to date, had lower penetration than in Anglophone East
+Africa.146
+
+141
+
+142
+
+137 Tudor-Ackroyd
+
+A ‘Where will Ant Group’s Next Billion Users Come from as it
+Ploughs its Jumbo IPO Proceeds into Overseas Expansion?’, The South China
+Morning Post, October 2020, <www.scmp.com/business/banking-finance/
+article/3105634/where-will-ant-groups-next-billion-users-come-it-ploughs>.
+138 See Huillet M, ‘Kenya’s central bank exploring CBDCs due to ‘mushrooming’
+of private cryptos’ Cointelegraph, October 2020, <https://cointelegraph.com/
+news/kenya-s-central-bank-exploring-cbdcs-due-to-mushrooming-of-privatecryptos>.
+139 Stephon C, ‘Revealed: The countries with the highest levels of everyday crypto use’, Modern Consensus, September 2020, <https://modernconsensus.
+com/cryptocurrencies/bitcoin/revealed-the-countries-with-the-highest-levelsof-everyday-crypto-use/>.
+140 Rahul N, Baird K, ‘How Digital Currency Could Change Senegal’s Financial
+System Forever’, be in crypto, July 2020 <http://beincrypto.com/how-digital-currency-could-change-senegals-financial-system-forever/>.
+
+143
+
+144
+
+145
+
+146
+
+See,
+
+for example, ‘How online payments can deepen regional trade’, Business Daily, September 2020 <www.businessdailyafrica.com/corporate/tech/
+How-online-payments-can-deepen-regional-trade/4258474-5618318-u9gfngz/
+index.html>.
+Mukeredzi
+
+T, ‘Africa’s free trade agreement hinges on commitment and
+implementation’, Africa Renewal, <www.un.org/africarenewal/news/africa%E2%80%99s-free-trade-agreement-hinges-commitment-and-implementation>.
+For
+ regional efforts in Africa, see Uche Ordu A ‘An Evaluation of the Single
+Currency Agenda in the ECOWAS Region’, Brookings, September 2019
+<www.brookings.edu/blog/africa-in-focus/2019/09/24/an-evaluation-of-the-single-currency-agenda-in-the-ecowas-region/>.
+See
+
+The East African Monetary Union [EAMU] <www.eac.int/monetary-union>. See also, KNA ‘Common East African Currency To Be In Use
+Soon’, Kenya News Agency, August 2019, <www.kenyanews.go.ke/commoneast-african-currency-to-be-in-use-soon/>.
+See,
+
+for example, Maclean R ‘West African Countries Take a Step Away
+From Colonial-Era Currency’, The New York Times, December 2019, <www.
+nytimes.com/2019/12/21/world/africa/west-africa-currency-france-franc.html>.
+See
+
+‘State of the Industry Report on Mobile Money’, GSMA, 2019, <www.
+gsma.com/sotir/wp-content/uploads/2020/03/GSMA-State-of-the-Industry-Report-on-Mobile-Money-2019-Full-Report.pdf>.
+
+Electronic copy available at: https://ssrn.com/abstract=3871301
+
+20
+
+Unbanked communities:
+the frontline for maintaining
+currency sovereignty
+Digital currencies are likely to have a proportionally greater
+impact on the unbanked in LDCs and other countries
+with larger unbanked populations, with macroeconomic
+consequences if rolled out on a large scale. With some
+exceptions, as previously noted, LDCs, with weak financial
+infrastructure, are also likely to introduce domestic
+CBDCs later than richer countries, based on the state
+of known research, which, to date, is very low in LDCs.
+This, together with weak financial systems, leaves them
+uniquely vulnerable to widespread adoption by unbanked
+people of non-native CBDCs or commercially issued
+stablecoins. Where Fintechs choose to issue stablecoins
+in domestic currencies, they have the potential to partially
+act as a proxy for a CBDC by preventing encroachment
+of foreign CBDCs and maintaining national currency
+sovereignty, although they would not fulfil other functions
+of CBDCs, such as implementing monetary policy. Given
+the scale of this community population in LDCs, the
+choice between allowing privately issued stablecoins or
+allowing foreign-issued currencies to encroach, is likely to
+have systemic impact for currency substitution.
+We have witnessed that digitalization has already enabled
+millions of people to access digital money without
+needing a bank account through the introduction and
+development of telco-issued mobile money since 2007.
+This access has had broadly positive impacts such as
+greater financial inclusion, a reduction in the gender gap
+for access to financial services and the ability to purchase
+via PAYG clean energy and other utilities.147 However,
+negative impacts have also been observed, such as
+crowding out existing microenterprises because in the
+poorest economies demand for the goods and services
+being offered does not grow to meet supply. This was
+observed by Bateman et al.148 in their study of the impact
+of M-Pesa on Kenya’s microbusinesses, where access
+to credit enabled people to establish microbusinesses,
+increasing competition in a saturated market, ultimately
+leading to failures and defaults.149
+BFTs and other Fintechs do, however, have the potential
+to support market-based interventions to increase both
+demand and supply, by going beyond provision of basic
+products like payments and lending, to include services
+
+such as blended financing for agricultural inputs (as
+M-Pesa has done in Kenya150), increasing transparency in
+supply chains and lenders’ terms. They have the potential
+to open up investment corridors to communities such
+as agricultural cooperatives, and to improve efficiency in
+export production, bringing much-needed foreign capital
+into LDCs.151
+BFTs and other Fintechs can also play an important role
+in the formalization and commercialization of unbanked
+savings and lending groups, which typically form
+where communities lack access to formal finance, and
+membership is disproportionately female. Community
+groups like these provide an important social safety net
+for their members, and typically have a low default rate, as
+the members are encouraged to borrow realistically and
+to repay based on strong social bonds.152 Formalization of
+these groups, by giving them access to identity, finance
+and markets, can be the first step in creating better
+market economies, enabling community members to find
+new markets, such as urban or international markets, for
+products which may not find a market locally. Because
+these communities typically have low levels of literacy and
+poor access to both mobile devices and signal, the design,
+technology requirements and digital literacy required to
+use BFT products may exclude these groups, missing a
+significant development opportunity.
+
+Global considerations: shadow
+banking and COVID-19
+While many BFTs include a broad range of consumers
+into their financial services, promoting financial inclusion
+for the unbanked and underbanked, Fintech credits could
+be more costly than traditional credit services. This is
+partly because of taxes on mobile money transactions
+in many countries.153 In addition, although BFTs’ use of
+technology improves the quality of financial services
+in economically prosperous conditions, it also exhibits
+a higher risk of financial instability during economic
+downturn. For instance, shadow deposits (e.g. PayPal
+money) are not covered by a government’s guarantee on
+deposits. Therefore, it is likely that these deposits will not
+be covered by the deposit insurance coverage in case of
+a bank run. For markets that have a high penetration rate
+for ‘market finance’ solutions, the adoption of a CBDC
+can help create data trails to better map the flow of funds,
+thereby helping to maintain financial stability.154
+150
+
+147
+
+148
+
+149
+
+ analysis, see World Bank Group and IMF ‘Fintech: The Experience So Far’,
+For
+EPolicy Paper No. 19/024, 2019, <www.imf.org/-/media/Files/Publications/
+PP/2019/PPEA2019024.ashx>.
+Bateman M, Duvendack M, Loubere N, ‘The Curious Case of M-Pesa’s
+Miraculous Poverty Reduction Powers’, Developing Economics, June 2019,
+<https://developingeconomics.org/2019/06/14/the-curious-case-of-m-pesas-miraculous-poverty-reduction-powers/>.
+See ‘The Ins And Outs Of Inclusive Finance: Some Lessons From Microfinance And Basic Income’, UNCTAD, 2018, <https://unctad.org/system/files/
+official-document/gdsmdp2017d3_en.pdf>.
+
+151
+152
+153
+
+154
+
+B
+ ateman M, Duvendack M, Loubere N, ‘The Curious Case of M-Pesa’s
+Miraculous Poverty Reduction Powers’, Developing Economics, June 2019,
+<https://developingeconomics.org/2019/06/14/the-curious-case-of-m-pesas-miraculous-poverty-reduction-powers/>.
+Supra
+
+note 85.
+Karlan
+
+D, et al., ‘Impact of savings groups on the lives of the poor’, PNAS
+114(12), 2017, <https://www.pnas.org/content/114/12/3079>.
+Kiruga
+
+M, ‘Kenya M-Pesa Tax Risks Killing the Goose That Laid the Golden
+Egg’, The Africa Report, August 2019, <www.theafricareport.com/16057/kenya-m-pesa-tax-risks-killing-the-goose-that-laid-the-golden-egg/>.
+Supra
+
+note 55.
+
+Electronic copy available at: https://ssrn.com/abstract=3871301
+
+21
+
+With regards to the impact of the COVID-19 pandemic, it
+is projected to cause the first increase in global poverty
+since 1998,155 and has already been seen to, and is widely
+expected to continue to, fuel digital transformation in
+the financial services sector.156 While digital transactions/
+payments and e-money in particular have experienced a
+surge in popularity since the beginning of the pandemic,
+central banks around the world have already made one
+thing clear: they will not be rushing the introduction of
+CBDCs as a result.157 There is a clear need to separate
+digital money and CBDC, as the latter is an official
+counterpart of a fiat currency and not merely a digital
+token representing physical value.
+Further, the resilience of the Fintech credit market
+remains largely unassessed. For example, during an
+economic downturn, it is unclear how these Fintech
+lenders will perform. The large consumer bases and
+interconnectedness across financial sectors and national
+boundaries of BFTs158 can give rise to significant volatility
+in the financial system. Moreover, unlike traditional big
+banks, the BFTs’ shadow banking encourages regulatory
+arbitrage, as similar risks are regulated more tightly in the
+traditional lending sector, especially since the banking
+crisis of 2008.159 For instance, traditional banking sectors
+are required to comply with the Basel capital adequacy
+requirements and stress testing to prove their resiliency
+during a time of financial stress, while BFTs are not
+subject to these types of requirements.
+
+Key extrapolations
+and conclusions
+Based on our research and expert analysis, we draw
+the following key extrapolations and conclusions.
+Despite the benefits of digitization such as broader
+financial inclusion, the potential impacts over fiscal
+control of weaker economies dependent on foreign
+investment and aid for infrastructure development are
+showing preliminary warning signs that warrant further
+investigation. The impact on these economies will be
+amplified and spread to additional countries, particularly
+upon issuance of CBDCs by major economies such as
+155
+
+156
+
+157
+
+158
+159
+
+ ahler DG, et al., ‘The impact of COVID-19 (Coronavirus) on global poverty:
+M
+Why Sub-Saharan Africa might be the region hardest hit’, World Bank Blogs,
+2020, <https://blogs.worldbank.org/opendata/impact-covid-19-coronavirus-global-poverty-why-sub-saharan-africa-might-be-region-hardest>.
+von Allmen UE, et al., ‘Digital financial inclusion in the times of COVID-19’,
+IMF Blog, July 2020, <https://blogs.imf.org/2020/07/01/digital-financial-inclusion-in-the-times-of-covid-19/>.
+For reference, see Faridi O, ‘Norway Is Not in a Rush to Launch its Own Digital Currency Even though Cash Usage has Declined Significantly’, Crowdfund
+Insider, November 2020, <www.crowdfundinsider.com/2020/11/168954-norway-is-not-in-a-rush-to-launch-its-own-digital-currency-even-though-cash-usage-has-declined-significanty/>.
+Birla A, ‘Your Next Bank Will Be a Tech Giant’, CrunchBase, September 2020,
+<https://about.crunchbase.com/blog/your-next-bank-will-be-a-tech-giant/>.
+‘BIS Quarterly Review: International Banking and Financial Market Developments’, September 2018, <www.bis.org/publ/qtrpdf/r_qt1809.pdf?mod=article_inline>.
+
+the US and China (or GSCs based on stable currencies).
+This will lead to further penetration of the much
+maligned ‘dollarization’ (or stable alternative) of emerging
+financial markets already prevalent in so many emerging
+economies, where majority unbanked populations
+are more likely to adopt easily accessible substitute
+currencies.
+Once foreign CBDCs and GSCs based on stable
+currencies are available to citizens in LDCs, the LDC
+central banks will have limited ability to control their
+adoption as substitute currencies. Furthermore, greater
+accessibility provided by BFTs’ tooling could restrict
+central banks’ abilities to control monetary policy, playing
+a role in destabilizing sovereign control and economic
+agency in LDCs. LDCs issuing their own CBDCs will need
+to ensure they have higher utility than foreign CBDCs or
+GSCs, including low barriers to adoption, to control this
+capital flight.
+However, bloc currencies and even foreign CBDCs and
+GSCs could provide greater stability for citizens by giving
+them access to a store of value, enabling them to save
+without having to overcome high barriers to entry for
+banking services. They could benefit businesses as a
+store of value, and as a payment instrument, reducing
+cross-border trade barriers. The challenge for central
+banks and governments will be to advance innovative
+governance approaches that enable an influx of substitute
+currency without losing tax revenues or losing currency
+sovereignty.
+LDCs are not at the leading edge of CBDC issuance,
+and, with large unbanked populations, will be particularly
+vulnerable to loss of currency sovereignty to powerful
+foreign currencies, and therefore control of monetary and
+fiscal policy. To mitigate this effect, LDC central banks
+could work together to encourage the disbursement of
+domestic stablecoins by BFTs and other Fintechs (as
+synthetic CBDCs or as domestic GSCs) in preference
+to foreign currencies, to maintain currency sovereignty
+in the absence of a domestic CBDC. While this is a less
+desirable solution than domestic issuance, if combined
+with clear regulatory controls it could provide a needed
+transitional solution towards domestic CBDC issuance.
+Economic area partners could investigate the potential
+of accelerating the development of bloc currencies to
+leverage collective strength and reduce cross-border
+trade barriers, encouraging adoption of those currencies
+in preference to substitute currencies. While there is no
+single model for global collaboration between LDC central
+banks, governments and regulators, best practice could
+be derived from existing economic unions such as the
+Eurozone, or African RECs.
+CBDCs and GSCs will provide alternative stores of value
+even when held as national fiat, impacting commercial
+
+Electronic copy available at: https://ssrn.com/abstract=3871301
+
+22
+
+banks, their pivotal role in moving and storing value, and
+their ability to implement monetary policy. Central banks
+could consider implementing monetary or fiscal policy
+directly through exploiting the programmable nature of
+CBDCs, for example by implementing interest (positive
+or negative) on stores of value to encourage saving or
+spending, demurrage to encourage spending or by levying
+direct taxation on certain types of payments. These
+measures may be viewed as having an overreaching
+influence on private assets from a political perspective,
+although in effect they would be equivalent to commercial
+bank charges and interest, or Pay as You Earn (PAYE)
+taxation. CBDCs as settlement instruments will impact
+money supply considerations and monetary policy,
+prompting new regulatory considerations and alternative
+approaches to implementing monetary policy, including
+directly through the design of CBDCs. Monetary policy
+and financial supervision needs to be revised with
+international collaboration to acknowledge these changes
+and to mitigate potential negative impacts.160
+BFTs can leverage large existing consumer bases in
+LDC economies who are often disenfranchised from
+participation in the formal financial sector to quite a high
+degree. This existing consumer base, with growth in
+both product depth and availability, presents a lucrative
+alternative to traditional financial services. BFTs can skirt
+around most prudential regulation incumbent upon banks
+and other financial institutions, and this landscape of light
+regulation poses concerns that BFTs may intentionally
+or unintentionally distort free market competition from
+
+160
+
+
+China
+proposed Global Rules on CBDC and how they can be regulated
+through monitoring and information sharing. For reference, see Wilson T,
+Jones M, ‘China Proposes Global Rules for Central Bank Digital Currencies’,
+Reuters, March 2021, <www.reuters.com/article/cenbanks-digital-china-rules-idUSL8N2LN46B>. The Bank of Japan also recommended ‘common
+rules’ on CBDCs with major central banks, see ‘BOJ Sees Scope to Set Common Rules on CBDCs with Major Central Banks’, Reuters, April 2021, <www.
+reuters.com/article/cenbanks-digital-japan-idUSL4N2M1265>. Previously, a
+group of seven central banks together with BIS published a report laying out
+the key requirements for any publicly available CBDCs. For reference, ‘Central Bank Digital Currencies: Foundational Principles and Core Features’, Bank
+of International Settlement, October 2020, <www.bis.org/publ/othp33.pdf>.
+
+their often dominant, if not monopolistic, position. Such
+a position would pose a hazard to financial stability as
+deposits in non-bank institutions would rise, as well
+as the ability to circumvent consumer protections
+as typically found in prudential regulation targeting
+only banks or traditional financial institutions.
+BFTs’ ‘data-network-activities’ loop gives these
+companies a competitive advantage when they enter
+into financial services. While this brings benefits as
+previously outlined, with no additional cost, the perils
+are associated with market power, operational resilience
+and data privacy. To resolve this, Mr. Agustin Carstens,
+General Manager of the BIS and former Governor of
+the Bank of Mexico, proposes that “[p]ublic policy
+regarding big techs in finance… needs to build on a
+more comprehensive approach that combines financial
+regulation, competition policy and data privacy”.161
+It is in light of these findings that a risk-based method
+of regulation is suggested, with a focus on outcomes
+in financial markets that are especially related to
+global and local financial stability but also to broader
+sustainable development outcomes, and which maintain
+macroeconomic authority in implementing jurisdictions.
+While globally interconnected financial systems are seen
+as a positive outcome of global digital transformation, it
+is important to ensure that markets making use of these
+solutions are sufficiently able to protect both consumers
+and their economies from unforeseen externalities.
+
+161
+
+Carstens
+
+A, ‘Public Policy for Big Techs in Finance’, BIS Speech, January
+2021, <www.bis.org/speeches/sp210121.htm>.
+
+Electronic copy available at: https://ssrn.com/abstract=3871301
+
+23
+
+The authors would like to express their gratitude to Raphael Auer (BIS), Ashley
+Lannquist (WEF), David Birch (CSF), Sandra Ro (GBBC), Riyad Carey (GBBC),
+Sofia Arend (GBBC) and the team at UNCDF/UNDP (Pamela Eser, Aiaze Mitha,
+and Johannes Schultz-Lorentzen) for their insightful feedback and suggestions.
+About the UN Capital Development Fund
+The UN Capital Development Fund makes public and private finance work for the poor in the world’s
+46 least developed countries (LDCs). UNCDF offers “last mile” finance models that unlock public and
+private resources, especially at the domestic level, to reduce poverty and support local economic
+development.
+UNCDF’s financing models work through three channels: (1) inclusive digital economies, which
+connects individuals, households, and small businesses with financial eco-systems that catalyze
+participation in the local economy, and provide tools to climb out of poverty and manage financial lives;
+(2) local development finance, which capacitates localities through fiscal decentralization, innovative
+municipal finance, and structured project finance to drive local economic expansion and sustainable
+development; and (3) investment finance, which provides catalytic financial structuring, de-risking,
+and capital deployment to drive SDG impact and domestic resource mobilization.
+
+UNDP is the leading United Nations organization fighting to end the injustice of poverty, inequality,
+and climate change. Working with our broad network of experts and partners in 170 countries,
+we help nations to build integrated, lasting solutions for people and planet.
+Learn more at undp.org or follow at @UNDP.
+
+This series of papers is brought to you with the support of
+
+Electronic copy available at: https://ssrn.com/abstract=3871301
+
+10 May 2021
+
+About the UN Development Programme
+
+

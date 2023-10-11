@@ -1,0 +1,762 @@
+China Economic Journal
+
+ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/rcej20
+
+China, the United States, and central bank digital
+currencies: how important is it to be first?
+Martin Chorzempa
+To cite this article: Martin Chorzempa (2021) China, the United States, and central bank
+digital currencies: how important is it to be first?, China Economic Journal, 14:1, 102-115, DOI:
+10.1080/17538963.2020.1870278
+To link to this article: https://doi.org/10.1080/17538963.2020.1870278
+
+Published online: 05 Jan 2021.
+
+Submit your article to this journal
+
+Article views: 2378
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 2 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rcej20
+
+CHINA ECONOMIC JOURNAL
+2021, VOL. 14, NO. 1, 102–115
+https://doi.org/10.1080/17538963.2020.1870278
+
+China, the United States, and central bank digital currencies:
+how important is it to be first?
+Martin Chorzempa
+Peterson Institute for International Economics, Washington, DC, USA
+ABSTRACT
+
+KEYWORDS
+
+In only a few years, central bank digital currencies (CBDC) have
+gone from a fringe idea promoted by cryptocurrency bloggers to an
+idea being seriously explored by 80% of the world’s major central
+banks, including the People’s Bank of China and the United States
+Federal Reserve. This paper gives an overview of the drive at the
+world’s central banks to evaluate CBDCs and examines the reasons
+behind the world’s two leading economies’ stark divergence in
+central bank digital currency development. China committed much
+earlier to launching a CBDC, doing so in early 2016, and has since
+taken more concrete steps towards piloting and issuing a CBDC
+than the Fed, which has yet to commit to ever issuing one.
+
+cryptocurrency; digital
+currency; central banks;
+monetary policy; payments
+
+This article then critiques the common framing of CBDC development as a race and
+explores the implications of China becoming a first mover for both countries and the
+global monetary system, including the role of the Dollar and RMB internationally. China
+has already begun retail pilots and is likely to be the first major economy to widely issue
+a CBDC. It concludes that a first mover advantage in CBDC is likely to be short lived due
+to the rapid changes in the technology and likely also in the global marketplace for digital
+currencies. In addition, it hypothesizes that the Federal Reserve may not be as far ‘behind’
+China in understanding digital currency as it might appear from their different public
+response to CBDC.
+
+What is a CBDC and who needs one?
+This article will focus on retail central bank digital currencies, which the IMF defines as
+“a widely accessible digital form of fiat money (available to the public) that could be legal
+tender. Such CBDC would be a central bank liability and form part of the base money
+supply,” (Kiff et al. 2020). Many central banks began researching CBDCs around 2016,
+but back then they were generally exploring wholesale versions not available to the
+general public that could employ distributed ledger technology in back end payment
+systems to hopefully gain payments efficiency and resiliency.
+The motivations for exploring or launching CBDCs varies by country, but there is
+significant commonality. One of the primary motivations has been the rise of the digital
+CONTACT Martin Chorzempa
+Washington, DC 20036, USA
+
+mchorzempa@piie.com
+
+© 2021 Informa UK Limited, trading as Taylor & Francis Group
+
+Peterson Institute for International Economics,
+
+CHINA ECONOMIC JOURNAL
+
+103
+
+5
+
+01.05.2020
+
+01.03.2020
+
+01.01.2020
+
+01.11.2019
+
+01.09.2019
+
+01.07.2019
+
+01.05.2019
+
+01.03.2019
+
+01.01.2019
+
+01.11.2018
+
+01.09.2018
+
+01.07.2018
+
+01.05.2018
+
+01.03.2018
+
+01.01.2018
+
+01.11.2017
+
+01.09.2017
+
+01.07.2017
+
+01.05.2017
+
+01.03.2017
+
+01.01.2017
+
+01.11.2016
+
+01.09.2016
+
+01.07.2016
+
+01.05.2016
+
+-5
+
+01.03.2016
+
+0
+
+01.01.2016
+
+Net Senment in Central Banker
+Speeches
+
+10
+
+-10
+
+-15
+
+-20
+
+Figure 1. Speeches on CBDC have turned more positive since late 2018. Source: R Auer, G Cornelli and
+J Frost, ‘The rise of central bank digital currencies: drivers, approaches and technologies’, BIS Working
+Paper, no. 880.
+
+economy around the world, which has driven a decline in the use of cash in many
+countries. Physical cash is a free, nearly anonymous payment tool provided by central
+banks, which now hope to update it to provide a public payment instrument with similar
+attributes that can also be used for digital payments. Many hope to expand financial
+inclusion with a CBDC, as well as generate significant savings over the current costs of
+handling and distributing physical cash, especially in remote areas.
+Interest in retail CBDCs spiked after Facebook released the Libra White Paper in 2019,
+which proposed a global reserve-backed stablecoin and payment system that would make
+sending money as easy as sending a message or digital photograph. Libra appeared to
+usher in a coming era in which private sector actors with global scale compete with
+sovereign money. Many central banks saw Libra as threatening their monetary sover­
+eignty due to its separate unit of account and potential for facilitating capital flight. The
+result was a ‘tipping point’ for central bank interest in CBDCs (Auer, Cornelli, and Frost
+2020). A Bank for International Settlements (BIS) analysis of senior central bank officials’
+speeches on CBDC (Figure 1) show little interest until early 2017, followed by a strong
+negative sentiment. That turns around, however, in late 2019, when central bankers had
+thoroughly digested the Libra plans and their implications. Sentiment then turned
+significantly positive on net (Auer, Cornelli, and Frost 2020).
+The Bank for International Settlements’ most recent survey of central banks on
+CBDCs found that at least 80% are doing some work, like research and experiments on
+CBDCs, but only 10% have progressed to more concrete pilot tests or advanced devel­
+opment. Interestingly, it found that ‘every central bank that has progress to development
+or a pilot project is an EME (emerging market economy) institution’ (Boar, Holden, and
+Wadsworth 2020).
+
+Divergent timelines
+A comparison between China and the United States of official statements and updates on
+digital currency research from the People’s Bank of China and the Federal Reserve, along
+with the evolving consideration of whether to commit to launching a CBDC, is illumi­
+nating. China was much faster to make such a commitment, a fact recognized by top
+
+104
+
+M. CHORZEMPA
+
+Federal Reserve officials, who nevertheless implicitly reject being in any race to be the
+first to issue a CBDC. Nevertheless, neither central bank is willing to risk falling behind
+the frontier of CBDC development due to its strategic implications.
+
+China
+The People’s Bank of China has been at the forefront of CBDC research for years, and it is
+one of the first central banks to declare an intention to launch one. It formed a dedicated
+research team to focus on digital currencies in 2014, following a speculative boom in
+which Chinese demand for Bitcoin drove a global spike in its prices. Bitcoin’s popularity
+there in 2013 made many wonder if China would be the first country where Bitcoin could
+become a commonly used medium of exchange – a dangerous prospect from the PBOC’s
+perspective in terms of its ability to implement monetary policy.
+Chinese authorities quickly recognized the drawbacks of unregulated digital curren­
+cies, from capital flight to tax evasion and risks of financial instability due to Bitcoin’s
+wildly fluctuating prices, so they implemented strict regulations in December 2013 to
+limit any threat Bitcoin could have to China’s financial system or the RMB’s role as sole
+currency. The technology, including blockchain and distributed ledgers (DLT) for
+currency and payments, however, clearly had promise and deserved further study.
+Less than 2 years after its research began, in January 2016, the PBOC officially
+announced a ‘strategic goal’ of launching a CBDC, which it said would be of ‘deep
+historical significance.’ It tasked its research group with preparing to ‘launch the CBDC
+soon,’ (People’s Bank of China 2016). The statement laid out a long list of advantages
+that a CBDC would bring, including financial inclusion, more efficient payments,
+reducing the costs of issuing and managing paper cash, giving the PBOC more control
+over the money supply, and cutting down on crimes like tax evasion and money
+laundering. Interestingly, and in contrast to speeches soon after from top Federal
+Reserve officials, the announcement did not list a single potential risk or drawback to
+launching a CBDC.
+In 2017, the PBOC both intensified its research efforts to develop its CBDC, later
+dubbed DC/EP for ‘digital currency/electronic payment’ and asserted more control over
+other digital currencies. At the time, the second major global wave of cryptocurrency
+speculation was raging in the form of both spiking prices for Bitcoin and Ethereum and
+a boom in Initial Coin Offerings or ‘ICO’s,’ which offered to sell newly minted digital
+currencies to speculators. The PBOC and other regulators quickly banned ICOs in one of
+the harshest regulatory approaches in the world, and soon after kicked cryptocurrency
+exchanges that made digital currencies accessible to the general public out of the country,
+making it clear that only digital currency issued or effectively regulated by the PBOC
+could circulate in China.
+The PBOC was in a much better position than most central banks to respond to Libra,
+because it already had years of dedicated research, commitment to launching its own
+digital currency, and internal trials completed. While others scrambled to set up research
+groups, Mu Changchun, then deputy director of the PBOC’s payment and settlement
+department, announced that DC/EP was ‘almost ready,’ signaling that China was not
+behind Facebook in the digital currency competition (Mu 2019).
+
+CHINA ECONOMIC JOURNAL
+
+105
+
+At the same time, the Libra announcement pushed the PBOC to accelerate its
+CBDC efforts. Mr. Mu said that PBOC staff on the DC/EP project were working the
+famously grueling ‘996’ (9am-9pm, 6 days per week) schedule, common in China’s
+technology sector, to move faster. He also said his announcement was ‘a manifestation
+of our response to Libra.’ Other high level PBOC officials explicitly framed the
+situation as a race with both Facebook and the US Dollar, which they assumed were
+linked due to the dollar’s naturally large role in the Libra currency basket. Wang Xin,
+head of the PBOC’s research bureau, said in a speech at the time that ‘We had an early
+start . . . but lots of work is needed to consolidate our lead,’ and warned that
+a successful Libra could reinforce a monetary system with ‘one boss, the Dollar,
+America,’ (Wang 2019).
+In April 2020, the PBOC then announced its most significant step yet, a set of
+coming retail trials in four cities to take place in preparation for the 2020 Olympics.
+Nevertheless, PBOC Governor Yi Gang cautioned in a Caixin interview at the time that
+‘the current experimental tests . . . do not at all mean that we are officially launching
+issuance of the digital RMB. There is no timetable for when it will be officially
+introduced’ (Yi 2020a).
+The trials have already reached a significant scale, according to the PBOC. Governor
+Yi announced on 1 November 2020 that 4 million transactions with the new currency,
+adding up to 2 billion RMB, had already been transacted (Yi 2020b). Little information is
+publicly available on the trials outside of those in Shenzhen and Suzhou, both of which
+chose regular people by lottery as participants, ‘airdropping’ currency into new pilot
+wallets that could be used in designated specific areas of the city during the trial. The
+Shenzhen trial only included online payment functionality, generally using QR codes like
+Alipay and WeChat Pay do, while Chinese media reported that the Suzhou trial would
+include the ability to make near field communications (NFC)-based payments offline.
+This feature is interesting because it is designed to eventually include people in rural
+areas without reliable internet access, for whom current mobile payment tools do not
+work well.
+The PBOC has also taken concrete action to ensure that the digital RMB fits solidly in
+China’s legal framework. Proposed revisions to China’s Central Bank Law in
+October 2020, if adopted, would officially recognize the digital form of the RMB and
+ban circulation of tokens/digital currencies that could compete with either form of the
+digital RMB (People’s Bank of China 2020).
+What is publicly known about DC/EP at this point relies heavily on remarks from
+a variety of PBOC officials in interviews with Chinese media or speeches reported by such
+media. The piecemeal nature of this communication, compared to, for example,
+a comprehensive white paper, makes it difficult to assess the extent of remaining work
+to be done. Thorny but critical design choices around how user data will be handled; the
+role that existing payment institutions like Alipay and WeChat Pay will play in the
+system; the economic incentives of the various actors; how a ‘technologically neutral’
+system, as the PBOC has called it, will work in practice; and whether or when DC/EP will
+be able to be used abroad all either remain to be finalized or have not been announced.
+There still appears to be no timeline for widespread issuance of DC/EP, though the PBOC
+appears to be in the final stages of preparation before launch. It is one of few countries in
+the world that has advanced to this stage.
+
+106
+
+M. CHORZEMPA
+
+United States
+In stark contrast to China, the United States has consistently held a more skeptical official
+stance towards launching a CBDC, though like the PBOC it has paid close attention to
+developments in digital currency, blockchain, and DLT. An analysis of speeches and
+remarks from top Federal Reserve officials does suggest that the US stance has become
+significantly more positive since 2019, in line with global trends, but the United States
+still has not committed to launching a digital currency at any point.
+Researchers at both the Federal Reserve Board of Governors in Washington, DC and
+at the regional reserve banks began paying attention to digital currencies early, publish­
+ing research on bitcoin and related topics when global interest in cryptocurrency surged
+in 2013 (Velde 2013; Badev and Chen 2014). At least by early 2016, the Fed had a working
+group focused on fintech that included a focus on distributed ledger technology and
+digital currencies. At that time, observers outside government proposed the idea for
+a ‘FedCoin’ issued by the Federal Reserve (Koning 2014), but the idea gained no traction
+within the Fed or US Government. While China had already announced its intention to
+launch a CBDC in early 2016, Fed Governor Lael Brainard did not even mention CBDCs
+in an April 2016 speech on DLT, and she signaled a cautious approach towards replace­
+ment of legacy infrastructure in the kind of areas CBDC would operate in, advocating for
+‘incremental change or delayed adoption until the technology has achieved greater
+maturity and standardization may be more likely,’ (Brainard 2016a). Later in 2016,
+a Fed Staff Discussion Note and another speech from Governor Brainard came out on
+DLT without mentioning CBDC (Brainard 2016b; Mills et al. 2016).
+One of, if not the earliest, official Fed mention of CBDCs came in March 2017, when
+Governor and soon to be Chairman Jerome Powell called it a ‘fascinating idea,’ (Powell
+2017). However, his opinion on CBDCs was the opposite of that in the PBOC’s
+announcement the year before. Powell did not mention a single benefit for CBDCs,
+instead focusing on the difficulty of keeping the system secure from cyberattacks and the
+risk of facilitating illegal activity like money laundering, among other risks and draw­
+backs. It is illuminating that Powell mentioned CBDC drawbacks that demonstrate
+differences in Chinese and American government thinking about important trade-offs.
+The first is privacy, where Powell expressed an unease with a government entity like the
+central bank holding the kind of granular transaction data on individuals that centralized
+control over a CBDC ledger would provide, which is less of a concern for Chinese
+policymakers. He also suggested that private sector actors may be better placed to provide
+the service that a CBDC would provide and warned that government competing in the
+payments market with a CBDC ‘may stifle innovation over the long run.’
+Then-outgoing Fed Chair Janet Yellen expressed a similar view in December 2017,
+saying that although other central banks may be exploring CBDCs, ‘this is not something
+the Federal Reserve is seriously considering at this stage while we’re looking at research
+on this topic. There are . . . limited benefits from introducing it, a limited need for it, and
+some substantial concerns. And so I would really doubt that the Federal Reserve would
+soon go in that direction,’ (Yellen 2017).
+The skepticism continued into the following year, when Governor Lael Brainard said
+that the ‘appeal [of CBDCs] may not withstand closer scrutiny.’ She also underscored the
+risk of disintermediation and exacerbating runs on the banking system, while reiterating
+
+CHINA ECONOMIC JOURNAL
+
+107
+
+some of the concerns Powell had mentioned (Brainard 2018). However, her speech also
+marked the first positive assessment of CBDCs, at least on the wholesale side. She said, ‘a
+limited central bank digital instrument that serves as a settlement asset for wholesale
+payment and settlement activity may hold some promise . . . We are also interested in
+work that decouples the underlying distributed ledger technology from cryptocurrencies
+and attempts to build on the benefits of the technology.’ The generally negative tone
+towards CBDCs had thus shifted to openness to explore use of the technology, at least for
+the back end of payments infrastructure.
+After Libra’s announcement, however, the view at the Federal Reserve slowly changed.
+Initially, when asked about the threat Libra could pose to central banks, Chair Powell
+said, “we’re a long way from that and asserted that ‘digital currencies are in their infancy,’
+(Powell 2019a). However, as global discussions about Libra among central banks and
+other regulators intensified, Governor Brainard said in a speech in October 2019,
+‘Facebook’s Libra imparts urgency to the debate over what form money can take, who
+or what can issue it, and how payments can be recorded and settled,’ and that the
+‘potential for global stablecoin systems has intensified the interest in central bank digital
+currencies,’ (Brainard 2019).
+She acknowledged the new momentum towards CBDCs, saying ‘some jurisdictions
+may move in this [CBDC development] direction faster than others, based on the
+particular attributes of their payments and currency systems,’ and noted that the Fed
+would not be one of the early movers. She defended the current US financial system’s
+‘compelling advantages’ that vitiated the need for a CBDC compared to other countries,
+like continued strong demand for physical cash, the dominant position of the dollar that
+would make it less vulnerable to disruptions from stablecoins, and the advanced nature of
+the US banking and payment systems. Though framed as a discussion of the status quo’s
+advantages, reading between the lines suggests the first hint of a more defensive tone in
+which the decision not to issue a CBDC had to be justified, instead of the converse.
+At this point, pressure built up from outside the Federal Reserve to explore a CBDC
+more seriously. In September 2019, two congressmen wrote to Chair Powell that ‘. . . it
+may become increasingly imperative that the Federal Reserve take up the project of
+developing a U.S. dollar digital currency,’ and said the ‘Federal Reserve . . . has the ability
+and the natural role to develop a national digital currency,’ (Hill and Foster 2019). Powell
+responded that ‘we are not currently developing [a CBDC],’ but revealed that the Fed was
+‘conducting small-scale, research-oriented technology experiments’ that would position
+the Fed to react quickly to ‘rapid developments in this area.’ He also for the first time
+acknowledged potential benefits of CBDCs for “safer, less expensive, faster, or otherwise
+more efficient payments (Powell 2019b). Still, there was no urgency, as Treasury
+Secretary Steven Mnuchin said he and Chair Powell ‘both agree that in the near future,
+in the next 5 years, we see no need for the Fed to issue a digital currency,’ (Mnuchin
+2019).
+In January 2020, Former Commodity Futures Trading Commission Chairman
+Christopher Giancarlo launched the Digital Dollar Foundation to advance research on
+a blockchain-based CBDC for the Dollar. He raised the alarm about new digital curren­
+cies, including the digital RMB, that could ‘erode the dollar’s status’ as the dominant
+currency if the Fed does not embrace blockchain (Christopher and Gorfine 2019). The
+Digital Dollar Project, however, has no official relationship with the Fed or US
+
+108
+
+M. CHORZEMPA
+
+government more generally, so its views should not be viewed as indicative of any
+intention of the Federal Reserve to issue a CBDC.
+The slightly more positive view on CBDCs from official Fed sources, however,
+continued to build and add a hint of geopolitical consideration into what had looked
+publicly to be strictly technical and financial deliberations. In February, Governor
+Brainard for the first time mentioned China’s CBDC plans, which were ‘moving ahead
+rapidly’ followed by a statement that ‘Given the dollar’s important role, it is essential that
+we remain on the frontier of research and policy development regarding CBDC,’
+(Brainard 2020a). While it is not explicitly stated, the juxtaposition of these two ideas
+suggests that the Fed had begun to seriously consider the potential impact of China’s
+leading CBDC position on the role of the dollar.
+The tone had also shifted considerably from past speeches. Rather than focusing on
+the risks and drawbacks, Brainard’s list of considerations focused on evaluating CBDC
+benefits and ‘what would be required in terms of cross-border cooperation for CBDCs to
+address current frictions and reduce costs.’ Worries about privacy transformed into
+a discussion of how to regulate intermediaries in a CBDC system, and worries about
+accelerating bank runs transformed into suggesting that solutions have been developed to
+solve the problem. The Fed had become much more open to the prospect of a CBDC,
+even if its leadership was not yet convinced that the US should issue one.
+In another speech in August 2020, while still not committing to launching a CBDC,
+Governor Brainard revealed one of the most important concrete steps towards a CBDC,
+a collaboration between the Regional Fed in Boston and the Digital Currency Institute
+(DCI) at the Massachusetts Institute of Technology (MIT) to ‘build and test
+a hypothetical digital currency oriented to central bank uses,’ (Brainard 2020b).
+Importantly, that CBDC being explored would be a general purpose retail CBDC, not
+the wholesale CBDC mentioned years earlier as having potential. She also once again
+mentioned China’s CBDC plans, signaling that the Fed was aware of the DC/EP initiative
+and following it closely. The speech, coming 2 months before the proposed revisions to
+China’s Central Bank Law, noted that the Federal Reserve was not yet ready ‘to undertake
+such a significant policy process.’
+According to the most recent statements, the Fed still has yet to decide whether to
+issue a CBDC. Chair Powell at the IMF/World Bank Fall Meetings in October did,
+however, continue the positive shift as he broadened the discussion of potential benefits
+beyond payments efficiency to financial inclusion. While continuing to underscore the
+importance of the Fed being at the frontier of CBDC research, he said it is ‘more
+important for the United States to get it right than it is to be first.’ On the one hand,
+that statement is consistent with the approach the Fed followed for years, recognizing
+that other countries will move first due to their different domestic considerations and
+that the Fed does not necessarily consider that to be a problem.
+
+Comparison
+The above analysis demonstrates that China committed much earlier to launching
+a CBDC, and it has moved much further towards launching one for widespread retail
+use. Even if China’s early commitment to CBDC does not make it the first major
+economy to launch one, it will do so long before the United States. China has begun
+
+CHINA ECONOMIC JOURNAL
+
+109
+
+retail-facing pilots that have handled millions of transactions, while the US Federal
+Reserve has only recently announced that it is seriously exploring design choices for
+a hypothetical CBDC.
+Nevertheless, caution is warranted in any comparative analysis about a subject in
+which the public-facing statements and trials are only the tip of the iceberg in comparison
+to the research, knowledge, and trials that are internal to each central bank and govern­
+ment. The Federal Reserve’s caution in public statements and its skepticism about
+launching its own CBDC should not necessarily be read as it being ‘behind,’ especially
+because remaining at the frontier of developments in digital currencies has appeared as
+a priority for years in Fed speeches. It and the US Treasury may not be behind the PBOC
+at all when it comes to understanding the implications and other issues around CBDCs,
+though its thinking about trade-offs is clearly different.
+Observers should not conflate internal knowledge of technology with commitment to
+a certain course of action with regards to its utilization, and it is also important to
+reiterate that DC/EP remains theoretical until it is finalized. Nevertheless, the PBOC’s
+retail trials will certainly generate useful learning that can only be gained by advancing to
+public-facing experiments, a step that few countries have been willing to take thus far.
+
+What explains the difference?
+The further lengths to which China has gone towards committing to and developing
+a retail CBDC is consistent with the international landscape with respect to CBDCs.
+China shares characteristics with the broader set of countries that committed early to
+CBDCs, while the US fits more with those that have been more cautious. China’s
+pioneering efforts and the US’ caution is also consistent with their respective approaches
+to financial technology over the years.
+The BIS’ systematic work documenting CBDC research and development efforts
+around the world has found that nearly no advanced economies (AEs) like the US have
+committed to launching retail CBDCs or launched pilots, while emerging market econo­
+mies (EMEs) like China are much more likely to have done so. The motivations are
+broadly similar across AEs and EMEs for pursuing CBDC research, but EMEs tend to
+have a stronger focus on financial inclusion and improvement in payment efficiency
+domestically, where there is generally a significant gap with levels seen in advanced
+economies (Auer, Cornelli, and Frost 2020).
+China’s early commitment to CBDC makes even more sense when considering how
+Chinese policymakers have approached other fintech innovations. Starting in the mid2000s, the PBOC purposely left the then-nascent online payments market unregulated
+for half a decade, helping it grow without the constraints that pre-determined rules and
+entry requirements would have imposed. In 2013, when calls to restrain fintech upstarts
+that had just begun to compete with banks for funds intensified, then-PBOC Governor
+Zhou Xiaochuan outlined the regulatory approach, ‘We should start by welcoming
+technological development. When they first come out, we can’t always make these things
+clear, nor do we know the next step in its dynamic development, so we first want as much
+as possible to take a positive attitude and give them some space,’ (Xiaochuan 2013).
+China pioneered a strategy of giving large technology companies licenses in areas like
+banking, insurance, securities, credit scoring, lending, and more, even though the
+
+110
+
+M. CHORZEMPA
+
+consequence and risks were largely unknown. Since then, China has come to the
+forefront of financial technology development and experimentation, with by far the
+largest fintech market in the world. This is in large part thanks to the willingness of
+regulators like Governor Zhou to take risks on new technology and business models that
+held promise to quickly develop a lagging financial system. Some of those models, like
+peer-to-peer lending, have failed at a great social cost, but other more important
+innovations, like online QR code-based payments with Alipay and WeChat Pay, have
+become global leaders inspiring other countries to follow their example.
+The United States, on the other hand, has done little to adapt its regulatory system,
+largely deeming the potential benefit of any major changes not worth the risk. Its
+approach has been the opposite of that extolled by Governor Zhou. Initiatives like
+a proposed Fintech Charter from the Office of the Comptroller of the Currency (OCC)
+that would create a special regulatory regime for fintech companies have been tied up in
+debates and court challenges for years, and for better or for worse, regulators have also
+made few adjustments to prevailing regulations to fit new business models like market­
+place lending. Digital payments in the US have grown, but most Americans pay with the
+same plastic cards they used decades earlier, unable even to upgrade many transactions to
+more secure chip cards. Meanwhile, China leapfrogged directly to mobile payments from
+cash in a few short years.
+This difference in fintech approach is similar to the considerations driving CBDC
+adoption. When the incumbent financial system is more developed with respect to
+inclusion, efficiency, robustness, and cost, there is less incentive to take unknown risks
+with new technology in the hopes of solving problems in the financial system. The
+risk, however, of excessive risk aversion, is that it can breed complacency and
+stagnation.
+
+There is no CBDC ‘Race’
+Observers are strongly tempted to frame most US–China issues around a ‘race,’ but this is
+not necessarily appropriate in the CBDC context. A race analogy is only relevant if there
+is some consensus around the location of the finish line, which in this case would mean
+consensus among observers and central banks that it is desirable to launch a retail CBDC.
+Yet only 30% of central banks the BIS surveyed indicated that they plan to issue a CBDC
+in the next 6 years (Boar, Holden, and Wadsworth 2020), which suggests that no such
+consensus exists.
+Central banks considering CBDCs are generally approaching the subject by starting
+with a set of objectives, and then considering a wide variety of solutions not limited to
+but including CBDC (Kiff et al. 2020). For example, the Federal Reserve is not simply
+leaving the financial system to its own devices. It is actively working on a faster
+payment system called FedNow, which may obviate the need for a CBDC to achieve
+faster and cheaper retail payments. As voiced by Chairman Powell, the US may also
+choose to leave certain functions to the private sector that China aims to have the
+public sector provide. For these and other reasons, Federal Reserve officials explicitly
+rejected the framing of CBDC development as a race. Their assessment remains that
+CBDC is not the best way to achieve their goals for the US financial system, even if it is
+the best way forward for China.
+
+CHINA ECONOMIC JOURNAL
+
+111
+
+Potential impact on the RMB’s international role and the US Dollar
+In evaluating the importance of China’s advanced position in CBDCs, it is useful to
+consider whether there is a first mover advantage in CBDC development, or whether the
+dynamics favor a second mover that can learn from and improve on the first mover. In
+a wide-ranging review of cases and literature, Suarez and Lanzolla (2005) found that the
+possibility of building a durable first mover advantage depends on the speed with which
+the technology and the market are evolving. Their analysis suggests it is more difficult to
+develop a sustainable advantage when both are developing quickly, as they are in the
+digital currency space.
+In the payments case, looking at the United States and China provides an important
+example of a second mover advantage. For example, the United States was a first mover
+in digital wallets, as both Google Wallet and Apple Pay came out years before Alipay’s
+digital wallet app launched. Yet, Alipay gained a second mover advantage by learning
+from its predecessors’ difficulties coordinating parties involved in NFC payments, focus­
+ing on QR codes instead that did not require to buy in from telecom companies that
+control sim cards, nor phone manufacturers that control NFC capabilities in handsets
+(Chorzempa 2018).
+The most important way in which a first mover advantage in CBDCs may manifest
+itself is through currency competition, in which the digital RMB could facilitates inter­
+nationalization of the Yuan at the Dollar’s expense. PBOC officials have suggested that
+the digital RMB will help improve internationalization (Fan 2018), but few details have
+been released to date about how the digital RMB as currently designed would remove the
+barriers that have kept the RMB to a limited international role. Currently, it is only the
+sixth most used currency, totaling 1.66% of global payments value (Society for
+Worldwide Interbank Financial Telecommunication (SWIFT) 2020).
+Huang, Wang, and Fan (2014) found three critical factors needed for an international
+currency: economic weight, openness and depth of financial markets, and the credibility
+of economic and legal systems. While China certainly has sufficient economic weight to
+have a global reserve currency, it is not clear to what extent the DC/EP project can affect
+the other two. They are in fact not as much technological than related both to the strong
+existing network effects around the US Dollar as well as China’s institutions and policy
+choices.
+When it comes to the openness and depth of financial markets, despite significant
+moves to open up its financial markets to foreign investors, China has prioritized
+domestic financial stability and capital controls over capital account liberalization since
+2015. In doing so, policymakers have chosen not to make the RMB more freely usable
+abroad, even though this policy choice meant a slowdown and even temporarily
+a reversal in RMB internationalization. So far, there is no sign that the PBOC will
+relax these capital controls for the digital RMB, though that could change. It seems
+likely that it will allow foreign visitors, including those to the Winter Olympics in
+Beijing in 2022, to use the digital RMB, but allowing them (and Chinese tourists) to
+continue to use their digital wallets outside China and transact peer-to-peer among
+foreigners would be a much greater step to liberalization, requiring much more careful
+consideration of the implications for money laundering and other risks of allowing
+overseas use of currency.
+
+112
+
+M. CHORZEMPA
+
+Another reason to be skeptical that the DC/EP project will drive RMB internationa­
+lization in the near term, even if it predates a Fed CBDC by years, is that it is a retailfacing CBDC, whereas the projects other central banks have used to explore cross-border
+use of CBDCs have involved wholesale CBDCs that function more as back end infra­
+structure for the large-scale money flows between institutions that dominate global
+payments. While some have argued that China could encourage countries that receive
+investment as part of the Belt and Road Initiative (BRI) to use the digital RMB, it is not
+clear whether such countries will prefer digital RMB to either regular RMB or US Dollars
+that can be more widely and easily used. If the PBOC’s design for DC/EP involves the
+PBOC having the capability to see every transaction that occurs with the currency, then
+other countries are even less likely to be willing to have their citizens or companies use
+the digital RMB out of concerns about surveillance.
+A related reason for skepticism involves network effects. China may gain significant
+‘soft power’ by being the first major economy to launch a CBDC, which may manifest
+itself in design choices by other central banks to make their CBDCs interoperable with
+the digital RMB. Nevertheless, in the short term, it may be in fact more difficult to
+internationalize a digital RMB than a regular RMB because there is no existing CBDC
+payment network to plug into. In comparison with the well-established tools used to
+trade currencies today, the digital currency space lacks the deep liquidity and easily
+available hedging tools critical for broad international adoption.
+Chinese authorities will face an interesting dilemma, because any advantage in knowl­
+edge about CBDCs from its pioneering efforts will depend on how the PBOC commu­
+nicates and disseminates knowledge among the international community about its
+project. Desire to keep a ‘lead’ may result in sharing little about how the system works,
+keeping it a state secret, but the soft power advantages and potential interoperability
+would require them to share their lessons more openly. The Fed has already committed
+that ‘any codebase that is developed through [the experiment with MIT] will be offered as
+open-source software for anyone to use for experimentation’ (Brainard 2020b).
+When it comes to Huang and co-authors’ last factor for global currency status, that of
+the strength and international trust in a country’s economic, political, and legal institu­
+tions, there remains a gap that the digital RMB is not likely to change anytime soon. Fed
+Chair Powell’s recent remarks at the IMF (Powell 2020) clearly had a contrast with China
+in mind when he said that the US dollar’s global leadership role is based on, ‘reliable rule
+of law, strong and transparent institutions, deep financial markets, and an open capital
+account . . . which reach far beyond the merely technological.’
+
+Conclusion
+Until many more pilot programs start and others advance into widespread release, both
+the benefits and risks of retail CBDC will remain unproven. Until then, it is not clear
+whether the current spike in interest in CBDCs around the world will lead most central
+banks to issue them, or whether such efforts will be eventually judged a success.
+China has moved much more aggressively to commit early and develop a CBDC than
+the United States, though this analysis shows that the latter has, like many other
+countries, significantly revised its stance on CBDCs towards a more positive sentiment
+in the past few years. Emerging markets like China are more likely to perceive benefits
+
+CHINA ECONOMIC JOURNAL
+
+113
+
+worth the risk of CBDC issuance, while high-income economies like the US are taking
+a more gradual approach that minimizes potential disruption.
+The US strategy seems to be relying on a course of action that allows the Fed to be at or
+close to the frontier when it comes to new technologies in currency and payments, but
+without committing to issuing a CBDC. One drawback of this strategy, however, is that
+the Fed will not be able to gain some of the practical ‘learning by doing’ knowledge that
+the PBOC is gaining from its retail pilot programs and eventual implementation of DC/
+EP, including regulation of the intermediary layer between the central bank and users.
+The Federal Reserve most likely has concluded that the risk of piloting or issuing
+a CBDC in a few years will be significantly lower due to the ability to learn from
+accumulated experience in other countries. Only then will experts and the general public
+know to what extent CBDCs will advance financial inclusion, how to include security
+features that can handle the risk of cyber threats, whether disintermediation or a flight
+out of banks in financial crises can be prevented, the cost trade-offs, and other
+considerations.
+This course of action does entail the risk that the PBOC will gain a first mover
+advantage, but the analysis here suggests that the pace of technology and market devel­
+opment will make any first mover advantage difficult to sustain in the short term, due to
+the absence of an ecosystem that would facilitate rapid development of network effects.
+
+Disclosure statement
+No potential conflict of interest was reported by the author.
+
+References
+Auer, R., G. Cornelli, and J. Frost. 2020. “Rise of the Central Bank Digital Currencies: Drivers,
+Approaches and Technologies.” BIS Working Papers, No. 880 https://www.bis.org/publ/
+work880.htm
+Badev, and Chen. 2014. https://www.federalreserve.gov/econresdata/feds/2014/files/2014104pap.
+pdf
+Boar, C., H. Holden, and A. Wadsworth, 2020, “Impending Arrival: A Sequel to the Survey on
+Central Banking Digital Currency.” BIS working paper No. 107 https://www.bis.org/publ/bppdf/
+bispap107.pdf
+Brainard, L. 2016a. “The Use of Distributed Ledger Technologies in Payment, Clearing, and
+Settlement.” Speech at the Institute of International Finance Blockchain Roundtable, April 14
+https://www.federalreserve.gov/newsevents/speech/brainard20160414a.htm
+Brainard, L. 2016b. “Distributed Ledger Technology: Implications for Payments, Clearing, and
+Settlement.” Speech at the Institute of International Finance Annual Meeting Panel on
+Blockchain. Accessed 7 October 2016 https://www.federalreserve.gov/newsevents/speech/brai
+nard20161007a.htm
+Brainard, L. 2018. “Cryptocurrencies, Digital Currencies, and Distributed Ledger Technologies:
+What are We Learning?” Speech at Decoding Digital Currency Conference, May 15 https://www.
+federalreserve.gov/newsevents/speech/files/brainard20180515a.pdf
+Brainard, L. 2019. “Digital Currencies, Stablecoins, and the Evolving Payments Landscape.” Speech
+at The Future of Money in the Digital Age Conference, October 16 https://www.federalreserve.
+gov/newsevents/speech/brainard20191016a.htm
+
+114
+
+M. CHORZEMPA
+
+Brainard, L. 2020a. “The Digitalization of Payments and Currency: Some Issues for
+Consideration.” Speech at the Symposium on the Future of Payments. Accessed 5 February
+2020 https://www.federalreserve.gov/newsevents/speech/brainard20200205a.htm
+Brainard, L. 2020b. “An Update on Digital Currencies”, Speech at the Federal Reserve Board and
+Federal Reserve Bank of San Francisco’s Innovation Office Hours, San Francisco, CA. Accessed 13
+August 2020 https://www.federalreserve.gov/newsevents/speech/brainard20200813a.htm
+Chorzempa, M. 2018. “How China Leaped Ahead in the Fintech Race.” https://www.piie.com/
+blogs/china-economic-watch/how-china-leapfrogged-ahead-united-states-fintech-race
+Christopher, G. J., and D. Gorfine. 2019. “We Sent a Man to the Moon. We Can Send the Dollar to
+Cyberspace.” https://www.wsj.com/articles/we-sent-a-man-to-the-moon-we-can-send-thedollar-to-cyberspace-11571179923?mod=article_inline
+Fan, Y. 2018. “Yicai Interview: Some Thoughts on Central Bank Digital Currencies.”https://www.
+yicai.com/news/5395409.html
+Hill, F., and B. Foster. 2019. “Letter to Chairman Jerome Powell.” September 30. https://www.
+coindesk.com/wp-content/uploads/2019/10/Foster-Hill-US-Crypto.pdf
+Huang, Y., D. Wang, and G. Fan. 2014. “Paths to a Reserve Currency: Internationalization of the
+Renminbi and Its Implications.” ADBI Working Paper 482 https://papers.ssrn.com/sol3/papers.
+cfm?abstract_id=2441821
+Kiff, J., J. Alwzair, S. Davidovic, A. Farias, A. Khan, T. Khiaonarong, M. Malaika, H. Monroe, N.
+Sugimoto, H. Tourpe, and P. Zhou. 2020. “A Survey of Research on Retail Central Bank Digital
+Currency”, IMF Working Paper 20/104 https://www.imf.org/en/Publications/WP/Issues/2020/
+06/26/A-Survey-of-Research-on-Retail-Central-Bank-Digital-Currency-49517
+Koning, J. P. 2014. “Fedcoin.” Moneyness Blog http://jpkoning.blogspot.com/2014/10/fedcoin.html
+Mills, D., K. Wang, B. Malone, A. Ravi, J. Marquardt, C. Chen, A. Badev, et al. 2016. “Distributed
+Ledger Technology in Payments, Clearing, and Settlement.” In Finance and Economics
+Discussion Series 2016-095, Washington: Board of Governors of the Federal Reserve System.
+doi:10.17016/FEDS.2016.095.
+Mnuchin, S. 2019. “Remarks at House Financial Services Committee Hearing on Promoting
+Financial Stability? Reviewing the Administration’s Deregulatory Approach to Financial
+Stability.” December 5 https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=
+404856
+Mu, C. 2019. “Speech at the Third Annual China Finance 40 Forum’s Yichun Forum.” Accessed
+10August 2019.
+People’s Bank of China. 2016. “中国人民银行数字货币研讨会在京召开.” http://www.pbc.gov.
+cn/goutongjiaoliu/113456/113469/3008070/index.html
+People’s Bank of China. 2020. “中国人民银行关于《中华人民共和国中国人民银行法 (修订草
+案征求意见稿) 》公开征求意见的通知”, Accessed 23 October 2020 http://www.pbc.gov.cn/
+goutongjiaoliu/113456/113469/4115077/index.html
+Powell, J. 2017. “Innovation, Technology, and the Payments System, Speech at Blockchain: The
+Future of Finance and Capital Markets?” The Yale Law School Center for the Study of Corporate
+Law, March 3 https://www.federalreserve.gov/newsevents/speech/powell20170303a.htm
+Powell, J. 2019a. “Press Conference.” June 19 https://www.federalreserve.gov/mediacenter/files/
+FOMCpresconf20190619.pdf
+Powell, J. 2019b. “Response to Congressman French Hill.” November 19.
+Powell, J. 2020. “Remarks at the 2020 IMF Fall Meetings.” https://www.cnbc.com/2020/10/19/
+watch-fed-chair-jerome-powell-speak-live-to-the-international-monetary-fund.html
+Society for Worldwide Interbank Financial Telecommunication (SWIFT). November 2020. “RMB
+Tracker.” https://www.swift.com/our-solutions/compliance-and-shared-services/businessintelligence/renminbi/rmb-tracker/rmb-tracker-document-centre
+Suarez, F. F., and G. Lanzolla. 2005. “The Half-Truth of First Mover Advantage.” https://hbr.org/
+2005/04/the-half-truth-of-first-mover-advantage
+Velde. 2013. https://www.chicagofed.org/publications/chicago-fed-letter/2013/december-317
+Wang, X. 2019. “Speech at Peking University’s Institute of Digital Finance.” July 8.
+
+CHINA ECONOMIC JOURNAL
+
+115
+
+Xiaochuan, Z. 2013. “Interview with Caijing Media.” http://misc.caijing.com.cn/chargeFullNews.
+jsp?id=113695309&time=2013-12-16=106
+Yellen, J. 2017. “Press Conference.” December 13 https://www.federalreserve.gov/mediacenter/
+files/fomcpresconf20171213.pdf
+Yi, G. 2020a. “Interview with Caixin Media.” Accessed 26 May 2020 http://finance.caixin.com/
+2020-05-26/101558921.html
+Yi, G. 2020b. “Speech at Hong Kong Fintech Week.” November 2
+
+

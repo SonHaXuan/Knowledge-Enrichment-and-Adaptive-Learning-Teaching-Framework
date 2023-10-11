@@ -1,0 +1,963 @@
+Authors:
+Saidyakhyo Usmankhodjaev
+Jasur Zakirov
+Aziz Tashev
+Komronbek Islamov
+
+The regulation and differences between cryptocurrency,
+stablecoin, central bank digital currency, e-money,
+virtual currency, and in-game currency.
+
+1
+Electronic copy available at: https://ssrn.com/abstract=4384018
+
+Table of Contents
+Introduction ............................................................................................................... 3
+Cryptocurrency ......................................................................................................... 3
+Stablecoin .................................................................................................................. 4
+Central bank digital currency (CBDC) ..................................................................... 6
+E-Money ..................................................................................................................... 8
+Virtual currency ......................................................................................................... 9
+In-game currency .................................................................................................... 11
+Contrast and Comparison of the Various Digital Currencies ............................. 13
+Future Outlook ........................................................................................................ 16
+Conclusion .............................................................................................................. 17
+Bibliography ............................................................................................................ 18
+
+2
+Electronic copy available at: https://ssrn.com/abstract=4384018
+
+Introduction
+Digital currencies have gained popularity in recent years due to their convenience,
+security, and investment possibilities. Nevertheless, there are several types of digital
+currencies, each with its own attributes and legal framework. This essay compares the
+pros and cons of cryptocurrencies, stablecoins, central bank digital currencies
+(CBDC), e-money, virtual currencies, and in-game currencies. This article will also
+analyze the potential for legislative and technological advancements, as well as the
+future implications of digital currencies.
+Cryptocurrency
+To begin with, cryptocurrencies are a form of digital currency that is decentralized and
+not governed by any authority. Cryptocurrencies have been around since the 1980s,
+when they were known as cyber currencies.
+Furthermore, with the advent of Bitcoin in 2008, these currencies gained popularity
+more than a decade ago. The previously stated cryptocurrency was invented by an
+unnamed programmer or group of programmers known as Satoshi Nakamoto.1
+With the creation of the Bitcoin in 2009, cryptocurrencies have been all the rage. Their
+prominence has surged in recent years, resulting in increasingly more individuals
+investing in them.2
+
+1
+
+‘History of Cryptocurrencies (How everything started)’ (Analytics Sight, 29 July 2022)
+https://www.analyticsinsight.net/history-of-cryptocurrencies-how-everythingstarted/#:~:text=The%20cryptocurrency%20was%20first%20mentioned,a%20truly%20decentralized
+%20digital%20currency.
+2
+ibid
+
+3
+Electronic copy available at: https://ssrn.com/abstract=4384018
+
+The term cryptocurrency initially appeared in the 1980s, more specifically in 1989.
+Nevertheless, it wasn't until the early 1990s that cryptographic methods and software
+for creating a completely decentralized digital money were devised.
+Satoshi Nakamoto (a pseudonym) published an article in 2008. It described a method
+for establishing digital currency that did not rely on third-party trust. Satoshi
+Nakamoto's
+
+article
+
+effectively
+
+kicked
+
+off
+
+the
+
+Bitcoin
+
+revolution.
+
+3
+
+Cryptocurrency trades are lawful in the United States and are governed by the Bank
+Secrecy Act (BSA). In effect, this implies that bitcoin exchange service providers must
+register with FinCEN, create an AML/CFT (Anti-money laundering/Combating the
+financing of terrorism) program, keep proper records, and disclose to the authorities.4
+Several government agencies oversee cryptocurrency, but there is no unified
+structure.
+The most significant distinction between digital money and cryptocurrency is that the
+latter is always present on a blockchain, whilst the former is not. A blockchain is not
+required for a digital cryptocurrency to operate, while the technology is well-suited to
+virtual assets and their transaction.5
+Stablecoin
+Stablecoins are cryptocurrencies where market price is tied to an external variable. As
+a means of exchange, stablecoins outperform more unstable cryptocurrencies.
+
+3
+
+ibid
+‘Cryptocurrency Regulations Around The World’ (Compaly Advantage, 27 February 2023)
+https://complyadvantage.com/insights/cryptocurrency-regulations-aroundworld/#:~:text=Cryptocurrency%20exchanges%20are%20legal%20in,submit%20reports%20to%20the
+%20authorities.
+5
+ibid
+4
+
+4
+Electronic copy available at: https://ssrn.com/abstract=4384018
+
+Stablecoins can be linked to a currency, including the US dollar, or to the value of an
+asset such as gold.6
+A stablecoin is a crypto whose value is expected to be tied to a benchmark asset,
+which might be fiat money, exchange-traded commodities (such as precious metals or
+industrial
+
+metals),
+
+or
+
+another
+
+7
+
+cryptocurrency.
+
+There are 4 types of stablecoins8:
+1) Fiat-Backed Stablecoins: Stablecoins which are entirely supported by existing
+currencies.9
+2) Commodity-Backed
+
+Stablecoins:
+
+Stablecoins
+
+that
+
+are
+
+supported
+
+by
+
+commodities like as gold, real estate, or metals.10
+3) Crypto-Backed Stablecoins: Stablecoins that are supported by one or more
+cryptocurrencies.11
+4) Algorithmic Stablecoins: Stablecoins that utilize algorithms to limit supply and
+maintain
+
+market
+
+stability.
+
+12
+
+Most stablecoin issuers, unlike banks and MMFs, are not bound by federal laws
+controlling the breakdown of such reserve assets. Likewise, federal law does
+not compel stablecoin suppliers to provide information about their holdings.13
+
+6
+
+A Hayes ‘Stablecoins: Definition, How They Work, and Types’ (Investopedia, 4 October 2022)
+https://www.investopedia.com/terms/s/stablecoin.asp#:~:text=Stablecoins%20are%20cryptocurrencie
+s%20that%20attempt,a%20commodity%20such%20as%20gold.
+7
+ibid
+8
+Ch
+Dowsett
+‘What
+are
+the
+stable
+coins?’
+(BulitIn,
+3
+February
+2023)
+https://builtin.com/cryptocurrency/stablecoins
+9
+ibid
+10
+ibid
+11
+ibid
+12
+ibid
+13
+P Bains, A Ismail ‘Regulating the Crypto Ecosystem: The Case of Stablecoins and Arrangements’
+(Fintech
+Notes,
+26
+September
+2022)
+https://www.imf.org/en/Publications/fintechnotes/Issues/2022/09/26/Regulating-the-Crypto-Ecosystem-The-Case-of-Stablecoins-andArrangements-
+
+5
+Electronic copy available at: https://ssrn.com/abstract=4384018
+
+Due to unregulated issuers and service providers, the secrecy and complexity of the
+crypto ecosystem, and a lack of remedies for lost or stolen crypto-assets, there are
+increased vulnerabilities.14
+Stablecoin regulation should be thorough, systematic, risk-based, and adaptable, with
+an emphasis on their structural properties and application. Stablecoin regulations
+should encompass the whole ecosystem and all of its major operations, with extra
+control for systematic stablecoin solutions.15
+
+Central bank digital currency (CBDC)
+Central bank digital currency is money that a central bank, such as the Bank of
+England, can produce. It is completely digital, so no coins or notes are involved and is
+managed on a computer or another electronic device.16
+
+Having a CBDC could expand the accessibility to digital cash accounts and develop
+payment services. For individuals who live in remote areas or developing countries,
+have low incomes or whose needs are not met via the traditional banking system could
+have easy access to a banking account and have the barriers of entry into the financial
+system reduced.
+There has been an influx of large corporations and tech firms introducing their own
+currencies, for example, the Diem currency, which is partly owned by Facebook and
+
+523724#:~:text=Global%20regulation%20for%20stablecoins%20should,oversight%20for%20systemic
+%20stablecoin%20arrangements.
+14
+ibid
+15
+ibid
+16
+Bank, P. (2022) Blog, Central Bank Digital Currency Pros and Cons | Paragon Bank. Available at:
+https://www.paragonbank.co.uk/blog/central-bank-digital-currency-pros-and-cons (Accessed: March 7,
+2023).
+
+6
+Electronic copy available at: https://ssrn.com/abstract=4384018
+
+is redeemable on shopping sites such as Amazon. Central banks have become
+increasingly worried that individuals will become dependant on these ‘systematic
+stable coins ’as the Bank of England describes them. Having a safer tool for the public
+to store their money and rely on the central bank via a CBDC would reduce these
+worries.
+On the other hand, if the popularity for individuals to move their deposits from
+commercial banks to the CBDC holdings increases over time, this will put pressure on
+banks and lead to loss of funding for the institutions. This could lead to a knock-on
+effect for businesses and households as the banks may not be able to make loans.
+Privacy
+
+As every transaction and deposit has a digital footprint, there is a view that a society
+with CBDC could reduce the privacy of citizens. However, it is important to note the
+Bank of England will be subject to the same rules as any institution regarding privacy
+and rules around GDPR. If CBDC was to be introduced, a country could run the risk
+of increased financial crime, illegal activity and online fraud.17
+
+The digital pound would not be a cryptocurrency or crypto asset. As opposed to
+cryptocurrencies, which are issued privately, the digital pound would be issued by the
+Bank of England and be backed by the Government.
+
+17
+
+Paragon, Central Bank Digital Currency Pros and Cons | Paragon Bank (2022)
+<https://www.paragonbank.co.uk/blog/central-bank-digital-currency-pros-and-cons> accessed March
+7, 2023
+
+7
+Electronic copy available at: https://ssrn.com/abstract=4384018
+
+E-Money
+E-money is broadly defined as an electronic store of monetary value that may be used
+for making payments. Electronic money can be classified into two broad categories:18
+1. Hard
+Hard electronic money is when e-money is used for irreversible transactions, ones that
+are highly securitized, and are more or less procedural in nature. They may include
+transactions that are drawn through a bank.
+2. Soft
+Soft electronic money is when e-money is used for reversible or flexible transactions.
+There is an increased level of flexibility offered, and users are allowed to manage their
+transactions even after payment is processed, like canceling a transaction or
+modifying the payment price, etc.19
+
+The Electronic Money Regulations 2011: describes what e-money is. If a token
+constitutes e-money, then it will be subject to the Payment Services Regulations 2017.
+
+EMIs (Electronic Money Institutions) are authorised and regulated by the Financial
+Conduct Authority (FCA) and can issue e-money and provide associated payment
+services, including transfers and foreign currency payments
+
+18
+
+Team,
+C.F.I.
+Electronic
+money,
+Corporate
+Finance
+Institute
+(2022)
+<https://corporatefinanceinstitute.com/resources/economics/electronic-money/> accessed March 8,
+2023
+19
+Paragon, Central Bank Digital Currency Pros and Cons | Paragon Bank (2022)
+<https://www.paragonbank.co.uk/blog/central-bank-digital-currency-pros-and-cons> accessed March
+7, 2023
+
+8
+Electronic copy available at: https://ssrn.com/abstract=4384018
+
+The second Electronic Money Directive (2EMD) was implemented in the UK on 30
+April 2011 through the Electronic Money Regulations 2011 (the EMRs). The Financial
+Conduct Authority (FCA) is the regulator for the regime, having taken over from the
+Financial Services Authority on 1 April 2013.
+
+2EMD requires authorized EMIs to safeguard funds received from customers for
+e-money so that, if there is an insolvency event, the e-money issued is protected from
+other creditors' claims and can be repaid to customers.20
+
+E-Money and other digital currencies even though systems for making payments that
+are digital in nature, in reality they are totally different. Example is Bitcoin.
+
+E-money is typically regulated and controlled within the framework of a government’s
+central banking system. The customers of such transactions are identified under
+Financial Action Task Force standards and as a result are not anonymous. While
+Cryptocurrency decentralized electronic currency that derives its value from supply
+and demand as well as trust in the system. The network uses complex math to verify
+transactions, and the people that volunteer their computing power to the network.21
+Virtual currency
+Virtual money, sometimes known as cryptocurrency, is a new sort of cash that works
+independently of established financial institutions. It is a digital or virtual representation
+
+20
+
+ICAEW,
+E-money:
+What
+you
+need
+to
+know,
+ICAEW
+(2023)
+<https://www.icaew.com/technical/financial-services/fs-helpsheets/emoney-and-what-you-need-toknow> accessed March 8, 2023
+21
+Desjardins, J. Explained: The differences between electronic money and Bitcoin, Visual Capitalist
+(2015)
+<https://www.visualcapitalist.com/explained-the-differences-between-electronic-money-andbitcoin/> accessed March 10, 2023
+
+9
+Electronic copy available at: https://ssrn.com/abstract=4384018
+
+of value that employs cryptography to safeguard transactions and regulate the
+generation of new units. Cryptocurrencies are decentralized, with no single authority
+controlling their production and distribution.22
+
+Bitcoin, the most well-known sort of virtual currency, was founded in 2009. Bitcoin is
+built on a blockchain, which is a decentralized ledger that records all transactions
+involving the currency. Ethereum, Litecoin, and Ripple are examples of virtual
+currencies.23
+
+One of the benefits of virtual money is its high degree of confidentiality and anonymity.
+Cryptocurrency transactions are encrypted and do not expose personal information
+about the persons involved. Virtual money also allows for quick and low-cost
+transactions since it eliminates the need for intermediaries such as banks to conduct
+transactions.24
+
+Yet, there are several disadvantages to using virtual currency. One of the key issues
+is that it is very volatile, with quick fluctuations in value. This can make it difficult for
+organizations and people to successfully plan and budget. Moreover, virtual currency
+has been linked to criminal activities like as money laundering and the acquisition of
+unlawful products and services.25
+
+22
+
+N. Atzori, "Blockchain technology and decentralized governance: Is the state still necessary?" in
+Government Information Quarterly, vol. 33, no. 3, pp. 417-426, 2016.
+23
+J. M. de la Rosa, "Virtual Currencies and the Money Laundering Problem," in Crime, Law and Social
+Change, vol. 69, no. 3, pp. 347-361, 2018.
+24
+Financial Crimes Enforcement Network, "Application of FinCEN's Regulations to Persons
+Administering,
+Exchanging,
+or
+Using
+Virtual
+Currencies,"
+2013,
+https://www.fincen.gov/sites/default/files/shared/FIN-2013-G001.pdf.
+25
+European
+Banking
+Authority,
+"EBA
+Opinion
+on
+'virtual
+currencies',"
+2014,
+https://eba.europa.eu/documents/10180/657547/EBA-Op-201408+Opinion+on+Virtual+Currencies.pdf.
+
+10
+Electronic copy available at: https://ssrn.com/abstract=4384018
+
+Virtual currency regulation is a difficult problem that has been contested by
+governments and financial authorities all over the world. Several governments have
+explicitly prohibited the use of virtual money, while others have enacted restrictions to
+guarantee that it is utilised lawfully and openly. Virtual money is regulated in the United
+States by the Financial Crimes Enforcement Network (FinCEN) and the Securities and
+Exchange Commission (SEC), among other organizations.26
+
+Furthermore, virtual money has several benefits in terms of security, anonymity, and
+transaction speed. It does, however, have inherent dangers and downsides, and it
+requires strict regulation to guarantee that it is utilized legally and transparently. As
+virtual money evolves and gains popularity, authorities must find a balance between
+encouraging innovation and safeguarding consumers and the financial system.27
+In-game currency
+In-game currency is a sort of virtual currency that can only be utilized in video games
+or virtual worlds. It is a virtual currency that may be earned or acquired in-game and
+used to purchase virtual products, improvements, or other features. In-game cash is
+intended to improve the gaming experience by giving gamers more options for
+customizing their gaming experience or progressing through the game.28
+
+In-game cash comes in numerous forms, including virtual coins, points, and jewels.
+These currencies can be obtained through playing the game, completing missions, or
+
+26
+
+European Securities and Markets Authority, "ESMA warns consumers on virtual currencies," 2013,
+https://www.esma.europa.eu/press-news/esma-news/esma-warns-consumers-virtual-currencies.
+27
+ibid
+28
+D. Bambauer, 'Gambling on Gaming: When is it Social Gaming and When is it Gambling?' (2014)
+Berkeley Technology Law Journal, 29(4), pp. 1119-1148.
+
+11
+Electronic copy available at: https://ssrn.com/abstract=4384018
+
+purchasing them with real money. Some games may also allow players to exchange
+virtual cash for real money and vice versa.29
+
+Loot boxes, which include random virtual things like as weapons, skins, or other ingame stuff, may also be purchased for in-game cash. Loot boxes have sparked debate
+in the gaming industry, with some comparing them to gambling.30
+
+Control of in-game currency is a complicated problem that governments and financial
+authorities have yet to completely handle. While in-game currency may not have the
+same worldwide economic impact as traditional or virtual currencies, it can
+nevertheless have an impact on individual gamers as well as the gaming industry.31
+
+Various nations have enacted laws to protect consumers against fraudulent or
+deceptive in-game currency practices, such as prohibiting the selling of loot boxes to
+minors or forcing game creators to publish the chances of acquiring specific things
+from loot boxes.32
+
+However, in-game money regulation is still in its early phases, and there is significant
+discussion over how it should be controlled. Some think that in-game currency should
+
+29
+
+M. Diamond, 'Virtual Currency, Tangible Return: Deriving Real World Value from Virtual World
+Transactions,' (2014) Berkeley Technology Law Journal, 29(4), pp. 1213-1246.
+30
+European Commission, 'Communication from the Commission to the European Parliament, the
+Council, the European Economic and Social Committee and the Committee of the Regions on Online
+Gambling in the Internal Market' (2014) Brussels: European Commission.
+31
+European Parliament, 'Resolution of 15 November 2013 on online gambling in the internal market,'
+P7_TA(2013)0463, Brussels: European Parliament.
+32
+Ibid
+
+12
+Electronic copy available at: https://ssrn.com/abstract=4384018
+
+be regulated in the same way that real currencies are, while others argue that it is a
+different issue that should be treated on a case-by-case basis.33
+
+Finally, in-game currency is a sort of virtual currency exclusive to the gaming industry.
+While it can improve the gaming experience and give more personalization
+possibilities for players, it also raises issues about consumer protection and the
+potential for gambling-related problems. As the gaming business evolves, authorities
+will need to find a balance between encouraging innovation and safeguarding
+consumers.34
+Contrast and Comparison of the Various Digital Currencies
+Cryptocurrency, stablecoin, CBDC, e-money, virtual currency, and in-game cash are
+all forms of digital currency, although their underlying technologies, purposes, and
+regulatory frameworks vary. The cryptocurrency functions as a decentralized digital
+currency on the blockchain network 35 . It is produced via mining and traded on
+cryptocurrency exchanges. Cryptocurrency is not backed by any government or
+institution and is extremely volatile36.
+
+Stablecoin, on the other hand, is a type of cryptocurrency designed to maintain a stable
+value37. It achieves this by pegging its value to a tangible item, like as gold, fiat cash,
+
+33
+
+N. Kshetri, 'Blockchain's Roles in Meeting Key Supply Chain Management Objectives,' (2018)
+International Journal of Information Management, 39, pp. 80-89.
+34
+Ibid
+35
+Arvind Narayanan and others, Bitcoin and Cryptocurrency Technologies: A Comprehensive
+Introduction (2016)
+36
+ibid
+37
+Gordon M. Liao and John Caramichael, “Stablecoins: Growth Potential and Impact on Banking”
+(Board of Governors of the Federal Reserve System 2022) <https://doi.org/10.17016/IFDP.2022.1334>
+accessed March 9, 2023
+
+13
+Electronic copy available at: https://ssrn.com/abstract=4384018
+
+or another cryptocurrency 38 . Stablecoins offer market stability and are ideal for
+investors seeking to escape the volatility of traditional cryptocurrencies39.
+
+CBDC is the issued and controlled digital version of a nation's fiat currency. CBDC
+seeks to provide a secure and efficient payment system, reduce the expenses
+associated with cash circulation, and advance financial inclusion
+
+40
+
+. Unlike
+
+cryptocurrencies, CBDC is controlled, regulated, and backed by a government or
+central bank41.
+
+E-money is an electronic form of fiat cash that can be used, among other things, for
+online purchases, money transfers, and bill payments42. The issuance of electronic
+currency by financial institutions is subject to regulatory oversight43. E-money is a
+popular choice for online transactions due to its convenience and safety.
+
+Virtual currency is a digital representation of value unsupported by a government or
+central bank44. Virtual cash is typically utilized by online games, social networks, and
+other virtual platforms. Virtual currency may be exchanged for goods and services in
+the real world, and its anonymity and usability have increased its popularity45.
+
+38
+
+ibid
+ibid
+40
+Bank for International Settlements, “Central Bank Digital Currencies” (BIS 2018)
+<https://www.bis.org/cpmi/publ/d174.pdf> accessed March 9, 2023
+41
+ibid
+42
+European Central Bank, “Virtual Currency Schemes - a Further Analysis ” (ECB 2015)
+<https://www.ecb.europa.eu/pub/pdf/other/virtualcurrencyschemesen.pdf> accessed March 9, 2023
+43
+ibid
+44
+Financial Action Task Force, “Updated Guidance for a Risk-Based Approach to Virtual Assets and
+Virtual
+Asset
+Service
+Providers”
+(FATF,
+2021)
+<http://www.fatfgafi.org/publications/fatfrecommendations/documents/Updated-Guidance-RBA-VA-VASP.html>
+accessed March 9, 2023
+45
+ibid
+39
+
+14
+Electronic copy available at: https://ssrn.com/abstract=4384018
+
+In-game currency is a type of virtual currency used in video games to purchase items,
+upgrades, and other game-related features46. In-game currency is typically earned
+through gameplay or purchased with real-world money 47 . For purchasing gamerelated items, in-game currency is a practical alternative to traditional currency.
+
+Despite their differences, there are several commonalities across digital currencies.
+All three-offer transactional ease, security, and efficiency. They are easily transferrable
+across international borders and accessible 24/7. Additionally, digital currencies
+provide traders and investors potential investment options.
+
+However, each type of digital currency has its own advantages and disadvantages.
+Cryptocurrency offers anonymity and decentralization, but it is highly volatile and
+susceptible to governmental unpredictability 48 . The stability of stablecoin is based
+upon the stability of the underlying asset 49 . CBDC offers efficiency and security,
+however privacy and government control issues may arise 50 . E-money offers
+convenience and governmental oversight, but its level of anonymity may not be
+comparable to that of other digital currencies 51 . Virtual currency and in-game
+currencies offer anonymity and usability but are vulnerable to fraud and hacking52.
+
+46
+
+Edward Castronova, Synthetic Worlds: The Business and Culture of Online Games (The University
+of Chicago Press 2005) 16
+47
+Edward Castronova, Synthetic Worlds: The Business and Culture of Online Games (The University
+of Chicago Press 2005) 54
+48
+Arvind Narayanan and others, Bitcoin and Cryptocurrency Technologies: A Comprehensive
+Introduction (2016)
+49
+Gordon M. Liao and John Caramichael, “Stablecoins: Growth Potential and Impact on Banking”
+(Board of Governors of the Federal Reserve System 2022) <https://doi.org/10.17016/IFDP.2022.1334>
+accessed March 9, 2023
+50
+Bank for International Settlements, “Central Bank Digital Currencies” (BIS 2018)
+<https://www.bis.org/cpmi/publ/d174.pdf> accessed March 9, 2023
+51
+European Central Bank, “Virtual Currency Schemes - a Further Analysis ” (ECB 2015)
+<https://www.ecb.europa.eu/pub/pdf/other/virtualcurrencyschemesen.pdf> accessed March 9, 2023
+52
+Edward Castronova, Synthetic Worlds: The Business and Culture of Online Games (The University
+of Chicago Press 2005) 85
+
+15
+Electronic copy available at: https://ssrn.com/abstract=4384018
+
+Future Outlook
+As governments and financial organizations aim to assure stability and prevent money
+laundering and other financial crimes, it is projected that future regulation of digital
+currencies would grow more strict53. In regulatory systems, there must be a balance
+between the need for innovation, monitoring, and consumer protection.
+
+In addition to technological breakthroughs such as blockchain and smart contracts,
+the future of digital currencies may be influenced by them. These technologies
+enhance the safety, openness, and effectiveness of transactions54. Additionally, they
+may provide new opportunities for financial inclusion, including as involvement in the
+digital economy for those without access to conventional banking services55.
+
+The future implications of digital currency are substantial. Digital currencies have the
+potential to disrupt traditional financial systems and create new opportunities for
+financial innovation56. In addition, they could facilitate more secure, transparent, and
+efficient transactions57.
+
+However, digital currencies face significant obstacles, such as financial stability and
+privacy concerns 58 . As digital currencies continue to expand and acquire wider
+
+53
+
+Financial Action Task Force, “Updated Guidance for a Risk-Based Approach to Virtual Assets and
+Virtual
+Asset
+Service
+Providers”
+(FATF,
+2021)
+<http://www.fatfgafi.org/publications/fatfrecommendations/documents/Updated-Guidance-RBA-VA-VASP.html>
+accessed March 9, 2023
+54
+Burcu Sakız, Ayşen Hiç Gencer, “Blockchain Technology and its Impact on the Global Economy”
+(International
+Conference
+on
+Eurasian
+Economies,
+Famagusta,
+2019)
+<https://www.avekon.org/papers/2258.pdf> accessed March 9, 2023
+55
+ibid
+56
+Michael Swan, “Blockchain: Blueprint for a New Economy” (O'Reilly Media, Inc 2015)
+57
+ibid
+58
+David Yermack, 'Is Bitcoin a Real Currency? An Economic Appraisal' (National Bureau of Economic
+Research, 2015) 3
+
+16
+Electronic copy available at: https://ssrn.com/abstract=4384018
+
+adoption, it will be crucial to solve these obstacles to guarantee their secure and
+efficient use59.
+Conclusion
+In conclusion, the world of digital currencies is complex and intricate. Each
+cryptocurrency, stablecoin, CBDC, e-money, virtual currency, and in-game currency
+has distinct characteristics and benefits. Nevertheless, each kind of digital currency
+has its own set of drawbacks and legal structure.
+
+As digital currencies continue to evolve and gain widespread acceptance, it will be
+essential to understand their distinctions and similarities, as well as the legal and
+technical advancements that may affect their future usage. Digital currencies have a
+bright future, but their safe and effective use in the digital economy will need extensive
+study and regulation.
+
+59
+
+ibid
+
+17
+Electronic copy available at: https://ssrn.com/abstract=4384018
+
+Bibliography
+Analytics Sight, ‘History of Cryptocurrencies (How everything started)’ (Analytics
+Sight, 29 July 2022) <https://www.analyticsinsight.net/history-of-cryptocurrencieshow-everythingstarted/#:~:text=The%20cryptocurrency%20was%20first%20mentioned,a%20truly%
+20decentralized%20digital%20currency> accessed March 7, 2023
+
+Atzori, N., “Blockchain technology and decentralized governance: Is the state still
+necessary?” (2016) Government Information Quarterly, 33(3), pp.417-426.
+
+Bains P., Ismail A. ‘Regulating the Crypto Ecosystem: The Case of Stablecoins and
+Arrangements’
+
+(Fintech
+
+Notes,
+
+26
+
+September
+
+2022)
+
+<https://www.imf.org/en/Publications/fintech-notes/Issues/2022/09/26/Regulatingthe-Crypto-Ecosystem-The-Case-of-Stablecoins-and-Arrangements523724#:~:text=Global%20regulation%20for%20stablecoins%20should,oversight%2
+0for%20systemic%20stablecoin%20arrangements> accessed March 7, 2023
+
+Bambauer, D. ‘Gambling on Gaming: When is it Social Gaming and When is it
+Gambling?’ (2014) Berkeley Technology Law Journal, 29(4), pp. 1119-1148.
+<https://scholarship.law.berkeley.edu/btlj/vol29/iss4/2/> accessed March 9, 2023
+
+Bank for International Settlements, “Central Bank Digital Currencies” (BIS 2018)
+<https://www.bis.org/cpmi/publ/d174.pdf> accessed March 9, 2023
+
+18
+Electronic copy available at: https://ssrn.com/abstract=4384018
+
+Castronova E., “Synthetic Worlds: The Business and Culture of Online Games” (The
+University of Chicago Press 2005)
+
+Compaly Advantage, “Cryptocurrency Regulations Around The World” (Compaly
+Advantage, 27 February 2023) https://complyadvantage.com/insights/cryptocurrencyregulations-aroundworld/#:~:text=Cryptocurrency%20exchanges%20are%20legal%20in,submit%20rep
+orts%20to%20the%20authorities accessed March 7, 2023
+
+De la Rosa, J.M., “Virtual currencies and the money laundering problem.” (2018)
+Crime, Law and Social Change, 69(3), pp.347-361.
+
+Desjardins, J. “Explained: The differences between electronic money and Bitcoin,
+Visual Capitalist” (2015) <https://www.visualcapitalist.com/explained-the-differencesbetween-electronic-money-and-bitcoin/> accessed March 10, 2023
+
+Diamond, M. “Virtual Currency, Tangible Return: Deriving Real World Value from
+Virtual World Transactions” (2014) Berkeley Technology Law Journal, 29(4), pp. 12131246. <https://scholarship.law.berkeley.edu/btlj/vol29/iss4/3/> accessed March 9,
+2023
+
+Dowsett
+
+Ch.,
+
+‘What
+
+are
+
+the
+
+stable
+
+coins?’
+
+(BulitIn,
+
+3
+
+February
+
+2023)
+
+<https://builtin.com/cryptocurrency/stablecoins> accessed March 7, 2023
+
+19
+Electronic copy available at: https://ssrn.com/abstract=4384018
+
+European Banking Authority, “EBA Opinion on ‘virtual currencies” (2014)
+<https://eba.europa.eu/documents/10180/657547/EBA-Op-201408+Opinion+on+Virtual+Currencies.pdf> accessed March 9, 2023
+
+European Central Bank, “Virtual Currency Schemes - a Further Analysis ” (ECB 2015)
+<https://www.ecb.europa.eu/pub/pdf/other/virtualcurrencyschemesen.pdf> accessed
+March 9, 2023
+
+European Commission (2014) Communication from the Commission to the European
+Parliament, the Council, the European Economic and Social Committee and the
+Committee of the Regions on Online Gambling in the Internal Market, Brussels:
+
+European
+
+Commission.
+
+<https://eur-lex.europa.eu/legal-
+
+content/EN/TXT/PDF/?uri=CELEX:52014DC0335&from=EN> accessed March 9,
+2023
+
+European Parliament, “Resolution of 15 November 2013 on online gambling in the
+internal
+
+market”,
+
+(2013)
+
+Brussels:
+
+European
+
+Parliament.
+
+<https://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+TA+P7-TA2013-0463+0+DOC+XML+V0//EN> accessed March 9, 2023
+
+European Securities and Markets Authority, “ESMA warns consumers on virtual
+currencies”
+
+(2013)
+
+<https://www.esma.europa.eu/press-news/esma-news/esma-
+
+warns-consumers-virtual-currencies> accessed March 9, 2023
+
+20
+Electronic copy available at: https://ssrn.com/abstract=4384018
+
+FATF, “Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual
+Asset
+
+Service
+
+Providers”
+
+(FATF,
+
+2021)
+
+<http://www.fatf-
+
+gafi.org/publications/fatfrecommendations/documents/Updated-Guidance-RBA-VAVASP.html> accessed March 9, 2023
+
+Financial Crimes Enforcement Network, “Application of FinCEN’s Regulations to
+Persons
+
+Administering,
+
+Exchanging,
+
+or
+
+Using
+
+Virtual
+
+Currencies”
+
+<https://www.fincen.gov/sites/default/files/shared/FIN-2013-G001.pdf>
+
+(2013)
+
+accessed
+
+March 9, 2023
+
+Hayes A., “Stablecoins: Definition, How They Work, and Types” (Investopedia, 4
+October
+
+2022)
+
+<https://www.investopedia.com/terms/s/stablecoin.asp#:~:text=Stablecoins%20are%
+20cryptocurrencies%20that%20attempt,a%20commodity%20such%20as%20gold>
+accessed March 7, 2023
+
+ICAEW,
+
+“E-money:
+
+What
+
+you
+
+need
+
+to
+
+know”
+
+(ICAEW,
+
+2023)
+
+<https://www.icaew.com/technical/financial-services/fs-helpsheets/emoney-andwhat-you-need-to-know> accessed March 8, 2023
+
+Kshetri, N. (2018) ‘Blockchain’s Roles in Meeting Key Supply Chain Management
+Objectives’, International Journal of Information Management, 39, pp. 80-89.
+<https://www.sciencedirect.com/science/article/pii/S0268401217308745>
+
+accessed
+
+March, 2023
+
+21
+Electronic copy available at: https://ssrn.com/abstract=4384018
+
+Liao M.G. and Caramichael J., “Stablecoins: Growth Potential and Impact on Banking”
+(Board
+
+of
+
+Governors
+
+of
+
+the
+
+Federal
+
+Reserve
+
+System
+
+2022)
+
+<https://doi.org/10.17016/IFDP.2022.1334> accessed March 9, 2023
+
+Narayanan
+
+A.
+
+and
+
+others,
+
+“Bitcoin
+
+and
+
+Cryptocurrency
+
+Technologies:
+
+A
+
+Comprehensive Introduction” (2016)
+
+Paragon, “Central Bank Digital Currency Pros and Cons | Paragon Bank” (2022)
+<https://www.paragonbank.co.uk/blog/central-bank-digital-currency-pros-and-cons>
+accessed March 7, 2023
+
+Sakız B., Gencer A.H., “Blockchain Technology and its Impact on the Global
+Economy” (International Conference on Eurasian Economies, Famagusta, 2019)
+<https://www.avekon.org/papers/2258.pdf> accessed March 9, 2023
+
+Swan M., “Blockchain: Blueprint for a New Economy” (O'Reilly Media, Inc 2015)
+
+Team
+
+C.F.I.,
+
+“Electronic
+
+money,
+
+Corporate
+
+Finance
+
+Institute”
+
+(2022)
+
+<https://corporatefinanceinstitute.com/resources/economics/electronic-money/>
+accessed March 8, 2023
+
+Yermack D., 'Is Bitcoin a Real Currency? An Economic Appraisal' (National Bureau of
+Economic Research, 2015)
+
+22
+Electronic copy available at: https://ssrn.com/abstract=4384018
+
+

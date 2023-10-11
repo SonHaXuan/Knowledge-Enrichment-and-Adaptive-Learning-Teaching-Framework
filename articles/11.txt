@@ -1,0 +1,1311 @@
+African Economic and Management Review (AEMR)
+DOI: 10.53790/aemr.v2i1.26 | Volume: 2| No: 2| Pages 1-10
+
+Estimating Price and Exchange
+Cryptocurrency Demand in Nigeria
+
+rate
+
+Hedging
+
+Elasticity
+
+of
+
+Joseph, E. Tonuchi1,2; Nwolisa, U. Chinyere1, Obikaonu, Pauline1
+1. Central Bank of Nigeria, Abuja.
+2. Babcock University, Ileshan
+Corresponding Author: tonuchijoseph@gmail.com
+
+Article History
+Submitted: November 2021
+Revised: January 2022
+Accepted: March 2022
+
+Keyword
+Cryptocurrency demand,
+cryptocurrency investment,
+cryptocurrency price, elasticity,
+Nigeria
+
+Abstract
+This study examined the price and exchange rate hedging elasticity of
+cryptocurrency demand in Nigeria. To achieve the objective, the study employed
+Autoregressive Distributed Lag (ADRL) model to estimate both the short-run and
+long-run response of demand to changes in crypto price, consumer income and
+exchange rate. The Study found among others that cryptocurrency is demanded as
+a financial asset (either as money for exchange purpose or asset for speculative
+purpose). It was discovered that cryptocurrency price changes have significant
+impact on cryptocurrency demand but price inelastic. Meaning that a percentage
+changes in crypto price leads to less than proportionate change in cryptocurrency
+demand. It was also discovered that Nigeria real exchange rate has negative
+relationship with cryptocurrency demand meaning that as Naira real exchange rate
+to dollar is falling, the demand for cryptocurrency is rising. Other factors that are
+influencing cryptocurrency demand in Nigeria include consumer income,
+cryptocurrency popularity, and inflation rate in the country. The study concludes that
+while price plays an important role in cryptocurrency demand, fluctuations in
+cryptocurrency demand is less than the fluctuation in its price. The implication is
+that there are several other factors (structural issues) including real exchange rate
+movement that influences demands for cryptocurrency other than its price that
+policy makers should explore.
+
+Cite as: Joseph, T. E., Obikaonu, P., Nwolisa, U. C. (2022). Estimating price and exchange rate hedging
+elasticity of cryptocurrency demand in Nigeria. African Economic and Management Review, 2(2), 1-10
+
+1. Introduction
+To keep pace with the digitalized and globalized
+twenty-first century, there is a constant revolution of
+digital payment solutions around the globe (Urquhart,
+2018; Joseph, 2020). One such revolution is the
+emergence of virtual currency or what is known
+today as cryptocurrency (Thompson, 2020).
+Cryptocurrency emerged intending to solve
+monetary and structural crisis rocking the global
+economy particularly the global financial crisis of
+2008, the rising inflation rate across the globe, the
+masses over dependence on government backed
+monetary system that is assumed not transparent
+enough and enjoyed or manipulated by few
+individuals to their advantages (Halaburda, et al,
+2020).
+
+Page|1
+
+The cryptocurrency economy is thus driven by the
+belief in the power of the market and the need to
+develop a monetary system that is not controlled by
+the government, group of institutions, and few
+powerful individuals but is decentralized such that
+everyone within the ecosystem has a say in how the
+monetary system is governed. Having a
+decentralized cash system means that individuals
+may engage in “monetary transactions” without any
+third party involved (a peer-to-peer system) and
+without any authority that would for instance conduct
+a monetary policy (Halaburda et al, 2020).
+Thus, the need to permit transactions between two or
+more people without relying on a third party like banks
+and where the transaction between the parties is not
+only anonymous but are jointly agreed upon led to the
+
+1
+DOI:10.53790/aemr.v2i2.34
+
+Joseph et al, 2022
+
+introduction of cryptocurrency (Eloy, Juan, and
+Manuel, 2020). The technology boasts zero
+transaction cost including cross-border transaction,
+cutting out the activities of middlemen that drives
+inflation, and contributing to community-based
+finance system like crowdfunding (Yaser and
+Seyedjavad, 2019; Halaburda and Sarvary, 2016;
+Andolfatto, 2018; Haeringer and Halaburda, 2018).
+However, despite the obvious advantages of
+cryptocurrency transactions it has several drawbacks
+including exposure to hackers, facilitates money
+laundering, lack of regulation (or difficult to regulate),
+poor scalability, and high volatility in its price which
+makes it difficult to function as a medium of exchange
+and store of value (Haeringer and Halaburda, 2018,
+Thompson, 2020). Beyond the obvious mentioned
+disadvantages, several literatures have argued that
+the ecosystem has created more problems
+particularly for the developing countries than it
+proposed to solve. For instance, the ecosystem
+proposed a system that facilitates zero transaction
+cost for cross border remittances, facilitates faster
+international peer-to-peer transaction, and increases
+financial inclusion but has increased the incidence of
+capital flight in developing countries, money
+laundering, and exchange rate crisis which in a way is
+blamed for the rising inflation across developing
+countries (Yaser and Seyedjavad, 2019; Nurgun and
+Holya, 2018).
+The question average regulators and academicians
+are asking is why the sudden surge in cryptocurrency
+investment and transaction? Several studies using
+consumer behaviour theory have examined what is
+driving cryptocurrency demand particularly given the
+obvious fact that cryptocurrency price is subject to a
+high level of volatility (Urquhart, 2018; Yaser and
+Seyedjavad, 2019; Bolt and Van Oordt, 2020;
+Nurgun and Holya, 2018). Most of these studies
+have found that the need for an anonymous
+transaction, speculative purposes, online medium of
+exchange, international transaction, among others
+are the leading determinant of cryptocurrency
+demand (Arias-Oliva, Pelegrín-Borondo, and MatíasClavero, 2019; Anna, 2021).
+One aspect that has been largely ignored in literature
+is the role of cryptocurrency price (volatility) in crypto
+demand. Evidence has revealed that one of the
+criteria that most industry leaders use to dissuade
+people from investing in cryptocurrency is because of
+the volatility of cryptocurrency price (making the asset
+risky such that investor can loss its investment within
+hours or days), yet studies on consumer behaviour
+towards cryptocurrency have largely ignored
+cryptocurrency demand responses to its price
+volatility. Demand for money theories of Tobin,
+Baumol, and Friedman all argued that the relationship
+between demand for money as means of exchange is
+negative to interest rate while demand for money as
+financial instruments like bonds, shares, and
+
+Page|2
+
+portfolios are positively related to interest rate (Guru,
+2021). Specifically, Baumol argued that demand for
+money as financial instruments rises as the
+instrument value (price) rises but demand for money
+as means of exchange is inversely related to its price
+(Guru, 2021; Gandal, Hamrick, Moore, and Oberman,
+2018).
+Whether this is true for cryptocurrency demand is yet
+to be established empirically and the degree of
+cryptocurrency price elasticity is well unknown despite
+the growing body of literature on the issue. A recent
+survey cited by Investment.com revealed that most
+Nigerians are fast embracing cryptocurrency because
+of exchange rate crisis in the country. “Most people
+use cryptocurrency to send money to their relatives
+abroad, pay schools fees abroad and make different
+transaction that the official market/ channels could not
+allow them do because of scarcity and stringent
+bureaucratic process of accessing dollar in the
+countries” – Investment.com. Establishing such a
+relationship is important to policymakers who would
+aim to introduce alternatives digital currencies like
+Central Bank Digital Currency (CBDC) that are not
+susceptible to such price volatility and are backed by
+the government.
+2. Literature Review
+2.1 Conceptual Literature
+2.1.1 Cryptocurrency Definitional Issue
+Since the emergence of the first cryptocurrency
+(bitcoin) from the work of one Satoshi Nakamoto
+(2008) in his or her seminal paper, ‘Bitcoin: A Peer-toPeer Electronic Cash System’, the concept has been
+variously defined and explained with each discipline
+adopting the definition that best meet their goals and
+objectives.
+Conventionally,
+cryptocurrency
+is
+regarded as a part of the virtual currencies that are not
+backed by any central government or monetary
+authority. Technically, cryptocurrency are those digital
+currency that adopts the formula of cryptography for
+the creation and management of its currency units
+(Majumder, Routh, and Singha, 2019). It is blockchain
+technologies that facilitate peer-to-peer (P2P)
+commerce, individualization of products, and
+flexibilization of production methods. For a variety of
+reasons, this wave gained traction after the global
+financial crisis a decade ago (Gupta et al, 2020). For
+example, these technologies embrace a peer-to-peer
+mechanism and effectively eliminate the “middleman”,
+like banks. Because with cryptocurrency, there is no
+need for credit and debit card, it just requires smart
+phone and the internet and two people can
+successfully conduct transaction.
+Cryptocurrency are built on blockchain technologies
+and enable the creation of money without central
+banks or any financial institution. A blockchain is
+technology of digital ledger of transactions that is
+distributed across the network of computer systems
+
+2
+DOI:10.53790/aemr.v2i2.34
+
+Joseph et al, 2022
+
+on the blockchain. Each block in the chain contains
+several transactions, and every time new transaction
+occurs a record of that transaction is added to every
+participant. This decentralized database managed by
+every participant is referred Distributed Ledger
+Technology (DLT). Thus, cryptocurrency represents
+both technology and technology enabled service.
+Whether cryptocurrency is money (used as means of
+exchange) or financial instruments remains a debated
+topic in literature.
+2.1.2 Cryptocurrency as Money or Financial
+Instrument
+Cryptocurrency is largely abstract in nature. Some
+literature has argued that cryptocurrency is money in
+the sense that they can be exchanged via peer-topeer (Irina, 2018). However, cryptocurrency does not
+fulfill the basic characteristics of currency; for
+example, it is not backed by any issuer (Irina, 2018;
+David and Chuen, 2015). This argument has been
+refuted in some corners who argues that
+cryptocurrency is essentially not much different from
+standard currency. They argued that only small
+portion of our currency are in cash; most of the money
+is in electronic form, which means only the data stored
+on a computer. The monetary system operates in the
+existence of trust between monetary authority and the
+masses. The cryptocurrency is also built on trust
+between or among its users (Benjamin, 2013). Others
+argued that cryptocurrency is not money because it is
+susceptible to high volatility. This claim is relatively
+trashed in some quarters also who believe that stable
+coins like Tether (USDT) value is not volatile, but the
+fact that its value is pegged to another currency is an
+issue yet unresolved in literature.
+The U.S. Financial Crimes Enforcement Network
+(FinCEN) argued that every exchange that involves
+the exchange of cryptocurrency with traditional fiat
+money should be regulated same way as money
+(Irina, 2018), which invariably means that
+cryptocurrency can serve as both money and other
+instrument depending on the usage. While some
+countries like Japan for the purpose of regulation have
+recognized bitcoin – the mother of all cryptocurrencies
+as money, it remains a puzzle for the classification
+given that other cryptocurrencies are not recognized
+as money within Japan. Some other countries have
+recognized and classified cryptocurrency as
+commodity that can be owned by individuals and can
+be used for exchange through a barter system.
+Example of such countries include Israel, Australia,
+and Estonia (Yilmaz and Hazar, 2018; Irina, 2018;
+Sun et al, 2020). Most cryptocurrency are issued like
+stocks in “initial coin offerings” and used to represent
+shares in online projects which means cryptocurrency
+used in this form is viewed as financial instrument.
+Germany also recognizes cryptocurrency as financial
+instrument which means it can serve as currency,
+commodity, and securities including various statistical
+indicators (Irina, 2018).
+
+Page|3
+
+2.1.3 Cryptocurrency, Central
+Currency and Electronic Money.
+
+Bank
+
+Digital
+
+With the surge in cryptocurrency across the globe
+numbering more than 13, 000 (Connor, 2021), the
+central banks across the globe have started rolling out
+their own digital currency. But what is the difference
+between Central Bank Digital Currency (CBDC) and
+cryptocurrency? CBDC is essentially the digital
+version of the nation fiat currency – its value is tied to
+the value of the nation fiat currency. It is essentially
+related to cryptocurrency in that both are digital coins
+but essentially different since CBDC are regulated by
+monetary authority and are pegged to the value of the
+country fiat currency. Cryptocurrency is not regulated,
+not backed by any monetary authority, and designed
+such that the value can be rising largely since most of
+the cryptocurrency have a fixed supply in context and
+this explain why most people demand for
+cryptocurrency as financial instrument (Connor, 2021,
+Irina, 2018; Sun et al, 2020).
+The next question that rightly comes to mind is how
+does CBDC differs from our conventional electronic
+money in our bank account? Duncan (2021) pointed
+out that while the existing electronic naira, dollars,
+pounds, etc., are created by commercial banks
+lending within fractional reserve banking systems with
+the assets and liabilities involved are held on the
+balance sheets of these banks and their clients. In
+contrast, CBDC are solely issued by the central bank
+and liability would be held by the central banks. Thus,
+the central bank keeps its own reserve to back the
+liability on the digital currency.
+CBDC has several advantages over electronic notes,
+these include low or no transaction cost, fast and
+efficient transaction, facilitates more efficient
+international remittances, liability of the central bank,
+more secure payment system, facilitates financial
+inclusion, prevent fraud and money laundry, among
+others (Connor, 2021). But beyond being backed by a
+government and a monetary authority, most people
+have argued that CBDC are not in any way different
+from stable cryptocurrency coin like BSD and USDT
+coins since both are pegged to a fiat currency.
+2.2 Trends in cryptocurrency Investment.
+Since the surge of cryptocurrency in the global
+financial ecosystem, the value of cryptocurrency has
+skyrocketed particularly Bitcoin which has seen it
+value rose to $68, 000 before it falls below $40, 000
+in January 2022 (Coinmaketcap, 2021). The rise in
+its value stem from several factors including but not
+limited to its ability to facilitates instant peer-to-peer
+transaction that bypass the conventional banking
+system, even across borders, without the need for a
+bank that could block the transaction or charge a fee
+(Zhu et al, 2021; Sun et al., 2020). As seen in Figure
+1, cryptocurrency has seen a tremendous growth in
+2021 with more than 7000 alternate coins rolled out
+in 2021 (Coinmarketcap, 2021).
+
+3
+DOI:10.53790/aemr.v2i2.34
+
+Joseph et al, 2022
+
+One noticeable feature from Figure 1 is the level of
+volatility associated with cryptocurrency. For
+instance, Bitcoin price initially hit an all-time high of
+$64, 000 in April 2021 and slide back in to as low as
+$30,000 in July 2021. That same period as seen in
+Figure 1 witnessed a downward trend in bitcoin
+
+demand which consistent with portfolio demand
+theories of Tobin, Baumol, and Friedman (Guru,
+2021). It is important to note that this study treats
+cryptocurrency as a financial instrument rather than
+as money since it is not legally recognized globally
+as medium of exchange.
+
+Figure: Bitcoin and Alternate Coin Market Capitalization
+
+Cryptocurrecy Market capitalization
+3000
+2500
+2000
+1500
+1000
+500
+0
+
+Altcoin Market Cap
+
+Bitcoin Market Cap
+
+Source: Yahoo Finance
+Figure 2: Bitcoin Price Volatility since January 2021
+
+Source: Yahoo Finance
+2.3 Empirical Literature
+Several Literatures have made efforts to investigate
+cryptocurrency in relation to consumer behaviour,
+particularly as it relates to what is driving the
+demand for cryptocurrency (Arias-Oliva et al, 2019;
+Gupta et al, 2020; Sun et al, 2020). Other studies
+have focused more on examining the factors
+responsible for the price volatility or what is driving the
+price of cryptocurrencies (Biais et al, 2018; Cheah and
+Fry, 2015; Gandal, et al, 2018). In terms of factors
+driving cryptocurrency, literature suggested several
+factors including but not limited to profitability
+purposes, investment, risk tolerance, technology, the
+need to engage in anonymous transaction, online
+medium of exchange, international transaction, as a
+form of hedge against inflation and exchange rate
+
+Page|4
+
+depreciation, among others (Arias-Oliva et al, 2019;
+Gupta, Gupta, Mathew, and Sama, 2020).
+Literature on cryptocurrencies price manipulation,
+elasticity, and volatility have suggested that
+cryptocurrency price is influenced by several factors
+including but not limited to demands (the different
+uses agents are putting cryptocurrency to use), the
+supply, demands, trends, other commodities prices
+including stock prices among others (Poyser (2017)
+categorize cryptocurrency drivers into internal and
+external factors. He argued that demand and supply
+of cryptocurrency are the two key internal factors
+driving cryptocurrency price while attractiveness
+(popularity), legalization (adoption), and few
+
+4
+DOI:10.53790/aemr.v2i2.34
+
+Joseph et al, 2022
+
+macroeconomics factors (stock price, gold price, etc.)
+are the external drivers of cryptocurrency price. This
+is as summarized in Figure 3.
+
+Figure 3: Factors Driving Cryptocurrency Price
+Internal
+External Factors
+Factors
+
+•
+•
+•
+•
+•
+
+Supply and
+Demand
+Transaction cost
+(PoW/PoS)
+Reward System.
+Mining Difficult
+Coins Circulation
+Forks (Rule
+Changes)
+
+•
+•
+•
+
+Crypto
+Market
+Attractiveness
+(popularity)
+Market Trend
+Speculations
+
+•
+•
+•
+•
+
+MacroFinancial
+Stock markets
+Exchange rate
+Gold prices
+Interest rates,
+etc.
+
+•
+•
+•
+
+Political
+Legalization
+(Adoption)
+Restrictions
+(Ban)
+Others
+
+Cryptocurrency
+Price
+
+Source: Author
+3. Methodology
+3.1 Model Specification
+
+To determine price elasticity of cryptocurrency to
+demand for cryptocurrency we follow the work of
+Beenstock et al (1999), Alberini and Filippini (2011),
+and Espey and Espey (2004), where cryptocurrency
+demand is modeled as a function of cryptocurrency
+price and vector of other variables influencing
+cryptocurrency demand as in equation (1):
+𝑙𝑛𝐶𝑟𝐷𝑡 = 𝑓(𝑙𝑛𝑃𝑒,𝑡 , 𝑙𝑛𝑍𝑛,𝑡 )
+
+(1)
+
+Where 𝑙𝑛𝐶𝑟𝐷𝑡 represents the log of aggregate
+cryptocurrency demand, 𝑙𝑛𝑃𝑒,𝑡 represents price of
+cryptocurrency, 𝑙𝑛𝑍𝑛,𝑡 and represents vector of other
+variables affecting demand for cryptocurrency. For
+sake of simplicity, the study will follow the like of
+Halaburda and Sarvary (2016) and Andolfatto (2018)
+and develop cryptocurrency price index using price of
+ten (10) most traded cryptocurrency as of January
+2022 to capture cryptocurrency price.
+A static model as in equation (1) assume that
+cryptocurrency demand is instantaneously adjusted
+toward long-term equilibrium when the cryptocurrency
+price (return on asset) or other variables changes.
+Such static model will fail to capture the model
+dynamic
+since
+cryptocurrency
+economy
+is
+technological driven, there is need to capture such
+effects when investigating long-term price and output
+elasticities. It is assumed that the actual
+cryptocurrency demand change between two periods
+t − 1 and t is only the partial fraction of the difference
+between the long-term desired cryptocurrency use at
+year t and the actual demand at year t − 1.
+Consequently, λ represents the rate of adjustment
+between any two time periods toward the long-term
+equilibrium demand. If λ equals 1, then the desired
+
+Page|5
+
+cryptocurrency use becomes identical to the actual
+demand.
+𝑙𝑛𝐶𝑟𝐷𝑡 − 𝑙𝑛𝐶𝑟𝐷𝑡−1 = λ(𝑙𝑛𝐶𝑟𝐷 ∗ 𝑡 − 𝑙𝑛𝐶𝑟𝐷𝑡−1 )
+
+(2)
+
+The aggregated long-term effects of a price elasticity
+can be estimated with equations (3) to (5). Equation
+(3), following the work of Alberini and Filippini (2011)
+expressed the desired cryptocurrency as a function of
+cryptocurrency price and vector of other variables and
+𝜖𝑡 represents error term.
+𝑙𝑛𝐶𝑟𝐷 ∗ 𝑡 = 𝛼0 + 𝛼1 𝑙𝑛𝑃𝑒,𝑡 + 𝛼2 𝑙𝑛𝑍𝑡 + 𝜀𝑡
+
+(3)
+
+If we substitute equation (3) into equation (2), we
+obtain equation (4) that is dynamic.
+𝑙𝑛𝐶𝑟𝐷𝑡 = (1 − 𝜆)𝑙𝑛𝐶𝑟𝐷𝑡−1 + 𝜆𝛼0 + 𝜆𝛼1 𝑙𝑛𝑃𝑒,𝑡
++ 𝜆𝛼2 𝑙𝑛𝑍𝑡 + 𝜀𝑡 (4)
+𝑙𝑛𝐶𝑟𝐷𝑡 = 𝜙𝑙𝑛𝐶𝑟𝐷𝑡−1 + 𝛽0 + 𝛽1 𝑙𝑛𝑃𝑒,𝑡 + 𝛽2 𝑙𝑛𝑍𝑡
++ 𝜀𝑡 (5)
+Where, (1 − 𝜆) = 𝜙, 𝜆𝛼0 = 𝛽0 ; 𝜆𝛼1 = 𝛽1 ; 𝜆𝛼2 = 𝛽2 ,
+where 𝛽1 and 𝛽2 are short-term price elasticity and
+vector of other cryptocurrency demand variables.
+Literature suggested that exchange rate depreciation
+in developing countries like Nigeria is a key variable
+in cryptocurrency demand either as asset or money
+(medium of exchange). If we modify equation (4) to
+include exchange rate, Cryptocurrency news (an
+indicator of popularity), income and inflation rate, we
+can have equation (5).
+𝑙𝑛𝐶𝑟𝐷𝑡 = 𝜙𝑙𝑛𝐶𝑟𝐷𝑡−1 + 𝛽0 + 𝛽1 𝑙𝑛𝑃𝑒,𝑡 + 𝛽2 𝑙𝑛𝑅𝐸𝑋𝐶𝑡
++ 𝛽3 𝑙𝑛𝑁𝑒𝑤𝑠𝑒,𝑡 + 𝛽4 𝑙𝑛𝑅𝐺𝐷𝑃𝑡 + 𝛽5 𝐼𝑁𝐹𝑡
++ 𝜀𝑡 (5)
+
+5
+DOI:10.53790/aemr.v2i2.34
+
+Joseph et al, 2022
+
+This study applied dynamic ARDL bounds testing to
+estimate both the short-run and long-run effects
+𝑛−1
+
+𝑀−1
+
+(Pesaran, Shin, & Smith, 2001). Equation (5) can be
+expressed in the ARDL form as given in equation (6):
+𝑀−1
+
+𝑀−1
+
+∆𝑙𝑛𝐶𝑟𝐷𝑡 = 𝛽0 + ∑ 𝛽1 𝛥𝑙𝑛𝐶𝑟𝐷𝑡−𝑖 + ∑ 𝛽2 𝛥𝑙𝑛𝑃𝑒𝑡−𝑖 + ∑ 𝛽3 𝛥𝑙𝑛𝑅𝐸𝑋𝐶𝑡−𝑖 + ∑ 𝛽4 𝛥𝑙𝑛𝑁𝐸𝑊𝑆𝑡−𝑖
+𝑖=1
+𝑀−1
+
+𝑖=0
+
+𝑀−1
+
+𝑖=0
+
+𝑖=0
+
++ ∑ 𝛽5 ∆𝑙𝑛𝐼𝑛𝑅𝐺𝐷𝑃𝑡−𝑖 + ∑ 𝛽6 ∆𝐼𝑁𝐹𝑡−𝑖 + 𝜑1 𝑙𝑛𝐶𝑟𝐷𝑡−1 + 𝜑2 𝑙𝑛𝑃𝑒𝑡−1 + 𝜑3 𝑙𝑛𝐸𝑋𝐶𝑡−1
+𝑖=0
+
+𝑖=0
+
++ 𝜑4 𝑙𝑛𝑁𝐸𝑊𝑆𝑡−1 + 𝜑5 𝑙𝑛𝑅𝐺𝐷𝑃𝑡−1 + 𝜑6 𝐼𝑁𝐹𝑡−1 + ℰ𝑡 … … … . (6)
+Where ln is logarithm function, ∆ is the first difference
+operator, and 𝛼0 is the drift component. The
+expression with summation sign (𝛽1 − 𝛽6 ) represents
+the short-run dynamics of the model, while the
+coefficients (𝜑1 − 𝜑6 ) represents the long-run
+relationship and ℰ𝑡 is the serially uncorrelated
+
+disturbance with zero mean and constant variance.
+Once it is established that there exists a long-run
+relationship through the application of bounds
+cointegration test. The long-run relationship of the
+ARDL model can be estimated as given in equation
+(7).
+
+𝑙𝑛𝐶𝑟𝐷𝑡 = 𝜑1 𝑙𝑛𝐶𝑟𝐷𝑡−1 + 𝜑2 𝑙𝑛𝑃𝑒𝑡−1 + 𝜑3 𝑙𝑛𝑅𝐸𝑋𝐶𝑡−1 + 𝜑4 𝑙𝑛𝑁𝐸𝑊𝑆𝑡−1 + 𝜑5 𝑙𝑛𝑅𝐺𝐷𝑃𝑡−1 + 𝜑6 𝑈𝑁𝐸𝑡−1 + ℰ𝑡
+
+(7)
+
+While the short-run model can be estimated as given in equation (8) below:
+𝑛−1
+
+𝑀−1
+
+𝑀−1
+
+𝑀−1
+
+∆𝑙𝑛𝐶𝑟𝐷𝐿𝑡 = 𝛽0 + ∑ 𝛽1 𝛥𝑙𝑛𝐶𝑟𝐷𝑡−𝑖 + ∑ 𝛽2 𝛥𝑙𝑛𝑃𝑒𝑡−𝑖 + ∑ 𝛽3 𝛥𝑙𝑛𝐸𝑋𝐶𝑡−𝑖 + ∑ 𝛽4 𝛥𝑙𝑛𝑁𝐸𝑊𝑆𝑡−𝑖
+𝑖=1
+𝑀−1
+
+𝑖=0
+
+𝑖=0
+
+𝑀−1
+
+𝑖=0
+
++ ∑ 𝛽5 ∆𝑙𝑛𝐼𝑛𝑅𝐺𝐷𝑃𝑡−𝑖 + ∑ 𝛽6 ∆𝑈𝑁𝐸𝑡−𝑖 + 𝜑1 𝐸𝐶𝑀𝑡−𝑖 + ℰ𝑡
+𝑖=0
+
+𝑖=0
+
+3.2 Data and Sources
+The study employed monthly data on cryptocurrency
+(Bitcoin) price and demand between January 2017 to
+October
+2021
+using
+data
+from
+https://coinmarketcap.com/, the study following the
+work of
+Kristoufek (2015) and data from
+http://www.coindesk.com/price identified the use
+purposes of cryptocurrency. For trading or speculative
+purpose and for exchange. Thus, the the ratio
+between demand for cryptocurrency for speculative
+purpose (asset – trading, and conversion of fiat to
+volatile crypto) and demand for cryptocurrency as
+exchange transactions (conversion of fiat or volatile
+crypto to stable coin for exchange or peer-to-peer
+transaction) is provided and used in cryptocurrency
+demand. Data on real
+GDP, inflation rate, and exchange rate for the case of
+Nigeria is sourced from IMF databank while Google
+trends news at http://trends.google.com/ is used to
+measure news (popularity) effects on cryptocurrency
+demand. All the data are converted to monthly where
+they are available in other frequencies like daily,
+weekly, or quarterly. Also, some database has already
+aggregated the crypto data into monthly data (see
+https://ng.investing.com/crypto/).
+4. Result and Discussion
+
+(8)
+
+series are stationary at level. The stationarity result is
+presented in Table (2) using both Augmented Dickey
+Fuller (ADF) test and Philip Perron (PP) test. The
+result as in Table (2) reveals that all the series either
+integrated of order zero, I(0) or integrated of order
+one, I(1). Since the series are fractionally integrated
+the choice of ARDL is further justified. The study
+employed a combination of Akaike Information
+Criterion (AIC), Schwarz Criterion (SC), and HannanQuinn Criterion (HQ) for the appropriate lag selection
+and where there is a conflict between the various
+criteria, AIC overrides others.
+To establish the existence of long-run relationship
+between and among the series, the study followed the
+suggestion of Enders (2010) and Peters, Yaaba,
+Adetoba, Tomologu, and Tonuchi (2020) to conduct
+three basic check test; the bounds co-integration test
+to validate the existence of long-run relationship, the
+Breusch-Godfrey Serial Correlation test, and CUSUM
+square test to check stability of the model. The result
+as in Table (2) reveals that all the series either
+integrated of order zero, I(0) or integrated of order
+one, I(1). Since the series are fractionally integrated
+the choice of ARDL is further justified. The study
+employed a combination of Akaike Information
+Criterion (AIC), Schwarz Criterion (SC), and HannanQuinn Criterion (HQ) for the appropriate lag selection
+and where there is a conflict between the various
+criteria, AIC overrides others.
+
+The series was first subjected to unit root test since
+economic modeled is built on the assumption that
+Table 1: Augmented Dickey-Fuller and Philip Perron Test (trends and intercept)
+
+Page|6
+
+DOI:10.53790/aemr.v2i2.34
+6
+
+Joseph et al, 2022
+
+Variable
+
+ADF
+At Level
+Difference
+-2.818933
+
+I(d)
+1st
+
+Philip Perron
+At Level
+1st
+difference
+-2.6793923
+6.47382***
+-5.0973465***
+-2.567093
+-6.783594
+***
+-4.545271***
+-
+
+I(d)
+
+Remarks
+
+Crypto Demand
+-6.82674*** I(1)
+I(1)
+Stationary
+(CrD)
+Price (Pe)
+-5.286482***
+I(0)
+I(0)
+Stationary
+Exchange
+rate -2.593424*
+- I(1)
+I(1)
+Stationary
+(EXC)
+7.4907245***
+Popularity
+-4.716731***
+I(0)
+I(0)
+Stationary
+(NEWS)
+Inflation rate (INF) -2.38927
+- 8.37173*** I(1)
+-1.95720
+- 7.3682*** I(1)
+Stationary
+Real
+GDP -1.205585
+- I(1)
+-1.106722
+- I(1)
+Stationary
+(RGDP)
+9.8178395***
+8.156339***
+Significance is indicated as follows: ***, ** and * for 1%, 5% and 10% respectively, all variables are logged
+Source: Researcher's Computation
+Table 3: ARDL Models for Price and Output Elasticity in Nigeria
+Variable
+
+Model 1
+
+Model 2
+
+Model 3
+
+Bounds F-Stats
+
+6.366***
+
+5.784***
+
+4.572**
+
+LONG
+0.823 (0.000)***
+0.024 (0.046)**
+0.675(0.000)***
+0.241 (0.047)**
+2.434 (0.060)*
+0.6285
+0.0000***
+0.4536
+SHORT
+0.221 (0.000)**
+-0.034 (0.000)***
+0.302 (0.62)*
+8.083 (0.000)***
+-0.485 (0.000)***
+0.7864
+0.0000
+0.6489
+
+RUN
+0.445 (0.002)***
+0.034 (0.024)* *
+-0.372(0.002)** *
+
+MODEL
+0.863 (0.000)***
+0.018 (0.055)*
+-0.502 (0.002)***
+0.497 (0.000)***
+0.318 (0.002)***
+0.328 (0.016)***
+20.24 (0.005)***
+0.6645
+0.0000***
+0.3467
+MODEL
+0.582 (0.038)***
+0.049 (0.001)***
+-0.068 (0.002)***
+0.630 (0.000)***
+0.210 (0.013)***
+0.365 (0.016)***
+0.488 (0.345)
+-0.453 (0.001)***
+0.6854
+0.0003***
+0.1644
+
+Crypto Demand (CrD_1)
+Price (Pe)
+Exchange rate (EXC)
+Popularity (NEWS)
+Real GDP (RGDP)
+Inflation rate (INF)
+C
+R2
+F*(p-value)
+Breusch-g
+Crypto Demand (CrD_1)
+Price (Pe)
+Exchange rate (EXC)
+Popularity (NEWS)
+Real GDP (RGDP)
+Inflation rate (INF)
+C
+ECM(-1)
+R2
+F*(p-value)
+Breusch-g
+
+0.563 (0.010)***
+0.211 (0.022)**
+0.918 (0.034)**
+0.6524
+0.0000***
+0.1982
+RUN
+0.237 (0.000)***
+0.024 (0.000)***
+-0.062 (0.038)***
+0.838 (0.000)***
+0.218 (0.081)**
+0.341 (0.052)**
+-5.0768 (0. 073)*
+-0.3405 (0.000)***
+0.7701
+0.0000***
+0.1344
+
+Significance is indicated as follows: ***, ** and * for 1%, 5% and 10% respectively, p-value in parenthesis. MPRI =(MPR*Infg), Breusch-G
+= Breusch-Godfrey Serial Correlation f-test p-value.
+
+To establish the existence of long-run relationship
+between and among the series, the study followed the
+suggestion of Enders (2010) and Peters et al (2020)
+to conduct three basic check test; the bounds cointegration test to validate the existence of long-run
+relationship, the Breusch-Godfrey Serial Correlation
+test, and CUSUM square test to check stability of the
+model.
+
+Page|7
+
+The basic check of long-run relationship and stability
+of the models reveals that all the models have longrun relationship at 1% level of significance, given that
+the F-statistics of the bounds test is greater than the
+1% critical value for each of the models as seen in
+both Table 3 and 4. The data as in Table 3 revealed
+that demand for cryptocurrency is inelastic to the price
+of cryptocurrency as revealed by the price index in
+Table 3 both in the long-run and short-run. In order
+words, a proportionate change in crypto price will
+
+7
+DOI:10.53790/aemr.v2i2.34
+
+Joseph et al, 2022
+
+leads to less than proportionate change in demand
+both at the long-run and short-run. The data revealed
+positive relationship between crypto demand and
+price in the long-run which is consistent with Tobin,
+Baumol, and Friedman Portfolio investment theory.
+This suffice that most people are demanding for
+cryptocurrency for investment purpose rather than
+means of exchange which is consistent with the
+findings of Kristoufek (2015). However, as revealed in
+Table 3, the first model short-run result revealed a
+negative relationship between asset price and
+demand indicating that more people are demanding
+for cryptocurrency in the short-run as money for
+exchange rather than financial instrument. But, when
+exchange
+rate
+and
+cryptocurrency
+hipping
+(popularity) was introduced the price and demand
+relationship becomes consistent with the long-run
+relationship.
+
+Similarly, the result as in Table 3 revealed that as
+Nigeria currency is depreciating and exchange rate of
+naira to dollar is falling, the demand for cryptocurrency
+is rising and significant at 5 percent level of
+significance. The implication is that exchange rate
+depreciation is among the factors driving Nigerians
+into cryptocurrency. As a last ditch, the study
+introduced cryptocurrency popularity into the model
+as in Model 3. It was revealed that introducing
+popularity into the model does not change the model
+parameters sign, but it makes the price of Bitcoin not
+significant except at 10 percent. However, the sign
+and magnitude remain unchanged. It was also seen
+that cryptocurrency popularity has strong positive
+significant impact of cryptocurrency demand.
+
+Table 4: ARDL Models for Price and Output Elasticity Global
+Variable
+
+Model 1
+
+Model 2
+
+Bounds F-Stats
+
+6.366***
+
+5.784***
+
+LONG
+0.674 (0.000)***
+0.062 (0.046)**
+2.992 (0.002)***
+0.6724
+0.0000***
+0.4362
+SHORT
+0.221 (0.000)**
+-0.018 (0.000)***
+6.680 (0.000)***
+-0.545 (0.000)***
+0.6564
+0.0000
+0.342
+
+RUN
+0.552 (0.002)***
+0.102 (0.040)***
+0.028 (0.021)**
+5.621 (0.034)**
+0.7491
+0.0000***
+0.2681
+RUN
+0.237 (0.000)***
+-0.078 (0.040)**
+0.632 (0.010)**
+7.1356 (0. 003)*
+-0.615 (0.000)***
+0.6465
+0.0000***
+0.400
+
+Crypto Demand (CrD_1)
+Price (Pe)
+Popularity (NEWS)
+C
+R2
+F*(p-value)
+Breusch-g
+Crypto Demand (CrD_1)
+Price (Pe)
+Popularity (NEWS)
+C
+ECM(-1)
+R2
+F*(p-value)
+Breusch-g
+
+Significance is indicated as follows: ***, ** and * for 1%, 5% and 10% respectively, p-value in parenthesis. MPRI
+=(MPR*Infg), Breusch-G = Breusch-Godfrey Serial Correlation f-test p-value.
+The global data as in Table 4 is relatively consistent
+with the result from the data in Table 3. Data from
+Table 4 reveals that demand for cryptocurrency is
+positively inelastic and significant at 5 percent level of
+significance. Cryptocurrency price has positive
+significant impact on cryptocurrency demand in the
+long-run further indicating that cryptocurrency
+demand is largely influenced by speculative purpose
+or the use of crypto as financial instrument rather than
+as conventional money. However, price has a
+negative relationship with crypto demand in the shortrun indicating that demand for crypto in the short-run
+
+Page|8
+
+is largely influenced by exchange purposes consistent
+with Nigeria data. Lastly, popularity of cryptocurrency
+also has positive impact on crypto demand in both
+short-run and long-run for global economy.
+5. Conclusion and Policy implication
+The study revealed that cryptocurrency price has
+positive significant impact on cryptocurrency
+demand, but the demand is price inelastic which
+means that while cryptocurrency demand might
+fluctuate relative to price, the relative response is
+
+8
+DOI:10.53790/aemr.v2i2.34
+
+Joseph et al, 2022
+
+lower to the price volatility. Similarly, the more
+popular or the more hipping a cryptocurrency
+received the higher the demand for it. This explain
+why some meme coins with huge community rise in
+15,000 percent despite being a meme coin. For the
+case of Nigeria, we see that exchange rate hedging
+plays an important role in cryptocurrency demand as
+people are trying to save their money value against
+dwindling value of naira they then to invest in
+cryptocurrency with more stability and higher yield.
+Most people would prefer to put their money in
+stable coins like Tether since its value is equivalent
+to US dollar and saves the investor from the inflation
+and exchange rate crises. The finding is consistent
+with economic theory particularly the portfolio
+investment theories of Tobin, Baumol, and
+Friedman and Keynes demand for money theory.
+We conclude that cryptocurrency demand in Nigeria
+and elsewhere is dominated by speculative motives.
+In order words, most people using cryptocurrency
+are speculating that the price will rise, and they will
+make gain which explain why demand for
+cryptocurrency rises when the price rises.
+
+Andolfatto, D. (2018). Blockchain: What it is, what it
+does, and why you probably don’t need one.
+Federal Reserve Bank of St. Louis Review,
+Second Quarter 100(2), pp. 87-95.
+https://doi.org/10.20955/r.2018.87-95
+
+The implication is that crypto enthusiast is not likely
+to be deterred by cryptocurrency price volatility. It
+also means that Central Bank Digital Currency
+(CBDC) which are being rolled out by different
+central banks might struggle to compete with
+cryptocurrency without other value proposition. One
+of the arguments against cryptocurrency is that the
+currency is susceptible to high volatility and as
+revealed by our result crypto enthusiast are rarely
+bordered by that fact. One can argue that most
+crypto investors are risk loving individuals who
+derives more utility from higher investment gains
+and higher risk of investment loss compared to risk
+averse consumers who derives more utility from
+lower yield asset with minimal risk. Secondly, stable
+coins like Tether (USDT) value is pegged to dollar
+which means holding USDT is like holding dollar and
+this can be both used as medium of exchange and
+store value which Bitcoin has been accused of
+failing to achieve making cryptocurrency to be a step
+closer to fulfilling the medium of exchange feature of
+money.
+
+Benjamin, G. (2013). The Bitcoin Bible: All You Need
+to Know About Bitcoins 123–124. Germany:
+Books on Demand Publisher.
+Biais, B., C. Bisiere, M. Bouvard, C. Casamatta, and
+A. J. Menkveld (2018). Equilibrium bitcoin
+pricing. Available at SSRN No: 3261063.
+Bolt, W. and Van Oordt, M. R. (2020). On the value of
+virtual currencies. Journal of Money, Credit
+and Banking, 52(4), p. 835–862.
+Cheah, E.-T. and J. Fry (2015). Speculative bubbles
+in Bitcoin markets? An empirical investigation
+into the fundamental value of Bitcoin.
+Economics Letters, 130, 32–36
+Coinmarketcap (2021). Today cryptocurrency prices
+by market cap. Retrieved online from
+https://coinmarketcap.com/
+Connor, S. (2021). How many cryptocurrencies are
+there?
+Retrieved
+online
+from
+https://currency.com/how-manycryptocurrencies-are-there
+David, L., Chuen, K. (2015). Handbook of digital
+currency: Bitcoin, innovation, financial
+instruments, and big data. London: Elsevier.
+Duncan, F. (2021). Cryptocurrency vs. Central Bank
+Money: Does the future of digital currency
+lie
+with
+central
+banks?
+https://www.intuition.com/cryptocurrencyvs-central-bank-money-does-the-future-ofdigital-currency-lie-with-central-banks/
+1Eloy, G., Juan, P. C., and Manuel, J. A. (2020).
+Cryptocurrencies as a financial tool:
+Acceptance factors. Mathematics, 8(1), P. 116.
+Enders, W. (2010). Applied econometric time series
+(3rd ed.). New Jersey: John Wiley & Sons.
+
+Also, giving the high inflation rate across the globe,
+and the fact that most stable coin offers a guarantee
+on investment between 5-20% implies that even the
+risk averse investor will be willing to stake their
+investment in guaranteed cryptocurrency stake
+which should further concern regulators particularly
+from developing country in attempt to reduce
+incidence of financial instability and capital flight in
+the country. There is need to reevaluate the CBDC
+value proposition probably to include interest
+yielding savings that can be managed by the deposit
+money bank.
+References
+
+Page|9
+
+Alberini, A., Filippini, M. (2011). Response of
+Residential Electricity Demand to Price: The
+Effect of Measurement Error. Energy Econ.
+33, 889–895
+Anna, B. (2021). Thriving Under Pressure: Why
+Crypto Is Booming in Nigeria Despite the
+Banking Ban.
+Retrieved online at
+https://www.coindesk.com/markets/2021/07/
+06/thriving-under-pressure-why-crypto-isbooming-in-nigeria-despite-the-banking-ban/
+[8th November, 2021]
+Arias-Oliva M, Pelegrín-Borondo J and MatíasClavero G (2019) Variables Influencing
+Cryptocurrency
+Use:
+A
+Technology
+Acceptance Model in Spain. Front. Psychol.
+10(475),
+P.
+1-13.
+Doi:
+10.3389/fpsyg.2019.00475
+
+Espey, J.A., Espey, M. (2004). Turning on the lights: A
+meta-analysis of residential electricity
+9
+DOI:10.53790/aemr.v2i2.34
+
+Joseph et al, 2022
+
+demand elasticities. J. Agric. Appl. Econ., 36,
+65–81
+Gandal, N., Hamrick, J., Moore, T., and Oberman, T.
+(2018). Price manipulation in the Bitcoin
+ecosystem. Journal of Monetary Economics,
+95, 86–96
+Gupta, S., Gupta, S., Mathew, M., and Sama, H. R.
+(2020).
+Prioritizing
+intentions
+behind
+investment in cryptocurrency: a fuzzy
+analytical framework. Journal of Economic
+Studies,2, 1-18,
+doi:10.1108/jes-06-20200285
+Guru, S. (2021). Theories of demand of money:
+Tobin’s portfolio and Baumol’s inventory
+approaches.
+Retrieved
+from
+https://www.yourarticlelibrary.com/economic
+s/money/theories-of-demand-of-moneytobins-portfolio-and-baumols-inventoryapproaches/37904
+Haeringer, G. and Halaburda, H. (2018). Bitcoin: A
+revolution? In Economic analysis of the digital
+revolution. J. Ganuza and G. Llobert, Eds.,
+pp. 397–421. FUNCAS.
+Halaburda H., Sarvary M. (2016) Cryptocurrencies.
+In: Beyond Bitcoin. Palgrave Macmillan,
+New
+York.
+https://doi.org/10.1057/9781137506429_4
+Halaburda, H. (2018). Blockchain revolution without
+the blockchain? Communications of the ACM,
+61(7):27–29.
+Halaburda, H., Haeringer, G., Gans, J. S., and
+Gandal, N. (2020). The microeconomics of
+cryptocurrency. NBER Working Paper Series,
+N0; 27477
+Irina, C. (2018). Cryptocurrencies Legal Regulation.
+BRICS Law Journal, 5(2), 128–153.
+Joseph, T. E. (2020). How to improve mobile money
+adoption and usage by Nigerians in the era of
+covid-19. International Journal of Finance,
+Insurance and Risk Management, X(3), 31-52
+Kristoufek, L. (2015). What Are the Main Drivers of the
+Bitcoin Price? Evidence from Wavelet
+Coherence Analysis. PLoS ONE, 10(4):
+e0123923.
+doi:10.1371/journal.pone.0123923
+Majumder, A., Routh, M. and Singha, D. (2019). A
+Conceptual Study on the Emergence of
+
+Page|10
+
+Cryptocurrency Economy and Its Nexus with
+Terrorism Financing., Das, R.C. (Ed.) The
+Impact of Global Terrorism on Economic and
+Political Development, Emerald Publishing
+Limited,
+Bingley,
+pp.
+125-138.
+https://doi.org/10.1108/978-1-78769-919920191012
+Peters, I., Yaaba, B. N., Adetoba, O. O., Tomologu, E.
+A., Tonuchi, E. J (2020). How Effective is
+Monetary Policy in the Presence of High
+Informality in Nigeria. Journal of Accounting,
+Business and Finance Research, 10(2), 8493
+Polasik, M., Piotrowska, A., Wisniewski, T.P.,
+Kotkowski, R., and Lightfoot, G. (2015). Price
+Fluctuations and the Use of Bitcoin: An
+Empirical Inquiry. International Journal of
+Electronic Commerce, 20(1), 9-49
+Poyser, O. (2017). Exploring the determinants of
+Bitcoin’s price: an application of Bayesian
+Structural Time Series. Dissertation.
+Sun, W., Dedahanov, A. T., Shin, H. Y., Kim, K. S.
+(2020). Switching intention to crypto-currency
+market:
+Factors
+predisposing
+some
+individuals to risky investment. PLoS ONE
+15(6):
+e0234155.
+https://doi.org/10.1371/journal.pone.0234155
+Thompson, N. (2020). Herd behaviour in
+cryptocurrency markets, in 31st Australasian
+Conference on Information Systems, Dec 1-4
+2020. Wellington, New Zealand: ACIS.
+Urquhart, A. (2018). What causes the attention of
+bitcoin? Economics Letters, 166 (1), p. 40–
+44.
+Yaser, S. and Seyedjavad, S. (2019). Consumerbased modeling and ranking of the
+consumption factors of cryptocurrencies.
+Physica
+A,
+528
+(1),
+1-9.
+Doi:
+https://doi.org/10.1016/j.physa.2019.121263
+Yilmaz, N. K., Hazar, H. (2018). Determining the
+factors affecting investors’ decision-making
+process in cryptocurrency investments.
+PressAcademia Procedia (PAP), 8(1), .5-8
+Zhu, P., Zhang, X., Wu, Y., Zheng, H., Zhang, Y.
+(2021). Investor attention and cryptocurrency:
+Evidence from the Bitcoin market. PLoS
+ONE,
+16(2),
+e0246331.
+https://doi.org/10.1371/journal.pone.0246331
+
+10
+DOI:10.53790/aemr.v2i2.34
+
+Joseph et al, 2022
+
+

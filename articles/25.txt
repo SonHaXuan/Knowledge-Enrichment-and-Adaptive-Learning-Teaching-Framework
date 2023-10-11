@@ -1,0 +1,1730 @@
+1158773
+
+research-article2023
+
+JHTXXX10.1177/10963480231158773Journal of Hospitality & Tourism ResearchKim et al.
+
+Special Issue: Impacts of Future Technology on Hospitality and Tourism
+
+Does Central Bank Digital Currency
+(CBDC) Payment Create The
+Opportunity For the Tourism Industry?
+
+Journal of Hospitality & Tourism Research
+﻿1­–17
+© The Author(s) 2023
+Article reuse guidelines:
+sagepub.com/journals-permissions
+https://doi.org/10.1177/10963480231158773
+DOI: 10.1177/10963480231158773
+journals.sagepub.com/home/jtr
+
+Jinkyung Jenny Kim1 , Seongseop (Sam) Kim2 , Tadesse Bekele Hailu2,
+Hyungseo Bobby Ryu3 and Heesup Han4
+1
+
+College of Hotel and Tourism Management, Youngsan University, Haeundae-gu, Busan, South Korea; 2School of Hotel & Tourism Management,
+The Hong Kong Polytechnic University, Kowloon, Hong Kong SAR; 3Foodservice & Culinary arts, College of Health Sciences, Kyungnam University,
+Changwon-si, Gyeongsangnam-do, Republic of Korea; 4College of Hospitality and Tourism Management, Sejong University, Gwanjin-Gu, Seoul Korea
+
+Abstract
+This research investigated perceived risks associated with central bank digital currency (CBDC) payment innovations
+and their effect on travelers’ adoption behavior, considering personal and product characteristics. This quantitative
+study determined that perceived risks, including financial, performance, privacy, psychological, and time risks, have an
+adverse effect on attitudes toward CBDC payment, which, in turn, affects the intention to adopt. In addition, this study
+underlined the moderating roles of consumer innovativeness, previous experience, structural assurance, and media
+encouragement in the link between perceived risk and attitude. The results advanced the understanding of travelers’
+intention to use CBDC to pay for tourism products and services.
+Keywords
+central bank digital currency (CBDC), perceived risk, attitude, consumer innovativeness, previous experience, structural
+assurance, media encouragement
+
+Introduction
+A central bank digital currency (CBDC) is predicted to be a
+paradigm-shifting medium in the global financial system
+(Wang & Gao, 2021). Approximately 110 countries in the
+world are at some stage of CBDC development (Okuwoga,
+2021), and central banks are considering issuing CBDC
+instead of using cash and making it competitive against other
+means of transaction, such as cryptocurrency (Gross et al.,
+2021). The major benefits of using CBDC include safety,
+speed, stability and reliability, and ease of use (Bindseil,
+2019; Radic et al., 2022). Shkliar (2020) found that favorable
+factors for the implementation of CBDC include more efficient retail payments, improved financial stability, strengthened the effectiveness of monetary policy, and reduced cash
+payments. The role of CBDC payments is substantial in the
+tourism industry, which involves significant numbers of individual cross-border online payments (Radic et al., 2022).
+Innovations are generally welcomed as they can add additional value. The acceptance of new products and services is
+commonly stimulated by various factors. Some are related to
+
+the individual themselves, and others involve product-related
+forces. Individuals’ decision-making on whether they will
+embrace novel offerings or not is affected by their own characteristics, which include personality traits, knowledge level,
+and involvement (Han et al., 2019; Straub, 2009).
+In the domain of technology acceptance, consumer innovativeness and previous experience have been frequently validated as influencing factors; people with a greater degree of
+innovativeness and with relevant experience are more likely to
+exhibit approach behavior (Aldás-Manzano et al., 2009; Kaur
+& Arora, 2020; Z. Zhang & Hou, 2017). People also commonly rely on the characteristics of the product itself, which
+include relative advantage and reputation during the introduction of novel offerings (Choe et al., 2021; Zolkepli &
+Kamarulzaman, 2015). Specifically, additional value associated with a new product, such as structural assurance, and
+external sources of product evaluation, such as media encouragement, play an essential role in consumers’ acceptance decisions (Filotto et al., 2021; Zolait & Sulaiman, 2009).
+However, people may also perceive risks associated with
+innovative offerings (Han et al., 2019). The current body of
+
+Corresponding Author: Heesup Han, PhD, Professor, College of Hospitality and Tourism Management, Sejong University, 98 Gunja-Dong,
+Gwanjin-Gu, 143-747, Seoul, Korea. E-mail: heesup.han@gmail.com
+
+2
+literature on payment innovation illustrates the ongoing interest
+in using the concept of perceived risks to predict negative
+responses, such as hesitation and resistance (Chauhan et al.,
+2019; Wu et al., 2022). Perceived risk is defined as the diverse
+probable and potential losses that consumers perceive pertaining to purchase choice of a product or service (Jacoby & Kaplan,
+1972). In the online shopping context, Forsythe and Shi (2003)
+described perceived risk as consumers’ subjective expectation
+about loss: an inner experience, by individuals, which cannot be
+observed directly. According to Bauer (1960), perceived risk is
+a multidimensional construct, which encompasses financial,
+performance, privacy, psychological, and time risks. The theory
+of perceived risk helps to explain consumers’ avoidance behavior and the significance of each facet of perceived risk in forming consumer behavior (Ariffin et al., 2018; Choe et al., 2021).
+This study focused on customers’ responses to CBDC payment in the tourism field. A thorough literature review indicated several research gaps. First, there has been an increasing
+number of studies on customers’ responses to mobile payment in the tourism literature (Han et al., 2021; S. Park &
+Tussyadiah, 2017; Quan et al., 2023). Recently, CBDC payment has been recognized as a payment tool for cross-border
+and person-to-person transactions worldwide, such as remittances and international e-commerce (Auer & Böhme, 2020;
+Gross et al., 2021; World Bank, 2021). However, very few
+studies are available concerning customers’ intention to adopt
+CBDC payments in the tourism sector because this payment
+system is so new (J. J. Kim et al., 2022; Radic et al., 2022).
+Second, it has been found that various perceived risks
+have an adverse effect on people’s attitudes toward technological innovations, which in turn affects the intention to
+adopt (Han et al., 2019; Hwang, Kim, Kim, et al., 2021).
+However, the effect of risk perceptions associated with digital forms of money—in this case CBDC payments—on attitude has not been actively explored because CBDC payment
+is an emergent issue in the international tourism context.
+Third, previous studies pertaining to CBDC payment
+innovations have not dealt with the impacts of personal and
+product characteristics in understanding tourists’ adoption
+intentions. Therefore, the present study analyzes the moderating effects of personal and product characteristics in a
+model incorporating consumer innovativeness, previous
+experiences, structural assurance, and media encouragement.
+These diverse factors have not been used in previous studies
+in the context of tourism and hospitality.
+To reduce the research gaps, the rationale for this research
+was to develop theoretical insights by exploring barriers and
+providing empirical evidence of the impact of perceived
+risks in the formation of consumer adoption behavior toward
+CBDC payments. In summary, the current study was
+designed to investigate the way forward in removing barriers, from a customer’s perspective, to the uptake of CBDC
+payment innovations in the tourism industry. The study
+examines the multidimensional perceived risks associated
+with CBDC payment and their role in shaping attitude, which
+in turn affects willingness to adopt CBDC payment systems.
+
+Journal of Hospitality & Tourism Research 00(0)
+In addition, the roles of personal characteristics and product
+characteristics are considered in the relationship between
+perceived risk and attitude toward CBDC payment.
+The current research had the following four objectives: (1)
+to explore the effects of multi-dimensional perceived risks
+(i.e., financial, performance, privacy, psychological, and time
+risks) on tourists’ attitudes toward CBDC payment; (2) to
+evaluate the relationship between tourists’ attitude and their
+intention to adopt CBDC payment; (3) to assess the moderating role of personal characteristics in the link between perceived risk and travelers’ attitude toward CBDC payment;
+and (4) to identify the moderating effect of product characteristics in the link between perceived risk and tourists’ attitudes
+toward CBDC payment systems. The findings lead to possible recommendations with regard to the implementation of
+CBDC payment innovations in the tourism industry.
+
+Literature Review
+Central Bank Digital Currency (CBDC) Payment
+and Perceived Risk
+Since money represents value, it is used as an essential means
+of transaction and functions as an economic system (Kydland,
+1989). In human history, transactions began with barter, that
+is, the exchange of goods or services for other goods or services, such as food, gold, silver, copper, or paper notes.
+Financial transactions have now developed to involve electronic and digital systems such as online debit/credit card
+payment, electronic cash or checks, and internet banking
+(Davies et al., 2010; Peluso, 2021). The use of the internet has
+accelerated extensions to financial systems, for example, the
+replacement of money with virtual currency, and other transaction products such as cryptocurrency and stablecoins (Shen
+& Hou, 2021). Finally, the most pervasive currency, known as
+Central Bank Digital Currency (CBDC), has been realized.
+The use of these payment systems has been slowly increasing in developing countries and has become the foundation of
+futuristic financial transactions (Ligon et al., 2019). The preference for the fast transfer of emergency payments during
+COVID-19 has increased the demand for digital payment
+methods (Rennie & Steele, 2021). However, research in India
+found that the adoption level of digital payment systems is still
+low due to various factors, particularly demand-side factors,
+which include increasing tax liability records of mobile payments and customers’ low trust levels for digital payments
+(Ligon et al., 2019).
+Very recently, the World Bank and the International
+Monetary Fund (IMF) have considered implementing the
+direct exchange of CBDC (BIS et al., 2021). In a situation in
+which governments are debating the adoption of CBDC due to
+the complexity of the system (He et al., 2022), China has a keen
+interest in international governance of the CBDC payment system because its popularity could be used to forestall the preemptive position of the U.S. dollar as a world currency (Wang,
+2022). However, the adoption of the system can be influenced
+
+Kim et al.
+by numerous factors, such as transparency of transactions, protection of privacy, domestic political situations, legal and regulatory support, and customers’ trust in the economic system.
+As a theoretical foundation, the current study focuses on
+customers’ perceived risk associated with tourists’ intention to
+adopt CBDC. The customer’s expectation of loss or a mismatch between the expected and actually purchased product/
+service is an axis of perceived risk theory (Bauer, 1960;
+Mitchell, 1992, 1999). This theory has attracted the attention of
+researchers and marketing practitioners for its versatility and
+applicability in different research contexts. The vital concept of
+this theory is that a consumer’s primary goal is to minimize
+anticipated risks rather than to maximize the expected utility
+from purchased services/products (Chang & Chen, 2014). In
+the context of electronic payment systems, the psychological
+risk dimension occurs when a specific payment method induces
+psychological anxiety or irritation (Ho & Ng, 1994). It also
+occurs when customers perceive when purchasing that they did
+not really want an item or made the wrong purchase. Ariffin
+et al. (2018) found that psychological risk significantly and
+negatively influenced consumers’ online purchase intention
+because consumers are concerned about security risks.
+Based on perceived risk theory, this study uses the perceived risk dimensions proposed by Littler and Melanthiou
+(2006) in the internet banking context. This study considers
+perceived risk to involve financial, performance, privacy,
+social, time, and psychological risks and examines their
+influences on customers’ attitudes toward CBDC payment.
+In a CBDC transaction situation, the concept of perceived
+risk is essential in analyzing consumer behavior, which is
+affected by concerns relating to undesirable consequences,
+primarily in online transaction situations (Bindseil, 2019;
+Koziuk & Ivashuk, 2022; Okuwoga, 2021).
+
+Relationship Between Perceived Risk and Attitude
+Toward CBDC Payment
+Internet banking institutions require stricter security compared to other industries since financial services deal with
+personal and financial risk issues (Baker et al., 2011). Ho and
+Ng (1994) conceptualized five perceived risk dimensions
+pertinent to electronic payment systems: performance, time
+loss, psychological, physical, and financial. Since financial
+risk refers to consumers’ concerns about the security of internet banking transactions, it is a suitable variable with which
+to examine consumers’ attitudes to the CBDC payment system (Roy et al., 2017).
+S. Park and Tussyadiah (2017) developed a multidimensional instrument for assessing perceived risk in the mobile
+travel booking context, in which the dimensions of perceived
+risk included performance, time, privacy/security, financial,
+physical, psychological, and device risks. Lee (2009), in contrast, studied the perceived risk of internet banking adoption
+and divided the perceived risk dimensions into time, performance, financial, social, and security risks. Five dimensions
+of risk were used by Shuhidan et al. (2017) in the mobile
+
+3
+banking context. According to Zhao et al. (2008), in Chinese
+internet banking services adoption, only four perceived risk
+dimensions, including privacy, security, finance, and performance risks, were considered. In the context of retail banking
+services, other researchers have assumed that perceived risk
+encompasses financial, performance, time, psychological,
+and security risks (Featherman & Pavlou, 2003; Littler &
+Melanthiou, 2006). In general, the number and types of
+dimensions may vary based on the context of risk occurrences. For example, Han et al. (2019) dealt with the perceived risk associated with electric airplanes, encompassing
+performance risk, physical risk, psychological risk, and financial risk. Choe et al. (2021) found that performance risk and
+psychological risk constituted the perceived risk relating to
+drone-based delivery services in terms of evaluating the
+image of such services. The existing literature implies that the
+significance of each facet of perceived risk differs depending
+on the field. This indicates that examining the multidimensional perceived risk in CBDC payment is a necessity.
+This study adopted a multidimensional structure for perceived risk in the context of CBDC payments that tourists
+may use during travel. The first risk dimension, financial risk
+in internet banking, is involved with concerns about financial
+loss as a result of providing wrong specifications for account
+numbers, legal issues triggered by a user’s incorrect transfer,
+exposure of personal account details, and scamming
+(Hanafizadeh & Khedmatgozar, 2012). Radic et al. (2022)
+noted that customers’ use of CBDC requires the removal of
+perceived potential financial risks. Tong and Jiayou (2021)
+elaborated that CBDC is vulnerable to financial risks related
+to nonbank financial intermediation and issuance of currency. The negative relationship between perceived financial
+risk and attitude toward internet banking systems is supported by previous studies (Hong et al., 2016; Zou, 2021).
+Therefore, perceived financial risk-generating factors can
+increase negative views about using CBDC payments.
+As the second dimension, performance risk can occur when
+a specific payment is inadequate to complete a transaction
+because of additional charges, failure to access an account, or
+rejection by the bank (Ariffin et al., 2018; Ho & Ng, 1994). In
+the context of internet banking, performance risk relates to
+inefficient internet banking transaction processes (Roy et al.,
+2017). As addressed by Hanafizadeh and Khedmatgozar
+(2012), the efficiency of internet banking is determined by factors including inefficient access and internet operation, and
+low performance of internet banking compared to its advertised capabilities. Wu et al. (2022) empirically investigated
+consumers’ intention to adopt digital currency electronic payment in China and found that perceived risk significantly and
+negatively influenced consumers’ intention to use digital currency. Interestingly, national identity and sense of belongingness were found to be significant moderators of the relationship
+between perceived risk and usage intention. Likewise,
+Chauhan et al. (2019) found that perceived security risk significantly and negatively determined consumers’ intention to
+adopt digital payment methods in internet banking.
+
+4
+
+Journal of Hospitality & Tourism Research 00(0)
+
+As the third dimension, privacy in the internet banking
+security context refers to customers’ confidentiality and their
+ability to offer the right personal information at the required
+time (Ouaddah et al., 2016). Accordingly, the privacy risk in
+online banking or transactions arises from the disclosure of
+consumers’ personal information during internet banking,
+and at the time of providing private data to internet banking
+facilities, and misuse of these private data by the bank
+(Hanafizadeh & Khedmatgozar, 2012; Roy et al., 2017). The
+protection of privacy is more complex in the case of digital
+currency because it requires commitment from agents to
+secure customers’ privacy or anonymity (Koziuk & Ivashuk,
+2022). Rennie and Steele (2021) defined four types of privacy risks pertinent to CBDC models, including loss of anonymity, loss of liberty, loss of individual control, and loss of
+regulatory control. Similarly, Tronnier and Biker (2022)
+noted that privacy concerns stem from customers’ past experiences, demographic characteristics, awareness about privacy practices, lack of trust, and personal beliefs.
+Finally, the time risk dimension refers to consumers’ perception of the probability of wasted time, effort, and convenience when a product is wrongly purchased, mended, or
+replaced (Ko et al., 2004; Masoud, 2013). Considering internet
+banking services, Hanafizadeh and Khedmatgozar (2012)
+described time risk as the consumer’s perception of the time
+spent learning how to use internet banking, solving the problems relevant to internet banking, and implementing transactions in internet banking. Ariffin et al. (2018) found that time
+risk was a significant predictor of consumers’ intention to use
+online purchasing. Hanafizadeh and Khedmatgozar (2012)
+identified time risk as the mediating variable in the relationship
+between the consumer’s internet banking awareness and their
+intention to adopt internet banking. In a similar vein, Husain’s
+(2011) study noted that perceived risk related to time loss may
+be higher for internet banking services. To the best of our
+knowledge, there is no research that has examined the effects of
+perceived risk on tourists’ attitudes toward CBDC payment. To
+answer this question, the following hypothesis was postulated:
+H1: The five dimensions of perceived risk negatively
+affect attitude toward CBDC payment.
+
+Relationship Between Attitude Toward CBDC
+Payment and Intention to Adopt CBDC Payment
+A number of prior studies have widely applied the technology acceptance model (TAM) in diverse technology contexts, including online shopping (Ghani et al., 2022;
+Kesharwani and Bisht, 2012; Rose & Fogarty, 2006), smartphones (Özbek et al., 2014), and robotics (Go et al., 2020;
+Lee et al., 2018). This model was adopted to assess perceived
+ease of use, perceived usefulness, and behavioral intention to
+use. For instance, based on the TAM, Kesharwani and Bisht
+(2012) showed that perceived risk negatively influences the
+consumers’ intention to adopt internet banking. Lee et al.
+(2018) also revealed that attitude toward robot technology
+
+positively affected the technology acceptance of the users
+with perceived usefulness, while perceived ease of use positively influenced perceived usefulness and attitude toward
+robot technology. However, the TAM has not been widely
+tested in the context of CBDC payment.
+Recently, fintech has enhanced the convergence of CBDC
+with the global financial network (GFN) and contributed to
+alleviating strict regulations on financial sectors that hinder
+internetization (Wang & Gao, 2021). Some studies (Boar
+et al., 2020; Shkliar, 2020) have asserted that since the central
+banks are keen on blockchain technology and cryptocurrency,
+CBDC payment systems will gain popularity in tourism and
+hospitality businesses. The relationship between attitude
+toward a certain technology and behavioral intention has been
+found to be positive when using online travel agencies (Ponte
+et al., 2015), online banking (Kaur & Arora, 2020; Martins
+et al., 2014), and mobile banking (G. Kim et al., 2009).
+Furthermore, Zhu et al.’s (2012) findings indicated that
+consumers’ attitude toward online games has a positive correlation with their intention to use computer games on the
+internet. With regard to smartphone chatbot adoption for
+shopping, the intention to use the technology was influenced
+by customers’ attitudes toward chatbots (Kasilingam, 2020).
+Similarly, a study that focused on the use of mobile devices
+for private clubs showed that attitude influenced the intentions of club members to adopt a mobile device (Morosan &
+DeFranco, 2014). Scholars have repeatedly found significant
+relationships between attitude and behavioral intentions
+toward technological innovations in the hospitality and tourism sectors (Han et al., 2019; Hwang, Kim, Kim, et al.,
+2021). Therefore, those who have a favorable attitude toward
+CBDC payment will demonstrate a high level of intention to
+adopt CBDC payments. On this basis, the following hypothesis was proposed:
+H2: Attitude toward CBDC payment positively affects
+intention to adopt CBDC payment.
+
+Moderating Effects
+The present study identified other factors and tested their
+moderating role in the adoption of the CBDC payment system. The factors used in this study are related to consumers’
+personal characteristics (innovativeness and previous experience) and product characteristics (structural assurance and
+media encouragement). The present study investigated the
+effects of these characteristics on the relationship between
+perceived risk and attitude toward the use of central banking
+digital currencies, because consumers’ purchasing of new
+products is influenced by both internal factors (personal
+attributes) and external factors (product-related factors;
+Turkyilmaz et al., 2015). Considering the circumstances or
+situations in which the individuals or products exist helps
+with understanding the potential buying behavior of consumers in CBDC transactions (Peluso, 2021; Radic et al., 2022;
+Shkliar, 2020).
+
+Kim et al.
+
+Moderating Role of Personal Characteristics
+(Consumer Innovativeness and Previous
+Experience)
+Individual innovativeness has been defined as an individual’s propensity to accommodate new knowledge and make
+an independent decision without others’ influence (Midgley
+& Dowling, 1978; F. Zhang et al., 2020). Jeong et al. (2017)
+found that consumer innovativeness influenced consumers’
+perceived novelty regarding wearable technologies. Z. Zhang
+and Hou (2017) found that innate consumer innovativeness
+moderated the relationship between perceived risk and intention to purchase innovative products. Consumer innovativeness was also considered a pervasive factor, which moderated
+the relationship between the antecedents for using mobile
+commerce and consumers’ intention to use mobile commerce
+technology (Anwar et al., 2021). Hirunyawipada and Paswan
+(2006) noted that consumer innovativeness strengthened
+intentions to use new products, and Aldás-Manzano et al.
+(2009) found that consumer innovativeness was a major predictor of intention to adopt electronic banking. These results
+help to promote the positive role of consumer innovativeness
+in dealing with perceived risks (privacy, security, social,
+time, performance risks). Chauhan et al. (2019) also showed
+that consumer innovativeness significantly and positively
+influenced the intention to adopt internet banking services.
+CBDC, as a cashless transaction, influences unbanked
+consumers’ involvement in finance systems (Seth, 2022).
+Those who aspire to adopt this novel technology are likely to
+reveal positive attitudes toward it, even though they perceive
+diverse risks stemming from using that technology. Hence,
+the following hypothesis was posited:
+H3: Consumer innovativeness significantly moderates the
+impact of perceived risk on attitude toward CBDC
+payment.
+Another underpinning variable that may help to allay the
+effects of perceived risk is past experience. According to
+Kaur and Arora (2020), past experience was conducive to
+fostering customers’ ability to decide independently, while
+those who did not have past experience demanded approval
+or support from others in order to decide. Taylor and Todd
+(1995) empirically confirmed that there is a strong relationship between the intention to adopt technology and past
+experience. Similarly, John (2013) confirmed that an individual’s past experience had a positive effect on self-efficacy
+and intention to use social networking programs. Straub’s
+(2009) findings indicated that personal characteristics such
+as age, gender, and prior experience influenced technology
+adoption. Lu et al. (2011) also found that customers’ previous experience with internet payment technology positively
+affected their perceptions of payment services.
+Kaur and Arora (2020) established that prior experience
+was a moderator between perceived risk in using online
+banking and consumers’ intention to adopt internet banking.
+
+5
+In exploring consumers’ intention to use mobile technology,
+trust and previous experience with internet use moderated
+the relationship between perceptions of utilitarian and
+hedonic values in mobile technology and their intention to
+adopt the technologies (J. Park and Yang, 2006). Previous
+experience is thus likely to act as a moderator in the relationship between perceived risks and attitude toward CBDC payment. As a result, the following hypothesis was postulated to
+test the relationship between the related variables:
+H4: Previous experience significantly moderates the impact
+of perceived risk on attitude toward CBDC payment.
+
+Moderating Role of Product Characteristics
+(Structural Assurance and Media
+Encouragement)
+McKnight et al. (2002) indicated that trust enables consumers to reduce perceived risk and insecurity. In an initial trust
+formation stage, institutional-based trust nurtures an individual’s feeling of security through safety nets and guarantees or other conditions (McKnight et al., 1998; Shapiro,
+1987; Zui et al., 2022). As conceptualized by McKnight et al.
+(1998), institution-based trust has two dimensions: structural
+assurance belief and situational normality belief. Structural
+assurance refers to a belief that regulations, promises, guarantees, and contracts lead to success (Shapiro, 1987; Zucker,
+1986). Filotto et al. (2021) found that structural assurance
+played a decisive role in whether customers adopted online
+banking. G. Kim et al. (2009) also observed that structural
+assurance significantly influenced customers’ trust in and
+favorability toward mobile banking. Zhou (2011) noted that
+structural assurance helped customers be more confident in
+their mobile banking payments and strengthened trust in the
+system. In summary, structural assurance is likely to serve a
+moderating role in the relationship between consumers’ perceived risk and attitudes toward CBDC payment. Consequently,
+the following hypothesis was proposed:
+H5: Structural assurance significantly moderates the
+impact of perceived risk on attitude toward CBDC
+payment.
+Those who initially adopt a technology tend to display
+confidence in seeking new technology and avoid perceived
+risk by seeking interpersonal communication channels, participating in social events, and acquiring information
+(Rogers, 1995). Zolait and Sulaiman (2009) found that word
+of mouth and exposure to mass media had a significant effect
+on Yemeni consumers’ acceptance of internet banking,
+because mass media coverage helped in allaying consumers’
+perceived risks. Likewise, YenYuen and Yeow (2008) found
+that there was a positive relationship between mass media
+opinion and consumers’ adoption of internet banking, with
+customers noting that mass media helped enhance the credibility of the system and alleviate perceived risk. Recently,
+
+6
+
+Journal of Hospitality & Tourism Research 00(0)
+
+Radic et al. (2022) ascertained that mass media contributed
+to creating positive attitudes in tourists to the adoption of
+digital currencies, because consumers believed that the content in mass media helped enhance the comprehensiveness of
+digital currencies and dissipate distrust.
+However, there is no study that has empirically explored the
+moderating role of media encouragement in predicting the relationship between perceived risks and attitude toward CBDC
+payment. Thus, the following hypothesis was proposed:
+H6: Media encouragement significantly moderates the
+impact of perceived risk on attitude toward CBDC
+payment.
+A conceptual framework including relevant constructs
+and hypotheses was developed as shown in Figure 1.
+Perceived risk was conceptualized as encompassing five
+domains. It was hypothesized that the perceived risk affects
+attitude toward CBDC payment, which determines the
+intention to adopt CBDC payment. Four moderating variables are situated between perceived risk and attitude
+toward CBDC payment.
+
+Methodology
+Measurement Development
+The measurements for all study variables were adapted from
+previous studies and were adjusted to the context of CBDC
+payment innovation. The measurement items for multidimensional perceived risk were developed from previous
+studies (Chen, 2013; Choe et al., 2021; Han et al., 2019;
+Martins et al., 2014). Each of the three items for the varieties
+of perceived risk was measured using a 7-point Likert scale
+ranging from strongly disagree (1) to strongly agree (7). To
+adopt Han et al.’s (2020) study, we used four measurements
+for attitude with bipolar semantic-differential scales (i.e.,
+“Negative” [1]–“Positive” [7]). Another four measurements
+using a Likert-type scale were devised based on the studies
+conducted by Ajzen (1991) and M. Kim (2021) in order to
+assess the intention to adopt CBDC payment.
+In addition, measurement items for moderating variables,
+which were consumer innovativeness, structural assurance,
+and media encouragement, were established based on a
+7-point Likert scale. The four questionnaires were developed
+to assess consumers’ general innovativeness on the basis of
+earlier studies (e.g., Goldsmith & Hofacker, 1991; Hwang,
+Kim, & Lee, 2021; Z. Zhang & Hou, 2017). The survey
+included questions related to the extent to which respondents
+tended to accept novel offerings sooner than other people
+and the degree to which they were willing to adopt new products and services. With regard to structural assurance, we
+created the following four items according to Delgosha and
+Hajiheydari’s (2021) study: (1) “I would feel okay using
+CBDC because it is backed up by a monetary authority (central bank)”; (2) “Monetary stability would make me feel all
+
+right about using CBDC”; (3) “Favorable-to-consumer centralized structures would help me feel safe using CBDC”;
+and (4) “Having the backing of a central bank would make
+me feel secure in using CBDC.” Also, we developed two
+items for media encouragement from Juschten et al.’s (2019)
+study. These items were formulated to estimate how individuals perceive media coverage in promoting a positive image
+of CBDC payment and how they are motivated to use CBDC
+by such media coverage. To assess previous experience, we
+used a nominal scale (Yes or No) to answer the question,
+“Have you ever held cryptocurrency or virtual currency and
+used these for buying products/services?” Overall, we used
+various scales in order to estimate study constructs, which
+helped reduce common method bias.
+
+Survey Design
+The survey was structured as follows. The first section contained the purpose of the study and the screening questions.
+Two questions were used to restrict the survey to participants
+who were aware of the emergence of CBDC and who had
+often purchased products/services relating to the tourism
+industry. Participants were asked to answer yes or no to the
+question of whether they had heard about central bank digital
+currency, and those who answered yes were eligible to participate in the survey. Also, they were asked to indicate the
+frequency of purchasing tourism products based on the question “How often do you consume tourism products (e.g.,
+hotel, tourism package purchase, airline, cruise, car rental)
+on average?” and only those who confirmed frequent buying
+experiences were permitted to complete the survey. The second part of the survey began with detailed information about
+CBDC, which also emphasized its legal tender status as
+declared by the government. Thus, participants became more
+knowledgeable about the subject and understood how it is
+distinguished from cryptocurrency. Multiple questions then
+followed in order to assess the multidimensional perceived
+risks associated with CBDC payments. Also, participants
+were asked to respond to questions that had been developed
+to measure attitudes toward CBDC payment, intention to
+adopt CBDC payment, and four moderating constructs. The
+last section included questions to identify the demographic
+characteristics of the survey participants.
+The survey was initially developed in English and subsequently translated into Chinese and Korean. We then hired
+multiple academics who were native Korean and Chinese
+speakers and asked them to review the questionnaire document to ensure there were no grammatical errors. We also
+invited scholars in tourism departments and frequent international travelers to complete a pretest of the survey, and the
+questions were fine-tuned to improve clarity.
+
+Data Collection
+PwC (2021) listed the most mature countries with respect to
+retail CBDC, and both mainland China and Korea were
+
+Kim et al.
+
+7
+
+Figure 1. Proposed theoretical model.
+
+ranked in the top 10. These two countries are also known as
+innovative nations, which implies that people living in these
+countries have significant knowledge of payment innovations. Thus, Chinese and South Koreans were determined to
+be suitable survey targets, and we arranged online data collection with help from research companies in these respective countries. Both companies are known to have a
+substantial number of panels, and they use several tools, such
+as an incentive program, in order to obtain genuine responses
+from participants. The survey yielded a total of 820 responses,
+which included data from 397 Chinese and 423 Koreans,
+over 3 weeks in September 2021. Of these, we identified 25
+multivariate outliers using the Mahalanobis distance, which
+is known as a useful multivariate distance metric. As a result,
+795 responses were retained and used for the data analysis.
+
+Analytical Technique
+Following a two-step approach (Anderson & Gerbing, 1988),
+the measurement model was initially assessed using confirmatory factor analysis (CFA), and then the research hypotheses were examined using structural equation modeling
+(SEM). A metric invariance test allows researchers to substantiate multigroup comparisons of factor variances and
+covariances, and it is often adopted to determine the difference or similarity across groups. For example, Han et al.
+(2021) divided airline travelers into a high-perceived-risk
+group and a low-perceived-risk group and conducted a metric
+invariance test in order to examine the moderating effect of
+perceived risks on eco-friendly technology product acceptance behaviors. Hwang, Kim, Kim, et al. (2021) used a metric invariance test to assess the different degrees of effect of
+attitude on behavioral intentions across low versus high levels
+
+of product involvement in the robotic restaurant context.
+Therefore, a metric invariance test, along with a chi-squared
+test, was used to identify the moderating effect of personal
+characteristics (i.e., consumer innovativeness and previous
+experience) and product characteristics (i.e., structural assurance and media encouragement) in the relationship between
+perceived risk and attitude toward CBDC payment. The analyses were conducted using SPSS 25.0 and AMOS 23.0.
+
+Results
+Profiles of Survey Respondents
+First, this study performed frequency analysis to understand
+respondents’ profiles. The respondents’ demographic characteristics are as follows. The total sample of 795 comprised
+414 Koreans and 381 Chinese. These respondents were
+divided almost equally between males and females: 49.9%
+(N = 397) males and 50.1% (N = 398) females. Their average
+age was 37.3 years. With regard to their educational background, 51.1% had graduated from a 4-year university, and
+21.3% had finished graduate school. In total, 21.0% reported
+that their income was between 55,000 and 69,999 U.S. dollars per year, 18.4% indicated between 25,000 and 39,999
+U.S. dollars, and 17.9% indicated between 70,000 and
+84,999 U.S. dollars. With regard to the frequency of purchasing tourism products, 35.1% indicated that they usually
+bought products two to three times a year, and 23.5% reported
+four to five purchases a year.
+
+Measurement Model
+The validity of the measurement model was determined using
+CFA. The results showed an appropriate fit to the current
+
+8
+
+Journal of Hospitality & Tourism Research 00(0)
+
+Table 1. Results of Confirmatory Factor Analysis: Items and Loadings.
+Construct and Scale Item
+
+Standardized Loadinga
+
+Financial risk
+CBDC payments are likely to cost more than I thought
+0.848
+I might get overcharged if I use CBDC payment.
+0.898
+The chances of losing money if I use CBDC payment are high.
+0.894
+Performance risk
+The performance of the CBDC payment might create problems with my credit.
+0.860
+CBDC payments do not seem to perform well.
+0.884
+Considering the expected level of performance of CBDC payment, it would be risky to use it.
+0.872
+Privacy risk
+Using CBDC payment may not protect my personal information (e.g., phone number, address, etc.).
+0.930
+Others may steal personal information when using CBDC payment.
+0.931
+Personal information could be exposed when using CBDC payment.
+0.929
+Psychological risk
+The usage of CBDC payment would lead me to a psychological loss.
+0.897
+Using CBDC payment would not fit in well with my self-image.
+0.866
+Using CBDC payment makes me feel nervous.
+0.900
+Time risk
+It takes time to learn how to use CBDC payment.
+0.859
+It takes time to learn the rules of CBDC payment.
+0.912
+Attitude toward CBDC payment
+For me, using CBDC payment for hospitality/tourism product purchases is. . .
+  Bad ↔ Good
+0.858
+  Foolish ↔ Wise
+0.863
+  Unpleasant ↔ Pleasant
+0.868
+  Harmful ↔ Beneficial
+0.901
+Intention to adopt CBDC payment
+I am willing to adopt CBDC payment in a hospitality/tourism consumption situation in the future.
+0.898
+I plan to adopt CBDC payment for hospitality/tourism product purchases in my daily life.
+0.903
+I intend to use CBDC payment for hospitality/tourism product purchases in the future.
+0.909
+I am willing to use CBDC as a means of payment for hospitality/tourism product purchases in the future.
+0.897
+Goodness-of-fit statistics: χ2 = 447.983, df = 186, p < .001; χ2/df = 2.409; IFI = 0.986; CFI = 0.986; TLI = 0.982; RMSEA = 0.042.
+Note. CBCD = central bank digital currency; NFI = normed fit index, IFI = incremental fit index, CFI = comparative fit index, TLI = Tucker-Lewis index, and
+RMSEA = root-mean-square error of approximation.
+a
+All factors loadings are significant at p < .001.
+
+study data: χ2 = 447.983, df = 186, p < 0.001; χ2/df = 2.409;
+incremental fit index (IFI) = 0.986; comparative fit index
+(CFI) = 0.986; Tucker-Lewis index (TLI) = 0.982; root-meansquare (RMSEA) = 0.042 (Byrne, 2001). All measurement
+items for constructs were signiﬁcantly loaded except one of
+the measurements for time risk, and we removed this specific
+item from the measurement model. As Table 1 shows, the
+standardized factor loadings for all items ranged from 0.848
+to 0.912, which were greater than the commonly suggested
+level of 0.6. The skewness and kurtosis of each measurement
+were between −0.932 and 0.294, with a standard error of
+0.087, and between −1.030 and 0.747, with a standard error of
+0.173, respectively, which lay within the acceptable ranges
+following Kline’s (2005) recommendation. Hence, the normality assumption was supported.
+According to Hair et al. (2006), convergent validity can
+be established based on each construct’s average variance
+
+extracted (AVE). AVE values were calculated, and all values
+were greater than the recommended value of 0.5. Also, we
+computed composite reliability (CR) values for each variable
+in order to assess internal consistency. The CR values range
+was between 0.733 and 0.909, which exceeded the minimum
+level of 0.70 (Hair et al., 2006), and therefore, internal reliability was established. Discriminant validity was estimated
+following Fornell and Larcker’s (1981) criterion. As Table 2
+displays, the results showed that the AVE value for each construct was greater than the square of the correlation between
+each pair of variables, except for the link between financial
+risk and performance risk. According to Bagozzi and Yi’s
+(1988) guideline, a χ2 difference test between a constrained
+model and an unconstrained model was performed for this
+exception, and the difference of χ2(1) was 76.488, which is
+far greater than 3.941 (df = 1), established discriminant
+validity.
+
+Kim et al.
+
+9
+
+Table 2. Results of Measurement Model: Correlations, AVE, CR, Mean, and SD.
+Mean (SD)
+(1) Financial risk
+(2) Performance risk
+(3) Privacy risk
+(4) Psychological risk
+(5) Time risk
+(6) Attitude toward CBDC payment
+(7) Intention to adopt CBDC payment
+
+3.952 (1.522)
+3.834 (1.478)
+4.061 (1.638)
+3.483 (1.553)
+4.012 (1.552)
+5.174 (1.167)
+5.202 (1.228)
+
+AVE
+
+(1)
+
+(2)
+
+0.562
+0.552
+0.687
+0.636
+0.669
+0.658
+0.713
+
+0.794
+0.686c
+0.527
+0.520
+0.521
+0.001
+0.003
+
+a
+
+b
+
+0.828
+0.787
+0.664
+0.638
+0.648
+0.006
+0.011
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+0.726
+0.815
+0.868
+0.576
+0.627
+0.024
+0.024
+
+0.721
+0.799
+0.759
+0.800
+0.549
+0.015
+0.037
+
+0.722
+0.805
+0.792
+0.741
+0.733
+0.018
+0.021
+
+−0.033
+−0.078
+−0.154
+−0.121
+−0.134
+0.885
+0.503
+
+−0.055
+−0.106
+−0.154
+−0.192
+−0.145
+0.709
+0.909
+
+Note. CBDC = central bank direct currency; CR = composite reliability; AVE = average variance extracted.
+a
+Composite reliabilities are along the diagonal.
+b
+Correlations are above the diagonal.
+c
+Squared correlations are below the diagonal.
+
+SEM
+This study used SEM to test the two proposed hypotheses
+(see Table 3). The goodness-of-fit statistics, χ2 = 546.859,
+df = 200, p < 0.001; χ2/df = 2.734; IFI = 0.981; CFI = 0.981;
+TLI = 0.978; RMSEA = 0.047, confirmed an acceptable level.
+The analysis results showed that perceived risk signiﬁcantly
+and negatively influenced attitude toward CBDC payment
+(β = −0.126, t = −3.346, p < 0.001). Attitude toward CBDC
+payment had a signiﬁcant and positive effect on the intention
+to adopt CBDC payment (β = 0.754, t = 23.772, p < 0.001).
+Therefore, both Hypothesis 1 and Hypothesis 2 were supported. In addition, we computed the weights of ﬁrst-order
+constructs on designated second-order constructs, and the
+results were as follows for financial risk (β = 0.891), performance risk (β = 0.984), privacy risk (β = 0.916), psychological risk (β = 0.898), and time risk (β = 0.901).
+
+Metric Invariance Test
+The moderating effect of personal characteristics, including
+consumer innovativeness and previous experience, was estimated using a metric invariance test (see Table 4). First, we
+divided the group depending on the degree of consumer
+innovativeness, using its mean value. As a result, we classified the respondents into a low level of consumer innovativeness (N = 380) and a high level of consumer
+innovativeness (N = 412). We then compared the structural
+invariance between the freely estimated model and the
+equally constrained model. The goodness-of-fit statistics of
+the baseline model were χ2 = 1202.694, df = 404, p < .001;
+χ2/df = 2.977; IFI = 0.952; CFI = 0.952; TLI = 0.945;
+RMSEA = 0.050, while the goodness-of-fit statistics of the
+nested model were χ2 = 1211.987, df = 405, p < .001;
+χ2/df = 2.993; IFI = 0.952; CFI = 0.952; TLI = 0.945;
+RMSEA = 0.050. Thus, the result showed a significantly different chi-squared value of 9.293 (Δdf = 1), p < .05, confirming Hypothesis 3. The distinct difference between the two
+groups was that perceived risk was a significant antecedent
+of attitude toward CBDC payment for the low consumer
+innovativeness group (β = −0.237, t = −4.107, p < .001),
+
+whereas it was insignificant for the high consumer innovativeness group (β = −0.078, t = −1.486, p > .05).
+With regard to the moderating role of previous experience, we divided the respondents into those who had ever
+held and used cryptocurrency or virtual currency for buying
+products/services (N = 287) and those who had never held
+them (N = 508). The goodness-of-fit statistics of the baseline
+model were χ2 = 1173.032, df = 404, p < .001; χ2/df = 2.904;
+IFI = 0.958; CFI = 0.958; TLI = 0.952; RMSEA = 0.049, confirming an acceptable level. Structural invariance comparison showed a significant difference in the chi-squared values
+at 7.450 (Δdf = 1) and p < .05. The adverse effect of perceived
+risk on attitude toward CBDC payment became severe for
+individuals without experience of holding cryptocurrency or
+virtual currency. Hence, Hypothesis 4 was supported.
+In order to determine the moderating effect of product
+characteristics, we conducted the same procedure that was
+used to identify the moderating effect of personal characteristics. We divided the group depending on how respondents
+perceived the level of structural assurance related to CBDC.
+Using the mean value, we grouped 375 responses showing a
+low level of structural assurance and 420 responses with a
+high level of structural assurance. Then, the structural invariance of the baseline model was compared with a nested
+model. The goodness-of-fit statistics of the freely estimated
+model were χ2 = 1107.780, df = 404, p < .001; χ2/df = 2.742;
+IFI = 0.960; CFI = 0.960; TLI = 0.954; RMSEA = 0.047,
+which indicated an acceptable fit to the data. The results also
+showed a significant difference in the chi-squared value
+(Δχ2(1) = 13.899, p < .001) from the equally constrained
+model. The distinct difference between the two groups was
+that perceived risk was a significant predictor of attitude
+toward CBDC payment for the low structural assurance
+group (β = −0.234, t = −4.259, p < .001), whereas it was
+insignificant for the high structural assurance group
+(β = −0.015, t = −0.293, p > .05).
+Similarly, we divided the group depending on how
+respondents perceived the level of media encouragement
+related to CBDC. We classified the respondents into a low
+level of media encouragement (N = 387) and a high level of
+
+10
+
+Journal of Hospitality & Tourism Research 00(0)
+
+Table 3. Results of Structural Model Evaluation.
+
+H1
+H2
+
+Independent Variable
+
+Dependent Variable
+
+β
+
+t-value
+
+Hypothesis Testing
+
+Perceived risk
+Attitude toward CBDC payment
+
+ Attitude toward CBDC payment
+ Intention to adopt CBDC payment
+
+−0.126
+0.754
+
+−3.346**
+23.772**
+
+Supported
+Supported
+
+Note. CBDC = central bank direct currency; goodness-of-fit statistics: χ2 = 546.859, df = 200, p < 0.001; χ2/df = 2.734; incremental fit index = 0.981;
+comparative fit index = 0.981; Tucker-Lewis index = 0.978; root-mean-square error of approximation = 0.047.
+Total variance explained (R2): R2 for attitude toward CBDC payment = 0.016, R2 for intention to adopt CBDC payment = 0.569.
+**p < .001.
+
+Table 4. Results of the Invariance t-test: Personal Characteristics.
+Low Consumer
+Innovativeness
+(n = 380)
+Linkages
+H3
+
+Perceived
+risk
+
+ Attitude toward
+CBDC payment
+
+β
+−0.237
+
+t-value
+−4.107**
+
+High Consumer
+Innovativeness
+(n = 412)
+β
+−0.078
+
+t-value
+−1.486
+
+Nested Model
+(equally
+constrained)
+
+Chi-Squared
+Difference
+
+χ2 (405) = 1211.987
+
+Δχ2 (1) = 9.293*
+
+Goodness-of-fit statistics for the baseline model: χ2 = 1202.694, df = 404, p < .001; χ2/df = 2.977; IFI = 0.952; CFI = 0.952; TLI = 0.945;
+RMSEA = 0.050.
+With Previous
+Experience (n = 287)
+Linkages
+H4
+
+Perceived
+risk
+
+ Attitude toward
+CBDC payment
+
+Without Previous
+Experience (n = 508)
+
+β
+
+t-value
+
+β
+
+t-value
+
+Nested Model
+(equally
+constrained)
+
+0.065
+
+1.021
+
+−0.180
+
+−3.857**
+
+χ2 (405) = 1180.482
+
+Chi-Squared
+Difference
+Δχ2 (1) = 7.450*
+
+Goodness-of-fit statistics for the baseline model: χ2 = 1173.032, df = 404, p < .001; χ2/df = 2.904; IFI = 0.958; CFI = 0.958; TLI = 0.952;
+RMSEA = 0.049.
+Note. CBCD = central bank digital currency; IFI = incremental fit index; CFI = comparative fit index; TLI = Tucker-Lewis index; RMSEA = root-mean-square
+error of approximation.
+*p < .05, **p < .001.
+
+media encouragement (N = 408). The goodness-of-fit statistics of the freely estimated model were χ2 = 1397.636,
+df = 404, p < .001; χ2/df = 3.459; IFI = 0.938; CFI = 0.937;
+TLI = 0.928; RMSEA = 0.056. The goodness-of-fit statistics
+of the equally constrained model were χ2 = 1405.391,
+df = 405, p < .001; χ2/df = 3.470; IFI = 0.938; CFI = 0.937;
+TLI = 0.928; RMSEA = 0.056. Thus, there was a significant
+difference (Δχ2(1) = 7.755, p < .05) between the chi-squared
+values of these two models. The negative effect of perceived
+risk on attitude was prominent for the group who perceived a
+low degree of media encouragement. Both Hypothesis 5 and
+Hypothesis 6 were accordingly supported (see Table 5).
+
+Discussion and Implications
+Discussion
+CBDC has been introduced as a likely innovation in the foreseeable future, and it is highly likely to promote diversity in
+payment options and increase financial inclusion (Auer &
+Böhme, 2020). Moreover, as economies go digital, its
+
+practical role of making cross-border and online payments
+faster and cheaper will be invaluable, and CBDC is therefore
+perhaps greatly to be welcomed. However, novel offerings
+are generally associated with various risks, which may have
+an adverse effect on adoption behavior (Chauhan et al., 2019;
+Han et al., 2019; Wu et al., 2022). To date, there have been
+few efforts to estimate consumers’ risk perceptions of CBDC
+payments from the point of view of travelers. The current
+study set out to bridge this research gap by exploring the
+effect of a multidimensional risk factor in the formation of
+consumer acceptance of CBDC payments. In addition, this
+study paid particular attention to personal characteristics and
+product characteristics linked to CBDC, which can potentially influence the relationship between perceived risk and
+attitude toward CBDC payment.
+Based on a multidimensional approach to perceived risk
+associated with CBDC payment, our study revealed that the
+most significant first-order dimension was the performance
+risk in the international tourism sector. Also, this study found
+that perceived risk greatly influenced attitudes toward CBDC
+payment. The results indicated that lower perceived risk
+
+Kim et al.
+
+11
+
+Table 5. Results of the Invariance Test: Product Characteristics.
+Low Structural
+Assurance
+(n = 375)
+β
+
+Linkages
+H5 Perceived risk
+
+ Attitude toward
+CBDC payment
+
+−0.234
+
+High Structural
+Assurance
+(n = 420)
+
+t-value
+
+β
+
+t-value
+
+−4.259**
+
+−0.015
+
+−0.293
+
+Nested Model (equally
+constrained)
+Chi-Squared Difference
+χ2 (405) = 1121.679
+
+Δχ2 (1) = 13.899**
+
+Goodness-of-fit statistics for the baseline model: χ2 = 1107.780, df = 404, p < .001; χ2/df = 2.742; IFI = 0.960; CFI = 0.960; TLI = 0.954;
+RMSEA = 0.047.
+Low Media
+Encouragement
+(n = 387)
+β
+
+Linkages
+H6 Perceived risk
+
+ Attitude toward
+CBDC payment
+
+−0.177
+
+High Media
+Encouragement
+(n = 408)
+
+t-value
+
+β
+
+t-value
+
+−3.049*
+
+−0.024
+
+−0.452
+
+Nested Model (equally
+constrained)
+Chi-Squared Difference
+χ2 (405) = 1405.391
+
+Δχ2 (1) = 7.755*
+
+Goodness-of-fit statistics for the baseline model: χ2 = 1397.636, df = 404, p < .001; χ2/df = 3.459; IFI = 0.938; CFI = 0.937; TLI = 0.928;
+RMSEA = 0.056.
+Note. CBCD = central bank digital currency; IFI = incremental fit index; CFI = comparative fit index; TLI = Tucker-Lewis index; RMSEA = root-mean-square
+error of approximation.
+*p < .05. **p < .001.
+
+would result in more favorable attitudes toward CBDC payment. This outcome can be explained on the basis of risk
+perception theory. It is also in accordance with earlier studies
+(e.g., Choe et al., 2021; Hwang, Kim, Kim, et al., 2021),
+which observed that individuals with a high-risk perception
+toward innovations tended to exhibit avoidance behavior.
+The CBDC payment system is the most recent payment system to have been developed and many people see it as a
+novel alternative to existing payment methods (Radic et al.,
+2022). There are multiple unsolved issues associated with
+CBDC, which has yet to roll out in many places (Okuwoga,
+2021). The current status of CBDC may make people feel
+unclear or uncertain about several aspects that entail risk,
+including financial, performance, privacy, psychological,
+and time aspects. A close attitude-to-behavior relationship
+was evident. That is, attitude toward CBDC payment influences the intention to adopt this specific payment innovation.
+This result resonates with extant studies that have documented the need for building a positive attitude in order to
+increase intention and engage in a specific behavior (Kaur &
+Arora, 2020; Martins et al., 2014).
+This study found a significant role the for moderating
+variables that reflect personal characteristics, namely, consumer innovativeness and previous experience. The findings
+indicated that the negative effect of perceived risk on attitude
+is strong for individuals with low innovativeness. Existing
+studies have underlined the positive role of consumer innovativeness in adoption behavior across different sectors
+(Hwang, Kim, & Lee, 2021; Jeong et al., 2017; F. Zhang
+et al., 2020). Our finding specifically echoes the prior finding that determined its role in mitigating perceived risks of
+novel payment systems (Aldás-Manzano et al., 2009).
+
+Another factor this study addressed, which could strengthen
+or weaken the link between perceived risk and attitude
+toward CBDC payment, was previous experience. The analysis showed that the negative effect of perceived risk on attitude was significant for people without previous experience.
+One possible reason for this outcome is that people who have
+ever held cryptocurrency or virtual currency may be more
+familiar with the use of digital currencies to complete transactions. This is in line with Kaur and Arora’s (2020) study
+that confirmed the moderating role of prior experience in
+building consumers’ intention to adopt internet banking.
+In addition, this study identified the positive role of
+product characteristics, in terms of structural assurance and
+media encouragement, in minimizing the negative effect of
+perceived risk on attitude. This result supports the existing
+studies (e.g., Filotto et al., 2021; Zhou, 2011) that have
+noted the positive influence of structural assurance in
+inducing consumer adoption behavior with regard to payment innovations. This implies that governance and
+accountability are important in the context of payment
+innovation. Also, it was found that the negative effect of
+perceived risk on attitude was greater for those with a low
+degree of media encouragement. Digital forms of money,
+specifically CBDC, are supposed to improve various
+aspects of current financial transactions. Despite that, customers may feel a lack of confidence in using CBDC as it
+has not yet been commercialized, and our results indicated
+that media messages related to CBDC play an essential
+role. This finding aligns with the extant literature, which
+supports the crucial role of media encouragement in forming acceptance behavior toward innovations (Radic et al.,
+2022; Zolait & Sulaiman, 2009).
+
+12
+
+Theoretical Implications
+Four major research objectives framed this study. They were
+all based on quantitative procedures and yielded the following theoretical implications. First, J. J. Kim et al. (2022),
+who used the five-stage consumer adoption model, showed
+that the proposed model predicted consumer acceptance of
+CBDC for buying products/services and revealed that consumer innovativeness moderated the relationship between
+interest and evaluation and evaluation and trial intention.
+Radic et al. (2022) also explored the effects of attitude toward
+CBDC payment, relative advantage, perceived risk, subjective norm, and perceived behavioral control on tourists’
+behavioral intention to adopt CBDC payment. Prior studies
+also did not address the multidimensionality of perceived
+risk in using CBDC. For example, while Radic et al. (2022)
+used perceived risk as one of the antecedents to the adoption
+of the CBDC payment system, they did not consider the multidimensional structure of the perceived risk. However, the
+current study conceptualized perceived risk as five components, adopting the findings of Littler and Melanthiou (2006),
+and futher tested whether perceived risk has a significant
+impact on tourists’ attitudes toward CBDC.
+Second, in line with the first implication, this study conceptualized a facet-based perceived risk, which supports the
+parsimonious second-order typology of risk perception (e.g.,
+Kaur & Arora, 2020; Martins et al., 2014; S. Park &
+Tussyadiah, 2017). Our results validated a second-order composite of perceived risk and helped to establish a better understanding of risks associated with CBDC in a readily
+comprehensible manner. In addition, it was evident that the
+significance of risk perceptions may not necessarily be the
+same for every innovation. For example, Yadav et al. (2015)
+found that perceived risks toward internet banking did not
+influence consumer behavior. The relationship between perceived risk and online purchase intention was not statistically
+supported in Ventre and Kolbe’s (2020) study. Yi et al. (2020)
+determined that risk perception related to the performance of
+the sharing economy in the tourism industry did not adversely
+affect the adoption intention. In this regard, our findings provided evidence that the perceived risk of CBDC payment
+plays a critical role in influencing consumer behavior.
+Second, there are only a few research studies that describe
+the influence of perceived risk on travelers’ attitudes toward
+CBDC payment. Therefore, it was worth investigating
+whether there is a relationship between travelers’ perceived
+risk and their attitudes toward CBDC, one of the latest digital
+payment systems. CBDC can contribute to modernizing the
+current monetary system; however, this study observed that
+people perceive risks, specifically financial, performance,
+privacy, psychological, and time risks, which in turn affect
+attitude. The role of each facet of perceived risk differs considerably between novel products/services. For example,
+physical risk is a large component of the perceived risk of
+electric airplanes (Han et al., 2019), whereas privacy and
+
+Journal of Hospitality & Tourism Research 00(0)
+security risks are more relevant in the field of mobile travel
+booking platforms (S. Park & Tussyadiah, 2017).
+Nonetheless, prior studies (e.g., Radic et al, 2022) that
+regarded perceived risk as a unidimensional construct in the
+tourism sector do not provide evidence that a specific facet
+largely accounts for a perceived risk toward CBDC. The current study fills voids left by previous research as it found that
+performance risk played a salient role in shaping the perceived risk relating to CBDC. However, financial risk had a
+minimal impact. Accordingly, it suggests the primary focus
+is performance risk, in order to reduce risk perceptions relating to CBDC payment. Furthermore, the finding of a significant association between attitude and intention supports the
+related theory proposed by Ajzen and Fishbein (1977).
+Third, this study underlines the influencing role of consumer innovativeness and previous experience in the context
+of payment innovation. Numerous studies have indicated the
+critical role of personal characteristics in consumer adoption
+behavior toward innovation. A unique contribution made by
+the present research is the finding that consumer innovativeness and previous experience moderated the relationship
+between perceived risk and attitude in the area of CBDC
+payment innovation. This study also makes a contribution to
+the current literature regarding the impact of individual characteristics on customer responses to payment innovations.
+Fourth, this study improved our understanding of the
+moderating impact of product characteristics. The importance of structural assurance cannot be overstated, and it is
+an important step toward developing more positive attitudes
+toward CBDC payment. As stated earlier, this study provided
+evidence of the negative effect of perceived risk associated
+with CBDC on attitude to the use of CBDC payment systems. This result is similar to previous payment innovations,
+such as cryptocurrency (M. Kim, 2021). However, this study
+paid extra attention to the particular difference between
+CBDC and the current cryptocurrencies available in the market. CBDC is centralized and regulated by national financial
+institutions (Bindseil, 2019; Shkliar, 2020), which should
+increase individuals’ beliefs and trust. This research was one
+of the first attempts to examine structural assurance related
+to CBDC in forming consumer behavior and showed that
+personal and product characteristics have a decisive effect on
+the link between perceived risk and attitude. Furthermore,
+this study identified the prime role of media encouragement,
+which diminishes the negative effect of perceived risk on
+attitude. This study produced empirical evidence on how
+media can contribute to the successful implementation of
+CBDC payment innovation.
+
+Practical implications
+The CBDC payment system is expected to lead to a paradigm
+shift for international financial transaction systems and it will
+improve the current GFN and facilitate the creation of a cashless society (Wang & Gao, 2021). Many parts of the world are
+
+Kim et al.
+experiencing a revival in international tourism. The growth in
+international tourism demands easy, inexpensive, and seamless cross-border payments, and the CBDC system could play
+an important role in revitalizing the tourism industry (J. J.
+Kim et al., 2022; World Bank, 2021). Therefore, this research
+tried to address issues specifically related to tourists’ adoption
+behavior toward CBDC payment.
+This study also provides important managerial suggestions for stakeholders involved in this modern payment system. First, this study has demonstrated that the CBDC
+payment system is affected by perceived risks, and the risk
+dimensions have been clearly identified. Therefore, financial
+institutions can take this into consideration, and make
+improvements in collaboration with developers of the system
+to downsize the perceived risks of transactions and build the
+confidence of customers to rely on CBDC payment systems.
+Efforts should be made to lower the performance risk related
+to CBDC payment. In order to establish that technologies
+around CBDC payment are reliable, online booking platforms in the tourism industry could, for example, introduce a
+video clip that demonstrates how travelers can use CBDC
+payment without problems.
+Second, this study showed that low consumer innovativeness (Aldás-Manzano et al., 2009) and a lack of past experience (Kaur and Arora, 2020) negatively affect customers’
+attitudes and their intention to adopt the CBDC payment system. This implies that there is a need to promote the payment
+system and increase customers’ technical skills. This can be
+done by financial institutions, and other end users such as
+tourism organizations, by producing short, free podcasts that
+create awareness and improve the technical skills of users
+such as tourists. Therefore, CBDC institutions need to provide customers with more and correct information on CBDC
+so that customers are more exposed to the payment system
+and can perceive reduced risk.
+Third, the results of this study can contribute to the
+enhanced use of CBDC payments in the travel and tourism
+industry, which is currently under high pressure as a result of
+the effects of the COVID-19 pandemic. The current study
+identified some determining factors of this contactless system, which can enhance international or border-cross travel
+(Gross et al., 2021) and reduce the risk of the pandemic
+(Rennie & Steele, 2021) through the provision of contactless
+services (Seth, 2022). The existing literature has also shown
+that CBDC is advantageous for ease of use, safety, speed,
+stability, and reliability (Bindseil, 2019; Radic et al., 2022) in
+financial transaction processes. The findings of this study
+also provide information for central banks worldwide to help
+with the issue of CBDC by integrating it with their own monetary policies and transaction systems. Furthermore, this
+study provides evidence of how structural assurance, or regulations, promises, guarantees, and contracts (Shapiro,
+1987a; Zucker, 1986) affect attitudes toward adopting the
+CBDC payment system. To effectively implement this payment system, financial institutions need to build systems
+their customers can trust and use payment methods that
+
+13
+support perceptions of low risk. The adoption of the system
+will depend on diverse factors, including the transparency of
+transaction, the protection of privacy, the domestic political
+situation, legal and regulatory support, and customers’ trust
+in the economic system (Wang, 2022).
+
+Limitations and Future Studies
+The findings of this study should be understood in light of
+several limitations. Although the correlations did not reach a
+problematic level, several constructs had relatively high correlations. Future studies should carefully design the measurement structure to minimize correlation issues. In
+addition, not every country is adequately prepared for the
+adoption of CBDC. Since this study collected data from the
+most mature countries with regard to CBDC, caution should
+be exercised in applying the findings to other countries.
+Therefore, more studies are needed to assess whether the distinctiveness persists across countries. Last, this study specifically focused on the tourism sector in estimating risk
+perceptions associated with CBDC payment and the consequences, and similar studies in the other contexts may generate different findings.
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with
+respect to the research, authorship, and/or publication of this
+article.
+
+Funding
+The author(s) received no financial support for the research, authorship, and/or publication of this article.
+
+ORCID iDs
+Jinkyung Jenny Kim
+https://orcid.org/0000-0002-1704-3272
+Seongseop (Sam) Kim
+https://orcid.org/0000-0002-9213-6540
+Heesup Han
+https://orcid.org/0000-0001-6356-3001
+
+References
+Ajzen, I. (1991). The theory of planned behavior. Organizational
+Behavior and Human Decision Processes, 50(2), 179–211.
+Ajzen, I., & Fishbein, M. (1977). Attitude-behavior relations:
+A theoretical analysis and review of empirical research.
+Psychological Bulletin, 84(5), 888.
+Aldás-Manzano, J., Lassala-Navarré, C., Ruiz-Mafé, C., & SanzBlas, S. (2009). The role of consumer innovativeness and perceived risk in online banking usage. International Journal of
+Bank Marketing, 27(1), 53–75.
+Anderson, J. C., & Gerbing, D. W. (1988). Structural equation
+modeling in practice: A review and recommended two-step
+approach. Psychological Bulletin, 103(3), 411.
+Anwar, A., Thongpapanl, N., & Ashraf, A. R. (2021). Strategic
+imperatives of mobile commerce in developing countries: The
+influence of consumer innovativeness, ubiquity, perceived
+value, risk, and cost on usage. Journal of Strategic Marketing,
+29(8), 722–742.
+
+14
+Ariffin, S. K., Mohan, T., & Goh, Y.-N. (2018). Influence of consumers’ perceived risk on consumers’ online purchase intention. Journal of Research in Interactive Marketing, 12(3),
+309–327.
+Auer, R., & Böhme, R. (March 2020). The technology of retail
+central bank digital currency. BIS Quarterly Review. https://
+ssrn.com/abstract=3561198
+Bagozzi, R. P., & Yi, Y. (1988). On the evaluation of structural equation models. Journal of the Academy of Marketing
+Science, 16(1), 74–94.
+Baker, W., Goudie, M., Hutton, A., Hylender, C. D.,
+Niemantsverdriet, J., Novak, C., Ostertag, D., Porter, C.,
+Rosen, M., & Sartin, B. (2011). 2011 data breach investigations report. Verizon RISK Team, pp. 1–72. https://www.
+verizonbusiness.com/resources/reports/rp_databreach-investigationsreport-2011_en_xg.pdf
+Bauer, R. A. (1960). Customer behavior and risk taking. In
+Hancock, R. S. (Ed.), Dynamic marketing for a changing world
+(pp. 389–398). American Marketing Association.
+Bindseil, U. (2019). Central bank digital currency: Financial system implications and control. International Journal of Political
+Economy, 48(4), 303–335.
+BIS. (2021). Central bank digital currencies: System design and
+interoperability. Retrieved August 19, 2022, from https://
+www.bis.org/publ/othp42_system_design.pdf
+Boar, C., Holden, H., & Wadsworth, A. (2020). Impending arrival
+– A sequel to the survey on central bank digital currency (BIS
+Paper No 107). Bank for International Settlements.
+Byrne, B. M. (2001). Structural equation modeling with AMOS:
+Basic concepts, applications, and programming. Erlbaum.
+Chang, C.-H., & Chen, Y.-S. (2014). Managing green brand equity:
+The perspective of perceived risk theory. Quality & Quantity,
+48(3), 1753–1768.
+Chauhan, V., Yadav, R., & Choudhary, V. (2019). Analyzing
+the impact of consumer innovativeness and perceived risk
+in internet banking adoption: A study of Indian consumers.
+International Journal of Bank Marketing, 37(1), 323–339.
+Chen, C. (2013). Perceived risk, usage frequency of mobile banking
+services. Managing Service Quality: An International Journal,
+23(5), 410–436.
+Choe, J. Y. J., Kim, J. J., & Hwang, J. (2021). Perceived risks
+from drone food delivery services before and after COVID19. International Journal of Contemporary Hospitality
+Management, 33(4), 1276–1296.
+Davies, R., Richardson, P., Katinaite, V., & Manning, M. J.
+(2010). Evolution of the UK banking system. Bank of England
+Quarterly Bulletin, Q4. https://ssrn.com/abstract=1730160
+Delgosha, M. S., & Hajiheydari, N. (2021). How human users
+engage with consumer robots? A dual model of psychological ownership and trust to explain post-adoption behaviors.
+Computers in Human Behavior, 117, 106660.
+Featherman, M. S., & Pavlou, P. A. (2003). Predicting e-services
+adoption: A perceived risk facets perspective. International
+Journal of Human-Computer Studies, 59(4), 451–474.
+Filotto, U., Caratelli, M., & Fornezza, F. (2021). Shaping the digital transformation of the retail banking industry. Empirical
+evidence from Italy. European Management Journal, 39(3),
+366–375.
+Fornell, C., & Larcker, D. F. (1981). Evaluating structural equation
+models with unobservable variables and measurement error.
+Journal of Marketing Research, 18(1), 39–50.
+
+Journal of Hospitality & Tourism Research 00(0)
+Forsythe, S. M., & Shi, B. (2003). Consumer patronage and
+risk perceptions in internet shopping. Journal of Business
+Research, 56(11), 867–875. https://doi.org/10.1016/S01482963(01)00273-9
+Ghani, E. K., Ali, M. M., Musa, M. N. R., & Omonov, A. A. (2022).
+The effect of perceived usefulness, reliability, and COVID-19
+pandemic on digital banking effectiveness: Analysis using
+technology acceptance model. Sustainability, 14(18), 11248.
+Go, H., Kang, M., & Suh, S. C. (2020). Machine learning of robots
+in tourism and hospitality: Interactive technology acceptance
+model (iTAM) – cutting edge. Tourism Review, 75(4), 625–
+636.
+Goldsmith, R. E., & Hofacker, C. F. (1991). Measuring consumer
+innovativeness. Journal of the Academy of Marketing Science,
+19(3), 209–221.
+Gross, J., Sedlmeir, J., Babel, M., Bechtel, A., & Schellinger, B.
+(2021). Designing a central bank digital currency with support for cash-like privacy. SSRN http://dx.doi.org/10.2139/
+ssrn.3891121
+Hair, J. F., Jr., Black, W. C., Babin, B. J., Anderson, R. E., &
+Tatham, R. L. (2006). Multivariate data analysis (6th ed.).
+Prentice-Hall.
+Han, H., Al-Ansi, A., Chua, B. L., Tariq, B., Radic, A., & Park,
+S. H. (2020). The post-coronavirus world in the international
+tourism industry: Application of the theory of planned behavior
+to safer destination choices in the case of US outbound tourism.
+International Journal of Environmental Research and Public
+Health, 17(18), 6485.
+Han, H., Lee, K. S., Radic, A., Ngah, A. H., & Kim, J. J. (2021).
+The extended self-identify-based electric product adoption
+model and airline business strategy: A new theoretical framework for green technology products. Journal of Travel &
+Tourism Marketing, 38(3), 247–262.
+Han, H., Yu, J., & Kim, W. (2019). An electric airplane: Assessing
+the effect of travelers’ perceived risk, attitude, and new product
+knowledge. Journal of Air Transport Management, 78, 33–42.
+Hanafizadeh, P., & Khedmatgozar, H. R. (2012). The mediating
+role of the dimensions of the perceived risk in the effect of customers’ awareness on the adoption of Internet banking in Iran.
+Electronic Commerce Research, 12(2), 151–175.
+He, C., Milne, A., & Zachariadis, M. (2022). Central bank
+digital currencies and international payments (SWIFT
+Institute Working Paper No. 2020-002). https://swiftinstitute.org/wp-content/uploads/2022/05/SWIFTInstitute_
+CBDCInternationalPayments_PublishedMay2022.pdf
+Hirunyawipada, T., & Paswan, A. K. (2006). Consumer innovativeness and perceived risk: Implications for high technology product adoption. Journal of Consumer Marketing, 23(4), 182–198.
+Ho, S. S., & Ng, V. T. (1994). Customers’ risk perceptions of
+electronic payment systems. International Journal of Bank
+Marketing, 12(8), 26–38.
+Hong, L. M., Zulkiffli, W. F. W., & Hamsani, N. H. (2016). The
+impact of perceived risks towards customer attitude in online
+shopping. International Journal, 1(2), 13–21.
+Husain, J. (2011). Customer risk perceptions of internet banking–A
+study in Turkey [Paper presented]. Conferences ProceedingsRothenbur, Roothenbur.
+Hwang, J., Kim, H., Kim, J. J., & Kim, I. (2021). Investigation of
+perceived risks and their outcome variables in the context of
+robotic restaurants. Journal of Travel & Tourism Marketing,
+38(3), 263–281.
+
+Kim et al.
+Hwang, J., Kim, J. J., & Lee, K. W. (2021). Investigating consumer
+innovativeness in the context of drone food delivery services:
+Its impact on attitude and behavioral intentions. Technological
+Forecasting and Social Change, 163, 120433.
+Jacoby, J., & Kaplan, L. B. (1972). The components of perceived
+risk. ACR special volumes.
+Jeong, S. C., Kim, S.-H., Park, J. Y., & Choi, B. (2017). Domainspecific innovativeness and new product adoption: A case of
+wearable devices. Telematics and Informatics, 34(5), 399–412.
+John, S. P. (2013, August 15–17). Antecedents and effects of
+computer self-efficacy on social networking adoption among
+Asian online users [Conference session]. Proceedings of the
+Nineteenth Americas Conference on Information Systems
+(AMCIS), H-Index, Chicago, IL, pp. 1–15.
+Juschten, M., Jiricka-Pürrer, A., Unbehaun, W., & Hössinger, R.
+(2019). The mountains are calling! An extended TPB model
+for understanding metropolitan residents’ intentions to visit
+nearby alpine destinations in summer. Tourism Management,
+75, 293–306.
+Kasilingam, D. L. (2020). Understanding the attitude and intention to use smartphone chatbots for shopping. Technology in
+Society, 62, 101280.
+Kaur, S., & Arora, S. (2020). Role of perceived risk in online banking and its impact on behavioral intention: Trust as a moderator. Journal of Asia Business Studies, 15(1), 1–30.
+Kesharwani, A., & Bisht, S. S. (2012). The impact of trust and perceived risk on internet banking adoption in India: An extension
+of technology acceptance model. International Journal of Bank
+Marketing, 30(4): 303–322.
+Kim, G., Shin, B., & Lee, H. G. (2009). Understanding dynamics
+between initial trust and usage intentions of mobile banking.
+Information Systems Journal, 19(3), 283–311.
+Kim, J. J., Radic, A., Chua, B. L., Koo, B., & Han, H. (2022).
+Digital currency and payment innovation in the hospitality
+and tourism industry. International Journal of Hospitality
+Management, 107, 103314.
+Kim, M. (2021). A psychological approach to Bitcoin usage behavior
+in the era of COVID-19 focusing on the role of attitudes toward
+money. Journal of Retailing and Consumer Services, 62, 1–11.
+Kline, R. B. (2005). Principles and practice of structural equation
+modeling (2nd ed.). Guilford Press.
+Ko, H., Jung, J., Kim, J., & Shim, S. W. (2004). Cross-cultural
+differences in perceived risk of online shopping. Journal of
+Interactive Advertising, 4(2), 20–29.
+Koziuk, V., & Ivashuk, Y. (2022). Does it matter for CBDC
+design? Privacy-anonymity preferences from the side of hierarchies and egalitarian cultural patterns. Economics-Innovative
+and Research Journal, 10(1), 35–54.
+Kydland, F. E. (1989). The role of money in a business cycle model.
+Federal Reserve Bank of Minneapolis.
+Lee, M. C. (2009). Factors influencing the adoption of internet
+banking: An integration of TAM and TPB with perceived risk
+and perceived benefit. Electronic commerce research and
+applications, 8(3), 130–141.
+Lee, W.-H., Lin, C.-W., & Shih, K.-H. (2018). A technology acceptance model for the perception of restaurant service robots for
+trust, interactivity, and output quality. International Journal of
+Mobile Communications, 16(4), 361–376.
+Ligon, E., Malick, B., Sheth, K., & Trachtman, C. (2019). What
+explains low adoption of digital payment technologies?
+
+15
+Evidence from small-scale merchants in Jaipur, India. PLoS
+One, 14(7), e0219450.
+Littler, D., & Melanthiou, D. (2006). Consumer perceptions of risk
+and uncertainty and the implications for behaviour towards
+innovative retail services: The case of internet banking. Journal
+of Retailing and Consumer Services, 13(6), 431–443.
+Lu, Y., Yang, S., Chau, P. Y., & Cao, Y. (2011). Dynamics between
+the trust transfer process and intention to use mobile payment
+services: A cross-environment perspective. Information &
+management, 48(8), 393–403.
+Martins, C., Oliveira, T., & Popovič, A. (2014). Understanding the
+Internet banking adoption: A unified theory of acceptance and
+use of technology and perceived risk application. International
+Journal of Information Management, 34(1), 1–13.
+Masoud, E. Y. (2013). The effect of perceived risk on online shopping in Jordan. European Journal of Business and Management,
+5(6), 76–87.
+McKnight, D. H., Choudhury, V., & Kacmar, C. (2002). Developing
+and validating trust measures for e-commerce: An integrative
+typology. Information Systems Research, 13(3), 334–359.
+McKnight, D. H., Cummings, L. L., & Chervany, N. L. (1998).
+Initial trust formation in new organizational relationships.
+Academy of Management Review, 23(3), 473–490.
+Midgley, D. F., & Dowling, G. R. (1978). Innovativeness: The
+concept and its measurement. Journal of Consumer Research,
+4(4), 229–242.
+Mitchell, V.-W. (1992). Understanding consumers’ behaviour: Can
+perceived risk theory help? Management Decision, 30(3), 26–31.
+Mitchell, V.-W. (1999). Consumer perceived risk: Conceptualisations
+and models. European Journal of Marketing, 33(1–2), 163–195.
+Morosan, C., & DeFranco, A. (2014). When tradition meets the new
+technology: An examination of the antecedents of attitudes and
+intentions to use mobile devices in private clubs. International
+Journal of Hospitality Management, 42, 126–136.
+Okuwoga, T. (2021). 110 countries are exploring CBDC at some
+stage, says IMF managing director. https://bitcoinist.com/110countries-are-exploring-cbdc-at-some-stage-says-imf-managing-director/
+Ouaddah, A., Elkalam, A., & Ouahman, A. (2016). FairAccess:
+A new Blockchain-based access control framework for the
+Internet of Things. Security and Communication Networks,
+9(18), 5943–5964.
+Özbek, V., Alnıaçık, Ü., Koc, F., Akkılıç, M. E., & Kaş, E.
+(2014). The impact of personality on technology acceptance:
+A study on smart phone users. Procedia-Social and Behavioral
+Sciences, 150, 541–551.
+Park, J., & Yang, S. (2006). The moderating role of consumer trust
+and experiences: Value driven usage of mobile technology.
+International Journal of Mobile Marketing, 1(2), 24–32.
+Park, S., & Tussyadiah, I. P. (2017). Multidimensional facets of
+perceived risk in mobile travel booking. Journal of Travel
+Research, 56(7), 854–867.
+Peluso, M. (2021). Central bank digital currencies: Risks, opportunities and challenges [Master’s degree thesis]. Tesi di Laurea
+in Market law and regulation, Luiss Guido Carli, relatore Paola
+Lucantoni, p. 142.
+Ponte, E. B., Carvajal-Trujillo, E., & Escobar-Rodríguez, T.
+(2015). Influence of trust and perceived value on the intention
+to purchase travel online: Integrating the effects of assurance
+on trust antecedents. Tourism Management, 47, 286–302.
+
+16
+PwC (2021, April 4). CBDC global index. https://www.pwc.com/
+gx/en/industries/financial-services/assets/pwc-cbdc-globalindex-1st-edition-april-2021.pdf
+Quan, W., Moon, G., Kim, S., & Han, H. (2023). Mobile, traditional, and cryptocurrency payments influence consumer trust,
+attitude, and destination choice: Chinese versus Koreans.
+International Journal of Hospitality Management, 108,
+103363. https://doi.org/10.1016/j.ijhm.2022.103363
+Radic, A., Quan, W., Koo, B., Chua, B.-L., Kim, J. J., & Han,
+H. (2022). Central bank digital currency as a payment method
+for tourists: Application of the theory of planned behavior to
+digital Yuan/Won/Dollar choice. Journal of Travel & Tourism
+Marketing, 39(2), 152–172.
+Rennie, E., & Steele, S. (2021). Privacy and emergency payments
+in a pandemic: How to think about privacy and a central bank
+digital currency. Law, Technology and Humans, 3(1), 6–17.
+Rogers, E. (1995). Diffusion of innovations (Fourth Paperback ed.).
+The Free Press Simon & Schuster Inc.
+Rose, J., & Fogarty, G. J. (2006). Determinants of perceived usefulness and perceived ease of use in the technology acceptance
+model: Senior consumers’ adoption of self-service banking
+technologies [Paper presented]. Proceedings of the 2nd biennial conference of the academy of world business, marketing
+and management development: Business across borders in the
+21st century, Paris, France.
+Roy, S. K., Balaji, M., Kesharwani, A., & Sekhon, H. (2017).
+Predicting Internet banking adoption in India: A perceived risk
+perspective. Journal of Strategic Marketing, 25(5–6), 418–438.
+Seth, S. (2022). What is a Central bank digital currency (CBDC)?
+Investopedia. https://www.investopedia.com/terms/c/centralbank-digital-currency-cbdc.asp
+Shapiro, S. P. (1987). The social control of impersonal trust.
+American Journal of Sociology, 93(3), 623–658.
+Shen, W., & Hou, L. (2021). China’s central bank digital currency
+and its impacts on monetary policy and payment competition:
+Game changer or regulatory toolkit? Computer Law & Security
+Review, 41, 105577.
+Shkliar, A. (2020). The phenomenon of central banks’ digital currencies (CBDC): Key attributes and implementation perspectives. Ukrainian Society, 1(72), 123–137.
+Shuhidan, S. M., Hamidi, S. R., & Saleh, I. S. (2017). Perceived
+risk towards mobile banking: A case study of Malaysia young
+adulthood [Paper presented]. IOP Conference Series: Materials
+Science and Engineering, Melaka, Malaysia.
+Straub, E. T. (2009). Understanding technology adoption: Theory
+and future directions for informal learning. Review of
+Educational Research, 79(2), 625–649.
+Taylor, S., & Todd, P. (1995). Assessing IT usage: The role of prior
+experience. MIS Quarterly, 19(4), 561–570.
+Tong, W., & Jiayou, C. (2021). A study of the economic impact of
+central bank digital currency under global competition. China
+Economic Journal, 14(1), 78–101.
+Tronnier, F., & Biker, P. (2022). A Framework and Qualitative
+Evaluation of Privacy Concerns in the Digital Euro. https://
+aisel.aisnet.org/pacis2022/63/
+Turkyilmaz, C. A., Erdem, S., & Uslu, A. (2015). The effects of
+personality traits and website quality on online impulse buying.
+Procedia-Social and Behavioral Sciences, 175, 98–105.
+Ventre, I., & Kolbe, D. (2020). The impact of perceived usefulness
+of online reviews, trust and perceived risk on online purchase
+
+Journal of Hospitality & Tourism Research 00(0)
+intention in emerging markets: A Mexican perspective. Journal
+of International Consumer Marketing, 32(4), 287–299.
+Wang, H. (2022). China’s approach to Central Bank Digital
+Currency. SSRN http://dx.doi.org/10.2139/ssrn.4036466
+Wang, H., & Gao, S. (2021). The future of the international
+financial system: A CBDC network and regulatory outlook.
+Manuscript. University of New South Wales, Sydney.
+World Bank (2021). Central Bank Digital Currencies for crossborder payments: A review of current experiments and ideas.
+World Bank.
+Wu, B., An, X., Wang, C., & Shin, H. Y. (2022). Extending
+UTAUT with national identity and fairness to understand
+user adoption of DCEP in China. Scientific Reports, 12(1),
+1–11.
+Yadav, R., Chauhan, V., & Pathak, G. S. (2015). Intention to adopt
+internet banking in an emerging economy: A perspective of
+Indian youth. International Journal of Bank Marketing, 33(4),
+530–544.
+YenYuen, Y., & Yeow, P. H. (2008). User acceptance of internet
+banking service in Malaysia [Paper presented]. International
+Conference on Web Information Systems and Technologies,
+Funchal, Madeira, Portugal.
+Yi, J., Yuan, G., & Yoo, C. (2020). The effect of the perceived risk
+on the adoption of the sharing economy in the tourism industry:
+The case of Airbnb. Information Processing & Management,
+57(1), 102108.
+Zhang, F., Sun, S., Liu, C., & Chang, V. (2020). Consumer innovativeness, product innovation and smart toys. Electronic
+Commerce Research and Applications, 41, 100974.
+Zhang, Z., & Hou, Y. (2017). The effect of perceived risk on
+information search for innovative products and services: The
+moderating role of innate consumer innovativeness. Journal of
+Consumer Marketing, 34(3), 241–254.
+Zhao, A. L., Hanmer‐Lloyd, S., Ward, P., & Goode, M. M. (2008).
+Perceived risk and Chinese consumers’ internet banking services adoption. International journal of bank marketing, 26(7),
+505–525.
+Zhou, T. (2011). An empirical examination of initial trust in mobile
+banking. Internet Research, 21(5), 527–540.
+Zhu, D. S., Lin, T. C. T., & Hsu, Y. C. (2012). Using the technology acceptance model to evaluate user attitude and intention of
+use for online games. Total Quality Management & Business
+Excellence, 23(7-8), 965–980.
+Zolait, A. H. S., & Sulaiman, A. (2009). The influence of communication channels on internet banking adoption. Asian Journal
+of Business and Accounting, 2(1&2), 115–134.
+Zolkepli, I. A., & Kamarulzaman, Y. (2015). Social media adoption: The role of media needs and innovation characteristics.
+Computers in Human Behavior, 43, 189–209.
+Zou, X. (2021). China’s national digital currency: An overview
+of digital currency electronic payment. Turkish Journal of
+Computer and Mathematics Education (TURCOMAT), 12(11),
+4279–4285.
+Zucker, L. G. (1986). Production of trust: Institutional sources of
+economic structure, 1840–1920. Research in Organizational
+Behavior, 8, 53–111.
+Zui, Z., Kim, S., & Shin, H. (2022). Does the website credibility of
+online travel agencies (OTAs) affect customers’ evaluation and
+future intentions? Asia Pacific Journal of Tourism Research,
+27(8), 842–855.
+
+Kim et al.
+
+17
+
+Submitted August 26, 2022
+Accepted January 31, 2023
+Refereed Anonymously
+
+Tadesse Bekele Hailu (e-mail: tadesse.hailu@connect.polyu.hk) is
+PhD student in the School of Hotel & Tourism Management, The
+Hong Kong Polytechnic University, Kowloon, Hong Kong, SAR.
+
+Author Biographies
+
+Hyungseo Bobby Ryu (e-mail: bobbyryu414@hanmail.net) is assistant professor in the Foodservice & Culinary arts, College of Health
+Sciences, kyungnam University, Changwon-si, Gyeongsangnam-do,
+Republic of Korea.
+
+Jinkyung Jenny Kim (e-mail: jennykim1120@gmail.com) is assistant professor in the College of Hotel and Tourism Management,
+Youngsan University, Haeundae-gu, Busan, South Korea.
+Seongseop (Sam) Kim (e-mail: sam.kim@polyu.edu.hk) is
+professor in the School of Hotel & Tourism Management, The
+Hong Kong Polytechnic University, Kowloon, Hong Kong, SAR.
+
+Heesup Han (corresponding author; e-mail: heesup.han@gmail.
+com) is a professor in the College of Hospitality and Tourism
+Management, Sejong University, 98 Gunja-Dong, Gwanjin-Gu,
+Seoul, Korea.
+
+

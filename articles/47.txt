@@ -1,0 +1,3285 @@
+Applied Economics
+
+ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/raec20
+
+Central bank digital currency, crypto assets, and
+cash demand: evidence from Japan
+Hiroshi Fujiki
+To cite this article: Hiroshi Fujiki (2023): Central bank digital currency, crypto assets, and cash
+demand: evidence from Japan, Applied Economics, DOI: 10.1080/00036846.2023.2186362
+To link to this article: https://doi.org/10.1080/00036846.2023.2186362
+
+Published online: 09 Mar 2023.
+
+Submit your article to this journal
+
+Article views: 134
+
+View related articles
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=raec20
+
+APPLIED ECONOMICS
+https://doi.org/10.1080/00036846.2023.2186362
+
+Central bank digital currency, crypto assets, and cash demand: evidence from
+Japan
+Hiroshi Fujiki
+Faculty of Commerce, Chuo University, Hachioji-shi, Japan
+ABSTRACT
+
+KEYWORDS
+
+This study surveyed people’s knowledge and use of central bank digital currency (CBDC), crypto
+asset ownership, and cash demand in Japan. While 4% of the respondents understand CBDC, 10%
+are willing to use CBDC when available. The demographic characteristics of respondents who
+understand CBDC are similar to those of crypto asset owners. Average cash demand for day-to-day
+payment purposes by crypto asset owners is slightly lower than that by nonowners. If CBDC users
+had similar cash demand to that of crypto asset owners, the introduction of CBDC with attributes
+similar to crypto assets would not substantially reduce cash demand for day-to-day payment
+purposes.
+
+CBDC; cash demand; cash
+hoarding; crypto asset;
+financial literacy
+
+1. Introduction
+
+The global economy is transitioning into
+a digitalized economy, and new Internet services
+have emerged in many industries. In the financial
+industry, crypto assets like Bitcoin have been gain­
+ing attention.1 Thus far, economists have opined
+that crypto assets are unsuitable means of daily
+payment and unlikely to replace legal tender
+because first, their prices are volatile, which is dif­
+ficult to theoretically explain (e.g. Goczek and
+Skliarov 2019; Qiao, Zhu, and Hau 2020; Kapar
+and Olmo 2021), and second, before payment com­
+pletion is confirmed, Bitcoin takes time to reach
+a consensus. Third, the process consumes substan­
+tial electricity, which hurts the environment.
+However, central banks have considered issuing
+central bank digital currency (CBDC) in
+a digitalized economy. Retail CBDC may replace
+coins and bills with digital currencies in smart­
+phone applications. The share of central banks
+actively engaged in some form of CBDC work
+grew to 90% in 2021 (Kosse and Mattei 2022).
+Central banks in major countries have considered
+issuing CBDC (European Central Bank 2020;
+Board of Governors of the Federal Reserve System
+2022a; Bank of Japan 2020) and proposed steps to
+achieve effective CBDC systems (Bank of Canada,
+
+JEL CLASSIFICATION
+
+E41; D14; E58
+
+European Central Bank, Bank of Japan, Sveriges
+Riksbank, Bank of England, Swiss National Bank,
+Board of Governors Federal Reserve System, and
+Bank for International Settlements 2021) because
+of domestic payments efficiency, payments safety,
+and financial stability. Financial regulators in
+major economies have announced comprehensive
+public policy principles to adapt CBDC in the
+global economy (G7 2021). Four developing coun­
+tries (Cambodia, Bahamas, Nigeria, and Jamaica)
+issued CBDC between 2020 and August 2022.
+One of the difficult policy questions on CBDC is:
+Will CBDC replace cash? This question has been
+researched in theoretical and empirical studies.
+Theoretically, CBDC demand depends on the
+attractiveness of alternative forms of money and
+the design of CBDC issuance, such as anonymity
+(the traceability of transactions), security, transac­
+tion limits, and interest earned (Mancini-Griffoli
+et al. 2018). Both cash and crypto assets have the
+attractiveness of anonymity, which might compete
+with CBDC. One should also consider the substitu­
+tion among CBDC, commercial bank deposits with
+the attractiveness of security from theft and loss,
+and cash. Agur, Ari, and Dell’ariccia (2022) con­
+sidered an economy where agents sort into cash,
+CBDC, and bank deposits according to their
+
+CONTACT Hiroshi Fujiki
+fujiki@tamacc.chuo-u.ac.jp
+Faculty of Commerce, Chuo University, 742-1 Higashinakano, Hachioji-shi 192-0393, Japan
+1
+See Lieven et al., (2022) discussion on the crypto asset market.
+© 2023 Informa UK Limited, trading as Taylor & Francis Group
+
+2
+
+H. FUJIKI
+
+preferences over anonymity and security, and
+where network effects make the convenience of
+a payment instrument depend on the number of
+its users. In their model, a CBDC designed with
+attributes similar to those of cash may lead to the
+disappearance of cash. Behind these analyses lie
+extensive literature that discusses the relationship
+between anonymity preference and demand for
+digital payment instruments (see Uno, Sonoda,
+and Bessho 2021; Acquisti, Brandimarte, and
+Loewenstein 2020; Acquisti, Taylor, and Wagman
+2016). In particular, Athey, Catalini, and Tucker
+(2017) found through an experiment that those
+who say they care about privacy are willing to
+relinquish private data quite easily when incenti­
+vized to do so. Their results suggest that predicting
+the demand for payment instruments based on
+self-reporting general anonymity preference may
+not be helpful if agents choose the payment instru­
+ment under some specific contexts, say, rewards.
+Using data from current mobile payment users in
+China, Hu, Liu, and Yan (2021) showed that priv­
+acy risk, defined as users’ perceptions of potential
+negative outcomes, including collecting, transmit­
+ting, and selling the information of individuals, is
+negatively related to users’ overall evaluation of
+facial recognition payment based on a trade-off
+between the perceptions of benefits and costs.
+Given that a small number of economies have
+issued CBDC, empirical data on CBDC in circula­
+tion are limited. Thus, consumers’ adoption and
+use of CBDC can be predicted either by surveying
+and identifying the demographic characteristics of
+consumers who are aware of CBDC and willing to
+adopt CBDC or by laboratory experiments.2 First,
+what product characteristics associated with widely
+accepted payment methods should CBDC possess
+to be widely used as much as cash (Huynh et al.
+2020; Lii 2021; Fujiki 2021a)? Second, if the crypto
+asset owners or users of non-cash payment meth­
+ods have demographic characteristics similar to
+that of potential CBDC users, are these owners’/
+users’ cash holdings smaller or larger than those of
+non-users (Balutel et al. 2022; Khiaonarong and
+Humphrey 2022)? The second approach requires
+data on the cash holdings of crypto-asset owners or
+non-cash payment methods and the owners’/users’
+2
+
+demographic characteristics, compiled in the
+Bitcoin Omnibus Survey in Canada (Balutel et al.
+2022). However, such data are not available in
+Japan. Third, a laboratory experiment on the
+choice of hypothetical payment methods that differ
+in three attributes – illiquidity risk, the expected
+return, and anonymity – showed that anonymity is
+relevant in shaping the demand for money.
+Anonymity increases the overall appeal of
+a payment medium, and this effect is stronger for
+risk-prone individuals (Borgonovo et al. 2021).
+This paper uses the empirical results on the
+substitution between crypto assets and cash and
+contributes to the second approach by focusing
+on CBDC’s adoption and possible substitution of
+cash from the anonymity aspect. This study pre­
+sents new Japanese consumer survey data on the
+knowledge and potential use of CBDC, crypto asset
+ownership, cash demand for day-to-day payment
+and hoarding purposes, and respondents’ demo­
+graphic characteristics. We first identify the demo­
+graphic characteristics of crypto asset owners and
+respondents who are aware of CBDC and willing to
+use it. We then investigate whether crypto asset
+owners have similar demographic characteristics
+as those of potential CBDC users. After analysing
+whether the cash demand by the crypto asset own­
+ers is higher or lower than that of the nonowners,
+this study concludes by providing a ballpark mea­
+sure of cash demand by a potential Japanese CBDC
+user based on the estimates of substitution between
+cash and crypto assets.
+This study closely relates to studies using
+Japanese payment method choice by crypto asset
+owners. Fujiki (2020) found that crypto asset own­
+ers tended to use cashless payment methods, and
+Fujiki (2021b) found that crypto asset owners
+tended more to hoard cash than nonowners; these
+studies provided no information about cash
+demand.
+This study contributes to the research on demo­
+graphic characteristics of crypto asset ownership
+and cash demand (the U.S.: Hanna et al. 2020;
+Schuh and Shy 2015; Hundtofte et al. 2019; Auer
+and Tercero-Lucas 2021; Board of Governors of the
+Federal Reserve System 2022b; Canada: Huynh
+et al. 2020; Balutel et al. 2022, 2022; Austria: Stix
+
+See German, Dutch, and Japanese surveys (Deutsche Bundesbank 2021; Bijlsma et al. 2021; Bank of Japan 2021).
+
+APPLIED ECONOMICS
+
+2021; Japan: Kawamura et al. 2021; Fujiki 2020,
+2021b). These studies show that crypto asset
+holders are more likely to be younger and male;
+this finding is consistent with that of this paper.
+Compared with the last two Japanese studies, this
+study also examined cash demand.
+Our research also relates to Japanese studies on
+cashless payment, cash usage, and cash demand
+(Sekine, Shoji, and Watanabe 2022; Intage Inc
+2021; Konishi 2021; Fujiki 2022; Fujiwara 2022;
+Wakamori 2020; Fujiki and Tanaka 2018; Fujiki
+2019); however, these studies do not examine the
+amount of cash demand outstanding and crypto
+asset ownerships.
+2. Data
+
+This study commissioned Intage to conduct an
+online survey from 7 June 2021, to 20 July 2021,
+asking questions about the use of CBDC, the
+demand for crypto assets, and cash holdings from
+6,000 monitors participating in the National
+Consumer Panel Survey (SCI) and special payment
+survey (SCI Payment). We received responses from
+
+3
+
+3008 respondents. To ensure a representative sam­
+ple with respect to the Japanese Census population
+data, SCI monitors were males and females aged
+15–79 years from all the prefectures in Japan. They
+were asked to report the date and time of the
+purchase of food, beverages, daily necessities, cos­
+metics, pharmaceuticals, and tobacco over a week.
+Of the 52,500 SCI monitors, Intage randomly
+selected four groups of 3,000 SCI monitors to join
+SCI Payment. These monitors additionally
+reported the payment methods used to purchase
+the goods to add to the SCI survey. We approached
+two groups of SCI monitors, a total of 6,000, who
+joined the three waves of SCI and SCI Payment in
+July or August 2019, October 2019, and April 2021,
+to reply to our questions. From the 3,029 monitors
+who agreed, we focused our analysis on 3,008
+monitors after dropping those who did not report
+the purchase records in either the 2019 or 2021 SCI
+survey. Table 1 reports the means of the variables
+related to respondents’ knowledge and use of
+CBDC, crypto asset ownership, and risky financial
+asset holdings. Columns (A) and (B) report the
+unweighted and weighted means, respectively,
+
+Table 1. CBDC, crypto asset ownership, and risky financial asset holdings.
+Variable name
+
+Values
+
+Definition
+
+(A)
+(B)
+Unweighted Weighted
+
+N
+
+CBDC knowledge
+1
+2
+3
+
+I understand the details of CBDC
+I have heard about CBDC
+I have never heard about CBDC
+
+0.029
+0.181
+0.790
+
+0.043
+0.195
+0.763
+
+3,008
+3,008
+3,008
+
+1
+2
+3
+
+I want to use CBDC
+I don’t want to use CBDC
+I don’t know
+
+0.096
+0.303
+0.602
+0.088
+0.034
+0.055
+0.912
+0.100
+0.478
+0.333
+
+0.106
+0.316
+0.578
+0.089
+0.032
+0.058
+0.911
+0.114
+0.485
+0.312
+
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+
+0.199
+0.180
+0.082
+0.017
+0.004
+0.519
+0.541
+0.459
+0.086
+0.374
+0.109
+0.040
+0.074
+0.015
+0.467
+0.444
+
+0.204
+0.188
+0.084
+0.016
+0.004
+0.504
+0.584
+0.416
+0.095
+0.407
+0.098
+0.043
+0.077
+0.016
+0.508
+0.400
+
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+2,560
+2,560
+3,008
+3,008
+3,008
+3,008
+2,560
+2,560
+2,560
+2,560
+
+CBDC future use
+
+Crypto owner
+I used to use or own crypto-assets in the past but do not currently use or own
+I currently use or own crypto-assets (Current owner)
+Crypto nonowner
+I understand what crypto-assets are, but I have never used or owned one
+I have heard of crypto-assets but have never used or owned them
+I have never heard of crypto-assets and have never used or owned them
+Future crypto ownership
+1
+2
+3
+4
+5
+0
+
+Less than 10%
+10% to less than 25
+25% to less than 50
+50% to less than 75
+75% to 100
+I don’t know
+
+RA_own
+No_RA_own
+
+Both
+CR_only
+RA_only
+Bothno
+
+I used to use or hold these products in the past but do not use or hold them now
+I currently use or own
+I have never used or owned these financial products and have never heard of them
+I do not want to answer
+Both Crypto owner and RA_own take value of 1
+Crypto owner takes value of 1 and RA_own take value of 0
+Crypto owner takes value of 0 and RA_own take value of 1
+Both Crypto owner and RA_own take value of 0
+
+4
+
+H. FUJIKI
+
+which corrects the weight for the monitors to be
+proportional to the weight of region, age, and gen­
+der used in the SCI computed from the Japanese
+Census; the last column (labelled N) reports the
+number of observations.
+2.1. Data on knowledge and use of CBDC
+
+The variable CBDC knowledge denotes respon­
+dents’ current knowledge about CBDC.
+CBDC knowledge takes a value of 1, 2, and 3,
+when the respondents chose the options ‘I under­
+stand the details of CBDC’, ‘I have heard about
+CBDC’, and ‘I have never heard about CBDC’,
+respectively. Column (B) of Table 1 shows that
+only 4% understand the details of CBDC, and
+20% have heard about it. A Bank of Japan (2021)
+survey conducted in September 2021 included the
+same question, and the means of these questions
+were 3% and 19%, respectively, which were similar
+to our results. A Deutsche Bundesbank (2021)
+study conducted in April 2021 found that 23% of
+the respondents were aware of the digital euro.
+CBCD future use denotes respondents’ intention
+to use CBDC, if ever issued in Japan. A variable
+CBCD future use takes a value of 1, 2, and 3, when
+respondents chose the options ‘I want to use
+CBDC’, ‘I don’t want to use CBDC’, and ‘I don’t
+know’, respectively. Column (B) of Table 1 shows
+that only 11% want to use CBDC. In Deutsche
+Bundesbank (2021) and Bijlsma et al. (2021), 40%
+and about 50% of the respondents expected to use
+the digital euro in the future, respectively. The
+percentage of options in CBCD future use classified
+by the CBDC knowledge is shown in Figure 1,
+which reveals that a person who understands
+CBDC is more likely to use it.
+2.2. Data on crypto asset ownership
+
+Table 1 also reports the means of the variables on
+crypto asset ownership, Crypto owner. Crypto
+owner is a dummy variable that takes a value of 1
+for those who selected the options ‘I used to use or
+own crypto-assets in the past but do not currently
+use or own’, and ‘I currently use or own cryptoassets’ (Current owner). Crypto nonowner is
+a dummy variable that takes a value of 1 for those
+who selected the options ‘I understand what
+
+Figure 1. Understanding and usage of CBDC. Source: Author’s
+calculations.
+
+crypto-assets are, but I have never used or owned
+one’, ‘I have heard of crypto-assets but have never
+used or owned them’, and ‘I have never heard of
+crypto-assets and have never used or owned them’.
+Table 1 shows that the weighted average value of
+Crypto owner is 0.089. Similar results were obtained
+in two Japanese surveys: the Financial Literacy
+Survey (hereafter, FLS 2019) conducted by the
+Central Council for Financial Services
+Information in March 2019 for 25,000 Japanese
+individuals aged 18–79 years revealed that Crypto
+owner is 7.8% of the respondents (Fujiki 2020). The
+2020 edition of Japan’s Personal Assets Database
+(hereafter, RADAR 2020), a survey of 3,026 men
+and women aged 20–74 years within a 40-km
+radius of the Tokyo metropolitan area conducted
+at the end of June 2020 showed Crypto owner is
+6.5% of the respondents (Fujiki 2021b). For inter­
+national comparisons, 5% of the US respondents
+currently own or have previously owned crypto
+assets (Hundtofte et al. 2019). In Canada, it was
+5% (Huynh et al. 2020), while in Austria, it was
+1.5% (Stix 2021).
+Future crypto ownership uses the respondents’
+reply to the question ‘What percentage of
+Japanese people do you think will own crypto
+assets 30 years from now?’ Future crypto ownership
+takes values of 0, 1, 2, 3, 4, and 5 if the respondents
+chose options ‘I don’t know’, ‘less than 10%’, ‘10%
+to less than 25%’, ‘25% to less than 50%’, ‘50% to
+less than 75%’, and ‘75% to 100%’. For this ques­
+tion, the respondents were informed that crypto
+assets are virtual currencies, such as Bitcoin,
+Ethereum, Litecoin, and Tesser. Respondents
+were also told that according to various recent
+surveys, the percentage of Japanese who own
+
+APPLIED ECONOMICS
+
+crypto assets is around 5–10%. Table 1 shows that
+50% chose ‘I don’t know’, and 20% expect crypto
+asset holdings less than 10% (less than or equal to
+the current level of crypto asset holdings). The
+remaining 30% expect more adoption of crypto
+assets by Japanese people in 30 years.
+Future crypto ownership is based on the follow­
+ing question by Balutel et al. (2022) posed to
+respondents who are aware of Bitcoin: ‘How likely
+do you think that the Bitcoin system will survive or
+fail in the next 15 years?’ Balutel et al. (2022)
+regarded answers to this question as a proxy for
+beliefs about the use of Bitcoin in the future and
+presented a model that shows that a person with
+a higher value of belief tends to adopt Bitcoin.
+2.3. Data on risky financial asset holding
+
+Table 1 reports the variable RA_own that captures
+respondents’ holding of conventional risky finan­
+cial assets (stocks, bonds, mutual funds, and for­
+eign currency-denominated financial products).
+A dummy variable RA_own takes a value of 1 for
+respondents who selected the option ‘I used to use
+or hold these products in the past but do not use or
+hold them now’ and ‘I currently use or own’. In
+constructing RA_own, we focus on 2,560 respon­
+dents after dropping 328 respondents who chose ‘I
+have never used or owned these financial products
+and have never heard of them’ and 120 respondents
+who chose ‘I do not want to answer’. The average of
+RA_own is 0.58, which is consistent with FLS 2019,
+which reports RA_own to be 0.6 according to Fujiki
+(2020) and with RADAR 2020, which shows that
+53.3% of the respondents have experienced owning
+16 types of risky financial assets (Fujiki 2021b).
+A dummy variable for risky financial asset non­
+owners No_RA_own is defined as 1-RA_own.
+Because crypto asset owners with and without
+conventional risky financial assets differ in their
+financial literacy (Fujiki 2021b), the crypto asset
+ownership variable, Crypto owner, and conven­
+tional risky asset ownership variable, RA_own, for
+2,560 respondents were combined. Both is
+a dummy variable for those who take values of 1
+for both Crypto owner and RA_own (average is
+0.08, hereafter). CR_only is a dummy variable for
+those who take values of 1 for Crypto owner and 0
+for RA_own (0.02). RA_only is a dummy variable
+
+5
+
+for those who take values of 0 for Crypto owner and
+1 for RA_own (0.51). Both no is a dummy variable
+for those who take values of 0 for both Crypto
+owner and RA_own (0.40).
+2.4. Demographic and control variables
+
+Table 2 reports the means of demographic and
+control variables.
+Variables for ten areas of residence (Hokkaido,
+Tohoku, Kanto, Keihin, Hokuriku, Keihanshin,
+Tokai, Chugoku, Shikoku, and Kyushu, with the
+base case being the Keihin region, which includes
+Tokyo), ages of respondents (Age_Q, which takes
+the value of 25, 35, 45, 55, 65, and 75 for respon­
+dents aged below 29, 30–39, 40–49, 50–59, 60–69,
+and above 70 years, respectively), gender of the
+respondents (Female; the base case in the following
+regression is male), occupation and employment
+status of the respondents (Full-time, Part-time,
+Temp (temporary or contract employee)), Selfemployed, House (stay-at-home mom/dad),
+NoStuOth (the sum of Student, No job, and Other
+job, where the base case in the following regression
+analysis is NoStuOth), and educational attainment
+(Edu_Q, which takes the value of 12 for senior high
+or below and unknown, 14 for vocational college
+and junior college, 16 for university, and 20 for
+graduate) were used.
+The household annual income of the respondents
+(Income_Q) in ranges were classified. It takes the
+value of 2,000, 4,750, 6,250, 8,000, and 10,000 for
+respondents whose household annual income (in
+units of million yen) is 0–2, 2–4, 4–5.5, 5.5–7, 7–9,
+and over 9. The value of 0 was also assigned for seven
+respondents who chose ‘I do not know the house­
+hold annual income’; however, in the regression
+analysis in Section V, these respondents were
+dropped from the analysis. The outstanding amount
+of financial asset holdings except for cash were used,
+FA_0, FA_Low, FA_Mid, FA_High, and FA_X for
+a household whose outstanding amount of financial
+asset holdings (in units of million yen) are 0, 0–2.5,
+2.5–10, over 10, and households who replied that
+they do not know or refused to answer the question
+on financial asset holdings. In the regression analy­
+sis, we used FA_Low as the base case. Regarding debt
+holdings, Debt_use was defined as a dummy variable
+that takes a value of 1 for debt holders, Debt_no as
+
+6
+
+H. FUJIKI
+
+Table 2. Demographic variables, variables on financial literacy, choice of payment methods, and cash holdings.
+
+Areas of residence
+
+Age
+Gender
+Occupation
+
+Education
+Income
+Financial asset holdings
+
+Debt
+Observed payment ratio
+Financial literacy
+The amount of cash on hand
+
+The amount of cash at home
+
+Stop holding cash if I can use financial products which could protect my privacy
+
+a dummy variable that takes a value of 1 for debt
+nonholders, and Debt_dontknow as a dummy vari­
+able that takes a value of 1 for those who do not
+know whether the family has debt or not, where the
+base case is Debt_no + Debt_dontknow.
+In addition to the usual demographic variables,
+data on the spending and payment methods in
+April 2021 from the Special Payment Survey were
+used. The major payment method options are cash,
+credit cards, QR codes and barcode payments, and
+electronic money (Japanese nickname for prepaid
+cards with NFC technologies). Therefore, the
+amount of spending made by these four payment
+
+Variable name
+
+(A)
+Raw
+
+(B)
+Weighted
+
+N
+
+Hokkaido
+Tohoku
+Kanto
+Keihin
+Hokuriku
+Keihanshin
+Tokai
+Chugoku
+Shikoku
+Kyusyu
+Age_Q
+Female
+Full_time
+Part_time
+Temp
+Self_employed
+House
+NoStuOth
+Edu_Q
+Income_Q
+FA_0
+FA_Low
+FA_Mid
+FA_High
+FA_X
+Debt_use
+Debt_no
+Debt_dontknow
+Cashless
+Big3
+COH_1k
+COH_1k_5k
+COH_5k_10k
+COH_10k_50k
+COH_50k_
+COHQ
+CAH_10k
+CAH_10k_50k
+CAH_50k_100k
+CAH_100k_200k
+CAH_200k_300k
+CAH_300k_500k
+CAH_500k_1m
+CAH_1m_
+CAH_dontknow
+CAH_NA
+CAHQ
+Privacy
+
+0.051
+0.077
+0.058
+0.293
+0.056
+0.168
+0.109
+0.055
+0.033
+0.102
+48.810
+0.584
+0.387
+0.195
+0.072
+0.052
+0.181
+0.113
+14.512
+5802.194
+0.165
+0.182
+0.198
+0.173
+0.282
+0.354
+0.570
+0.075
+0.548
+1.274
+0.022
+0.257
+0.324
+0.363
+0.033
+15.769
+0.130
+0.304
+0.165
+0.080
+0.034
+0.024
+0.016
+0.026
+0.107
+0.116
+113.124
+0.032
+
+0.039
+0.067
+0.061
+0.297
+0.054
+0.169
+0.116
+0.059
+0.028
+0.109
+50.834
+0.505
+0.373
+0.152
+0.072
+0.053
+0.167
+0.182
+14.391
+5517.848
+0.161
+0.167
+0.194
+0.186
+0.292
+0.302
+0.613
+0.085
+0.536
+1.369
+0.027
+0.244
+0.331
+0.366
+0.033
+15.832
+0.140
+0.292
+0.159
+0.079
+0.033
+0.025
+0.019
+0.026
+0.110
+0.117
+115.238
+0.032
+
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+2,983
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+3,008
+
+methods were aggregated and the proportion of the
+number of purchases made by these were com­
+puted as the observed payment ratio. A variable,
+Cashless, which is 1 minus the observed payment
+ratio of cash was created. Its average value is 0.536.
+Notably, some respondents who answered our
+questions on cash demand did purchase during
+the one-week survey periods of SCI in 2019 but
+did not purchase during the one-week survey per­
+iods of SCI in April 2021, and their observed cash­
+less ratio is unobservable. Thus, the number of
+respondents for this question is reduced from
+3,008 to 2,983.
+
+APPLIED ECONOMICS
+
+The financial literacy score based on the socalled Big-3 questions on financial literacy
+(Lusardi and Mitchell 2014) was also used; it is
+constructed from the number of correct answers
+to three questions about the compound interest
+rate, relationship between inflation and real value
+of money, and diversified investments in stocks.
+Big3 denotes respondents’ financial literacy score.
+Table 2 shows that the average Big3 is 1.369 based
+on the weighted sample. A comparison of the
+unweighted and weighted mean shows that the
+available sample observations over-represent
+young and female respondents. Lusardi and
+Mitchell (2014) showed that males tend to have
+higher financial literacy scores, and thus our
+unweighted sample underrepresents Big3. Our
+average value of Big3 is lower than the average
+values of Big3 of 1.7 (obtained from the FLS 2019;
+Fujiki 2020) and 1.73 (obtained from RADAR
+2020; Fujiki 2021b).
+2.5. Data on cash holdings
+
+Table 2 reports the means of the amount of cash
+that respondents carry (Cash on hand, COH) and
+the amount of cash kept at home for savings and
+emergency spending (Cash at home, CAH).
+Regarding COH, respondents selected an option
+from the following five ranges of cash holding (in
+units of yen; variables in parentheses take a value of
+1 for respondents who choose the corresponding
+option): 0–1,000 (COH_1k), 1,000–5,000
+(COH_1k_5k), 5,000–10,000 (COH_5k_10k),
+10000–50,000 (COH_10k_50k), and more than
+50,000 (COH_50k_). As of March 2022, 1,000 yen
+was about 8.3 U.S. dollars or 7.5 euros. The variable
+COHQ, which takes values of 0.5, 3, 7.5, 30, and 50
+for the respondents selecting COH_1k,
+COH_1k_5k, COH_5k_10k, COH_10k_50k, and
+COH_50k_, respectively, was created. Its weighted
+mean is 15.83.
+Regarding CAH, respondents selected an option
+from the following eight ranges of cash holding
+(in units of 1,000 yen; variables in parentheses
+take a value of 1 for respondents who choose
+the corresponding option): 0–10 (CAH_10k), 10–50
+(CAH_10k_50k), 50–100 (CAH_50k_100k), 100–200
+(CAH_100k_200k), 200–300 (CAH_200k_300k), 300–
+500 (CAH_300k_500k), 500–1,000 (CAH_500k_1m),
+
+7
+
+1,000 or more (CAH_1m_), ‘Don’t know’
+(CAH_dontknow), and ‘Don’t want to answer’
+(CAH_NA). We also used the variable CAHQ, which
+takes values of 5, 30, 75, 150, 250, 400, 750, and 1,000
+for the respondents selecting CAH_10k,
+CAH_10k_50k, CAH_50k_100k, CAH_100k_200k,
+CAH_200k_300k, CAH _300k_500k, CAH_500k_1m,
+and CAH_1m_. In creating CAHQ, propensity score
+matching was used to impute the value of CAH for
+respondents who chose CAH_dontknow and
+CAH_NA. Respondents who reported CAH and
+those who chose CAH_ dontknow and CAH_NA
+were matched using all the demographic variables
+explained in Section 2.4 as common covariates by the
+logit model. If some variables have an absolute value of
+standardized difference after matching of more than
+0.1, the variable with the largest absolute value of the
+standardized difference was removed and matched
+again using the remaining common covariates. This
+process continues until all the absolute values of the
+standardized differences after matching are less than
+0.1 (Austin 2011). The weighted mean of CAHQ is
+115.24.
+Our data are unique as we differentiate between
+COH and CAH. The Survey of Household Finance
+conducted by the Central Council for Financial
+Services Information has recorded outstanding
+amount of cash held at home since 1998; however,
+it does not distinguish between COH and CAH and
+does not provide data on crypto asset ownership.
+Some private survey companies also survey cash
+holdings, but they focus on COH. RADAR 2020
+does ask whether respondents hoard cash, but not
+the amount of CAH.
+One of the reasons for the cash holding is pre­
+ferences over anonymity. We define a dummy vari­
+able Privacy that takes a value of 1 for the
+respondents who chose the response option ‘I will
+stop holding them if I can use financial products
+which could protect my privacy’ to the question
+‘What do you plan to do with the cash you keep at
+home for savings and emergency expenses? Please
+select all that apply’. The weighted mean of Privacy
+is 0.032.
+3. Methodology
+
+This study employs a nonparametric test, regres­
+sion analyses, and principal component analysis.
+
+8
+
+H. FUJIKI
+
+A rank-sum test was used to compare cash hold­
+ings across groups (CBDC knowledge and CBDC
+future use) nonparametrically. Top-coded data on
+COHQ and CAHQ were used; thus, the rank-sum
+test suggests that the distribution of one of the
+groups is skewed to the left or right but does not
+determine the difference in the average amount of
+COHQ and CAHQ across groups.
+Second, two types of regression analyses were
+used. First, regarding the respondents’ responses
+for categorical variables—Crypto owner, CBDC
+knowledge, and CBDC future use—a logit model
+or multinomial logit model was run using
+Equation (1):
+Iij ¼ Xi δj þ νij ;
+
+(1)
+
+where Iij is the indicator variables for respondent
+i for the choice of response j, Xi is a vector of the
+demographic variables, and νij is an error term.
+Privacy is also controlled when analysing Crypto
+owner because crypto assets demand could come
+from its anonymity.
+Second, regarding the demand for COH and
+CAH conditional on Crypto owner, Equation (2)
+was estimated:
+Cashi ¼ Xi β1 þ Privacyi β2 þ Crypto owneri γ
+þ ui ;
+(2)
+where ui is an error term. Privacy is controlled
+because cash demand could come from its
+anonymity.
+If Cash is COHQ or CAHQ, the ordinary least
+square (OLS) regression was used. If Cash is COH
+or CAH, the interval regressions were used. For
+CAH, respondents who chose CAH_ dontknow
+and CAH_NA were dropped. This study focuses
+on whether the parameter estimates of γ are posi­
+tive or negative to infer whether the crypto asset
+owners tend to have a large amount of cash com­
+pared with nonowners.
+In estimating Equation (2), Crypto owner is
+endogenously determined with Cash. To deal with
+this problem, a vector of variables Z that are related
+to the current crypto asset ownership but not
+directly related to the current cash demand was
+needed. Z comprising Future crypto ownership,
+CBDC knowledge, and CBDC future use was pro­
+posed as below.
+
+First, Figure 2 shows that Future crypto owner­
+ship is negatively correlated with crypto asset own­
+ership, but this is just a future perspective about all
+Japanese citizens and is not related to current cash
+demand. As expected, respondents belonging to
+Crypto owner and Both tend to anticipate higher
+use of crypto assets 30 years in the future than
+Crypto nonowner and Bothno, respectively.
+Respondents who chose CR_only tend more to
+choose ‘Don’t know’ compared with those who
+chose Bothno. Second, CBDC knowledge was used
+as respondents who have better knowledge about
+the CBDC must be knowledgeable about crypto
+assets and thus are more likely to have crypto
+assets. This is confirmed by the top left panel of
+Figure 3; however, the knowledge is not directly
+related to current cash demand because CBDC has
+not yet been issued in Japan. Third, CBDC Future
+use was used because respondents who want to use
+CBDC in the future are more likely to have crypto
+assets as shown in the top right panel of Figure 3 ;
+however, future CBDC demand is not directly
+related to current cash demand because CBDC
+(%)
+60
+50
+40
+30
+20
+10
+0
+Don't
+know
+
+Less 10% to 25% to 50% to 75% to
+than
+less
+less
+less 100%
+10%
+than
+than
+than
+25%
+50%
+75%
+
+Crypto nonowner
+
+Crypto owner
+
+(%)
+60
+50
+40
+30
+20
+10
+0
+Don't
+know
+
+Less 10% to 25% to 50% to 75% to
+than
+less
+less
+less
+100%
+10%
+than
+than
+than
+25%
+50%
+75%
+
+Both no
+
+RA_only
+
+CR_only
+
+Both
+
+Figure 2. Future crypto ownership and crypto asset ownership.
+Source: Author’s calculations.
+
+APPLIED ECONOMICS
+
+(%)
+100
+
+9
+
+(%)
+70
+60
+50
+40
+30
+20
+10
+0
+
+80
+60
+40
+20
+0
+I understand the I have heard
+details of CBDC about CBDC
+Crypto nonowner
+
+I have never
+heard about
+CBDC
+Crypto owner
+
+(%)
+100
+80
+60
+40
+20
+0
+I understand the I have heard
+details of CBDC about CBDC
+Both no
+
+RA_only
+
+I have never
+heard about
+CBDC
+CR_only
+Both
+
+I want to use
+CBDC
+
+I don’t want to
+use CBDC
+
+Crypto nonowner
+
+I don’t know
+
+Crypto owner
+
+(%)
+70
+60
+50
+40
+30
+20
+10
+0
+I want to use
+CBDC
+Both no
+
+I don’t want to
+use CBDC
+
+RA_ only
+
+I don’t know
+
+CR_only
+
+Both
+
+Figure 3. CBDC usage and crypto asset ownership. Source: Author’s calculations.
+
+has not yet been issued in Japan. The bottom two
+panels of Figure 3 show that respondents who
+selected CR_only are more likely to understand or
+use CBDC compared with Both no but are less likely
+to understand or use CBDC compared with
+RA_only. Therefore, we should be mindful of the
+heterogeneity within crypto asset owners by the
+holdings of RA. Note also that crypto asset owners’
+reply that they understand the detail of CBDC might
+reflect their understanding of CBDC related to
+crypto assets. However, CBDC has a more diverse
+role than crypto assets; for example, it includes
+wholesale CBDC, a central bank liability to com­
+mercial banks. Thus, we should treat self-assessment
+of knowledge on CBDC measured by CBDC knowl­
+edge as the upper bound of their actual knowledge
+about CBDC, because crypto asset owners might be
+overconfident about their understanding of CBDC.
+We use these instrumental variables in two ways.
+First, we use the control function approach follow­
+ing Balutel et al. (2022). We use Equation (3):
+Crypto owneri ¼ PrðZi ; Xi ; Privacyi Þþ 2i
+
+(3)
+
+where 2i is an error term that has an independent
+and identically distributed logistic distribution.
+Equation (3) was estimated assuming that the link
+
+function Pr is in logit form. The deviance residuals
+of Equation (3), named U Cryptoi , was used as
+a control function and the conditional cash
+demand function in Equation (4) was estimated
+to address the endogeneity of Crypto owner:
+Cashi ¼ Xi β1 þ Privacyi β2 þ Crypto owneri γ
+þ U Cryptoi δ þ ui :
+(4)
+Second, we employed an endogenous treatment
+model that estimates (3) by probit model
+and Equation (2) simultaneously using Stata 17 ere­
+gress and eintreg command with entreat option.
+One may wonder if Cashless, FA, and Big3 in Xi
+are also endogenous variables. Cashless reflects the
+choice of payment method including COH. While
+the respondents replied to the questions on COH
+and CAH from June 2021 to July 2021, Cashless is
+measured using April 2021 spending data; thus,
+Cashless is an exogenous variable.
+One may doubt our instrumental variable
+approach because Privacy may not be enough to con­
+trol the demand for crypto assets and cash by their
+anonymity. Therefore, Section 5.4 reports a principal
+component analysis that examines the relationship
+between the cash demand and the principal compo­
+nent that best relates to crypto asset ownership.
+
+10
+
+H. FUJIKI
+
+4. Descriptive analysis
+4.1. Demographic variables by CBCD knowledge,
+CBCD future use, and crypto asset ownership
+
+Table 3 reports the means of demographic variables
+by CBDC knowledge, CBCD future use, and crypto
+asset ownership measured by the deviation from the
+weighted average responses shown in the second
+column.
+Regarding CBDC knowledge, respondents who
+chose ‘I understand the details of CBDC’ tend to
+be young and male, with a full-time job, longer
+education, higher annual household income,
+higher financial asset holdings, higher cashless
+ratio, and a higher level of financial literacy.
+Respondents who chose ‘I have heard about
+CBDC’ are similar to those who chose ‘I under­
+stand the details of CBDC’ except for the point that
+they are more likely to be old and self-employed.
+As anticipated from Figure 1, respondents who
+chose ‘I want to use CBDC’ have similar demo­
+graphic characteristics as respondents who chose ‘I
+understand the details of CBDC’.
+Regarding crypto asset ownership, respondents
+who chose Crypto owner and Both have similar
+demographic characteristics as respondents who
+chose ‘I understand the details of CBDC’ and ‘I
+want to use CBDC’ (except for Cashless in the
+case of Crypto owner). The results support our
+assumption that respondents who will use CBDC
+have similar demographic characteristics as crypto
+assets owners. Respondents who chose RA_only
+also have a similar demographic characteristic as
+respondents who chose ‘I understand the details of
+CBDC’ and ‘I want to use CBDC’ (but respondents
+choosing RA_only tend to be aged).
+4.2. Cash demand by CBCD knowledge, CBCD
+future use, and crypto asset ownership
+
+Table 4 reports the weighted average of COHQ and
+CAHQ, classified by the variables listed in the first
+and second columns. The column labelled N
+reports the number of observations used to com­
+pute the weighted average of COHQ and CAHQ.
+Compared with the overall weighted average of
+COHQ and CAHQ, respondents who chose ‘I
+understand the details of CBDC’ and CR_only
+tend to have a lower weighted average of COHQ
+
+and CAHQ. Moreover, respondents who chose ‘I
+want to use CBDC’. Crypto owner, and Privacy tend
+to have a higher weighted average of COHQ and
+CAHQ.
+Table 5 reports the results of rank-sum tests for
+the group constructed by the answers to the ques­
+tions on CBCD knowledge and CBCD future use.
+A positive and statistically significant test statistic
+suggests that the COHQ distribution for those who
+chose ‘I understand the details of CBDC’ is skewed
+to the left compared with that of ‘I have heard
+about CBDC’. A negative and statistically signifi­
+cant test statistic suggests that the COHQ distribu­
+tion for those who chose ‘I want to use CBDC’ is
+skewed to the right compared with those of ‘I don’t
+want to use CBDC’ and ‘I don’t know’.
+
+5. Regression analysis
+5.1. Who understands the details of CBDC and
+wants to use CBDC?
+
+We used a multinomial logit model of Equation (1)
+to examine which demographic characteristics
+relate to the choice of ‘I understand the details of
+CBDC’ and ‘I want to use CBDC’. Panel 1 of
+Table 6 summarizes the estimates of marginal
+effects for CBDC knowledge and CBDC future use.
+In estimating the model, we began by including all
+the demographic variables and then dropped the
+demographic variables that were not statistically
+significant for all the response categories.
+Consistent with the Table 3 results, Panel 1 of
+Table 6 shows that respondents with lower age,
+male gender, higher educational attainment, and
+a higher household annual income tend to choose
+‘I understand the details of CBDC’. Moreover,
+respondents with higher age, male gender, higher
+educational attainment, a higher household annual
+income, lower cashless payment ratio, and higher
+level of financial literacy tend to choose ‘I have
+heard about CBDC’. Respondents with male gen­
+der, not having a temporary job, a higher house­
+hold annual income, middle range amount of
+financial asset holdings, debt, higher cashless pay­
+ment ratio, and a higher level of financial literacy
+tend to choose ‘I want to use CBDC’. Panel 2
+reports the marginal effects of Cyopto owner when
+we add this variable to the regressions reported in
+
+3.292*
+−0.199***
+0.059***
+0.034***
+−0.064***
+0.015***
+0.551***
+452.314***
+−0.065***
+0.036**
+0.058***
+−0.036**
+−0.036***
+0.037***
+0.568***
+
+−0.114***
+0.168**
+0.358***
+2238.483***
+−0.064*
+
+0.268**
+0.035*
+−0.19***
+0.21**
+
+−0.05*
+0.18***
+0.544***
+
+I have heard
+about CBDC
+
+CBDC knowledge
+
+−8.813**
+−0.395***
+0.101***
+−0.115***
+
+−0.053***
+
+I understand the
+details of CBDC
+−0.03**
+
+−0.176***
+
+−0.006***
+−0.006***
+
+−0.017***
+
+−241.536**
+0.02***
+0.001*
+
+−0.008**
+0.023***
+−0.013***
+
+0.016***
+
+−0.343***
+0.073***
+
+0.004**
+
+I have never heard
+about CBDC
+0.001***
+
+0.172***
+0.093***
+−0.168***
+0.138***
+−0.072***
+−0.066***
+0.105***
+0.753***
+
+−0.096***
+0.072***
+0.569***
+1441.251***
+−0.095***
+
+−0.038**
+
+−2.813***
+−0.28***
+0.118***
+
+I want to
+use CBDC
+−0.026***
+
+−0.023***
+−0.047**
+−0.059***
+
+−0.015***
+
+−230.025*
+0.031**
+
+0.026**
+0.006***
+
+0.006***
+
+0.055***
+
+0.014**
+−0.026*
+−0.028***
+0.039**
+0.002***
+−0.027***
+0.025*
+0.007**
+−0.106***
+
+−138.551**
+
+0.003**
+−0.017***
+
+0.007***
+
+−0.443***
+0.021***
+
+0.006**
+
+−0.013*
+
+I don’t want to
+use CBDC
+I don’t know
+0.003**
+0.003***
+0.003**
+
+CBDC future use
+
+0.006***
+
+0.795***
+0.022***
+
+Crypto
+nonowner
+0.002***
+0.001**
+
+0.024*
+
+CR_only
+
+−0.017***
+
+Bothno
+0.009***
+0.013***
+
+−0.018**
+4.768*** −3.063***
+0.105***
+0.017*** −0.047***
+0.045***
+
+−0.008*
+
+−0.02*
+
+RA_only
+
+−0.013***
+0.022***
+−0.004*** −0.005***
+0.353*** −0.311***
+402.665***
+−0.111*** 0.136***
+0.009**
+0.044***
+−0.132***
+0.118*** −0.102***
+−0.061*** −0.018**
+−0.006*** 0.024***
+0.077*
+−0.013***
+−0.071*** −0.011***
+0.067*** −0.035**
+0.474*** −0.34***
+
+−7.506*** −11.131***
+−0.292***
+0.245***
+−0.07**
+
+Both
+
+−0.093***
+0.009***
+−0.112***
+−0.022***
+0.002***
+−0.042***
+0.335*** −0.033**
+0.542***
+612.344*** −59.988*** 1180.334***
+−0.033*
+−0.089***
+0.09***
+0.093***
+0.106*
+−0.003**
+0.089***
+−0.139***
+−0.199***
+0.085**
+−0.008***
+0.124***
+−0.055*
+0.005***
+0.003*
+0.085***
+0.496*** −0.049***
+0.788***
+
+−8.111***
+−0.226***
+0.192***
+
+Crypto
+owner
+
+*, **, and *** show that the weighted average by demographics is statistically different from the overall weighted average by the 10%, 5%, and 1% significance levels by the t-test, respectively. We report variables whose
+statistical significance level is below 10% only.
+
+Variable name Weighted
+Hokkaido
+0.039
+Tohoku
+0.067
+Kanto
+0.061
+Keihin
+0.297
+Hokuriku
+0.054
+Keihanshin
+0.169
+Tokai
+0.116
+Chugoku
+0.059
+Shikoku
+0.028
+Kyusyu
+0.109
+Age_Q
+50.834
+Female
+0.505
+Full_time
+0.373
+Part_time
+0.152
+Temp
+0.072
+Self_employed
+0.053
+House
+0.167
+NoStuOth
+0.182
+Edu_Q
+14.391
+Income_Q
+5517.848
+FA_0
+0.161
+FA_Low
+0.167
+FA_Mid
+0.194
+FA_High
+0.186
+FA_X
+0.292
+Debt_use
+0.302
+Debt_no
+0.613
+Debt_dontknow
+0.085
+Cashless
+0.536
+Big3
+1.369
+
+Overall
+
+Table 3. Demographic variables by CBDC knowledge, CBDC future use, and crypto asset ownership.
+
+APPLIED ECONOMICS
+11
+
+12
+
+H. FUJIKI
+
+Table 4. Cash demand by CBDC knowledge, CBDC future use, and crypto asset ownership.
+COHQ
+15.832
+
+CAHQ
+115.238
+
+N
+3,008
+
+I understand the details of CBDC
+I have heard about CBDC
+I have never heard about CBDC
+
+13.668
+18.186
+15.354
+
+97.367
+119.067
+115.268
+
+88
+545
+2,375
+
+I want to use CBDC
+I don’t want to use CBDC
+I don’t know
+
+17.811
+16.185
+15.277
+15.877
+14.522
+16.616
+15.828
+17.570
+16.264
+14.516
+
+125.396
+129.498
+105.589
+121.606
+68.772
+150.443
+114.614
+132.934
+119.290
+100.689
+
+288
+910
+1,810
+266
+101
+165
+2,742
+302
+1,438
+1,002
+
+17.141
+14.708
+14.753
+20.469
+5.394
+15.833
+17.633
+14.289
+16.042
+18.002
+13.386
+13.227
+17.040
+11.320
+17.723
+14.404
+17.302
+
+129.233
+115.867
+103.788
+102.746
+84.468
+111.887
+125.2469
+107.1084
+108.906
+129.039
+102.862
+94.310
+132.497
+62.151
+124.149
+108.855
+124.385
+
+599
+540
+246
+52
+11
+1,560
+1,385
+1,175
+260
+1,125
+328
+120
+190
+39
+1,195
+1,136
+96
+
+Overall averaege
+CBDC knowledge
+
+CBDC future use
+
+Crypto owner
+I used to use or own crypto-assets in the past but do not currently use or own
+I currently use or own crypto-assets (Current owner)
+Crypto nonowner
+I understand what crypto-assets are, but I have never used or owned one
+I have heard of crypto-assets but have never used or owned them
+I have never heard of crypto-assets and have never used or owned them
+Future crypto ownership
+Less than 10%
+10% to less than 25
+25% to less than 50
+50% to less than 75
+75% to 100
+I don’t know
+RA_own
+No_RA_own
+I used to use or hold these products in the past but do not use or hold them now
+I currently use or own
+I have never used or owned these financial products and have never heard of them
+I do not want to answer
+Both
+CR_only
+RA_only
+Bothno
+Privacy
+
+Table 5. Results of rank-sum tests.
+Groups
+(N)
+Groups
+(N)
+Groups
+(N)
+Groups
+(N)
+
+Group1
+I understand the details of CBDC
+(88)
+I understand the details of CBDC
+(88)
+I want to use CBDC
+(288)
+I want to use CBDC
+(288)
+
+Group2
+I have never heard about CBDC
+(2375)
+I have heard about CBDC
+(545)
+I don’t want to use CBDC
+(910)
+I don’t know
+(1810)
+
+Variable
+COHQ
+CAHQ
+COHQ
+CAHQ
+COHQ
+CAHQ
+COHQ
+CAHQ
+
+Test statistics
+1.322
+−0.502
+2.865***
+0.413
+−0.891***
+−0.82
+−2.273**
+−1.588
+
+P-value
+0.186
+0.615
+0.004
+0.680
+0.000
+0.412
+0.023
+0.112
+
+The second and third columns specify the name of the group and the number of observations per group in the parenthesis, respectively. The fourth column
+shows the variables to be tested, the fifth column shows the rank-sum test statistics, and the sixth column reports the probability value that the test statistics
+are statistically significant. The null hypothesis is that the rank sum of the respondents belonging to the group reported in the column labelled Group 1 is the
+same as the group reported in the column labelled Group 2. Positive (negative) test statistics suggest that the distribution of Group 1 is skewed to the left
+(right) compared with Group 2. *, **, and *** show 10%, 5%, and 1% statistical significance levels of the test, respectively.
+
+Panel 1. Positive and statistically significant mar­
+ginal effects for ‘I understand the details of CBDC’
+and ‘I want to use CBDC’ are consistent with our
+finding in Table 3 that Crypto owner has similar
+demographic characteristics as respondents who
+chose ‘I understand the details of CBDC’ and ‘I
+want to use CBDC’. Parameter estimates for the
+other variables, not reported in Panel 2, are similar
+to the results reported in Panel 1.
+
+5.2. Demand for COH
+
+In Table 7, column (1) reports the results of the
+logit estimation of Equation (3). Columns (2) and
+(3) show the results for OLS and interval regression
+of Equation (4) using COHQ and COH as Cash.
+Columns (4)–(7) show the results of endogenous
+treatment regression of Equations (2) and (3) using
+COHQ and COH as Cash. In addition to the
+
+APPLIED ECONOMICS
+
+13
+
+Table 6. Results for multinomial logit model.
+CBDC knowledge
+
+Panel 1
+Kanto
+Keihanshin
+Shikoku
+Kyusyu
+Age_Q
+Female
+Full_time
+Temp
+Edu_Q
+Income_Q
+FA_Mid
+FA_X
+Debt_use
+Cashless
+Big3
+ll
+chi2
+p
+N
+Panel 2
+Crypto owner
+
+CBDC future use
+
+I understand the details of
+CBDC
+
+I have heard about
+CBDC
+
+I have never heard about
+CBDC
+
+−0.0456*
+
+−0.0276
+
+0.0732***
+
+0.0092**
+−0.0006***
+−0.0524***
+−0.0129
+
+0.0126
+0.0016***
+−0.1076***
+−0.0238
+
+−0.0217
+−0.0011**
+0.1599***
+0.0367*
+
+0.0033**
+0.0037***
+
+0.0064*
+0.0068***
+
+−0.0098**
+−0.0105***
+
+0.0197*
+0.0054
+0.0042
+−1564.334
+847.934
+0
+2976
+
+0.0131
+−0.0347***
+0.0596***
+
+−0.0328
+0.0293**
+−0.0637***
+
+0.0453***
+
+0.1305***
+
+−0.1759***
+
+I want to use
+CBDC
+
+I don’t want to use
+CBDC
+
+I don’t
+know
+
+0.0289***
+0.0078
+
+0.0342
+−0.0775**
+
+−0.0631**
+0.0697*
+
+−0.0005
+−0.0581***
+
+0.0026***
+0.0548**
+
+−0.0021***
+0.0033
+
+−0.0355*
+
+−0.0087
+
+0.0442
+
+0.0064***
+0.0263**
+−0.0253
+0.0193**
+0.0419***
+0.0438***
+−2501.965
+461.079
+0
+2976
+
+0.0009
+0.0077
+−0.0593***
+−0.0453**
+−0.1059***
+−0.0083
+
+−0.0073**
+−0.0341**
+0.0846***
+0.026
+0.064***
+−0.0354***
+
+0.1058***
+
+−0.0885**
+
+−0.0173
+
+The first column reports the name of demographic variables and control variable, log-likelihood ratio (row labelled ll), chi-square test statistics for the null
+hypothesis that all of the parameter estimates are zero (row labelled chi2), the probability value that the test statistics are statistically significant (row labelled
+p), numbers of observations (row labelled N). Marginal effects are reported. Standard errors are clustered by the groups of age, gender, and region. *, **, and
+*** show that the parameter estimates are statistically significant at 10%, 5%, and 1% levels, respectively.
+
+number of observations N, we report pseudo
+R square for the logit equation in column (1). We
+report adjusted R square for the OLS regression in
+column (2). For the interval regressions in column
+(3), we report the log of the standard deviation of
+the error term (lnsigma) in Equation (4). For the
+endogenous treatment regressions in columns (5)
+and (7), we report the correlation coefficient of ui
+and 2i (Rho).
+Columns (1), (4), and (6) show that our
+Z variables, Future crypto ownership, CBDC
+knowledge, and CBDC future use are statistically
+significant. We use the deviance residuals
+obtained from the estimates of Equation (1) for
+U_Crypto. Columns (2), (3), (5), and (7) show that
+Crypto owner are negative and statistically signifi­
+cant. Columns (2) and (3) also show that
+U_Crypto is negative and statistically significant.
+The parameter estimates of Crypto owner suggest
+that crypto asset owners tend to have a smaller
+amount of COH by 4,000–7,000 yen than crypto
+asset nonowners. Similar results are obtained
+when we use Current owner, Both, CR_only
+instead of Crypto owner.
+
+Regarding the cash demand Equations (2), (3),
+(5), and (7), the choice of estimation methods affects
+the statistical significance of parameter estimates for
+Keihanshin and Tokai, but the qualitative nature of
+the remaining parameter estimates is quite similar.
+Respondents with older age, male, jobs other than
+part-time or temporary jobs, higher household
+income, higher amount of financial asset holdings,
+higher level of financial literacy, and without debt
+tend to have a higher amount of COH. A Canadian
+study found a negative correlation between COH
+and Big3 (Huynh, Nicholls, and Zhu 2020), but
+our study finds a positive correlation.
+5.3. Demand for CAH
+
+Table 8 reports the results for CAH. Columns (1)
+and (2) show the results for OLS and interval
+regression of Equation (4) using CAHQ and CAH
+as Cash. Columns (3) through (6) show the results
+of endogenous treatment regression of Equations
+(2) and (3) using CAHQ and CAH as Cash. The
+estimates of Equation (3) for column (1) are the
+same as those reported in column (1) of Table 7,
+
+14
+
+H. FUJIKI
+
+Table 7. Regression results for COH (cash on hand).
+(1)
+
+(2)
+Control function
+
+(3)
+
+Crypto owner
+Logit
+0.147**
+−0.949***
+−0.302***
+
+COHQ
+OLS
+
+COH
+Interval
+
+−7.045***
+−3.767***
+1.506
+0.466
+2.254***
+−0.355
+1.25
+0.756
+0.514
+−0.107
+2.141***
+0.077***
+−2.150***
+0.324
+−2.675***
+−3.713***
+1.402
+0.107
+−0.019
+0.001***
+−0.311
+2.618***
+5.102***
+2.342***
+−1.208**
+−0.424
+1.025***
+1.556
+8.758***
+
+−5.828***
+−3.005**
+1.318
+0.747
+2.391***
+−0.009
+1.735***
+0.890**
+0.76
+−0.139
+2.088***
+0.067***
+−1.886***
+0.01
+−2.483***
+−3.114***
+1.016
+−0.077
+−0.094
+0.001***
+−0.056
+1.572**
+4.481***
+1.646***
+−1.003**
+−0.66
+0.973***
+1.277
+7.386***
+2.379***
+
+2976
+
+2976
+
+0.219***
+2976
+
+0.140***
+2976
+
+−11800.000
+
+−4999.923
+407.094
+0
+
+−12600.000
+403.288
+0.000
+
+−5771.425
+211.045
+0.000
+
+Model
+Dependent variables
+Estimation methods
+Future crypto ownership
+CBDC knowledge
+CBDC future use
+Crypto owner
+U_Crypto
+Hokkaido
+Tohoku
+Kanto
+Hokuriku
+Keihanshin
+Tokai
+Chugoku
+Shikoku
+Kyusyu
+Age_Q
+Female
+Full_time
+Part_time
+Temp
+Self_employed
+House
+Edu_Q
+Income_Q
+FA_0
+FA_Mid
+FA_High
+FA_X
+Debt_use
+Cashless
+Big3
+Privacy
+Constant
+lnsigma
+Rho
+N
+Pseudo R square
+Log likelihood
+chi2
+P-value of model test
+Adjusted R square
+
+−0.06
+−0.032
+−0.077
+0.385***
+−0.093
+0.165
+0.507
+−0.368
+0.091
+−0.038***
+−0.544***
+0.345
+0.17
+0.234
+0.588
+0.386
+0.006
+0
+−0.429**
+−0.392**
+−0.109
+−0.354
+−0.041
+−0.022
+0.04
+0.550**
+2.666***
+2976
+0.137
+−769.351
+643.621
+0
+
+0
+0.1
+
+(4)
+(5)
+Endogenous treatment
+Crypto owner
+Probit
+0.084***
+−0.530***
+−0.142***
+
+COHQ
+Linear
+
+(6)
+(7)
+Endogenous treatment
+Crypto owner
+Probit
+0.082***
+−0.526***
+−0.144***
+
+−6.685***
+0.028
+−0.039
+−0.062
+0.172
+−0.045
+0.088
+0.269*
+−0.151
+0.051
+−0.019***
+−0.275***
+0.159
+0.055
+0.068
+0.294
+0.172
+−0.001
+0
+−0.222*
+−0.225**
+−0.08
+−0.178*
+−0.018
+0.004
+0.022
+0.286*
+1.367***
+
+1.566
+0.462
+2.308**
+−0.512
+1.271*
+0.716
+0.373
+0.049
+2.096**
+0.090***
+−1.874***
+0.244
+−2.711***
+−3.762***
+1.217
+−0.001
+−0.029
+0.001***
+−0.147
+2.709***
+5.114***
+2.485***
+−1.190**
+−0.421
+0.969***
+1.259
+7.155***
+
+COH
+Interval
+
+−4.263***
+0.009
+−0.044
+−0.063
+0.167
+−0.051
+0.085
+0.270*
+−0.167
+0.045
+−0.019***
+−0.275***
+0.164
+0.056
+0.075
+0.295
+0.179
+−0.001
+0
+−0.223*
+−0.221**
+−0.08
+−0.179*
+−0.02
+0.009
+0.022
+0.291*
+1.365***
+
+1.388
+0.741
+2.458**
+−0.173
+1.752**
+0.848
+0.602
+0.026
+2.044**
+0.082***
+−1.573***
+−0.069
+−2.505***
+−3.147***
+0.834
+−0.185
+−0.105
+0.001***
+0.122
+1.665**
+4.497***
+1.807***
+−0.983**
+−0.67
+0.908***
+0.919
+5.817**
+
+*, **, and *** denote 10%, 5%, and 1% statistical significance levels by the t-test, respectively.
+
+and those for column (2) are similar to these esti­
+mates. Columns (3) and (5) show that Future
+crypto ownership and CBDC knowledge are statisti­
+cally significant among Z variables. We notice that
+the parameter estimates for both Crypto owner and
+U_Crypto are positive but not statistically signifi­
+cant in columns (1) and (2); however, Crypto owner
+is positive and statistically significant in columns
+(4) and (6). The differences between CAH by
+crypto asset owners and nonowners are positive,
+but the statistical significance of parameter esti­
+mates of these differences is not clear. Similar
+results are obtained when we use Current owner,
+Both, CR_only instead of Crypto owner. Columns
+(1), (2), (4), and (6) show that respondents living in
+the Keihanshin area and respondents with a higher
+
+amount of financial asset holdings tend to have
+a higher amount of CAH, irrespective of the esti­
+mation methods; however, for the other demo­
+graphic characteristics, the statistical significance
+of parameter estimates differ from equation to
+equation.
+5.4. Robustness checks by principal component
+analysis
+
+One may doubt the use of instrumental variable
+regressions because of the control variable. For
+example, Privacy may not address the demand for
+cash for day-to-day payment due to anonymity
+because the questions used to construct this vari­
+able asks about future cash hoarding. In this
+
+APPLIED ECONOMICS
+
+15
+
+Table 8. Regression results for CAH (cash at home).
+(1)
+Model
+Dependent variables
+Estimation methods
+Future crypto ownership
+CBDC knowledge
+CBDC future use
+Crypto owner
+U_Crypto
+Hokkaido
+Tohoku
+Kanto
+Hokuriku
+Keihanshin
+Tokai
+Chugoku
+Shikoku
+Kyusyu
+Age_Q
+Female
+Full_time
+Part_time
+Temp
+Self_employed
+House
+Edu_Q
+Income_Q
+FA_0
+FA_Mid
+FA_High
+FA_X
+Debt_use
+Cashless
+Big3
+Privacy
+Constant
+lnsigma
+Rho
+N
+Pseudo R square
+Log likelihood
+chi2
+P-value of model test
+Adjusted R square
+
+(2)
+Control function
+
+(3)
+(4)
+Endogenous treatment
+
+CAHQ
+OLS
+
+CAH
+Interval
+
+6.803
+10.21
+−7.91
+9.67
+−18.468**
+2.112
+21.427***
+−8.751
+−13.314
+−19.008**
+−12.552
+0.45
+−7.941
+−6.957
+−17.172*
+−33.257***
+−11.703
+6.904
+−0.781
+0.004***
+−9.484
+33.869***
+85.211***
+17.447**
+−8.5
+−20.362**
+1.32
+5.538
+77.634*
+
+14.447
+21.662
+−13.664
+6.838
+−24.152**
+1.582
+25.666***
+−15.344*
+−13.081
+−23.074**
+−14.527
+0.425
+−2.099
+−7.002
+−13.366
+−33.677**
+−6.437
+11.432
+−0.578
+0.005***
+−6.999
+37.641***
+86.001***
+17.864*
+−14.114*
+−19.562
+−0.813
+4.642
+60.081
+5.291***
+
+2976
+
+2314
+
+−0.792***
+2976
+
+−0.804***
+2314
+
+−19700.000
+
+−6842.084
+371.723
+0.000
+
+−20400.000
+461.648
+0.000
+
+−7375.129
+315.435
+0.000
+
+0.000
+0.042
+
+Crypto owner
+Probit
+0.036*
+−0.274***
+−0.045
+
+CAHQ
+Linear
+
+(5)
+(6)
+Endogenous treatment
+Crypto owner
+Probit
+0.050**
+−0.287***
+−0.057
+
+260.199***
+0.016
+−0.011
+−0.067
+0.14
+−0.064
+0.072
+0.181
+−0.123
+0.101
+−0.016***
+−0.211***
+0.037
+−0.057
+0
+0.075
+0.043
+0.011
+0
+−0.164*
+−0.228**
+−0.166
+−0.087
+−0.033
+0.015
+0.048
+0.291*
+1.365***
+
+−5.034
+10.183
+−14.116
+−4.365
+21.817*
+−10.427
+−20.966
+−11.458
+−15.099
+1.116***
+8.446
+−9.154
+−15.816
+−32.018**
+−19.526
+3.341
+−1.177
+0.004***
+−0.081
+39.004***
+86.996***
+25.262***
+−7.572
+−21.888*
+−2.302
+−15.318
+24.566
+
+CAH
+Interval
+
+273.340***
+0.029
+0.022
+−0.008
+0.192
+−0.117
+0.118
+−0.016
+−0.22
+0.078
+−0.015***
+−0.237**
+0.082
+−0.111
+−0.016
+−0.022
+0.147
+0.013
+0
+−0.118
+−0.219**
+−0.161
+−0.214**
+−0.062
+0.018
+0.049
+0.23
+0.504
+
+−10.902
+4.592
+−21.282
+−8.009
+28.720*
+−18.27
+−11.686
+−12.879
+−14.901
+1.082***
+16.438
+−9.286
+−9.264
+−29.956
+−7.012
+6.227
+−1.117
+0.005***
+−0.49
+42.096***
+87.506***
+27.916**
+−12.495
+−20.783
+−3.666
+−18.38
+8.128
+
+*, **, and *** denote 10%, 5%, and 1% statistical significance levels by the t-test, respectively.
+
+subsection, we conduct a principal component ana­
+lysis and obtain a principal component whose fac­
+tor loading is closely related to crypto asset
+ownership. Table 9 reports the results. Thirteen
+variables listed in the second column in the 5th to
+17th row are used for principal component analy­
+sis. These variables are selected from the results in
+Table 3. The second row reports the six eigenvalues
+whose values exceed 1. The third row shows the
+proportion of total variance explained by the eigen­
+value in columns 3–8. The fourth row shows the
+cumulative proportion of variance explained by the
+eigenvalue up to each column. Fifth to seventeenth
+rows report the factor loadings of variables listed in
+the second column for principal components 1–6.
+The fifth row shows that the sixth principal
+
+component has a higher factor loading to Crypto
+owner; hence, we regard the sixth principal compo­
+nent as a proxy for crypto asset owners. The last
+two rows report the parameter estimates of each
+principal component score that regressed COHQ
+and CAHQ on the estimated six principal com­
+ponent scores. The parameter estimate for the
+sixth principle components score is negative
+and statistically significantly correlated with
+COHQ but not statistically significantly corre­
+lated with CAHQ. The result suggests that
+a person who looks like a crypto asset owner
+judging from a higher principal component
+score tends to have a lower amount of COHQ,
+which is consistent with our findings in Table 7.
+Note that the principal component analysis
+
+16
+
+H. FUJIKI
+
+Table 9. Robustness checks by principal component analysis.
+Principal component
+
+Factor loading
+
+Regression
+
+Eigenvalue
+Proportion
+Cumulative
+Crypto owner
+Age_Q
+Female
+Full_time
+House
+Edu_Q
+Income_Q
+FA_0
+FA_Mid
+FA_High
+FA_X
+Debt_use
+Big3
+COHQ
+CAHQ
+
+1
+2.449
+0.188
+0.188
+0.243
+−0.036
+−0.639
+0.671
+−0.494
+0.560
+0.459
+−0.228
+0.233
+0.358
+−0.372
+0.120
+0.612
+1.564***
+10.995***
+
+2
+1.594
+0.123
+0.311
+−0.111
+0.646
+0.052
+−0.360
+0.367
+0.100
+0.017
+−0.420
+−0.133
+0.640
+0.033
+−0.405
+0.345
+2.077***
+22.301***
+
+3
+1.359
+0.105
+0.416
+−0.016
+−0.223
+0.320
+0.065
+0.192
+0.136
+0.515
+−0.682
+0.228
+−0.170
+0.535
+0.218
+−0.058
+0.552***
+5.45*
+
+4
+1.308
+0.101
+0.516
+−0.048
+0.022
+0.258
+−0.227
+0.344
+−0.060
+0.023
+0.041
+0.730
+−0.069
+−0.632
+0.301
+0.188
+−0.174
+1.306
+
+5
+1.122
+0.086
+0.603
+0.017
+−0.290
+0.342
+0.083
+0.246
+0.036
+0.429
+0.289
+−0.470
+0.479
+−0.240
+0.257
+−0.103
+0.002
+7.871**
+
+6
+1.011
+0.078
+0.680
+0.797
+−0.342
+0.145
+−0.090
+0.155
+0.128
+−0.171
+−0.057
+0.043
+0.017
+−0.040
+−0.388
+0.053
+−0.959***
+−1.852
+
+Principal component analysis and regressions use 3,001 observations. Regarding the regression results for COHQ and CAHQ, adjusted R squared are 0.0764 and
+0.0325, respectively. Constants are 15.781 and 113.318, respectively and both are statistically significantly different from zero at the 1% significance level. *,
+**, and *** denote 10%, 5%, and 1% statistical significance levels by the t-test, respectively.
+
+results are sensitive to the choice of the variables;
+thus, the robustness check here is intended to
+suggest an example.
+6. Discussion
+
+Bijlsma et al. (2021) found that CBDC users would
+be those aged below 35 years, male, and with high
+income. This study confirms their result and
+shows that crypto asset owners tend to have
+a smaller amount of COH by 4,000–7,000 yen
+than crypto asset nonowners conditional on
+respondents’ demographic characteristics. Balutel
+et al. (2022) found that Canadian Bitcoin owners
+hold 83% (in 2018), compared to 95% (in 2017),
+more COH than nonowners. Note that their ana­
+lysis did not control for the amount of financial
+asset holdings, Debt_use, Cashless, and Big3. Even
+dropping these variables from regressions in
+Table 7, we still find that crypto asset owners
+tend to have a smaller amount of COH than
+nonowners.
+The limitations of this study are as follows. First,
+our results using self-assessment of respondents’
+knowledge of CBDC should be treated as the
+upper bound of their actual knowledge about
+CBDC. Second, the data on COH and CAH are topcoded following the advice from Intage to increase
+the number of respondents. Future works can
+address this issue to compare the results with
+Balutel et al. (2022). Third, while addressing the
+endogeneity of Crypto owner, the other source of
+
+endogeneity arising from conventional risky finan­
+cial asset holdings and financial literacy index was
+not addressed. Future works need a tractable model
+of the choice of asset holdings and payment meth­
+ods including CBDC and data for the plausible
+instrumental variables for financial literacy.
+7. Conclusion
+
+This study presented new Japanese consumer sur­
+vey data on the knowledge and potential use of
+CBDC, crypto asset ownership, cash demand
+for day-to-day payment purposes and hoarding
+purposes, and demographic characteristics of
+respondents. Our data show that 4% of respon­
+dents understand CBDC, and 10% are willing to
+use it. The demographic characteristics of respon­
+dents who understand CBDC are similar to those
+of crypto asset owners. Cash demand for day-today payment purposes by crypto asset owners tends
+to be lower than that of nonowners on average but
+the difference in amounts is small, about 4,000–
+7,000 yen. The differences between cash hoarding
+by crypto asset owners and nonowners are positive.
+However, the statistical significance of parameter
+estimates of the difference differs by estimation
+methods, and thus, we do not have a clear conclu­
+sion. Suppose the design of the Japanese CBDC is
+similar to that of crypto assets in its anonymity and
+the users of CBDC tend to have similar cash
+demand as crypto asset owners. Then, the results
+of this study suggest that the introduction of CBDC
+
+APPLIED ECONOMICS
+
+in Japan might not reduce cash demand for day-today payment purposes.
+Acknowledgment
+The author thanks two anonymous referees for their helpful
+comments on the first draft and Kim P. Huynh for suggesting
+the 2019 Cash Alternative Survey and for sharing his ongoing
+work with Daniela Balutel, Christopher Henry, and Marcel
+C Voia. This work was supported by the Japan Society for
+the Promotion of Science under KAKENHI Grant number
+21K01566.
+
+Data availability statement
+The data provider for this study, Intage Inc., disagreed with
+some of the data being shared publicly, so supporting data are
+unavailable.
+
+Disclosure statement
+No potential conflict of interest was reported by the author.
+
+Funding
+The work was supported by the The Japan Society for the
+Promotion of Science [KAKENHI Grant number 21K01566].
+
+ORCID
+Hiroshi Fujiki
+
+http://orcid.org/0000-0002-3692-0904
+
+References
+Acquisti, A., L. Brandimarte, and G. Loewenstein. 2020.
+“Secrets and Likes: The Drive for Privacy and the
+Difficulty of Achieving It in the Digital Age.” Journal of
+Consumer Psychology 30 (4): 736–758. doi:10.1002/jcpy.
+1191.
+Acquisti, A., C. Taylor, and L. Wagman. 2016. “The
+Economics of Privacy.” Journal of Economic Literature
+54 (2): 442–492. doi:10.1257/jel.54.2.442.
+Agur, I., A. Ari, and G. Dell’ariccia. 2022. “Designing Central
+Bank Digital Currencies.” Journal of Monetary Economics
+125 (January): 62–79. doi:10.1016/j.jmoneco.2021.05.002.
+Athey, S., C. Catalini, and C. Tucker. 2017. “The Digital
+Privacy Paradox: Small Money, Small Costs, Small Talk.”
+NBER Working Paper No. 23488.
+
+17
+
+Auer, R., and D. Tercero-Lucas. 2021. “Distrust or
+Speculation? The Socioeconomic Drivers of US
+Cryptocurrency Investments.” BIS Working Papers No
+951. https://www.bis.org/publ/work951.pdf.
+Austin, P. C. 2011. “An Introduction to Propensity Score
+Methods for Reducing the Effects of Confounding in
+Observational Studies.” Multivariate Behavioral Research
+46 (3): 399–424. doi:10.1080/00273171.2011.568786.
+Balutel, D., M.H. Felt, G. Nicholls, and M. C. Voia. 2022.
+“Bitcoin Awareness, Ownership and Use: 2016-20.” Bank
+of Canada Staff Discussion Paper 2022-10. 10.34989/sdp2022-10.
+Balutel, D., C. Henry, K. P. Huynh, and M. C. Voia. 2022.
+“Cash in the Pocket, Cash in the Cloud: Cash Holdings of
+Bitcoin Owners.” Bank of Canada Staff Working Paper
+2022-26. 10.34989/swp-2022-26.
+Bank of Canada, European Central Bank, Bank of Japan,
+Sveriges Riksbank, Bank of England, Swiss National Bank,
+Board of Governors Federal Reserve System, and Bank for
+International Settlements. 2021. “Central Bank Digital
+Currencies: Executive Summary.” https://www.bis.org/
+publ/othp42.htm.
+Bank of Japan. 2020. “The Bank of Japan’s Approach to
+Central Bank Digital Currency.” https://www.boj.or.jp/en/
+announcements/release_2020/rel201009e.htm.
+Bank of Japan . 2021. “Results of the 87th Opinion Survey on
+the General Public’s Views and Behavior (September 2021
+Survey).” https://www.boj.or.jp/en/research/o_survey/
+data/ishiki2110.pdf.
+Bijlsma, M., C. van der Cruijsen, N. Jonker, and J. Reijerink.
+2021. “What Triggers Consumer Adoption of CBDC?”
+DNB Working Paper No. 709.
+Board of Governors of the Federal Reserve System . 2022a.
+“Money and Payments: The U.S. Dollar in the Age of
+Digital Transformation.” https://www.federalreserve.gov/
+publications/money-and-payments-discussion-paper.htm.
+Board of Governors of the Federal Reserve System. 2022b.
+“Economic Well-Being of US Households in 2021.” https://
+www.federalreserve.gov/publications/files/2021-reporteconomic-well-being-us-households-202205.pdf.
+Borgonovo, E., S. Caselli, A. Cillo, D. Masciandaro, and
+G. Rabitti. 2021. “Money, Privacy, Anonymity: What Do
+Experiments Tell Us?” Journal of Financial Stability 56:
+100934. doi:10.1016/j.jfs.2021.100934.
+Deutsche Bundesbank. 2021. “What Do Households in
+Germany Think About the Digital Euro? First Results
+from Surveys and Interviews.” Monthly Report
+October 2021, 65–84.
+European Central Bank. 2020. “Report on a Digital Euro.”
+https://www.ecb.europa.eu/paym/digital_euro/report/
+html/index.en.html.
+
+18
+
+H. FUJIKI
+
+Fujiki, H. 2019. “How Do We Choose to Pay Using Evolving
+Retail Payment Technologies? Some Additional Results
+from Japan.” E-135. Working Paper, Tokyo Center for
+Economic Research. http://tcer.or.jp/wp/pdf/e135.pdf .
+Fujiki, H. 2020. “Who Adopts Crypto Assets in Japan?
+Evidence from the 2019 Financial Literacy Survey.”
+Journal of the Japanese and International Economies
+58 (December): 101107. doi:https://doi.org/10.1016/j.jjie.
+2020.101107.
+Fujiki, H. 2021a. “Attributes Needed for Japan’s Central Bank
+Digital Currency.” The Japanese Economic Review 74 (1):
+117–175. doi:10.1007/s42973-021-00106-7.
+Fujiki, H. 2021b. “Crypto Asset Ownership, Financial
+Literacy, and Investment Experience.” Applied Economics
+53 (39): 4560–4581. doi:10.1080/00036846.2021.1904125.
+Fujiki, H. 2022. “Household Financial Services, Financial
+Literacy, and COVID-19 Pandemic.” Applied Economics
+Letters 29 (7): 615–618. doi:10.1080/13504851.2021.1878092.
+Fujiki, H., and M. Tanaka. 2018. “How Do We Choose to Pay
+Using Evolving Retail Payment Technologies? Evidence from
+Japan.” Journal of the Japanese and International Economies
+49 (September): 85–99. doi:10.1016/j.jjie.2018.05.001.
+Fujiwara, K. 2022. “How the COVID-19 Pandemic Changed
+Consumer Lifestyle: Evidence from High-Frequency Panel
+Data in Japan.” Japanese Journal of Monetary and Financial
+Economics 10: 2–18. doi:10.32184/jjmfe.10.0_2.
+G7. 2021. “Public Policy Principles for Retail Central Bank
+Digital Currencies (CBDCs).”
+Goczek, Ł., and I. Skliarov. 2019. “What Drives the Bitcoin
+Price? A Factor Augmented Error Correction Mechanism
+Investigation.” Applied Economics 51 (59): 6393–6410.
+doi:10.1080/00036846.2019.1619021.
+Hanna, H., G. Haeringer, J. S. Gans, and N. Gandal. 2020. “The
+Microeconomics of Cryptocurrencies.” NBER Working Paper
+Series No. 27477. 10.1017/CBO9781107415324.004.
+Hu, B., Y.L. Liu, and W. Yan 2021. “Should I Scan My Face? The
+Influence of Perceived Value and Trust on Chinese Users’
+Intention to Use Facial Recognition Payment.” In 23rd
+Biennial
+Conference
+of
+the
+International
+Telecommunications Society (ITS): “Digital Societies and
+Industrial Transformations: Policies, Markets, and
+Technologies in a Post- Covid World.” http://hdl.handle.net/
+10419/238028 .
+Hundtofte, S., M. Junho Lee, A. Martin, and R. Orchinik.
+2019.
+“Deciphering
+Americans’
+Views
+on
+Cryptocurrencies.” Federal Reserve Bank of New York
+Liberty Street Economics (Blog). 25 March 2019. https://
+libertystreeteconomics.newyorkfed.org/2019/03/decipher
+ing-americans-views-on-cryptocurrencies.html.
+Huynh, K. P., C. S. Henry, G. Nicholls, and M. W. Nicholson.
+2020. “Benchmarking Bitcoin Adoption in Canada:
+Awareness, Ownership and Usage in 2018.” Ledger 5:
+74–88. doi:10.5195/LEDGER.2020.206.
+
+Huynh, K. P., J. Molnar, O. Shcherbakov, and Y. Qinghui
+2020. “Demand for Payment Services and Consumer
+Welfare: The Introduction of a Central Bank Digital
+Currency.” Bank of Canada Staff Working Paper 2020–7.
+https://www.bankofcanada.ca/2020/03/staff-workingpaper-2020-7.
+Huynh, K. P., G. Nicholls, and J. Zhu. 2020. “Cash Use and
+Financial Literacy.” In Deutsche Bundesbank (Eds.) Cash
+in the Age of Payment Diversity, 157–189. Deutsche
+Bundesbank. https://www.bundesbank.de/resource/blob/
+854150/29a4f4258f6c30e43297eec39726d8c9/mL/cash-inthe-age-of-payment-diversity-data.pdf.
+Intage Inc. 2021. “The Difference in Thinking Between Those
+Who are Going Cashless and Those Who are Not: Barrier
+to Penetration (In Japanese).” 7 April 2021. https://gallery.
+intage.co.jp/seikatsushadb-10/.
+Kapar, B., and J. Olmo. 2021. “Analysis of Bitcoin Prices Using
+Market and Sentiment Variables.” The World Economy
+44 (1): 45–63. doi:10.1111/twec.13020.
+Kawamura, T., T. Mori, T. Motonishi, and K. Ogawa. 2021. “Is
+Financial Literacy Dangerous? Financial Literacy,
+Behavioral Factors, and Financial Choices of
+Households.” Journal of the Japanese and International
+Economies 60 (June): 101131. doi:https://doi.org/10.1016/j.
+jjie.2021.101131.
+Khiaonarong, T., and D. Humphrey. 2022. “Falling Use of
+Cash and Demand for Retail Central Bank Digital
+Currency.” IMF Working Paper 2022/27. https://ssrn.
+com/abstract=4065446.
+Konishi, Y. 2021. “Food Change and Cash Avoidance Clear:
+Consumption Under the Corona as Seen in Data (In
+Japanese).” Nihon Keizai Shimbun, 6 April 2021. https://
+www.rieti.go.jp/jp/papers/contribution/konishi-yoko/01.html.
+Kosse, A., and I. Mattei. 2022. “Gaining Momentum–Results
+of the 2021 BIS Survey on Central Bank Digital
+Currencies.” BIS Papers No 125. https://www.bis.org/
+publ/bppdf/bispap125.htm.
+Lieven, H., A. Ianiro, U. Kochanska, V.M. Törmälehto,
+A. van der Kraaij, and J. M. Vendrell Simón. 2022.
+“Decrypting Financial Stability Risks in Crypto-Asset
+Markets.” https://www.ecb.europa.eu/pub/financialstability/fsr/special/html/ecb.fsrart202205_02~
+1cc6b111b4.en.html .
+Lii, J. 2021. “Predicting the Demand for Central Bank Digital
+Currency: A Structural Analysis with Survey Data.” Bank of
+Canada Staff Working Paper 2021-65.
+Lusardi, A., and O. S. Mitchell. 2014. “The Economic Importance
+of Financial Literacy: Theory and Evidence.” Journal of
+Economic Literature 52 (1): 5–44. doi:10.1257/jel.52.1.5.
+Mancini-Griffoli, T., M. S. M. Peria, I. Agur, A. Ari,
+J. Kiff, A. Popescu, C. Rochon, et al. 2018. “Casting
+Light on Central Bank Digital Currency.” IMF Staff
+Discussion Notes 18/08 18 (08): 1. 10.5089/
+9781484384572.006
+
+APPLIED ECONOMICS
+
+Qiao, X., H. Zhu, and L. Hau. 2020. “Time-Frequency
+Co-Movement of Cryptocurrency Return and Volatility:
+Evidence from Wavelet Coherence Analysis.”
+International Review of Financial Analysis 71 (January):
+101541. doi:10.1016/j.irfa.2020.101541.
+Schuh, S., and O. Shy. 2015. “U.S. Consumers’ Adoption and
+Use of Bitcoin and Other Virtual Currencies.” Bank of
+Canada. Working Paper. https://www.bankofcanada.ca/
+wp-content/uploads/2015/12/us-consumers-adoption.pdf.
+Sekine, T., T. Shoji, and T. Watanabe. 2022. “Going Cashless:
+Government’s Point Reward Program Vs. COVID-19.”
+CARF Working Paper F-538. https://www.carf.e.u-tokyo.
+ac.jp/research/.
+
+19
+
+Stix, H. 2021. “Ownership and Purchase Intention of
+Crypto-Assets: Survey Results.” Empirica 48 (1): 65–99.
+doi:10.1007/s10663-020-09499-x.
+Uno, Y., A. Sonoda, and M. Bessho. 2021. “The Economics of
+Privacy: A Primer Especially for Policymakers.” No.21E-11. Bank of Japan Working Paper Series.
+Wakamori, N. 2020. “Estimation of Retail Payment Demand
+Using Individual Transaction Data: The Future of
+Diversified Payment Methods and the Cashless Society.” In
+Empirical Analysis of Evolving Business, edited by, Economic
+Seminar Editors 68–75. Tokyo: Nippon Hyoronsha https://
+www.nippyo.co.jp/shop/book/8278.html
+
+

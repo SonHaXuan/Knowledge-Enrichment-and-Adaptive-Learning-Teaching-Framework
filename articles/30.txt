@@ -1,0 +1,3276 @@
+CHINA’S APPROACH TO CENTRAL BANK DIGITAL
+CURRENCY: SELECTIVELY RESHAPING INTERNATIONAL
+FINANCIAL ORDER?
+
+HENG WANG*
+
+ABSTRACT
+China is likely to be the first major economy to issue central bank
+digital currency (CBDC), the digital version of sovereign currency.
+China’s CBDC is also known as e-CNY, DC/EP, or digital yuan. ECNY has the potential to profoundly affect the international
+financial system and order. This article explores the following
+crucial issues from an international perspective: what are the core
+features of e-CNY? What is China’s approach to CBDC? What is the
+long-term sustainability of China’s CBDC approach?
+This article argues that the role of the state, the potential crossborder use of e-CNY, and China’s proactiveness in international
+governance are the core features of China’s CBDC. These features
+* Professor, School of Private and Commercial Law, and Co-Director of
+Herbert Smith Freehills China International Business and Economic Law (CIBEL)
+Centre, Faculty of Law & Justice, the University of New South Wales (UNSW Law
+& Justice). Email: heng.wang1@unsw.edu.au. Thanks go to UNSW Law & Justice’s
+Herbert Smith Freehills CIBEL Centre for the support. This research was supported
+partially by the Australian Government through the Australian Research Council’s
+Discovery Projects funding scheme (project DP220101632). The views herein are of
+the author and not necessarily of the Australian Government or Research Council.
+The previous version or parts of this article have been presented at various virtual
+events at the Asia WTO Research Network, Bocconi University, Chinese University
+of Hong Kong, Peking University, Shanghai Jiao Tong University, the Society of
+International Economic Law, and UNSW.
+The author is grateful for the insightful comments of Deborah Healey, Andrew
+Godwin, Rolf H. Weber, Ka Zeng, Wei Shen, and the participants of these events.
+Special thanks go to Layton Hubble for his valuable research assistance and
+comments and to the editors for their tireless efforts.
+
+77
+
+Published by Penn Carey Law: Legal Scholarship Repository,
+
+78
+
+U. PA. ASIAN L. REV.
+
+Vol. 18:1
+
+contribute to China’s CBDC approach, a possible selective reshaping
+of international financial order. The article adopts a multifactor
+analytical framework which explores major economic, political
+economy, legal and regulatory factors affecting the sustainability of
+China’s CBDC approach. This framework seeks to promote a
+holistic understanding of e-CNY’s evolution and its profound
+implications for international economic governance.
+TABLE OF CONTENTS
+
+1. Introduction ................................................................................ 80
+2. What is China’s CBDC? ............................................................ 84
+2.1. Two-Tier Operational System ........................................ 84
+2.2. Loosely Coupled with Bank Accounts ............................ 88
+2.3 Managed Anonymity...................................................... 88
+3. Core Features of e-CNY ............................................................ 90
+3.1. The Role of the State ....................................................... 90
+3.1.1. The Prohibition on Cryptocurrencies .................. 91
+3.1.2. A Centralized Governance Model ....................... 92
+3.2. The Possible Cross-Border Use of e-CNY....................... 96
+3.2.1. The Use of Existing and New Mechanisms ........ 97
+3.2.2. Multi-Level Efforts .............................................. 99
+3.2.3. Taking Advantage of Technology and Network 100
+3.3. Proactiveness in International Governance ................. 102
+4. China’s CBDC Approach: Selective Reshaping? ................. 106
+4.1. What Is “Selective”? .................................................... 106
+4.2. What Is “Reshaping”?.................................................. 107
+4.2.1. The Reduced Reliance on the Dollar.................. 107
+4.2.2. Shaping Future CBDC Frameworks ................. 110
+4.2.3. Other impacts .................................................... 111
+4.3 Concluding Thoughts on Selective Reshaping .............. 112
+5. The Sustainability of China’s CBDC Approach .................. 113
+5.1 Economic Factors ........................................................... 114
+5.1.1. CBDC-Related Costs ......................................... 114
+5.1.2. The Implications for Markets ............................ 116
+5.1.3. Macro-Financial Implications ........................... 117
+5.1.4. Other Economic Factors .................................... 117
+5.2. Political Economy Factors ............................................ 118
+5.2.1. The Relationship between the State and Market119
+
+https://scholarship.law.upenn.edu/alr/vol18/iss1/4
+
+2022
+
+China's Approach to Central Bank Digital Currency
+
+5.2.2. Currency and Payment Solution Competition.. 120
+5.2.3. Other Political Economy Factors ...................... 122
+5.3. Legal and Regulatory Factors ....................................... 123
+5.3.1. Resiliency ........................................................... 125
+5.3.2. Interoperability .................................................. 126
+5.3.3. Adaptability ....................................................... 128
+5.3.4. International Coordination................................ 130
+5.4. Concluding Thoughts on the Sustainability of China’s
+Approach...................................................................... 132
+6. Conclusion ................................................................................ 133
+
+Published by Penn Carey Law: Legal Scholarship Repository,
+
+79
+
+80
+
+U. PA. ASIAN L. REV.
+
+Vol. 18:1
+
+1. INTRODUCTION
+Central bank digital currency (CBDC), also called sovereign
+digital currency (SDC), is the digital version of sovereign currency
+issued by an economy’s monetary authority. 1 An increasing
+number of central banks are exploring CBDC, including the Bank of
+England and the Riksbank, the central bank of Sweden.2 The digital
+dollar has also been considered, with the Federal Reserve Bank of
+Boston working with the Massachusetts Institute of Technology to
+design a CBDC prototype.3 At least thirteen states (e.g., Sweden,
+and South Korea) are testing CBDC pilots,4 with some central banks
+like the European Central Bank considering such tests. 5 The
+Bahamas, Eastern Caribbean, and Nigeria have rolled out CBDC.6
+CBDC involves “the algorithmic hand” beside the “invisible”
+hand (the market) and the “visible” hand (government).7 It is likely
+to be a critical part of the digital economy, accelerated by the
+epidemic, 8 while carrying both “policy and legal implications.” 9
+1
+John Kiff et al., A Survey of Research on Retail Central Bank Digital Currency
+5 (IMF, Working Paper No. 20/104, 2020).
+
+2
+Central Bank Digital Currency Tracker, ATL. COUNCIL,
+https://www.atlanticcouncil.org/cbdctracker/ [https://perma.cc/N6CG-6M5J] (last
+visited Nov. 19, 2022).
+
+3
+Ajay S. Mookerjee, What If Central Banks Issued Digital Currency?, HARV.
+BUS. REV. (Oct. 15, 2021), https://hbr.org/2021/10/what-if-central-banks-issueddigital-currency [https://perma.cc/A9JZ-KNCC].
+4
+Id.
+5
+Karen Yeung & Andrew Mullen, China Digital Currency: When Will the EYuan Be Launched, and What Will It Be Used For?, S. CHINA MORNING POST (June 6,
+2021,
+8:00
+PM),
+https://www.scmp.com/economy/chinaeconomy/article/3135886/china-digital-currency-when-will-e-yuan-be-launchedand-what [https://perma.cc/NGZ8-CF4R].
+6
+See Central Bank Digital Currency Tracker, supra note 2 (indicating that a
+country has rolled out a CBDC by categorizing it as “launched”).
+7
+Paradorn Pasuthip & Steve Yang, Central Bank Digital Currency: Promises
+(Feb.
+6,
+2020),
+and
+Risks,
+WORLDQUANT
+https://www.worldquant.com/ideas/central-bank-digital-currency-promisesand-risks/ [https://perma.cc/EM5X-DTJF].
+8
+See, e.g., Pandemic Accelerates Bank of Canada’s CBDC Work, FINEXTRA (Feb.
+10, 2021), https://www.finextra.com/newsarticle/37460/pandemic-acceleratesbank-of-canadas-cbdc-work [https://perma.cc/3M4Q-4RC8] (descibing how the
+pandemic’s impact on the use of paper money accelarated the Bank of Canada’s
+reasearch into a CBDC).
+9
+Yves Mersch, Member, Exec. Bd. of the Eur. Cent. Bank, Address at the
+Consensus 2020 Virtual Conference: An ECB Digital Currency—A Flight of Fancy?
+
+https://scholarship.law.upenn.edu/alr/vol18/iss1/4
+
+2022
+
+China's Approach to Central Bank Digital Currency
+
+81
+
+CBDC raises many issues including digital payment ecology,
+financial inclusion, data protection and sovereignty, compliance,
+financial risks, and governance models.10
+China is expected to be the first major economy to launch
+CBDC. 11 China’s CBDC was previously known as the Digital
+Currency/Electronic Payment (DC/EP or DCEP), 12 and is also
+variously called e-CNY, digital yuan, eCNY, or e-RMB. The People’s
+Bank of China (PBOC), China’s central bank, started CBDC research
+in 201413 and issued a white paper on e-CNY (White Paper) in 2021,
+with no timetable for the final launch of e-CNY.14 For e-CNY, “toplevel design, function development, and system testing has been
+basically completed.”15 E-CNY pilots have been conducted in ten
+regions (e.g., Shenzhen)16 and the Beijing Winter Olympics.17
+It is probable that E-CNY will lead to an economic ecosystem
+(e.g., financial instruments denominated in e-CNY) 18 that is more
+
+(May
+11,
+2020),
+https://www.bis.org/review/r200511a.pdf
+[https://perma.cc/ED7Q-543D].
+10
+See, e.g., Xie Ping (谢平), Xie Ping: Yanghang Shuzi Huobi de Jichusheshi
+Jianhao Hou, Keyi Dapo Disanfang Zhifu Longduan (谢平: 央行数字货币的基础
+设施建好后, 可以打破第三方支付垄断) [Ping Xie: After CBDC Infrastructure Is
+Developed, It Could Break Third-Party Payment Monopoly], WEIXIN.QQ.COM (Dec.
+24, 2020, 8:50 AM), https://mp.weixin.qq.com/s/uHQs0mIPEZQIe8R5xz6vfA
+[https://perma.cc/TM6L-P3TL] (discussing the working of digital payments and
+its relationship to various economic phenomena).
+11
+Bailey Reutzel & Pete Rizzo, Most Influential in Blockchain 2017 #6: Yao
+Qian, COINDESK (Dec. 31, 2017, 5:30 AM), https://www.coindesk.com/coindeskmost-influential-2017-6-yao-qian/ [https://perma.cc/7DHC-FJ4U].
+12
+BIS INNOVATION HUB HONG KONG CTR., INTHANON-LIONROCK TO MBRIDGE:
+BUILDING A MULTI CBDC PLATFORM FOR INTERNATIONAL PAYMENTS 13 (2021),
+https://www.bis.org/publ/othp40.pdf [https://perma.cc/5TG2-BEQT].
+13
+WORKING GRP. ON E-CNY RSCH. & DEV. OF THE PEOPLE’S BANK OF CHINA,
+PROGRESS OF RESEARCH & DEVELOPMENT OF E-CNY IN CHINA 1, 12 (2021) [hereinafter
+WORKING
+GRP.
+ON
+E-CNY
+RSCH.
+&
+DEV.],
+http://www.pbc.gov.cn/en/3688110/3688172/4157443/4293696/2021071614584
+691871.pdf [https://perma.cc/RTQ3-F2KG].
+14
+Id. at 14.
+15
+Id. at 1.
+16
+NingweiI Qin, Shenzhen Has the Most E-CNY Pilot Program Uses, Chinese
+State-Owned
+Media
+Says,
+FORKAST
+(Oct.
+11,
+2021,
+2:35
+PM),
+https://forkast.news/headlines/shenzhen-ecny-pilot-programs-chinese-mediasays/ [https://perma.cc/L7TE-DQ74].
+17
+BIS INNOVATION HUB HONG KONG CTR., supra note 12, at 14.
+18
+David Olsson et al., China’s Digital RMB—Is Your Business Ready?, KING &
+WOOD
+MALLESONS
+(Apr.
+27,
+2021),
+
+Published by Penn Carey Law: Legal Scholarship Repository,
+
+82
+
+U. PA. ASIAN L. REV.
+
+Vol. 18:1
+
+than just currency or a new “currency infrastructure.” 19 Digital
+yuan is likely to develop an ecosystem that interacts with
+established and emerging payment systems, 20 with such systems
+ranging from payment to e-commerce involving, among others, big
+tech companies, banking institutions and individuals. 21
+International consumer brands, including McDonald’s, Starbucks,
+and Subway have been involved in the e-CNY trial.22 Accordingly,
+e-CNY is “likely to become an important feature of China’s digital
+economy and financial system.”23
+China’s CBDC is among potential CBDCs that could have real
+global implications. 24 For CBDC, it has been suggested that
+“[w]hatever the Chinese do will affect other national economies.”25
+It is expected that China’s CBDC may be “the powerful disruption
+that kickstarts a move from the extensive SDC-related research and
+piloting we have seen in Canada, England, and elsewhere, to
+multiple instances of SDC issuance, particularly by major
+https://www.kwm.com/en/au/knowledge/insights/chinas-digital-rmb-is-yourbusiness-ready-20210427 [https://perma.cc/9MMD-HJ83].
+19
+Id.
+20
+Vipin Bharathan, E-CNY Progress Report Reveals Telling Details About The
+Chinese Retail CBDC Project, FORBES (July 19, 2021, 8:58 AM),
+https://www.forbes.com/sites/vipinbharathan/2021/07/19/e-cny-progressreport-reveals-telling-details-about-the-chinese-retail-cbdcproject/?sh=1975aa6b6a59 [https://perma.cc/V9BY-63AP].
+21
+See, e.g., Arjun Kharpal, E-commerce Giant JD Starts Accepting China’s Digital
+Currency on Singles Day for the First Time, CNBC (Nov. 11, 2021, 12:43 AM),
+https://www.cnbc.com/2021/11/11/china-digital-currency-jd-begins-acceptinge-cny-on-singles-day.html [https://perma.cc/2V6H-Z5G6] (describing a Chinese
+e-commerce platform, JD, as working together with the China Construction Bank
+to accept e-CNY and to use it for payroll); Hainan Realizes First Digital RMB Payment
+in Cross-Border Import E-commerce, SILK RD. CITIES ALL. (May 20, 2021, 6:05 PM),
+http://www.srca-info.com/srca/en/srca4/srca4_2/202105/t20210520_3417.html
+[https://perma.cc/X89Y-8GSQ] (describing a Chinese crossborder import ecommerce platform, Guomian (Hainan) Technology Co., Ltd., as accepting e-CNY
+for crossborder transactions).
+22
+Frank Tang, China Includes McDonald’s, Starbucks, Subway on List of Foreign
+Firms to Test Digital Currency, S. CHINA MORNING POST (Apr. 23, 2020),
+https://sg.news.yahoo.com/mcdonald-starbucks-subway-among-foreign113523567.html [https://perma.cc/J37T-KTW9?type=image].
+23
+Olsson et al., supra note 18.
+24
+Dirk A. Zetzsche et al., Sovereign Digital Currencies: The Future of Money and
+Payments? 1, 11 (U. H.K. Fac. L., Research Paper No. 2020/053, 2020),
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3714386
+[https://perma.cc/9VLW-WEUY].
+25
+Bharathan, supra note 20.
+
+https://scholarship.law.upenn.edu/alr/vol18/iss1/4
+
+2022
+
+China's Approach to Central Bank Digital Currency
+
+83
+
+economies.” 26 More generally, CBDCs will likely affect the
+development and use of each other. For instance, at the time of this
+writing, the Federal Reserve is seeking comments on CBDC,
+including those on how the decisions to issue CBDC should be
+influenced by other large economies’ decisions around CBDC.27
+This article explores China’s approach to CBDC, particularly
+from an international perspective. The international dimension and
+impact of China’s CBDC will be highlighted since it carries profound
+implications for the future of the international economy, while it has
+received scant attention in current research. This article will first
+analyse the key aspects of e-CNY (chapter II), and then its core
+features (chapter III). For its core features, e-CNY is characterised
+internally by the strengthened role of the state, and externally by
+possible cross-border use of e-CNY, and China’s proactiveness in
+international governance regarding CBDC. I argue that these
+features contribute to China’s CBDC approach of selective
+reshaping of international economic governance (chapter IV). The
+article further explores a multifactor framework, engaging with
+economic, political economy, and legal and regulatory factors, to
+analyse the sustainability of China’s CBDC approach (chapter V).
+Chapter VI concludes the paper with a short summary and
+reflection.
+Some carve-outs are rather useful here. This article is based on
+publicly available materials and does not claim to contain all
+possible information on CBDC. For CBDC-related research,
+“caution is warranted in any comparative analysis about a subject in
+which the public-facing statements and trials are only the tip of the
+iceberg in comparison to the research, knowledge, and trials that are
+internal to each central bank and government.”28 Also, of note, this
+article does not focus on the merits of CBDC, which demand a
+separate analysis.
+
+Zetzche et al., supra note 24.
+BD. OF GOVERNORS OF THE FED. RSRV. SYS., MONEY AND PAYMENTS: THE U.S.
+DOLLAR IN THE AGE OF DIGITAL TRANSFORMATION 1, 22 (2022),
+https://www.federalreserve.gov/publications/files/money-and-payments20220120.pdf [https://perma.cc/K4GF-G2NE].
+28
+Martin Chorzempa, China, the United States, and Central Bank Digital
+Currencies: How Important Is It to Be First?, 14 CHINA ECON. J., 102, 102, 109 (Jan. 5,
+2021),
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3765709
+[https://perma.cc/PV58-YTXY].
+26
+27
+
+Published by Penn Carey Law: Legal Scholarship Repository,
+
+84
+
+U. PA. ASIAN L. REV.
+
+Vol. 18:1
+
+2. WHAT IS CHINA’S CBDC?
+China’s CBDC is “the digital version of fiat currency issued by
+the PBOC.”29 Through account-based interfaces, e-CNY is, at the
+time of this writing, available to both the public and foreign visitors
+to China.30 E-CNY’s functions include “exchange and circulation
+management, interoperability and [a] wallet ecosystem.”31 Several
+major aspects of e-CNY will be discussed below.
+2.1. Two-Tier Operational System
+China’s CBDC features a hybrid operational system with two
+layers dealing with issuance and circulation.32 Within the first layer
+(the distribution layer), the central bank distributes CBDC to
+individual banks or payment platforms that then circulate CBDC to
+users in the second layer.33
+The structure of e-CNY is illustrated in the figure below.
+
+WORKING GRP. ON E-CNY RSCH. & DEV., supra note 13, at 3.
+Raphael Auer et al., Central Bank Digital Currencies: Motives, Economic
+Implications and the Research Frontier 1, 5 (BIS, Working Papers No. 976, 2021),
+https://www.bis.org/publ/work976.pdf [https://perma.cc/XN8S-287B].
+31
+WORKING GRP. ON E-CNY RSCH. & DEV., supra note 13, at 13.
+32
+Id. at 3.
+33
+Kiff et al., supra note 1, at 24.
+29
+30
+
+https://scholarship.law.upenn.edu/alr/vol18/iss1/4
+
+2022
+
+China's Approach to Central Bank Digital Currency
+
+85
+
+Figure 1: The structure of e-CNY34
+
+In the first layer, the PBOC issues e-CNY to second-tier
+institutions (currently including six major state-owned banks and
+two internet banks), also called authorized operators, operating
+institutions, operating agencies or tier 2 institutions.35 Second-tier
+institutions circulate the e-CNY to retail market participants,
+including the public.36 The list of second-tier institutions is likely to
+grow. They will lead the CBDC exchange services37 (exchanging e-
+
+34
+This figure is adapted with slight adaptations from Digital Yuan: What Is It
+and
+How
+Does
+It
+Work,
+DEUTCHE
+BANK
+(July
+14,
+2021),
+https://www.db.com/news/detail/20210714-digital-yuan-what-is-it-and-howdoes-it-work [https://perma.cc/7YUA-L5Q8].
+35
+WORKING GRP. ON E-CNY RSCH. & DEV., supra note 13, at 3; Digital Yuan:
+What Is It and How Does It Work?, supra note Error! Bookmark not defined..
+36
+BIS INNOVATION HUB HONG KONG CTR., supra note 12, at 13.
+37
+WORKING GRP. ON E-CNY RSCH. & DEV., supra note 13, at 8.
+
+Published by Penn Carey Law: Legal Scholarship Repository,
+
+86
+
+U. PA. ASIAN L. REV.
+
+Vol. 18:1
+
+CNY into traditional CNY for the public38) and circulation services.39
+Second-tier institutions are also e-CNY wallet providers.40 A user
+needs to go to one of these second-tier institutions to open an e-CNY
+wallet, 41 which usually involves an e-CNY wallet app. Three
+telecommunication operators are also working with major stateowned banks to form joint project teams to participate in e-CNY
+research and development.42
+Other banks and service providers may be “tier 2.5 institutions”
+(also known as “related commercial institutions”) that supply
+payment and other services to e-CNY holders, but cannot provide eCNY exchange services. 43 These institutions appear to include a
+number of other banks and third-party payment service providers.44
+Tier 2.5 institutions could also be regarded as secondary issuers.45
+38
+Duan Xiangyu ( 段相宇), Guancha Gun Yanghang Shuzi Huobi Ruhe
+Yingxiang Ni Wo (观察丨央行数字货币如何影响你我) [Observation | How Will
+CBDC Affect You and Me], Renmin Wang (人民网) [PEOPLE’S DAILY ONLINE] (June
+8, 2020), http://blockchain.people.com.cn/n1/2020/0608/c417685-31739212.html
+[https://perma.cc/8DRJ-T5VB].
+39
+Li Guohui (李国辉) & Ma Meiruo (马梅若), Shuzi Renminbi Yanfa Shidian
+Qude Jiji Jinzhan: Yanghang Juxing “Zhongguo Shuzi Renminbi De Yanfa Jinzhan
+Baipishu” Meiti Chuifeng Hui (数字人民币研发试点 得积极进展 央行举行《中国数
+字人民币的研发进展白皮书》媒体吹风会) [Positive Progress Has Been Made in the
+E-CNY Research & Development Pilot: Central Bank Held a Media Briefing on the
+White Paper on Progress of Research & Development of E-CNY in China], Jimong
+Shibao-Zhongguo Jinrong Xinwen Wang (金融时报-中国金融新闻网) [FIN. TIMESCHINA
+FIN.
+NEWS
+NETWORK]
+(July
+19,
+2021),
+https://www.financialnews.com.cn/jg/dt/202107/t20210719_223623.html
+[https://perma.cc/F3LW-RB8T].
+40
+Mookerjee, supra note 3.
+41
+Digital Yuan:What is It and How Does It Work?, supra note Error! Bookmark
+not defined..
+42
+Li & Ma, supra note 39.
+43
+DEUTSCHE BANK, supra note 29.
+44
+Du Xiaotong (杜晓彤) & Li Yingchao (李颖超), Shuzi Renminbì Jiang
+Quanmian Zouxiang Dazhong? Canyu Liutong Yinhang Zhengzai Zengjia, Hai
+You 11 Jia Yi Huozhun Yindao Kehu Tiyan (数字人民币将全面走向大众？参与流通
+银行正在增加，还有 11 家已获准引导客户体验) [Will the E-CNY Go to the Public in
+an All-Round Way? Participating Banks in Circulation Are Increasing, and 11 More
+Have Been Approved to Guide the Customer Experience], Zhengquan Shibao (证
+券
+时
+报
+)
+[SEC.
+TIMES]
+(Aug.
+17,
+2021),
+https://news.stcn.com/sd/202108/t20210817_3550237.html
+[https://perma.cc/GBM7-H879].
+45
+Jack Martin, Alipay Patents Reveal More Details About China’s Forthcoming
+CBDC, COINTELEGRAPH (Mar. 24, 2020), https://cointelegraph.com/news/alipaypatents-reveal-more-details-about-chinas-forthcoming-cbdc
+[https://perma.cc/SA6F-74QY].
+
+https://scholarship.law.upenn.edu/alr/vol18/iss1/4
+
+2022
+
+China's Approach to Central Bank Digital Currency
+
+87
+
+They will join the e-CNY system to provide “e-CNY circulation
+services and retail management, including innovation on payment
+product design, system development, scenario expansion,
+marketing, business processing as well as operation and
+maintenance.”46 Tier 2.5 institutions are expected to cooperate with
+one or more of authorized operators.47 After the e-CNY wallet is
+opened, the user can then access a variety of services provided by
+both the issuing bank (one of the tier 2 institutions) and tier 2.5
+institutions.48 For instance, ride hailing service, Didi Chuxing, and
+food delivery business, Meituan Dianping, are involved in the
+CBDC trial.49 Tiers 2 and 2.5 institutions are e-CNY intermediaries,
+many of which have been involved in the development of the e-CNY
+ecosystem’s “payments solutions and functions.”50
+End users include businesses and the public.51 Individual endusers will not be charged by commercial banks for the e-CNY
+exchange and circulation services.52 It seems that the issue of fees
+
+WORKING GRP. ON E-CNY RSCH. & DEV., supra note 13, at 8.
+Du & Li, supra note 44.
+48
+DEUTSCHE BANK, supra note Error! Bookmark not defined..
+49
+Alun John, Explainer: How Does China’s Digital Yuan Work?, REUTERS (Oct.
+19, 2020), https://www.reuters.com/article/us-china-currency-digital-explaineridUSKBN27411T [https://perma.cc/J62U-VDL5].
+50
+Gabriel Soderberg et al., Behind the Scenes of Central Bank Digital Currency,
+IMF FINTECH NOTES, Feb. 2022, at 1, 16.
+51
+WORKING GRP. ON E-CNY RSCH. & DEV., supra note 13, at 4–5.
+52
+Rajesh Bansal & Somya Singh, China’s Digital Yuan: An Alternative to the
+Dollar-Dominated Financial System 1, 5 (Carnegie Endowment for Int’l Peace,
+Working
+Paper,
+2021),
+https://carnegieendowment.org/files/202108Bansal_Singh_-_Chinas_Digital_Yuan.pdf [https://perma.cc/H3SL-8JY7]; Guo
+Jian (郭建), Zhong Jin: Shuzi Renminbi Quanmian Tuiguang Dui Zhifu Tixi De
+Qianzai Yingxiang (中金：数字人民币全面推广对支付体系的潜在影响) [CICC: The
+Potential Impact of the Full Promotion of the Digital Renminbi on the Payment
+System], SINA WEIBO ( 新 浪 微 博 ) (July 29, 2021, 8:03 AM),
+https://finance.sina.com.cn/money/forex/forexinfo/2021-07-29/docikqcfnca9634052.shtml [https://perma.cc/YV9U-KKL3]; Reuters Staff, Zhongguo
+Yanghang Guanyuan: Shuzi Renminbi Ying Jianchi Yanghang Zhongxin Hua
+Jianguan Fangzhi Huobi Faxing Quan Pangluo (中国央行官员：数字人民币应坚持
+央行中心化监管 防止货币发行权旁落) [China’s Central Bank Official: E-CNY
+Should Adhere to Central Bank Supervision to Prevent Currency Issuance Power
+from
+Falling
+Behind],
+REUTERS
+(Oct.
+25,
+2020),
+https://www.reuters.com/article/pboc-official-digital-rmb-1025-sunidCNKBS27B00L [https://perma.cc/D5W9-XM7W].
+46
+47
+
+Published by Penn Carey Law: Legal Scholarship Repository,
+
+88
+
+U. PA. ASIAN L. REV.
+
+Vol. 18:1
+
+collected by tiers 2 and 2.5 institutions on businesses will be decided
+by the market.53
+2.2. Loosely Coupled with Bank Accounts
+A major feature of e-CNY is its loose coupling with bank
+accounts. 54 E-CNY is “a value-based, quasi-account-based and
+account-based hybrid payment instrument,” with “loosely-coupled
+account linkage.” 55 Said differently, e-CNY is “based on broad
+accounts, loosely coupled with bank accounts.”56 However, there
+seems to be limited elaboration further on what “loosely-coupled
+account linkage” means. 57 E-CNY wallets may be used without
+opening or linking to a bank account in some circumstances that
+provide rather basic functions:58 unbanked individuals may access
+“basic financial services provided via [an] e-CNY wallet,” and
+foreign visitors may open an e-CNY wallet “to meet daily payment
+needs without opening a domestic bank account.”59
+2.3. Managed Anonymity
+Managed anonymity is a major feature of e-CNY.60 According
+to the PBOC, managed anonymity means that the CBDC system
+“does not provide information to third parties or other government
+agencies unless stipulated otherwise in laws and regulations.”61 For
+53
+See Reuters Staff, supra note 52 (stating that fees must be resolved by
+operating agencies, service agencies, and merchants by a market-oriented
+mechanism).
+54
+WORKING GRP. ON E-CNY RSCH. & DEV., supra note 13, at 13.
+55
+Id. at 3.
+56
+Id. at 6.
+57
+Bharathan, supra note 20.
+58
+Karen Yeung, What Is China’s Cryptocurrency Alternative Sovereign Digital
+Currency and Why Is It Not Like Bitcoin?, S. CHINA MORNING POST (May 13, 2020),
+https://www.scmp.com/economy/china-economy/article/3083952/whatchinas-cryptocurrency-sovereign-digital-currency-and-why
+[https://perma.cc/X7PZ-SUSU].
+59
+WORKING GRP. ON E-CNY RSCH. & DEV., supra note 13, at 5.
+60
+Id. at 13.
+61
+Id. at 7.
+
+https://scholarship.law.upenn.edu/alr/vol18/iss1/4
+
+2022
+
+China's Approach to Central Bank Digital Currency
+
+89
+
+a digital wallet app, where the user’s identity has been verified, the
+PBOC will know the user’s identity. 62 In contrast, transactions
+conducted through the e-CNY wallet app will only transmit the
+wallet ID, with neither the transaction parties nor the sub-wallet
+account bank knowing the user’s identity.63 This means that users
+may be able to “hide their identity from counterparties,” making it
+“more difficult for online platforms to collect user information.”64
+The regulation in this regard is yet to be seen. According to the
+Law of the People’s Republic of China on People’s Bank of China
+(“PBOC”) (Amendment Draft for Consultation) of 2020 (the “2020
+Amendment Draft”), the PBOC and its branches may ask the
+regulated entity to provide data and information as required by
+regulation.65 The PBOC should, under the 2020 Amendment Draft,
+establish a regulatory information sharing mechanism with the
+member institutions of the Financial Stability and Development
+Committee under the State Council. 66 However, it is not clear
+whether and how evolving rules on the sharing of government
+information among government agencies (such as the Notice of the
+State Council on Issuing the Interim Measures for the
+Administration of Sharing of Government Information Resources)
+will apply to e-CNY.67
+
+Olsson et al., supra note 18.
+Id.
+64
+Digital Yuan: What is It and How Does It Work?, supra note Error! Bookmark
+not defined..
+65
+Zhonghua Remin Gongheguo Zhongguo Remin Yinhang Fa (Xiuding
+Caoan Zhengqiu Yijiangao) (中华人民共和国中国人民银行法(修订草案征求意见稿
+)) [Law of the People’s Republic of China on the People’s Bank of China
+(Amendment Draft for Consultation)] (drafted by the Nat’l People’s Cong., Oct. 23,
+2022)
+[hereinafter
+People’s
+Bank
+of
+China
+Draft],
+art
+51,
+https://www.gov.cn/zhengce/zhengceku/2020-10/24/content_5553847.htm
+[https://perma.cc/82HF-JM2L].
+66
+Id. art. 52.
+67
+Jiang Jiaying & Karman Lucero, Background and Implications of China’s
+Central Bank Digital Currency: E-CNY 18 (Mar. 22, 2021) (unpublished manuscript)
+(available
+online
+at
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3774479
+[https://perma.cc/WK67-7KJ3]).
+62
+63
+
+Published by Penn Carey Law: Legal Scholarship Repository,
+
+90
+
+U. PA. ASIAN L. REV.
+
+Vol. 18:1
+
+3. CORE FEATURES OF E-CNY
+China’s CBDC approach can be understood in terms of three
+core features of the e-CNY: the role of the state (including the
+prohibition of cryptocurrencies), the possible cross-border use of eCNY, and China’s proactive efforts in international governance
+concerning CBDC.
+3.1. The Role of the State
+E-CNY is a state-led initiative, echoing the development of
+digital currency which is indicated in China’s fourteenth Five-Year
+Plan and is regarded as part of structural reforms on the financial
+supply side. 68 The government is proactive in various aspects of
+CBDC, including local governments reportedly giving away
+funding to residents to trial the e-CNY.69 Major factors in selecting
+e-CNY pilot areas include both national and regional development
+strategies.70
+The legal concept of money is based on the state’s power to
+regulate the monetary system. 71 CBDC concerns the “very
+fundamental relationship between money, the State, and the law.”72
+This part focuses on the state’s role in CBDC-related regulation:
+China’s prohibition of cryptocurrencies and the centralized
+governance model regarding e-CNY.
+
+68
+Zhonghua Renmin Gongheguo Guomin Jingji He Shehui Fazhan Di Shisi
+Ge Wunian Guihua He 2035 Nian Yuanjing Mubiao Gangyao (中华人民共和国国民
+经济和社会发展第十四个五年规划和 2035 年远景目标纲要) [Outline of the People’s
+Republic of China 14th Five-Year Plan for National Economic and Social
+Development and the Long-Range Objectives Through the Year 2035]
+(promulgated by Nat’l People’s Cong., Mar. 12, 2021), ch. 21 § 3 [herinafter Five
+Year
+Plan],
+http://www.gov.cn/xinwen/2021-03/13/content_5592681.htm
+[https://perma.cc/C7B5-RL27].
+69
+Yeung & Mullen, supra note 5.
+70
+WORKING GRP. ON E-CNY RSCH. & DEV., supra note 13, at 13.
+71
+Kiff et al., supra note 1, at 38.
+72
+Wouter Bossu et al., Legal Aspects of Central Bank Digital Currency: Central
+Bank and Monetary Law Considerations 5 (IMF, Working Paper No. 2020/254, 2020),
+https://www.imf.org/en/Publications/WP/Issues/2020/11/20/Legal-Aspectsof-Central-Bank-Digital-Currency-Central-Bank-and-Monetary-LawConsiderations-49827 [https://perma.cc/Y8CJ-4TCH].
+
+https://scholarship.law.upenn.edu/alr/vol18/iss1/4
+
+2022
+
+China's Approach to Central Bank Digital Currency
+
+91
+
+3.1.1. The Prohibition on Cryptocurrencies
+China’s CBDC approach should be viewed through a functional
+lens. Its regulation of cryptocurrencies and CBDC is like two sides
+of a coin, cryptocurrencies being regarded as the opposite of
+CBDC. 73 Cryptocurrencies are typically understood to include
+stablecoins and other cryptocurrencies (e.g., Bitcoin). 74
+Cryptocurrencies consist of “open” cryptocurrencies (e.g., Bitcoin
+and Ether) that “operate outside the jurisdiction and direct control
+of the state or any single entity,” and “corporate or consortiummanaged digital currencies.” 75 E-CNY is managed by the PBOC,
+contrasted with most cryptocurrencies that aim to decentralize
+power traditionally reserved by the state.76 To some extent, e-CNY
+is driven by the response to cryptocurrencies and, relatedly, the risk
+of capital flight.77
+China does not permit the parallel development of decentralized
+cryptocurrencies and CBDC. In the 2020 Amendment Draft, the
+PBOC proposed to confirm e-CNY’s legal tender status as the digital
+form of RMB. 78 The 2020 Amendment Draft also forbids and
+73
+James Kynge & Sun Yu, Virtual Control: The Agenda behind China’s New
+Digital
+Currency,
+FIN.
+TIMES
+(Feb.
+17,
+2021),
+https://www.ft.com/content/7511809e-827e-4526-81ad-ae83f405f623
+[https://perma.cc/9TUK-SU73].
+
+74
+
+Cryptocurrencies: The Risks of Investing in Crypto, MONEYSMART,
+https://moneysmart.gov.au/investment-warnings/cryptocurrencies-and-icos (last
+visited Nov. 20, 2022).
+
+75
+ASHTON DE SILVA ET AL., RMIT UNIV., CENTRAL BANK DIGITAL CURRENCIES
+(CBDCS): A COMPARATIVE REVIEW 4 (2021)
+76
+Karen Yeung, What Is China’s Sovereign Digital Currency?, S. CHINA
+MORNING
+POST
+(May
+13,
+2020,
+10:35
+AM),
+https://www.scmp.com/economy/china-economy/article/3083952/whatchinas-cryptocurrency-sovereign-digital-currency-and-why
+[https://perma.cc/4AXF-UPDE].
+77
+Karen Yeung, China Not Among Major Central Banks in Talks on Global
+Digital Currency Principles, SOUTH CHINA MORNING POST (Oct. 9, 2020, 7:00 PM),
+https://www.scmp.com/economy/china-economy/article/3104905/china-not-among-majorcentral-banks-talks-globaldigital?utm_medium=email&utm_source=mailchimp&utm_campaign=enlzscmp_china&utm_content=20201009&tpcc=enlzscmp_china&MCUID=b2992489b1&MCCampaignID=c2e928c32f&MCAccountID=377
+5521f5f542047246d9c827&tc=5 [https://perma.cc/A96B-QK9L].
+78
+People’s Bank of China Draft, arts. 18–19; Soderbeg et al., supra note 50, at
+18.
+
+Published by Penn Carey Law: Legal Scholarship Repository,
+
+92
+
+U. PA. ASIAN L. REV.
+
+Vol. 18:1
+
+imposes fines on the production, circulation, and sale of substitute
+currencies in digital and physical forms, which seem to include
+RMB-pegged digital tokens.79 More recently, China has prohibited
+all activities concerning private virtual currencies through a notice
+issued by ten agencies including the Supreme People’s Court
+This would likely affect not only
+(hereinafter “SPC”). 80
+administrative decisions but also court judgments as the notice was
+issued by the administrative agencies and SPC.
+The crackdown on cryptocurrencies is a distinctive aspect of
+China’s CBDC approach, differing from many economies in which
+CBDC and cryptocurrencies could co-exist. This seems to reflect
+“China’s ‘state-centric’ monetary system.”81
+3.1.2. A Centralized Governance Model
+E-CNY is managed under a centralized model, 82 and it is
+observed to be “hypercentralized.” 83 According to a then PBOC
+deputy governor, central governance of e-CNY is meaningful for
+several reasons: (i) maintaining the role of fiat currency and the
+authority to issue currency; (ii) enhancing efficiency in payment
+systems and improving monetary policy transmission (e.g., e-CNY’s
+79
+Zhonghua Remin Gongheguo Zhongguo Remin Yinhang Fa (中华人民共
+和国中国人民银行法) [Law of the People’s Bank of China on the People’s Bank of
+China] (promulgated by the Nat’l People’s Cong., Mar. 18, 1995, rev’d by the
+Standing Comm. Nat’l People’s Cong., Dec. 27, 2003), arts. 4.3, 42–46,
+http://www.gov.cn/test/2005-06/28/content_10577.htm
+[https://perma.cc/W2CR-R8C7]; Soderberg et al., supra note 50, at 18.
+80
+Eleanor Olcott & Eva Szalay, China Expands Crackdown by Declaring All
+Crypto
+Activities
+‘Illegal’,
+FIN.
+TIMES
+(Sept.
+24,
+2021),
+https://www.ft.com/content/31f7edf7-8e05-46e1-8b13-061532f8db5f
+[https://perma.cc/X3MJ-LS3E]; Notice on Further Preventing and Resolving the Risks
+of Virtual Currency Trading and Speculation, PEOPLE’S BANK OF CHINA (Sept. 15, 2021),
+http://www.pbc.gov.cn/en/3688253/3689012/4353814/index.html
+[https://perma.cc/QT5B-FSAA].
+81
+Christopher A. McNally & Julian Gruin, A Novel Pathway to Power?
+Contestation and Adaptation in China’s Internationalization of the RMB, 24 REV. INT’L
+POL. ECON. 599, 601 (2017).
+82
+WORKING GRP. ON E-CNY RSCH. & DEV., supra note 13, at 13.
+83
+Aditi Kumar & Eric Rosenbach, Could China’s Digital Currency Unseat the
+AFFS.
+(May
+20,
+2020),
+Dollar?,
+FOREIGN
+https://www.foreignaffairs.com/print/node/1126052 [https://perma.cc/33VLCQK6].
+
+https://scholarship.law.upenn.edu/alr/vol18/iss1/4
+
+2022
+
+China's Approach to Central Bank Digital Currency
+
+93
+
+“settled upon payment” to speed up currency circulation); and (iii)
+ensuring financial stability (e.g., the use of big data and AI to inhibit
+illicit activities). 84 CBDC would strengthen the role of the state,
+which includes related agencies (e.g., taxation authorities), and
+provide the PBOC with “tight centralized control over digital
+money.”85 The analysis here focuses on the PBOC, which issues eCNY and manages the whole CBDC life cycle through the e-CNY
+systems’ operation, regulation, infrastructure and data.86
+First, the PBOC is at the center of the operation of the e-CNY
+system, including taking care of CBDC issuance and disposal.87 To
+illustrate, there is the PBOC’s central ledger,88 the “core” of e-CNY.89
+E-CNY wallets also provide a prime example. The use of e-CNY
+usually requires downloading the PBOC’s e-CNY app that is the
+core node of the e-CNY system, and the central bank is the core entry
+and clearing center for e-CNY. 90 Moreover, all cross-institutional
+transactions need to go through the PBOC for the value transfer to
+occur.91
+Second, the PBOC plays the leading role in regulation and
+setting rules and standards relating to CBDC. The 2020 Amendment
+Draft provides the central bank with powers spanning across the
+planning, organization and supervision of the payment system,
+84
+Fan Yifei (范一飞), Guanyu Shuzi Renminbi M0 Dingwei de Zhengce
+Hanyi Fenxi (关于数字人民币 M0 定位的政策含义分析) [Analysis on the Policy
+Implications of the M0 Status of E-CNY], Renmin Ribao (人民日报) [PEOPLE’S DAILY]
+(Sept.
+15,
+2020,
+2:25
+PM),
+http://blockchain.people.com.cn/n1/2020/0915/c417685-31862262.html
+[https://perma.cc/ATA5-Q6HZ].
+85
+Narayanan Somasundaram, Will China’s Digital Yuan Vanquish the Dollar?,
+NIKKEI ASIA (Aug. 11, 2021, 6:00 AM), https://asia.nikkei.com/Spotlight/The-BigStory/Will-China-s-digital-yuan-vanquish-thedollar?del_type=1&pub_date=20210811190000&seq_num=2
+[https://perma.cc/22JY-C228].
+86
+WORKING GRP. ON E-CNY RSCH. & DEV., supra note 13, at 3.
+87
+Id. at 8.
+88
+Jan Knoerich, China’s New Digital Currency: Implications for Renminbi
+Internationalization and the US Dollar, in THE (NEAR) FUTURE OF CENTRAL BANK
+DIGITAL CURRENCIES: RISKS AND OPPORTUNITIES FOR THE GLOBAL ECONOMY AND
+SOCIETY 145, 149 (Nicola Bilotta & Fabrizio Botti eds., 2021).
+89
+Soderberg et al., supra note 50, at 17.
+90
+Wang Yongli (王永利), Shuzi Renminbi Keneng Dailai de Zuida Bianhua
+(数字人民币可能带来的最大变化) [The Biggest Change that e-CNY May Bring],
+SINA (Nov. 2, 2020, 8:08 AM), https://finance.sina.cn/zl/2020-11-02/zliiznctkc8953792.d.html [https://perma.cc/45E4-V2KU].
+91
+Li & Ma, supra note 39.
+
+Published by Penn Carey Law: Legal Scholarship Repository,
+
+94
+
+U. PA. ASIAN L. REV.
+
+Vol. 18:1
+
+along with responsibility for the cybersecurity of e-CNY. 92 The
+PBOC also supervises CBDC exchange and circulation93 (including
+anti-money laundering (“AML”) regulation) 94 and regulates
+authorised operators and other commercial institutions. 95
+According to a then PBOC deputy governor, the centralized
+governance of e-CNY requires the setting of standards (i.e.,
+technical, business, security and operational standards). 96 The
+PBOC is responsible for setting rules for e-CNY wallets and
+managing e-CNY wallet ecosystem. 97 Commercial banks and
+licensed non-bank payment institutions must obtain the PBOC’s
+recognition and support, and must meet compliance and regulatory
+requirements (e.g., AML, risk management) to take part in China’s
+CBDC payment system. 98
+Authorized operators providing
+exchange services operate under the “quota management of the
+PBOC.”99
+Third, the PBOC is at the center of the system’s infrastructure.
+Centralized governance of e-CNY involves the development of eCNY infrastructure (including the connection of different operating
+institutions). 100 The PBOC is responsible for “inter-institution
+connect.”101 Regarding the monitoring of e-CNY transactions, the
+PBOC is expected to establish three centers for authentication,
+registration, and big data analysis respectively.102
+Fourth, the PBOC plays a central role in many other aspects such
+as technology and data. The PBOC is observed to be “rel[ying] to a
+greater extent on internal resources [in acquiring technology] and
+
+Soderberg et al., supra note 50, at 17–18.
+Li & Ma, supra note 39.
+94
+WORKING GRP. ON E-CNY RSCH. & DEV., supra note 13, at 10.
+95
+Bharathan, supra note 20.
+96
+Fan, supra note 84.
+97
+WORKING GRP. ON E-CNY RSCH. & DEV., supra note 13, at 8–9.
+98
+Id. at 6.
+99
+Id. at 8.
+100
+Fan, supra note 84.
+101
+WORKING GRP. ON E-CNY RSCH. & DEV., supra note 13, at 8.
+102
+Jinze & Etienne, First Look: China’s Central Bank Digital Currency, BINANCE
+RSCH. (Aug. 28, 2019), https://research.binance.com/en/analysis/china-cbdc
+[https://perma.cc/D38K-3L88]; Shen Wei & Hou Liyang, China’s Central Bank
+Digital Currency and Its Impacts on Monetary Policy and Payment Competition: Game
+Changer or Regulatory Toolkit?, 41 COMPUT. L. & SEC. REV. 1, 6.
+92
+93
+
+https://scholarship.law.upenn.edu/alr/vol18/iss1/4
+
+2022
+
+China's Approach to Central Bank Digital Currency
+
+95
+
+has different contractors for different areas as necessary,” which
+provides “more control over the development process.”103
+Centralized governance of e-CNY also involves the management
+of e-CNY information. 104 E-CNY will likely “revolutionize” the
+regulator’s capacity to “scrutinize the nation’s payment and
+financial system” with additional powers to track how money is
+used.105 The central bank could have access to CBDC transaction
+data and data regarding e-CNY digital wallets, but authorized
+operators will no longer be able to access all transaction information
+as was the case before the rolling out of e-CNY; if e-CNY wallets of
+the payer and payee are opened at different authorized operators,
+each authorized operator would not have all the information of both
+parties to the transaction, reflecting e-CNY’s managed anonymity
+feature.106 Under the loose coupling of accounts, CBDC operating
+agencies will “submit transaction data to the central bank via
+asynchronous transmission,” enabling the central bank to “keep
+track of necessary data.” 107 Conversely, the managed anonymity
+feature of e-CNY will hinder an online platform’s collection of user
+information.108 E-CNY’s “touch and touch” function, enabling two
+end users to touch their mobile devices to conduct a fund transfer,
+“leav[es] no payment record with a third party or the banking
+system.” 109 Managed anonymity features aside, e-CNY helps the
+state secure a central role in the financial system and fintech
+industry (including a huge e-payments market).110
+
+Soderberg et al., supra note 50, at 16.
+Fan, supra note 84.
+105
+Yeung, supra note 76.
+106
+Wang, supra note 90; Karen Yeung, China’s E-Yuan Like ‘A Double-Edged
+Sword’, and Mishandling It Carries Considerable Financial Risks, S. CHINA MORNING
+POST (July 18, 2021, 10:00 PM), https://www.scmp.com/economy/chinaeconomy/article/3141435/chinas-e-yuan-double-edged-sword-and-mishandlingit-carries [https://perma.cc/TZ3N-JG3X].
+107
+Yifei Fan, Some Thoughts on CBDC Operations in China, CENT. BANKING
+(Apr. 1, 2020), https://www.centralbanking.com/fintech/cbdc/7511376/somethoughts-on-cbdc-operations-in-china [https://perma.cc/3ALX-RY8Y].
+108
+Digital Yuan: What is It and How Does It Work?, supra note Error! Bookmark
+not defined., at 5.
+109
+Yeung, supra note 76.
+110
+Kynge & Yu, supra note 73; ALEX HE, DIGITAL RMB: A POSSIBLE WAY TO
+REASSERT DATA CONTROL IN THE DIGITAL ECONOMY
+4
+(2021),
+https://www.cigionline.org/publications/digital-rmb-a-possible-way-toreassert-data-control-in-the-digital-economy/ [https://perma.cc/L5UJ-HYN4].
+103
+104
+
+Published by Penn Carey Law: Legal Scholarship Repository,
+
+96
+
+U. PA. ASIAN L. REV.
+
+Vol. 18:1
+
+3.2. The Possible Cross-Border Use of e-CNY
+The PBOC has emphasized “the importance of exploring crossborder payments with CBDC,” 111 likely involving retail and
+wholesale use cases outside Mainland China. For instance, Hong
+Kong’s forthcoming pilot scheme for e-CNY use will involve retail
+use in some contexts like shopping and dining for certain individual
+users in Hong Kong and Hongkongers living in the Greater Bay
+Area.112 The PBOC is also involved in the Multiple CBDC Bridge
+project (mCBDC Bridge, or mBridge), a wholesale CBDC “cocreation” project that explores the capabilities of DLT and that
+focuses on cross-currency cross-border payments. 113 Here, the
+PBOC has collaborated with regulators in Hong Kong, Thailand and
+the United Arab Emirates (UAE) as well as the Bank for
+International Settlements (BIS) under this mCBDC Bridge.114
+The possible cross-border use of e-CNY is explored through new
+and existing mechanisms, multi-level efforts, and the technology
+and networks that China is involved in. The improvement of
+international payment is one of the three objectives of China’s
+CBDC. 115 The PBOC believes that China’s CBDC is “technically
+ready for cross-border use,” 116 and the bank is to beginning to
+explore cross-border use, including “pilot cross-border payment
+programs.”117 E-CNY may also gain international use due to, inter
+alia, network effects and common infrastructure and standards.118 If
+everything goes smoothly, e-CNY could be used in international
+
+Soderberg et al., supra note 50, at 25.
+Enoch Yiu, Hong Kong Sets Stage for E-CNY Use, to Launch Pilot ‘Soon after
+Spring
+Festival’,
+S.
+CHINA
+MORNING
+POST
+(Feb.
+7,
+2022),
+https://www.scmp.com/print/business/bankingfinance/article/3166109/hong-kong-sets-stage-e-cny-use-launch-pilot-soon-after
+[https://perma.cc/8XLP-TLK4].
+113
+BANK FOR INT’L SETTLEMENTS [BIS], Multiple CBDC (mCBDC) Bridge (2021),
+https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm
+[https://perma.cc/6YGN-B5SB].
+114
+BIS INNOVATION HUB H.K. CTR., supra note 12, at 7.
+115
+WORKING GRP. ON E-CNY RSCH. & DEV., supra note 13, at 5–6.
+116
+Id. at 5.
+117
+Id.
+118
+Diana Choyleva, China Advances in Challenge to Dollar Hegemony, FIN. TIMES
+(June
+30,
+2021),
+https://www.ft.com/content/efa3ec2b-5be8-413f-b23ccc9b9bff1261 [https://perma.cc/H4UU-DR98].
+111
+112
+
+https://scholarship.law.upenn.edu/alr/vol18/iss1/4
+
+2022
+
+China's Approach to Central Bank Digital Currency
+
+97
+
+contexts including cross-border retail payment (e.g., tourism,119 ecommerce, and business visits), 120 real-time cross-border foreign
+exchange payments (as explored in the m-CBDC Bridge),
+remittance, 121 and possibly the Belt and Road Initiative (BRI)
+projects (e.g., RMB loans and investments).122 E-CNY will likely be
+first used in business-to-consumer (B2C) and then in cross-border
+flows in the medium-to-long term.123
+3.2.1. The Use of Existing and New Mechanisms
+China appears to utilize existing and new mechanisms to
+explore the cross-border use of CBDC. 124 Its efforts often focus on
+finance and technology and the development of infrastructure.
+In relation to finance, China engages with existing financial
+systems including SWIFT, the global financial messaging system.125
+China established a joint venture with SWIFT in 2021, which is
+regarded as part of the efforts to explore the international use of
+China’s CBDC and propel RMB internationalization. 126 For
+instance, the joint venture will establish a localized data warehouse
+Tang, supra note 22.
+Zhou Xiaochuan Clarifies Three Major Misunderstandings of the E-CNY,
+COINYUPPIES (May 22, 2021), https://coinyuppie.com/zhou-xiaochuan-clarifiesthree-major-misconceptions-about-digital-currencies-in-five-major-ways-withfull-speech/ [https://perma.cc/W9NR-F8G4]. Bansal & Singh, supra note 52, at 7.
+121
+Id. at 15; Bansal & Singh, supra note 52, at 15.
+122
+Lo Chi, The Crypto-Renminbi Challenge to the Dollar, 34 INT’L ECON., 50, 70
+(2020).
+123
+JASON EKBERG & MICHAEL HO, A NEW DAWN FOR DIGITAL CURRENCY: WHY
+CHINA’S ECNY WILL CHANGE THE WAY MONEY FLOWS FOREVER 3 (2021),
+https://www.oliverwyman.com/our-expertise/insights/2021/may/a-newdawn-for-digital-currency.html [https://perma.cc/29GG-5L6K].
+124
+See, e.g., Reuters Staff, SWIFT Sets up JV with China's Central Bank, REUTERS
+(Feb 4, 2021, 12:12 AM), https://www.reuters.com/article/china-swift-pbocidUSL1N2KA0AK [https://perma.cc/R7K9-CZEA] (describing a joint venture
+between SWIFT and the Chinese central bank's digital currency research institute
+and clearing center).
+125
+Id.
+126
+Id.; Bansal & Singh, supra note 52, at 12; Karen Yeung, China’s SWIFT Joint
+Venture Shows Beijing Eyeing Global Digital Currency Use, to Internationalise Yuan, S.
+CHINA MORNING POST (Feb. 4, 2021), https://www.scmp.com/economy/chinaeconomy/article/3120582/chinas-swift-joint-venture-shows-beijing-eyeing-global
+[https://perma.cc/T8X3-MD67].
+119
+120
+
+Published by Penn Carey Law: Legal Scholarship Repository,
+
+98
+
+U. PA. ASIAN L. REV.
+
+Vol. 18:1
+
+to “monitor and analyze cross-border payment messaging.” 127
+Meanwhile, China’s CBDC is observed to reflect greater efforts to
+promote an “independent payments system based on its CrossBorder Inter-Bank Payments System (CIPS).”128
+Concerning technology, new mechanisms may be adopted to
+promote the CBDC. Blockchain provides a good example. The
+PBOC Digital Currency Institute (DCI) is developing a trade finance
+blockchain platform.129 China’s government-backed initiative, the
+Blockchain Service Network (hereinafter “BSN”), may also help
+promote the use of CBDC.130 Aiming to reduce the costs of using
+blockchains by individuals and SMEs, the BSN reportedly plans to
+develop an international network to support future CBDCs. 131
+China also launched the Global Initiative on Data Security in 2020.132
+
+127
+China Central Bank Says New SWIFT JV Will Set Up Localized Data Warehouse,
+REUTERS (Mar. 23, 2021, 4:55 AM), https://www.reuters.com/world/china/chinacbank-says-new-swift-jv-will-set-up-localized-data-warehouse-2021-03-23/
+[https://perma.cc/H2Q6-U2DU].
+128
+Nikhil Raghuveera, Design Choices of Central Bank Digital Currencies Will
+Transform Digital Payments and Geopolitics, ATL. COUNCIL (Apr. 23, 2020),
+https://www.atlanticcouncil.org/blogs/geotech-cues/design-choices-of-centralbank-digital-currencies-will-transform-digital-payments-and-geopolitics/
+[https://perma.cc/7W9X-GW6J].
+129
+Yanghang Shuyansuo Tan Qukuailian: Jishu Shang Qu Zhongxinhua Bu
+Dengyu
+Guanli
+Qu
+Zhongxinhua
+(央行数研所谈区块链：技术上去中心化并不等于管理去中心化) [PBOC Digital
+Currency Research Institute on Blockchain: Technical Decentralization Does Not
+Mean Decentralization of Management], 21 Shinji Jingji Baodao (21 世纪经济报道)
+[21ST CENTURY BUS. HERALD] (Sept. 13, 2021) [hereinafter "PBOC Digital Currency
+Research Institute", https://finance.sina.com.cn/blockchain/roll/2021-09-13/dociktzscyx3969921.shtml [https://perma.cc/QNN7-7R8E].
+130
+Bansal & Singh, supra note 52, at 12; Michael Gu, China’s Blockchain Service
+Network
+(BSN)
+Guide,
+BOXMINING
+(May
+14,
+2020),
+https://boxmining.com/blockchain-service-network-china/
+[https://perma.cc/LBE6-ZTME]; China’s BSN Blockchain Network Plans
+Multinational CBDC Pilot This Year, LEDGER INSIGHTS (Jan. 15, 2021) [hereinafter
+China’s BSN], https://www.ledgerinsights.com/china-bsn-blockchain-networkplans-multinational-cbdc-pilot-this-year/ [https://perma.cc/2BBQ-SH7T].
+131
+China’s BSN, supra note 130.
+132
+Full Text: Global Initiative on Data Security, CHINA.ORG.CN (Sept. 15, 2020),
+http://www.china.org.cn/chinese/2020-09/15/content_76704524.htm
+[https://perma.cc/NU2N-YTCU].
+
+https://scholarship.law.upenn.edu/alr/vol18/iss1/4
+
+2022
+
+China's Approach to Central Bank Digital Currency
+
+99
+
+3.2.2. Multi-Level Efforts
+China is exploring the cross-border use of CBDC at different
+levels. E-CNY trials in China are regarded by the PBOC as a basis
+for the pilot cross-border payment programs related to e-CNY. 133
+For example, China’s Xiongan New Area is planning for the crossborder use of digital yuan. 134 The 2022 Winter Olympics also
+involved a CBDC pilot.135 Business and trade use cases may also see
+increased testing.136
+Outside Mainland China, the DCI has signed a memorandum
+with the Hong Kong Monetary Authority, with e-CNY cross-border
+payment technical testing having been conducted.137 At the time of
+writing, Hong Kong reportedly plans to conduct e-CNY pilots with
+certain restaurants and shops. 138 It seems that the Macau
+government will also work with the PBOC to “study the feasibility
+of issuing a digital currency.”139 As an example of bilateral efforts,
+the possibility of Chinese tourists using China’s CBDC abroad is
+reportedly being explored by China and Singapore.140
+In addition, the PBOC has collaborated with regulators in Hong
+Kong, Thailand, and the UAE as well as the BIS under the mCBDC
+Bridge.141 Multiple CBDC systems are being explored through the
+mCBDC Bridge that involves a prototype “to support real-time
+cross-border foreign exchange PvP [payment versus payment]
+transactions in multiple jurisdictions, operating 24/7.”142 The PBOC
+WORKING GRP. ON E-CNY RSCH. & DEV., supra note 13, at 5.
+China’s BSN, supra note 130.
+135
+Yang Jing & AnnaMaria Andriotis, At the Winter Olympics, Beijing’s Digital
+Yuan Push Puts Visa in a Bind, WALL ST. J. (Feb. 9, 2022, 9:05 PM),
+https://www.wsj.com/articles/beijings-digital-currency-push-at-winterolympics-puts-visa-in-a-bind-11644402602 [https://perma.cc/X8B4-8756].
+136
+Do Digital Yuan Trial Figures Signal More Business Usage?, LEDGER INSIGHTS
+(Nov. 2, 2020), https://www.ledgerinsights.com/digital-yuan-trial-figuresbusiness-usage-ecny-cbdc/ [https://perma.cc/R36L-2VNL].
+137
+BIS INNOVATION HUB H.K. CTR., supra note 12, at 14.
+138
+Yiu, supra note 112.
+139
+Yeung & Mullen, supra note 5.
+140
+Hu Yue & Denise Jia, China’s Didi Teams with Central Bank on Digital
+ASIA
+(July
+9,
+2020),
+Currency
+Trial,
+NIKKEI
+https://asia.nikkei.com/Spotlight/Caixin/China-s-Didi-teams-with-centralbank-on-digital-currency-trial [https://perma.cc/32BG-SLY6].
+141
+BIS INNOVATION HUB H.K. CTR., supra note 12, at 7.
+142
+Raphael Auer et al., supra note 30, at 1, 8.
+133
+134
+
+Published by Penn Carey Law: Legal Scholarship Repository,
+
+100
+
+U. PA. ASIAN L. REV.
+
+also engages with
+organizations.143
+
+international
+
+standards
+
+Vol. 18:1
+development
+
+3.2.3. Taking Advantage of Technology and Network
+New technology will help e-CNY lower costs and improve
+convenience and efficiency in commerce. CBDC frameworks may
+be leveraged to enhance international payments (e.g., the conversion
+of CBDCs)144 and lower costs (such as e-CNY lowering transaction
+costs for international users compared with cash). 145 E-CNY
+seemingly aims to further the efficiency and reduce the cost of interbank settlements, which is linked with the international acceptance
+of e-CNY.146 The m-CBDC Bridge is exploring the use of CBDC and
+blockchain technology in cross-border foreign currency payments,
+aiming to make such payments simpler and less expensive.147 CBDC
+may also streamline communication processes. Many problems
+with international fund transfers are attributable to the
+“communication hops” and numerous updates to ledgers across
+many intermediaries. 148 CBDCs may enable countries to transact
+separately, which “would lower demand for correspondent banking
+services and SWIFT international financial messaging and payment
+systems.” 149 Moreover, CBDC may reduce the cost of liquidity
+management. 150 For cross-border payment through traditional
+money, liquidity management is usually done through prefunding
+Bharathan, supra note 20.
+The Bank of Japan’s Approach to Central Bank Digital Currency, BANK OF JAPAN
+(Oct.
+9,
+2020),
+https://www.boj.or.jp/en/announcements/release_2020/data/rel201009e1.pdf,
+[https://perma.cc/MRS5-YSPK].
+145
+Yeung, supra note 76.
+146
+ROBIN HUI HUANG, FINTECH REGULATION IN CHINA: PRINCIPLES, POLICIES
+AND PRACTICES 285 (2021).
+147
+Somasundaram, supra note 85.
+148
+Bansal & Singh, supra note 52, at 7.
+149
+Zhang Tao, Deputy Managing Director, IMF, Remarks during CAFIN
+Webinar Series on Finanial Risks, Innovation and Inclusion in a Post-COVID World
+(Oct. 30, 2020), in New Forms of Digital Money: Implications for Monetary and
+Financial
+Stability,
+IMF
+(Oct.
+30,
+2021),
+https://www.imf.org/en/News/Articles/2020/10/30/sp103020-new-forms-ofdigital-money.
+150
+Bansal & Singh, supra note 52, at 7.
+143
+144
+
+https://scholarship.law.upenn.edu/alr/vol18/iss1/4
+
+2022
+
+China's Approach to Central Bank Digital Currency
+
+101
+
+(i.e., keeping balances in relevant accounts), which is costly.151 That
+said, cross-border use of e-CNY faces similar challenges to existing
+currencies, such as capital controls.152
+China will likely take advantage of its network, such as its trade
+and payment networks, to promote CBDC.153 E-CNY may continue
+China’s use of its leading role in trade to increase demand for RMB
+in trade settlement.154 For instance, cross-border use of e-CNY and
+e-HKD could be impactful given the large volume of trade between
+Hong Kong SAR and Mainland China. 155 Notably, BRI-related
+projects and transactions also promote RMB settlement. 156 If
+everything goes smoothly, CBDC might be used in BRI projects (e.g.,
+RMB loans and investments). 157 With many BRI projects being
+implemented by Chinese businesses, “the contractor payments
+could be made using the digital yuan, without routing the money
+through foreign governments.”158 China could “increasingly bill in
+yuan” given its large-volume trade with Asian and African states,159
+151
+Morten Linnemann Bech et al., Payments without Borders, BIS Q. REV., Mar.
+2020, at 53, 61 (2020).
+152
+See, e.g., Peking Professor Warns Re Rapid Internationalization of China’s
+Digital
+Yuan,
+LEDGER
+INSIGHTS
+(July
+20,
+2021),
+https://www.ledgerinsights.com/peking-professor-warns-rapidinternationalization-of-china-digital-yuan/
+[https://perma.cc/P9B7-5RNM]
+(noting that internationalizing e-CNY would result in “a relaxation in capital
+controls by using the currency for cross border payments [that] could be
+detabilizing”).
+153
+See Zennon Kapron, China’s Central Bank Digital Currency Will Strengthen
+Alipay And WeChat Pay, Not Replace Them, FORBES (May 24, 2020, 8:57 PM),
+https://www.forbes.com/sites/zennonkapron/2020/05/24/chinas-central-bankdigital-currency-will-strengthen-alipay-and-wechat-pay-not-replacethem/#418342086b69 [https://perma.cc/42Z2-JK8K] (stating that Beijing is not
+looking to replace existing systems, such as Alipay and WeChat Pay, but rather
+looking to integrate them with DCEP).
+154
+Knoerich, supra note 88.
+155
+Ian De Bode et al., CBDC and Stablecoins: Early Coexistence on an Uncertain
+Road, in THE 2021 MCKINSEY GLOBAL PAYMENTS REPORT 14, 21 (2021),
+https://www.mckinsey.com/~/media/mckinsey/industries/financial%20servic
+es/our%20insights/the%202021%20mckinsey%20global%20payments%20report/
+2021-mckinsey-global-payments-report.pdf [https://perma.cc/6UN6-Q34A].
+156
+See Tsang Cheng-Yun & Chen Ping-Kuei, Policy Responses to Cross-border
+Central Bank Digital Currencies – Assessing the Transborder Effects of Digital Yuan, 17
+CAP. MKTS. L.J. 237, 247-48 (2021) (stating that “[s]ome studies have confirmed that
+BRI countries prefer RMB settlement more than the non-BRI countries do”).
+157
+Lo, supra note 122, at 70.
+158
+Bansal & Singh, supra note 52, at 14.
+159
+Somasundaram, supra note 85.
+
+Published by Penn Carey Law: Legal Scholarship Repository,
+
+102
+
+U. PA. ASIAN L. REV.
+
+Vol. 18:1
+
+and e-CNY may be promoted in a network of international trade
+built through the BRI.160
+China’s outbound tourism could also serve to promote the
+international use of e-CNY. 161 According to an investment
+strategist, it is even possible that a “Chinese tourist [could] settle
+with e-RMB if the oversea [sic] hotel has an e-RMB machine installed
+that transacts directly through the PBOC settlement system.”162
+China could also distribute e-CNY through pre-existing
+payment platforms (e.g., Alipay wallets) and ride on current
+acceptance infrastructure and networks to improve the scalability of
+e-CNY. 163 E-CNY could be used through Alipay, 164 and is also
+connected with China UnionPay Merchant Services, which is
+affiliated with China UnionPay (a leading payment provider). 165
+One may argue that, theoretically, e-CNY could be used overseas
+through Chinese payment apps and services.166
+3.3. Proactiveness in International Governance
+China is proactive in international governance relating to CBDC.
+As part of the efforts regarding “the promotion of the construction
+160
+Martin Farrer, Currency and Control: Why China Wants To Undermine
+(July
+8,
+2021),
+Bitcoin,
+GUARDIAN
+https://www.theguardian.com/world/2021/jul/09/currency-and-control-whychina-wants-to-undermine-bitcoin [https://perma.cc/47QK-7DSH].
+161
+Francis Shin, Post-Pandemic Tourism Could Boost China’s New Digital
+Currency, NAT’L INT. (Feb 3, 2021), https://nationalinterest.org/blog/buzz/postpandemic-tourism-could-boost-china%E2%80%99s-new-digital-currency-177572
+[https://perma.cc/Y9H5-NZTK].
+162
+Anthony Chan, Implications of China’s Sovereign Digital Currency, UBP (Jun
+18,
+2020),
+https://www.ubp.com/pt/newsroom/implications-of-chinassovereign-digital-currency [https://perma.cc/QGX9-TA3M].
+163
+Bansal & Singh, supra note 52.
+164
+Digital Yuan Takes Another Step Forward With Alipay Availability, LEDGER
+INSIGHTS (May 1, 2021), https://www.ledgerinsights.com/china-digital-yuancurrency-ecny-cbdc-alipay-availability/ [https://perma.cc/8ZW7-USE4].
+165
+UnionPay Business Access Digital RMB Interconnection Platform,
+EQUALOCEAN
+(Oct.
+29,
+2021,
+10:44
+AM),
+https://equalocean.com/briefing/20211029230090708 [https://perma.cc/FXJ5RUXY].
+166
+See, e.g., Knoerich, supra note 88, at 159 (suggesting that DCEP could
+expand payments in RMB by providing a way to circumvent the SWIFT payment
+system).
+
+https://scholarship.law.upenn.edu/alr/vol18/iss1/4
+
+2022
+
+China's Approach to Central Bank Digital Currency
+
+103
+
+of a community of common destiny in cyberspace” in China’s recent
+Five-Year Plan, there is a plan for China to “actively participate” in
+rulemaking across “data security, digital currency, digital tax, and
+standards on digital technology.”167
+China appears to play an active role in formulating emerging
+standards related to CBDC at various venues and organizations.
+China has called for the G20 to address the development of CBDC
+standards and principles while confronting the various risks and
+challenges. 168 China is represented in the Future of Payments
+Working Group that derives from the G20 roadmap to improve
+cross-border payments,169 with the PBOC actively participating in
+developing international standards. 170 China is participating in
+CBDC concept- and standard-setting through standard-setting
+bodies (SSBs, dealing with topics ranging from CBDC definition and
+categories, issues affecting CBDC and virtual currencies, to
+regulation). 171 At the International Telecommunication Union
+(ITU), China appears to lead research and the standardization of the
+CBDC ecosystem and reference architecture.172 China “was the first
+to add digital currency-related content to the repository for ISO
+20022, a new global standard covering financial information
+transferred between financial institutions that includes payment
+transactions, securities trading and settlement information, and
+credit and debit card information.” 173
+Relating to the
+Five Year Plan, supra note 68, ch. 18, § 4.
+Xi Jinping, President of the People’s Republic of China, Remarks at Session
+I of the 15th G20 Leaders’ Summit: Together, Let Us Fight COVID-19 and Create a
+Better
+Future
+(Nov.
+21,
+2020),
+https://www.fmprc.gov.cn/mfa_eng/zxxx_662805/t1834379.shtml
+[https://perma.cc/22MQ-EYZ4].
+169
+Soderberg et al., supra note 50, at 14.
+170
+WORKING GRP. ON E-CNY RSCH. & DEV., supra note 13, at 14.
+171
+Chen Jia, China Promotes Global Digital Fiat Currency Standardization, CHINA
+DAILY
+(Dec.
+8,
+2018,
+9:40
+AM),
+http://english.www.gov.cn/state_council/ministries/2018/12/08/content_2814
+76424565376.htm [https://perma.cc/HQ7R-BLLW].
+172
+Yao Qian (姚前), Quanguo Jinrong Biaozhunhua Jishu Weiyuanhui Mishu
+Zhang Yao Qian Biaozhun Xianxing Yingling Jinrong Zou Chuqu (全国金融标准化
+技 术 委 员 会 秘 书 长 姚 前 标 准 先 行 引 领 金 融 走 出 去 ) [National Financial
+Standardization Technical Committee Secretary General Qian Yao: Prioritizing
+Standandards, Promoting Going-Out of Finance] WECHAT (Nov. 1, 2018),
+https://mp.weixin.qq.com/s/EW5asUXbIUHZmvTSyY48Rg
+[https://perma.cc/WHV6-QTQR].
+173
+Hu Yue et al., In Depth: China’s Digital Currency Ambitions Lead the World,
+NIKKEI ASIA (Dec 3, 2020), https://asia.nikkei.com/Spotlight/Caixin/In-depth167
+168
+
+Published by Penn Carey Law: Legal Scholarship Repository,
+
+104
+
+U. PA. ASIAN L. REV.
+
+Vol. 18:1
+
+interoperability of CBDC, ISO 20022 is among notable common data
+and message standards and will likely play a role in “enabling
+interoperability with other payment systems.” 174 The PBOC has
+discussed cutting-edge issues with not only multinational financial
+institutions but also regulators of different economies and
+universities. 175 China has “introduced standards” on CBDC in
+certain economies involved in the BRI,176 and it is reported that the
+Legal Entity Identifier will be both used in China’s CBDC ecosystem
+as part of the BRI.177
+In addition, China proposes international principles for CBDC
+design, addressing various issues including the international use of
+CBDC and monitoring and information sharing.178 The PBOC has
+reportedly raised these proposals with “other central banks and
+monetary authorities.”179 China appears to propose the principle of
+“no detriment,” “compliance,” and “interconnectivity” for CBDC
+regulation,180 which involves CBDC’s cross-border use.181 The first
+requirement of “no detriment,” also seemingly called the “do not
+harm” 182 or “no disruption” principle, 183 means that one state’s
+CBDC should not disrupt other states’ currency sovereignty and
+their monetary and financial stability, along with consumer
+protection and fair competition.184 This appears to involve avoiding
+
+China-s-digital-currency-ambitions-lead-the-world
+[https://perma.cc/X3ZS4PE5].
+174
+BANK FOR INT’L SETTLEMENTS, CENTRAL BANK DIGITAL CURRENCIES:
+FOUNDATIONAL PRINCIPLES AND CORE FEATURES 14 (2020).
+175
+WORKING GRP. ON E-CNY RSCH. & DEV., supra note 13, at 14.
+176
+Chen, supra note 171.
+177
+Manesh Samtani, PBOC Publishes Roadmap for Full LEI Adoption in China,
+REGUL. ASIA (Dec 18, 2020), https://www.regulationasia.com/pboc-publishesroadmap-for-full-lei-adoption-in-china/?ct=t(21Dec2020RA)&goal=0_d30b640721-39debbd537116648885&mc_cid=39debbd537&mc_eid=f71d230703 [https://perma.cc/MV74MJ2K].
+178
+Tom Wilson & Marc Jones, China Proposes Global Rules for Central Bank
+Digital Currencies, REUTERS (Mar 25, 2021), https://www.reuters.com/article/uscenbanks-digital-china-rules-idUSKBN2BH1TA [https://perma.cc/J3QK-Q87T].
+179
+Id.
+180
+WORKING GRP. ON E-CNY RSCH. & DEV., supra note 13, at 5.
+181
+Soderberg et al., supra note 50, at 14, 25.
+182
+BIS INNOVATION HUB H.K. CTR., supra note 12, at 14.
+183
+Soderberg et al., supra note 50, at 14 .
+184
+WORKING GRP. ON E-CNY RSCH & DEV., supra note 13, at 5–6.
+
+https://scholarship.law.upenn.edu/alr/vol18/iss1/4
+
+2022
+
+China's Approach to Central Bank Digital Currency
+
+105
+
+negative spillover effects on the economies of China and other
+jurisdictions (e.g., currency substitution).185
+The second requirement is “compliance,” requiring CBDC crossborder payments system to be compliant with the regulations of all
+connected jurisdictions (e.g., capital management, foreign exchange
+regulation). 186 Additionally, information flow and funds flow
+between jurisdictions may be synchronized to promote trade,
+bolster the real economy and deter illicit activities (e.g., satisfying
+AML and countering the financing of terrorism (“CTF”)
+requirements (together AML/CTF), addressing tax evasion).187 The
+synchronization of information and fund flows would “facilitate
+regulators to monitor the transactions for compliance.”188
+The third requirement is “interconnectivity”: cross-border
+payments should, instead of a single CBDC being used for
+transactions on both sides of the border, involve interoperability
+between different jurisdictions’ domestic CBDC systems and
+between domestic CBDC systems and existing payment systems.189
+Here, the PBOC “prefers a system where domestic CBDCs are
+converted to other currencies as payments cross borders.” 190
+According to the DCI Director-General Mu Changchun, PBOC “also
+propose[s] a scalable and overseen foreign exchange platform
+supported by DLT (distributed ledger technology like blockchain)
+or other technologies.”.191
+China works on broader issues related to CBDC, particularly
+technology, and has been proactive in engaging in international
+standard-setting for new technologies. 192 For instance, the BSN
+reportedly “envisages” a “standardized digital currency transfer
+method and payment procedure.”193 If the BSN manages to develop
+Soderberg et al., supra note 50, at 14, 25.
+WORKING GRP. ON E-CNY RSCH & DEV., supra note 13, at 5–6.
+187
+Soderberg et al., supra note 50, at 14 .
+188
+Wilson & Jones, supra note 178.
+189
+WORKING GRP. ON E-CNY RSCH & DEV., supra note 13, at 5–6; Soderberg et
+al., supra note 50, at 14.
+190
+Soderberg et al., supra note 50, at 15.
+191
+Wilson & Jones, supra note 178.
+192
+See Chinese Standards Going Global an Unavoidable Trend, GLOBAL TIMES
+(Apr.
+28,
+2020),
+https://www.globaltimes.cn/content/1187060.shtml
+[https://perma.cc/79YA-2ZK6] (explaining that China has been proactive in
+international standard-setting for new technologies).
+193
+China’s BSN, supra note 130.
+185
+186
+
+Published by Penn Carey Law: Legal Scholarship Repository,
+
+106
+
+U. PA. ASIAN L. REV.
+
+Vol. 18:1
+
+its network at scale, this may impact international standards.194 The
+DCI is proactive in developing the blockchain standard system, and
+leads a number of working groups and standardization projects in
+standardization organizations at both home and abroad.195
+4. CHINA’S CBDC APPROACH: SELECTIVE RESHAPING?
+Based on these features, China may selectively reshape
+international economic governance through e-CNY, particularly the
+US dollar-based international financial system and order. It is due
+to, inter alia, the development of CBDC systems and possible
+reduced reliance on the dollar. 196
+4.1. What Is “Selective”?
+CBDC is an area in which China has an advantage in both
+technology as well as in standards. Potentially, China could utilize
+its first-mover advantage in usage and technology. For instance,
+digital yuan may “enable China to internationalize digital currency
+payments before other countries’ CBDCs emerge.”197 This is based
+on China’s strengths, not only in CBDC, but also within the related
+areas of FinTech and e-commerce, more generally.198 Being selective
+is not uncommon in China’s practice of economic governance China is also selective in its deregulation efforts.199
+CBDC involves an emerging new technology, lacking in the
+areas of international standards, practical experience and design.200
+E-CNY is “at the most advanced stage” within existing CBDC
+
+Id.
+PBOC Digital Currency Research Institute, supra note 129.
+196
+See, e.g., Somasundaram, supra note 85.
+197
+Knoerich, supra note 88, at 161.
+198
+See generally Bryan Tan, The BRI’s Digital Silk Road, in ASEAN AND THE BELT
+AND ROAD INITIATIVE - CONNECTIVITY THROUGH LAW AND COMMERCE 289 (Basil C.
+Bitas ed. 2021) (analysing the practice and issues of the Digital Silk Road).
+199
+Christopher A. McNally, Chaotic Mélange: Neo-Liberalism and Neo-Statism in
+the Age of Sino-Capitalism, 27 REV. INT’L POL. ECON. 281, 287 (2020).
+200
+Bansal & Singh, supra note 45, at 10; Soderberg et al., supra note 50, at 24.
+194
+195
+
+https://scholarship.law.upenn.edu/alr/vol18/iss1/4
+
+2022
+
+China's Approach to Central Bank Digital Currency
+
+107
+
+projects, 201 and its trial has extended its lead over different
+economies’ efforts in exploring a CBDC.202 The PBOC, state-owned
+enterprises (SOEs), and government subsidiaries had reportedly
+filed over eighty patents relating to CBDC through 2020.203
+For standards, the PBOC’s standard system spans from “general
+requirements, business operation, interoperability, wallet, security
+and regulation.”204 CBDC is closely linked with digital payment. 205
+China’s digital payment development is, arguably, moving faster
+than the rest of the world, “with payment systems even in countries
+with far wealthier populations, such as the United States, lagging on
+ease, efficiency, and cost.”206
+4.2. What Is “Reshaping”?
+E-CNY may lead to a multifaceted reshaping of the international
+financial order. Reshaping in this context includes: China’s reduced
+reliance on the U.S. dollar, the impact of China’s technology and
+standards on both bilateral and multilateral frameworks concerning
+FinTech and CBDC, and other related impacts on the international
+financial order (e.g., the possible emergence of currency “zones”). 207
+4.2.1. The Reduced Reliance on the Dollar
+By utilizing technology and a China-led network, e-CNY will
+likely reduce reliance on the U.S. dollar-based international financial
+
+201
+Raphael Auer et al., Rise of the Central Bank Digital Currencies: Drivers,
+Approaches and Technologies 22 (BIS, Working Papers No. 880, Aug. 2020).
+202
+See generally John, supra note 49 (explaining that China’s successful trial
+program puts China in the lead of the global race to develop a digital currency).
+203
+Hannah Murphy & Yang Yuan, Patents Reveal Extent of China’s Digital
+Currency Plans, FIN. TIMES, (Feb. 12, 2020), https://www.ft.com/content/f10e94cc4d74-11ea-95a0-43d18ec715f5 [https://perma.cc/9TUK-SU73].
+204
+WORKING GRP. ON E-CNY RSCH & DEV., supra note 13, at 13.
+205
+Id. at 2.
+206
+ESWAR S. PRASAD, THE FUTURE OF MONEY: HOW THE DIGITAL REVOLUTION IS
+TRANSFORMING CURRENCIES AND FINANCE 15 (2021).
+207
+See Chan, supra note 162 (detailing the impact of the internalization of
+Chinese digital currency).
+
+Published by Penn Carey Law: Legal Scholarship Repository,
+
+108
+
+U. PA. ASIAN L. REV.
+
+Vol. 18:1
+
+system. 208 For technology, CBDC builds on FinTech that may
+reshape, amongst others, “global production and financial
+networks.” 209 It has been said that “digitization of the entire
+monetary base and a speedy payments framework” would reduce
+reliance on the U.S. dollar-based international financial system.210
+New technology provides an opportunity for developing countries,
+such as China, to adopt more efficient transaction methods than
+those of even wealthier nations.211 It will be arguably easier for new
+technologies to start from a clean slate, as opposed to encountering
+headwinds from vendors and users of pre-existing technologies.212
+Particularly, cross-border payment is arguably the area in which
+China’s CBDC could maximize its effects and thus help develop a
+new international settlement system.213 E-CNY has the “potential to
+shift the world payments system in favor of the RMB, [and may]
+provide a completely new and different mechanism, entirely
+removed from these traditional payments systems.”214 The currency
+may be used outside China’s borders, particularly by economies
+with close links with China.215 E-CNY could potentially enable the
+direct exchange of currencies and bypass the use of the U.S. dollar if
+an efficient peer-to-peer transfer in e-CNY becomes commonly
+accepted in international business. 216 China’s CBDC would
+introduce a new payment rail, the system transferring funds
+between payers and payees, that could arguably reduce reliance on
+the U.S. dollar and dollar-dominated payment rails.217
+Yeung, supra note 77.
+Karen P.Y. Lai & Michael Samers, Towards an Economic Geography of
+FinTech, 45 PROGRESS HUM. GEOGRAPHY 720, 721 (2021).
+210
+Daniel Tenengauzer et al., An Existential Threat to the US Dollar, BNY
+MELLON (Sept. 2020), https://www.bnymellon.com/us/en/insights/aerial-viewmagazine/an-existential-threat-to-the-us-dollar.html [https://perma.cc/BM5MFRTG].
+211
+PRASAD, supra note 206, at 15.
+212
+Id.
+213
+Wu Yanting, Shuzi Renminbi Weihe Jiasu Pao (数字人民币为何加速跑)
+[Why Does the Digital RMB Accelerate?], OUTLOOK WKLY. (Feb. 1, 2021).
+214
+Knoerich, supra note 88, at 160.
+215
+See, e.g., BANK FOR INT’L SETTLEMENTS, PROJECT MBRIDGE: CONNECTING
+ECONOMIES THROUGH CBDC 13–15 (2022), https://www.bis.org/publ/othp59.pdf
+[https://perma.cc/77PW-PC5V] (describing a pilot program between banks in
+Mainland China, Hong Kong, Thailand, and the UAE to permit cross border
+settlements in their respective CBDCs).
+216
+Somasundaram, supra note 78.
+217
+Bansal & Singh, supra note 52, at 10.
+208
+209
+
+https://scholarship.law.upenn.edu/alr/vol18/iss1/4
+
+2022
+
+China's Approach to Central Bank Digital Currency
+
+109
+
+For the China-led network of trade and investment, China will
+likely build on such a network to reduce reliance on the US dollar.218
+The reach of e-CNY may be expanded along the BRI as a possible
+U.S. dollar alternative.219 If properly managed, e-CNY transfers may
+simplify “cross-border RMB-denominated settlement”, with lower
+currency exchange costs by reducing the need of an intermediary
+currency (particularly the U.S. dollar), yielding improved efficiency
+and convenience.220 As trade with China may be billed in RMB, this
+has been dubbed by Charles Gave as: “Asia’s new monetary order”,
+claiming that “‘parallel infrastructure’ is now in place” that permits
+states to “move between currencies.” 221 E-CNY may be used by
+investors for investment relating to China or in economies with
+volatile
+currencies,
+with
+“underdeveloped
+financial
+infrastructures.”222 E-CNY may also be attractive to some emerging
+markets if cross-border payments become more efficient and less
+costly and if these markets intend to “reduce their dependence on
+the dollar for geostrategic reasons.”223
+Besides the trade and investment discussed above, China may
+use its financial network to reduce its reliance on the U.S. dollar,
+such as through payment systems and swap lines. For example, eCNY is observed to link with the country’s efforts to develop a new
+payment system based on CIPS. 224 CIPS is, to some degree, “an
+international payment system for RMB” 225 that could “reduce
+exposure of China’s global payments data to the United States.”226
+China’s CBDC system may also be integrated with RMB swap lines
+
+218
+See, e.g., Stephen Bartholomeusz, China’s Long March Towards World
+Currency Domination, SYDNEY MORNING HERALD (June 30, 2022, 11:57 AM),
+https://www.smh.com.au/business/markets/china-s-long-march-towardsworld-currency-domination-20220630-p5axvz.html
+[https://perma.cc/SDN3P3R2] (“China is slowly putting together the architecture, infrastructure and
+relationships to build, not a global challenger to US dollar primacy at this stage, but
+a regional one”).
+219
+Zetzsche et al., supra note 24, at 6.
+220
+Knoerich, supra note 88, at 158, 160.
+221
+Somasundaram, supra note 85.
+222
+Knoerich, supra note 88, at 158–59.
+223
+Somasundaram, supra note 85.
+224
+Raghuveera, supra note 128.
+225
+Kai Guo et al., RMB Internationalization, in THE HANDBOOK OF CHINA’S
+FINANCIAL SYSTEM 229, 244 (Marlene Amstad et al. eds., 2021).
+226
+Reuters Staff, supra note 124.
+
+Published by Penn Carey Law: Legal Scholarship Repository,
+
+110
+
+U. PA. ASIAN L. REV.
+
+Vol. 18:1
+
+to promote the use of RMB. 227 Over thirty swap lines involving
+China were established by 2020, “exceeding the number of swap
+lines of [many] other states” (with the U.S. having less than half of
+this number).228 These RMB swap lines are attributable to China’s
+global role as a major supplier of goods, its investment and credit in
+developing economies, as well as its efforts to internationalize
+RMB.229 These swap lines may reduce the reliance on the U.S. dollar
+as they involve the currencies of states to the swap arrangements.
+4.2.2. Shaping Future CBDC Frameworks
+China’s technology, standards, and infrastructure may play an
+important role in bilateral and multilateral frameworks related to
+CBDC and related FinTech. Through the potential issuance of
+CBDC, central banks would play a greater role in the “regulatory
+and policy landscapes of FinTech.” 230 The knowledge and
+information of various actors may influence the emergence and
+maintenance of international regimes as well as agenda setting.231
+For China, “the PBOC has built a relatively complete standard
+system.”232 Through e-CNY, China is said to be “the first country to
+make a bold statement about the future of global payments and the
+type of data the government should have access to.”233 China’s early
+push for CBDC helps develop a first-mover advantage in shaping
+the evolution of the international payments infrastructure that is
+
+227
+Stephen O’Neal, Global Compatibility Is a Key Factor in the CBDC Race, Says
+Expert, COINTELEGRAPH (July 7, 2020), https://cointelegraph.com/news/globalcompatibility-is-a-key-factor-in-the-cbdc-race-says-expert.
+228
+Knoerich, supra note 88, at 153.
+229
+See generally Somasundaram, supra note 85 (explaining that RMB swap
+lines are well-suited to China’s global role and importance).
+230
+Lai & Samers, supra note 209, at 722.
+231
+Derrick L. Cogburn, Contending Perspectives on Multistakeholder Global
+Governance: Theory, Conceptual Framework, Data, and Methods, in TRANSNATIONAL
+ADVOCACY NETWORKS IN THE INFORMATION SOCIETY: PARTNERS OR PAWNS? 23, 28
+(2017).
+232
+WORKING GRP. ON E-CNY RSCH & DEV., supra note 13, at 13.
+233
+Christian Catalini & Jai Massari, Stablecoins and the Future of Money,
+HARV. BUS. REV., (Aug. 10, 2021), https://hbr.org/2021/08/stablecoins-and-thefuture-of-money [https://perma.cc/6MBE-8R9Y].
+
+https://scholarship.law.upenn.edu/alr/vol18/iss1/4
+
+2022
+
+China's Approach to Central Bank Digital Currency
+
+111
+
+important for cross-border remittances and trade. 234 China will
+likely play an influential role in shaping new rules and standards for
+CBDC (such as those on cross-currency and cross-border
+payments),235 and the ways CBDCs are exchanged and traded in the
+international system.236 China will also likely affect the direction of
+technological development. 237
+As discussed above, China’s
+proactive efforts in international governance may affect emerging
+standards related to CBDC (e.g., ISO 20022).
+4.2.3. Other impacts
+E-CNY may affect international economic order in other ways.
+China’s currency management may affect “the ideational and
+institutional underpinnings of international monetary relations”.238
+Indeed, given various factors, including China’s economic heft, eCNY could likely impact the international financial and monetary
+system as a whole. 239 E-CNY may also affect the design, policy
+choice and regulatory arrangements of other states concerning
+CBDC (such as “reshaping domestic finance”).240 BRI states may
+learn from and develop CBDCs compatible with e-CNY,241 and eCNY may contribute to the possible emergence of currency “zones”
+in the world economy.242 If connectivity is developed, it may be
+
+234
+Biswajit Banerjee, Digital Currencies and Cross-Border Policy Cooperation and
+Coordination, 2 G20 DIGEST 23, 30–31 (2020).
+235
+He, supra note 110, at 1.
+236
+Bansal & Singh, supra note 52, at 12.
+237
+Knoerich, supra note 88, at 161.
+238
+McNally & Gruin, supra note 81, at 601.
+239
+Michael A. Peters et al., Cryptocurrencies, China’s Sovereign Digital Currency
+(DCEP) and the US Dollar System, 54 EDUC. PHIL. & THEORY 1713, 1717 (2020); Bansal
+& Singh, supra note 52, at 1.
+240
+Eswar Prasad, China’s Digital Yuan—Premiering Globally at the Beijing
+Olympics—Could Become a Model for Other Countries, FORTUNE (Feb. 1, 2009, 7:30 PM),
+https://fortune.com/2022/02/01/china-digital-yuan-beijing-winter-olympicscbdc-pboc-renminbi-eswar-prasad/ [https://perma.cc/EH65-EDVH].
+241
+Tsang & Chen, supra note 156, at 21.
+242
+Chan, supra note 162.
+
+Published by Penn Carey Law: Legal Scholarship Repository,
+
+112
+
+U. PA. ASIAN L. REV.
+
+Vol. 18:1
+
+difficult to break, even if interests change. 243 E-CNY, even if not
+widely used, may be “geopolitically significant.”244
+4.3 Concluding Thoughts on Selective Reshaping
+The three core features of e-CNY (the role of the state, possible
+cross-border use, and China’s proactive efforts in international
+CBDC governance) contribute to the possibility of selective
+reshaping. The role of state is the crucial driving force or “engine”
+behind e-CNY and lays a foundation for e-CNY’s possible
+international use and impact. There are “state-driven incentives”
+behind the e-CNY that could promote various aspects including the
+scalability of digital payments.245 E-CNY enables China to form a
+state-led design of digital currency, regulation, and ecosystem,
+giving the state the crucial role of shaping the future evolvement of
+these areas such as digital payment. To illustrate, e-CNY may assist
+the government in penetrating China’s strong consumer internet
+applications market. 246 China’s CBDC appears to echo China’s
+efforts to put forward Chinese initiatives and plans in international
+economic governance and to enhance its capacity in global financial
+governance. 247 For instance, CBDC may enable international
+transactions to be “better controlled.”248
+The possible international use of e-CNY and China’s proactive
+efforts in affecting international governance are the main pathways
+for possible selective reshaping. E-CNY fits with China’s major
+policy initiative to internationalize RMB.249 It is observed that such
+international use would promote the role of RMB in international
+
+Choyleva, supra note 118.
+BRIANA BOLAND, CHINA BULLETIN: LOCAL AND GEOPOLITICAL IMPLICATIONS
+DIGITAL
+YUAN,
+1,
+16
+(2021),
+OF
+THE
+https://www.dentons.com/en/insights/newsletters/2021/june/15/dentonsflashpoint/-/media/a052eb3a7a674e88b8e299d6b9418e7a.ashx
+[https://perma.cc/CK35-USEF].
+245
+Bansal & Singh, supra note 45, at 9.
+246
+SUNDEEP GANTORI ET AL., INFORMATION TECHNOLOGY: UNDERSTANDING
+CHINA’S DIGITAL CURRENCY AND BLOCKCHAIN INITIATIVES 7 (2020).
+247
+Five Year Plan, supra note 68, ch. 62, § 1..
+248
+Knoerich, supra note 88, at 151.
+249
+Yeung, supra note 76.
+243
+244
+
+https://scholarship.law.upenn.edu/alr/vol18/iss1/4
+
+2022
+
+China's Approach to Central Bank Digital Currency
+
+113
+
+transactions (e.g., pricing and settlement), financing of projects in
+the region, and its acceptance as a reserve currency.250
+E-CNY seems to be China’s latest major effort to reshape the
+international monetary system. It follows efforts such as RMB’s
+inclusion in Special Drawing Rights (an international reserve asset
+created by the IMF) in 2016.251 E-CNY is observed to be critical in
+reconfiguring the global monetary system, 252 being “a key
+component of an alternative to the dollar-based order.”253
+5. THE SUSTAINABILITY OF CHINA’S CBDC APPROACH
+CBDC systems, along with innovation, provide a unique
+opportunity to reshape the international financial system.254 CBDC
+systems, including their cross-border use, start with a clean slate.255
+For digital money, “the field is on the cusp of major changes that
+have the potential to reshape cross-border payments and
+remittances.”256
+From the perspective of possible CBDC international use, the
+sustainability of China’s CBDC approach (selective reshaping)
+would face economic, political economy, as well as legal and
+regulatory factors. Multiple factor analysis provides a holistic view
+of the future of China’s CBDC approach. These factors should not
+be seen as mutually exclusive. Instead, these factors are related. For
+instance, resilience standards are related to economic factors of costs
+(e.g., costs concerning CBDC design to build resilience), and also
+involve legal considerations (e.g., rules on the roles of different
+
+Banerjee, supra note 234, at 31; Olsson et al., supra note 18.
+McNally & Gruin, supra note 81, at 600.
+252
+Zetzsche et al., supra note 24, at 6.
+253
+Somasundaram, supra note 85.
+254
+G7, PUBLIC POLICY PRINCIPLES FOR RETAIL CENTRAL BANK DIGITAL
+CURRENCIES 3 (2021).
+255
+BANK FOR INT’L SETTLEMENTS, CENTRAL BANK DIGITAL CURRENCIES FOR
+CROSS-BORDER PAYMENTS: REPORT TO THE G20 3 (2021) [hereinafter CPMI REPORT].
+256
+Kristalina Georgieva, Managing Director Washington, D.C., IMF, Opening
+Remarks at iLab Spring Meetings Virtual Workshop: Leveraging Digital Money to
+Facilitate
+Remittances
+(Apr.
+14,
+2021),
+https://www.imf.org/en/News/Articles/2021/04/14/sp041421-leveragingdigital-money-to-facilitate-remittances.
+250
+251
+
+Published by Penn Carey Law: Legal Scholarship Repository,
+
+114
+
+U. PA. ASIAN L. REV.
+
+Vol. 18:1
+
+actors to ensure resilience). 257 They concern domestic and, more
+importantly, international aspects, since China’s rising role in
+international governance is bound by its own “structural and social
+conditions” and those internationally. 258 These factors will both
+affect and be affected by e-CNY. Meanwhile, these factors are not
+exhaustive. For instance, cultural factors may concern users and
+other stakeholders, involving preferences such as those over
+different payment methods.259
+Given the lack of detailed information and the fast development
+of e-CNY, this part provides broad and primary examples to
+illustrate the open issues that deserve attention and works to
+provide a framework to analyze the future of China’s CBDC
+approach.
+5.1 Economic Factors
+Various economic factors would affect the performance of eCNY. These factors pertain to economic efficiency and welfare.260
+They raise crucial questions including CBDCs’ operational
+arrangements (including operation costs and tasks), the publicprivate sector relationship, and consumer welfare (e.g., adoption
+costs concerning CBDC).261
+5.1.1. CBDC-Related Costs
+Costs related to CBDC would affect different stakeholders (e.g.,
+businesses and end-users) and e-CNY’s operation. On the one hand,
+CBDC may reduce transaction costs compared to traditional
+257
+See, e.g., BANK FOR INT’L SETTLEMENTS, CENTRAL BANK DIGITAL CURRENCIES:
+SYSTEM DESIGN AND INTEROPERABILITY 6 (2021) (discussing factors used to determine
+resilience of a CBDC system).
+258
+Nana de Graaff et al., China’s Rise in a Liberal World Order in Transition –
+Introduction to the FORUM, 27 REV. INT’L POL. ECON. 191, 192 (2020).
+259
+Soderberg et al., supra note 50, at 25; Pierre L. Siklos, Central Bank Digital
+Currency and Governance: Fit for Purpose?, CENTRE FOR INT'L GOVERNANCE
+INNOVATION, at 2 (2021).
+260
+Alex Cukierman, Reflections on Welfare and Political Economy Aspects of a
+Central Bank Digital Currency, 88 MANCHESTER SCH. 114, 117–18 (2020).
+261
+Auer et al., supra note 30, at 10–11.
+
+https://scholarship.law.upenn.edu/alr/vol18/iss1/4
+
+2022
+
+China's Approach to Central Bank Digital Currency
+
+115
+
+currency. 262 A properly managed CBDC could reduce current
+frictions that hamper local and global transactions for individuals
+and firms.263 On the other hand, costs arise from different aspects,
+including the system’s operation and development, regulation,
+technical design and interconnection with different systems. CBDC
+issuance “would require capital expenditure and impose running
+costs”. 264 The PBOC has recognized that this resource-intensive
+nature of CBDC acts as a constraint, particularly on its scalability.265
+The regulation of the CBDC, such as data regulation, would also
+affect costs. Stringent restrictions on data use by businesses may
+affect potential business models in a CBDC ecosystem and increase
+costs to end-users (such as indirect fees).266 Sophisticated technical
+design (e.g., the CBDC ledger) may work to promote the CBDC
+adoption but will also raise costs. 267 CBDC also involves
+interconnections with other systems and the apportionment of costs
+and revenues across the system.268
+In particular, the costs to businesses are considerable and some
+may be passed to end-users. The fee arrangement of e-CNY is as
+follows: the PBOC does not charge intermediaries or end-users fees;
+intermediaries are prohibited from charging individual users; but
+intermediaries may charge merchants (as an incentive for businesses
+to enter the market, with fees kept in check). 269 While tier two
+institutions will invest in equipment and technology,270 it is to be
+seen whether and how tier 2.5 institutions would take on these
+responsibilities. Evidently, firms will require viable business models
+to recover CBDC-related capital expenditures and running costs.271
+Different jurisdictions have identified cost recovery and
+incentivizing private sector participation as open issues in CBDC
+Central Bank Digital Currency Tracker, supra note 2.
+Siklos, supra note 259, at 1.
+264
+BANK FOR INT’L SETTLEMENTS, supra note 174, at 13.
+265
+Soderberg et al., supra note 44, at 24
+266
+G7, supra note 254, at 21.
+267
+BANK FOR INT’L SETTLEMENTS, supra note 174, at 13.
+268
+Id. at 16.
+269
+Soderberg et al., supra note 50, at 11.
+270
+Zhou Xiaochuan, Understanding China’s Central Bank Digital Currency,
+CF40 (Dec. 13, 2020), http://www.cf40.com/en/news_detail/11481.html
+[https://perma.cc/5V75-ENTW]; BIS INNOVATION HUB H.K. CTR., supra note 9, at
+13.
+271
+BANK FOR INT’L SETTLEMENTS, supra note 174, at 13.
+262
+263
+
+Published by Penn Carey Law: Legal Scholarship Repository,
+
+116
+
+U. PA. ASIAN L. REV.
+
+Vol. 18:1
+
+development.272 CBDCs also require higher business continuity and
+resilience standards for intermediaries, increasing costs for
+intermediaries who may in turn invest less in this regard than “is
+systemically optimal”. 273 These costs would involve Chinese and
+even foreign entities and largely depend on the CBDC design, which
+is as yet unfinalized.274
+5.1.2. The Implications for Markets
+E-CNY’s implications for markets will affect the sustainability of
+China’s CBDC approach. Market implications affect not only
+businesses but also users’ choice of e-CNY in particularly currency
+and payment markets. CBDC will likely bring institutional change
+while the private sector continues to adopt fintech innovations.275
+Examples include the possible substantial changes to the retail
+payments system.276 E-CNY has advantages (e.g., lower cost, offline
+function) compared with third-party mobile payment platforms in
+China, while these payment platforms have been incorporated into
+the e-CNY payment system. 277 Given the great inertia in retail
+payment behaviors and the convenience of private payment
+services,278 it remains to be seen whether e-CNY will change user
+habits. Legal reform may also be relevant to the uptake of e-CNY.
+Payment platforms (and relatedly, big tech firms) will have much
+less access to data than before in the e-CNY ecosystem, and this will
+affect their pre-existing competitiveness based on data.279 Another
+issue is that the introduction of authorized operators in e-CNY
+narrows market players, compared with fiat money distributed by
+all commercial banks and other actors (e.g., exchanges). It also
+remains to be seen whether and how e-CNY can avoid financial
+disintermediation. Time will tell whether CBDC will bring major
+policy changes and whether it could dislocate the existing industry
+272
+273
+274
+275
+276
+277
+278
+279
+
+Soderberg et al., supra note 50, at 26.
+BANK FOR INT’L SETTLEMENTS, supra note 174, at 6.
+Id.
+Cukierman, supra note 260, at 117–18.
+Tsang & Chen, supra note 156, at 6.
+He, supra note 110, at 3.
+Auer, et al., supra note 30, at 10–11.
+He, supra note 110, at 5.
+
+https://scholarship.law.upenn.edu/alr/vol18/iss1/4
+
+2022
+
+China's Approach to Central Bank Digital Currency
+
+117
+
+structure for example in relation to banking. 280 Relating to
+international use of CBDC, it has been stated that “depending on its
+attributes, a domestic CBDC could potentially compete with private
+digital currencies, foreign CBDCs, private payment platforms, or
+banks.” 281 CBDC thus may affect markets both in terms of
+businesses and users.
+5.1.3. Macro-Financial Implications
+Macro-financial implications of CBDC around the issuing state
+and other jurisdictions involved may affect the sustainability of
+China’s CBDC approach. These macro-financial implications
+include potential financial stability risks, contagion effects, capital
+flow volatility, currency substitution risk, and the configurations of
+reserve currency by central banks. 282 Even if a CBDC is solely
+intended for domestic use, it will have implications going “beyond
+borders.”283 This is recognized in a principle stated in the PBOC’s
+work on cross-border payments for CBDC, which seeks to “avoid
+negative spillover effects” on China and other states, e.g., currency
+substitution.284
+5.1.4. Other Economic Factors
+Other economic factors affect the e-CNY’s possible reshaping of
+the international financial order. In particular, economic factors
+(e.g., confidence in the overall stability of a currency’s value,
+
+280
+See GANTORI ET AL., supra note 246, at 11 ("[I]nvestors need to closely
+monitor the long term disruptive trends, as further significant policy changes may
+dislocate the current industry structure.").
+281
+MARC LABONTE & REBECCA M. NELSON, CONG. RSCH. SERV., R46850,
+CENTRAL BANK DIGITAL CURRENCIES: POLICY ISSUES, Summary (2022).
+282
+See CPMI REPORT, supra note 255, at 1 (listing “a range of macro-financial
+implications” that introducing a CBDC could have).
+283
+Id. at 19.
+284
+Soderberg et al., supra note 50, at 14.
+
+Published by Penn Carey Law: Legal Scholarship Repository,
+
+118
+
+U. PA. ASIAN L. REV.
+
+Vol. 18:1
+
+liquidity, the issuing state’s transactional network) affect the
+currency’s international position.285
+A key feature of e-CNY is China’s utilization of its transaction
+network to promote the currency (as discussed above). In the
+network, the possible contexts of CBDC international use include
+retail usage (e.g., payments in retail CBDCs across borders), 286
+international remittances, as well as trade in goods and services. 287
+The scale of the transactional network of a currency issuing state in
+the international economy will affect international use of its
+currency. 288 Trade provides a primary example. The use of a
+currency in world trade, especially for invoicing, is important for
+enhancing the systemic importance of the currency’s role in
+international commerce.289
+However, the cross-border use of e-CNY mainly hinges on RMB
+internationalization policy. 290 RMB internationalization continues
+to face challenges, such as the development of the domestic financial
+markets and convertibility (especially in the capital account, due to
+capital controls). 291 For instance, “[d]eep capital markets with a
+large availability of safe assets and hedging capabilities” are
+important for an international currency. 292 Many economists are
+sceptical as to whether the impact of e-CNY could overcome
+challenges posed by the yuan’s convertibility.293 E-CNY is likely to
+face similar roadblocks in its cross-border use.
+5.2. Political Economy Factors
+Political economy issues, including the role of the state, financial
+liberalization, and international political power, affect currency,
+285
+Chey Hyoung-kyu, Theories of International Currencies and the Future of the
+World Monetary Order, 14 INT’L STUD. REV. 51, 58–59 (2012) (discussing how could
+economic factors become “major determinants of currency internationalization”).
+286
+CPMI REPORT, supra note 255, at 9.
+287
+BANK FOR INT’L SETTLEMENTS, supra note 215, at 12.
+288
+Chey, supra note 285, at 58–9.
+289
+See Auer et al., supra note 30, at 10 (“[R]eserve currencies gain ground
+through . . . use in international trade, particularly for invoicing.”).
+290
+Tsang & Chen, supra note 156, at 247.
+291
+Chey, supra note 285, at 61.
+292
+Auer et al., supra note 30, at 10.
+293
+Yeung, supra note 76.
+
+https://scholarship.law.upenn.edu/alr/vol18/iss1/4
+
+2022
+
+China's Approach to Central Bank Digital Currency
+
+119
+
+particularly currency internationalization. 294 The analysis below
+focuses on the role of state that is a feature of China’s CBDC practice,
+and the new landscape of emerging digital currencies particularly
+other CBDCs, which will affect the outcome of China’s
+proactiveness in international governance.
+5.2.1. The Relationship between the State and Market
+The relationship between the state and market in China is
+different from many other states where the role of the state is less
+prominent. China is observed to develop “CBDC with Chinese
+characteristics.”295 For example, the centralized governance model
+of e-CNY is consistent with China’s traditional “state-centric modes
+of governance,” 296 including “centralis[ing] control of the
+underlying monetary instrument across all payment systems” and
+“controlling currency inflows and outflows into the RMB area.”297
+In other words, the role of the state in e-CNY, as discussed above,
+echoes China’s “unique mode of monetary governance that reflects
+a different relationship between the state and market” from the
+West. 298 In contrast, the US could “choose[] to leave certain
+functions to the private sector that China aims to have the public
+sector provide.”299 Given these different models of governance, the
+development of CBDC involves the complex task of defining roles
+and finding the proper balance between the responsibilities of the
+private sector, the public sector and the central bank.300 For instance,
+CBDC likely implicates the state’s role in digital payments. 301
+Theoretically China’s monetary system may even both “conflict and
+
+Chey, supra note 285, at 73.
+Herbert Poenisch, CBDC with Chinese Characteristics, OFF. MONETARY & FIN.
+INST. F. (Sept. 18, 2020), https://www.omfif.org/2020/09/cbdc-with-chinesecharacteristics/ [https://perma.cc/NRZ4-VP2L].
+296
+McNally & Gruin, supra note 81, at 600.
+297
+Zetzsche et al., supra note 24, at 6.
+298
+McNally & Gruin, supra note 81, at 599.
+299
+Chorzempa, supra note 28, at 116.
+300
+BANK FOR INT’L SETTLEMENTS, supra note 257, at 12.
+301
+See Soderberg et al., supra note 50, at 24 (“[T]he Riksbank sent in a petition
+to the Swedish Parliament to create a government inquiry int the future role of the
+state in the digital payments market.”).
+294
+295
+
+Published by Penn Carey Law: Legal Scholarship Repository,
+
+120
+
+U. PA. ASIAN L. REV.
+
+Vol. 18:1
+
+harmonize with the existing liberal system.”302 The way that e-CNY
+develops and the interaction between the state and the market in this
+context is yet to be seen.
+5.2.2. Currency and Payment Solution Competition
+The way CBDCs operates in international transactions is being
+explored by different economies. The ECB has reportedly indicated
+that a digital euro may help enhance the attractiveness and
+international status of the euro.303 Cross-border CBDC transactions
+are being tested by France and Switzerland.304
+Other digital currencies and payment rails, including CBDCs
+possibly issued by other major economies like the US and EU, will
+likely compete with e-CNY. The emergence of CBDC could
+intensify the competition between currencies and incentivize central
+banks to respond (or not) to other states’ CBDC decisions.305
+On the one hand, technological evolution may affect power
+structures.306 Different economies may seek competitive advantages
+in the international economic order.307 As a first mover, e-CNY may
+enhance the role of RMB, particularly in the region, if everything
+goes smoothly. For the configuration of reserve currencies, the
+changes will evolve faster on a regional, rather than a global, level.
+This is because “[r]egional patterns, where trade connections are
+tighter, and political pressures stronger, may instead evolve more
+
+McNally & Gruin, supra note 81, at 601.
+Francesco Canepa, Digital Euro Could Boost Single Currency’s International
+Use, ECB Says, REUTERS (June 2, 2021), https://www.reuters.com/business/digitaleuro-could-boost-single-currencys-international-use-ecb-says-2021-06-02/
+[https://perma.cc/KJS6-WWBV] (“Creating a digital euro could boost the single
+currency’s international status.”).
+304
+LABONTE & NELSON, supra note 281, at 11.
+305
+See Auer et al., supra note 30, at 9 (“CBDC issuance might also lead to an
+intensification of the competition between global currencies, and the need for
+central banks to respond (or not) to CBDC issuance in other jurisdictions”).
+306
+Marijn Janssen & Haiko van der Voort, Adaptive Governance: Towards a
+Stable, Accountable and Responsive Government, 33 GOV’T INFO. Q. 1, 3 (2016).
+307
+Christopher McNally, Chaotic Mélange: Neo-Liberalism and Neo-Statism in
+the Age of Sino-Capitalism, 27 REV. INT’L POL. ECON. 281, 283 (2020).
+302
+303
+
+https://scholarship.law.upenn.edu/alr/vol18/iss1/4
+
+2022
+
+China's Approach to Central Bank Digital Currency
+
+121
+
+rapidly.”308 E-CNY is likely to affect economies in the region that
+“conduct RMB-denominated transactions with China.”309
+On the other hand, it is not easy for e-CNY to enhance its role in
+the international financial system. The RMB is currently of “limited
+importance” as an international reserve, trade and investment
+currency, and recent figures show that the reliance on payment
+infrastructure to promote RMB internationalization faces limits.310
+Reduced costs in using foreign currencies through CBDC may
+strengthen established currencies given their significant network
+effects. 311 Reserve currencies (e.g., the dollar, euro) may “become
+even more dominant if available digitally at a lower cost and to a
+wider user base.” 312 The US dollar and the euro are “deeply
+enmeshed in the international financial architecture,” making it
+difficult to substantially change the international financial order.313
+Jan Knoerich argues that “[s]ome advanced-economy CBDCs, even
+if launched belatedly, might draw on their stronger and more
+internationally integrated financial systems to leapfrog the
+DCEP.”314
+Payment solutions are among the major competitors of a
+CBDC.315 For cross-border payments, e-CNY will face competition
+with the correspondent banking model and dollar-dominated
+payment rails (e.g., PayPal).316
+The landscape of the future is unclear. Competition among
+currencies and payment solutions is likely to affect the promotion of
+Chinese standards outside China. Whether pre-existing path
+dependence on the dominant international currency and
+institutional equilibrium will be broken, which happened when the
+USD became the world’s reserve currency, is yet to be seen.317
+
+CPMI REPORT, supra note 255, at 18.
+Tsang & Chen, supra note 156, at 247.
+310
+Knoerich, supra note 88, at 154.
+311
+CPMI REPORT, supra note 255, at 16.
+312
+Id. at 17.
+313
+Knoerich, supra note 88, at 155.
+314
+Id. at 162.
+315
+Shen & Hou, supra note 102, at 4.
+316
+Bansal & Singh, supra note 52, at 9.
+317
+Weitseng Chen, Size Matters? Renminbi Internationalization and the Beijing
+Consensus, in THE BEIJING CONSENSUS? HOW CHINA HAS CHANGED WESTERN IDEAS OF
+LAW AND ECONOMIC DEVELOPMENT 144, 144 (Weitseng Chen ed., 2017).
+308
+309
+
+Published by Penn Carey Law: Legal Scholarship Repository,
+
+122
+
+U. PA. ASIAN L. REV.
+
+Vol. 18:1
+
+5.2.3. Other Political Economy Factors
+Other political economy factors (e.g., geo-economic
+relationships) affect the traditional RMB and its international
+position.318 This also applies to e-CNY. The international use of
+CBDC may involve sovereign power and international relations,
+and require significant global coordination. 319 For instance, the
+implications of CBDC for different states’ monetary sovereignty are
+to be seen, 320 particularly with a seeming shift towards a “more
+competitive and conflictual” mindset that can be found in the US
+regarding its bilateral relationship with China. 321 Uncertainties
+could exist regarding e-CNY’s capability of cross-border payments,
+given the impact of politics on trade and capital flows.322 Moreover,
+a risk may exist regarding “a widening gap between countries which
+are able to more quickly adapt to changing circumstances and
+countries that lack the means to safeguard themselves from
+potential adverse effects.”323 This may affect the reception of CBDC
+by different economies.
+Many questions beyond the scope of this article remain open.
+Will a more fragmented international financial order emerge? Or
+will digital currencies lead to a reorientation of the international
+financial architecture?324
+
+318
+See Chey, supra note 285, at 58-62 (discussing political economy factors
+impacting RMB’s international position).
+319
+See GANTORI ET AL., supra note 246, at 9 (“With CBDCs like DCEP going
+mainstream, there are complex issues such as sovereign power, interest and global
+politics, among others, that comes to the fore.").
+320
+See Siklos, supra note 259, at 2 (“These include the loss of monetary
+soverignty or in the status of global reserve currecnies . . . .”).
+321
+ANTHEA ROBERTS & NICOLAS LAMP, SIX FACES OF GLOBALIZATION: WHO
+WINS, WHO LOSES, AND WHY IT MATTERS 127 (2021).
+322
+Amanda Lee, Which Central Bank Will Launch World’s First Digital
+S.
+CHINA
+MORNING
+POST
+(Oct.
+14,
+2020),
+Currency?,
+https://www.scmp.com/economy/china-economy/article/3105435/whichcentral-bank-will-launch-worlds-first-digital-currency [https://perma.cc/8TYYQM22].
+323
+CPMI REPORT, supra note 255, at 17.
+324
+See Knoerich, supra note 88, at 145 (“Central bank digital curriencies
+(CBDCs) are predicted to transform the way ordinary payments will be made in the
+future.”).
+
+https://scholarship.law.upenn.edu/alr/vol18/iss1/4
+
+2022
+
+China's Approach to Central Bank Digital Currency
+
+123
+
+5.3. Legal and Regulatory Factors
+CBDC is more demanding of regulation than existing currencies,
+and e-CNY faces risks (e.g., cyber risks) within and across China’s
+borders.325 It is observed that central banks would need to take on
+greater operational and oversight responsibilities regarding the
+CBDC system. 326 Regulation concerns a broad range of policy
+concerns and domestic and cross-border implementation practices.
+CBDC will involve the issues of how to address the protection of
+individual rights (particularly privacy) and consumer protection,327
+financial integrity, 328 data, and law enforcement. 329 Other issues
+include cybersecurity, possible disintermediation at the time of
+financial stress, high technical standards and requirements for the
+PBOC and the commercial institutions in many aspects ranging
+from resilience and reliability to scalability and throughput.330 To
+illustrate, “[d]efending against cyber attacks will be made more
+difficult as the number of endpoints in a general purpose CBDC
+system will be significantly larger than those of current wholesale
+central bank systems.”331 E-CNY also needs to manage risks relating
+to data (e.g., the treatment of payment data, and data flow).
+Several legal and regulatory considerations deserve more
+attention here. First, cross-border transactions of CBDC will likely
+involve complex issues (such as foreign exchange price-discovery
+
+325
+WEF: China Says Digital Yuan Doesn’t Aim to Challenge Dollar, LEDGER
+INSIGHTS (Jan. 28, 2021), https://www.ledgerinsights.com/wef-china-says-digitalyuan-does-not-aim-to-challenge-dollar/ [https://perma.cc/644N-FLUW].
+326
+See BANK FOR INT’L SETTLEMENTS, supra note 257, at 2 (“[I]n any CBDC
+system, the central bank would face additional operational or oversight tasks and
+accompanying challenges regardless of the division of responsibilities among
+the various actors.”).
+327
+Gang Yi, Governor, People’s Bank of China, Speech at the Hong Kong
+FinTech Week (Oct. 31, 022), https://www.bis.org/review/r221031c.htm
+[https://perma.cc/7XHR-5KEV].
+328
+Noah Walters, Part 6—Evaluating CBDC, DENTONS (Jan. 20, 2021),
+https://www.dentons.com/en/insights/articles/2021/january/20/part-6evaluating-cbdc [https://perma.cc/9RZV-6B7D].
+329
+WORLD ECON. F., PRIVACY AND CONFIDENTIALITY OPTIONS FOR CENTRAL
+BANK DIGITAL CURRENCY 11 (2021).
+330
+GANTORI ET AL., supra note 246, at 8.
+331
+BANK FOR INT’L SETTLEMENTS, supra note 174, at 5.
+
+Published by Penn Carey Law: Legal Scholarship Repository,
+
+124
+
+U. PA. ASIAN L. REV.
+
+Vol. 18:1
+
+mechanism).332 CBDCs generate data and concern digital identity
+(e.g., those concerning digital wallets). 333 Meanwhile, CBDCs are
+likely to be designed initially for domestic payment systems and
+users. 334 International payments are more complicated than
+domestic ones due to the involvement of more regulations (like
+those of foreign exchange settlements), actors, jurisdictions, and
+time zones.335 To enhance cross-border payments may also bring
+risks and challenges that add to the complexity of CBDC
+transactions. 336 The risks of CBDC’s international use include
+operational and cyber risks, as well as micro-financial and macrofinancial risks (e.g., financial stability, contagion effects, and volatile
+capital flows).337 All these complex issues require substantial effort
+and adaptability to have CBDC used in an international context
+involving different governance models, regulations and financial
+systems.338 Rules are needed to address issues like the access and
+use by non-residents to CBDC, and the definition of standards for
+cross-currency payments. 339
+Second, legal and regulatory factors are closely linked and
+embedded into technologies. Technology brings opportunities and
+challenges. CBDC operation and policy goals require a set of
+complementary technologies to support the core features of
+CBDC. 340 CBDC designs may strengthen regulation, such as
+enabling issuing central banks to preclude or limit CBDC’s use
+outside the issuing jurisdiction, enabling wallets in recipient states
+to permit local authorities to impose capital flow regulatory
+measures, limiting CBDC circulation through programmability, and
+332
+
+(2022)
+
+BIS: INNOVATION HUB, CONNECTING ECONOMIES THROUGH CBDC 22–23, 36
+
+Id. at 25, 28–29.
+BANK FOR INT’L SETTLEMENTS, supra note 174, at 16 (2020).
+335
+Id. at 6.
+336
+Id. at 5–6.
+337
+CPMI REPORT, supra note 255, at 2, 4; Thomas Conlon, et al., To CBDC or
+Not to CBDC. That Is the Question 2 (Oct. 11 2022) (unpublished manuscript)
+(available
+online
+at
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4205402
+[https://perma.cc/J8XK-RVAS]); Adina Popescu, Cross-Border Central Bank Digital
+Currencies, Bank Runs and Capital Flows Volatility 1–31 (IMF, Working Paper No.
+WP/22/83, 2022).
+338
+See, e.g., Popescu, supra note 337, at 28.
+339
+G7, supra note 254, at 14.
+340
+BANK FOR INT’L SETTLEMENTS, supra note 174, at 13.
+333
+334
+
+https://scholarship.law.upenn.edu/alr/vol18/iss1/4
+
+2022
+
+China's Approach to Central Bank Digital Currency
+
+125
+
+increasing the effectiveness of capital flow regulation.341 However,
+different
+technologies
+will
+bring
+complexity
+around
+interoperability.
+Third, selective reshaping is likely to encounter China-specific
+regulatory challenges. These challenges include the potential
+tension between the need for RMB internationalization (e.g.,
+international circulation through expanding capital outflows,
+capital account liberalization, and a flexible exchange rate) and
+China’s possible concerns over reduced control over capital flows
+and increased fluctuation in the exchange rate. 342 Such tension
+could also exist in e-CNY as e-CNY is the digital form of RMB.
+These complexities set high requirements for law and regulation.
+As reflected in the major and sometimes overlapping issues below,
+regulatory and legal responses to these risks are crucial for the longterm sustainability of China’s CBDC approach.
+5.3.1. Resiliency
+Resiliency is critical to the success of e-CNY. The CBDC system
+will need to deal with cyber risks, technical failure, and
+counterfeiting.343 The PBOC recognizes that cyberattacks may be a
+significant risk if e-CNY becomes systemically significant. 344
+Maintaining the system’s resilience will not be easy since technology
+faces uncertainties in operation and effect and requires careful
+experimentation before its wide adoption. To illustrate, it has been
+stated that it is difficult to estimate future volumes, especially given
+other developments such as smart device payments and “micro
+transactions.”345 In addition, if specific resilience specifications for
+CBDC are onerous and could impact its performance (e.g., speed),
+this will reduce its functionality and use.346
+
+341
+342
+343
+344
+345
+346
+
+CPMI REPORT, supra note 255, at 15-16.
+Knoerich, supra note 88, at 156, 159.
+BANK FOR INT’L SETTLEMENTS, supra note 257, at 6.
+Soderberg et al., supra note 50, at 24.
+BANK FOR INT’L SETTLEMENTS, supra note 174, at 14.
+G7, supra note 254, at 23.
+
+Published by Penn Carey Law: Legal Scholarship Repository,
+
+126
+
+U. PA. ASIAN L. REV.
+
+Vol. 18:1
+
+5.3.2. Interoperability
+China’s CBDC “would be connected to existing retail and
+wholesale payment systems.” 347 The interoperability between
+existing and new systems (including infrastructures) is a complex
+issue faced by CBDC 348 and will have domestic and international
+challenges. Interoperability means “technical or legal compatibility
+that enables a system or mechanism to be used in conjunction with
+other systems or mechanisms” and “allows participants in different
+systems to conduct clear and settle payments or financial
+transactions across systems without participating in multiple
+systems.”349 For instance, digital yuan is expected to be compatible
+with DLT or the intermediaries’ choice of technology. 350
+Interoperability involves issues such as lowering the barriers to
+membership of different systems (such as through common
+messaging standards and operating times), and developing
+common business arrangements (such as a designated settlement
+agent between two systems concerning select payments).351
+Internationally, interoperability is relevant to CBDC systems of
+various economies, and to CBDC systems and pre-existing payment
+systems.352 Interoperability may need to be enabled at wholesale
+and retail levels, such as it being possibly “enabled between e-CNY
+and other retail systems and the conversion of e-CNY and other fiat
+currencies [that] would be processed at virtual borders between
+digital wallets.”353 For instance, compatibility between currencies is
+crucial for interoperability (i.e., “technical or legal compatibility”)354
+by ensuring the efficiency and safety of money transfers.355 Notably,
+interoperability between cross-border CBDC systems is likely to
+encounter more hurdles and considerations than that in domestic
+CPMI REPORT, supra note 255, at 8.
+Id. at 19.
+349
+Id. at 21.
+350
+Soderberg et al., supra note 50, at 25.
+351
+See BANK FOR INT’L SETTLEMENTS, supra note 174, at 9 (“This would include
+a range of characteristics from accommodative technical infrastructure to common
+legal and regulatory frameworks and data and messaging standards”).
+352
+BIS INNOVATION HUB H.K. CTR., supra note 12, at 55.
+353
+CPMI REPORT, supra note 255, at 8.
+354
+Id. at 21.
+355
+BANK FOR INT’L SETTLEMENTS, supra note 174, at 17.
+347
+348
+
+https://scholarship.law.upenn.edu/alr/vol18/iss1/4
+
+2022
+
+China's Approach to Central Bank Digital Currency
+
+127
+
+CBDC operations. 356
+Cross-border interoperability involves
+challenges like different compliance requirements and consumer
+protection rules concerning payment.357 A compatible ID scheme,
+without requiring an international database regarding CBDC endusers, may be needed to combat illicit finance.358
+It is to be seen how e-CNY addresses interoperability issues.
+Interoperability among financial systems is at the core of the third
+principle of interconnectivity that China proposes regarding
+CBDC’s cross-border use. A key example of China’s efforts towards
+developing interoperability is its involvement in the mCBDC
+This project faces roadblocks in aspects like
+Bridge. 359
+governance.360 The mCBDC Bridge’s operating model builds on the
+Inthanon-LionRock concept. 361 Under that concept, international
+payments are “processed through a jointly operated ‘corridor
+network’ which links up” separate national wholesale CBDC
+networks. 362 The mCBDC Bridge considers establishing a single
+mCBDC system across jurisdictions, following a model that “would
+apply the concept of creating new multilateral payment platforms”
+and go beyond basic compatibility.363 This model implies deeper
+integration and high levels of cooperation that builds on “having a
+single set of rules, a single technical system, and a single set of
+participants”. 364 Such deeper integration would help promote
+operational functionality and efficiency, but increases operational
+costs and “the governance and control hurdles (e.g., wider access
+might allow more efficient settlement but increases other risks) as
+well as policy issues.”365 It is observed that such multi-CBDC design
+principles require global coordination so as to limit any regulatory
+arbitrage. 366 The requirement of international coordination is
+challenging regarding CBDC given the different national positions
+and sensitive issues concerning CBDC (e.g., data and sovereignty).
+356
+357
+358
+359
+360
+361
+362
+363
+364
+365
+366
+
+Id. at 9.
+Id. at 11.
+Tsang & Chen, supra note 156, at 260.
+BIS INNOVATION HUB H.K. CTR., supra note 12, at 7.
+BIS: INNOVATION HUB, supra note 33, at 33–35.
+Id. at 7.
+CPMI REPORT, supra note 255, at 12.
+Id. at 9–10, 19.
+Id. at 9.
+Id. at 9, 14.
+Auer et al., supra note 30, at 22.
+
+Published by Penn Carey Law: Legal Scholarship Repository,
+
+128
+
+U. PA. ASIAN L. REV.
+
+Vol. 18:1
+
+As another example, China has built a blockchain-based e-CNY
+distributed ledger so that operational institutions may perform tasks
+like cross-institution reconciliations for the exchange of digital
+currencies with most commercial banks and the general public.368
+Here, technical standards for blockchain interconnectivity,
+blockchain scalability, privacy protection, information security and
+auditing are all problems that need to be addressed.369
+Moreover, there are other challenges such as domestic
+circumstances and tensions among different considerations.
+Importantly, domestic circumstances are likely to affect
+interoperable system designs. 370 China’s CBDC approach and
+domestic circumstances are not the same as those of other states. For
+instance, China’s social conditions, the population’s familiarity with
+digital payment, and the scalability of FinTech are helpful for
+promoting e-CNY,371 but such conditions do not necessarily exist in
+other jurisdictions involved in the international use of e-CNY.
+Moreover, there is a tension between sharing limited information
+about CBDC’s operation to maintain a “lead” and openly sharing
+the lessons to promote soft power advantages and
+interoperability.372 It is to be seen how the e-CNY system would
+address these issues and interact with the international financial
+system concerning interoperability.
+
+367
+
+5.3.3. Adaptability
+Adaptability, or flexibility, is an important issue in this
+discussion. A CBDC ecosystem should be flexible to future demand
+and be able to interoperate with new systems while maintaining
+system resilience. 373 Adaptability is also useful to address the
+various use cases of CBDC. All these explain why a flexible
+BIS: INNOVATION HUB, supra note 33, at 7, 13, 19.
+Qin Ningwei, PBoC Has Established an E-CNY Distributed Ledger, FORKAST
+(Dec. 7, 2021, 12:02 AM), https://forkast.news/headlines/pboc-built-ecnydistributed-ledger/ [https://perma.cc/5BEF-93VT].
+369
+Id.
+370
+BANK FOR INT’L SETTLEMENTS, supra note 357, at 12.
+371
+Knoerich, supra note 88, at 161-62.
+372
+Chorzempa, supra note 28, at 18.
+373
+BANK FOR INT’L SETTLEMENTS, supra note 257, at 12.
+367
+368
+
+https://scholarship.law.upenn.edu/alr/vol18/iss1/4
+
+2022
+
+China's Approach to Central Bank Digital Currency
+
+129
+
+approach is explored by e-CNY. E-CNY benefits from the low
+issuance cost and low traceability of cryptocurrencies while
+maintaining the advantages of physical currency (e.g., fiat currency
+status).374 For e-CNY, institutions in the second-tier are relatively
+free “to choose the right technology in the distribution layer.375 Each
+of the e-CNY pilots is reversible, with each operator having an exit
+plan.376
+It is to be seen how e-CNY will perform on adaptability across
+daily operations, while striking a balance with stability. “The
+governance of the daily operations often requires immediate
+responses,” but this will likely involve uncertainties (caused by
+factors like the difficulties in predefining every requirement and
+changes occurring in the operation) and unexpected behavior. 377
+Equally, flexibility needs to be balanced with stability, which is
+important for social and economic systems.378 The changes induced
+by regulatory measures should not risk outcomes (e.g., data leakage
+379 ) that are irreversible or unacceptable. 380
+Potential ways of
+avoiding irreversible harm involve establishing a strong oversight
+system to ensure reversibility, 381 and identifying and choosing
+among a range of policy options regarding potential and real
+problems.
+
+GANTORI ET AL., supra note 246.
+Id.
+376
+Auer et al., supra note 30 .
+377
+Janssen & van der Voort, supra note 306.
+378
+Barbara A. Cosens et al., The Role of Law in Adaptive Governance, 22 ECOLOGY
+& SOC’Y, 2017, at 1, 2 (2017).
+379
+Sebastian Banescu, et al., 4 Key Cybersecurity Threats to New Central Bank
+Digital
+Currencies,
+WORLD
+ECON.
+F.
+(Nov.
+20,
+2021),
+https://www.weforum.org/agenda/2021/11/4-key-threats-central-bank-digitalcurrencies/#:~:text=Quantum%20computing%20will%20ultimately%20impact,of
+%20data%20stored%20and%20transmitte [https://perma.cc/2K66-VTTV].
+380
+Rosie Cooney & Andrew T.F. Lang, Taking Uncertainty Seriously: Adaptive
+Governance and International Trade, 18 EUR. J. INT’L L. 523, 536 (2007).
+381
+Id. at 536, 537.
+374
+375
+
+Published by Penn Carey Law: Legal Scholarship Repository,
+
+130
+
+U. PA. ASIAN L. REV.
+
+Vol. 18:1
+
+5.3.4. International Coordination
+The cross-border use of e-CNY needs to address coordination at
+the international level.382 Domestic laws will play a crucial role in
+international use of the CBDC. The mobility of CBDC concerns
+monetary autonomy of states. Sovereignty and compliance with
+domestic law are highlighted in the first two principles (i.e., no
+detriment, compliance) that China proposes regarding CBDC crossborder use.383 They are likely to involve issues ranging from data to
+foreign exchange. For instance, China may need to satisfy currency
+exchange regulations of other states for the international use of eCNY (e.g., the distribution of e-CNY to foreign nationals).384 RMBinvoiced international trade may utilize China’s CBDC, “but this is
+still subject to consultation with other central banks and entities.”385
+Coordination of regulation is important to address problems in
+the cross-border operation of CBDCs that are largely attributable to
+different national laws. International standards for CBDC-related
+systems and services (such as digital identity repositories) are
+needed. 386 Important issues for the international use of CBDC
+include the aligning of regulatory frameworks, consistent technical
+and regulatory standards (including AML/CTF checks), identity
+management concerning CBDC users, cross-border access to
+domestic CBDC, and payment system access. 387 More generally,
+international coordination is needed regarding capital flow
+management, treatment of data and privacy, tax, and payments
+rules.388 Other relevant issues include rules on settlement finality,
+participation criteria for payment systems, and rules on the conflict
+of laws.389 Overall, central banks of the issuing and recipient states
+would need to agree on and have insights into aggregate crossborder use of CBDC, in the case of account-based currencies.390
+382
+See GANTORI ET AL., supra note 246, at 9 (arguing that DCEP can replace
+SWIFT if DCEP is widely accepted and utilized globally).
+383
+WORKING GRP. ON E-CNY RSCH. & DEV., supra note 13, at 5, 6.
+384
+Bansal & Singh, supra note 52, at 14, 15.
+385
+CPMI REPORTS, supra note 255, at 8.
+386
+BANK FOR INT’L SETTLEMENTS, supra note 174, at 7.
+387
+CPMI REPORTS, supra note 255, at 1–4; BIS, supra note 257, at 7.
+388
+Soderberg et al., supra note 50, at 15.
+389
+CPMI REPORTS, supra note 255, at 5.
+390
+Auer et al., supra note 30, at 9.
+
+https://scholarship.law.upenn.edu/alr/vol18/iss1/4
+
+2022
+
+China's Approach to Central Bank Digital Currency
+
+131
+
+Coordination between institutions like central banks and related
+public authorities is crucial to understand and manage any
+unintended effects of CBDC usage (e.g., a CBDC’s impact on another
+jurisdiction’s monetary policy or financial stability or use in
+avoiding rules outside a jurisdiction where sufficient regulation is
+not in place). 391 A cross-border CBDC may generate other
+challenges that have the potential to “spillover” into other
+economies. 392 Coordination and information exchange among
+different institutions will help to address these issues.
+International coordination is challenging, although various
+projects are working to promote international collaboration on
+CBDC. Privacy protection provides a prime example. In the
+economy and the monetary system, the centrality of data (e.g.,
+personal and business data) is increasing. 393 Data bring new
+challenges for privacy.394 It is argued that other economies using eCNY “will find it difficult to control or monitor the flow of the
+Digital Yuan, and will have to take measures to protect the privacy
+of their domestic users.”395 States also have divergent standards on
+privacy. Ideally central banks would reach agreements on the level
+of privacy for users making or receiving international payments.396
+However, an international dialogue on the degree of anonymity in
+CBDCs will likely encounter obstacles, given different approaches
+and divergent interests of major economies, such as the US, the EU,
+and China. 397 In relation to CBDC, the G7 has indicated various
+general principles regarding data collection and processing: data
+minimization, transparency and accountability.398 It is to be seen
+whether a consensus can be reached. Instead, a group of states may
+adopt common standards and affect other states which need to meet
+these rules to access the group’s CBDC network.399
+Behind the challenges in international coordination are the
+complicated policy trade-offs of different considerations such as
+391
+392
+393
+394
+395
+396
+397
+398
+399
+
+BANK FOR INT’L SETTLEMENTS, supra note 174, at 17.
+Id. at 7; Tsang & Chen, supra note 156, at 17.
+Auer et al., supra note 30, at 6.
+Id.
+Tsang & Chen, supra note 156, at 1.
+CPMI REPORTS, supra note 255, at at 7.
+Knoerich, supra note 88, at 177.
+BANK FOR INT’L SETTLEMENTS, supra note 174, at 6.
+Knoerich, supra note 88, at 177.
+
+Published by Penn Carey Law: Legal Scholarship Repository,
+
+132
+
+U. PA. ASIAN L. REV.
+
+Vol. 18:1
+
+security and efficiency. These considerations will affect the setting
+of regulatory expectations and implementation. To illustrate, the
+balance between fighting financial crimes and privacy protection
+will affect whoever may access which parts of transaction data (such
+as payment data in the context of evolving data protection law) and
+under what circumstances.400 The identification of users is useful to
+promote the safety and integrity of the payment system through
+deterring fraud and combating illicit activities such as money
+laundering. 401 This requires close collaboration with regulators,
+such as tax authorities.402 However, challenges exist regarding how
+to protect privacy.
+When CBDC infrastructure needs to
+substantially expand its capacity due to increased demand, this
+could “require compromises on some features that might otherwise
+be desirable (such as computationally demanding privacy
+techniques or programmable payments) as additional complexities
+could increase the processing demand on the system.”403 It is to be
+seen whether and how “policy synergies between anonymity, risk
+reduction, and financial inclusion” may be realized.404 Essentially,
+the balances of motivations and objects of different states regarding
+CBDC, as well as national circumstances and capacity (including the
+characteristics of the payment systems, staffing), vary widely. 405
+These trade-offs may mean that “not all motivations can be realized
+simultaneously.” 406 Potential solutions need to be carefully
+explored and justified to address these issues. This may require a
+strong regulatory and technological capacity of the issuing
+jurisdiction and other jurisdictions involved.
+5.4. Concluding Thoughts on the Sustainability of China’s Approach
+The landscape of selective reshaping is in flux and remains
+unclear at this stage. E-CNY is a moving target in terms of its
+
+405
+
+BANK FOR INT’L SETTLEMENTS, supra note 174, at 6.
+CPMI REPORTS, supra note 255, at 7.
+BANK FOR INT’L SETTLEMENTS, supra note 174, at 6.
+Id. at 15.
+Soderberg et al., supra note 50, at 26.
+CPMI REPORTS, supra note 255, at 3, 4; Soderberg et al., supra note 50, at 1,
+
+406
+
+BANK FOR INT’L SETTLEMENTS, supra note 174, at 5.
+
+400
+401
+402
+403
+404
+
+3.
+
+https://scholarship.law.upenn.edu/alr/vol18/iss1/4
+
+2022
+
+China's Approach to Central Bank Digital Currency
+
+133
+
+operation and development. New regional reserve currencies may
+arise due to new CBDCs’ attractive features.407 If properly managed,
+CBDC will increase efficiency, reduce the risks and costs of crossborder payments (such as reducing the intermediation chains in the
+payment processes), improve integration, and enhance safety and
+technical compatibility. 408 E-CNY may strengthen RMB’s role in
+some regions across the Asia-Pacific. The international use of eCNY will likely start from a payment infrastructure system, and is
+more likely to reshape cross-border payment than the investment
+and reserve currency system due to factors such as the need for
+greater international liquidity of the RMB.409 At the same time, “the
+credibility and stability of institutions, degree of financial openness,
+and the rule of law, as well as geopolitical forces, remain essential
+ingredients to currency internationalization and tend to move
+slowly.”410 For example, adequate accountability and supervisory
+arrangements are necessary.411 These will likely help increase the
+confidence in e-CNY. On the whole, economic, political economy,
+legal and regulatory factors will affect the trust in e-CNY.
+6. CONCLUSION
+Analysis of e-CNY requires consideration of the role of the state,
+the possible extension of e-CNY into cross-border transactions, and
+China’s proactive approach to international governance. Through
+the implementation of CBDC, China may be able to selectively
+reshape global finance, which is among the new domains of
+international relations.412 However, the long-term sustainability of
+selective reshaping would be profoundly affected by economic,
+political economy, legal and regulatory factors. That said, the latest
+geo-economic tensions may speed up the rolling out of China’s
+CBDC and its use. International economic governance is likely to be
+reshaped along with reduced reliance on the US dollar by some
+CPMI REPORTS, supra note 255, at 18.
+Id. at 2, 4.
+409
+Knoerich, supra note 88, at 160.
+410
+CPMI REPORTS, supra note 255, at 17.
+411
+Cooney & Lang, supra note 380, at 536.
+412
+Thomas Hale, Transnational Actors and Transnational Governance in Global
+Environmental Politics, 23 ANN. REV. POL. SCI. 203, 206 (2020).
+407
+408
+
+Published by Penn Carey Law: Legal Scholarship Repository,
+
+134
+
+U. PA. ASIAN L. REV.
+
+Vol. 18:1
+
+countries like China. A new international payment system and
+ecosystem parallel to the existing Western-led ones may emerge
+over time.
+The interaction and impact of e-CNY on the international
+economic governance deserve further research, such as whether and
+how e-CNY might chart a novel course for the international financial
+system. Trust in the currency is crucial, and it is affected by many
+factors including the governance, openness of a currency system,
+and economic development of the issuing country.413 It would be
+crucial to analyze the development of e-CNY, the influencing factors
+of China’s CBDC approach, 414 and its impact on the future
+international financial systems.415
+
+413
+See Knoerich, supra note 88, at 157, 159 (observing that strong economic
+fundamentals, good financial governance, and an open currency system is a current
+key characteristic of major reserve currencies).
+414
+Heng Wang, How to Understand China’s Approach to Central Bank
+Digital Currency? 1–32 (Apr. 26, 2022) (unpublished manuscript) (available online
+at
+https://www.researchgate.net/publication/360189516_How_to_Understand_Chi
+na%27s_Approach_to_Central_Bank_Digital_Currency [https://perma.cc/CMY5WDRR]).
+415
+Heng Wang & Simin Gao, The Future of the International Financial
+System: The Emerging CBDC Network and Its Impact on Regulation 11–21, 22–23
+(Jan.
+2021)
+(unpublished
+manuscript)
+(available
+online
+at
+https://www.researchgate.net/publication/348486110_The_Future_of_the_Inter
+national_Financial_System_The_Emerging_CBDC_Network_and_Its_Impact_on_
+Regulation [https://perma.cc/JTD3-P9FL]).
+
+https://scholarship.law.upenn.edu/alr/vol18/iss1/4
+
+

@@ -1,0 +1,501 @@
+International Journal of Science and Applied Science: Conference Series
+P-ISSN: 2549-4635
+Int. J. Sci. Appl. Sci.: Conf. Ser., Vol. 5 No. 1 (2021)
+E-ISSN: 2549-4627
+ICSSEH 2021
+doi: 10.20961/ijsascs.v5i1.62077
+
+Indonesia’s Digital Financial and Economic
+Transformation Through Digitalize Redenomination
+Silvia Puspa Kumaeroh1, Muhammad Ayesha Arif Sandy2, Muhammad
+Ikhwanurrohiim Septenta3, Fina Dwi Utami4, and Mutiara Tresna Parasetya5
+1,5
+
+Department of Accounting, Universitas Diponegoro, Semarang
+
+2
+
+Department of Statistics, Universitas Diponegoro, Semarang
+3
+
+4
+
+Departement of Law, Universitas Diponegoro, Semarang
+
+Departement of Economics, Universitas Diponegoro, Semarang
+
+Email: silviapuspa26@gmail.com1, sandy.ayesha019@gmail.com2, septenta@gmail.com3,
+finadwi2002@gmail.com4, mutiara@lecturer.undip.ac.id5
+Abstract: The financial sector plays an important role in the economy and continues
+to develop. Some central banks are actively exploring the initiation of digital
+currency that will become a legal tender [6]. This digital currency is known as the
+Central Bank Digital Currency (CBDC). Apart from the technological aspect, the
+CBDC must also be supported by the efficient value of the rupiah denomination.
+Therefore, it is necessary to simplify the number of digits in the rupiah denomination
+with a redenomination policy. The implementation of the two policies separately will
+take a long time in the formulation process. This research comes up with a new
+concept called "Digitalize Redenomination". This concept that has never existed in
+previous studies integrates both redenomination policy and CBDC at the same time.
+The research methods are both qualitative and quantitative. The qualitative method
+is done by analyzing literature study data and interviews with Bank Indonesia and
+economists. While the quantitative method is done by analyzing questionnaire data
+of the public. From this research, it is concluded that the current condition of the
+financial system in Indonesia has entered the era of digital transformation and at the
+same time, Indonesia also needs to simplify the rupiah denomination. The Digitalize
+Redenomination mechanism has the potential to be applied in Indonesia. However,
+the application of this concept cannot be implemented until the national economic
+condition is stable. After the economy is stable, the government can review this
+concept to be implemented in Indonesia.
+
+1. Introduction
+The financial sector plays an important role in the economy and will continue to
+develop according to the needs of the public. This is in line with today's conditions, which
+are undergoing rapid changes with the Industrial Revolution 4.0, marked by digital
+technology that is developing rapidly in all parts of the world, including in Indonesia.
+These changes affect various aspects of life and will cause disruption. As an archipelagic
+country that stretches from Sabang to Merauke and has a high population of productive
+age, Indonesia creates various effects and impacts of disturbance. In the western part of
+Indonesia, this influence is more significant and optimistic than in Indonesia's central and
+
+75
+
+International Journal of Science and Applied Science: Conference Series
+http://jurnal.uns.ac.id/ijsascs
+Int. J. Sci. Appl. Sci.: Conf. Ser., Vol. 5 No. 1 (2021)
+doi: 10.20961/ijsascs.v5i1.62077
+
+eastern regions. However, Indonesia still has to open itself to enter the digital era because
+it will affect the nation's future, including the transformation in the financial sector.
+Carney (2016) states that innovation in the financial sector will change the central
+bank's foundation and bring a revolution to every user of financial services. This
+innovation in the financial sector has come to be known as Financial Technology
+(FinTech). FinTech has proliferated in developed countries and is also proliferated in
+developing countries, such as Indonesia. The existence of FinTech can bring more
+practical and secure financial transaction process. This financial transaction process
+includes the payment, borrowing money, transfers, or buying and selling shares.
+The IMF (2017) reports that total global investment in FinTech companies increased
+from US$9 billion in 2010 to US$25 billion in 2016. The type of FinTech that is believed
+to be changing the future of the global financial industry is blockchain. The World
+Economic Forum recently explained that blockchain was one of the ten most innovative
+technologies in 2016. Blockchain is the basis for the development of the concept of digital
+currency. This new generation of electronic money, also called digital or virtual currency,
+raises important questions for central banks, financial systems and economies. Bordo and
+Levin (2017) explain that several central banks are actively exploring the initiation of
+digital currency by the central bank, which will become a legal tender and can be used by
+anyone. The digital currency is currently known as the Central Bank Digital Currency
+(CBDC).
+The development of the digital economy through CBDC policy has potential to
+increase productivity and economic growth in the future. However, the achievement of
+national economic development, which is quite good at this time, has not been supported
+by the efficient value of rupiah denominations. Currently, the rupiah has too many digits.
+This condition has the potential to cause inefficiency in future economic transactions.
+Money with too many digits will drive complex calculations in economic transactions so
+that it has potential to cause errors and take longer. Implementing each policies,
+redenomination and CBDC, takes quite a long time. So in this research we want to
+integrate the two policies simultaneously because it will be more efficient and not require
+much higher costs if the implementation of these policies is carried out at different times.
+Of course, the integration of these policies is implemented when all the things needed
+have adequately been fulfilled. It is hoped that later financial transformation in Indonesia
+can be realized through the concept of "Digitalize Redenomination", which is an
+integration of the Central Bank Digital Currency policy with the Redenomination policy.
+Problems Formulation: (1) How is the current development of digital economic and
+financial transformation in Indonesia? (2) How is the "Digitalize Redenomination"
+mechanism can be implemented for Indonesia? (3) What are the impacts of the
+transformation of the national economy and finances through the concept of “Digitalize
+Redenomination”?
+Research Objectives (1) To find out the current development of digital economic and
+financial transformation in Indonesia. (2) To know the mechanism of "Digitalize
+Redenomination" in Indonesia. (3) To find out the impact of the transformation of the
+national economy and finance through the concept of "Digitalize Redenomination".
+76
+
+International Conference on Social Science, Education, and Humanities 2021
+
+International Journal of Science and Applied Science: Conference Series
+http://jurnal.uns.ac.id/ijsascs
+Int. J. Sci. Appl. Sci.: Conf. Ser., Vol. 5 No. 1 (2021)
+doi: 10.20961/ijsascs.v5i1.62077
+
+2. Method
+This study used a qualitative and quantitative approach. The qualitative approach was
+carried out using two methods, namely interviews and literature review. In comparison,
+the quantitative approach is obtained through a survey by distributing questionnaires to
+respondents. A qualitative approach was used to obtain primary data by interviewing the
+informants. The interviewees were the Central Bank Indonesia (BI) Payment System
+Policy Department and economic experts. BI was used as a resource to obtain up-to-date
+information on CBDC policy issues and the Rupiah Redenomination policy in Indonesia
+and get feedback regarding the idea of integrating CBDC into Rupiah Redenomination
+(Digitalize Redenomination). Economic experts are chosen as the interviewee to get
+feedback and suggestions related to the mechanism of research results. This study
+produces secondary data taken from several national and international journal libraries
+with the keywords: financial transformation, CBDC, and redenomination. Journals are
+obtained from credible sources such as Sinta, Scopus, Science Direct, and others.
+In addition, this study also uses a quantitative approach through a questionnaire survey
+in google form that is distributed to the general public to find out how much knowledge
+the general public has regarding redenomination, CBDC, and the impact of implementing
+the integration those policies. Before being distributed, the questionnaire was reviewed
+and then distributed to several respondents for testing. The questionnaire data was then
+tested for its validity and reliability. The validity of the questionnaire was tested with the
+Pearson Correlation test in SPSS, while the reliability was tested with the Cronbach Alpha
+test in SPSS. After all the question items proved valid and reliable, the questionnaires
+were distributed to the general public randomly (random sampling). Categorical (ordinal)
+data from the distribution of the questionnaires were interpreted and analyzed
+descriptively. Then the data is visualized into a graph.
+3. Results and Discussions
+3.1. The Current Development of Digital Economic Transformation
+The existence of technology has entered into various lines of life, including economic
+activities in society. New innovations develop massively and are continuously introduced
+to the public. One of these innovations is the digitalization of the payment system. It is
+undeniable that the average business actor has digitized his business to gain a broader
+market share. While the times are growing, consumers also want it to be easier to get the
+goods/services they needed. With the internet, it can connect the transacting parties, so
+that regional boundaries can be exceeded.
+Indonesia is in the fourth position as the country that has the largest digital transaction
+in the Asia Pacific, as well as being the largest in the ASEAN region. It indicates that
+Indonesia is heading towards digitizing payment instruments.
+In addition, it is strengthened by electronic transactions, which from year to year show
+a significant increase, especially in 2017-2020. Moreover, the pandemic forces people to
+limit physical contact, and the alternative is to make buying and selling transactions
+through online stores. The tendency of people to complete transactions using virtual
+International Conference on Social Science, Education, and Humanities 2021
+
+77
+
+International Journal of Science and Applied Science: Conference Series
+http://jurnal.uns.ac.id/ijsascs
+Int. J. Sci. Appl. Sci.: Conf. Ser., Vol. 5 No. 1 (2021)
+doi: 10.20961/ijsascs.v5i1.62077
+
+methods indicates that digital transaction activities are predicted to continue to develop
+positively following the development of e-commerce in Indonesia.
+
+Graph 2: Aggregate value of e-money transactions in Indonesia from 2011 to 2020 in
+billion Indonesian Rupiah [13]
+
+Graph 3: Distribution of e-commerce payment methods in Indonesia in 2020 [14]
+Several digital economic trends, such as trading transactions, have a positive impact
+on Indonesia. The Ministry of Industry targets implementing the 'Making Indonesia 4.0'
+policy, which is expected to increase real economic growth by 1-2% per year. However,
+this digital transformation has also led to transactions, such as cryptocurrencies, which
+the Indonesian government has not legally recognized as a medium of excange. The
+skyrocketing price of crypto assets makes the public pay special attention to these assets.
+Last May, it was recorded that the market valuation of cryptocurrency almost reached
+USD 1,8 Billion or around 25 Trillion Rupiah (Statista, 2021). This figure has resulted in
+many people starting to learn and invest using crypto assets.
+Seeing this opportunity, Bordo and Levin (2017) explained that several central banks
+are actively exploring digital initiatives that will become legal tenders and can be used by
+anyone. Unlike the private digital currency, the value of the central bank digital currency
+will be set in nominal terms. Bank Indonesia (BI), as the central bank, realizes that
+cryptocurrencies are very vulnerable to crimes such as money laundering, terrorism,
+buying and selling drugs, and other illegal activities. Therefore, to reduce the risk of using
+cryptocurrency, Bank Indonesia is currently starting to review a Central Bank Digital
+Currency (CBDC). CBDC is a means of digital storage of a value (money) and a method
+of exchange issued by a central bank.
+78
+
+International Conference on Social Science, Education, and Humanities 2021
+
+International Journal of Science and Applied Science: Conference Series
+http://jurnal.uns.ac.id/ijsascs
+Int. J. Sci. Appl. Sci.: Conf. Ser., Vol. 5 No. 1 (2021)
+doi: 10.20961/ijsascs.v5i1.62077
+
+According to data from Mastercard, Indonesia is currently entering the digital
+transformation quadrant, Breakout, which means that although it is now relatively low in
+development. But in near future, Indonesia will evolve rapidly and have the potential to
+become a country with a robust digital economy. In response to this, Indonesia is focusing
+on developing the digital economy, starting from startups digital, e-commerce, fintech,
+services (on-demand service), to logistics [1]. In addition, Indonesian government has
+made various preparations in facing the current digital transformation, such as
+infrastructure provision, human resource development, and policies related to the
+Industrial Revolution 4.0 [1].
+Infrastructure. Since 2014, Indonesian government has provided support for
+infrastructure for digital development, which includes increasing the electrification ratio
+and building the Palapa Ring project for internet network quality. To accelerate the
+growth of electricity infrastructure in Indonesia, the government approved the 2018-2027
+Electricity Supply Business Plan (RUPTL) with a target of reaching 56 GW of power
+plants spread throughout Indonesia. The network is expected to make internet access more
+widespread and the costs incurred are lower.
+Human Resources (HR). According to BPS data (2020), Indonesia's population
+currently reaches 271 million people. Interestingly, from the total population, Indonesia
+is dominated by young people of productive age. It indicates a demographic bonus in
+Indonesia that can be appropriately utilised in the face of the Industrial Revolution 4.0
+era by improving quality.
+The Government’s Roles. The government has issued various policies that encourage
+the development of digital transformation in Indonesia. In 2018, the government officially
+launched a road map called 'Making Indonesia 4.0, ' which was implemented into
+potential digital transformations in five main driving technologies, namely artificial
+intelligence, human-machine interfaces, robotics, sensors, and the internet of things.
+Financial services authorities also encourage digital transformation by issuing several
+regulations, such as POJK 77/POJK.01/2016 concerning information technology-based
+lending and borrowing services and PBI No. 19/12/PBI/2017 regarding the
+implementation of financial technology. Contributions also come from SOEs and the
+private sector in preparing human resources in the digital era with the presence of NGOs
+or digital-based HR educational and training institutions, such as Digital Valley and the
+Digital Innovation Lounge (DILo) owned by Telkom, Binar Academy, Apple Developer
+Academy, and other digital developer academies.
+3.2. Application of the “Digitalize Redenomination” Concept in Indonesia
+Digitalize Redenomination has the potential to be applied in Indonesia. Bank Indonesia
+has been conducting studies on CBDC since 2017. With these studies, BI is trying to
+formulate the right technology and systems for CBDCs in Indonesia. So far, the type of
+CBDC that is most likely to be used soon is Wholesale CBDC which only can be used to
+solve large value transactions [2]. In addition, the Covid-19 pandemic has initiated the
+public to reduce the use of cash. In the past year, the use of electronic money has become
+more massive, so that people should also be able to get used to using digital money.
+International Conference on Social Science, Education, and Humanities 2021
+
+79
+
+International Journal of Science and Applied Science: Conference Series
+http://jurnal.uns.ac.id/ijsascs
+Int. J. Sci. Appl. Sci.: Conf. Ser., Vol. 5 No. 1 (2021)
+doi: 10.20961/ijsascs.v5i1.62077
+
+Figure 1: Model of Digitalize Redenomination
+One of the redenomination stage involves dual price tagging where two types of
+currency are applied, namely the old rupiah and the new rupiah paper money. Government
+implemented this policy to get people used to the new rupiah and gradually withdraw the
+old paper money from circulation. Public will pay financial services with old paper
+money. Then, the old paper money circulating between financial institutions and the
+central bank. Bank Indonesia as central bank will converted it into a new paper money or
+CBDC that is tailored to the needs of financial institutions.
+Until now, people still need paper money to accommodate transaction activities in the
+market, especially in retail transaction activities. In addition to retail transactions, the
+public uses old paper money to use financial services, either through commercial banks
+or non-bank institutions. Automatically, old rupiah paper money circulates to the central
+bank through these two types of entities. When banks and other financial institutions
+obtain old rupiah paper money from the public, the money will go to the central bank. It
+will be sorted out which paper money is still feasible and which must be withdrawn from
+circulation. As the central bank, Bank Indonesia, will only print new currency according
+to the quantity of rupiah that withdrawn from circulation.
+Then what about electronic money? Will it use the old denomination or follow the
+post-redenomination nominal? Not only used paper money, public can also use electronic
+money to complete retail transactions. In contrast to paper money which imposes two
+prices on purchases, the electronic money will only use one denomination, namely the
+new denomination after the redenomination. In other words, electronic money will only
+use simple digits.
+Based on the potential and risk analysis, Wholesale CBDC is a type of CBDC that has
+the potential to be implemented in Indonesia in the near future. Most likely, this type of
+wholesale CBDC runs on a blockchain network. This type of CBDC is exclusive, means
+that the network is only used in a limited scope for banks or parties determined by Bank
+Indonesia. So that it does not involve the public. That is to say that public does not use
+
+80
+
+International Conference on Social Science, Education, and Humanities 2021
+
+International Journal of Science and Applied Science: Conference Series
+http://jurnal.uns.ac.id/ijsascs
+Int. J. Sci. Appl. Sci.: Conf. Ser., Vol. 5 No. 1 (2021)
+doi: 10.20961/ijsascs.v5i1.62077
+
+CBDC to complete daily transactions because it is used only on a wholesale transaction
+scale. People continue to use rupiah new paper money as a substitute for the old one.
+However, Digitalize Redenomination cannot be implemented in the near future. The
+Indonesian government is currently focusing on dealing with the Covid-19 pandemic. The
+redenomination policy alone has not become a priority for the National Legislation
+Program (Prolegnas). According to Berry A. Harahap, the redenomination policy bill is
+being worked on by Bank Indonesia and the Ministry of Finance to be included in the
+2022 National Legislation Program.
+On the other hand, every coin transaction in the blockchain requires a computational
+process with high specifications and large amounts of power. For example, each
+transaction of one bitcoin requires 1704.78 kWh of electricity, the equivalent of two
+months of electricity usage in the United States [3]. Each Transaction bitcoin also
+requires an average transaction fee of 2,129 USD [4]. So that the application of CBDC
+with a blockchain or Distributed Ledger Technology (DLT) is not yet possible to apply
+for retail transactions because more affordable energy has not been found.
+A common thread can be drawn that the two discourses, both redenomination and
+CBDC discourse, cannot be realized in the near future because there are other aspects that
+require more attention and must be prioritized by the Indonesian government. However,
+if the various factors previously mentioned have been resolved, it is possible that
+Digitalize Redenomination can be reviewed and implemented during that period.
+3.3. The Impact of Digitalize Redenomination
+Financial transformation through Digitalize Redenomination with the wholesale
+CBDC will have a significant impact on the financial system in Indonesia. Wholesale
+CBDC has the potential to increase efficiency in settlements for transactions related to
+securities, derivatives and cross-border transactions. This type of CBDC can be another
+alternative to BI-RTGS. BI-RTGS volume data for 2020-2021 shows that the nominal
+and frequency the transactions has increased [5]. However, the BI-RTGS system is
+limited to operating hours starting at 06.30 - 19.00 WIB. The application of transaction
+fees is single credit differentiated based on the morning, afternoon and evening periods.
+While CBDCs wholesale use blockchain or Distributed Ledger Technology (DLT), the
+settlement process can be accessed 24/7 or at any time and can be done peer-to-peer to
+provide efficiency in operational time [2]. High-Value Payment System (HVPS) payment
+transactions, above one hundred million Rupiah and urgent, will increase due to
+increasingly sophisticated CBDC features and designs.
+Due to technology limitations and the high operational costs of DLT technology, the
+public should use the new redenominated paper money for retail transactions. The
+redenomination of rupiah provides efficiency in the accounting recording process because
+it reduces the risk of recording errors and saves time. In addition, people's economic
+activities will be much easier. People no longer need to carry large amounts of money to
+carry out retail transactions.
+
+International Conference on Social Science, Education, and Humanities 2021
+
+81
+
+International Journal of Science and Applied Science: Conference Series
+http://jurnal.uns.ac.id/ijsascs
+Int. J. Sci. Appl. Sci.: Conf. Ser., Vol. 5 No. 1 (2021)
+doi: 10.20961/ijsascs.v5i1.62077
+
+Figure 2: System BI-RTGS by category of transacting party-table[5]
+
+Graph 4: Respondents' opinions regarding the correlation between digitalize
+redenomination and economic efficiency
+Based on the graph of the survey results above, it is interpreted that the majority of the
+public are look that Digitalize Redenomination can improve the efficiency of Indonesia's
+national economy. The integration of the CBDC into the rupiah redenomination policy
+can shorten the implementation time of those policies, so that economic efficiency is
+achieved. In addition, the concept of Digitalize Redenomination can provide an
+alternative mechanism regarding the implementation of the two policies which the
+government is still studying.
+4. Conclusions
+Based on research, it can be concluded that conditions in the world are currently
+undergoing rapid changes with the Industrial Revolution 4.0, marked by digital
+technology developing rapidly in the world. All over the world, including Indonesia. The
+82
+
+International Conference on Social Science, Education, and Humanities 2021
+
+International Journal of Science and Applied Science: Conference Series
+http://jurnal.uns.ac.id/ijsascs
+Int. J. Sci. Appl. Sci.: Conf. Ser., Vol. 5 No. 1 (2021)
+doi: 10.20961/ijsascs.v5i1.62077
+
+existence of these technological developments has an impact on the financial sector with
+the emergence of private currency that the government has not recognized. In response to
+this, Bank Indonesia, as its obligation in the monetary sector, responded to these
+developments by reviewing digital currency policies legally and receiving direct
+accountability from the government through the central bank, known as CBDC. In
+addition, in Indonesia itself, there is the issue of implementing the redenomination policy.
+However, this policy can be carried out when economic conditions are stable, inflation
+can be maintained, and socialization to the public has been carried out massively. In
+practice, the implementation of the policy takes a very long time and is gradual. Likewise,
+the implementation of CBDC policies also takes a long time and must pay attention to the
+technological needs, the condition of the vast territory of Indonesia and has not been able
+to spread evenly for internet network problems.
+Therefore, it can be concluded that the mechanism of Digitalize Redenomination that
+may be applied in Indonesia is to use a system of indirect CBDC in the form of wholesale.
+The mechanism is applied at the redenomination transition stage, where there is an old
+rupiah and a new rupiah. The new rupiah represents currency and CBDC that have been
+redenominated. CBDC wholesale This is used for large transactions between commercial
+banks and the central bank. Meanwhile, to convert old rupiah to new rupiah to the public,
+Bank Indonesia through commercial bank intermediaries in the distribution. Gradually,
+the old rupiah will be withdrawn by the central bank and replaced with new rupiah after
+redenomination so that the mechanism Digitalize Redenomination can be achieved and
+implemented.
+Acknowledgments
+We thank the Directorate General of Higher Education Ministry of Education and
+Culture for the funding provided for PKM RSH in 2021. We would also like to thank the
+resource persons Mr Bastian Muzbar Zams, Deputy Director of the Group for
+Development of Large Value Payment System Instruments and Mechanisms of Bank
+Indonesia, Ms Nenden Endah Sari, Assistant Director of the Payment System Policy
+Department, Mr Berry A. Harahap, Deputy Director of the Group The formulation of
+KEKDA at the Central Java Bank Indonesia Representative Office, Mr Dr Nugroho
+Sumarjiyanto, BM., M.Sc., and Mr Akhmad Syakir K., SE, M.Sc., PhD, FEB Lecturer at
+Diponegoro University. They have agreed to conduct interviews in this research. We also
+express our gratitude to the supervisor, Ms Mutiara Tresna Parasetya, SE, M.Sc. Ak., and
+the Diponegoro University PKM supervisor who has provided guidance and evaluation
+during the PKM-RSH process.
+References
+[1]
+
+S. Adiningsih, Transformasi Ekonomi Berbasis Digital di Indonesia, Jakarta: PT
+Gramedia Pustaka Utama, 2019.
+
+[2]
+
+Bank Indonesia, "Central Bank Digital Currency," p. 28, September 2018.
+
+[3]
+
+Digiconomist, "Bitcoin Energy Consumption Index," 8 Agustus 2021. [Online].
+
+International Conference on Social Science, Education, and Humanities 2021
+
+83
+
+International Journal of Science and Applied Science: Conference Series
+http://jurnal.uns.ac.id/ijsascs
+Int. J. Sci. Appl. Sci.: Conf. Ser., Vol. 5 No. 1 (2021)
+doi: 10.20961/ijsascs.v5i1.62077
+
+Available: https://digiconomist.net/bitcoin-energy-consumption/.
+[4]
+
+Ychart, "Bitcoin Average Transaction Fee," 8 Agustus 2021. [Online]. Available:
+https://ycharts.com/indicators/bitcoin_average_transaction_fee.
+
+[5]
+
+Bank Indonesia, "Transaksi Sistem BI-RTGS Berdasarkan Kategori Peserta," 09 08
+2021.
+[Online].
+Available:
+https://www.bi.go.id/id/statistik/ekonomikeuangan/ssp/RTGS-Kelompok-Pelaku.aspx.
+
+[6]
+
+P. B. I. A. C. M. K. R. N. R. Berry A. Harahap, "Perkembangan Financial
+Technology Terkait Central Bank Digital Currency (CBDC) Terhadap Transmisi
+Kebijakan Moneter dan Makroekonomi," Departemen Kebijakan Ekonomi dan
+Moneter Bank Indonesia , Jakarta, 2017.
+
+[7]
+
+Bank Indonesia, "Naskah Akademik Rancangan Undang-Undang Tentang
+Perubahan Harga Rupiah," Bank Indonesia, Jakarta, 2017.
+
+[8]
+
+Bank For International Settlements, "Central Bank Digital Currency," March 2018.
+[Online]. Available: https://www.bis.org/.
+
+[9]
+
+R. I. A. G. P. N. A. H. F. A. Z. I. A. F. Bastian Muzbar Zams, "Designing Central
+Bank Digital Currency For Indonesia : The Delphi-Analytic Network Process,"
+Bulletin of Monetary Economics and Banking, vol. 23, no. 3, pp. 411-438, 2020.
+
+[10] R. R. Muhammad Edhie Purnawan, "Significant Effect of the Central Bank
+Digital," Jurnal Ekonomi Indonesia, vol. 8, no. 1, pp. 125-151, 2019.
+[11] B.
+
+S. H. T. Ahmet Faruk Aysan, "BLOCKCHAIN FUTURES IN
+CRYPTOCURRENCIES, TRADE," Bulletin of Monetary Economics and
+Banking, vol. 23, no. 4, pp. 525-542, 2020.
+
+[12] Statista Research Department, "Transaction Value of Digital Payments in Asia
+Pacific
+in
+2020,
+by
+Country,"
+2021.
+[Online].
+Available:
+https://www.statista.com/statistics/1226197/apac-digital-payments-transactionvalue-by-country/. [Accessed 7 Agustus 2021].
+[13] Statista Research Department, "Aggregate Value of E-Money Transactions in
+Indonesia
+from
+2011 to
+2020," 2021.
+[Online].
+Available:
+https://www.statista.com/statistics/958171/indonesia-online-transaction-value/.
+[Accessed 8 Agustus 2021].
+[14] Statista Research Department, "Distribution of E-Commerce Payment Methods in
+Indonesia
+in
+2020,"
+2021.
+[Online].
+Available:
+https://www.statista.com/statistics/895544/e-commerce-payment-methodsindonesia/. [Accessed 8 Agustus 2021].
+
+84
+
+International Conference on Social Science, Education, and Humanities 2021
+
+

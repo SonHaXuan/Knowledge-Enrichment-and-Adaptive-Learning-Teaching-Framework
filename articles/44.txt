@@ -1,0 +1,464 @@
+CSIT (December 2021) 9(4):245–249
+https://doi.org/10.1007/s40012-021-00344-5
+
+ORIGINAL RESEARCH
+
+Central bank digital currency: risks, challenges and design
+considerations for India
+Raghava Suresh Samudrala1
+
+•
+
+Srinivasa Kumar Yerchuru1
+
+Received: 16 November 2021 / Accepted: 22 November 2021 / Published online: 3 December 2021
+ CSI Publications 2021
+
+Abstract Central bank digital currency (CBDC) is being
+experimented by more than 60 central banks across the
+globe. Distributed ledger technology (DLT), which is the
+foundation for crypto currencies is considered as one of the
+options for implementation of CBDC. Real time payments,
+continued access to central bank money, financial inclusion
+and tracking of illicit activities are considered to be benefited by adopting CBDC. CBDC experiments conducted
+so far are inconclusive and no central bank has taken a
+decision yet to launch CBDC. This paper looks at the
+business and technology risks/challenges associated with
+CBDC implementation. This paper also recommends key
+design considerations for CBDC exploration in India.
+Keywords Central bank digital currency (CBDC) 
+Distributed ledger technology (DLT)  Digital currency
+
+1 Central bank digital currency (CBDC) context
+and overview
+Digital currency as a concept has become popular with
+success of bitcoin which was started in 2009. Since then,
+several hundred crypto currencies were launched using
+blockchain / distributed ledger technology (DLT). These
+are private currencies without any underlying assets. In
+addition to crypto currencies, tokens/ stable coins have
+been launched by private parties, which are backed by
+
+& Srinivasa Kumar Yerchuru
+ysksky@icloud.com
+1
+
+Present Address: BFSI Industry Advisory Group, Banking,
+Financial Services and Insurance Business Unit, Tata
+Consultancy Services Ltd., Chennai, India
+
+different kind of assets like equities, bonds, and currencies.
+Extending the concept further, tokens/ currencies issued
+and backed by a national central bank are referred to as
+Central Bank Digital Currencies (CBDCs). Even though
+there have been many experiments and pilots, no central
+bank has taken a decision on launching a digital currency
+till date. According to the Bank of England Discussion
+Paper on Central Bank Digital Currency [1], any CBDC
+would be introduced alongside, rather than replacing cash
+and bank deposits. It further clarifies that if it were to
+introduce CBDC, it would be denominated in pounds
+sterling and would be worth the same as the pound sterling
+bank notes. Similar views are expressed by People’s Bank
+of China report on e-CNY [2]. According to this, e-CNY
+will be a substitute for cash in circulation and will co-exist
+with RMB, serving domestic retail payment demands and
+will be fully fungible with electronic accounts of authorized operators.
+Most common understanding about CBDCs is that they
+are implemented using blockchain/DLT. Project Ubin from
+Monetary Authority of Singapore [3] and Project Jasper
+from Payments Canada [4] were initiated with the aim of
+exploring distributed ledger technology for payments and
+CBDC. However certain central banks maintained that they
+would focus on the business objective and were technology
+neutral. Report on Digital Euro by European Central Bank
+[5], considers both centralized and decentralized infrastructures as potential backbone for implementation of
+CBDC. According to Bank of England discussion paper
+[1], ‘‘We do not presume any CBDC must be built using
+Distributed Ledger Technology (DLT), and there is no
+inherent reason it could not be built using more conventional centralised technology.’’
+Broadly CBDCs can be classified into the following 2
+categories.
+
+123
+
+246
+
+•
+
+CSIT (December 2021) 9(4):245–249
+
+Wholesale CBDC
+–
+–
+
+Issued to commercial banks
+Serves large value payments
+
+Project Helvetia [6], an experiment between Bank for
+International Settlements, Swiss National Bank and SIX,
+demonstrates the functional feasibility of settling tokenized
+assets with a wholesale CBDC. Similarly, Banque de
+France experiments with CBDC [7] also fall under this
+category.
+•
+
+Retail CBDC
+–
+–
+
+Issued to retail individuals directly or through
+approved financial institutions
+Serves low value payments
+
+e-CNY from People’s Bank of China [2] is an example
+of retail CBDC.
+According to Bank for International Settlements (BIS)
+data, more than 60 central banks are currently experimenting with CBDCs. There are also number industry
+bodies [11], banks, financial services companies and
+technology firms developing thought leadership and point
+of views in this area.
+Based on the discussion so far, the features of Central
+Bank Digital Currencies (CBDCs) can be summarized as
+following:
+•
+•
+•
+•
+•
+•
+
+Digital version of national fiat currency
+Fully fungible with fiat
+Legal tender
+Sovereign Liability
+Distributed directly or through approved financial
+institutions
+Typically co-exist and fully fungible with cash
+
+improving cross-border payments would be some of the
+drivers for CBDC.
+Based on the essence from various central bank reports,
+following are the overall objectives for developing CBDCs.
+•
+
+•
+
+•
+•
+•
+
+•
+
+3 Risks/challenges with CBDCs
+As mentioned earlier, most common understanding is that
+CBDCs are implemented using DLT/blockchain whereas
+some central banks are open to technology options. Irrespective of the implementation choice, CBDC poses certain
+risks/challenges. They are listed below and explained in
+subsequent sections:
+1.
+2.
+
+3.
+
+2 Business drivers for CBDC
+4.
+Let us now examine the CBDC business model and its
+potential advantages over current form of electronic
+money.
+Digital Dollar Project [8] highlights the use cases of
+digital dollar in domestic peer-to-peer payments as well as
+distribution of government benefits to unbanked/underbanked directly. This project also highlights programmable
+and customizable aspects of digital dollar to provide data
+ownership controls, treasury management efficiencies and
+financial accessibility.
+Report by seven Central Banks along with BIS titled
+‘‘CBDC – Foundational Principles and Core Features’’ [9]
+highlights that continued access to central bank money,
+increased payments diversity, financial inclusion and
+
+123
+
+Providing Central Bank Money to households and
+businesses, as cash usage drops across many countries.
+CBDC to act as replacement for cash
+CBDCs are being considered for modernization of
+payment infrastructure for real time peer-to-peer
+payments
+Providing access to underbanked/unbanked to enable
+financial inclusion
+Track tax evasion / track illicit activities which may not
+be possible in cash transactions
+Simplifying cross border remittances by building
+bridges across CBDC infrastructure in different
+countries
+CBDCs are also seen as the government’s alternative to
+citizen’s attraction to crypto currencies and private
+stable coins
+
+CBDCs hamper credit growth and financial stability.
+DLT and Programmable Money aspects of CBDC may
+not be disruptive as commonly perceived in the
+industry.
+CBDCs do not necessarily help modernize payments
+systems.
+CBDCs may not always result in better customer
+experience. Implications are beyond.
+
+Success of any innovation / technology is directly
+dependent on the value it can deliver. Successful implementation of CBDCs need to address these fundamental
+challenges and bring out clear articulation of value.
+3.1 Credit growth and financial stability
+Concept of CBDC is about tokenized form of money issued
+by central banks against the deposit of fiat currency and is
+typically distributed through banks and financial intermediaries. CBDCs have sovereign liability which means that
+banks may act as channels, but customer funds must remain
+in central bank account. Unlike traditional savings and
+
+CSIT (December 2021) 9(4):245–249
+
+deposit account balances, these funds are not available to
+banks for lending. This can hamper credit growth, should
+there be large scale adoption of CBDCs.
+During economic crisis like the GFC (Global Financial
+Crisis), large number of commercial banks fail, leaving
+deposit insurance as the only recourse for retail customers.
+During these periods, depositors look for stability and
+guarantee rather than returns. Given their sovereign guarantee, we can expect mass migration of money from
+commercial banks to CBDC (sovereign liability). Central
+banks may disincentivize mass movement of funds to
+CBDCs by paying lower or no interest, but it may not solve
+the problem as safety outweighs the returns in such scenarios. All banks are ‘Conditionally Solvent’, and such
+movement of funds weakens the banking system further,
+accelerating their fall and destabilizing the financial system. Central bank’s key responsibility is to ensure the
+stability of the banking system and credit growth and
+CBDCs appear to be counterproductive for both these
+objectives.
+Report ‘‘CBDC—Foundational Principles and Core
+Features’’ [9], highlights the financial stability risks and
+potential disintermediation of banks in case of large-scale
+adaptation of CBDC.
+3.2 Distributed ledgers and programmable money
+Usage of Distributed ledger technology (DLT) and programmable money for implementation of CBDC may not
+result in disruptive benefits, as being perceived by many
+industry players [3, 4]. Instead, these technologies pose
+certain practical challenges as described below.
+DLT, as the name suggests, is for maintaining the ledgers distributed across peers (who may not trust each other)
+and agreeing to the ledger changes through a consensus
+mechanism. In case of CBDC, it is a centralized ledger
+owned and maintained by central bank, which is the most
+trusted entity in any banking system. Central bank is the
+banker for the banks, and transactions validated by it have
+the highest credibility and therefore, DLT technology is a
+force-fit for CBDCs. Transactions on a centralized ledger
+are much simpler and cheaper compared to the same in
+DLT, when you take distributed trust out of the equation.
+The concept of ‘programmable money’ is about programming the entire transaction value chain in the contract,
+which can be executed till completion without any intervention or legal disputes. It is a great concept but has very
+limited practical use in the context of financial transactions,
+mainly for two reasons.
+•
+
+For programmable money to function, all assets must
+be under the control of the contract at the beginning.
+For example, for a mortgage contract, the borrower
+
+247
+
+•
+
+must submit all installments at the time of signing the
+contract so that program can repay lender periodically.
+This is not practical. So, the program can only generate
+notices to borrowers in case of non-payment of
+installment as it happens today.
+Programmable money needs trusted third parties (Oracles) to capture real world events on to DLT platform
+(Courier delivered the parcel, neither courier nor the
+receiver alone can be trusted to capture this information). In the absence of oracles, contracts cannot ensure
+automatic dispute-free execution.
+
+Due to these limitations, programmable money turns out
+to be simply a set of validations and processing rules like
+any other business system.
+3.3 Payments modernization
+According to the report ‘‘CBDC—Foundational Principles
+and Core Features’’ [9], primary motivation for central
+banks is CBDC’s use as a means of payment. This report
+also mentions ‘‘CBDC is not unique in being able to fulfil
+many of these motivations and CBDC designs are likely to
+require trade-offs that mean not all motivations can be
+realised simultaneously.’’
+One argument for CBDCs is that it helps modernize
+payments and enables mobile based immediate payments.
+As we all know, it does not require CBDC to enable instant
+payments. Many countries have implemented instant payments (without CBDC itself) and have achieved significantly high levels of adoption. But frictions remain in
+digital payments due to KYC/onboarding costs, transaction
+costs, underbanked /unbanked, incompatibility between
+multitude of payment rails, small and micro payments etc.
+Throwing another payment rails like CBDC at the problem,
+instead of addressing the core issues may not help much. It
+will be a huge investment to build CBDC infrastructure
+from scratch. We should not underestimate the cost and
+efforts involved in issuing CBDCs to all households,
+businesses as well as acquiring ecosystem of merchants.
+3.4 Customer experience
+We discussed earlier that large-scale migration to CBDCs
+can destabilize the banking system. To address this issue,
+central banks may consider lower / zero interest rates or
+even limits on CBDC holdings to encourage their usage
+only for payments. Moving funds to CBDC only for payments is a big disadvantage from usability / friction perspective. Either users must keep reserves in their CBDC
+with potentially lower returns or keep making extra
+movement from bank account to CBDC every time they
+
+123
+
+248
+
+CSIT (December 2021) 9(4):245–249
+
+had to make a payment from CBDC. This will significantly
+hinder customer experience and results in lower adoption.
+The use of distributed ledger technology for CBDCs
+requires customers to use private keys to validate their
+transactions on the ledger (assuming DLT is used). They
+also need to take utmost care to protect the keys. This
+means a learning curve for all payers and merchants on the
+procedures and measures for CBDCs. Loss of keys will
+result in loss of money in the ledger without any easy
+recourse. Underbanked/ unbanked population will need
+smartphones, digital wallets, digital signatures, and internet
+connectivity to store and transact using CBDCs.
+
+•
+•
+•
+•
+•
+
+Balance customer privacy and need for tracking AML/
+Financial Crime
+Provision for financial inclusion (low-cost distribution
+and offline facility)
+Consider cost of building CBDC in the business case to
+evaluate alternatives
+Costs associated with onboarding retailers, businesses,
+and merchant to be considered
+Cross border CBDC needs to be seen more holistically
+than a bridge between 2 central banks
+
+5 Conclusion
+4 Design considerations for CBDC in India
+India has one of the most advanced payment infrastructures
+[10] across the globe, with some of the highlights being.
+•
+•
+•
+•
+•
+
+•
+
+High value and low value payment schemes
+24 9 7 Instant Real-time Gross Settlement (RTGS) for
+High Value Payments (* [ 3000 USD)
+24 9 7 Near Instant Low value payment system
+(NEFT)
+24 9 7 Immediate payment system for bank-to-bank
+transfer of retail payments (IMPS)
+Next generation smartphone enabled, Open banking
+based, instant payment system with QR code-based
+onboarding of merchants (UPI), Growing exponentially
+in volumes
+Low-cost accounts with payment bank licenses without
+lending activities; Funds held in reserves and government securities
+
+Considering modern payment infrastructure that India
+already has, it is important to focus on the business case
+instead of ‘solution searching for problem’ attitude. We
+propose the following key considerations for designing
+CBDC in India:
+•
+
+•
+•
+•
+
+•
+•
+
+Focus on operating model and business case over
+technology. Technology is secondary. No major economy has taken a decision to launch a CBDC yet
+[1, 2, 5, 7, 8]
+Usage of CBDC is optional. So, assessment of benefits
+cannot assume that everyone would use it
+Decouple the form of money and payment rails
+Interoperability with current modes of payment is
+critical. Leverage current investments in payment
+modernization instead of green field build
+Balance customer experience vs. financial stability
+Policy around limits, interest, and transactions costs
+around CBDC
+
+123
+
+According to Bank for International Settlements (BIS)
+data, more than 60 central banks are experimenting with
+CBDCs. Pilots have been inconclusive so far and no central
+bank has yet taken a decision to launch CBDCs. India has
+one of the most modern payment infrastructures, comparable to the best in the world. It is important to clearly
+articulate the vision and business purpose of CBDC and get
+the stakeholder buy-in before making major investments in
+this area. Distributed ledger technology (DLT) which
+appears to be the choice for running pilots for most central
+banks, has limitations as described in this paper. India must
+choose appropriate technology based on the business vision
+and key objectives, instead of ‘solution searching for the
+problem’ approach. Risks and challenges in terms of
+financial stability, credit growth, payments modernization
+and customer experience highlighted in this paper need to
+be considered in designing the CBDC and appropriate
+solution needs to be arrived at. Interoperability is critical
+for successful adaptation and hence form of money needs
+to be separated from payment rails in CBDC design.
+Greenfield CBDC payment rails can be very expensive to
+build and onboard and hence CBDC design must leverage
+existing investments in payment modernization. India can
+be the thought leader and develop a purpose built CBDC
+solution, that can serve as model for other central banks in
+this journey.
+
+References
+1. Bank of England: Discussion Paper on Central Bank Digital
+Currencies. https://www.bankofengland.co.uk/research/digitalcurrencies
+2. People Bank of China: Progress of Research & Development of
+E-CNY in China. http://www.pbc.gov.cn/en/3688110/3688172/
+4157443/4293696/2021071614584691871.pdf
+3. Monetary Authority of Singapore: Project Ubin: Central Bank
+Digital Money. https://www.mas.gov.sg/schemes-and-initiatives/
+project-ubin
+
+CSIT (December 2021) 9(4):245–249
+4. Payments Canada: Project Jasper. https://www.payments.ca/
+industry-info/our-research/project-jasper
+5. European Central bank: Report on Digital Euro. https://www.ecb.
+europa.eu/pub/pdf/other/Report_on_a_digital_
+euro*4d7268b458.en.pdf
+6. BIS, Swiss National Bank, SNB: Project Helvetia, Wholesale
+CBDC experiment. https://www.bis.org/publ/othp35.htm
+7. Banque de France report on Central Bank Digital Currency.
+https://www.banque-france.fr/en/communique-de-presse/banquede-france-publishes-report-its-experiments-wholesale-centralbank-digital-currency-cbdc
+
+249
+8. Digital Dollar Project: Exploring a US CBDC. http://digi
+taldollarproject.org/wp-content/uploads/2021/05/Digital-DollarProject-Whitepaper_vF_7_13_20.pdf
+9. Central bank digital currencies: foundational principles and core
+features – Report by seven Central banks and Bank for International Settlements (BIS), https://www.bis.org/publ/othp33.htm
+10. Payment and Settlement Systems in India. https://www.rbi.org.in/
+scripts/PaymentSystems_UM.aspx
+11. Raghava Suresh Samudrala, Rodger Oates: Future of Digital
+Currencies White Paper. https://www.techuk.org/resource/
+techuk-publishes-future-of-digital-currencies-white-paper-1.html
+
+123
+
+

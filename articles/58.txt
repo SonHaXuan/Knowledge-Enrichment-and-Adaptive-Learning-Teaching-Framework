@@ -1,0 +1,1599 @@
+AABFJ | Vol. 17, No.1, 2023 Banerjee & Sinha | Promoting Financial Inclusion Central Bank Digital Currency
+
+Promoting Financial Inclusion through
+Central Bank Digital Currency: An Evaluation of
+Payment System Viability in India
+Srijanie Banerjee1 and Manish Sinha2
+
+Abstract
+The Reserve Bank of India (RBI) is considering introducing a Central Bank Digital Currency
+(CBDC). According to studies, India's financial system plays a significant role in the execution of
+the CBDC. India is at the forefront of technological advancements in digital payment methods.
+The central banks that support CBDC's design concept are susceptible to adaptations to the
+evolution of economic and financial systems. This study will highlight the potential of CBDC to
+boost financial inclusion. Quantitative regression analysis is being used to quantify the potential
+drivers of financial sector efficiency and stability to measure the impact of CBDC implementation
+on financial inclusion. The central bank should build the CBDC utilizing the Structural Vector
+Auto-Regression model while considering payment system visibility. The proposed study can help
+to identify the lags in attaining financial inclusion in India and to design CBDC. The proposed
+study can also establish the policymakers' role in maximizing benefits to the consumers. The study
+establishes the potential role of RBI in the smooth functionality of implementing CBDC. The study
+brings out the trend of the payment system in India that opens up the possibility of positive
+implementation of CBDC and its welfare to percolate among consumers.
+
+JEL Classification: D53, G53, E42
+Keywords: Central Bank Digital Currency, Financial Inclusion, Payment System, India
+
+1
+
+srijanie_banerjee@scmhrd.edu, Junior Research Scholar, Symbiosis International (Deemed University), Pune,
+India- 412115
+2
+manish_sinha@scmhrd.edu, Symbiosis Centre for Management & Human Resource Development, Symbiosis
+International (Deemed University), India-411057
+
+176
+
+AABFJ | Vol. 17, No.1, 2023 Banerjee & Sinha | Promoting Financial Inclusion Central Bank Digital Currency
+
+Introduction
+The way the economy functions has transformed along with the evolution of the human race. The
+medium of exchange, which has evolved from the barter system, which relies heavily on the
+coincidence of desires, to include precious metals, fiat money, and now digital currencies, is
+critical for all economic transactions. Currency in digital form has been available for quite some
+time. Still, one of the most unusual effects of the Great Financial Crisis was the creation of a virtual
+currency known as Bitcoin that does not depend on financial mediators (Böhme et al., 2015;
+Nakakmoto, 2008). Since Bitcoin's inception, there has been a consensus on whether or not it is a
+legitimate means of trade. However, the technology underlying it is considered groundbreaking,
+having applications in many fields, such as the execution of fiscal policies, budget management,
+public procurement systems, smart contracts, property rights, and so on (Legotin et al., 2018). In
+India's digital currency revolution, the RBI is designing a national digital currency (CBDC). CBDC
+design must be in line with the stated objectives of currency and payment system efficiency for
+monetary policy and financial stability. CBDC would be implemented in three stages: proof of
+concept, pilots, and eventually, widely. The RBI has researched CBDC's merits and cons. Financial
+stability, currency efficiency, and monetary policy must be considered when building the CBDC,
+according to new RBI research. Converting low-value cash transactions to digital, context-based
+retail payments, alternative authentication for digital payments, and a social media analytic
+monitoring tool help reduce CBDC implementation difficulties. CBDCs can benefit from these
+design features. India has never been a cryptocurrency or blockchain pioneer. The government has
+never demonstrated interest in legislating cryptocurrencies, despite many attempts. India just
+started taxing cryptocurrency gains at 30%.
+The payment system is a crucial component in the endeavor to raise the percentage of people who
+are financially included in the economy. India's payment sector has made significant progress in
+the last three decades due to the RBI's systemic initiatives and roadmaps (Mahesh A. and Ganesh
+Bhat S., 2022). RBI says India's leadership in digital payments since 2017–2018 is behind the
+digital currency's implementation. Rising smartphone use and internet access in India are fueling
+the Indian digital payment market. Mobile wallets, prepaid cards, and telco-based payment systems
+(Airtel Money and Vodafone M-Pesa) have all emerged in recent years. In India, 11 persistent
+payment banks (Airtel Payment Banks, PayTm, etc.) are used as mobile wallets. The government's
+2016 demonetization of the economy, which compelled residents in urban India to use digital
+payment systems, is another factor in the country's shift towards digital payment. Paytm's user
+base grew by 35% to 185 million three months after demonetization and reached 280 million by
+November 2017. (2017) The COVID-19 pandemic outbreak since 2020 has prompted people to
+use contactless digital payments instead of cash. (Singh,2022).
+One definition of financial inclusion describes it as the process of enabling access to relevant
+financial goods and services for all segments of society, but especially for those with limited
+resources and income, at a price that is fair and open to the public, via established mainstream
+institutions that are held to high standards of accountability and transparency (Chakrabarty, 2011).
+Where financial inclusion is a major issue, transaction accounts are promoted. Throughout recent
+decades, there has been a shift toward a greater emphasis on having a significantly larger number
+of active holders of transaction accounts, specifically those associated with public and private
+commercial banks. In other words, the goal of financial inclusion is to increase the number of
+people who have accounts that are actively used for transaction purposes (Allen et al., 2016). A
+number of studies (Donovan, 2012; Lichtfous et al., 2018) propose that digital money may be used
+
+177
+
+AABFJ | Vol. 17, No.1, 2023 Banerjee & Sinha | Promoting Financial Inclusion Central Bank Digital Currency
+
+to promote financial inclusion. But in a country like India, where the literacy rate is 74.04%
+(Literacy Rate of India 2022-List of States & Union Territories by Literacy Rate, n.d.), the
+hindrance towards the use of digital currency is that consumers really ought to commit passwords
+like Pin Code or One Time Password (OTP) to memory (Brunnermeier et al., 2019). If not,
+consumers may need to hire an agent, who may be unavailable or charge a fee. When there's a
+problem, the customer may have to wait hours to speak to someone. Under certain conditions,
+consumers may have to contribute to communication, making it expensive for those with financial
+problems. Cash has various advantages over digital money. Cash doesn't require passwords, it's
+easy to understand, and it's culturally related to people's lives. The number of persons in the
+country with a formal account rose from 35% in 2011 to 53% in 2014 to 80% in 2017, according
+to the World Bank's Findex 2017 Report. This rise occurred in the last five years (Global Finance
+2017, 2021). This success is mostly due to PMJDY3, India's primary financial inclusion program.
+This program and India's financial sector authorities' favorable environment are largely responsible
+for the increase. Financial literacy will be key to ensuring that people use appropriate formal
+financial services to ensure their financial well-being and further the benefits of financial inclusion
+efforts. This is needed to advance the benefits of financial inclusion programs (Reserve Bank of
+India, Reports, n.d.). The importance of digital currency for the dependents of how financial
+transactions take place comes from how the benefits can be reaped by non-account holders. The
+government can keep control of digital money if the Central Bank Currency is implemented, it
+keeps criminals at bay, and there is a possibility of being anonymous to preserve the privacy of the
+users. But the idea of perfect anonymity, on the other hand, is implausible. Because of this, digital
+money should not only secure the privacy of its users, but also be able to help people avoid crimes.
+If the Central Bank Digital Currency does not fulfil design requirements for anti-money
+laundering, countering terrorist funding, and tax avoidance, it will be rejected in general. Bank
+systems and digital wallets are all part of the project's overall development. Also included are
+identity identification and large data analysis systems, as well as security chips (Huang et al.,
+2022). The effectiveness of any payment system is reliant on its acceptance, the infrastructure
+required to sustain it, and the legislation around it, i.e., if it is cost-effective and craters to mass
+acceptance. The Indian economy's reliance on digital wallets like UPI may affect financial
+inclusion. This study explores how RTGS and Retail, prepaid payment instruments, and card
+payments (including debit and credit card transactions) would interact to determine the currency's
+overall value in securing financial inclusion. Time series analysis is employed. These measures
+improve digital transaction efficiency, acceptance, and infrastructure. By minimizing a general
+Euclidean Distance, linear programming can fit quantile regression models. Quantile regression is
+an effective research method. Social scientist software can easily fit quantile regression models
+(Yu, Lu, & Stander, 2003). Structural vector autoregressions (SVARs) are crucial for
+macroeconomic research (SVARs). Multivariate linear autoregressive equations describe
+economic dynamics. These correlations can be estimated using a limited set of limitations (socalled shock identification), and the variables can be represented as linear functions of current and
+previous structural shocks. Imperative response functions illustrate how model variables respond
+dynamically to system shocks. Short-term, long-term, and sign constraints are some ways to
+determine structural shocks (Gottschalk, 2001; Pfaff, 2008).
+The regulatory framework is also examined in this research. The research has been divided up into
+six different sections. In addition to the introduction, there is a review of the previous research, a
+methodology section, an analysis section, a discussion section, and a conclusion section.
+
+178
+
+AABFJ | Vol. 17, No.1, 2023 Banerjee & Sinha | Promoting Financial Inclusion Central Bank Digital Currency
+
+Review of Literature
+Theoretical Issues
+Based on LexisNexis News & Business's coverage of over 660 million news items from 2015–
+2021, Wang et al. (2022) developed two new indices to measure the uncertainty and interest in
+Central Bank Digital Currency (CBDC) (CBDCAI). Both indices rose in response to CBDC and
+digital currency news. MSCI World Banks Index, USEPU, and FTSE All-World Index have a
+negative relationship with CBDC volatility, while cryptocurrency, foreign exchange, bonds, VIX,
+and gold have positive relationships. CBDC uncertainty has a higher impact on the financial
+markets than CBDC attention.
+In the paper, Bofinger and Haas (2020) examine central bank digital currencies from a systemic
+viewpoint (CBDC). An examination of how CBDC plans might fit into the current ecosystem of
+national, superregional, and worldwide payment systems is necessary from a systemic viewpoint.
+We use a price-theoretical banking model to examine the effects of CBDCs on private non-banks,
+allowing them to choose between holding bank deposits and CBDCs. A store-of-value CBDC
+option is available in addition to CBDC payment items. It's possible that central banks may build
+a payment system without introducing a new payment object, as is the case with most CBDC ideas.
+Piazzesi, M., and Schneider, M. (2020), examine the economic benefits of implementing a digital
+currency issued by the central bank (CBDC). Because CBDC is a novel product, it might have
+challenges with both commercial banks in the context of deposits and credit lines used to make
+payments in the market for liquidity. A central bank offering CBDC but not offering credit lines
+would conflict with the current payment system's complementary relationship between credit lines
+and deposits. The introduction of CBDC may actually reduce well-being because it dilutes the
+benefits of new technology that makes deposits more affordable. Stable coins and other "depositonly" types of liquidity supply face the same criticism.
+In the study by Matsui and Perez, (2021), a number of machine learning methodologies are used
+to establish how much financial and strategic factors influence the development of Central Bank
+Digital Currencies (CBDC) in a nation. The CBDC project index (CBDCPI) is used as a measure
+of this development, as the authors established in this study. Our model's most essential element
+is a measure of the country's financial progress, followed by a measure of its GDP per capita and
+a measure of its people's capacity to speak out and hold government officials accountable.
+According to an earlier qualitative study, nations with a high level of financial development or
+digital infrastructure have more established CBDC programs. We also get good results when trying
+to forecast the CBDCPI over time.
+Digital payments are now a standard feature of all financial transactions (Gupta, N. K., 2002). In
+a cashless world, digital money replaces banknotes and coins. ICICI Bank was the first to offer
+online banking in India, and Digi Bank is leading the way in digitalizing its transactional services.
+In the context of a two-tiered monetary system, Niepelt (2020) evaluates the central bank's policy
+choices for reserves and retail CBDC, which are issued by banks not in direct competition but with
+one another. Currency costs and liquidity vary. The best policy rules are developed using a
+business cycle model with "pseudo wedges." Spreads must meet modified Friedman rules for
+taxing or subsidizing deposits. Our extension of Brunnermeier and Niepelt's (2019) work on
+
+179
+
+AABFJ | Vol. 17, No.1, 2023 Banerjee & Sinha | Promoting Financial Inclusion Central Bank Digital Currency
+
+CBDC's macro irrelevance shows that a deposit payment system requires higher taxes. The model
+predicts that U.S. banks received implicit yearly subsidies of 0.8% of GDP during 1999–2017.
+CBDC must have a well-defined niche in the payment environment to be embraced and used
+efficiently, according to Jiang, J. H. (2020). Consider CBDC as "better cash" that reduces the costs
+of carrying and storing currency and allows electronic transactions, but retains cash's benefits.
+Universal accessibility, low transaction costs, great privacy, and robust offline capabilities may be
+part of a CBDC's design. Due to network effects, CBDC as a P2B payment mechanism will only
+be embraced if consumers and merchants benefit from the switch. P2P may boost consumer P2B
+usage.
+Digital payments have seized a major slice of the Indian payments pie in recent years, and this
+trend is projected to continue. The cash-to-paper changeover began. The Reserve Bank of India
+and its main institutions are working to realize the "Digital India" goal. With roughly a billion
+cards and more than two billion PPIs, India has one of the world's fastest-growing and largest
+digital payment infrastructures. E-commerce was driven by the rapid proliferation of internet
+infrastructure. UPI is a game-changing payment method for retail digital payments. This article
+focuses on India's digital payment business. According to a new study, the National Payment
+Corporation of India's (NPCI) 2016 UPI deployment boosted digital payments in India.
+Government rules, regulator intent, societal behavior, more smartphone use, decreased internet
+costs, and other factors have all led to the expansion of the digital payment industry by providing
+consumers and companies with safe, quick, cost-effective, and secure payment choices (Mahesh
+A. and Ganesh Bhat S., 2022).
+The financial industry supports the economy. Through banking sector reforms, the government
+and central banks aim for economic and price stability. In 2016, the RBI began targeting inflation.
+The Reserve Bank of India may introduce Central Bank Digital Currency (CBDC) in stages (RBI).
+This article shows how policy and loan rates affect the RBI's operational objectives, namely
+monetary reserves (RBI). Using R's decision tree classification modelling and time series
+regression analysis, we can assess if current banking rates affect money growth and our monetary
+base projection. Introducing Central Bank Digital Currency into India's new currency would boost
+the country's economy (Bordo & Levin, 2017).
+The regulatory framework is also examined in this research. The research has been divided up into
+six different sections. In addition to the introduction, there is a review of the previous research, a
+methodology section, an analysis section, a discussion section, and a conclusion section.
+Empirical Issues
+Financial inclusion and exclusion research lacks consensus on the index or indices that assess
+financial inclusion and exclusion in different nations (Ozili, 2021). Financial inclusion
+measurement is crucial for financial planning goals. A thorough measure of financial inclusion
+and exclusion allows for country and regional comparisons, which are crucial for assessing
+investments and growth.
+Many governments have adopted digital money as a tool to speed the deployment of inclusive
+financial systems to bridge financial disparities between the wealthy and the disadvantaged, as
+well as between rural and urban areas, and to handle financial settlement concerns. More than 80%
+of the countries in the world are looking into CBDCs as a way to use digital money.
+
+180
+
+AABFJ | Vol. 17, No.1, 2023 Banerjee & Sinha | Promoting Financial Inclusion Central Bank Digital Currency
+
+Industrialized and rising economies are leading this trend. According to Benni and CliffordChance (2021), another concern about digital currency proliferation is COVID-19.
+This trend boosts "central banks' digital currencies" (CBDCs). CBDCs are central bank-issued,
+government-backed cryptocurrencies. CBDCs can transact money. They reduce volatility risk by
+providing a digital platform for legally controlled financial transactions.
+The financial industry supports the economy. Through banking sector reforms, the government
+and central banks aim for economic and price stability. In 2016, the RBI began targeting inflation.
+The Reserve Bank of India may introduce Central Bank Digital Currency (CBDC) in stages (RBI).
+This article shows how policy rates and loan rates affect the RBI's operational objectives, namely
+monetary reserves (RBI). Using R's decision tree classification modeling and time series
+regression analysis, we can assess if current banking rates affect money growth and our monetary
+base projection. Introducing Central Bank Digital Currency into India's new currency would boost
+the country's economy (Bordo & Levin, 2017).
+
+Methodology
+Model
+We adopt a model similar to that developed by Demir et al. (2020) and Altunbas and Thornton
+(2019) to assess the influence of digital payment on financial inclusion in India. The model is
+defined as :
+(FINANCIAL INCLUSION)t = β0 + ∑𝑛𝑝=1
+
+β1 (DIGITAL PAYMENT)k,t + β2 Xp,t + εt
+
+(1)
+
+The equation refers to FINANCIAL INCLUSION at a time 't' where DIGITAL PAYMENT refers
+to the diversified practices engaged for financial transactions in India. Xp,t are the various control
+variables that impact the payment system and hence indirectly relate to financial inclusion. εt is
+the disturbance term while β0, β1 and β2 are the regression coefficients. In India, digital payments
+are divided into four categories: RTGS, Retail, Card Payment, and Prepaid Payment Instruments.
+These make up the digital money equation (1). Several pieces of literature highlight population
+growth, GDP, inflation, and education as control variables ( Demir et al., 2020; Shree et al., 2021;
+Okonkwo and Nwanna, 2021). Our study ignores how economic development affects digital
+payments. Thus, the model is explicitly arranged as
+(FINANCIAL INCLUSION)t = β0 + β1 Credit Payment - RTGSt + β2 Credit Payment - Retailt +
+β3
+
+Card Payment + β4 Prepaid Payment Transactionst + εt
+
+(2)
+
+Equation (2) demonstrates the incorporation of digital financial systems in an economy that
+requires it to act as a composite for attaining inclusion.
+The contribution in the form of VAR in its reduced version does not have a straightforward
+explanation in economics. To decipher the simultaneous relationship that exists between the
+variables in the model, SVAR models rely on economic theory to do the basic functions. Shocks
+to levels in a series have no long-term influence if the data we're studying is level-stationary. We
+
+181
+
+AABFJ | Vol. 17, No.1, 2023 Banerjee & Sinha | Promoting Financial Inclusion Central Bank Digital Currency
+
+need at least one variable to be non-stationary in levels for the model to be estimated, but after
+applying differences, the variables must be in a stationary form.
+The challenge in the model is to identify purely exogenous shocks. Suppose we have the following
+SVAR(1) as
+AXt = βo +β1Xt-1 +ut; where structural shocks u are independent. (3)
+X has 5 variables such that Xt =
+
+The variance-covariance matrix must be examined in further aspects in order to fully comprehend
+SVAR models. Endogenous variables' variances and errors' covariances may be found on their
+diagonal and off-diagonal components. The covariances reveal the instantaneous interactions
+between the variables. When using normal VAR models, the covariance matrices are symmetric,
+which means that entries to the right and up the diagonal (the "upper triangular") mirror each other
+(the "lower triangular"). A correlation between endogenous variables only reveals correlations, not
+causative links, and this is reflected in this statement.
+Impulse response analysis silhouette the dynamic effects of anatomical shocks on the endogenous
+variables. Shocks have an influence on one system variable at impact t, and then on t+1, and so
+on. Each response function takes the shock influence into account. All other variables prior to t are
+maintained constant in this model's Impulse Response function (Yaffee,2008). Grid graphs
+displaying the individual reactions of each variable to a shock administered over a predetermined
+time period are the most common means of interpreting impulse responses.
+Decomposition of the prediction error variance into the contributions from distinct exogenous
+shocks is an aspect of structural analysis known as "FEVD" (forecast error variance
+decomposition). Shocks are essential because they explain a model's fluctuation in the variables,
+and thus show how important a shock is.
+Forecast error variance decompositions are often shown as either a bar graph or an area graph, like
+impulse response functions. The graph shows the distribution of error variance across shocks to
+all of the variables at each point in time.
+
+182
+
+AABFJ | Vol. 17, No.1, 2023 Banerjee & Sinha | Promoting Financial Inclusion Central Bank Digital Currency
+
+The best linear forecast of yt+i based on information available at time t is
+yt+i|t = μ + Ψiut + Ψi+1ut−1 + … (4)
+and the forecast error is
+yt+i − yt+i|t = ut+i + Ψ1ut+i−1 + ··· + Ψi−1ut+1. (5)
+Data
+Ozil (2021) created a financial inclusion rate (RFI). The research separates the financial inclusion
+rates in urban and rural areas. The estimations are easily derived from financial data in most
+emerging nations. In this study, the technique served as the foundation for constructing the
+financial inclusion index. The size of the financial sector can be estimated using many indices,
+such as the ratio of financial system deposits to GDP, bank deposits to GDP, and M2 to GDP. We
+used M2/GDP to measure our banking sector. Because India is a cash-based economy, M2 more
+properly reflects the size of the financial system than deposits do because most people in the rural
+sector don't have bank accounts. Four distinct elements affect India's digital payment. Credit
+Transfer-RTGS includes customer and interbank transactions. Credit Transfer-Retail comprises
+AeTs, ECS, IMPS, NACH, NEFT, and UPI. Credit and debit cards can be used to buy cards. Debit
+cards have PoS. Prepaid payment tools include wallets, cards, and PoS-based devices. During data
+extraction, the volume of transactions is emphasized above their value because it better reflects
+people's inclination to use digital transfers. We use 2011-2012 (Q1) to 2021-2022 quarterly data
+(Q4). All data comes from the RBI (RBI). Q.R. and SVAR are used for analysis. Quantile
+Regression is an extension of Linear Regression utilized when its conditions aren't met. Vector
+Auto-Regressive (VAR) models multilinear time series. Such models can't express simultaneous
+variable connections by default. In impulse response analysis, it's important to recognize the
+simultaneous effects of economic disturbances. Cholesky decomposition errors determine their
+correlation. Organizing the model's variables is crucial. SVAN provides a more cohesive
+relationship between simultaneous variables (Pfaf, 2008). R software powers statistical
+programming (Tibshirani et all, 2013).
+
+Analysis
+This section explores the results of the influence that digital payment has had in India in bringing
+about financial inclusion. The financial inclusion in Figure (1), is witnessed to have increased
+throughout 2011. However, there is a fall in the growth in the Q3 and Q4 of the financial year
+2016-2017 to 0.810 units. But thereafter, there is a steep positive rise, with its boom in the Q4 of
+the financial year 2019-2020 to 1.64 units.
+
+183
+
+AABFJ | Vol. 17, No.1, 2023 Banerjee & Sinha | Promoting Financial Inclusion Central Bank Digital Currency
+
+Figure 1: Growth of Financial Inclusion in India 2011: 1 - 2021:4
+Source(S): Author's Calculation
+
+Figure 2, Figure 3, and Figure 4 shows the exponential growth in the usage of digital payment
+throughout the relevant period of study, possibly to credit the development of financial inclusion
+in India.
+
+Figure 2: Growth Of Credit Transfers -Rtgs In India 2011: 1 - 2021:4
+Source(S): Reserve Bank of India
+
+184
+
+AABFJ | Vol. 17, No.1, 2023 Banerjee & Sinha | Promoting Financial Inclusion Central Bank Digital Currency
+
+Figure 3: Growth Of Credit Transfers -Retail In India 2011: 1 - 2021:4
+Source(S): Reserve Bank of India
+
+Figure 4: Growth Of Card Payment In India 2011: 1 - 2021:4
+Source(S): Reserve Bank of India
+
+185
+
+AABFJ | Vol. 17, No.1, 2023 Banerjee & Sinha | Promoting Financial Inclusion Central Bank Digital Currency
+
+Figure 5: Growth Of Prepaid Payment Instruments In India 2011: 1 - 2021:4
+Source(S): Reserve Bank of India
+
+Descriptive Statistics
+Table 1 presents the descriptive interpretations of the variables. The presence of outliers is
+prominent in the data as depicted in Figure 6 hence reducing the possibility of cratering the OLS
+regression.
+
+Figure 6: Box Plot representing the presence of the Outliers
+
+The data remains skewed towards the left for all variables. The normality is checked through the
+Jarque- Bera test (Jarque and Bera; 1987). The null hypothesis states as (Ho:) data is normally
+distributed. We would reject the null hypothesis for financial inclusion, Credit Transfer -Retail,
+186
+
+AABFJ | Vol. 17, No.1, 2023 Banerjee & Sinha | Promoting Financial Inclusion Central Bank Digital Currency
+
+and Card Payment. While in the case of Credit Payment - RTGS and Prepaid Payment Instruments
+fail to reject the null hypothesis.
+
+Financial
+Inclusion
+
+Credit
+Transfer
+RTGS
+
+Credit
+- Transfer
+Retail
+
+Card
+- Payment
+
+Mean
+
+1.0403
+
+Median
+
+Prepaid
+Payment
+Instruments
+
+97.16
+
+9734.7
+
+78075
+
+2139.5
+
+0.9449
+
+86.97
+
+3425.8
+
+8785
+
+1380.9
+
+Maximum
+
+1.6483
+
+197.21
+
+59639.5
+
+629057
+
+6415.5
+
+Minimum
+
+0.7974
+
+39.43
+
+371.8
+
+4462
+
+19.6
+
+Std. Dev.
+
+0.233
+
+38.089
+
+14831.46
+
+173714.2
+
+2056.282
+
+Skewness
+
+1.234
+
+0.771
+
+2.005
+
+2.288
+
+0.391
+
+Kurtosis
+
+3.37
+
+3.098
+
+6.106
+
+6.681
+
+1.665
+
+Jarque- Bera
+
+0.003
+
+0.1116
+
+5.565e-11
+
+1.843e-14
+
+0.1115
+
+Observations
+
+44
+
+44
+
+44
+
+44
+
+44
+
+Table 1: Descriptive Statistics
+Source(s): Authors' extraction from the empirical data
+
+Autocorrelation mapping and Unit Root Test
+While analyzing time series, one may use the autocorrelation function (ACF) to find correlations
+between consecutive data. ACF is the average variance of each succeeding observation. As a result,
+the degree to which scores at one point in time are predictive of scores at a subsequent point in
+time is known as the "autocorrelation" of scores. The autocorrelation function uses "lags," which
+are often regarded as measurement intervals interpreted as time, to evaluate the correlation
+between data. Each correlation is a function of the shared variance between the variable's value at
+a certain moment in time and the value of the delayed variable (Taylor, 1990).
+
+187
+
+AABFJ | Vol. 17, No.1, 2023 Banerjee & Sinha | Promoting Financial Inclusion Central Bank Digital Currency
+
+Figure 7: Autocorrelation Mapping
+Source(s): Authors' extraction from the empirical data
+
+From 2011 to 2021, we ran a unit root test on our quarterly data. The results are shown in Table 2.
+Augmented Dickey-Fuller (ADF) was utilized to answer empirical questions regarding spurious
+stationarity caused by weak and power size failures. Findings demonstrate variables are nonstationary at levels. Any policy or suggestion based on estimates of these variables will be
+prejudiced.
+As outlined in theory, the autoregressive distributed lag technique in estimation can only be used
+if there are no stationary variables in a model that is greater than order 1 (Ekong and Mbobo,
+2021). Nonetheless, our primary goal is to examine the role of digital banking in India's financial
+inclusion, utilizing quantile regression in a stepwise forward approach developed in this
+experiment. Using this method, the study examines how each additional variable affects financial
+inclusion.
+Variables
+
+ADF (p-value)
+
+Lag
+Order
+
+Financial Inclusion
+
+0.9775
+
+3
+
+Credit Transfer -RTGS
+
+0.99
+
+3
+
+Credit Transfer -Retail
+
+0.99
+
+3
+
+Card Payment
+
+0.5033
+
+3
+
+Retail Payment Instruments
+
+0.5664
+
+3
+
+Table 2: Unit Root Results
+Source(s): Authors extraction from the empirical data
+
+188
+
+AABFJ | Vol. 17, No.1, 2023 Banerjee & Sinha | Promoting Financial Inclusion Central Bank Digital Currency
+
+Quantile Regression Model
+The Quantile Regression (Q.R.) approach is devised to examine the effect of digital payment on
+financial inclusion such that it can be a base for the implementation of CBDC. For the purpose of
+analyzing the simultaneous repercussions of the study, Q.R. is followed by the Structural Vector
+Auto-Regressive (SVAR) model.
+The model is defined as
+Qt(Yt) = β0 (𝜏)+ β1 (𝜏)xi1 + …………. + βp (𝜏)xip ; ∨ i = 1,2…n and p = 1,2,...n
+Here 𝜏 represents quantile. For our study, we consider the 1st and 3rd quantiles.
+hence our equation becomes
+(Fin_Inc)t(Digital Payments)t = 7.471079e-01 (0.25)+ 1.616902e-03 (0.25)RTGSi1
++ 6.365474e-06 (0.25)Retaili1 + 9.907315e-08 (0.25)CardPaymentsi1
++ 8.213177e-06 (0.25)Prepaid Payment Instrumentsi1
+In this case, we can conclude that for an increase of every unit of RTGS, Retail, Card Payment
+and Prepaid payment Instruments, financial inclusion increased by 0.00162, 0.00001, 0.00000 and
+0.00001, respectively Table 2. However, the question arises whether these variables are
+contributing significantly or not to express the financial inclusion depends on the p-value. In the
+specific study, no variables respond significantly to express financial inclusion. Thereupon, we
+perform our test for 𝜏 = 0.75
+(Fin_Inc)t(Digital Payments)t = 7.926446e-01 (0.75)+ 1.322526e-03 (0.75)RTGSi1
++ 8.732443e-06 (0.75)Retaili1 + 4.225839e-07 (0.75)CardPaymentsi1
++ 1.997543e-05 (0.75)Prepaid Payment Instrumentsi1
+As can be seen in Table 3, there is an increase in the rate of financial inclusion of 0.00132, 0.00001,
+0.00000, and 0.00002 per unit of RTGS, Retail, Card Payment, and Prepaid payment instruments,
+correspondingly. As for whether factors are significant, the p-value determines whether or not they
+contribute to financial inclusion, where no factors responded substantially. The quantile regression
+does not respond positively to finding the significant effect of financial inclusion. As a result, the
+study continues with more statistical research.
+In Figure 7, the coefficients of the variables are shown by a black dotted line, while the shaded
+region indicates the lower and higher confidence intervals of the quantile regression results. The
+solid red line depicts the OLS estimator, while the dotted red line represents the estimations' 95%
+confidence interval.
+
+189
+
+AABFJ | Vol. 17, No.1, 2023 Banerjee & Sinha | Promoting Financial Inclusion Central Bank Digital Currency
+
+Figure 8: Graphical Representation of the Quantile Regression
+Source: Authors' extraction from the empirical data
+
+Structural Vector Autoregression (SVAR) Model
+We build up a model constraint in the form of a matrix that depicts the simultaneous correlations
+that affect the variables. We assume simultaneous effects in the VAR and identify the SVAR using
+matrix limitations. The 5×5 identity matrix has diagonal components representing parameter
+variance and off-diagonal elements representing variable covariance. The study's matrix is based
+on economic intuitions that the behavior of digital payment systems is linked to financial inclusion
+shocks and can be used to implement CBDC. The elements in the lower triangle of the matrix are
+now an ace in that they can be unconstrained regardless of the system's coefficients. The higher
+triangular zeros prevent the dependent variable from being impacted by the independent variables
+in the same period.
+
+190
+
+AABFJ | Vol. 17, No.1, 2023 Banerjee & Sinha | Promoting Financial Inclusion Central Bank Digital Currency
+
+[,1]
+
+[,2]
+
+[,3]
+
+[,4]
+
+[,5]
+
+[,1]
+
+1
+
+0
+
+0
+
+0
+
+0
+
+[,2]
+
+NA
+
+1
+
+0
+
+0
+
+0
+
+[,3]
+
+NA
+
+NA
+
+1
+
+0
+
+0
+
+[,4]
+
+NA
+
+NA
+
+NA
+
+1
+
+0
+
+[,5]
+
+NA
+
+NA
+
+NA
+
+NA
+
+1
+
+Table 3: The Variance Covariance Matrix
+Source: Authors extraction from the empirical data from R software
+
+The lag selection criteria are an important feature while deciding the model of SVAR. For the
+particular data, the lag is 7.
+AIC(n)
+
+HQ(n)
+
+SC(n)
+
+7
+
+7
+
+7
+
+Table 4: The Lag Selection
+Source: Authors extraction from the empirical data from R software
+
+FIN_INC
+
+Credit
+Transfer
+RTGS
+
+Credit
+Transfer
+Retail
+
+Card Payment Prepaid
+Payment
+Instruments
+
+FIN_INC
+
+1.0000
+
+0
+
+0
+
+0
+
+0
+
+Credit Transfer
+RTGS
+
+0.10000
+
+1.0000
+
+0
+
+0
+
+0
+
+Credit Transfer
+Retail
+
+0.09996
+
+0.09964
+
+1.0000
+
+0
+
+0
+
+Card Payment
+
+-0.80789
+
+-0.82343
+
+-8.9622
+
+1.0000
+
+0
+
+Prepaid Payment 0.14898
+Instruments
+
+0.15008
+
+0.7485
+
+-8.9622
+
+1.0000
+
+Table 5 : SVAR Estimation Results:
+Source : Authors extraction from the empirical data from R software
+
+191
+
+AABFJ | Vol. 17, No.1, 2023 Banerjee & Sinha | Promoting Financial Inclusion Central Bank Digital Currency
+
+FIN_INC
+
+FIN_INC
+
+Lower Band, CI= 0.95 Upper Band, CI= 0.95
+
+[1,]
+
+1
+
+1
+
+1
+
+[2,]
+
+-3.687055
+
+-3.879782
+
+-3.286692
+
+[3,]
+
+2.408254
+
+1.065737
+
+2.932908
+
+[4,]
+
+14.769527
+
+12.772582
+
+17.118067
+
+[5,]
+
+8.000838
+
+6.397015
+
+10.05254
+
+[6,]
+
+-2.059308
+
+-3.937012
+
+0.736139
+
+[7,]
+
+4.323681
+
+2.540064
+
+7.621122
+
+[8,]
+
+17.859756
+
+12.785003
+
+21.079224
+
+[9,]
+
+4.975305
+
+2.722382
+
+9.034246
+
+[10,]
+
+24.981088
+
+18.165491
+
+28.762238
+
+[11,]
+
+5.196459
+
+1.710408
+
+12.994393
+
+Table 6: Impulse response coefficients of Financial Inclusion on Financial Inclusion
+Source: Authors extraction from the empirical data from R software
+
+Figure 9: Graphical Representation of the Impulse Response of Financial Inclusion on Financial Inclusion
+Source: Authors' extraction from the empirical data
+
+192
+
+AABFJ | Vol. 17, No.1, 2023 Banerjee & Sinha | Promoting Financial Inclusion Central Bank Digital Currency
+
+There are short downward oscillations in the trend, but overall, the long-term research shows an
+increasing trend, confirming that financial inclusion will rise. This is a favorable response to India's
+financial inclusion.
+FIN_INC
+Credit Transfer - RTGS Lower Band, CI= 0.95 Upper Band, CI= 0.95
+[1,]
+
+0.000000000
+
+0.000000000
+
+0.000000000
+
+[2,]
+
+-0.010447591
+
+-0.011164710
+
+-0.007372756
+
+[3,]
+
+0.009401135
+
+0.000050720
+
+0.011596578
+
+[4,]
+
+0.067539330
+
+0.048344430
+
+0.073213360
+
+[5,]
+
+0.028841628
+
+0.018572980
+
+0.036855186
+
+[6,]
+
+-0.024586629
+
+-0.036767740
+
+-0.017553655
+
+[7,]
+
+0.003708424
+
+-0.005808518
+
+0.022851536
+
+[8,]
+
+0.054588328
+
+0.023469880
+
+0.065908127
+
+[9,]
+
+0.007542700
+
+-0.006993262
+
+0.040701757
+
+[10,]
+
+0.075540039
+
+0.017677420
+
+0.090542414
+
+[11,]
+
+-0.020962584
+
+-0.042523660
+
+0.051324723
+
+Table 7: Impulse response coefficients of Credit Transfer - RTGS on Financial Inclusion
+Source: Authors extraction from the empirical data from R software
+
+Figure 10: Graphical Representation of the Impulse Response of Credit Transfer - RTGS on Financial
+Inclusion
+Source: Authors' extraction from the empirical data
+
+193
+
+AABFJ | Vol. 17, No.1, 2023 Banerjee & Sinha | Promoting Financial Inclusion Central Bank Digital Currency
+
+To find the effect of the impulse of Credit Transfer from RTGS, in response to attain financial
+inclusion, cyclically varies in trend, implying that over time the dependence on RTGS becomes
+difficult for achieving financial inclusion.
+
+FIN_INC
+
+Credit Transfer - Retail Lower Band, CI= 0.95 Upper Band, CI= 0.95
+
+[1,]
+
+0.000000000
+
+0.000000000
+
+0.000000000
+
+[2,]
+
+0.000000000
+
+0.000000000
+
+0.000000000
+
+[3,]
+
+-0.000033682
+
+-0.000038829
+
+-0.000028519
+
+[4,]
+
+0.000096306
+
+0.000082070
+
+0.000112726
+
+[5,]
+
+0.000494645
+
+0.000458216
+
+0.000528947
+
+[6,]
+
+-0.000040211
+
+-0.000074411
+
+-0.000001024
+
+[7,]
+
+-0.000091798
+
+-0.000137335
+
+-0.000053457
+
+[8,]
+
+0.000033124
+
+-0.000010925
+
+0.000093865
+
+[9,]
+
+0.000190214
+
+0.000135038
+
+0.000263301
+
+[10,]
+
+0.000128331
+
+0.000046245
+
+0.000175066
+
+[11,]
+
+0.000051483
+
+-0.000086561
+
+0.000122190
+
+Table 8: Impulse response coefficients of Credit Transfer - Retail on Financial Inclusion
+Source: Authors extraction from the empirical data from R software
+
+Figure 11: Graphical Representation of the Impulse Response of Credit Transfer - Retail on Financial Inclusion
+Source(s): Authors' extraction from the empirical data
+
+194
+
+AABFJ | Vol. 17, No.1, 2023 Banerjee & Sinha | Promoting Financial Inclusion Central Bank Digital Currency
+
+Again, effective attention for drawing the conclusion of the impulse of Credit Transfer - Retail in
+attaining
+Impulse response coefficients increase over time, but there is a downtrend in the foreseeable future.
+FIN_INC
+
+Card Payment
+
+Lower Band, CI= 0.95 Upper Band, CI= 0.95
+
+[1,]
+
+0.000000000
+
+0.000000000
+
+0.000000000
+
+[2,]
+
+-0.000038514
+
+-0.000040453
+
+-0.000036298
+
+[3,]
+
+0.000023711
+
+0.000017341
+
+0.000029639
+
+[4,]
+
+0.000129877
+
+0.000112113
+
+0.000146533
+
+[5,]
+
+0.000080043
+
+0.000064171
+
+0.000094825
+
+[6,]
+
+0.000001312
+
+-0.000017449
+
+0.000021485
+
+[7,]
+
+0.000051958
+
+0.000035196
+
+0.000084246
+
+[8,]
+
+0.000185362
+
+0.000156388
+
+0.000211972
+
+[9,]
+
+0.000089874
+
+0.000070545
+
+0.000122132
+
+[10,]
+
+0.000262538
+
+0.000223276
+
+0.000295759
+
+[11,]
+
+0.000096646
+
+0.000062104
+
+0.000152833
+
+Table 9: Impulse response coefficients of Card Payment on Financial Inclusion
+Source: Authors extraction from the empirical data from R software
+
+Figure 12: Graphical Representation of the Impulse Response of Card Payment on Financial Inclusion
+Source: Authors' extraction from the empirical data
+
+195
+
+AABFJ | Vol. 17, No.1, 2023 Banerjee & Sinha | Promoting Financial Inclusion Central Bank Digital Currency
+
+To discuss the progress of card payment in accomplishing the financial inclusion target, card
+payment plays a crucial role with a generic upended movement establishing the dependency of the
+economy on both credit and debit cards.
+FIN_INC
+
+Prepaid
+Transfers
+
+Payment
+
+[1,]
+
+0.000000000
+
+0.000000000
+
+0.000000000
+
+[2,]
+
+-0.000520760
+
+-0.000540512
+
+-0.000482052
+
+[3,]
+
+0.000325350
+
+0.000213098
+
+0.000373433
+
+[4,]
+
+0.001855769
+
+0.001586007
+
+0.002041074
+
+[5,]
+
+0.001045298
+
+0.000826071
+
+0.001233377
+
+[6,]
+
+-0.000014172
+
+-0.000302842
+
+0.000149218
+
+[7,]
+
+0.000675947
+
+0.000411133
+
+0.001023420
+
+[8,]
+
+0.002492629
+
+0.002084248
+
+0.002751784
+
+[9,]
+
+0.001205232
+
+0.000940876
+
+0.001582261
+
+[10,]
+
+0.003553617
+
+0.002954211
+
+0.003913244
+
+[11,]
+
+0.001197750
+
+0.000746046
+
+0.001650759
+
+Lower Band, CI= 0.95 Upper Band, CI= 0.95
+
+Table 10: Impulse response coefficients of Prepaid Payment Instruments on Financial Inclusion
+Source: Authors extraction from the empirical data from R software
+
+Figure 13: Graphical Representation of the Impulse Response of Prepaid Payment Instruments on Financial
+Inclusion
+Source: Authors extraction from the empirical data
+
+196
+
+AABFJ | Vol. 17, No.1, 2023 Banerjee & Sinha | Promoting Financial Inclusion Central Bank Digital Currency
+
+Finally, the most crucial variables which directly link to the implementation of CBDC gradually
+move upwards in the forthcoming periods by attaining financial inclusion.
+We plot the Forecast Error Variance Decompositions that determine the amount of the variability
+in the errors in predicting y1 and y2 at time t + i based on the knowledge available at time t that is
+attributable to the variation in the structural shocks 1 and 2 between times t and t + i .
+Discussion
+Card and Prepaid Payments have positive effects. If the country maintains its present level of
+digital currency use until 2025, it may be able to deploy CBDC. The study is like the takeout and
+development needed to make digital money more stable to permit growth (Ekong & Ekong, 2022).
+With the payment system taking a jump, digital currency growth demands a dedicated effort to
+digitally smooth out finances to support sustainable growth. According to Ayuso and Conesa
+(2020), increasing monetary policy (M.P.) efficacy is not a major motivation for CBDCs, and the
+impact on M.P. transmission will depend greatly on CBDC design. Repercussions include bank
+reserve management and disintermediation. Physical cash and CBDC will likely coexist in the near
+future, regardless of design. Researchers advocate for efforts to avoid financial cybercrime, fix
+systemic network faults, and build pro-poor digital banking products (Wang et al., 2022).
+Substituting cash for CBDC offers up future study possibilities (Bofinger & Haas, 2020). Our
+study shows that digital currency outlets are extremely valuable for financial inclusion in India
+and other developing countries. All of these channels are related to India's payment system and
+have the potential to create the CBDC. It is critical to discuss the numerous analytic frameworks
+of central bank digital currency monetary policy paths developed by economists who have studied
+CBDC issuances, designs, and applications of unexplored areas in incorporating banking literacy
+rates and involving the non-account holder segment (Bhowmik, 2022).
+As consumers grow more aware of digital money, consumer alignment shifts the percentage of
+digital financial solutions on the market. Increasing the quantity of digital currency-using goods
+in the financial system would promote financial inclusion. In this situation, the CBN's support of
+retail options for e-currency growth should be praised. This will make it easier for consumers to
+construct electronic wallets, easing digital transactions throughout the country.
+The research findings included an in-sample projection of India's financial inclusion in the future.
+Users can quickly see uncertainty based on sequential distribution simulations or pre-calculated
+quartiles of distributions. Fanplot's straightforward design allows this. Net elicit features
+interactive chart visualizations. The R demo with the package forecast (RStudio and Inc., 2014;
+Guy, 2015) shows an increase in RTGS, Card Payments, and Prepaid Payment Transactions.
+
+197
+
+AABFJ | Vol. 17, No.1, 2023 Banerjee & Sinha | Promoting Financial Inclusion Central Bank Digital Currency
+
+Figure 14: Forecast Analysis of the Payment System until 2025
+Source(s): Authors' extraction from the empirical data
+
+198
+
+AABFJ | Vol. 17, No.1, 2023 Banerjee & Sinha | Promoting Financial Inclusion Central Bank Digital Currency
+
+Previous CBDC projects and pertinent research would also be considered. Two important design
+alternatives are:
+(1) Whether the CBDC should be wholesale or retail, and (2) Whether an account-based or tokenbased CBDC is compatible with data usage and availability. It's important to visualize wholesale
+(including the central bank and external parties) and retail user cases (involving third parties and
+end users). This method needs to identify allowed third parties, which transactions will be recorded
+at the central bank, and who will handle user onboarding. Because direct model consumers have a
+direct claim on the central bank, no third-party CBDC distributors are needed (Usher et al., 2021).
+Conclusion
+This research evaluates the influence of digital currencies on India's financial inclusion between
+2011 and 2020. Digital money, or digital finance, is gaining popularity in the fight for global
+financial inclusion. Emerging economies like India must capitalise on this trend. The CBDCs'
+monetary system's function, economic success, and social acceptance are all debatable. If CBDC
+indices are associated with higher stock market volatility, and worse financial statement
+performances in policy-sensitive industries like energy, technology, and real estate, it opens up
+new study areas. It would be interesting to investigate if CBDC indices and monetary policy are
+linked using the VAR, DCC-GARCH, or VAR spillover connection model. CBDC indicators can
+be made more predictive. Building infrastructures to support CBDC growth, issuing and
+controlling the CBDC market, and guaranteeing compliance with and overseeing financial
+institutions all need more research. Individual users are another study option. CBDCs offer benefits
+and drawbacks to a country's consumers. Can CBDC's research generate results if other digital
+payment mechanisms have a larger market share? Regression quantifies a dependent variable and
+its associated variables. Standard regression has been a popular statistical method for decades.
+Quantile regression is a common approach to analysis in labour economics and macroeconomics.
+Buchinsky (1995; Demir et al. Value at risk (VAR) refers to the daily risk assessment that banks
+are required by law to produce. VAR models are the most popular way to measure market risk in
+finance (Lauridsen,2000). SVAR models analyse structural correlations between variables, such
+as simultaneous correlation or instrumental variable models, by constraining the covariance matrix
+and adding additional coefficient matrices as needed. This strategy heavily relies on researcher
+preconceptions. Even when supported by legitimate economic theory, many researchers find this
+too subjective. They may be useful, so investigate further (Wang et al., 2022). The research uses
+digital finance channels for developing nations like India that are largely recognised in
+development literature and demonstrates that digital finance's influence on financial inclusion in
+India is positive overall. To attain the necessary results, policy for development must include the
+arrest and prevention of financial cybercrime, the correction of systemic network failures, and the
+creation of more digitally friendly financial goods that appeal to the pro-poor group in terms of
+financial inclusion
+
+199
+
+AABFJ | Vol. 17, No.1, 2023 Banerjee & Sinha | Promoting Financial Inclusion Central Bank Digital Currency
+
+References
+Armas, A., Ruiz, L., & Vásquez, J. L. (2022). Assessing CBDC potential for developing
+payment systems and promoting financial inclusion in Peru. BIS Papers chapters, 123, 131151.
+Allen, F. Demirguc-Kunt, A., Klapper, L. & Peria, M.S.M. (2016). The foundations of
+financial inclusion: Understanding ownership and use of formal accounts. Journal of Financial
+Intermediation, 27, 1-30.
+https://doi.org/10.1016/j.jfi.2015.12.003
+Ayuso, J and C Conesa (2020): "An introduction to the current debate on central bank digital
+currency (CBDC)", Banco de España Occasional Paper no 2005, March.
+Benni, N. (2021), Digital Finance and Inclusion in the Time of COVID-19: Lessons,
+Experiences and Proposals, Food and Agriculture Organization of the United Nations (FAO),
+Rome, doi: 10.4060/ cb2109en (accessed 4 October 2021).
+Bernhard Pfaff (2008). VAR, SVAR and SVEC Models: Implementation Within R Package
+vars. Journal of Statistical Software 27(4).
+https://doi.org/10.18637/jss.v027.i04
+Bank for International Settlements (BIS) (2020), "Central bank digital currencies: foundational
+principles and core features", Report No 1. Basel, available at:
+https://www.bis.org/publ/othp33. pdf (accessed 20 September 2021).
+Bhowmik, D. (2022). Monetary policy implications of central bank digital currency with
+special reference to india. Asia-Pacific Journal of Management and Technology (AJMT), 2(3),
+1-8.
+https://doi.org/10.46977/apjmt.2022v02i03.001
+Bofinger, P., & Haas, T. (2020). CBDC: A systemic perspective (No. 101). WEP-Würzburg
+Economic Papers.
+Böhme, R., Christin, N., Edelman, B., & Moore, T. (2015). Bitcoin: Economics, technology,
+and governance. Journal of economic Perspectives, 29(2), 213-38.
+https://doi.org/10.1257/jep.29.2.213
+Bordo, M. D., & Levin, A. T. (2017). Central bank digital currency and the future of monetary
+policy (No. w23711). National Bureau of Economic Research.
+https://doi.org/10.3386/w23711
+Britton, E., P.G. Fisher and J.D. Whitley (1998), Inflation Report projections: understanding
+the fan chart, Bank of England Quarterly Bulletin, February, Bank of England, pages 30-37.
+
+200
+
+AABFJ | Vol. 17, No.1, 2023 Banerjee & Sinha | Promoting Financial Inclusion Central Bank Digital Currency
+
+Brunnermeier, M. K., James, H., & Landau, J. P. (2019). The digitalization of money (No.
+w26300). National Bureau of Economic Research.
+https://doi.org/10.3386/w26300
+Buchinsky,M. (1995) Quantile regression,Box-Cox transformation model,and the U.S. wage
+structure,1963- 1987. J. Econometr., 65,109-154.
+https://doi.org/10.1016/0304-4076(94)01599-U
+Chakrabarty, K. C. (2011). Financial inclusion and banks: Issues and perspectives. RBI
+Bulletin, November.
+Clifford-Chance (2021), "central bank digital currency and the theory of money - thought
+leadership", available at: www.cliffordchance.com (accessed 30 September 2021).
+Demir, A., Pesque-Cela, V., Altunbas, Y. and Murinde, V. (2020), "Fintech, financial
+inclusion and income inequality: a quantile regression approach", The European Journal of
+Finance, Vol. 10, pp. 1-22.
+https://doi.org/10.1080/1351847X.2020.1772335
+Donovan, K. (2012). Mobile money for financial inclusion. Information and Communications
+for development, 61(1), 61-73.
+https://doi.org/10.1596/9780821389911_ch04
+Ekong, U. M., & Ekong, C. N. (2022). Digital currency and financial inclusion in Nigeria:
+lessons for development. Journal of Internet and Digital Economics.
+https://doi.org/10.1108/JIDE-11-2021-0018
+Ekong, U.M. and Mbobo, E.U. (2021), "Monetary policy and domestic savings mobilization in
+Nigeria: evidence from an ARDL estimation", Asian Basic and Applied Research Journal,
+Vol. 4 No. 2, pp. 120-132.
+Global Finance (2021), "World's most unbanked countries 2021", available at:
+https://www.gfmag.com/ global-data/economic-data/ (accessed 26 September 2021).
+Gottschalk, J. (2001). An introduction into the SVAR methodology: identification,
+interpretation and limitations of SVAR models (No. 1072). Kiel working paper.
+Gupta, N. K. DIGITAL PAYMENTS IN INDIA: PROBLEMS & PROGRESS.
+Guy, A. (2015). Fanplot: An R package for visualising sequential distributions. The R Journal,
+7(1), 15-23.
+https://doi.org/10.32614/RJ-2015-002
+
+201
+
+AABFJ | Vol. 17, No.1, 2023 Banerjee & Sinha | Promoting Financial Inclusion Central Bank Digital Currency
+
+Huang, X., Yang, Z., & Zhou, C. (2022, July). The Development and Impact of Central Bank
+Digital Currency. In 2022 2nd International Conference on Enterprise Management and
+Economic Development (ICEMED 2022) (pp. 342-347). Atlantis Press.
+https://doi.org/10.2991/aebmr.k.220603.056
+James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical
+learning (Vol. 112, p. 18). New York: springer.
+https://doi.org/10.1007/978-1-4614-7138-7
+Jarque CM, Bera AK (1987). "A Test for Normality of Observations and Regression
+Residuals." International Statistical Review, 55, 163-172.
+https://doi.org/10.2307/1403192
+Jiang, J. H. (2020). CBDC adoption and usage: some insights from field and laboratory
+experiments (No. 2020-12). Bank of Canada.
+Lauridsen,S. (2000) Estimation of value of risk by extreme value methods. Extremes, 3,107144.
+https://doi.org/10.1023/A:1009979331996
+Lichtfous, M., Yadav, V., & Fratino, V. (2018). Can blockchain accelerate financial inclusion
+globally. From a core transformation/technology perspective. Part 02. Inside Magazine, Issue
+19. Available at:
+https://www2.deloitte.com/content/dam/Deloitte/lu/Documents/technology/lu-blockchainacceleratefinancial-inclusion.pdf
+Literacy Rate of India 2022 - List of States & Union Territories by Literacy Rate. (n.d.).
+Current Population of India 2022. Retrieved July 20, 2022, from
+https://www.indiacensus.net/literacy-rate.php
+Mahesh, A., & Bhat, G. (2022). India's Digital Payment Landscape-An Analysis. International
+Journal of Case Studies in Business, I.T. and Education (IJCSBE), 6(1), 223-236.
+https://doi.org/10.47992/IJCSBE.2581.6942.0161
+Matsui, T., & Perez, D. (2021). Data-driven analysis of central bank digital currency (CBDC)
+projects drivers. arXiv preprint arXiv:2102.11807.
+Nakamoto, S. (2008). Bitcoin: A peer-to-peer electronic cash system. Decentralized Business
+Review, 21260.
+Niepelt, D. (2020). Monetary policy with reserves and CBDC: Optimality, equivalence, and
+politics. Equivalence, and Politics (November 2020).
+https://doi.org/10.2139/ssrn.3740324
+
+202
+
+AABFJ | Vol. 17, No.1, 2023 Banerjee & Sinha | Promoting Financial Inclusion Central Bank Digital Currency
+
+Okonkwo, J.J. and Nwanma, F.O. (2021), "Financial inclusion and economic growth in
+Nigeria: an empirical study", International Journal of Research and Innovation in Social
+Science (IJRISS), Vol. 5 No. 1, pp. 323-330.
+https://doi.org/10.47772/IJRISS.2021.5113
+Ozili, P.K. (2021), "Measuring financial inclusion and financial exclusion", Munich Personal
+RePEc Archive (MPRA) paper no 107866, available at: https://mpra.ub.unimuenchen.de/107866/ (accessed 12 September 2021).
+https://doi.org/10.2139/ssrn.3769847
+Pfaff, B. (2008). VAR, SVAR and SVEC models: Implementation within R package vars.
+Journal of statistical software, 27, 1-32.
+https://doi.org/10.18637/jss.v027.i04
+Piazzesi, M., & Schneider, M. (2020). Credit lines, bank deposits or CBDC? competition and
+efficiency in modern payment systems. Unpublished, Stanford University.
+Reserve Bank of India - Reports. (n.d.). Reserve Bank of India. Retrieved July 20, 2022, from
+https://www.rbi.org.in/Scripts/PublicationReportDetails.aspx?UrlPage=&ID=1156
+RStudio and Inc. shiny: Web Application Framework for R, 2014. URL http://CRAN.Rproject.org/ package=shiny. [p21]
+Shree, S., Pratap, B., Saroy, R. and Dhal, S. (2021),"Digital payments and consumer
+experience in India: a survey based empirical study", Journal of Banking and Financial
+Technology, Vol. 5, pp. 1-20.
+https://doi.org/10.1007/s42786-020-00024-z
+Singh, A. Digital Economy, Future of Money and Financial Inclusion.Vol. 10, pp. 1-22.
+Taylor, D. (1990). Time-series analysis: Use of autocorrelation as an analytic strategy for
+describing pattern and change. Western Journal of Nursing Research, 12(2), 254-261.
+https://doi.org/10.1177/019394599001200210
+Usher, A, E Reshidi, F Rivadeneyra and S Hendry (2021): "The positive case for a CBDC",
+Bank of Canada, Staff Discussion Papers, no 2021-11, July.
+Wang, Y., Lucey, B. M., Vigne, S. A., & Yarovaya, L. (2022). The effects of central bank
+digital currencies news on financial markets. Technological Forecasting and Social Change,
+180, 121715.
+https://doi.org/10.1016/j.techfore.2022.121715
+World Bank: (2018): The Global Findex Database 2017: measuring financial inclusion and the
+fintech revolution, April.
+
+203
+
+AABFJ | Vol. 17, No.1, 2023 Banerjee & Sinha | Promoting Financial Inclusion Central Bank Digital Currency
+
+Wright, C. (2017, November 29). EuroMoney. Retrieved from https://www.euromoney.com/
+article/b15ts6qpxvj51d/how-paytm-went-big-on-indian-demonetization.
+Yaffee, R. A. (2008). Stata 10 (Time series and forecasting). Journal of Statistical Software,
+23, 1-18.
+https://doi.org/10.18637/jss.v023.s01
+Yu, K., Lu, Z., & Stander, J. (2003). Quantile regression: applications and current research
+areas. Journal of the Royal Statistical Society: Series D (The Statistician), 52(3), 331-350.
+https://doi.org/10.1111/1467-9884.00363
+
+204
+
+Copyright of Australasian Accounting Business & Finance Journal is the property of
+Australasian Accounting Business & Finance Journal and its content may not be copied or
+emailed to multiple sites or posted to a listserv without the copyright holder's express written
+permission. However, users may print, download, or email articles for individual use.
+
+

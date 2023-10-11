@@ -1,0 +1,886 @@
+                                            Research in International Business and Finance 64 (2023) 101896
+
+
+                                                         Contents lists available at ScienceDirect
+
+
+                                Research in International Business and Finance
+                                                 journal homepage: www.elsevier.com/locate/ribaf
+
+
+Full length article
+
+Return spillover analysis across central bank digital currency
+attention and cryptocurrency markets✩
+Yizhi Wang a ,1 , Yu Wei b ,∗,1 , Brian M. Lucey c,d,e,f ,1 , Yang Su c ,1
+a Cardiff Business School, Cardiff University, Aberconway Building, Cardiff CF10 3EU, United Kingdom
+b School of Finance, Yunnan University of Finance and Economics, Kunming, China
+c
+  Trinity Business School, Trinity College Dublin, Dublin 2, Ireland
+d
+  Institute of Business Research, University of Economics Ho Chi Minh City, 59C Nguyen Dinh Chieu, Ward 6, District 3, Ho Chi Minh
+City, Viet Nam
+e
+  Institute for Industrial Economics, Jiangxi University of Economics and Finance, 169, East Shuanggang Road, Xialuo, Changbei
+District 330013 Nanchang, Jiangxi, China
+f University of Abu Dhabi, Zayed City, Abu Dhabi, United Arab Emirates
+
+
+
+
+ARTICLE               INFO                             ABSTRACT
+
+JEL classification:                                    Many central banks have now developed their digital currencies in response to the challenges
+C22                                                    posed by the proliferation of decentralised digital cryptocurrencies. However, little is known
+C52                                                    about the effects of the introduction of central bank digital currencies (CBDCs) on extant
+Q43
+                                                       digital cryptocurrencies. This paper, therefore, aims to identify both the time- and frequency-
+Keywords:                                              domain spillover effects among cryptocurrency markets and a newly developed central bank
+CBDC attention                                         digital currencies attention index (CBDCAI) by using two TVP-VAR-based spillover models. Our
+Cryptocurrency                                         results demonstrate that CBDC attention significantly impacts cryptocurrency markets. Also,
+Spillover analysis
+                                                       most investors in cryptocurrency markets are more likely to trade in the short term. The
+TVP-VAR model
+                                                       results of this study contribute to helping investors and investment institutions effectively avoid
+                                                       investment risks, reduce losses, and predict the return of some cryptocurrencies. Also help
+                                                       policymakers better understand the impact of markets and policies, and provide a reference
+                                                       for them to formulate policies.
+
+
+
+
+1. Introduction
+
+    With the development of technology and finance, people’s lifestyles are gradually turning digital. As a medium of economic
+exchange, money has also gradually undergone a revolution, from the old shells, ordinary metal money, precious metal money,
+paper money, and now the latest digital currency (Davies, 2010; Wang et al., 2022c). The need for physical cash is diminishing
+as the digital age dawns. Technological advances make it possible for digital payments to gradually become one of the significant
+trends of the future (Gomber et al., 2018; Kuehnlenz et al., 2023).
+    Digital currencies, or encrypted tokens, including cryptocurrency, virtual currency and central bank digital currency, are virtual
+products with money features, offering a unit of account and a store of value (Gans and Halaburda, 2015). As of August 2022,
+there are more than 20,000 cryptocurrencies in the world, and their market capitalisation exceeds US$980 Billion, with Bitcoin
+
+
+  ✩ The authors are grateful for the financial support from the National Natural Science Foundation of China (71671145, 71971191), Science and Technology
+Innovation Team of Yunnan Provincial Universities (2019014), Yunnan Fundamental Research Projects (202001AS070018).
+  ∗ Corresponding author.
+     E-mail addresses: WangY510@cardiff.ac.uk (Y. Wang), weiyusy@126.com (Y. Wei), brianmlucey@gmail.com (B.M. Lucey), suya@tcd.ie (Y. Su).
+   1 These authors shared the first authorship and contributed equally to this work.
+
+
+https://doi.org/10.1016/j.ribaf.2023.101896
+Received 24 September 2022; Received in revised form 17 January 2023; Accepted 30 January 2023
+Available online 9 February 2023
+0275-5319/© 2023 Elsevier B.V. All rights reserved.
+Y. Wang et al.                                                                     Research in International Business and Finance 64 (2023) 101896
+
+
+and Ethereum having the largest market share, accounting for 38% and 20% of the market share, respectively.2 The huge usage
+of cryptocurrencies now means that there is a growing demand for them, representing a promising future for cryptocurrencies and
+other forms of digital currency in the future (Goodell et al., 2022).
+    Some studies argue that the financial instability of cryptocurrencies is obvious and is prone to large price fluctuations, which
+can lead to significant losses for investors (Griffin and Shams, 2020; Gao et al., 2021; Wang et al., 2022b,d; Lucey et al., 2022). For
+example, Bitcoin, which currently has the largest market share, rose to $12,000 in December 2017 and then fell to $3,000 eleven
+months later. Bitcoin rose again from $10,000 in September 2020 to nearly $60,000 in about six months, six times the original price.
+Then, it quickly plummeted by 40% in just three months. So, cryptocurrencies are a financial asset with high financial instability
+(Balvers and McDonald, 2021; Allen et al., 2022; Letho et al., 2022). Another widely discussed topic about cryptocurrency is that they
+are difficult to be regulated. Bitcoin, for example, is a huge challenge in terms of regulation (Nabilou, 2019; Marobhe, 2021). Bhaskar
+et al. (2022) claim that it is essential to monitor the flow of funds, so that is the reason why central banks of many countries have
+introduced their own central bank digital currencies (CBDCs).
+    Some researchers hold similar views about why the government started to work on CBDCs. Cryptocurrency performs poorly in
+terms of financial stability and sustainability, so the government tries to develop their own CBDCs to anti the negative impacts of
+cryptocurrencies (Sinelnikova-Muryleva, 2020; Ward and Rochemont, 2019). It is also believed that many governments may not be
+willing to give up their monopoly on currency, so they are starting to work on their own CBDCs (Laboure et al., 2021; Ngo et al.,
+2022; Jabbar et al., 2023).
+    In summary, academics agree that CBDCs are created to resist the future impact of the cryptocurrency markets. CBDC also called
+Digital Fiat Currency or Digital Base Money, which is inspired by Bitcoin and similar blockchain-based cryptocurrencies (Wang et al.,
+2022a). CBDCs have many benefits for the community. First, CBDCs could reduce the costs of cash, including the cost of making
+cash, and the cost of cross-border transactions, especially in some underdeveloped countries (Morgan, 2022; Ozili, 2022). Likewise,
+reducing the manufacture of banknotes helps to save energy and improve financial sustainability. Second, CBDCs are inclusive and
+can conduct transactions without the need for an identity or account, or even an Internet connection (Lee et al., 2021; Ozili, 2022).
+It is argued that the existence of CBDCs may prevent tax evasion by taxpayers in cash transactions, so the existence of CBDCs
+may indirectly benefit social welfare (Minesso et al., 2022). Third, CBDCs could help the monetary supervision and regulation. For
+example, it has an impact on money laundering, especially token-based options that could combat financial crime (Dupuis et al.,
+2021; Fernández-Villaverde et al., 2021). As more and more central banks in different countries are becoming interested in CBDC,
+the influence of geopolitics is causing more countries to join in Laboure et al. (2021) and Li et al. (2023).
+    Based on these benefits, many countries around the world have started CBDCs. There are 105 countries around the world
+exploring CBDCs by the end of August 2022, representing over 95% of global GDP3 .
+    The relationship between CBDCs and the cryptocurrency market is one of the current trends in research. The existing literature
+establishes that there are various aspects of the dynamics of cryptocurrencies that interact with the policies of central bank digital
+currencies (Allen et al., 2022; Jagtiani et al., 2021; Pompella and Matousek, 2021; Mzoughi et al., 2022). The studies find that public
+interest in CBDCs increases and cryptocurrency prices rise more sharply when the central bank makes a positive statement (Marmora,
+2022; Scharnowski, 2022). Researchers have widely used a new type of index named Attention index’’ recently, which could measure
+the intensity and change of public interest because they believe that the attention of investors may affect market returns and
+volatility (Vozlyublennaia, 2014; Wang, 2022). Using attention as an indicator has high accuracy and a certain comprehensiveness
+when it is applied to different econometric models and when it is used to predict returns related to financial markets based on
+previous research. Therefore, this paper uses CBDC attention to represent the public’s interest in CBDC to study its relationship with
+the cryptocurrency market.
+    Overall, there seems to be some evidence indicating inter-linkages between CBDC attention and the cryptocurrency markets.
+The development of CBDCs and public attention on the development of CBDCs could affect the cryptocurrency market and cause
+volatility. However, many of the studies are keen on qualitative, without any quantitative experiments to comprehensively evaluate
+the interconnections between the CBDCs and cryptocurrency markets, especially their volatility transmission channels. In order
+to address this research gap, this study proposes quantifying the interconnections of the CBDC attention and the cryptocurrency
+markets. Utilise CBDCAI and the TVP-VAR spillover model from two domains: time and frequency, to make an in-depth analysis of
+cryptocurrency investors’ attitudes towards CBDC attention using a quantitative approach, which could help public and regulators
+get more information in this area (Antonakakis et al., 2020; Barunik et al., 2020; Wang et al., 2022a).
+    There are four main findings in this research. Firstly, as the finds are based on both time domain and frequency domains,
+including short-term (i.e. 1 to 4 weeks) and long-term (i.e. longer than 4 weeks), CBDC attention is a majority return information
+transmitter to cryptocurrency markets. Bitcoins, Ethereum, and CBDC attention are the only three factors that could keep stable
+positive net pairwise directional spillover. Secondly, in the time domain, Bitcoin and Ethereum are the key spillover transmitters,
+as Binance, Tether, and USD coin are the key spillover receivers for return transmission in the system. Thirdly, we find that most
+of the investors in cryptocurrency markets are more likely to trade in the short term than in the long term. Finally, by using linear
+regression models, we confirm that TSI and NET spillover could have impacts on cryptocurrency markets and CBDCAI has significant
+predictive power on the return of Bitcoin and Ethereum from a fixed-effect perspective.
+    This study firstly contributes to fleshing out the intrinsic link between CBDCs and the cryptocurrency market. A quantitative
+approach is used to provide an in-depth analysis of the impacts of public attention on cryptocurrency markets. Secondly, for investors
+
+
+  2   Today’s cryptocurrency prices by market cap. https://coinmarketcap.com/.
+  3   https://www.atlanticcouncil.org/cbdctracker/
+
+
+                                                                             2
+Y. Wang et al.                                                                               Research in International Business and Finance 64 (2023) 101896
+
+
+and investment institutions, the findings of this study could facilitate investors to understand better the market patterns and the
+inducing factors of price instability in cryptocurrency markets. With the variation of the CBDCAI, investors could use this index to
+forecast the fluctuations in cryptocurrency markets. The volatility of financial markets could have effects on investor psychology.
+Especially for risk-averse investors, this result will be of great interest to them to reasonably avoid risks to reduce losses and increase
+returns in future investments. At the same time, it provides useful information for investment institutions to be able to predict
+price fluctuations and collect variations from cryptocurrency markets by using CBDCAI. Thirdly, for policymakers and regulators,
+it could help them understand the spillover effects of CBDC attention on cryptocurrency markets, to provide new insights into how
+CBDC policy adjustments and public interest in CBDCs can significantly influence the cryptocurrency markets. It also allows them
+to understand the importance of CBDCs and their roles in the future. Moreover, our research results also could help the market
+regulators to understand better that the regulation of digital assets should be on short-term trading to minimise any policy issues
+or regulatory inadequacies.
+    This research is composed of five sections. Section 2 explains the frameworks of TVP-VAR-DY and TVP-VAR-BK models, while
+Section 3 introduces the data used. Section 4 presents the empirical results and Section 5 summarises the main findings.
+
+2. Methodology
+
+    Recently, the spillover index method proposed by Diebold and Yilmaz (2009) and Diebold and Yilmaz (2012) are wildly used
+in investigating the spillover effects among financial and commodity markets in the time domain. Then Baruník and Křehlík (2018)
+further extend this method by considering the possible heterogeneous responses of the financial systems to exogenous shocks in
+different time frequencies. These two approaches, however, are designed mainly to depict the static spillover effects within a system.
+To obtain the time-varying spillover measurements, they have to employ a rolling-window technique, which is found to have several
+clear drawbacks by Antonakakis et al. (2020) as follows: firstly, the choice of rolling-window size can be very arbitrary, which may
+influence the measurement of spillover effect. Secondly, when using this rolling-window method, researchers will lose some dynamic
+measurement results over the first rolling window, a problem that can be very serious for small sample studies. Lastly, Antonakakis
+et al. (2020) further argue that the empirical results based on a rolling-window approach are very sensitive to extreme observations.
+Estimates of the spillover effects are prone to significant jumps or drops when extreme observations are first included or excluded
+from the rolling window sample, making it difficult to capture market interactions in times of crisis accurately.
+    This model, which calculates two spillover effects, visualises the spillover returns in the form of figures to help people understand
+more clearly about how CBDC affects the cryptocurrency market. Therefore, in this paper, we employ two TVP-VAR-based spillover
+methods proposed by Antonakakis et al. (2020) and Barunik et al. (2020), which are two natural extensions of the static spillover
+methods of Diebold and Yilmaz (2012) and Baruník and Křehlík (2018), which we labelled as TVP-VAR-DY and TVP-VAR-BK model,
+respectively, hereafter.
+
+2.1. TVP-VAR-DY approach in time domain
+
+    The TVP-VAR version of Diebold and Yilmaz (2012) spillover index method is proposed by Antonakakis et al. (2020), which is
+designed to quantify the dynamics of spillover effects in a N -variable TVP-VAR (p) model. This model has a good performance in the
+time domain when studying spillover effects, and it can accurately measure the total spillover effect and the net spillover effect. It
+is able to show both the total spillover effect with CBDC and the cryptocurrency market and the spillover effect between CBDC and
+the ten cryptocurrencies, showing who are the information transmitter and receivers in the whole system, respectively. Therefore,
+this study chooses the TVP-VAR-DY model to study the spillover effects of CBDC attention and the cryptocurrency market in this
+static system in the time domain from the net and total.
+    This method can estimate the time-varying directional spillover index without losing the initial estimation sample results in a
+rolling-window method and is not sensitive to extreme observations in the data sample. A N -variable TVP-VAR(p) model is defined
+as:
+
+        𝑌𝑡 = 𝐴𝑡 𝑋𝑡−1 + 𝜀𝑡 , 𝜀𝑡 |𝛺𝑡−1 ∼ 𝑁(0, 𝛴𝑡 ),                                                                                                      (1)
+
+
+        𝑣𝑒𝑐(𝐴1 ) = 𝑣𝑒𝑐(𝐴𝑡−1 ) + 𝜉𝑡 , 𝜉𝑡 |𝛺𝑡−1 ∼ 𝑁(0, 𝛯𝑡 ),                                                                                             (2)
+
+where 𝑌𝑡 = (𝑦1,𝑡 , 𝑦2,𝑡 , … , 𝑦𝑁−1,𝑡 , 𝑦𝑁,𝑡 )′ is a N ×1 vector of interested variables at time t and 𝑋𝑡−1 = (𝑌𝑡−1 , 𝑌𝑡−2 , … , 𝑌𝑡−𝑝 )′ , where the lag
+order p is chosen by using the AIC or BIC information criterion. Then 𝐴𝑡 = (𝐴1𝑡 , 𝐴2𝑡 , … , 𝐴𝑝𝑡 ) is a 𝑁 × 𝑁 parameter matrix, and vec(𝐴𝑡 )
+denotes the vectorisation of 𝐴𝑡 . Moreover, 𝜀𝑡 and 𝜉𝑡 are the error vectors, and 𝛺𝑡−1 is the information set available until t −1. Finally,
+𝛴𝑡 and 𝛯𝑡 time-varying variance–covariance matrixes for 𝜀𝑡 and 𝜉𝑡 , respectively. Then this TVP-VAR (p) model is estimated through
+the Kalman filter algorithm with both forgetting and decay factor to be set as 0.99 in the following empirical estimation. The key
+idea of spillover index method is to measure the generalised forecast error variance decomposition (GFEVD) at H -step-ahead by this
+TVP-VAR (p) model as follows:
+                              ∑
+                              ∞
+        𝑌𝑡 = 𝐴𝑡 𝑋𝑡−1 + 𝜀𝑡 =         𝐵𝑖,𝑡 𝜀𝑡−𝑖 ,                                                                                                        (3)
+                              𝑖=0
+
+                                                                          3
+Y. Wang et al.                                                                               Research in International Business and Finance 64 (2023) 101896
+
+               ∑
+where 𝐵𝑖,𝑡 = 𝑝𝑙=1 𝐴𝑙,𝑡 𝐵𝑖−𝑙,𝑡 denotes the response function, 𝐵0,𝑡 is a unit matrix, and 𝐵𝑖,𝑡 = 0 when 𝑖 < 0. Based on Eq. (3), the
+H -step-ahead GFEVD is then calculated as:
+                   −1 ∑𝐻−1 (𝜃 ′ 𝐵 𝛴 𝜃 )2
+                  𝛴𝑘𝑘,𝑡  ℎ=0    𝑗 ℎ,𝑡 𝑡 𝑘
+       𝛷𝑗𝑘,𝑡 (𝐻) = ∑                           ,                                                                               (4)
+                     𝐻−1 ′            ′
+                     ℎ=0 (𝜃𝑗 𝐵ℎ,𝑡 𝛴𝑡 𝐵ℎ,𝑡 𝜃𝑗 )
+
+where 𝜃𝑗 (𝜃𝑘 ) is a N ×1 vector with the 𝑗th (k-th) element being 1, and 0 otherwise. When 𝑗 ≠ 𝑘, 𝛷𝑗𝑘,𝑡 (𝐻) indicates the share of
+H -step-ahead forecast error variance in j caused by the shocks of k. To ensure the sum of the elements in each row to be to 1,
+i.e., all variables together contribute 100% forecast error variance of variable j, we normalise each entry by the row sum as:
+                              𝛷𝑗𝑘,𝑡 (𝐻)
+        𝛷̊ 𝑗𝑘,𝑡 (𝐻) = ∑𝑁                        × 100,                                                                                                 (5)
+                         𝑗=1,𝑘=1    𝛷𝑗𝑘,𝑡 (𝐻)
+    ∑                         ∑𝑁
+with 𝑁     ̊
+      𝑘=1 𝛷𝑗𝑘,𝑡 (𝐻) = 1 and
+                                        ̊
+                                𝑗=1,𝑘=1 𝛷𝑗𝑘,𝑡 (𝐻) = 𝑁. Therefore, we may define the time-varying total spillover index (TSI) in this
+TVP-VAR system as:
+                  ∑𝑁        ̊
+                    𝑘=1,𝑗≠𝑘 𝛷𝑗𝑘,𝑡 (𝐻)
+     𝑇 𝑆𝐼𝑡 (𝐻) = ∑𝑁                   × 100.                                                                                     (6)
+                            ̊
+                    𝑗=1,𝑘=1 𝛷𝑗𝑘,𝑡 (𝐻)
+
+   It is used to quantify the total intensity of spillover effects among all variables in this system. Based on these definitions, we,
+therefore can compute the directional spillover effect received by j from all the other variables as:
+                          ∑𝑁        ̊
+                            𝑘=1,𝑗≠𝑘 𝛷𝑗𝑘,𝑡 (𝐻)
+       𝐹 𝑅𝑂𝑀𝑗←∗ ,𝑡 (𝐻) = ∑𝑁                   × 100,                                                                               (7)
+                                    ̊
+                            𝑗=1,𝑘=1 𝛷𝑗𝑘,𝑡 (𝐻)
+
+and then a natural way to measure the directional spillover of variable j transmitting to all the other variables is as follows:
+                      ∑𝑁       ̊
+                       𝑘=1,𝑘≠𝑗 𝛷𝑘𝑗,𝑡 (𝐻)
+      𝑇 𝑂𝑗→∗ ,𝑡 (𝐻) = ∑𝑁                 × 100,                                                                                                        (8)
+                               ̊
+                       𝑗=1,𝑘=1 𝛷𝑗𝑘,𝑡 (𝐻)
+
+   Furthermore, to assess the net directional spillover of variable j, i.e., the difference in directional TO and FROM spillover effects,
+we calculate it as:
+
+        𝑁𝐸𝑇𝑗,𝑡 (𝐻) = 𝑇 𝑂𝑗→∗ ,𝑡 (𝐻) − 𝐹 𝑅𝑂𝑀𝑗←∗ ,𝑡 (𝐻).                                                                                                  (9)
+
+   From Eq. (9), we can see that a positive NET spillover index shows that variable j is a net transmitter of spillover effects to
+others, otherwise it is a net spillover receiver. Lastly, to evaluate the spillover effect between two specific variables, we define the
+net pairwise directional spillover index (NPDS) between j and k as:
+                                     𝛷̊ 𝑘𝑗,𝑡 (𝐻)                𝛷̊ 𝑗𝑘,𝑡 (𝐻)
+        𝑁𝑃 𝐷𝐶𝑗𝑘,𝑡 (𝐻) = ( ∑𝑛                             − ∑𝑛                     ) × 100.                                                            (10)
+                                   𝑗=1,𝑘=1   𝛷̊ 𝑗𝑘 (𝐻)      𝑗=1,𝑘=1   𝛷̊ 𝑗𝑘 (𝐻)
+
+   Similarly, it is easy to understand that a positive NPDC reveals that the spillover effect of j to k is stronger than that of k to j,
+indicating that variable j dominates the change of k, and vice versa.
+
+
+2.2. TVP-VAR-BK approach in frequency domain
+
+    As noted above, for the reason that financial and economic systems respond heterogeneously to exogenous shocks at various
+time frequencies (Dew-Becker and Giglio, 2016; Li and Meng, 2022; Umar et al., 2022; Wei et al., 2020, 2022), it is extremely
+significant for policymakers and investors to understand the time-varying spillover effects not only in time domain, but also in the
+frequency domain (e.g., from short- and long-term horizons). Barunik et al. (2020) then extend the static spillover index method
+of citetbarunik2018measuring to a TVP-VAR based version. This new tool not only gains the benefits of the time-varying spillover
+index of Antonakakis et al. (2020), but also captures these spillover effects at different time frequencies, i.e., from short- to long-term
+horizons, allowing us to improve our view of the heterogeneous responses of different variables to exogenous shocks.
+    Similar to Eq. (3), the TVP-VAR-BK method of Barunik et al. (2020) constructs a time-varying response function of 𝐵𝑡 (𝑒−𝑖𝜔ℎ ) at
+frequency 𝜔 like this:
+
+                       ∑
+                       𝐻−1
+        𝐵𝑡 (𝑒−𝑖𝜔 ) =         𝑒−𝑖𝜔ℎ 𝐵ℎ,𝑡 ,                                                                                                             (11)
+                       ℎ=0
+          √
+with 𝑖 =     −1, and the generalised causal spectrum over the frequencies 𝜔 ∈ (−𝜋, 𝜋) is defined as:
+                    ∑−1 ′            −𝑖𝜔 ) ∑ 𝜃 |2
+                       𝑘𝑘,𝑡 |𝜃𝑗 𝐵𝑡 (𝑒       𝑡 𝑘
+        (𝑓𝑡 (𝜔))𝑗𝑘 = ′            ∑               .                                                                                                   (12)
+                    𝜃𝑗 𝐵𝑡 (𝑒−𝑖𝜔 ) 𝑡 𝐵𝑡′ (𝑒+𝑖𝜔 )𝜃𝑗
+
+                                                                                        4
+Y. Wang et al.                                                                                      Research in International Business and Finance 64 (2023) 101896
+
+
+   This equation computes the spillover effect of the 𝑗th variable at frequency 𝜔 due to the shocks from the 𝑘th variable. Then, after
+defining a frequency band of 𝑑 = (𝑠, 𝑙), and 𝑠 < 𝑙, 𝑠, 𝑙 ∈ (−𝜋, 𝜋), we can calculate the generalised forecast error variance decomposition
+(GFEVD) on frequency band d as:
+                        1
+         𝛷𝑗𝑘,𝑡 (𝑑) =        𝑊 (𝜔)(𝑓𝑡 (𝜔))𝑗𝑘 𝑑𝜔,                                                                                                              (13)
+                       2𝜋 ∫𝑑 𝑗,𝑡
+and
+                                              ∑
+                             𝜃𝑗′ 𝐵𝑡 (𝑒−𝑖𝜔 )        ′ +𝑖𝜔 )𝜃
+                                               𝑡 𝐵𝑡 (𝑒        𝑗
+         𝑊𝑗,𝑡 (𝜔) =          𝜋                 ∑                                                                                                             (14)
+                       1          ′      −𝑖𝜆 )        ′ (𝑒+𝑖𝜆 )𝜃 )𝑑𝜆
+                       2
+                         𝜋 ∫   (𝜃
+                            −𝜋 𝑗 𝑡  𝐵 (𝑒            𝐵
+                                                  𝑡 𝑡           𝑗
+
+      Similarly, the normalised GFEVD on the frequency band d are then calculated as:
+                         𝛷𝑗𝑘,𝑡 (𝑑)
+         𝛷̊ 𝑗𝑘,𝑡 (𝑑) = ∑𝑁             ,                                                                                                                      (15)
+                        𝑘=1 𝛷𝑗𝑘,𝑡 (∞)
+
+with
+                               𝜋
+                         1
+         𝛷𝑗𝑘,𝑡 (∞) =          𝑊 (𝜔)(𝑓𝑡 (𝜔))𝑗𝑘 𝑑𝜔.                                                                                                            (16)
+                        2𝜋 ∫−𝜋 𝑗,𝑡
+   Based on the above definitions, the total, from, to, net and net pairwise directional spillover (NPDS) indices on frequency band
+d are computed as follows:
+                      ∑𝑛            ̊
+                          𝑗=1,𝑘=1 𝛷𝑗𝑘,𝑡 (𝑑)            𝑇 𝑟{𝛷̊ 𝑗𝑘,𝑡 (𝑑)}
+       𝑇 𝑆𝐼𝑡 (𝑑) = ( ∑𝑛                         − ∑𝑛                       ) × 100,                                             (17)
+                                   ̊                            ̊
+                         𝑗=1,𝑘=1 𝛷𝑗𝑘,𝑡 (∞)             𝑗=1,𝑘=1 𝛷𝑗𝑘,𝑡 (∞)
+                                                        ∑𝑛           ̊
+                                 ∑  𝑛
+                                                          𝑗=1,𝑘=1 𝛷𝑗𝑘,𝑡 (𝑑)
+       𝐹 𝑅𝑂𝑀𝑗←∗ ,𝑡 (𝑑) = ((               𝛷̊ 𝑗𝑘,𝑡 (𝑑)) ∑𝑛                     ) × 100,                                          (18)
+                                                                    ̊
+                               𝑘=1,𝑗≠𝑘                   𝑗=1,𝑘=1 𝛷𝑗𝑘,𝑡 (∞)
+                                                ∑𝑛            ̊
+                            ∑𝑛
+                                                    𝑗=1,𝑘=1 𝛷𝑗𝑘,𝑡 (𝑑)
+       𝑇 𝑜𝑗→∗ ,𝑡 (𝑑) = ((         𝛷̊ 𝑘𝑗,𝑡 (𝑑)) ∑𝑛                       ) × 100,                                                (19)
+                                                             ̊
+                         𝑘=1,𝑗≠𝑘                   𝑗=1,𝑘=1 𝛷𝑗𝑘,𝑡 (∞)
+
+         𝑁𝐸𝑇𝑗,𝑡 (𝑑) = 𝑇 𝑂𝑗→∗ ,𝑡 (𝑑) − 𝐹 𝑅𝑂𝑀𝑗←∗ ,𝑡 (𝑑),                                                                                                       (20)
+                                  ∑𝑛        ̊                         ∑𝑛        ̊
+                                   𝑗=1,𝑘=1 𝛷𝑘𝑗,𝑡 (𝑑)                   𝑗=1,𝑘=1 𝛷𝑗𝑘,𝑡 (𝑑)
+         𝑁𝑃 𝐷𝑆𝑗𝑘,𝑡 = (𝛷̊ 𝑘𝑗,𝑡 (𝑑) ∑𝑛                 ) − (𝛷̊ 𝑗𝑘,𝑡 (𝑑) ∑𝑛                 ) × 100.                                                            (21)
+                                           ̊                                   ̊
+                                   𝑗=1,𝑘=1 𝛷𝑗𝑘,𝑡 (∞)                   𝑗=1,𝑘=1 𝛷𝑗𝑘,𝑡 (∞)
+
+where 𝑇 𝑟{⋅} is the trace operator. According to the methods of Li and Meng (2022), Umar et al. (2022), and many others, we mainly
+focus on two frequency bands d (i.e., 1 to 4 weeks, and longer than 4 weeks) in the following empirical results, which correspond
+to short- and long-term time horizon, respectively.
+
+3. Data
+
+    The purpose of this paper is to identify the impacts of Central Bank Digital Currency attention on cryptocurrency markets. Thus,
+we choose one new digital asset index, CBDC attention proposed by Wang et al. (2022a), as the proxy of public attention on Central
+Bank Digital Currency, which has been recorded in weekly frequency since January 2, 2015.4 In terms of cryptocurrency markets,
+according to the statistics by coinmarketcap.com, we select cryptocurrencies with the top 10 largest market capitalisation by the
+end of July 2022 in our empirical analysis. They are Bitcoin, Ethereum, Tether, USD coin, BNB, XPR, Binance, Cardano, Solana, and
+Dogecoin.5 For data availability, we choose weekly data of CBDC attention and the ten cryptocurrencies from April 6, 2020, to July
+18, 2022. All these weekly data are transferred to logarithm returns for stationarity, and Table 1 reports the descriptive statistics
+of these returns.
+    Table 1 shows that, firstly, the mean weekly returns for various cryptocurrencies are quite different. For example, Bitcoin,
+Ethereum, BNB, Cardano, Solana, and Dogecoin have positive mean returns over 1%, where Solana gets the biggest one of 3.269%.
+While Tether, USD coin and Binance obtain very small negative mean weekly returns. Secondly, the standard deviations for these
+cryptocurrencies also demonstrate quite discrepancies, e.g., Dogecoin has the largest standard deviation of 25.209%, yet USD
+coin has only this statistic of 0.12%, indicating the significantly distinct market risks in different cryptocurrencies. Thirdly, the
+skewness, kurtosis, and Jarque–Bera statistics reveal that all these returns are not normally distributed. Furthermore, the Ljung–Box
+Q statistics show that some cryptocurrencies have significant autocorrelations for up to 8 weeks, while others have not, suggesting
+the heterogeneous price persistent patterns in different cryptocurrency markets again. Finally, the Augmented Dickey–Fuller and
+Phillips–Perron unit root tests demonstrate the stationarity in all these time series.
+
+
+  4   https://sites.google.com/view/cryptocurrency-indices/home?authuser=0
+  5   The cryptocurrency prices are downloaded from https://finance.yahoo.com/.
+
+
+                                                                              5
+Y. Wang et al.                                                                                        Research in International Business and Finance 64 (2023) 101896
+
+Table 1
+Descriptive statistic of weekly returns for the ten cryptocurrencies and CBDC attention.
+                 Bitcoin     Ethereum    Tether       USD coin      BNB              XPR          Binance      Cardano     Solana       Dogecoin       CBDC
+ Obs.            119         119         119          119           119              119          119          119         119          119            119
+ Mean            1.012       1.886       −0.007       −0.003        2.428            0.553        −0.007       2.264       3.269        2.991          0.017
+ Std. dev.       9.671       12.856      0.149        0.120         16.548           18.153       0.156        15.815      20.332       25.209         0.744
+ Skewness        −0.447      −0.624      −0.451       −1.841        0.521            0.544        −1.426       0.629       0.072        3.427          0.907
+ Kurtosis        3.567       5.246       9.588        15.839        11.232           7.804        11.442       5.481       3.404        19.071         7.789
+ Jarque–Bera     5.560**     32.734***   219.226***   884.530***    341.403***       120.287***   393.753***   38.365***   0.911        1513.572***    130.018***
+ Q (4)           8.053*      5.3104      23.992***    14.765***     3.298            4.377        14.864***    4.510       11.344**     4.995          7.389
+ Q (8)           13.974*     8.846       42.806***    27.880***     12.119           15.303*      25.788***    9.881       12.612       5.885          14.092*
+ ADF             −8.761***   −9.696***   −16.917***   −15.694***    −9.244***        −10.727***   −14.903***   −8.917***   −9.211***    −9.364***      −13.234***
+ P-P             −8.803***   −9.828***   −16.903***   −15.661***    −9.364***        −10.691***   −14.870***   −9.030***   −9.434***    −9.440***      −13.186***
+
+Notes: The Jarque–Bera statistic tests for the null hypothesis of normality in the distribution. Q (n) is the Ljung–Box Q statistics with lag length of n. ADF and
+P-P are statistics of Augmented Dickey–Fuller and Phillips–Perron unit root test.
+*Indicate rejection at the 10% significant level.
+**Indicate rejection at the 5% significant level.
+***Indicate rejection at the 1% significant level.
+
+
+
+
+Fig. 1. Pearson correlation coefficient matrix of the ten cryptocurrencies and CBDC attention.
+Notes: This table shows correlation coefficients between ten cryptocurrencies and CBDC attention. If the coefficient value lies between ±0.50 and ±1, then it is
+said to be a strong correlation. If the value lies between ±0.30 and ±0.49, then it is said to be a medium correlation. When the value lies below ±0.29, then
+it is said to be a small correlation.
+
+
+
+
+    Then Fig. 1 visually reveals the Pearson correlation matrix among the ten cryptocurrencies and CBDC attention index. On the
+one hand, we can find in Fig. 1 that various cryptocurrencies show quite different correlations. For instance, Bitcoin and Ethereum
+have a very large positive correlation coefficient of 0.79, but this number between Binance and Cardano is −0.20. These correlation
+coefficients, either positive or negative, suggest that it is possible for investors to utilise these assets to allocate optimal portfolios in
+cryptocurrency markets. On the other hand, we can see that CBDC attention has small but negative correlations (i.e., ranging from
+−0.19 to −0.01) with almost all the ten cryptocurrencies, implying that high levels of CBDC attention may dampen price increases
+in the digital cryptocurrency markets.
+
+                                                                                 6
+Y. Wang et al.                                                                                       Research in International Business and Finance 64 (2023) 101896
+
+Table 2
+Mean spillover measurements among the ten cryptocurrencies and CBDC attention in time domain.
+                 Bitcoin    Ethereum      Tether       USD coin      BNB        XPR        Binance      Cardano       Solana      Dogecoin      CBDC       FROM
+ Bitcoin         35.85      20.33         0.54         0.16          14.86      8.18       0.31         7.64          5.33        5.75          1.05       64.15
+ Ethereum        18.26      30.37         0.33         0.23          12.61      7.92       0.29         10.59         11.48       6.97          0.95       69.63
+ Tether          1.12       1.25          43.42        16.62         1.61       2.94       22.69        4.42          3.02        0.83          2.09       56.58
+ USD coin        3.85       1.49          14.05        39.23         3.40       3.72       22.93        2.25          2.46        1.39          5.22       60.77
+ BNB             15.84      14.48         0.61         0.14          35.06      10.29      0.20         8.81          9.08        3.82          1.67       64.94
+ XPR             9.11       11.41         1.23         0.11          11.21      38.23      0.27         9.28          8.18        6.08          4.89       61.77
+ Binance         1.35       1.40          22.33        22.4          1.93       1.91       38.31        3.31          4.09        1.16          1.81       61.69
+ Cardano         11.06      12.92         0.82         0.91          9.69       8.81       1.34         32.92         10.61       8.30          2.61       67.08
+ Solana          7.25       15.06         0.34         0.41          9.94       7.09       0.52         12.55         37.92       8.36          0.56       62.08
+ Dogecoin        7.61       10.09         0.93         1.13          4.23       9.03       0.62         6.98          6.80        48.14         4.45       51.86
+ CBDC            0.53       0.56          0.16         0.22          0.29       0.24       0.85         2.72          3.05        2.41          88.96      11.04
+ TO              75.98      88.99         41.33        42.33         69.78      60.14      50.01        68.56         64.1        45.06         25.29      TSI
+ NET             11.83      19.36         −15.25       −18.44        4.83       −1.63      −11.67       1.48          2.02        −6.79         14.25      57.42
+
+Notes: This table reports the directional spillover among crude oil, carbon and agriculture futures markets by the method of Diebold and Yilmaz (2012) in time
+domain. The rightmost column (FROM) of this table indicates the directional spillover from all others to a specific futures market. The penultimate row (TO)
+of this table indicates the directional spillover to all others from a specific futures market. The bottom row (NET) shows the net spillover, i.e., the difference
+between TO and FROM spillover of a specific futures market. The number in the bottom right corner of this table (indicated in bold face) is the TOTAL spillover
+index (TSI) of all the futures markets.
+
+
+
+
+4. Empirical results
+
+4.1. Time-domain spillover evidence by TVP-VAR-DY method
+
+    In this section, to get an overall view of the spillover effects among cryptocurrency markets and CBDC attention in the time
+domain, we first report the mean return spillover indices based on TVP-VAR-DY method proposed by Antonakakis et al. (2020).
+    Table 2 shows that, firstly, the total spillover index (TSI) is 57.42%, indicating a relatively high degree of spillover effects
+among the ten cryptocurrencies and CBDC attention. Secondly, regarding pairwise directional spillover measures, we find that the
+spillover effects between Bitcoin and Ethereum, as well as the ones between Binance and Tether (USD coin) are some of the largest
+among all the pairwise directional spillover indices. These findings are in line with those revealed in Fig. 1, which shows the
+Pearson correlation coefficient matrix. Thus, we think that Bitcoin, Ethereum, Binance, Tether, and USD coins may be the major
+nodes for information transmission in the system. Furthermore, although the pairwise directional spillover measurements between
+CBDC attention and the ten cryptocurrencies are relatively small (smaller than 5%), the spillover indices from CBDC attention to
+cryptocurrencies (the numbers in CBDC column in Table 2) are mostly larger than those from cryptocurrencies to CBDC (the numbers
+in CBDC row in Table 2). This evidence may suggest that CBDC attention, as an exogenous variable for cryptocurrency markets,
+has greater impacts on the cryptocurrency markets than the cryptocurrency markets have on itself. Thirdly, in terms of TO and
+FROM spillover measurements, we find that Ethereum is both the strongest spillover transmitter and receiver in this system, while
+CBDC attention again is the weakest spillover transmitter and receiver. Finally, the NET indices shown in the bottom row of Table 2
+confirm that Ethereum, CBDC attention, and Bitcoin are the top three biggest return spillover senders, whereas USD coin, Tether,
+and Binance are the three largest acceptors. These results imply that besides Bitcoin and Ethereum, the two well-recognised leading
+assets in cryptocurrency markets, CBDC attention can serve as an additional important impactor on cryptocurrency markets. The
+public attention on CBDCs may help to understand the dependence and spillover effects across cryptocurrency markets, and thus
+may contribute to better risk management and portfolio allocation strategies for cryptocurrency markets.
+    After the mean evidence of time-domain spillover effects among cryptocurrency markets and CBDC attention, we further report
+the time-vary results of total spillovers in Fig. 2. It indicates that the total spillover index (TSI) among cryptocurrency markets and
+CBDC attention fluctuates up and down around about 60%, suggesting that the system maintains a relatively strong spillover effect.
+In particular, we find that the TSI increases significantly from about April 2020 to July 2020, reaching a very high level of over 70%.
+After that, it decreases gradually to lower than 60% till May 2021. Then the TSI rises to greater than 60% and thereafter maintains a
+moderate upward trend until July 2022. When we analyse from a time domain, it can be confirmed that the cryptocurrency markets
+and CBDC attention are intrinsically linked. As a whole, a spillover of no less than 60% proves that the spillover effect of CBDC
+attention is strong and that CBDC attention could influence the price volatility of the cryptocurrency market to a large extent. It
+is clear from the results that the Dynamic total spillover index has remained at a high level, with a sharp rise, especially during
+the period from April 2020 to July 2020. Relating the indicator to reality, we find that the bull market started in April 2020, and
+cryptocurrency prices rose during the period. It may therefore be concluded that the sharp rise in the TSI over the period strongly
+connects with the bull market’s start. This finding has significant practical implications. We find that the spillover effect of CBDC
+is very strong, which is very helpful for investors and investment institutions. When public interest in CBDCs increases obviously,
+a certain degree of volatility may be imminent in the cryptocurrency market. This can provide an important signal to investors and
+investment institutions, which can help market participants to be more sensitive to the cryptocurrency market and avoid possible
+risks to a certain extent.
+    Then, Fig. 3 demonstrates the time-varying net spillover effects estimated by TVP-VAR-DY method of Antonakakis et al. (2020).
+We can see in Fig. 3 that, Bitcoin, Ethereum, and CBDC attention are three major net spillover senders across the data sample from
+
+                                                                                7
+Y. Wang et al.                                                                                    Research in International Business and Finance 64 (2023) 101896
+
+
+
+
+Fig. 2. Dynamic total spillover index (TSI) in time domain.
+Notes: The total spillover index (TSI) measures the spillover effect of ten cryptocurrencies and CBDC attention in time domain.
+
+
+
+
+Fig. 3. Dynamic net spillover in time domain estimated by TVP-VAR-DY method.
+Notes: The Dynamic net spillover shows the net spillover effect of individual variables in the whole system in time domain. Positive values imply that the
+variable acts as a transmitter of systemic shocks, while negative values indicate that the role of the variable is a receiver in terms of systemic risk shocks.
+
+
+
+
+April, 2020 to July, 2022, whereas Tether, USD coin, and Binance are three main net spillover receivers. In other words, the price
+fluctuations in Tether, USD coin, and Binance are mainly driven by Bitcoin, Ethereum, and CBDC attention. In special, we can see
+that in the first half of the sample (roughly from April 2020 to April 2021), CBDC attention is the largest net spillover transmitter to
+others, while Tether, USD coin, and Binance are primary spillover recipients. This finding can provide more information to investors
+and policymakers. According to this finding, when CBDC attention, Bitcoin, and Ethereum fluctuate, Tether, USD coin and Binance
+may also fluctuate. For risk averse, they can use the findings to better hedge their risks. For policymakers, it provides valuable
+information on how the cryptocurrency market will likely be affected when public attention to CBDC fluctuates. This can help them
+better understand the intrinsic connection between CBDC and the cryptocurrency market and help them better formulate appropriate
+financial policies.
+    Moreover, we illustrate the network of net pairwise directional spillover index (NPDS) in the time domain in Fig. 4. Consistent
+with the findings in Fig. 2 and Fig. 3, Fig. 4 shows that, on the one hand, Ethereum, Bitcoin, and CBDC attention are the three
+strongest NPDS transmitters, while USD coin, Tether, and Binance are three major NPDS receivers. More importantly, we can see
+that CBDC is NPDS transmitter to both Ethereum and Bitcoin, indicating its dominant role in information spillover among these
+cryptocurrency markets.
+    In summary, the time-domain spillover evidence reveals that although Bitcoin and Ethereum are two leaders in information
+transmissions among cryptocurrency markets, CBDC attention is also a very important factor that has significant impacts on
+cryptocurrency prices, especially it has positive NPDS to Bitcoin and Ethereum markets.
+
+                                                                              8
+Y. Wang et al.                                                                                      Research in International Business and Finance 64 (2023) 101896
+
+
+
+
+Fig. 4. Network of net pairwise directional spillover index (NPDS) in time domain.
+Measured by TVP-VAR-DY method. The red (green) nodes denote the transmitters (receivers) of NPDS. The size of one node represents the net spillover effects
+this node has. The arrow indicates the direction of NPDS, and the width of the line indicates the spillover intensity. (For interpretation of the references to
+colour in this figure legend, the reader is referred to the web version of this article.)
+
+
+Table 3
+Mean spillover measurements among the ten cryptocurrencies and CBDC attention in frequency domain at short-term frequency (1 to 4 weeks).
+                 Bitcoin   Ethereum       Tether      USD coin      BNB        XPR        Binance      Cardano       Solana      Dogecoin      CBDC       FROM
+ Bitcoin         23.7      14.25          0.3         0.1           10.86      6.31       0.26         6.16          3.79        3.57          1.01       46.62
+ Ethereum        12.19     21.8           0.19        0.17          9.97       6.25       0.21         8.66          8.47        4.13          0.88       51.12
+ Tether          1.04      1.16           39.67       15.62         1.57       2.9        20.67        4.2           2.46        0.73          2.07       52.42
+ USD coin        3.21      1.34           11.91       34.1          3.1        3.62       18.45        2.2           2.07        1.27          5.1        52.27
+ BNB             9.92      9.97           0.45        0.08          23.68      6.9        0.19         6.33          5.68        1.65          1.18       42.35
+ XPR             6.76      6.78           1.2         0.09          8.57       28.94      0.18         6.61          4.67        4.49          4.12       43.46
+ Binance         0.98      1.27           19.68       20.18         1.59       1.7        33           3.24          3.74        0.99          1.64       55.02
+ Cardano         5.4       7.3            0.44        0.65          5.38       4.95       0.96         23.13         7.73        3.87          2.34       39.02
+ Solana          4.14      9.66           0.3         0.26          6.51       4.79       0.37         9.12          26.32       3.98          0.42       39.55
+ Dogecoin        6.04      6.47           0.79        0.87          2.91       5.58       0.48         5.93          4.71        34.34         3.99       37.77
+ CBDC            0.37      0.5            0.15        0.15          0.24       0.16       0.66         2.44          2.44        2.31          73.27      9.43
+ TO              50.05     58.7           35.4        38.17         50.72      43.16      42.43        54.88         45.76       26.99         22.76      TSI
+ NET             3.43      7.58           −17.02      −14.1         8.37       −0.3       −12.58       15.86         6.21        −10.78        13.33      42.64
+
+Notes: This table reports the directional spillover among crude oil, carbon and agriculture futures markets by the method of Baruník and Křehlík (2018) in
+frequency domain. The rightmost column (FROM) of this table indicates the directional spillover from all others to a specific futures market. The penultimate
+row (TO) of this table indicates the directional spillover to all others from a specific futures market. The bottom row (NET) shows the net spillover, i.e., the
+difference between TO and FROM spillover of a specific futures market. The number in the bottom right corner of this table (indicated in bold face) is the
+TOTAL spillover index (TSI) of all the futures markets.
+
+
+
+
+4.2. Frequency-domain spillover evidence by TVP-VAR-BK method
+
+    In Section 4.1, we present the time-domain spillover effects across ten cryptocurrency markets and CBDC attention. However,
+as noted by Baruník and Křehlík (2018), to better understand the sources of spillover effects in economic systems, it is crucial to
+realise the frequency dynamics of these spillover effects, since shocks to economic activity affect economic variables with different
+frequencies and intensities. We should believe that the main reason why economic agents operate at different investment horizons
+represented by various time frequencies (from short to long term) lies in the formation of their preferences at different time horizons.
+A financial system in which asset prices are driven by consumption growth with different cyclical components will naturally generate
+shocks with heterogeneous frequency responses. Thus, various sources of impacts generate an overall spillover effect in this system
+containing the short-, medium-, and long-run components (Dew-Becker and Giglio, 2016). Therefore, when quantifying spillover
+effects, we should carefully consider the different degrees of persistence of the relationships behind such overall spillovers (i.e., the
+spillover effects reveal in the time domain). Similarly, we should consider the frequency domain as a natural way to measure
+spillover effects in cryptocurrency markets (Li and Meng, 2022).
+    As a consequence, in this subsection, we employ the TVP-VAR-BK method to investigate further the frequency spillover effects
+among the ten cryptocurrencies and CBDC attention. Following the suggestions of Li and Meng (2022) and Umar et al. (2022), we
+divide the overall frequency band into two parts, one for short term (i.e., 1 to 4 weeks) and the other for long term (i.e., longer
+than 4 weeks). Then Tables 3 and 4 report the empirical measurements.
+    First of all, the major results of pairwise directional spillover, TO, FROM, NET, and TSI spillover indices are found to concentrate
+at a short-term frequency (i.e., 1 to 4 weeks). For example, the total spillover index (TSI) at the short term is measured to be
+
+                                                                               9
+Y. Wang et al.                                                                                      Research in International Business and Finance 64 (2023) 101896
+
+Table 4
+Mean spillover measurements among the ten cryptocurrencies and CBDC attention in frequency domain at long-term frequency (longer than 4 weeks).
+                 Bitcoin    Ethereum      Tether      USD coin      BNB        XPR        Binance      Cardano       Solana      Dogecoin      CBDC       FROM
+ Bitcoin         12.15      6.08          0.24        0.06          3.99       1.87       0.05         1.48          1.53        2.18          0.04       17.53
+ Ethereum        6.07       8.57          0.14        0.06          2.64       1.67       0.09         1.94          3.01        2.84          0.06       18.51
+ Tether          0.08       0.09          3.75        1             0.04       0.05       2.01         0.22          0.56        0.1           0.01       4.17
+ USD coin        0.64       0.15          2.15        5.13          0.3        0.1        4.48         0.06          0.39        0.12          0.12       8.5
+ BNB             5.91       4.51          0.16        0.06          11.38      3.39       0.01         2.48          3.41        2.16          0.5        22.59
+ XPR             2.35       4.63          0.03        0.02          2.64       9.29       0.08         2.68          3.51        1.58          0.77       18.31
+ Binance         0.37       0.13          2.65        2.23          0.34       0.21       5.31         0.07          0.35        0.17          0.16       6.67
+ Cardano         5.66       5.62          0.39        0.26          4.31       3.85       0.38         9.79          2.89        4.43          0.27       28.06
+ Solana          3.11       5.4           0.04        0.16          3.43       2.3        0.15         3.43          11.6        4.38          0.14       22.53
+ Dogecoin        1.57       3.62          0.13        0.26          1.32       3.46       0.14         1.04          2.09        13.8          0.46       14.09
+ CBDC            0.16       0.06          0.01        0.07          0.05       0.07       0.19         0.28          0.61        0.1           15.7       1.61
+ TO              25.93      30.29         5.93        4.17          19.06      16.98      7.58         13.68         18.34       18.07         2.53       TSI
+ NET             8.4        11.78         1.77        −4.33         −3.53      −1.33      0.91         −14.37        −4.19       3.99          0.93       14.78
+
+Notes: This table reports the directional spillover among crude oil, carbon and agriculture futures markets by the method of Baruník and Křehlík (2018) in
+frequency domain. The rightmost column (FROM) of this table indicates the directional spillover from all others to a specific futures market. The penultimate
+row (TO) of this table indicates the directional spillover to all others from a specific futures market. The bottom row (NET) shows the net spillover, i.e., the
+difference between TO and FROM spillover of a specific futures market. The number in the bottom right corner of this table (indicated in bold face) is the
+TOTAL spillover index (TSI) of all the futures mark.
+
+
+
+
+Fig. 5. Dynamic total spillover index (TSI) in frequency domain.
+Notes: The total spillover index(TSI) measures the spillover effect of ten cryptocurrencies and CBDC attention in frequency domain. This figure shows the stacked
+area map for total spillover, where the blue and orange parts indicate short-term and long-term net spillover indices, respectively.
+
+
+
+
+42.64%, while this index at long-term frequency is only 14.78%. These findings suggest that investors in cryptocurrency markets
+are more likely to do their trading activities in the short term (1 to 4 weeks) than in the long term (longer than 4 weeks), and thus
+policymakers and portfolio managers should pay closer attention to short-term market movements and knowing that formulate short-
+term regulatory and risk management strategies in cryptocurrency markets may be more effective than those made for long term
+programme. Secondly, we also find in Tables 3 and 4 that, the pairwise directional spillover indices between Bitcoin and Ethereum,
+as well as those between Binance and Tether (USD coin) are larger than the others, further proving that Bitcoin, Ethereum, Binance,
+Tether, and USD coin are the key markets in information exchange in this system. Finally, regarding net spillover effects, Table 2,
+Tables 3 and 4 show some different evidence. For example, in both time domain (Table 2) and in short-term frequency(Table 3),
+Bitcoin, Ethereum, BNB, Cardano, Solana, and CBDC attention are net spillover senders, while in long-term frequency Bitcoin,
+Ethereum, Tether, Binance, Dogecoin, and CBDC attention are net spillover transmitters. In other words, only Bitcoin, Ethereum,
+and CBDC attention are always the net spillover emitters in both time and frequency domains, implying that the CBDC attention is
+really an important exogenous impactor on cryptocurrency markets, and it can be used to design better regulatory, risk management
+and portfolio allocation tools for policymakers and portfolio managers.
+    Then Figs. 5 and 6 present the stacked area maps for total spillover (TSI) and net spillover indices of the ten cryptocurrencies
+and CBDC attention, respectively. On the one hand, Fig. 5 reveals that short-term (i.e., 1 to 4 weeks) total spillover of this system
+dominates the long-term one (i.e., longer than 4 weeks), further confirming the fact that these ten cryptocurrency markets and
+CBDC attention interact with each other mainly at short time horizon. Investors are more likely to trade cryptocurrencies and pay
+attention to the information from the central bank’s digital currency in the short term. On the other hand, we find in Fig. 6 that, most
+net spillover effects of the ten cryptocurrencies and CBDC attention centred at short term, with exceptions for Bitcoin, Ethereum,
+and Cardano, indicating that Bitcoin and Ethereum are long-term information leaders in cryptocurrency markets. Moreover, CBDC
+attention is a very powerful net spillover sender over other markets, and its net spillover effects on other markets are almost entirely
+
+                                                                               10
+Y. Wang et al.                                                                                        Research in International Business and Finance 64 (2023) 101896
+
+
+
+
+Fig. 6. Dynamic net spillover in frequency domain estimated by TVP-VAR-BK method.
+Notes: The Dynamic net spillover shows the net spillover effect of individual variables in the whole system in frequency domain. Positive values imply that
+the variable acts as a transmitter of systemic shocks, while negative values indicate that the role of the variable is a receiver in terms of systemic risk shocks,
+where the blue and orange parts indicate short-term and long-term net spillover indices, respectively. (For interpretation of the references to colour in this figure
+legend, the reader is referred to the web version of this article.)
+
+
+
+
+Fig. 7. Networks of net pairwise directional spillover index (NPDS) in frequency domain.
+Panels (a) and (b) show the NPDS by TVP-VAR-BK approach at time frequencies of 1 to 4 weeks and longer than 4 weeks, respectively. The red (green) nodes
+denote the transmitters (receivers) of NPDS. The size of one node represents the net spillover effects this node has. The arrow indicates the direction of NPDS,
+and the width of the line indicates the spillover intensity.. (For interpretation of the references to colour in this figure legend, the reader is referred to the web
+version of this article.)
+
+
+
+
+concentrated in the short-term component, implying its short-term dominant role in information transmission among cryptocurrency
+markets. Furthermore, we can see that, in both the short and long term Tether, USD coin, and Binance is the three major net spillover
+receivers in the system, especially in the first half of the data sample (i.e., roughly from April 2020 to April 2021). In summary, both
+Fig. 5 and Fig. 6 CBDC attention concentrate on short-term frequency (i.e., 1 to 4 weeks), and CBDC attention, as well as Bitcoin
+and Ethereum, are the major net spillover transmitters to other cryptocurrency markets.
+    Moreover, we illustrate the networks of net pairwise directional spillover index (NPDS) in Fig. 7 to investigate the changing roles
+of various cryptocurrency markets and CBDC attention at different time frequencies. Fig. 7 shows that three nodes (i.e., Bitcoin,
+Ethereum, and CBDC attention) do not change their characteristics as net pairwise spillover senders from short-term (1 to 4 weeks)
+to long-term (longer than 4 weeks) frequencies, proving their stable roles as information emitters to other markets. Taking it a step
+further, we can see that in Panel (a) of Fig. 7, CBDC attention is a net spillover sender to both Bitcoin and Ethereum markets within
+1 to 4 weeks, although in the longer-term its role decreases as shown in Panel (b) of Fig. 7. Then we find that only USD coin and
+
+                                                                                 11
+Y. Wang et al.                                                                                      Research in International Business and Finance 64 (2023) 101896
+
+Table 5
+Regression results of Bitcoin and Ethereum returns on spillover indices.
+                                TSI impact                                      NET impact                                    TSI and NET impacts
+                                Bitcoin                 Ethereum                Bitcoin               Ethereum                Bitcoin                  Ethereum
+                                −27.618*                −20.634                 −10.058               −14.846*                −26.842                  −7.994
+ Constant
+                                (16.410)                (23.820)                (7.654)               (8.804)                 (20.513)                 (26.843)
+                                0.145                                           0.167                                         0.125
+ Bitcoin(−1)
+                                (0.099)                                         (0.112)                                       (0.101)
+                                                        0.068                                         0.021                                            −0.004
+ Ethereum(−1)
+                                                        (0.091)                                       (0.091)                                          (0.083)
+                                −3.257**                −5.381*                                                               −3.659***                −6.320**
+ TSI
+                                (1.577)                 (3.172)                                                               (1.326)                  (2.651)
+                                3.753**                 5.769*                                                                3.988***                 6.177**
+ TSI(−1)
+                                (1.599)                 (3.228)                                                               (1.378)                  (2.808)
+                                                                                0.283                 2.125*                  0.485                    2.523**
+ 𝑁𝐸𝑇𝐵𝑖𝑡𝑐𝑜𝑖𝑛
+                                                                                (0.808)               (1.192)                 (0.758)                  (1.090)
+                                                                                −0.14                 −1.664                  −0.444                   −2.057*
+ 𝑁𝐸𝑇𝐵𝑖𝑡𝑐𝑜𝑖𝑛 (−1)
+                                                                                (0.781)               (1.206)                 (0.708)                  (1.062)
+                                                                                −0.553                −1.075                  −0.747                   −1.320*
+ 𝑁𝐸𝑇𝐸𝑡ℎ𝑒𝑟𝑒𝑢𝑚
+                                                                                (0.602)               -(0.966)                (0.474)                  (0.78)
+                                                                                1.027                 1.650*                  1.176**                  1.964***
+ 𝑁𝐸𝑇𝐸𝑡ℎ𝑒𝑟𝑒𝑢𝑚 (−1)
+                                                                                (0.657)               (0.953)                 (0.555)                  (0.759)
+ Adjusted 𝑅2                    0.076                   0.056                   0.035                 0.049                   0.079                    0.119
+
+Notes: The linear regression estimation is made by Least Squares with heteroscedasticity-consistent (Eicker–White) standard errors. TSI and NET are total spillover
+and net spillover index, respectively. (−1) after one regressor indicates the one-order lag of this series. The numbers in parentheses are the standard errors of
+the estimates.
+*Denote significance at 10% level.
+**Denote significance at 5% level.
+***Denote significance at 1% level.
+
+
+
+
+XPR are always the spillover recipients in both short- and long-term frequencies, and the roles of other markets reserve from short-
+to long-term frequencies. This result confirms the view put forward by Wang et al. (2022a) that CBDC attention has a positive
+correlation relationship with the cryptocurrency market’s volatility. At the same time, this analysis further expands his research
+and clearly shows the path of information fluctuation overflow. The simplified system nodes and spillover arrows show certain
+critical paths and causal relationships. It shows regulators how a CBDC could affect the cryptocurrency market and highlights the
+importance of Bitcoin and Ethereum. In this way, they better understand that when conducting regulation, they should pay more
+attention to the volatility overflow of Bitcoin and Ethereum. These outcomes further prove that, although Bitcoin and Ethereum are
+two major leaders in information exchanges among cryptocurrency markets, CBDC attention is also a key information transmitter
+for cryptocurrency markets, and should be considered as an important impactor on cryptocurrency prices.
+
+4.3. The impacts of spillover effects on cryptocurrency returns
+
+    In this sub-section, to understand what we can learn from the spillover effects among cryptocurrency markets and CBDC attention,
+we further investigate the impacts of total and net spillover effects on cryptocurrency market returns. As noted in Section 4.1 and
+Section 4.2, since Bitcoin and Ethereum are the two dominant markets over other cryptocurrency markets, we, therefore, focus
+on the impacts of total and net spillover effects on these two markets by using the commonly used multiple regression approach.
+The left part of Table 5 firstly shows the impacts of the total spillover index (TSI) on the returns of Bitcoin and Ethereum. We use
+constant, one-order lagged Bitcoin and Ethereum returns, TSI and one-order lagged TSI as regressors. It shows that, lagged Bitcoin
+and Ethereum returns do not have significant effects on the present returns of Bitcoin and Ethereum, suggesting that Bitcoin and
+Ethereum markets are efficient enough for impossibilities in speculation from their past performances. However, we find that both
+TSI and one-order lagged TSI have significant impacts on the returns of Bitcoin and Ethereum, which indicates that the total spillover
+effects among cryptocurrency markets and CBDC attention really help to explain and predict Bitcoin and Ethereum market returns.
+Moreover, the one-order lag of TSI has a positive influence on both Bitcoin and Ethereum returns, while the present TSI negatively
+affects their returns.
+    The middle part of Table 5 then demonstrates the impacts of net spillover effects (NET) on the Bitcoin and Ethereum returns.
+Similarly, we adopt constant, one-order lagged Bitcoin and Ethereum returns, NET and one-order lagged NET spillover indices
+of Bitcoin and Ethereum as regressors in this part. The estimation results present that most of the regressors have no significant
+effects on the Bitcoin and Ethereum returns, indicating the poor explanatory and predictive abilities of NET spillover effects on these
+markets. Finally, the right part of Table 5 investigates the impacts of both TSI and NET spillover indices on the Bitcoin and Ethereum
+returns. It reveals that again both TSI and lagged TSI have significant effects on the two returns, and also the NET spillover indices
+generally contribute to explaining and predicting them, especially for the Ethereum return. These results confirm that TSI and NET
+spillover effects among cryptocurrency markets and CBDC attention can significantly help to understand the price fluctuations in
+Bitcoin and Ethereum markets and offer us a new perspective to develop more effective predictive and risk management tools for
+cryptocurrency markets.
+
+                                                                                12
+Y. Wang et al.                                                                                       Research in International Business and Finance 64 (2023) 101896
+
+
+5. Conclusions
+
+    This paper utilises the TVP-VAR-DY and TVP-VAR-BK spillover models to study the spillover connectedness between cryptocur-
+rency markets and CBDC attention from two domains: time and frequency. To achieve this aim, we select the top ten cryptocurrencies
+and CBDCAI to represent the cryptocurrency markets and CBDC attention, separately.
+    The empirical results of this study show that there are four main findings in this research. Firstly, CBDCAI has a great impact
+on cryptocurrency markets, which could affect the price of cryptocurrencies. Moreover, Bitcoin and Ethereum could also serve as
+main risk volatility spillover transmitters. CBDC attention, Bitcoin, and Ethereum are the only three factors that keep stable positive
+net pairwise directional spillover. Secondly, from the time domain, Binance, Tether, and USD coin are primary spillover receivers
+that play a significant role in information transmission in the variable system. Third, from a frequency perspective, we find that the
+short-term TSI is smaller than that of the long-term TSI, which means investors prefer short-term transactions. Finally, through a
+linear regression analysis, our study can verify that TSI and NET spillover effects exist among cryptocurrency markets and CBDCAI
+has the predictive power for the price fluctuation in Bitcoin and Ethereum markets from a fixed-effect perspective.
+    From a social perspective, this paper could help investors, especially risk-averse investors, hedge their risks or predict the returns
+of Bitcoin and Ethereum promptly based on the new proxy of CBDCAI. Furthermore, because this paper indicates that investors
+tend to make more short-term investment decisions in cryptocurrency markets than long-term decisions, investment institutions can
+increase the net short positions of cryptocurrency assets in their portfolio, which could help them improve investment returns. This
+study also has several benefits for policymakers and financial market regulators. Through this study, they will be able to understand
+better how public attention to CBDCs can influence the fluctuations of cryptocurrency markets. So, when developing new policies,
+policymakers can predict the repercussions of their newly issued policies more accurately.
+    We believe it pertinent to mention two research pathways for future investigation of CBDCs. Firstly, the index used in this
+article is CBDCAI, Wang et al. (2022a) also developed the Central Bank Digital Currency Uncertainty Index (CBDCUI). Therefore, it
+would be interesting to analyse further the risk transmission channels between the CBDC uncertainty and cryptocurrency markets.
+Secondly, a linear regression model could only examine the predictive power of CBDCAI from a fixed-effect perspective. The
+following researchers could employ other classic forecasting detecting models to explore the predictive power of CBDC indices
+on financial markets.
+    As CBDCs continue to evolve, their influence in financial sectors will grow in the future. Because money will always be used,
+there would be many benefits to further research into CBDCs. As the digital currency continues to develop and the way of individual
+payments is changing, more and more countries are exploring the CBDC, which could definitely become one of the key pillars in
+the financial system. However, CBDCs are still in their infancy, and their roles in the monetary system are still untapped, and we
+can still explore the potential impacts of CBDCs.
+
+Declaration of competing interest
+
+    The authors declare that they have no known competing financial interests or personal relationships that could have appeared
+to influence the work reported in this paper.
+
+Data availability
+
+    Data will be made available on request.
+
+References
+
+Allen, F., Gu, X., Jagtiani, J., 2022. Fintech, cryptocurrencies, and CBDC: Financial structural transformation in China. J. Int. Money Finance 124, 102625.
+Antonakakis, N., Chatziantoniou, I., Gabauer, D., 2020. Refined measures of dynamic connectedness based on time-varying parameter vector autoregressions. J.
+    Risk Financial Manag. 13 (4), 84.
+Balvers, R.J., McDonald, B., 2021. Designing a global digital currency. J. Int. Money Finance 111, 102317.
+Barunik, J., Ellington, M., et al., 2020. Dynamic networks in large financial and economic systems. arXiv preprint arXiv:2007.07842.
+Baruník, J., Křehlík, T., 2018. Measuring the frequency dynamics of financial connectedness and systemic risk. J. Financ. Econom. 16 (2), 271–296.
+Bhaskar, R., Hunjra, A.I., Bansal, S., Pandey, D.K., 2022. Central bank digital currencies: Agendas for future research. Res. Int. Bus. Finance 101737.
+Davies, G., 2010. History of Money. University of Wales Press.
+Dew-Becker, I., Giglio, S., 2016. Asset pricing in the frequency domain: theory and empirics. Rev. Financ. Stud. 29 (8), 2029–2068.
+Diebold, F.X., Yilmaz, K., 2009. Measuring financial asset return and volatility spillovers, with application to global equity markets. Econ. J. 119 (534), 158–171.
+Diebold, F.X., Yilmaz, K., 2012. Better to give than to receive: Predictive directional measurement of volatility spillovers. Int. J. Forecast. 28 (1), 57–66.
+Dupuis, D., Gleason, K., Wang, Z., 2021. Money laundering in a CBDC world: A game of cats and mice. J. Financial Crime.
+Fernández-Villaverde, J., Sanches, D., Schilling, L., Uhlig, H., 2021. Central bank digital currency: Central banking for all? Rev. Econ. Dyn. 41, 225–242.
+Gans, J.S., Halaburda, H., 2015. Some economics of private digital currency. In: Economic Analysis of the Digital Economy. University of Chicago Press, pp.
+    257–276.
+Gao, Y., Li, Y., Wang, Y., 2021. The dynamic interaction between investor attention and green security market: an empirical study based on Baidu index. China
+    Finance Rev. Int.
+Gomber, P., Kauffman, R.J., Parker, C., Weber, B.W., 2018. On the fintech revolution: Interpreting the forces of innovation, disruption, and transformation in
+    financial services. J. Manage. Inf. Syst. 35 (1), 220–265.
+Goodell, J., Paltrinieri, A., Pisera, S., 2022. Comparing search-engine intensity and regulatory attention impacts on cryptocurrencies: Uncovering important
+    heterogeneities. Rev. Corp. Finance 3 (2).
+Griffin, J.M., Shams, A., 2020. Is Bitcoin really untethered? J. Finance 75 (4), 1913–1964.
+
+
+                                                                                13
+Y. Wang et al.                                                                                       Research in International Business and Finance 64 (2023) 101896
+
+
+Jabbar, A., Geebren, A., Hussain, Z., Dani, S., Ul-Durar, S., 2023. Investigating individual privacy within CBDC: A privacy calculus perspective. Res. Int. Bus.
+     Finance 64, 101826.
+Jagtiani, J., Papaioannou, M., Tsetsekos, G., Dolson, E., Milo, D., 2021. Cryptocurrencies: regulatory perspectives and implications for investors. In: The Palgrave
+     Handbook of Technological Finance. Springer, pp. 161–186.
+Kuehnlenz, S., Orsi, B., Kaltenbrunner, A., 2023. Central bank digital currencies and the international payment system: The demise of the US dollar? Res. Int.
+     Bus. Finance 64, 101834.
+Laboure, M., H.-P. Müller, M., Heinz, G., Singh, S., Köhling, S., 2021. Cryptocurrencies and cbdc: The route ahead. Glob. Policy 12 (5), 663–676.
+Lee, D.K.C., Yan, L., Wang, Y., 2021. A global perspective on central bank digital currency. China Econ. J. 14 (1), 52–66.
+Letho, L., Chelwa, G., Alhassan, A.L., 2022. Cryptocurrencies and portfolio diversification in an emerging market. China Finance Rev. Int.
+Li, Z., Meng, Q., 2022. Time and frequency connectedness and portfolio diversification between cryptocurrencies and renewable energy stock markets during
+     COVID-19. N. Am. J. Econ. Finance 59, 101565.
+Li, F., Yang, T., Du, M., Huang, M., 2023. The development fit index of digital currency electronic payment between China and the one belt one road countries.
+     Res. Int. Bus. Finance 64, 101838.
+Lucey, B.M., Vigne, S.A., Yarovaya, L., Wang, Y., 2022. The cryptocurrency uncertainty index. Finance Res. Lett. 45, 102147.
+Marmora, P., 2022. Does monetary policy fuel bitcoin demand? Event-study evidence from emerging markets. J. Int. Financial Mark. Inst. Money 77, 101489.
+Marobhe, M.I., 2021. Cryptocurrency as a safe haven for investment portfolios amid COVID-19 panic cases of Bitcoin, Ethereum and Litecoin. China Finance
+     Rev. Int.
+Minesso, M.F., Mehl, A., Stracca, L., 2022. Central bank digital currency in an open economy. J. Monetary Econ. 127, 54–68.
+Morgan, J., 2022. Systemic stablecoin and the defensive case for Central Bank Digital Currency: A critique of the bank of England’s framing. Res. Int. Bus.
+     Finance 62, 101716.
+Mzoughi, H., Benkraiem, R., Guesmi, K., 2022. The bitcoin market reaction to the launch of central bank digital currencies. Res. Int. Bus. Finance 63, 101800.
+Nabilou, H., 2019. How to regulate bitcoin? Decentralized regulation for a decentralized cryptocurrency. Int. J. Law Inf. Technol. 27 (3), 266–291.
+Ngo, V.M., Van Nguyen, P., Nguyen, H.H., Tram, H.X.T., Hoang, L.C., 2022. Governance and monetary policy impacts on public acceptance of CBDC adoption.
+     Res. Int. Bus. Finance 101865.
+Ozili, P.K., 2022. Central bank digital currency research around the World: a review of literature. J. Money Laund. Control.
+Pompella, M., Matousek, R., 2021. The Palgrave Handbook of FinTech and Blockchain. Springer.
+Scharnowski, S., 2022. Central bank speeches and digital currency competition. Finance Res. Lett. 49, 103072.
+Sinelnikova-Muryleva, E.V., 2020. Central bank digital currencies: Potential risks and benefits. Voprosy Ekon. (4), 147–159.
+Umar, M., Farid, S., Naeem, M.A., 2022. Time-frequency connectedness among clean-energy stocks and fossil fuel markets: Comparison between financial, oil
+     and pandemic crisis. Energy 240, 122702.
+Vozlyublennaia, N., 2014. Investor attention, index performance, and return predictability. J. Bank. Financ. 41, 17–35.
+Wang, Y., 2022. Volatility spillovers across NFTs news attention and financial markets. Int. Rev. Financ. Anal. 83, 102313.
+Wang, Y., Lucey, B.M., Vigne, S.A., Yarovaya, L., 2022a. The effects of central bank digital currencies news on financial markets. Technol. Forecast. Soc. Change
+     180, 121715.
+Wang, Y., Lucey, B., Vigne, S.A., Yarovaya, L., 2022b. An index of cryptocurrency environmental attention (ICEA). China Finance Rev. Int.
+Wang, Y.-R., Ma, C.-Q., Ren, Y.-S., 2022c. A model for CBDC audits based on blockchain technology: Learning from the DCEP. Res. Int. Bus. Finance 63, 101781.
+Wang, C., Shen, D., Li, Y., 2022d. Aggregate investor attention and bitcoin return: The long short-term memory networks perspective. Finance Res. Lett. 49,
+     103143.
+Ward, O., Rochemont, S., 2019. Understanding Central Bank Digital Currencies (CBDC). Institute and Faculty of Actuaries.
+Wei, Y., Liang, C., Li, Y., Zhang, X., Wei, G., 2020. Can CBOE gold and silver implied volatility help to forecast gold futures volatility in China? Evidence based
+     on HAR and Ridge regression models. Finance Res. Lett. 35, 101287.
+Wei, Y., Zhang, Y., Wang, Y., 2022. Information connectedness of international crude oil futures: Evidence from SC, WTI, and Brent. Int. Rev. Financ. Anal. 81,
+     102100.
+
+
+
+
+                                                                                14
+

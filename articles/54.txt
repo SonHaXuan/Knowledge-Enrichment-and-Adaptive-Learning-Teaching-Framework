@@ -1,0 +1,686 @@
+Research in International Business and Finance 65 (2023) 101909
+
+Contents lists available at ScienceDirect
+
+Research in International Business and Finance
+journal homepage: www.elsevier.com/locate/ribaf
+
+Directional predictability from central bank digital currency to
+cryptocurrencies and stablecoins
+Ahmed Ayadi a, b, c, Yosra Ghabri d, *, Khaled Guesmi e
+a
+
+Center of Research for Energy and Climate Change (CRECC), Paris School of Business, France
+University of Paris 8, France
+Laboratory of Applied Economics and Finance, University of Carthage, Tunisia - Paris School of Business, France
+d
+Higher Institute of Finance and Taxation Sousse - Laboratory of Applied Economics and Finance, University of Carthage, Tunisia - Center of
+Research for Energy and Climate Change (CRECC), France
+e
+Center of Research for Energy and Climate Change (CRECC), Paris School of Business, France
+b
+c
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+CBDC
+Cryptocurrencies
+Stablecoins
+Directional predictability
+Cross-Quantilogram model
+
+This paper investigates the interaction and the directional predictability between the central bank
+digital currencies (CBDCs) and the major cryptocurrencies and stablecoins during the period
+between 17 May, 2019–31 December, 2021. To this aim, we employ the "Cross-Quantilogram”
+model, to examine how and whether the traditional digital currencies react to the CBDC uncer­
+tainty and attention shocks. Our findings suggest that CBDC uncertainty index is negatively
+related to cryptocurrency and stablecoin returns. Furthermore, the CBDC attention index is
+negatively associated with Bitcoin, Ethereum, XPR and Terra USD, however, it is positively
+related to Tether, Binance, USD Coin and Dai. Our results are useful for regulators, investors and
+policy makers, to understand and assess the potential effect of CBDC adoption news on the
+volatility of the stablecoins and traditional cryptos.
+
+1. Introduction
+Blockchain technology and decentralized finance have led to new forms of digital currencies over the past decade (Hoang et al.,
+2023). Indeed, the huge success of Bitcoin, considered as the most prominent crypto asset, and the rise of new forms of virtual cur­
+rencies have revived the debate among investors, and policymakers, about its usefulness as an alternative to fiat currencies and its
+effect on other financial assets.
+The ongoing digitalization has changed the means of payment, shaping the role of banks and the future of financial intermediation
+(Tata, F, 2023). Simultaneously, many central banks, including the United States Federal Reserve and the People’s Bank of China, are
+currently developing and issuing public digital forms of fiat currency, leading to the introduction of central bank digital currency
+(CBDC), and providing a public instrument of payment with the same features of digital currencies that are still unregulated.
+According to the IMF, CBDCs are considered “a widely accessible digital form of fiat money available to the public, that could be
+legal tender”, (Kiff et al., 2020). Like traditional central bank money (coins and notes), CBDC would be an alternative to fiat currency
+(Krylov et al., 2018 and Yao, 2018b). As new variants of public central bank money, CBDCs differ from central bank reserve of cash
+(Boar et al., 2020).
+
+* Corresponding author.
+E-mail addresses: ahmed_ayedi93@live.fr (A. Ayadi), yosra.ghabri@isffs.u-sousse.tn (Y. Ghabri), k.guesmi1@psbedu.paris (K. Guesmi).
+https://doi.org/10.1016/j.ribaf.2023.101909
+Received 1 June 2022; Received in revised form 11 February 2023; Accepted 24 February 2023
+Available online 2 March 2023
+0275-5319/© 2023 Elsevier B.V. All rights reserved.
+
+Research in International Business and Finance 65 (2023) 101909
+
+A. Ayadi et al.
+
+Compared with other cryptocurrencies, the implementation of CBDC has several potential benefits. For instance, it improves the
+control of money laundering and illicit payments, saves costs, provides additional instruments of payment to the public, and
+strengthens the resilience of the payment system. However, the introduction of CBDC could rebuild the financial system architecture,
+redefine the role of financial intermediaries and challenge the international payment systems (Brunnermeier et al., 2019). Among all
+central bank projects on CBDC, China is the most advanced country in creating its own CBDC (Auer et al., 2020). The Bahamas and
+Uruguay recently completed technical tests to implement their CBDC.
+These recent developments, have sparked extensive debate and garnered attention among economists, regulators, central banks
+and academics to examine the merits and dangers of introducing CBDC as digital public money and its effect on the financial and the
+monetary system.
+In this context, a growing strand of research focuses on the qualitative characteristics, main models, and the technological inno­
+vation of CBDC (Masciandaro, 2018; Kirkby, 2018; Qian, 2019; Kochergin, 2021; Cunha et al., 2021, 2021c; Wang et al., 2022). Other
+studies focus on the privacy and security of CBDC (Pocher and Veneris, 2021; Borgonovo et al., 2021). Another strand of literature
+examines the effect of CBDC on the financial system and monetary policy. Kuehnlenz et al. (2023) examine the effect of the creation of
+CBDC on the US dollar and show that the introduction of CBDC will not affect the role of the US dollar considered as the key currency of
+the international financial and monetary system. Through a qualitative study, Shen and Hou (2021) examined the impact of the launch
+of CBDC on the monetary system in China and found that CBDC adoption can transform the monetary system if it is used on a large
+scale. However, Davoodalhosseini (2021) showed that CBDC can bear interest rates. Sinelnikova-Muryleva (2020) argued that, during
+financial crises, some agents prefer to transfer money using CBDC rather than commercial banks. Furthermore, Sissoko (2020) indi­
+cated that some regulators consider CBDC as a stablecoin. Other studies found that CBDC has a positive effect on financial stability
+(Copeland, 2020; Larina and Akimov, 2020; Buckley et al., 2021). Elsayed and Nasir (2022) explained the economic rationale of CBDC
+and examined the impact of its implementation on financial stability, monetary policy transmission and inflation targeting.
+Applying a four-sector DSGE model, Tong and Jiayou (2021) examined the economic consequences of using electronic payment
+and digital currencies and found that CBDCs affect the systematic financial risk and the leverage ratio. In the same vein, using the same
+method, Barrdear and Kumhof (2021), investigated the effect of issuing CBDC on macroeconomic indicators and showed that CBDC
+issuance accounts for 30% of the GDP, and could be raised by 3% against government bonds. Laboure et al. (2021) studied the main
+drivers of digital currencies and CBDC implementation and examined the effect of introducing cryptocurrencies to a diversified
+portfolio. They also outlined the current status of CBDC adoption projects. Auer and Claessens (2021) examined how the crypto­
+currency market reacts to regulatory actions and showed that the effect depends on the specific regulatory category. Using the case of
+the Bank of England, Morgan (2022) argued the CBDC’s defensive role and its ability to avert the potential problems associated with
+stablecoin.
+Recently, Wang et al. (2022) developed two new CBDC indices, the CBDC uncertainty index (CBDCUI) and CBDC attention index
+(CBDCAI) to examine the effect of CBDC news on financial markets. Applying a quantitative approach, based on the SVAR and
+DCC-GJR-GARCH models, they found that CBDC indices are negatively and significantly related to the MSCI World Bank Index and the
+FTSE All-World Index volatility. However, these indices are positively associated with the volatility of Bitcoin, VIX, forex markets, and
+gold.
+From a quantitative perspective, there is no consensus so far on the effect of the CBDC adoption on traditional cryptocurrencies and
+stablecoins. Despite the growing interest of investors and policy makers in the implications of the CBDC for cryptocurrency and
+financial markets, the recent literature on CBDC opportunities is still limited. Few studies have provided a rationale to consider the
+response of traditional digital currencies to the CBDC uncertainty and attention shocks. The growing debate on CBDC implications
+motivates us to use a quantitative approach to examine the reaction of cryptocurrencies and stablecoins to CBDC news using a
+quantitative approach. Specifically, none of the related studies has evaluated the effect of CBDC shocks on the cryptocurrency market
+applying the Cross-Quantilogram method. Our study fills this gap in the literature and examines the directional predictability between
+CBDC news and cryptocurrencies and stablecoins volatility providing new insights. We contribute to the existing studies and inves­
+tigate the dependence and the interconnections between CBDC news and the returns on cryptocurrencies and stablecoins. More
+importantly, applying the Cross- Quantilogram technique, this paper identifies the predictability direction and analyses the key
+channels through which the effects of this new asset are transferred to traditional crypto assets. Hence, we used two novel CBDC
+indices, the CBDC attention index (CBDCAI) and the CBDC uncertainty index (CBDCUI), developed by Wang et al. (2022) to assess
+CBDC variations and trends. Our sample includes the top eight cryptocurrencies and stablecoins from May 2019 to December 2021.
+Applying the Cross-Quantilogram model to assesses the abnormal returns of the most prominent cryptocurrencies and stablecoins
+around CBDC issuance, our results show that the CBDC uncertainty index is negatively related to cryptocurrency and stablecoin
+returns. Specifically, if the CBDC uncertainty index is low, Bitcoin has a higher return during the following weeks. Our findings also
+show that the CBDC attention index is also negatively associated with Bitcoin, Ethereum, XPR and Terra USD. However, Tether,
+Binance, USD Coin and Dai are positively related to the CBDC attention index. Their returns are likely to decrease over the next few
+weeks following a low attention index. However, when the indices are in their upper quantiles, the findings suggest that Bitcoin,
+Ethereum, XPR and Terra USD are expected to realize losses in the following weeks when the uncertainty index is high and realize gains
+when the attention index is high.
+We contribute to the previous literature from a methodological perspective, using a framework that aims to assess the interaction
+between CBDC indices and traditional crypto assets providing new evidence on how the volatility of the digital irregulated currencies is
+affected by CBDC attention and uncertainty. Moreover, our findings give valuable insights on the dynamics between public and private
+digital currencies. Information on the extent of the interaction between CBDC and traditional digital currencies and stablecoins is
+important for investors, policy makers and regulators to assess the effect of its usefulness as an alternative to fiat currencies and adjust
+2
+
+Research in International Business and Finance 65 (2023) 101909
+
+A. Ayadi et al.
+
+Table 1
+Descriptive statistics.
+CBDC uncertainty index
+CBDC attention index
+Bitcoin
+Ethereum
+Tether (USDT)
+Binance USD
+USD Coin (USDC)
+XRP USD
+TerraUSD
+Dai USD
+
+Nbr
+
+Min
+
+Max
+
+Median
+
+Mean
+
+Var
+
+Std dev
+
+138
+138
+138
+138
+138
+138
+138
+138
+138
+138
+
+99,36055
+99,5961
+5238,438
+123,3212
+0,997851
+0,995377
+0,978038
+0,150214
+0,131578
+0,971302
+
+106,1566
+106,0224
+65992,84
+4626,359
+1,017519
+1,018518
+1,02821
+1,562641
+113,0699
+1,034467
+
+100,2291
+100,0255
+11752,65
+373,0974
+1,000626
+1,000188
+1,000174
+0,300008
+0,87716
+1,000707
+
+100,8976
+101,1513
+24710,06
+1235,237
+1,001411
+1,00103
+1,001177
+0,501476
+18,60139
+1,002094
+
+2,284564
+3,654043
+3,72E+ 08
+1930348
+6,82E-06
+8,19E-06
+2,04E-05
+0,132668
+832,1629
+5,59E-05
+
+1,511478
+1,911555
+19281,59
+1389,37
+0,002611
+0,002861
+0,004512
+0,364236
+28,84723
+0,007473
+
+Note: The table above presents the descriptive statistics of both the CBDC indices and the selected cryptocurrencies and stablecoins. It reports the
+number of observations, minimum, maximum, median, mean, variance and standard deviation of each variable
+
+their risk management strategies especially during financial crisis.
+This study is presented as follows. Section 2 provides the data. Section 3 introduces and describes the methodology. Section 4
+analyses and discusses the main findings. Section 5 concludes.
+2. Data
+Our study is based on two CBDC indices developed by Wang et al. (2022): the CBDC attention index (CBDCAI) and the CBDC
+uncertainty index (CBDCUI). We also used the weekly closing prices of the top cryptocurrencies and stablecoins based on their market
+capitalization (Bitcoin, Ethereum, Tether, Binance, USD Coin, XRP, Terra and Dai). CBDC indices data are collected from the study of
+Wang et al. (2022); however, the weekly data on cryptos and stablecoins are obtained from coinmarketcap.com. The weekly data span
+from 17 May, 2019–31 December, 2021.
+The CBDC uncertainty index and the CBDC attention index were constructed by collecting data from LexisNexis News and Business
+(Wang et al., 2022). According to the authors, this database provides a greater access to various publications from different sources and
+time. Moreover, a process of standardization and normalization of these data is applied by the authors as this allows the data to be
+sorted on the same scale.1
+Table 1 reports the descriptive statistics for both CBDC indices and other digital currencies. The values indicate that the attention
+index has an average return slightly higher than the uncertainty index. Moreover, the attention index is more volatile. Regarding the
+digital currencies, Bitcoin has the largest mean return, followed by Ethereum, Terra, Dai, Tether, USD Coin, XPR and Binance. In other
+words, Bitcoin has the highest performance, while Binance has the lowest. In terms of volatility, Bitcoin is the most volatile, while
+Tether is the least. Among the other currencies, Ethereum is the most volatile, followed by Terra, XPR, Dai, USD Coin, Binance and
+Tether. These results suggest that Bitcoin is expected to have the highest interaction with both indices. On one hand, it would attract
+investors because it would be the best performing and on the other hand, it would be the most uncertain owing to its high volatility
+compared with the other virtual currencies.
+3. Methodology
+3.1. The Quantilogram approach
+The “Quantilogram” method was introduced by Linton and Whang (2007) to measure the predictability of financial assets returns
+in different distribution parts of a stationary time series based on the correlogram of quantile hits. The null hypothesis supposes that
+{ }
+the past information of a stationary time series yt does not improve the prediction of yt , whether it will be above or below the
+unconditional quantile. This test is based on the comparison of the “Quantilogram” to a pointwise confidence band.
+According to Han et al. (2016), the “Quantilogram” approach has various advantages compared with other methodologies used to
+detect predictability. First, this model can be easily interpreted as it is based on quantile hits and does not require moment conditions
+1
+
+The indices are calculated as follows:CBDCUI t =
+
+(
+
+N1t − μ1
+
+σ1
+
+)
+
++ 100where:
+
+– CBDCUIt is the value of the CBDCUI in the week t,
+– N1 t is the weekly observed value of news articles on LexisNexis concerning CBDC uncertainty,
+– μ1 is the mean of these same articles,
+– σ1 is the standard deviation of these articles.An average value of 100 is added to eliminate the potential negative impact caused by the total
+volume of articles varying by publication source and time.The same formula and variables are applied for the CBDC Attention Index.
+3
+
+Research in International Business and Finance 65 (2023) 101909
+
+A. Ayadi et al.
+
+Fig. 1. Portmenteau statistic for the uncertainty index, 0.1 quantile. Portmenteau statistic for the uncertainty index, 0.1 quantile. Portmenteau
+statistic for the uncertainty index, 0.9 quantile. Portmenteau statistic for the uncertainty index, 0.9 quantile.
+
+such as the ordinary correlogram. Therefore, it works well with heavy-tailed time series. Second, this framework allows us to use very
+long lags in comparison with regression methods. Third, the “Quantilogram” is useful in cases where the null hypothesis of unpre­
+dictability is assumed to be true and the degree of predictability of a time series across different quantiles can be measured. Moreover,
+Han et al. (2016) developed this methodology using a multivariate series and allowed the “Quantilogram” to be based on conditional
+4
+
+Research in International Business and Finance 65 (2023) 101909
+
+A. Ayadi et al.
+
+Fig. 1. (continued).
+
+quantiles. Both time series can be compared using this approach after controlling for the type of information at the time of prediction.
+Additionally, the “Cross-Quantilogram” adds another dimension to analyse predictability compared with the linear quantile regres­
+sion. Thus, it provides a comprehensive image of the relationship between the predictor and the predicted variable.
+3.2. The cross Quantilogram model
+{(
+)
+}
+)T
+(
+We suppose that yt , xt : t ∈ Z is a strictly stationary time series with yt = y1t + y2t ∈ R2 and xt = (x1 t, x2 t) ∈ Rd1 × Rd2,
+(1)
+(di)
+di
+where xit = [xit ,., xit ] ∈R and di ∈ N for i = 1, 2.
+5
+
+Research in International Business and Finance 65 (2023) 101909
+
+A. Ayadi et al.
+
+Fig. 2. Cross-Correlogram of the uncertainty index, 0.1 quantile. Cross-Correlogram of the uncertainty index, 0.1 quantile. Cross-Correlogram of the
+uncertainty index, 0.9 quantile. Cross-Correlogram of the uncertainty index, 0.9 quantile.
+
+We use Fyi|xi (⋅|xit) to denote the conditional distribution function of the series yit. xit is a density function fyi|xi(⋅|xit), and the
+corresponding conditional quantile function is defined as.
+qi,t(τi) = inf{v: Fyi|xi(v|xit) ≥ τi} for τi ∈(0, 1), and i = 1, 2.
+6
+
+Research in International Business and Finance 65 (2023) 101909
+
+A. Ayadi et al.
+
+Fig. 2. (continued).
+
+We consider T as the range of quantiles; we are interested in evaluating the directional predictability. For simplicity, we assume
+–
+that T is a Cartesian product of two closed intervals in (0, 1), that is T –
+– T1 × T2, where Ti = [τi , τi ] for some 0 < τi < τi < 1.
+We also consider a measure of serial dependence between two events {y1 t ≤ q1,t(τ1)} and.
+{y2,t− k ≤ q2,t− k(τ2)} for an arbitrary pair of τ = (τ1, τ2)T ∈ T and for an integer k.
+In the literature, {1[yit ≤ qi,t(⋅)]} is called the quantile-hit or quantile-exceedance process for i = 1,2.
+The “Cross Quantilogram” is defined as the cross-correlation of the quantile hit process:
+7
+
+Research in International Business and Finance 65 (2023) 101909
+
+A. Ayadi et al.
+
+Fig. 3. Portmenteau statistic for the attention index, 0.1 quantile. Portmenteau statistic for the attention index, 0.1 quantile. Portmenteau statistic
+for the attention index, 0.9 quantile. Portmenteau statistic for the attention index, 0.9 quantile.
+
+8
+
+Research in International Business and Finance 65 (2023) 101909
+
+A. Ayadi et al.
+
+Fig. 3. (continued).
+
+[
+
+(
+
+)
+
+]
+
+E ψ τ1 y1t − q1,t (τ1 ) ψ τ2 (y2,t− k − q2,t− k (τ2 ))
+̅√̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅
+ρτ (k) = √̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅
+[ (
+[ (
+)]
+)]
+E ψ 2τ1 y1t − q1,t (τ1 )
+E ψ 2τ2 y2,t− k − q2,t− k (τ2 )
+
+(1)
+
+– 1[u< 0]-a.
+where: k = 0 ± 1,± 2…, and ψa(u) –
+–
+The partial “Cross Quantilogram” is defined as:
+p
+pτ,11 pτ,22
+
+(2)
+
+τ,12
+ρτ|z = − √̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅
+̅
+
+The partial cross-correlation is defined as follows:
+√̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅
+τ (1 − τ1 )
+ρτ|z = δ 1
+τ2 (1 − τ2 )
+
+(3)
+
+4. Empirical results
+4.1. Result interpretation
+We used the “Quantilogram” model to check the directional predictability between the returns of the CBDCUI and CBDCAI indices
+and that of eight cryptocurrencies and stablecoins: Bitcoin, Ethereum, Tether, Binance, USD Coin, XRP, Terra and Dai. These digital
+currencies are labelled in US dollars. We check for the directional predictability when the returns of the CBDC indices are in their lower
+and higher quantiles, and when the returns of the cryptocurrencies and stablecoins are in nine quantiles: left (0.05, 0.1 and 0.2),
+shoulder (0.3, 0.5 and 0.7) and right quantiles (0.8, 0.9 and 0.95). We used the continuously compounded returns in our analysis,
+which are calculated using the first-difference in the logarithmic values of two consecutive prices.
+CCRi,t = ln(
+
+Pi,t
+) ∗ 100
+pi,t− 1
+
+where:
+9
+
+Research in International Business and Finance 65 (2023) 101909
+
+A. Ayadi et al.
+
+Fig. 3. (continued).
+
+– CCRi,t is the continuously compounded returns for an asset i at time t.
+– Pi,t is the price of an asset i at time t.
+Fig. 1 shows the “Portmonteau” statistic for the predictability from the CBDC uncertainty index towards digital currencies. Fig. 2
+shows the cross-correlogram for the predictability from the CBDC uncertainty index towards cryptocurrencies and stablecoins.
+However, Fig. 3 illustrates the “Portmonteau” statistic for the predictability from the CBDC attention index towards the cryptos. Fig. 4
+shows the cross-correlogram for the predictability from the attention index towards virtual currencies. Then, Fig. 5 reports the evo­
+lution of the cryptocurrency prices and indices.
+We start our analysis by examining the case when the CBDC indices are in their low quantiles (0.1). The Portmonteau statistic
+results show that the level of predictability is low and significant. Accordingly, overall, the behaviour of the cryptocurrencies and
+stablecoins cannot be predicted from the behaviour of the CBDC indices. However, the findings show that there is no predictability
+from the CBDC indices to cryptocurrencies.
+The cross-correlogram results show that in some cases, the behaviour of cryptocurrencies in the next few days can be identified in
+some intervals. Starting with the CBDC uncertainty index, the results show that when the CBDCUI is low, Bitcoin will earn good returns
+over the next week when it is already low, as negative predictability is documented. Yet, when we move to the shoulders and the right
+tail of Bitcoin, having good returns, the directional predictability becomes positive, suggesting that Bitcoin returns will decrease over
+the next few days when the uncertainty index is low. These results are mostly insignificant. The most significant results are documented
+in the 0.05 and 0.9 quantiles of digital currencies, suggesting that they become more sensitive to the CBDC uncertainty index when
+their performance is at the highest and lowest, respectively, although the uncertainty index is at its lowest performance. The ‘crosscorrelogram’ results show that the overall pattern of the predictability from CBDC uncertainty index towards the rest of the crypto­
+currencies included in the study is similar to the pattern documented for the relationship with Bitcoin. This result suggests that the
+returns of cryptocurrencies are most sensitive to the CBDC uncertainty index when they are in their lowest or highest quantiles. When
+the uncertainty is low, low cryptocurrency performance is likely to increase over the next few weeks and the good cryptocurrency
+performance is likely to decrease during that time.
+Our findings on the predictability from the CBDCAI in relation to the returns of the cryptocurrencies, when the CBDC is at its 0.1
+quantile show again that the relationship between the index and cryptocurrencies is mostly significant when the virtual currencies are
+at their lowest (0.05) and highest (0.95) quantiles. Starting with Bitcoin, the graphics report that when the CBDCAI is low, Bitcoin’s
+performance is likely to increase over the next few weeks when it is already very low, as the relationship is shown to be negative. For
+10
+
+Research in International Business and Finance 65 (2023) 101909
+
+A. Ayadi et al.
+
+Fig. 4. Cross-Correlogram for the attention index, 0.1 quantile. Cross-Correlogram for the attention index, 0.1 quantile. Cross-Correlogram for the
+attention index, 0.9 quantile. Cross-Correlogram for the attention index, 0.9 quantile.
+
+11
+
+Research in International Business and Finance 65 (2023) 101909
+
+A. Ayadi et al.
+
+Fig. 4. (continued).
+
+the rest of the quantiles, the relationship is mostly positive. This pattern is also detected for the relationship between the attention
+index and Ethereum, XPR and Terra USD.
+This relationship is explained by the fact that when the assets are in their highest (lowest) performance, investors would be
+prompted to sell (buy) these assets massively to avoid losses (make profits). Consistent with the previous market events, these actions
+could potentially lead to market crashes, thereby increasing investors’ fear about the occurrence of an unexpected market event.
+Consequently, the relationship with the uncertainty index becomes significant even when the uncertainty is already low, as an extreme
+asset performance normally raises uncertainty.
+Regarding the rest of the cryptocurrencies, Tether, Binance, USD Coin and Dai, the graphs of the “Quantilogram” model show that
+with a low performance of the CBDC index, the later cryptocurrencies are likely to have large losses when they are already low and to
+earn large gains when they are already high in the coming weeks. This relationship is highest when the cryptocurrency returns are in
+their left and right tails and more moderate in the shoulder quantile ranges. These findings suggest that these later cryptocurrencies
+and stablecoins are expected to continue their original performance when the CBDCAI is low. This result indicates that these assets are
+expected to maintain their original performance. In other words, when market participants ignore the evolution of an asset’s prices and
+returns in the market, no selling or buying will occur, then these assets would not alter their behaviour. Consequently, the same pattern
+of returns is maintained during the upcoming weeks.
+We now focus on the relationship between the CBDC indices and the various cryptocurrencies when the indices have a high
+performance, that is, when they are in the 0.9 quantile. Starting with the CBDC uncertainty index, the portmanteau statistics graphics
+show that there is low and insignificant predictability from the returns of these indices when they are in the 0.9 quantile range.
+Similarly for the predictability from the returns of the CBDCAI towards the returns of the cryptocurrencies. Despite the insignificant
+relationship, the graphics are shown to be closer to the confidence boundary, suggesting that the relationship is more significant than
+when the CBDC indices are in the 0.1 quantile range. Consequently, the behaviour of the various cryptocurrencies mentioned in this
+study is not predictable from the behaviour of the CBDC indices.
+Starting with Bitcoin, the cross-correlogram graphics show that in high uncertainty (the CBDCU index is at the 0.9 quantile), Bitcoin
+is expected to realise small gains when they are in their lowest quantile, because the relationship is small and significant. For the rest of
+the quantiles, the predictability becomes large and negative, suggesting that Bitcoin will face significant losses in the upcoming weeks;
+however, this relationship is not significant. In the cryptocurrency’s uppermost quantile, although there are expected losses, they
+become smaller than the rest of the quantiles. Turning to Ethereum, the ‘Cross-correlogram’ graphics show patterns similar to those of
+12
+
+Research in International Business and Finance 65 (2023) 101909
+
+A. Ayadi et al.
+
+Fig. 4. (continued).
+
+Bitcoin. When the uncertainty is high, small significant gains are reported in the cryptocurrency’s lowest quantiles (0.05 and 0.1),
+which turn to be larger losses for the rest of the quantiles. In the 0.95 quantile range, these losses become smaller in magnitude but
+more clustering and significant. This pattern in also reported for Therra and XPR digital currencies. These findings are expected. When
+uncertainty is high, the pattern of the traded assets would likely change. When these assets have low returns, the uncertainty of
+whether these assets will maintain their low prices drives investors to trade more, which would eventually enhance the performance.
+However, a high uncertainty, even when the assets have normal or high performance, would push market participants to try to get rid
+of these assets, which would eventually inhibit these assets’ performance.
+Considering the rest of cryptos (Tether, Binance, USD Coin and Dai), the ‘cross-correlogram’ graphics show that when uncertainty is
+high, the cryptocurrencies show small gains, followed by large losses (when they are in their lowest quantiles) and small losses,
+followed by larger gains (when they are already in their highest quantiles). As shown in Fig. 5, their prices are relatively less stable than
+Bitcoin, Ethereum, Therra and XPR. Consequently, when uncertainty is high, it drives assets with low returns to realise small gains in
+the upcoming weeks and those with very high performance to realise small losses over the course of the upcoming weeks. Nonetheless,
+the uncertainty that drives market participants to engage in more trade eventually alters the performance of these assets, turning losses
+into gains and vice versa.
+Regarding the CBDCAI in relationship with Bitcoin, Ethereum, XPR and Terra, the ‘Cross-correlogram’ graphics show that greater
+attention drives these assets to realise gains in the upcoming weeks (when they are in their lowest quantiles) and losses when they are
+in their uppermost quantile. Although greater attention show that investors are interested in these assets, which explains the gains
+realised in the upcoming weeks following an already low performance, too much attention to an already well-performing asset could
+push investors to realise faster gains from these assets. thus, selling more of these assets, consequently, further increasing the prices.
+For the rest of cryptocurrencies (Tether, Binance, USD Coin and Dai), high attention to the CBDC would sustain gains over the
+upcoming weeks, while losses would transform into gains after a few weeks, because excess attention, along with price instability,
+would alter a bad performance into a good performance.
+4.2. Result discussion
+Overall, the findings suggest that CBDC uncertainty index is negatively related to cryptocurrency and stablecoin returns, while the
+CBDC attention index is negatively associated with Bitcoin, Ethereum, XPR and Terra USD and positively related to Tether, Binance,
+USD Coin and Dai. In other words, the findings show that when the CBDC uncertainty index is low, Bitcoin have good returns in the
+13
+
+Research in International Business and Finance 65 (2023) 101909
+
+A. Ayadi et al.
+
+Fig. 5. CBDC index values and digital currency prices. CBDC index values & digital currency prices. CBDC index values & digital currency prices.
+
+next few weeks if it is already low. Besides, Bitcoin will have low returns in the next few weeks if it is already high. These findings also
+hold for the rest of the digital currencies.
+Regarding the CBDCAI, our results suggest that when this index is low, the returns of Bitcoin, Ethereum, XPR and Terra USD are
+likely to increase over the next few weeks when it is already very low. The performance of Tether, Binance, USD Coin and Dai may
+decrease over the next few weeks when the attention index is low.
+However, when the CBDC indices are in their upper quantiles, this indicates that Bitcoin, Ethereum, XPR and Terra USD might
+realise losses in the next few weeks when the CBDC uncertainty index is high and realise gains when the attention index is high. For
+other stablecoins and cryptocurrencies, the results show small gains, followed by small losses when the CBDC uncertainty index is high
+and that gains will persist over the next few weeks when the CBDC attention index is high, while losses would be transformed into
+gains.
+Overall, our findings indicate that the future performance of the selected digital currencies goes in the opposite direction of un­
+certainty. These results suggest that Bitcoin, including other virtual currencies, maintain their hedging characteristics in periods of
+distress and uncertainty (Yen and Cheng, 2021; Colon et al., 2021). In fact, when there is low market uncertainty, the returns of the
+digital currencies might increase in the upcoming weeks. This could be explained by the fact that investors are certain about the
+market, thus they will choose their strategies to make gains. Moreover, when the uncertainty is high, investors are unsure about the
+market occurrence, which would increase the possibility that losses would be made in the upcoming weeks as these strategies might
+not suite the event that may occur during the upcoming period.
+These conclusions confirm the findings of Colon et al. (2021), who documented that despite the heterogeneous reactions of
+cryptocurrencies depending on the type of uncertainty, these assets could be a strong hedger against geopolitical risks in most cases but
+it could be considered a weak hedge against economic policy uncertainty during of bullish market behaviour. Moreover, Wu et al.
+(2021) found that economic policy uncertainty positively affects four cryptocurrency returns (Bitcoin, Ethereum, Litecoin and Ripple).
+That is, these returns increase with cryptocurrencies and vice versa. This confirms our results as we check for the predicted behaviour
+of the cryptocurrencies (cryptocurrencies will increase later when the uncertainty is now low and vice versa). Yen and Cheng (2021)
+found that Chinese economic policy uncertainty is negatively associated with Bitcoin and Litecoin future volatility, which implies that
+these assets could make a good hedging tool against the economic policy uncertainty risk. This also aligns with Haq, Inzamam Ul, et al.
+(2021), who documented that cryptocurrencies have heterogeneous connectedness patterns with the economic policy uncertainty;
+thus, the risk mitigation ability varies from country to country. According to the authors, this is explained by the dependence of
+14
+
+Research in International Business and Finance 65 (2023) 101909
+
+A. Ayadi et al.
+
+Fig. 5. (continued).
+
+economic policy uncertainty to the policies and decisions usually made by regulatory authorities of a particular country.
+Regarding the attention index, low attention towards cryptocurrencies means that their current performance is also low. Conse­
+quently, an increase in the performance is expected in the future, thus increasing attention. However, high attention means that the
+cryptocurrency performance is good, thus a future decline is expected.
+Our results align the findings of Smales (2022), who documented that increase in investor attention is associated with higher
+returns, more volatility and greater illiquidity in cryptocurrency markets. Li et al. (2021) found that investor attention has a relatively
+stronger impact on the cryptocurrency returns in bearish markets than that in bullish markets in the short term. Subramaniam and
+Chakraborty (2020) documented that investors focus on the frequently news and ranked cryptocurrencies (Bitcoin and Ethereum),
+while the attention towards newer cryptocurrencies such as Rippl, influences their prices only during superior performance. Gurdgiev
+and O’Loughlina (2020) showed that investor sentiment can predict the price direction of cryptocurrencies.
+5. Conclusion
+This study attempts to examine the predictability of the returns of several cryptocurrencies and stablecoins (Bitcoin, Ethereum,
+Tether, Binance, USD Coin, XRP, Terra and Dai) based on two CBDC indices (the CBDC uncertainty index and the CBDC attention
+index). To do so, we used the “Quantilogram” model introduced by Han et al. (2016). The main advantage of this methodology is that
+the degree of predictability can be measured in different quantiles of distributions. The findings show that when the CBDC uncertainty
+index is low, Bitcoin will have good returns in the next few weeks when it is already low. Besides, Bitcoin will have low returns in the
+next few weeks when it is already high. These findings also hold for the rest of the digital currencies. Regarding the CBDC attention
+index, our results suggest that when this index is low, the returns of Bitcoin, Ethereum, XPR and Terra USD may increase over the next
+few weeks when it is already very low. Regarding Tether, Binance, USD Coin and Dai, their performance is expected to decrease over
+the next weeks when the attention index is low. However, when the CBDC indices are in their upper quantiles, the findings suggest that
+Bitcoin, Ethereum, XPR and Terra USD are may incur losses in the next few weeks when the CBDC uncertainty index is high and earns
+gains when the attention index is high. For the other stablecoins and cryptocurrencies, the results show small gains, followed by small
+losses when the CBDC uncertainty index is high and that the gains will persist over the next few weeks when the CBDC attention index
+is high, while losses would be transformed into gains.
+These findings could be useful for investors, regulators and policy makers as they provide insight of the future behaviour of the top
+cryptocurrencies and stablecoins when a shock occurs in the CBDC market, which would guide them towards appropriate choices
+15
+
+Research in International Business and Finance 65 (2023) 101909
+
+A. Ayadi et al.
+
+Fig. 5. (continued).
+
+regarding the assets to be included in their portfolios.
+CRediT authorship contribution statement
+Ahmed Ayedi: Methodology, Software, Formal analysis, Yosra Ghabri: Conceptualization, Resources, Writing, Data curation,
+Writing – original draft. Khaled Guesmi: Writing – review & editing, Supervision.
+Data Availability
+Data will be made available on request.
+References
+Auer, R., Claessens, S., 2021. Cryptocurrency market reactions to regulatory news. Routledge Handb. FinTech 455–468.
+Auer, R., Cornelli, G., Frost, J., 2020. Rise of the central bank digital currencies: drivers. Approaches Technol. BIS Work. Pap. No. 880.
+Barrdear, J., Kumhof, M., 2021. The macroeconomics of central bank digital currencies. J. Econ. Dyn. Control, 104148.
+Boar, C., Holden, H., Wadsworth, A., 2020. Impending arrival: a sequel to the survey on central banking digital currency. BIS Work. Pap. No. 107.
+Borgonovo, E., Caselli, S., Cillo, A., Masciandaro, D., Rabitti, G., 2021. Money, privacy, anonymity: what do experiments tell us? J. Financ. Stab. 56, 100934.
+Buckley, R.P., Arner, D.W., Zetzsche, D.A., Didenko, A.N., Van Romburg, L.J., 2021. Sovereign digital currencies: reshaping the design of money and payments
+systems. J. Paym. Strategy Syst. 15 (1), 7–22.
+Colon, Francisco, et al., 2021. The effect of political and economic uncertainty on the cryptocurrency market. Financ. Res. Lett. 39, 101621.
+Copeland, R., 2020. A global stablecoin: revolutionary reserve asset or reinventing the wheel? J. Paym. Strategy Syst. 13 (4), 310–321.
+Cunha, P.R., Melo, P., Sebastião, H., 2021. From bitcoin to central bank digital currencies: making sense of the digital money revolution. Future Internet 13 (7), 165.
+Davoodalhosseini, S. (2021). Central bank digital currency and monetary policy. Journal of Economic Dynamics and Control.
+Elsayed, A., H., Nasir, M., A., 2022. Central bank digital currencies: an agenda for future research. Res. Int. Bus. Financ. 62, 101736.
+Han, H., Linton, O., Oka, T., Whang, Y.J., 2016. The cross-quantilogram: measuring quantile dependence and testing directional predictability between time series.
+J. Econ. 193 (1), 251–270.
+Hoang, Y.H., Ngo, V.M., Vu, N.B., 2023. Central bank digital currency: a systematic literature review using text mining approach. Res. Int. Bus. Financ. 64, 101889.
+Kiff, J., J. Alwzair, S. Davidovic, A. Farias, A. Khan, T. Khiaonarong, M. Malaika, H. Monroe, N. Sugimoto, H. Tourpe, and P. Zhou. (2020). A Survey of Research on
+Retail Central Bank Digital Currency, IMF Working Paper.
+Kirkby, R., 2018. Cryptocurrencies and digital fiat currencies. Aust. Econ. Rev. 51 (4), 527–539.
+Kochergin, D. (2021). Central banks digital currencies: World experience. Mirovaia ekonomika i mezhdunarodnye otnosheniia 65 (5), 68–77.
+Krylov, G., A. Lisitsyn, and L. Polyakov. (2018). Comparative analysis of volatility of cryptocurrencies and fiat money. Finance: Theory and Practice [Finansy:
+teoriyaipraktika].
+
+16
+
+Research in International Business and Finance 65 (2023) 101909
+
+A. Ayadi et al.
+
+Kuehnlenz, S., Orsi, B., Kaltenbrunner, A., 2023. Central bank digital currencies and the international payment system: the demise of the US dollar? Res. Int. Bus.
+Financ. 64, 101834.
+Laboure, M., Müller, H.-P., Heinz, M., Singh, S, G., Köhling, S., 2021. Cryptocurrencies and CBDC: the route ahead. Glob. Policy 12 (5), 663–676.
+Larina, O., Akimov, O., 2020. Digital money at the present stage: Key risks and development direction. Financ.: Theory Pract. 24 (4), 18–30.
+Lee, D., Yan, L., Wang, Y., 2021a. A global perspective on central bank digital currency. China Econ. J. 14 (1), 52–66.
+Lee, Y., Son, B., Jang, H., Byun, J., Yoon, T., Lee, J., 2021b. Atomic cross-chain settlement model for central banks digital currency. Inf. Sci. 580, 838–856.
+Lee, Y., Son, B., Park, S., Lee, J., Jang, H., 2021c. A survey on security and privacy in blockchain-based central bank digital currencies. J. Internet Serv. Inf. Secur. 11
+(3), 16–29.
+Li, Rong, et al., 2021. Investor attention and cryptocurrency: evidence from wavelet-based quantile Granger causality analysis. Res. Int. Bus. Financ. 56, 101389.
+Masciandaro, D., 2018. Central bank digital cash and cryptocurrencies: Insights from a new baumol–friedman demand for money. Aust. Econ. Rev. 51 (4), 540–550.
+Morgan, J., 2022. Systemic stablecoin and the defensive case for Central Bank Digital Currencies: a critique of the Bank of England’s framing. Res. Int. Bus. Financ. 62,
+101716.
+Pocher, N. and A. Veneris. (2021). Privacy and transparency in cbdcs: A regulation-by-design aml/cft scheme.
+Qian, Y., 2019. Central bank digital currency: optimization of the currency system and its issuance design. China Econ. J. 12 (1), 1–15.
+Shen, W., Hou, L., 2021. China’s central bank digital currency and its impacts on monetary policy and payment competition: game changer or regulatory toolkit?
+Comput. Law Secur. Rev. 41, 105577.
+Sinelnikova-Muryleva, E.V., 2020. Central bank digital currencies: potential risks and benefits. Vopr. Ekon. (4), 147–159.
+Sissoko, C., 2020. The nature of money in a convertible currency world. Rev. Econ. Anal. 12 (1).
+Smales, Lee A., 2022. Investor attention in cryptocurrency markets. Int. Rev. Financ. Anal. 79, 101972.
+Subramaniam, Sowmya, Chakraborty, Madhumita, 2020. Investor attention and cryptocurrency return: Evidence from quantile causality approach. J. Behav. Financ.
+21 103–115.
+Tata, F., 2023. Proposing an interval design feature to central bank digital currencies. Res. Int. Bus. Financ. 64, 101898.
+Tong, W., Jiayou, C., 2021. A study of the economic impact of central bank digital currency under global competition. China Econ. J. 14 (1), 78–101.
+Wang, Y., Lucey, B.M., Vigne, S.A., Yarovaya, L., 2022. The effects of central bank digital currencies news on financial markets. Technol. Forecast. Soc. Change 180,
+121715.
+Wang, Y., Ma, C, Q., Ren, Y.S., 2022. A model for CBDC audits based on blockchain technology: Learning from the DCEP. Res. Int. Bus. Financ. 63, 101781.
+Wu, Wanshan, et al., 2021. Does economic policy uncertainty affect cryptocurrency markets? Evidence from Twitter-based uncertainty measures. Res. Int. Bus.
+Financ. 58, 101478.
+Yen, Kuang-Chieh, Cheng, Hui-Pei, 2021. Economic policy uncertainty and cryptocurrency volatility. Financ. Res. Lett. 38, 101428.
+
+17
+
+

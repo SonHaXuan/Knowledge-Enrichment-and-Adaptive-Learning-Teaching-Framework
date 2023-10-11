@@ -1,0 +1,314 @@
+Durham Research Online
+Deposited in DRO:
+02 September 2022
+
+Version of attached le:
+Published Version
+
+Peer-review status of attached le:
+Peer-reviewed
+
+Citation for published item:
+Elsayed, Ahmed H. and Nasir, Muhammad Ali (2022) 'Central Bank digital currencies: An Agenda for future
+research.', Research in international business and nance., 62 . p. 101736.
+
+Further information on publisher's website:
+https://doi.org/10.1016/j.ribaf.2022.101736
+Publisher's copyright statement:
+
+c 2022 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/)
+Additional information:
+
+Use policy
+The full-text may be used and/or reproduced, and given to third parties in any format or medium, without prior permission or charge, for
+personal research or study, educational, or not-for-prot purposes provided that:
+• a full bibliographic reference is made to the original source
+• a link is made to the metadata record in DRO
+• the full-text is not changed in any way
+The full-text must not be sold in any format or medium without the formal permission of the copyright holders.
+Please consult the full DRO policy for further details.
+Durham University Library, Stockton Road, Durham DH1 3LY, United Kingdom
+Tel : +44 (0)191 334 3042 | Fax : +44 (0)191 334 2971
+https://dro.dur.ac.uk
+
+Research in International Business and Finance 62 (2022) 101736
+
+Contents lists available at ScienceDirect
+
+Research in International Business and Finance
+journal homepage: www.elsevier.com/locate/ribaf
+
+Central bank digital currencies: An agenda for future research
+Ahmed H. Elsayed a, b, *, Muhammad Ali Nasir c, d
+a
+
+Department of Economics & Finance, Durham University, UK
+Department of Economics, Faculty of Commerce, Zagazig University, Egypt
+c
+Department of Economics, University of Leeds, UK
+d
+Department of Land Economy, University of Cambridge, UK
+b
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Central bank digital currencies
+Monetary policy
+Financial stability
+Inflation targeting
+Blockchains
+Cryptocurrencies
+
+Central bank digital currencies are engendering concern. As understanding of CBDCs is very
+limited, further research is warranted which will focus not only on the economic rationale of
+CBDCs but also on how they will impact monetary policy transmission, financial and price sta­
+bility, inflation targeting, unconventional monetary instruments, central banks as lenders of last
+resort, and provision of forward guidance. There are also unsettled questions regarding ethics,
+privacy and environmental and technological constraints. With the imminent implementation of
+CBDCs, it is vital to explore these issues.
+
+1. Introduction and motivation
+Accelerating financial innovation has brought us into the age of blockchain and cryptocurrencies. While it has been just over a
+decade since the inception of the first cryptocurrency, Bitcoin, engagement with cryptocurrencies has reached every corner of society
+including businesses, investors, consumers, and public and private institutions.
+Despite a cautious stance to digital or cryptocurrencies, central banks have now started to explore the idea of adopting their own
+digital currency, commonly known as Central Bank Digital Currencies (CBDC). CBDCs, as blockchain-based versions of existing reserve
+currencies, are not being initiated as third-party stablecoins such as Tether (Morgan, 2022). Rather CBDCs are envisioned as eventual
+replacements of national reserve money systems. However, despite the increased popularity of digital currencies, there are many
+unanswered questions on the feasibility and implementation of the CBDCs. As outlined by the Bank of England, CBDCs will allow
+households and businesses to make direct electronic payments using money issued by the Central Bank (Bank of England, 2020).
+While there are a variety of views regarding cryptocurrencies as investments and as potential global mediums of exchange, with
+some economists considering them to be the future of money while others consider them to be a short-term investment bubble or
+inherently unable to eventually meet the world’s money supply needs (Roubini, 2018a, 2018b, Prasad, 2021). The effectiveness of
+CBDCs needs more scholarly reflection considering the challenges of replacing traditional currencies.
+CBDC implementation is challenged by technological, economic, social, political, environmental, and ethical concerns. It will
+require infrastructure, social and political acceptance, environmental sustainability, and addressing privacy issues. However, un­
+derstanding of how CBDCs will address these challenges and what are their implications remains limited. Perhaps, because of concerns,
+
+* Corresponding author at: Department of Economics & Finance, Durham University, UK.
+E-mail addresses: ahmed.elsayed@durham.ac.uk (A.H. Elsayed), M.A.Nasir@leeds.ac.uk (M.A. Nasir).
+
+https://doi.org/10.1016/j.ribaf.2022.101736
+Received 27 July 2022; Received in revised form 7 August 2022; Accepted 8 August 2022
+Available online 10 August 2022
+0275-5319/© 2022 The Authors.
+Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Research in International Business and Finance 62 (2022) 101736
+
+A.H. Elsayed and M.A. Nasir
+
+many central banks, including the Bank of England, Bank of Japan, European Central Bank, the US Federal Reserve, and the People’s
+Bank of China, while attracted by the opportunities of CBDCs, are moving cautiously toward their adoption.1 Central banks ideally
+should evaluate the adoption of CBDCs in the context of their mandate on not only price stability but also with concern for a wide
+number of aspects of the public good (Bank of England, 2021). The transmission of monetary policy, functioning of the banking and
+financial sectors, price stability, labour and goods and services markets, are various concerns to take into account ideally before
+proceeding CBDCs. While digital currency adoption by central banks is of profound importance, our understanding of underlying
+challenges is limited, thereby constraining formations of optimal strategies.
+Despite the importance of this topic, literature on CBDCs is very limited and many related research questions are yet to be answered
+including: how CBDCs will impact monetary policy transmission, conventional and unconventional monetary instruments, financial
+and price stability, inflation targeting, central banks as lenders of last resort, and the provision of forward guidance? To this end, this
+paper aims at highlighting the implications of CBDCs for the macroeconomy and financial systems and identifying emerging trends,
+and research areas and constructing an agenda for future research.
+The remainder of the study is organized as follows. Section 2 provides a review of the current state of the literature. Section 3
+concludes and suggests potential research avenues for future research.
+2. Background
+2.1. CBDCs and economic theory
+Since their inception, the raison d′ être of cryptocurrencies has been debated. Regarding whether cryptocurrencies serve the
+function of money as a medium of exchange, a store of value, and a unit of account, it is argued by some that they are more of a
+speculative asset than money (Yermack, 2015). Money can be classified as public money that is issued by the state with an ‘I promise to
+pay the bearer’ pledge. Alternatively, money can be regarded as private money issued by commercial banks through bank lending.
+Private money creation is however based on a monetary base of notes and coins in the denomination of a sovereign currency. In
+contrast, regarding cryptocurrencies as money implies a decoupling of private money from public money. This is inherently in op­
+position to the historical Chartalist view that money’s value derives from its issuance by governments (Knapp, 1905). Chartalism
+considers money as a provenance of the state (Wray, 2011). Though the credit theory of money (Mitchell-Innes, 1913, 1914)2 sees
+money as credits or debits, the principle of its denomination and base remains the same with public money underpinning the private
+money.
+Considering cryptocurrencies as digital gold is disputed by metallism, as there is no intrinsic value to digital currencies in the sense
+that they are not, of course, included in the periodic table. However, CBDCs are theoretically reconcilable with Chartalism, since, as,
+for instance, announced by the Bank of England, CBDCs will be denominated in pound sterling and complement cash and bank deposits
+rather than replace them. Similarly, sovereign digital currencies in China will be but how that complementary role can be performed
+and what implications it will have, remains a question that will eventually be answered by the outcomes of their implementation.
+The intention to extend the cryptocurrencies’ role as ‘money’ is indeed stepping into the territory of public money held by sov­
+ereigns and, hence for that reason CBDCs might be seen as an effort to reclaim that ground. Furthermore, it is also stepping into the
+territory of private money.
+As CBDCs allow electronic money, issued by central banks to be available to all households and businesses, they allow everyone to
+make electronic payments in central bank money. The implications of this expansion of central bank money to private money motivate
+further exploration.
+2.2. CBDCs and the global monetary system
+As highlighted by Goodell and Shen (2021), the ongoing introduction of a Chinese sovereign digital currency (DCEP) will certainly
+be particularly impacting given the size of the Chinese economy and the extent of China’s ongoing international development interests.
+Considering the competition between the US and China, as well as the massive flows of liquidity between the US and China, it is likely
+that China’s adoption of a digital fiat currency will enhance the role of the RMB as a stabilizing currency (Howell, 2020; Jia et al.,
+2020), as well as prompt many countries to follow with sovereign digital currencies of their own. How will the hegemony of the US
+dollar (Le et al., 2021) be impacted? As we are geopolitically in a period of progressively competing for global payment systems
+between SWIFT and CHIPS, DCEP will be central to China crafting its own current cross-border payment system. Will the US be
+compelled to establish its own sovereign digital currency—along with all developed nations? This seems imminent in the long term.
+CBDCs denominated in national currencies will act as complements rather than substitutes to cash and bank deposits (Goodell and
+Shen, 2021). This implies a potential to ‘protect’ national currencies against competition from cryptocurrencies, with implications for
+the global monetary system.
+1
+As noted by Goodell and Shen (2021), China is likely progressing much more rapidly than other countries, but it is difficult to discern as
+widespread digital payment systems may or may not be using sovereign digital currency.
+2
+See Keynes (1914) for further discussion. To Schumpeter (1954) debate on the money and Mentalism vs Chartalism goes back to Aristotle and
+Plato.
+
+2
+
+Research in International Business and Finance 62 (2022) 101736
+
+A.H. Elsayed and M.A. Nasir
+
+2.3. CBDCs and financial stability
+It has been argued, at least by some, that, although there could be some losses to investors, cryptocurrencies do not pose a sub­
+stantial risk to the monetary or financial stability (Ali et al., 2014). CBDCs on the other hand, being required to contribute to the
+functions of central banks. Recent reports from the Bank for International Settlements posit that “a central bank should not
+compromise monetary or financial stability by issuing a CBDC.” But there is a lot of uncertainty surrounding the CBDCs and their
+impact on financial stability. Uncertainties include uncertainty about the future structure of financial systems; uncertainty about the
+design of CBDCs and their underlying systems; and uncertainty about the magnitude of eventual adoption.3 While central banks, being
+more stable than commercial banks, with a monopoly over deposit-taking through CBDCs, appear to have innate stability, seminal
+transformations are inherently disruptive (Fernández-Villaverde et al., 2021).
+2.4. CBDCs, lenders of last resort and unconventional monetary policies
+Central Banks as commonly understood act as lenders of last resort, as prescribed by Bagehot (1873). How this crucial responsibility
+will be discharged in the age of CBDCs should be considered. Since the 2008–09 global financial crisis, unconventional monetary
+policies in the form of large-scale asset purchases, quantitative easing, forward guidance, and negative interest rates have been
+employed toward economic and price stability (Nasir, 2021). How will these more recent policies will be conducted differently under
+CBDCs is uncertain. For instance, will there be scope for a negative interest rate policy? Will there be any possibility of forward
+guidance under CBDCs and what implications it will have for central bank communication? these are the crucial aspects that have not
+been explored yet.
+2.5. CBDCs, price stability and inflation targeting
+The remit of central banks includes price stability. For this purpose, a number of central banks, including the Bank of England, the
+US Federal Reserve, and the ECB, have adopted explicit inflation targeting (Nasir et al., 2020a, 2020b). Central banks have also been
+made independent in the formulation of their monetary policy to achieve price stability. However, CBDCs bring new challenges in this
+regard. What implications CBDCs do central banks have for achieving price stability? Goodell and Shen (2021) suggest that CBDCs,
+because of their support from blockchain ledgering through all money expanding activities will likely provide a new level of accuracy
+for monitoring money supplies.
+2.6. CBDCs and green monetary policy
+In many instances, central banks have evolved into advocates of environmental sustainability through green monetary policy
+(Bailey, 2021). In some nations, the remit of the central banks has been extended from mere price and financial stability to contributing
+to environmental stability (Bank of England, 2021). In this context, cryptocurrencies have significant implications for the environ­
+ment. As of November 2018, Bitcoin’s increasing annual electricity consumption was about 45.8 TWh, corresponding to about
+22–22.9 million metric tons of CO2 emissions per year (Stoll et al., 2019).
+In part because of the ‘proof-of-work’ nature of cryptocurrency mining, emissions related to all cryptocurrencies are likely to in­
+crease significantly. For instance, it’s expected that the annual energy consumption of the Bitcoin blockchain in China is expected to
+peak in 2024 at 296.59 Twh annually, generating about 130.50 million metric tons of CO2 emissions (Jiang et al., 2021).
+There are reasonable concerns that cryptocurrencies may significantly contribute to nations failing to achieve Paris Agreement
+targets (Mora et al., 2018). But, as argued by Tom Mutton, director of the central bank digital currency unit at the Bank of England,
+Bitcoin does not necessarily define a technology baseline, with CBDCs, depending on their design, perhaps providing a more efficient
+and greener money creation process (Mutton, 2021).
+2.7. CBDC infrastructure
+Technological innovation has brought us innovation in payment technologies. For instance, the use of Wrappers (Google Wallet,
+Apple Pay and Paym etc.) and Mobile Money (M-Pesa, a popular service in Kenya) where the underlying currency remains the national
+currency (Ali et al., 2014b). As with the Bank of England’s platform modelling, CBDC platforms would work alongside existing
+real-time gross settlement services. Private sector payment interface providers would connect to this platform to provide
+customer-facing CBDC payment services. Goodell and Shen (2021) note that the Chinese sovereign coin, DCEP, easily interfaces with
+existing WeChat Pay and Alipay services.
+While the cryptocurrencies are based on distributed ledger technology cryptocurrency systems with a strong element of anonymity
+and decentrality do not meet CBDC requirements (Auer and Boehme, 2021). Currently, there is no global consensus regarding the
+underlying technology of CBDCs, especially with respect to privacy. CBDCs, by being based on distributed ledgers (blockchains)
+engender concerns regarding privacy and security (Bank of England, 2020). As noted by Goodell and Shen (2021), blockchains of
+3
+
+Central bank digital currencies: Financial stability implications, September, https://www.bis.org/publ/othp42_fin_stab.pdf
+3
+
+Research in International Business and Finance 62 (2022) 101736
+
+A.H. Elsayed and M.A. Nasir
+
+CBDCs will afford a record of all economic transactions that, absent costly patches,4 will be open to state monitors. Certainly, this is an
+opportunity to control global financial corruption (CITE); while also, however, raising concerns about individual privacy. While,
+according to Auer and Boehme (2021), CBDC design should ideally be minimally invasive, questions regarding technology and design
+are not settled. Most CBDC projects are naturally in economies that are more digitized (Auer et al., 2020), raising questions regarding
+technological disparities among nations.
+2.8. CBDCs and ethics, privacy, and laws
+Cryptocurrencies, as their name would suggest (‘crypto’), are by their design and original intent meant to eschew state monitoring
+and control. As peer-to-peer systems imply with no central bank oversight. In contrast, the CBDCs depart entirely from crypto­
+currencies as they are issued, controlled and ledgered by central banks. This implies issues of privacy as all transactions involving
+CBDCs would, absent corrective patches, would be recorded for government monitoring. On the other hand, by the ease of use in
+existing digital payment systems, and digital wallets, sovereign digital currencies provide opportunities for financial inclusion of the
+unbanked. As CBDCs will be amenable to smart contracts, they will be competitive with mainstream platform cryptocurrencies in
+financing evolving decentralised finance ecosystems (Corbet, Goodell, and Günay, 2022). Particularly from the point of Ethics and
+Privacy. For CBDCs, there are also issues around regulations, enforcement of contractual obligations and property rights that need
+clarification (Goodell, 2021).
+3. Conclusions
+Central Bank Digital Currencies (CBDC) are being considered or are in the process of being adopted, by many central banks around
+the world. Despite the importance and potential impacts of such seminal changes to national currencies, there are still many
+unknowns.
+There are many unanswered questions about the impact of CBDCs on financial, economic, and environmental stability such as how
+CBDCs will impact monetary policy transmission, conventional and unconventional monetary instruments, financial and price sta­
+bility, inflation targeting, central banks as lenders of last resort, and the provision of forwarding guidance. Other areas of potential
+investigation would be the impact of CBDCs on liquidity creation, the interaction between monetary, fiscal and prudential policies
+under the Central Bank Digital Currencies (CBDC), monetary policies transmission and spillovers across countries in the age of digital
+currencies …etc. Further, there remain issues regarding social impacts, ethics, privacy, and technological and environmental con­
+straints. The need to add to our knowledge and understanding of these crucial issues motivates research into CBDCs, with a view
+toward facilitating understanding for financial institutions, policymakers, and citizens.
+CRediT authorship contribution statement
+All authors have contributed equally.
+Data Availability
+No data was used for the research described in the article.
+References
+Ali, R., Barrdear, J., Clews, R., Southgate, J., 2014. The economics of digital currencies. Bank Engl. Q. Bull. 54 (3), 276–286.
+Ali, R., Barrdear, J., Clews, R., Southgate, J., 2014b. Innovations in payment technologies and the emergence of digital currencies. Bank Engl. Q. Bull. 54 (3),
+262–275.
+Auer, R. Boehme, R. ,2021, Central bank digital currency: the quest for minimally invasive technology, BIS Working Papers No 948.
+Auer, R. Cornelli, G. Frost, J. ,2020, Rise of the central bank digital currencies: drivers, approaches and technologies, BIS Working Papers No 880.
+Bagehot, W. ,1873. Lombard Street: A description of the money market. London: HS King. 10, 17.
+Bailey, A. ,2021 Tackling climate for real: the role of central banks - 〈https://www.bankofengland.co.uk/speech/2021/june/andrew-bailey-reuters-events-globalresponsible-business-2021〉.
+Bank of England ,2020, Central Bank Digital Currency Opportunities, challenges and design, available 〈https://www.bankofengland.co.uk/-/media/boe/files/paper/
+2020/central-bank-digital-currency-opportunities-challenges-and-design.pdf?la=en&hash=DFAD18646A77C00772AF1C5B18E63E71F68E4593〉.
+Bank of England ,2021, MPC Remit statement and letter and FPC Remit letter, available at 〈https://www.bankofengland.co.uk/news/2021/march/mpc-remitstatement-and-letter-and-fpc-remit-letter〉.
+Fernández-Villaverde, J., Sanches, D., Schilling, L., Uhlig, H., 2021. Central bank digital currency: Central banking for all? Rev. Econ. Dyn. 41, 225–242.
+Goodell, John W., 2021. Considering the governance transparency of smart contracts: A critical reflection. In: Shaen, Corbet (Ed.), Understanding Cryptocurrency
+Fraud: the Challenges and Headwinds to Regulate Digital Currencies. De Gruyter, pp. 31–42.
+Goodell, John W., Shen, Dehua, 2021. The Chinese sovereign digital currency as a catalyst for change: A new trilemma? In: Shaen, Corbet (Ed.), Understanding
+Cryptocurrency Fraud: The Challenges and Headwinds to Regulate Digital Currencies. De Gruyter, pp. 177–186.
+Howell, Michael J., 2020. Capital Wars: The Rise of Global Liquidity. Springer Nature.
+Jia, Boxiang, Goodell, John W., Shen, Dehua, 2020. US partisan conflict and high-yield exchange rates. Financ. Res. Lett., 101785
+
+4
+Technologies such as programmable money through smart contracts that are delivered by either building the functionality into the core ledger,
+establishing a separate module, or by providing it through third parties.
+
+4
+
+Research in International Business and Finance 62 (2022) 101736
+
+A.H. Elsayed and M.A. Nasir
+
+Jiang, S., Li, Y., Lu, Q., et al., 2021. Policy assessments for the carbon emission flows and sustainability of Bitcoin blockchain operation in China. Nat. Commun. 12,
+1938. https://doi.org/10.1038/s41467-021-22256-3.
+Keynes, J.M., 1914. Review of What is Money?, by A. M. Innes. Econ. J. 24 (95), 419–421. https://doi.org/10.2307/2222005.
+Knapp, G.F. ,1905, The State Theory of Money, 〈https://socialsciences.mcmaster.ca/econ/ugcm/3ll3/knapp/StateTheoryMoney.pdf〉.
+Le, Lan-T.N., Yarovaya, Larisa, Nasir, Muhammad Ali, 2021. Did COVID-19 change spillover patterns between Fintech and other asset classes? Res. Int. Bus. Financ.
+58, 101441.
+Mitchell-Innes, A., 1913. What is money. Bank. Law J. 377–408. May 1913.
+Mitchell-Innes, A., 1914. The credit theory of money. Bank. Law J. 31 (1914), 151–168 (Dec./Jan.).
+Mora, C., Rollins, R.L., Taladay, K., 2018. Bitcoin emissions alone could push global warming above 2C. Nat. Clim. Change 8, 931–933.
+Morgan, J., 2022. Systemic stablecoin and the defensive case for Central Bank Digital Currency: a critique of the Bank of England’s framing. Res. Int. Bus. Financ. 62,
+101716.
+Mutton, T. ,2021, Tom Mutton, director, central bank digital currency unit, Bank of England – View from IMF 2021, available at 〈https://www.thebanker.com/video/
+v/6276879573001/tom-mutton-director-central-bank-digital-currency-unit-bank-of-england-ndash-view-from-imf-2021〉.
+Nasir, M.A., 2021. Zero lower bound and negative interest rates: choices for monetary policy in the UK. J. Policy Model. 43 (1), 200–229.
+Nasir, M.A., Balsalobre-Lorente, D., Huynh, T.L.D., 2020b. Anchoring inflation expectations in the face of oil shocks & in the proximity of ZLB: A tale of two targeters.
+Energy Econ. 86, 104662.
+Nasir, M.A., Huynh, T.L.D., Yarovaya, L., 2020a. Inflation targeting & implications of oil shocks for inflation expectations in oil-importing and exporting economies:
+evidence from three Nordic Kingdoms. Int. Rev. Financ. Anal. 72, 101558.
+Prasad, E. ,2021, Five myths about cryptocurrency, 〈https://www.brookings.edu/opinions/five-myths-about-cryptocurrency/〉.
+Roubini, N. ,2018a, The big blockchain lie, 〈https://www.project-syndicate.org/commentary/blockchain-big-lie-by-nouriel-roubini-2018–10〉.
+Roubini, N. ,2018b, The Great Crypto Heist, 〈https://www.project-syndicate.org/commentary/cryptocurrency-exchanges-are-financial-scams-by-nouriel-roubini2019–07〉.
+Schumpeter, J.A., 1954. History of Economic Analysis. Oxford University Press, New York.
+Stoll, C., Klaaßen, L., Gallersdörfer, U., 2019. The carbon footprint of bitcoin. Joule 3 (7), 1647–1661.
+Wray, L.R. ,2011, Keynes after 75 years: Rethinking money as a public monopoly, Levy Economics Institute, Working Paper No. 658.
+Yermack, D., 2015. Chapter 2 - Is bitcoin a real currency? An economic appraisal. In: Chuen, David Lee Kuo (Ed.), Handbook of Digital Currency. Academic Press,
+pp. 31–43.
+
+5
+
+

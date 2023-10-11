@@ -1,0 +1,311 @@
+Turkish Journal of Computer and Mathematics Education Vol.12 No. 11 (2021), 4279- 4285
+Research Article
+China’s National Digital Currency: An Overview of Digital Currency Electronic
+Payment
+Xiang Zou1*, Qiang Cao2
+1
+
+School of Accounting and Finance, Wuxi Vocational Institute of Commerce, Wuxi, China
+
+2
+
+International College, Krirk University, Bangkok, Thailand
+
+* justinzz1989@hotmail.com
+Article History: Received: 11 January 2021; Revised: 12 February 2021; Accepted: 27 March 2021; Published
+online: 10 May 2021
+ABSTRACT: Digital Currency Electronic Payment (DCEP) is the Central Bank Digital Currency (CBDC) of
+China. It is significantly different from electronic currency and third-party payment instruments. DCEP is issued
+through the dual mode which consists of the central bank and commercial banks. It operates and circulates based
+on the framework of Digital Currency Registration Center, Identity Authentication Center and Big Data Analysis
+Center. Compared with the encrypted digital currency based on blockchain technology, DCEP has the
+characteristics of centralized management. DCEP will have profound impacts on the effectiveness of monetary
+policy, the operation of banks and payment institutions, the development of digital economy, the
+internationalization of CNY and even social governance.
+Keywords: CBDC, DCEP, FinTech, China.
+INTRODUCTION TO CENTRAL BANK DIGITAL CURRENCY
+In recent years, with the increasing attention paid to Bitcoin (BTC), digital currency has become a global
+research hotspot. The innovation of financial technology (FinTech) and the development of digital economy
+make the form of money evolve continuously. The research on digital currency has gradually changed from its
+decentralized characteristics to the legal tender which is based on the central bank. Under the support of national
+credit, Central Bank Digital Currency (CBDC) will become a new situation of various national currencies in the
+coming future. According to the Bank for International Settlements (BIS), more than 80% of countries have the
+intention to issue CBDC (Boar, 2020)1, as shown in Figure 1. It is believed that CBDC is an inevitable trend of
+the evolution of monetary form in the era of digital economy.
+
+Fig. 1. Central banks continue to work on CBDC
+
+4279
+
+China’s National Digital Currency: An Overview of Digital Currency Electronic Payment
+
+The attitude of the United States towards CBDC is prudent. The Federal Reserve has been working on
+issues such as financial stability, market structure, security, privacy and monetary policy arising from CBDC.
+After the release of the Libra white paper, the attitude of EU countries towards CBDC has become positive. The
+European Central Bank (ECB) has designed the core guidelines for the digital euro which are based on the
+current euro-system policies (ECB, 2020)2. The Bank of England in the United Kingdom also believes that
+digital currency can use the latest FinTech to make transactions easier and faster for consumers (Bank of
+England, 2020)3. According to the CBDC report issued by the Bank of Japan in Tokyo, Japan is ready for the
+changes brought by digital currency and will implement the CBDC project. In addition, Singapore and Thailand
+have made it clear that CBDC will be launched soon in their countries. The Bahamas and Sweden have planned
+to complete the technical test and pilot operation of CBDC during 2020-2021. Ecuador, Tunisia, Senegal,
+Marshall Islands, Uruguay and Venezuela also hope to solve economic and political problems by issuing CBDC
+(Shilin & Xuejun, 2021)4.
+In order to meet the needs of digital economic development and maintain the order of the national financial
+market, the People's Bank of China (PBC) began to conduct research on digital currency in 2014. In 2019, PBC
+clearly proposed the name of CBDC in China as Digital Currency Electronic Payment (DCEP). Since 2020,
+PBC has successively carried out DCEP internal closure pilot test in Shenzhen, Suzhou, Chengdu, Xiong'an and
+future Winter Olympic scenarios (Yonghong & Lu, 2020)5. With the completion of the fundamental design,
+functional development and joint debugging test of DCEP, China is accelerating the revolutionary process into
+the digital economy era. This paper will summarize the impact of DCEP on China's financial system by
+introducing the concept, characteristics, operating framework and issuance mode, so as to have a more
+comprehensive and in-depth understanding of the CBDC.
+
+THE CONCEPT AND CHARACTERISTICS OF DIGITAL CURRENCY ELECTRONIC PAYMENT
+THE DIFFERENCE BETWEEN DCEP AND ELECTRONIC CURRENCY
+Understanding the concept of DCEP is helpful to distinguish it from other digital currencies and electronic
+currencies. Guoping and Huiting (2019)6 pointed out that DCEP is the CBDC issued by the Central Bank of
+China, which is endorsed by national credit. DCEP improves the blockchain technology and realizes the
+combination of digital currency and electronic payment. From the perspective of currency level, DCEP has the
+attribute of cash (M0), and its essence is to replace cash in circulation, rather than simply conduct the existing
+currency electronically. It is noted that China's DCEP used a centralized issuance mechanism, which makes
+traditional deposit accounts and DCEP accounts exist at the same time (Yan et al. 2020) 7.
+In terms of payment, transformation and settlement, DCEP is as efficient as electronic currency. The
+significant difference between them lies in the nature of money. The electronic currency is not unlimited legal
+tender, so the part exceeding the protection limit of the deposit insurance system will cause the risk of
+bankruptcy loss. However, DCEP has unlimited legal compensation and credit endorsement from the state and
+the central bank. The electronic currency is a form of digital deposit, which mainly includes enterprise current
+deposits in M1, enterprise time deposits and personal savings deposits in M2. The electronic currency needs to
+be transferred through bank accounts, while DCEP does not need to be bound to bank accounts. In addition, the
+
+4280
+
+Xiang Zou1*, Qiang Cao2
+
+electronic currency cannot be paid offline, while DCEP supports "dual offline" payment between revenue and
+expenditure (Yuhang, 2020)8. Therefore, the digital currency represented by DCEP will bring new opportunities
+and challenges to the transformation of monetary form.
+
+THE ADVANTAGES OF DCEP OVER THIRD-PARTY PAYMENT INSTRUMENTS
+Although DCEP is a substitute for cash in circulation, its characteristics and operating framework make it
+significantly different from third-party payment instruments. In order to adapt to the needs of diversified
+applications, DCEP covers the features of convertibility, convenience, acceptance, availability and low cost. On
+the other hand, DCEP includes the characteristics of security, continuity, flexibility, availability, scalability and
+interoperability as well. Additionally, it needs to establish a sound legal framework and clear implementation
+standards so as to operate effectively. According to the exploration of issuance and circulation mechanisms,
+Yanhong et al. (2020)9 found that DCEP has the characteristics of controllable anonymousness, traceability and
+programmability, which can provide important support for the development of digital economy. In this context,
+DCEP can help to carry out anti-money laundering, anti-fraud and combating terrorist financing in a better way.
+DCEP is aimed to mitigate the issuance and circulation costs of traditional banknotes, to improve the
+operation efficiency of financial infrastructure, and to promote the development of inclusive finance. Through
+the comparison between DCEP and other third-party payment instruments such as Alipay and WeChat payment,
+we can further understand the difference between DCEP and electronic currency. The summary is shown in
+Table 1. The advantage of DCEP is that it is endorsed by national credit, does not need to bind bank accounts,
+and supports offline payment. Therefore, compared with third-party payment instruments and cash, DCEP can
+provide with safer and more convenient payment options.
+
+Table 1. The Difference between DCEP and Third-Party Payment Instruments
+Item
+
+DCEP
+
+Third-Party Payment Instruments
+
+Currency Level
+
+National credit endorsement.
+Substitution of cash in circulation
+(M0).
+
+Generally considered as current
+deposit (M1).
+
+Connection with
+Bank Accounts
+
+No bank account binding is required.
+Creation of digital wallet for DCEP
+usage.
+
+Bank accounts must be bound in
+order to use third-party payment
+instruments.
+
+Service Condition
+
+Impact on Monetary
+Policy
+
+Support online transaction and
+offline wallet transaction. No
+network can also be used through
+NFC technology.
+Control currency status through
+smart contracts. Monetary policy
+innovation realizes economic
+adjustment.
+
+Internet payment must be connected
+to the network in order to operate
+normally.
+Sluggish economic adjustment of
+traditional monetary policy. Weak
+direct control of the central bank.
+
+THE ISSUANCE AND OPERATION OF DIGITAL CURRENCY ELECTRONIC PAYMENT
+THE MONETARY ISSUANCE OF DCEP
+
+4281
+
+China’s National Digital Currency: An Overview of Digital Currency Electronic Payment
+
+The issuance and circulation of DCEP depends on the dual mode, which consists of the central bank and
+commercial banks. In this case, the central bank is responsible for issuing DCEP, and commercial banks as well
+as the Central Bank jointly maintain the normal operation of the DCEP issuance system, as shown in Figure 2
+(Chuanwei, 2019)10. When DCEP is issued, commercial banks deposit 100% of reserves with the central bank.
+The central bank then issues DCEP to commercial banks and entrusts them to publicly provide services such as
+deposit, withdrawal, exchange and transfer of DCEP. Compared with the direct issuance of DCEP by the central
+bank, the dual mode is more suitable for China’s national digital currency, which helps to reduce the issuance
+cost and avoid high financing cost (Shuzhe & Xingguo, 2020) 11. Meanwhile, the issuance mode of DCEP can
+improve the issuance efficiency and circulation security, which can better satisfy the market requirement.
+
+Fig. 2. The Issuing Mechanism of DCEP
+
+THE OPERATING FRAMEWORK OF DCEP
+DCEP is the legal tender in digital form issued by the central bank of China. Its operating framework is
+summarized and shown in Figure 3. Shi (2020) 12 pointed out that DCEP is the only national digital currency in
+China that is endorsed by the state credit and issued by the central bank. DCEP is equivalent to China Yuan
+(CNY), meanwhile, it owns the characteristics of centralization. The PBC is the sole issuer and is responsible
+for issuing DCEP to commercial banks rather than directly to the market. Commercial banks are responsible for
+the acceptance of DCEP to enterprises and individuals. The Digital Currency Registration Center (DCRC),
+Identity Authentication Center (IAC) and Big Data Analysis Center (BDAC) are responsible for maintenance
+and support.
+
+4282
+
+Xiang Zou1*, Qiang Cao2
+
+Fig. 3. The Operating Framework of DCEP
+
+The DCRC records the user's personal information and cash flows, so as to carry out ownership registration.
+The IAC confirms the user identification. The BDAC analyzes transaction data based on big data, cloud
+computing, blockchain and other technologies, which can effectively supervise the capital operation. ensure
+transaction security and prevent illegal transactions. In this context, it can ensure the safety of transactions and
+effectively crack down on illegal business. The operating framework of DCEP is significant to centralized
+management, which can ensure the independence of monetary policy and the stability of DCEP value. It is
+conducive to reducing the currency-conversion cost of CNY and accelerating the internationalization of it.
+
+THE STATUS AND PROSPECT OF DIGITAL CURRENCY ELECTRONIC PAYMENT
+THE TECHNICAL SUPPORT OF DCEP
+Since the successful application of blockchain technology in bitcoin, people have habitually associated
+encryption currency and digital currency with blockchain. However, whether the CBDC is based on blockchain
+technology remains controversial. Some academics believe that the infrastructure of the CBDC does not need to
+rely entirely on the blockchain, but only refers to some parts of the blockchain technology (Jianyu, 2020) 13. The
+credit of the CBDC comes from the state. It is not necessary to use the consensus and trust mechanisms of the
+blockchain to confirm each transaction, which will lead to inefficiency. In the analysis of the relationship
+between the national digital currency and the blockchain, Tong (2020)14 found that China's national digital
+currency would use blockchain technology in the confirmation and registration process.
+Following the evolution of digital currency, it can be seen that decentralized public chains are suitable for
+the application of encryption digital currency such as BTC, while centralized proprietary chains can meet the
+
+4283
+
+China’s National Digital Currency: An Overview of Digital Currency Electronic Payment
+
+requirements of large-scale transactions of CBDC. Blockchain is only a means to achieve decentralized digital
+currency, while DCEP is a centralized currency, and the central bank does not recommend the transformation of
+traditional payment system based on blockchain (Shi, 2020) 12. In addition, keeping the characteristics of
+centralization can greatly improve the transaction efficiency of digital currency. Therefore, if the innovative
+features such as asymmetric encryption, traceability and smart contracts can be coupled in the issuance,
+circulation and consumption of blockchain technology, the transaction efficiency can be improved, the
+transaction cost can be reduced, and the possibility of digital economy can be stimulated.
+THE CHALLENGES OF DCEP TO TRADITIONAL FINANCIAL SYSTEM
+DCEP is a new type of currency, which has the characteristics that traditional currency does not have, so it
+may impact the traditional financial system. The issuance of DCEP may cause adverse effects on bank credit,
+and the central bank may be forced to become the "lender of last resort" to bear the financial risks of
+commercial banks at all times (Dexu & Bo, 2019)15. In this context, it poses challenges to financial stability and
+national security. Distributed ledgers are used in DCEP, which will lead to decentralized transaction information
+processing, thus increasing the difficulty of supervision. At the same time, the issuance of DCEP may affect the
+structure of the payment market and reduce the relevant income of commercial banks and Payment institutions
+due to fierce competition (Wei et al., 2019) 16. The risk-free DCEP provides a safer deposit alternative and may
+also increase the bank run. Therefore, although DCEP plays a positive role in the digital economy, it is also
+necessary to carefully assess its possible impact on the traditional financial system.
+
+CONCLUSION
+By combing the latest research and development trends, it can be found that DCEP is the national digital
+currency of China to replace cash in circulation. It is significantly different from electronic currency and
+third-party payment instruments. DCEP is issued through the dual mode which consists of the central bank and
+commercial banks. It operates and circulates based on the framework of three centers, namely DCRC, IAC and
+BDAC. Compared with the encrypted digital currency based on blockchain technology, DCEP has the
+characteristics of centralized management. DCEP will have profound impacts on the effectiveness of monetary
+policy, the operation of banks and payment institutions, the development of digital economy, the
+internationalization of CNY and even social governance. Although China has been at the forefront of digital
+currency research, there are still many opportunities and challenges for DCEP in the future.
+
+REFERENCES
+1.
+
+Boar, C., H. Holden, and A. Wadsworth. "Impending Arrival – A Sequel to the Survey on Central Bank
+Digital Currency." BIS Papers, no 107, January, (2020).
+
+2.
+
+ECB. "Report on a Digital Euro." October, (2020).
+
+3.
+
+Bank of England. "Central Bank Digital Currency: Opportunities, Challenges and Design." March,
+(2020).
+
+4.
+
+Shilin, Li, and Xuejun, Li. "International Comparison of Central Bank Digital Currency and
+Development Prospect of DCEP." New Economy Guide, 26.1(2021).
+
+4284
+
+Xiang Zou1*, Qiang Cao2
+
+5.
+
+Yonghong, Tu, and Lu, Diao. "Digital Trade: Activating the Digital Gene of Commercial Banks."
+Modern Commercial Bank, 52.19(2020).
+
+6.
+
+Guoping, Huang, and Huiting, Sun. " DCEP is Moving Towards Legal Digital Currency." Banker,
+261.10(2019).
+
+7.
+
+Yan, Yan, Lirong, Wang, and Qin, Zhang. "Central Bank Legal Digital Currency: Structure and
+Function." Economic Research Reference, 69.46(2020).
+
+8.
+
+Yuhang, Zhang. "Large-Scale Pilot Promotion and The Implementation of DCEP is Expected." China
+Development Watch, 71.8(2020).
+
+9.
+
+Yanhong, Chen, Jiangzhong, Yu, and Zhen, Li. "Economic Effect of Central Bank's Digital Currency
+and Prudent Management Approach." Dongyue Discussion Cluster, 318.41(2020).
+
+10. Chuanwei, Zou. "A Preliminary Analysis of Digital Currency and Electronic Payment of The People's
+Bank of China." New Finance, 12.10(2019).
+11. Shuzhe, Zhang, and Xingguo, Han. " DCEP Operation Model, Policy Impact and Development
+Suggestions." Theory Monthly, 50.10(2020).
+12. Shi, Cheng. "Speed Up the Research and Development of Digital Currency to Cope with The
+Competition for The Future Upgrading of the International Monetary System." Modern Commercial
+Bank, 20.13(2020).
+13. Jianyu, Xiong. "Prospects of Digital Currency." Times Finance, 36.31(2020).
+14. Tong, Wu, Jiaqi, Li, and Mengyu, Chen. "The Theoretical Basis and Operating Mechanism of National
+Digital Currency." Guizhou Social Sciences, 139.3(2020).
+15. Dexu, He, and Bo, Yao. "The Practical Impact of The Legalization of RMB Digital Currency and
+Countermeasures." Financial Review, 38.5(2019).
+16. Wei, Zhang, Wei, Dong, and Fengqi, Zhang. "The Impact of Central Bank Digital Currency on
+Payment, Monetary Policy and Financial Stability." Shanghai Finance, 59.1(2019).
+
+4285
+
+

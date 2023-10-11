@@ -1,0 +1,4531 @@
+mathematics
+Article
+
+The Macroeconomic Effects of an Interest-Bearing CBDC:
+A DSGE Model
+Ferry Syarifuddin 1
+
+and Toni Bakhtiar 2, *
+1
+2
+
+*
+
+Bank Indonesia Institute, Jl. M.H. Thamrin No. 2, Jakarta 10350, Indonesia; ferry.s@bi.go.id
+Department of Mathematics, Kampus IPB Dramaga, IPB University, Bogor 16680, Indonesia
+Correspondence: tbakhtiar@apps.ipb.ac.id
+
+Abstract: We develop a medium size dynamic stochastic general equilibrium (DSGE) model to assess
+the macroeconomic consequences of introducing an interest-bearing central bank digital currency
+(CBDC), an electronic alternative of payment with public use properties of cash and that can furnish
+as bank settlement balances. The model consists of seven sectors, namely households, retail firms,
+wholesale firms, capital producing firms, commercial banks, central bank, and government, and
+offers rich features. The use of cash and CBDC is differentiated with respect to their prices and
+transaction costs. In particular, we quantify the effects of negative shock on CBDC transaction cost to
+evaluate the potential of CBDC as an alternate instrument in liquidity holding in addition to cash
+and bank deposits. We also examine the effects of productivity shock and monetary policy shock on
+CBDC interest rate and CBDC demand, and their interaction with other main variables of the model.
+Keywords: DSGE model; interest-bearing CBDC; monetary policy; transaction costs
+
+
+Citation: Syarifuddin, F.; Bakhtiar, T.
+
+MSC: 91-10; 91B51
+JEL Classification: D53; E42; E43; E58
+
+The Macroeconomic Effects of an
+Interest-Bearing CBDC: A DSGE
+Model. Mathematics 2022, 10, 1671.
+https://doi.org/10.3390/
+math10101671
+Academic Editors: José Luis
+Miralles-Quirós, Maria Del Mar
+Miralles-Quirós and David Carfì
+Received: 16 February 2022
+Accepted: 10 May 2022
+Published: 13 May 2022
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional affiliations.
+
+Copyright: © 2022 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+
+1. Introduction
+The rise of privately issued digital currencies supported by the advancement of
+transaction validation technology has raised concerns among central banks and other
+monetary authorities. The rapid innovation of the payment infrastructure offers new
+alternate payment platforms to compete with central bank paper money, i.e., cash as the
+only form of central bank money available for customers. Digital or virtual currencies,
+popularly known as crypto-currencies, have broadened the option of payment settlement
+and have automated contracts. Additionally, due to the invention of blockchain, which
+uses distributed ledger technology (DLT), crypto-currencies can function in an open and
+decentralized fashion independent of any controlling entity, while ensuring safety and
+anonymity [1].
+The advent of crypto-currencies as payment solutions has posed challenges to central
+banks to consider upgrading the concept and provision of money. This payment diversity
+is, however, coincidence with the decline of the use of cash as a means of payment due to
+the COVID-19 pandemic. The wish to avoid coronavirus transmission through banknotes
+and coins has accelerated a shift from cash to digital transactions. As reported by Bank
+for International Settlements (BIS) [2], there was a decline in the total number of cash
+withdrawals by 23% and more than 10% in value. It is cited by Balz [3] that the worldwide
+transactions using PayPal have increased from about USD 3.26 billion in the first quarter
+of 2020 to around USD 3.74 billion in the second quarter. Additionally, the number of
+transactions using girocard in Germany in the first semester of 2020 was 21 percent up
+on the first two quarters of 2019, increasing the volume of transactions to USD 2.6 billion.
+
+4.0/).
+
+Mathematics 2022, 10, 1671. https://doi.org/10.3390/math10101671
+
+https://www.mdpi.com/journal/mathematics
+
+Mathematics 2022, 10, 1671
+
+2 of 33
+
+Cashless payments are expected to continue considering that consumers who had been
+conducting such payments prior to the pandemic have been even more likely to do so [4].
+Recently, according to what BIS reported in [5], no less than eighty percent of central
+banks worldwide have begun studying the process and consequences of introducing their own
+version of a digital currency, namely a central bank digital currency (CBDC). Almost 50 percent
+of central banks have run CBDC-related experiments or released proofs-of-concept. Moreover,
+about 10 percent of the surveyed central banks project to establish a generally available (retail)
+CBDC in the short run (up to three years) and around 20 percent in the medium term (up to
+six years). In 2014, China’s central bank (PBoC) starts focusing on the development of a CBDC
+by forming a special task force. In 2015, the Bank of England was pioneering a series of studies
+to assess the potential of CBDCs. In 2017, e-krona was proposed to study by Riksbank, the
+central bank of Sweden, in response to the weakening of the use of cash to the lowest level
+in the world. This initiative is then followed by Bahamas, the Eastern Caribbean Currency
+Union, and the Marshall Islands [6]. Some emerging economies including Tunisia, Lithuania,
+Venezuela, and Uruguay also implemented pilot programs to test CBDCs.
+A CBDC can loosely be described as an electronic alternative of cash issued by a
+central bank. From the household’s perspective, CBDCs can thus mimic the public use
+characteristics of cash and from commercial banks and other financial institutions with the
+payment system point of views, CBDCs can furnish as electronic central bank deposits,
+also known as reserves or settlement balances [7]. From a theoretical viewpoint, there are
+two important and long-standing questions regarding the issuance of a CBDC, namely the
+provision of public and private money, and the ability of the central bank to harness CBDC
+as a direct monetary policy tool to households. A central bank may consider introducing
+a CBDC with the following reasons: to ensure payment resilience, prevent private sector
+monopolies in the payment market, and strengthen monetary sovereignty [8].
+Despite the luminous potential of CBDC, academicians and central banks have been
+in the combination of cautious and curious. They have recently started to examine merits
+and dangers of introducing CBDC. A series of CBDC-related studies and discussions were
+carried-out to address the aforementioned questions by focusing on the consequences of
+introducing a CBDC on commercial banks and monetary policy as well as financial stability
+and welfare implications [9]. To our knowledge, no study tries to examine the multiple
+roles of CBDC in their models. Particularly, there is no existing study that unifies the roles
+of CBDC in macroeconomics and monetary policy. Given the existing gaps, the objectives
+of this paper are to develop a medium size dynamic stochastic general equilibrium (DSGE)
+model in a closed economy, where a CBDC is introduced as an alternative liquidity asset as
+well as a monetary policy instrument, and to quantify the macroeconomic consequences
+in the presence of interest-bearing CBDCs in competing with cash and bank deposits as
+well as the implication for optimal monetary policy. In order to differentiate with other
+studies, we extent some models of money-in-utility function [10,11], cash presence [8], price
+setting [12], and interest rate [13]. DSGE model is a prominent tool for policy analysis
+of central banking and contributes a major strand of the modern macroeconomics literature. The ability of DSGE models to quantitatively reveal macroeconomic fluctuations
+are then strengthened after seminal works of Christiano et al. [14] on the inertia and
+persistence of inflation in aggregate quantities subject to a monetary policy shock and
+Smets & Wouters [15] on Bayesian estimation of monetary business cycle model with sticky
+wages and prices. Since then, DSGE models have extensively been adopted for various
+purposes in macroeconomics forecasting.
+2. Related Works: Modeling CBDC
+From a theoretical point of view, the introduction of central bank digital currency
+poses some challenging questions relating to the supply of public and private money
+and the ability of the central bank to utilize CBDC as a tool to increase the efficiency of
+monetary policy. Despite its potential, CBDCs could threaten the stability of banking and
+financial systems. Bank runs and disintermediation may occur when a substantial amount
+
+Mathematics 2022, 10, 1671
+
+3 of 33
+
+of bank deposits is converted into CBDCs. Deposit outflows decrease banks’ funding
+ability and therefore, decline the volume of loan, investment, and economic activities in
+general [8]. Thus, the focus of theoretical literature in CBDC modeling lays in the effect of
+CBDC on commercial banks, monetary policy, financial stability, and welfare implications.
+Literature in this topic of research can be divided into three strands [16]: papers introducing
+a CBDC in general, papers presenting a CBDC in DSGE model, and those analyzing a
+CBDC in an open economy setting.
+2.1. Non-DSGE Models
+In the first strand, i.e., non-DSGE modeling of CBDC, many researchers utilize a stylized and often two-period model to assess the implication of CBDC in domestic economy.
+Agur et al. [17] discuss the optimal design of interest and non-interest bearing CBDCs. In
+this network effect induced environment, economic agents may choose cash, CBDC, and
+bank deposits based on their preferences over anonymity and security. Two-period model
+economy which consists of households, banks, firms, and a central bank is considered to
+maximize welfare. In the first period, the central bank decides whether and in what form to
+introduce a CBDC. Then, in the second period, households decide to use either cash, bank
+deposits, or CBDC (if introduced by central bank) in their transactions. Commercial banks
+extend loan to firms by using deposits from households. It is found that, when network
+effect matter, the interest bearing CBDC can be introduced by central bank to alleviate the
+trade-off between maintaining intermediation versus the diverse instruments of payment.
+Andolfatto [18] develops an overlapping generation model as a combination of the
+Diamond government debt model and Klein-Monti monopoly bank model to study the
+impact of interest bearing CBDC on monopolistic banking sector. It is shown that CBDC has
+no damaging effect toward lending activity of banks. More precisely, if the CBDC interest
+rate is independently set of the interest of reserve, then the establishment of CBDC will
+not discourage the lending activities. Accordingly, if CBDC interest rate is fixed below the
+interest of reserve, then there is an incentive for the monopoly banks to match the CBDC
+rate for the purpose of retaining deposits. Thus, it is shown by the model that introduction
+of an interest-bearing CBDC does reduce bank monopoly profit, but does not necessarily
+lead to bank disintermediation.
+The optimal monetary in an environment where cash and CBDC co-exist is studied by
+Davoodalhosseini [19]. By adapting Lagos–Wright model into two-period setting, i.e., a
+model with decentralized and centralized markets, an economy with only cash, only CBDC,
+or both of cash and CBDC can be analyzed. It is found that, under small carrying cost, the
+introduction of CBDC enables the central bank to acquire better allocations than with cash.
+By calibrating the model to the Canadian and US data, it is revealed that introducing CBDC
+can lead to an increase of up to 0.64 percent and 1.6 percent in consumption for Canada and
+for the US, respectively. The Lagos–Wright model with decentralized–centralized markets
+is also considered by [20]. Chiu et al. [21,22] develop a model of a banking system with
+imperfect competition to investigate the effect of general equilibrium of establishing CBDC.
+It is discovered that the introduction of CBDC as an outside option for households can still
+improve the efficiency of bank intermediation and increase lending and aggregate output,
+even if its usage is low. Furthermore, when the model is calibrated to the US economy, it is
+shown that CBDC can increase the volume of bank lending and investment by 6 percent
+under the proper interest rate. The output can also be increased by a maximum of 1 percent.
+Keister & Monnet [23] study the effect of CBDC establishment on the financial stability
+under the condition of private information about the quality of assets held by the bank.
+In this work, the seminal model of Diamond–Dybvig on bank runs is modified in such
+a way that patient and impatient agents face two types of liquidity shocks. It is shown
+that, by observing the funds inflow into CBDC, the central bank can deduce the financial
+condition of bank more quickly and monitoring the flow of funds into this new asset.
+Diamond–Dybvig model on bank runs is also adapted by Fernandez-Villaverde et al. [24]
+
+Mathematics 2022, 10, 1671
+
+4 of 33
+
+to study the impact of CBDC on financial stability and bank runs in which banks can offer
+nominal contracts. Other papers thematically most similar with this are [25–27].
+2.2. DSGE Models
+Studies in the second strand employ DSGE framework to model the consequences of CBDC
+on economy. It is well known that the dynamic stochastic general equilibrium (DSGE) models
+are widely used to explain and predict co-movements of aggregate time series over the business
+cycle. DSGE models can be viewed as an objectively good representation of a market economy
+mechanism. DSGE models can also be considered as the leading tool to evaluate the relative
+strength of interaction among agents [28]. However, the DSGE approach has also received
+criticism by economists. Among others, it is raised by [29] that DSGE failed to incorporate key
+aspects of economic behavior, especially in predicting or responding to a financial crisis (see
+for instance, [30]). Blanchard [31] lists many reasons to dislike current DSGE models: from its
+unappealing assumptions and unconvincing estimation method to its inability to communicate
+with other types of general equilibrium models and, of course, Lucas’ critique on parameter
+instability due to changes in economic policy [32]. Criticism on DSGE is also boosted by the
+Austrian school of economic thought. The core of the school lies in the inability of DSGE models
+to adapt to economic changes, particularly in dealing with the diversity of agents, preferences,
+and information sets. Other concerns relate to the heterogeneity and multi-specification of
+capital stock and production function, which can lead to malinvestment and sensitive to policy
+shocks [33–35]. Regardless the flaws, DSGE still serves to guide debates about the direction
+of the economy [31], provides policy evaluation exercises [36], and offers simplification and
+flexibility to be used for many purposes [37]. Rebuilding Macroeconomic Theory, set up by
+the Oxford Review of Economic Policy, is a project to rebuild the benchmark New Keynesian
+model [30].
+Compared to the use of the non-DSGE models, research on the effects of CBDC using
+the DSGE models is still rare. Gross & Schiller [8] build a DSGE model to evaluate the
+effects of interest and non-interest bearing CBDC, especially in the period of financial crises.
+A Gertler–Karadi model is adopted by focusing the household utility maximization, bank
+intermediation in lending, and the central bank role. In particular, households have three
+instruments of saving with remuneration, liquidity, and risk exposures, i.e., bank deposits,
+CBDC, and government bonds. It is found that the effect of bank deposits crowd out can
+be mitigated by assigning additional central bank funds or setting a low CBDC interest
+rates to disincentivize large-scale CBDC accumulation. Barrdear & Kumhof [38] propose a
+monetary-financial DSGE model and assess the steady state effects of an interest-bearing
+CBDC. Calibration of the model to pre-2008 US data shows that even if CBDC introduction
+of 30 percent of GDP would cause a bank deposits outflow, the output could still increase
+by three percent in the long run.
+A New Keynesian DSGE model consisting of three economic sectors, namely households, commercial bank, and central bank, is examined by Luo et al. [39] to analyze the
+impact of electronic money (including CBDC) on monetary policy and, specifically, the
+impact of behavior changes on savings, loans, output, and interest rate. The simulation
+results suggest that electronic money exhibits asymmetric effects on savings and loans,
+but an irrational distortion on households, electronic money influences the interest rate
+in reverse manner leading to the management difficulties of the micro subjects and affecting the monetary policy effectiveness, and electronic money has the effect of restraining
+risk. Lim et al. [40] develop a DSGE model equipped with cash and digital currency to
+quantify the effect of loan prime rate (LPR) setting and CBDC introduction in China. Using
+Bayesian estimation, the optimal LPR can be designed to improve the stability property of
+post-CBDC economy.
+2.3. Open Economy Models
+Open economy means an economy open to trade and capital flows. The third strand
+of research topic extend the DSGE models into open economy context. This direction is
+
+Mathematics 2022, 10, 1671
+
+5 of 33
+
+more challenging compared to a standard closed economy as we now allow, for instance,
+the world demand and transmission channel through exchange rate. The results regarding
+CBDC effect through DSGE modeling in open economy are thin. George et al. [41] extend
+the Barrdear–Kumhof model to a small open economy by introducing foreign sector,
+where export–import activities and capital flows are possible. It is discovered that the
+introduction of CBDC with an adjustable interest rate may improve the welfare and increase
+the monetary policy effectiveness. Moreover, exchange rate and inflation exhibit more
+stable movements. Ferrari et al. [16] build a two-country open economy DSGE model to
+assess the international transmission of standard monetary policy and technology shocks in
+light of two scenarios, namely with and without CBDC, and to explore the monetary policy
+optimality and households’ welfare in the economies. It is shown that the introduction of
+CBDC strengthen the international spillovers of shocks to a significant extent, thus reinforce
+international connections. A DSGE model proposed by Benigno et al. [42] discusses the
+two-country open economy nature of more globally issued crypto-currencies, which are
+different in safety and reputation with CBDC. The presence of a crypto-currency in a home
+and a foreign environment with two national currencies is analyzed in the framework of
+monetary policy autonomy.
+3. The Model Economy
+We follow the standard framework of DSGE modeling to assess the macroeconomic
+consequences of introducing an interest-bearing CBDC, especially we want to know how
+the cash will compete with CBDC with respect to their prices and transaction costs. In
+this section, we outline the economy of our model and expose the optimization problems
+solved by households and firms. We also describe the behavior of financial intermediaries
+by commercial bank and the monetary and fiscal authorities by the central bank and
+the government.
+3.1. Assumptions
+Our model economy is populated by seven classes of agents: a continuum of identical
+households of measure unity indexed by h ∈ [0, 1], a retail firm or final-good producing firm,
+a continuum of wholesale firms or intermediate-good producing firms indexed by j ∈ [0, 1], a
+capital-producing firm, commercial banks, the central bank as a monetary authority and the
+government as a fiscal authority. In a representative agent model, identical agents in household
+and firm sectors mean that all agents differ, but they act in such a way that the sum of their
+preferences is mathematically equivalent to the decision of one representative agent.
+The basic structure of our DSGE model is depicted in Figure 1. The model is built
+according to the closed economy New Keynesian framework by [8,43,44]. Households
+consume and supply labor to wholesale firms, receive wages, choose the real levels of cash,
+deposits, and CBDC to hold at the beginning of the period, and pay lump-sum tax to the
+government. As the owners, households also receive dividends from firms and commercial
+banks. Retail firm aggregates imperfectly substitutable intermediate goods into a single
+final good, which is used for consumption, investment, or government spending. The
+final good is sold at a perfectly competitive price. Wholesale firms use the labor provided
+by households and capital to produce a unique good that is sold on the monopolistically
+competitive market. Wages are fully flexible and adjust to clear the market. Capitalproducing firm purchases the final good for investment and combines it with existing
+capital stock to produce new capital goods. Commercial bank is owned by households. The
+bank supplies credit to wholesale firms to finance their short-term working capital needs,
+supplies credit to the capital-producing firm for investment financing, pays interest on
+household deposits and central bank loans, and holds minimum reserves against deposits
+at the central bank without remuneration. The central bank regulates the commercial
+bank and sets its policy interest rate using a Taylor-type rule and supplies all the credit
+demanded by the bank at the prevailing refinance rate. The government issues bonds,
+receives tax payments, and makes spending.
+
+Mathematics 2022, 10, 1671
+
+6 of 33
+
+spending
+intermediate goods
+
+final goods
+
+Retail Firm
+
+Government
+
+payment
+
+payment
+
+final goods
+
+labor
+
+Wholesale Firm
+
+wages, dividends
+deposits
+investment, loan
+
+Households
+
+lump-sum tax
+
+interest
+payment
+
+dividends,
+interest
+
+physical capital
+
+Capital Producing
+Firm
+
+capital loan
+interest
+
+Commercial
+Bank
+
+CBDC
+
+lending
+
+interest
+
+Central Bank
+
+reserves,
+interest
+
+Figure 1. The model structure.
+
+In some respects, we follow approaches developed in previous studies by others and
+in different standpoints we make few extensions. Our model has the following features:
+1.
+
+2.
+
+3.
+
+4.
+5.
+
+We consider a money-in-utility (MIU) intertemporal welfare function to be maximized
+by households [10,11]. The presence of cash in addition to bank deposits and CBDC
+is slightly extend the one by Gross & Schiller [8]. The cash also appears in the
+budget constraint.
+In the profit maximization of wholesale firms, we adopt the so-called Calvo price
+setting mechanism, where firms have a certain probability of either keeping the price
+fixed in the next period or optimally determining the price [12].
+Similar to [8,13], the nominal interest rate on CBDC follows the interest rate of central
+bank funding considering the financial stress expressed as the percentage deviation
+of banks’ equity from steady state. This rule is intended to disincentivize CBDC
+accumulation in a crisis.
+Government bonds are held by banks and the central bank.
+To quantify the effect of disruptions by economic shocks, our model is equipped with
+three shock generators, namely productivity shock, liquidity demand shock, and the
+monetary policy shock.
+
+3.2. Households
+In this model, the economy is populated by a continuum of households indexed by
+h ∈ [0, 1] whose problem is to maximize a particular intertemporal welfare function. To this
+end, a money-in-utility function proposed by Sidrauski [10] and in the form of the constant
+relative risk aversion (CRRA) utility function is adopted. The lifetime utility function U H
+is additively separable into consumption of goods Ch,t , supply of working hours Lh,t , and
+saving in the form of bank deposits Dh,t , money holding in cash (real money balance)
+Mh,t , and digital money holding in CBDC Eh,t . Each household h wants to maximize the
+following expected utility:
+
+UH
+
+1− σ
+Ch,i
+
+
+
+
+
+Eh,i 1−ηe
+Mh,i 1−ηm
+αe
+αm
++
++
+
+∞
+1 − ηm
+Pi
+ 1 − σ 1 − ηe Pi
+= E0 ∑ βi 
+1+ ϕ
+
+ 1− ηd
+
+α
+L
+Dh,i
+αd
+l h,i
+i =0
++
++
+1 − ηd
+Pi
+1+ϕ
+
+
+
+
+
+,
+
+
+(1)
+
+where E0 stands for the rational expectation operator conditional on the information set
+at time zero. In (1), CBDC, cash, and deposits are expressed in nominal values as they are
+weighted by the price level Pi , β ∈ (0, 1) is the intertemporal discount factor, σ ∈ (0, 1) is
+the relative risk aversion coefficient, αe , αm , αd > 0 are relative utility weights or preference
+
+Mathematics 2022, 10, 1671
+
+7 of 33
+
+parameters of CBDC, cash, and bank deposits, respectively, ϕ is coefficient relates to
+Frisch elasticity of labor supply, and ηe , ηm , ηd > 0 are coefficients relate to elasticity of
+bank deposits, cash, and CBDC. Note that we may extend the form of household’s utility
+H as discussed by, for
+function by introducing wealth in the form of government bonds Bh,i
+instance, Michaillat & Saez [45]. However, this extension modifies the properties of the
+New Keynesian IS curve, where the interest rate is now negatively related to output instead
+of being constant, equal to the time discount rate.
+Households are assumed to consume goods, invest money, pay taxes, and receive
+wages for their labor supplied. Households also own the firms and the banks, and therefore
+receive dividends and profits sharing. Decisions made by households in maximizing (1)
+must satisfy the following budget constraint:
+Pt (Ch,t + I NVh,t ) + Eh,t + Mh,t + Dh,t + TAXh,t = Wt Lh,t + RtK Kh,t
+FB
++ (1 + ItE−1 ) Eh,t−1 + Mh,t−1 + (1 + ItD−1 ) Dh,t−1 + Πh,t
+. (2)
+
+The terms on the left-hand side of (2) summarize the use of economic resources by
+households, and those on the right-hand side indicate the economic resources. I NVh,t is
+level of investment, TAXh,t is the lump sum tax, Wt is the level of wages, Kh,t is the capital
+stock, RtK is the return on capital, ItE is the nominal interest rate of CBDC, ItD is the nominal
+FB is the profit (dividend) from firms and banks. An
+interest rate of bank deposits, and Πh,t
+additional equation represents the capital stock dynamics is:
+Kh,t+1 = I NVh,t + (1 − δ)Kh,t ,
+
+(3)
+
+where δ is the depreciation rate of physical capital.
+Lifetime utility (1) maximization, with respect to Ch,t , Lh,t , Kh,t , Eh,t , Mh,t , and Dh,t , subject to budget constraint (2) and capital stock (3) yields the following first order conditions:
+ϕ
+
+αl Ctσ Lt =
+
+Et Ct+1 σ
+Ct
+  − ηe
+Et
+αe
+Pt
+
+
+Mt − η m
+αm
+Pt
+  − ηd
+Dt
+αd
+Pt
+
+Wt
+,
+Pt
+
+(4)
+!
+
+
+
+= β 1 − δ + Et
+
+RtK+1
+,
+Pt+1
+
+(5)
+
+=
+
+C −σ
+Ct−σ
+− β(1 + ItE )Et t+1 ,
+Pt
+Pt+1
+
+(6)
+
+=
+
+C −σ
+Ct−σ
+− β Et t +1 ,
+Pt
+Pt+1
+
+(7)
+
+=
+
+C −σ
+Ct−σ
+− β(1 + ItD )Et t+1 .
+Pt
+Pt+1
+
+(8)
+
+Note that derivation processes allow us to drop the index h from variables. The
+complete proofs for (4)–(8) can be found in Appendix B.
+Under transaction costs of using cash and CBDC, the total consumption can be decomposed as follows:
+Ct = CtM (1 + S(vtM )) + CtE (1 + S(vtE )),
+
+(9)
+
+where S(vtM ) and S(vtE ) are the transaction costs of using cash and CBDC, respectively, as
+functions of money velocities vtM and vtE , while CtM and CtE are the consumption levels using
+cash and CBDC. The money velocities with respect to cash and CBDC are, respectively,
+given by:
+CtM
+,
+Mt
+CE
+vtE = t .
+Et
+
+vtM =
+
+(10)
+(11)
+
+Mathematics 2022, 10, 1671
+
+8 of 33
+
+In this work, we adopt transaction cost functions proposed by Schmitt-Grohe &
+Uribe [46] as follows:
+√
+b
+S(vt ) = avt +
+− 2 ab,
+(12)
+vt
+where a and b√are all positive cost parameters. Cost function S has a satiation level of
+velocity v∗ = b/a. We can easily verify that S is decreasing when vt < v∗ and increasing
+when vt > v∗ . The transaction cost functions for cash and CBDC are given by:
+p
+CtM
+Mt
++ bM M − 2 a M bM ,
+Mt
+Ct
+E
+p
+C
+Et
+StE = ZtE a E t + bE E − 2 a E bE ,
+Et
+Ct
+
+StM = ZtM a M
+
+(13)
+(14)
+
+where we denote StM = S(vtM ) and StE = S(vtE ), while ZtM and ZtE are the shocks on the
+demand for total liquidities in term of cash and CBDC, respectively, which follow first
+order autoregressive processes:
+M
+ln ZtM = ρ M ln ZtM
+−1 + ε t ,
+
+(15)
+
+ln ZtE = ρ E ln ZtE−1 − ε Et ,
+
+(16)
+
+where ρ M , ρ E ∈ (0, 1) are the degree of persistence in the cash and CBDC demands, and
+E
+M
+εM
+t ∼ N (0, σM ) and ε t ∼ N (0, σE ) are the errors. As pointed out by [38], an increase in St
+E
+or St can be considered as a flight to safety, meaning a higher demand for liquid assets for
+a given volume of real economic transactions. CBDC that has cheaper transaction cost than
+cash will have smaller parameters values, i.e., a E ≤ a M and bE ≤ b M .
+Further, consumption levels by using cash and CBDC are given by:
+!−ζ
+PtM
+=
+Ct ,
+Pt
+ E −ζ
+Pt
+E
+Ct =
+Ct ,
+Pt
+
+CtM
+
+(17)
+(18)
+
+where ζ is the elasticity of substitution between cash and CBDC payments for consumption,
+PtM and PtE are the prices of goods by using cash and CBDC, respectively, and they govern
+the general price:
+1
+
+Pt = (( PtM )1−ζ + ( PtE )1−ζ ) 1−ζ .
+
+(19)
+
+The proofs for (17)–(19) are provided in Appendix C.
+3.3. Retail Firms
+Suppose that at time t wholesale firm j produces Yj,t units of intermediate good
+and there are a continuum of intermediate goods over the unit interval [0, 1]. These
+intermediate goods are CES aggregated by a retail firm (final good producer) to produce Yt .
+The production technology for assembling intermediate goods to produce the final good is
+given by the standard Dixit-Stiglitz technology [47]:
+Z 1
+ θ −θ 1
+θ −1
+Yt =
+(Yj,t ) θ dj
+,
+(20)
+0
+
+where θ > 1 represents the elasticity of substitution between intermediate goods. With the
+nominal price of a final good being denoted by Pt and that of a intermediate good j denoted
+by Pj,t , the price of each intermediate good is taken as a given by retail firms. Therefore, the
+representative retail firm chooses the quantities of intermediate goods such that maximize
+its profits:
+
+Mathematics 2022, 10, 1671
+
+9 of 33
+
+U RF = Pt Yt −
+
+Z 1
+0
+
+Pj,t Yj,t dj,
+
+(21)
+
+where the first term in (21) is the total revenue from selling final goods and the second term
+is the total cost of buying intermediate goods. Substituting the aggregator technology (20)
+leads to the following first order condition of profit maximization:
+
+
+Pj,t −θ
+Yj,t =
+Yt .
+(22)
+Pt
+Equation (22) accounts the demand level of intermediate good j, which is directly
+proportional to aggregate demand Yt and inversely proportional to its relative price
+level Pt .
+3.4. Wholesale Firms
+Each wholesale firm j produces a perishable intermediate good that is sold on a
+monopolistically competitive market. To produce these goods, each firm rents capital at the
+price Rt from the capital good producer and combines it with labor from households. To
+produce the output Yt , each wholesale firm has a Cobb–Douglas production function:
+Yj,t = At K αj,t L1j,t−α ,
+
+(23)
+
+where K j,t is the amount of capital rented by wholesale firm j from capital market, L j,t is
+the number of working hours supplied by households to firm j, α ∈ (0, 1) is the elasticity
+of output with respect to capital, and At is the productivity shock, a variable that can be
+interpreted as the level of general knowledge about the arts of production available in an
+economy. It is assumed that productivity shocks follow a first-order autoregressive process,
+such that:
+ln At = ρ A ln At−1 + ε A
+t ,
+
+(24)
+
+where ρ A ∈ (−1, 1) is the degree of persistence of the shock and ε A
+t ∼ N (0, σA ) is the error.
+Total wages should be transferred by wholesale firm j to household is Wt L j,t . However,
+we assume that there is a possibility wholesale firm j can take a loan from commercial bank
+to pay some part of wages in advance. The amount of the loan for this purpose, denoted by
+IF , is given by:
+Q j,t
+IF
+Q j,t
+= k Q Wt L j,t ,
+
+(25)
+
+where k Q ∈ (0, 1) is the portion of total wages borrowed from bank. In [44], k Q represents
+IF + (1 − k )W L and
+the strength of the cost channel. As we may write Wt L j,t = Q j,t
+t j,t
+Q
+since it is assumed that short-term loans for working capital do not carry any risk and
+are therefore contracted at a rate that reflects only the marginal cost of borrowing from
+the central bank, ItCB , which is the refinance rate [44], then the wages claim faced by the
+wholesale firm is given by:
+IF
+(1 + ItCB ) Q j,t
++ (1 − k Q )Wt L j,t = (1 + k Q ItCB )Wt L j,t .
+
+(26)
+
+3.4.1. The Cost Minimization Problem
+The wholesale firm solves a two-stage optimization problem. First, the firm j takes
+the prices of the factors of production (return on capital RtK and wages Wt ) as given and
+determines the amount of capital and labor that it will use to minimize its total production
+cost. The total cost TCj,t to be minimized by the firm consists of wages bill (26) and
+capital rent:
+TCj,t = (1 + k Q RtL )Wt L j,t + RtK K j,t ,
+
+(27)
+
+subject to production function (23). The corresponding Lagrange function for this problem is:
+
+Mathematics 2022, 10, 1671
+
+10 of 33
+
+a 1− a
+L IF = (1 + k Q ItCB )Wt L j,t + RtK K j,t + ΛtIF (Yj,t − At K j,t
+L j,t ),
+
+(28)
+
+where ΛtIF is the Lagrange multiplier. The first order condition with respect to L j,t and K j,t
+are, respectively, as follow:
+α
+(1 + k Q ItCB )Wt − (1 − α)ΛtIF At K αj,t L−
+j,t = 0,
+
+RtK − αΛtIF At K αj,t−1 L1j,t−α = 0.
+From the second condition, we have:
+RtK K j,t
+α
+= ΛtIF At K αj,t L−
+j,t ,
+αL j,t
+and substitution to the first condition provides:
+K j,t
+α(1 + k Q ItCB ) Wt
+=
+.
+L j,t
+1−α
+RtK
+
+(29)
+
+Since none of the terms on the right hand side of (29) depend on j, then the capital-labor
+ratio will be the same across all firms.
+From (29) we may express Kt as:
+Kt =
+
+α(1 + k Q ItCB ) Wt
+Lt .
+1−α
+RtK
+
+(30)
+
+By substituting (30) into total cost (27) we obtain:
+TCt =
+
+1 + k Q ItCB
+Wt Lt ,
+1−α
+
+(31)
+
+and by substituting (30) into production function (23) we get:
+!α
+α(1 + k Q ItCB ) Wt
+Yt = At
+Lt ,
+1−α
+RtK
+or equivalently:
+Yt
+Lt =
+At
+
+α(1 + k Q ItCB ) Wt
+1−α
+RtK
+
+!−α
+.
+
+Substitution (32) into the total optimal cost function (31) yields:
+!1− α 
+α
+RtK
+Yt (1 + k Q ItCB )Wt
+TCt =
+.
+At
+1−α
+α
+
+(32)
+
+(33)
+
+Finally, the marginal cost function MCt is the derivative of the total cost function (33)
+with respect to Yt :
+!1− α 
+α
+RtK
+1 (1 + k Q ItCB )Wt
+.
+(34)
+MCt =
+At
+1−α
+α
+Subsequently, we can rewrite Lt in (32) and Kt in (30) in term of MCt , respectively, as
+follow:
+1−α
+Yt
+MCt
+,
+CB
+Wt
+1 + k Q It
+Yt
+Kt = αMCt K .
+Rt
+Lt =
+
+(35)
+(36)
+
+Mathematics 2022, 10, 1671
+
+11 of 33
+
+3.4.2. The Profit Maximization Problem
+In the second stage, wholesale firm wants to maximize the real profits it gives back to
+households. Since the real marginal cost is the optimal cost of producing one unit of goods,
+the firm’s problem is to maximize:
+IF
+Π j,t
+= Pj,t Yj,t − MCt Yj,t .
+
+(37)
+
+In addition to the stochastic discount factor β, firms will also discount their future
+profits by φ. We also impose that the wholesale firms face the constraint that they can only
+adjust prices following a Calvo-type rule. The wholesale firm has a φ probability of keeping
+the price fixed in the next period and a 1 − φ probability of optimally determining its price.
+Hence, a wholesale firm wants to maximize:
+IF
+Π j,t
+= Et
+
+∞
+
+∑ ( βφ)s ( Pj,t Yj,t+s − MCt+s Yj,t+s ),
+
+(38)
+
+s =0
+
+subject to production constraint (22), which is adjusted as:
+!θ
+Pt+s
+Yj,t+s =
+Yt+s .
+Pj,t
+
+(39)
+
+Substitution the optimal production constraint (39) into profit function (38) gives:
+IF
+Π j,t
+= Et
+
+∞
+
+∑ ( βφ)s ( Pj,t1−θ Ptθ+s − Pj,t−θ Ptθ+s MCt+s )Yt+s .
+
+(40)
+
+s =0
+
+The first order condition with respect to Pj,t is then given by:
+∞
+
+Et
+
+∑ ( βφ)s ((1 − θ ) Pj,t−θ Ptθ+−s1 + θPj,t−θ−1 Ptθ+−s1 MCt+s )Yt+s = 0,
+
+(41)
+
+s =0
+
+or equivalently:
+∞
+
+Et
+
+∑ ( βφ)
+
+θ MCt+s
+1+
+1 − θ Pj,t
+
+s
+
+s =0
+
+!
+
+= 0.
+
+(42)
+
+We may proceed (42) to have:
+∞
+
+θ
+
+∞
+
+∑ ( βφ)s = 1 − θ Et ∑ ( βφ)s
+
+s =0
+
+s =0
+
+MCt+s
+Pj,t
+
+∞
+Pj,t
+θ
+=
+Et ∑ ( βφ)s MCt+s
+1 − βφ
+1 − θ s =0
+
+Pj,t =
+
+∞
+θ (1 − βφ)
+Et ∑ ( βφ)s MCt+s .
+1−θ
+s =0
+
+Instead, we follow the approach adopted by Fernandez-Villaverde et al. [24] to
+proceed (41) such that we obtain:
+!
+
+
+
+
+∞
+Pj,t 1−θ
+Pj,t −θ MCt+s
+θ
+s 1−θ
+Et ∑ ( βφ)
++
+Yt+s = 0,
+Pj,t
+Pt+s
+Pj,t Pt+s
+Pt+s
+s =0
+and then becomes:
+∞
+
+Et
+
+∑ ( βφ)
+
+s
+
+s =0
+
+
+
+Pj,t
+Pt+s
+
+ 1− θ
+
+θ
++
+1−θ
+
+
+
+Pj,t
+Pt+s
+
+−θ
+
+!
+MCt+s
+Yt+s = 0.
+Pt+s
+
+(43)
+
+3.5. Capital Producing Firms
+In the economy, all the capital is owned by the capital producing firm who adopts a
+linear production function to produce capital goods. At the beginning of the period, the
+capital producing firm buys I NVt of the final goods from the retail firm for investment
+
+Mathematics 2022, 10, 1671
+
+12 of 33
+
+purposes. Because payments for these final goods must be made in advance, the capital
+producing firms borrows QCF
+t from the commercial bank to purchase the capital. Thus,
+QCF
+t = I NVt .
+
+(44)
+
+The loan in (44) must be paid in full plus interest with lending rate ItL . The capital
+producing firms then combines investment goods and the existing capital stock to create
+new capital goods Kt+1 . The new capital stock is then rented to wholesale firms at the rate
+RtK . Recall that the dynamic of capital stocks is given in (3).
+Taking the rental rate of capital RtK , the lending interest rate ItL , and the price of the
+final goods Pt as given, the capital producing firm chooses the level of the capital stock so
+as to maximize the profits to the household. The real profits of the capital producing firm
+can be denoted as:
+K
+L
+ΠCF
+t = Rt Kt − (1 + It ) I NVt ,
+
+(45)
+
+and the value of the discounted stream of dividend payments to the household to be
+maximized is then formulated as:
+ΠCF = Et
+
+∞
+
+∑ βt ΛtH ΠCF
+t ,
+
+(46)
+
+t =0
+
+where it is assumed, as in [44,48], that the capital producing firm values future profits
+according to the household’s intertemporal marginal rate of substitution in consumption
+ΛtH , i.e., the Lagrange multiplier of households’ utility maximization given in (A35). This
+assumption is imposed because, in this model, the household and capital producing firm
+can be considered as a single unit with respect to housing choices.
+From (3), we get I NVi = Ki+1 − (1 − δ)Ki , and by substituting it into (46) together
+with (45), we have the real profits function to be maximized:
+ΠCF = Et
+
+∞
+
+∑ βi ΛiH ( RiK Ki − (1 + IiL )(Ki+1 − (1 − δ)Ki )).
+
+i =0
+
+By explicitly showing ΠCF
+t at time t and t + 1, we have:
+ΠCF = · · · + βt ΛtH ( RtK Kt − (1 + ItL )(Kt+1 − (1 − δ)Kt ))
+βt+1 ΛtH+1 ( RtK+1 Kt+1 − (1 + ItL+1 )(Kt+2 − (1 − δ)Kt+1 )) + · · · ,
+from which we obtain the first order condition with respect to Kt+1 as follows:
+
+−ΛtH (1 + ItL ) + βEt ΛtH+1 ( RtK+1 + (1 − δ)(1 + ItL+1 )) = 0.
+Since ΛtH = −Ct−σ /Pt from (A36), we then have:
+C −σ
+Ct−σ
+(1 + ItL ) = − βEt t+1 ( RtK+1 + (1 − δ)(1 + ItL+1 )).
+Pt
+Pt+1
+
+(47)
+
+3.6. Banks
+The commercial banks receive deposits Dt from households at the beginning of each
+period. These deposits are managed by the banks to finance loans to wholesale firms for
+IF in (25), and to the capital
+paying wages claim, which for a representative firm j it is Q j,t
+B
+producing firm for investment QCF
+t in (44). Therefore, total lending Qt provided by the
+bank is:
+
+QtB = QtIF + QCF
+t = k Q Wt Lt + I NVt .
+
+(48)
+
+As refinancing via the central bank is more expensive than refinancing via deposits,
+i.e., ItCB > ItD , bank will only demand central bank funding to fill the gap between the
+supply of deposits Dt and the maximum amount of total external lending QtB . If the total
+
+Mathematics 2022, 10, 1671
+
+13 of 33
+
+lending is bigger than deposits, i.e., there is a shortfall in funding, bank borrows from the
+CB
+central bank QCB
+t with a net interest rate It .
+Bank’s liabilities comprise of loans from the central bank QCB
+t , bank deposits Dt , and
+bank’s equity Nt , while bank’s assets consist of central bank reserves TRt , loans to firms
+QtB , and bonds BtB as risk-free asset. Thus, the bank’s balance sheet is provided by:
+QtB + TRt + BtB = QCB
+t + Dt + Nt .
+
+(49)
+
+As total reserves TRt is a portion ψ of deposit, i.e., TRt = ψDt , and by (48), bank’s
+balance sheet (49) is then rewritten as:
+B
+CB
+QtIF + QCF
+t + Bt = Qt + (1 − ψ ) Dt + Nt .
+
+(50)
+
+Note that Nt captures the bank’s equity, which is mainly driven by the interest rate
+premia. Since commercial bank lends their equity, households’ deposits, and funds from
+the central bank to the production sector, then the bank’s equity evolves according to the
+following equation:
+Nt+1 = (1 + ItL ) Nt + ( ItL − ItD ) Dt + ( ItL − ItCB ) QCB
+t .
+
+(51)
+
+In (51), ItL − ItD and ItL − ItCB denote the interest rate premia from deposits and central
+bank funds, respectively, by assuming that ItL ≥ ItD and ItL ≥ ItCB .
+The bank’s revenues come from equity (1 + ItL ) Nt , loans to wholesale firms
+(1 + ItCB ) QtIF = k Q (1 + ItCB )Wt Lt , loans to capital production firms (1 + ItL ) QCF
+=
+t
+(1 + ItL ) I NVt , and bonds (1 + ItB ) BtB . Meanwhile, the bank’s liabilities come from deposits (1 + ItD ) Dt and central bank loans (1 + ItCB ) QCB
+t . Therefore, the bank’s profit to
+be maximized is formulated as:
+B
+B
+Π B = (1 + ItL ) Nt + (1 + ItCB ) QtIF + (1 + ItL ) QCF
+t + (1 + It ) Bt
+
+− (1 + ItD ) Dt − (1 + ItCB ) QCB
+t , (52)
+subject to bank’s balance sheet (50). From (50), we may substitute QCB
+t as follows:
+IF
+CF
+B
+QCB
+t = Qt + Qt + Bt − (1 − ψ ) Dt − Nt .
+
+Thus, the bank’s profit (52) becomes:
+B
+B
+Π B = (1 + ItL ) Nt + (1 + ItCB ) QtIF + (1 + ItL ) QCF
+t + (1 + It ) Bt
+B
+− (1 + ItD ) Dt − (1 + ItCB )( QtIF + QCF
+t + Bt − (1 − ψ ) Dt − Nt ). (53)
+
+The banks aim to determine the loan interest rate ItL and the deposits interest rate ItD
+in order to maximize their profit (53). Instead of maximizing (53) with respect to ItL and ItL ,
+it will be much easier differentiating (53) with respect to (1 + ItL ) and (1 + ItD ). Doing so,
+we respectively obtain:
+∂QCF
+∂QCF
+CB
+t
+t
+−
+(
+1
++
+I
+)
+= 0,
+t
+∂(1 + ItL )
+∂(1 + ItL )
+∂Dt
+∂Dt
++ (1 − ψ)(1 + ItCB )
+= 0.
+− Dt − (1 + ItD )
+D
+∂(1 + It )
+∂(1 + ItD )
+L
+Nt + QCF
+t + (1 + It )
+
+(54)
+(55)
+
+L
+We derive (54) and (55) by considering that QCF
+t is a function of (1 + It ) and Dt is a
+D
+function of (1 + It ). Next, we follow an approach in [44] by defining the coefficient of
+interest elasticity for loan supply to the wholesale firm φL and that for deposits supply to
+households φD as follows:
+
+Mathematics 2022, 10, 1671
+
+14 of 33
+
+φL =
+
+∂QCF
+1 + ItL
+t
+,
+∂(1 + ItL ) QCF
+t
+
+(56)
+
+φD =
+
+1 + ItD
+∂Dt
+.
+D
+∂(1 + It ) Dt
+
+(57)
+
+Thus, by reformulating (54) and (55) in terms of φL in (56) and φD in (57), we obtain
+the optimal rates of loan and deposits:
+1 + ItL =
+
+φL (1 + ItCB ) I NVt
+,
+Nt + (1 + φL ) I NVt
+
+(58)
+
+1 + ItD =
+
+φD (1 − ψ)(1 + ItCB )
+.
+1 + φD
+
+(59)
+
+It is shown in (58) and (59) that loan and deposit rates depend positively on refinance
+rate from the central bank ItCB . It is also known that ItL depends negatively on the ratio of
+bank’s equity and investment Nt /I NVt .
+3.7. The Central Bank
+ItCB
+
+While the rate of government bonds ItB follows the interest rate on central bank funding
+in the way that:
+ItB = ItCB + ∆ B ,
+
+(60)
+
+where ∆ B > 0 is the fixed spread, the nominal interest rate on CBDC ItE is set by the central
+bank. In the case of a non-interest-bearing CBDC, the central bank sets ItE = 0. In order to
+use CBDC as a policy instrument, for an interest-bearing CBDC, the interest rate on CBDC
+strictly follows the interest rate on central bank funding with an individual rule-based
+determination, as suggested by Gross & Schiller [8]:
+
+
+N̄ − Nt
+E
+CB
+E
+It = It − ∆ + k N
+.
+(61)
+N̄
+The terms in brackets in (61) define the spread between the interest rates on central
+bank funding ItCB and that of CBDC ItE , where ∆ E > 0 is the fixed spread, and Nt is the
+bank’s equity with steady state value N̄. If Nt is below its steady state value N̄, then the
+spread increases, meaning that the CBDC rate is much lower than the central bank rate.
+In (61), the percentage deviation of banks’ equity from steady state ( N̄ − Nt )/ N̄ represents
+the financial stress with k N ∈ (0, 1) denotes the reaction intensity.
+The central bank sets the policy interest rate on central bank funding itCB according to
+a Taylor-type rule. The policy rule is given in the following linear form:
+B
+T
+ItCB = ρ R ItCB
+−1 + (1 − ρ R )( R̄ + πt + φπ ( πt − π ) + φy (Yt − Ȳ ) + ut ,
+
+(62)
+
+where ρ R ∈ (0, 1) is the interest rate smoothing parameter, R̄ B is the steady state value
+of the bonds interest rate, πt is the current inflation rate, π T is the central bank’s inflation target, yt is the output with steady state value Ȳ, φπ and φy are, respectively, relative weights on inflation deviation and the output gap, and ut is the shock of first-order
+autoregressive process:
+ut = ρu ut−1 + εut ,
+(63)
+where ρu ∈ (−1, 1) is the degree of persistence of the shock and εut ∼ N (0, σu ) is the error.
+The central bank’s assets consist of government bonds holding BtCB , tax payment TAXt ,
+and loans to the commercial banks QCB
+t , whereas its liabilities comprise total reserves TRt
+and currency supplied to households and firms in the forms of cash MtS and CBDC EtS . The
+central bank’s balance sheet is thus formulated as:
+
+Mathematics 2022, 10, 1671
+
+15 of 33
+
+S
+S
+(1 + ItB ) BtCB + TAXt + (1 + ItCB ) QCB
+t = TRt − TRt−1 + Mt + Et .
+
+(64)
+
+Note that profits from bonds holding ItB BtCB and from loan ItCB QCB
+t as well as lump
+sum tax TAXt are then transferred to the government. Since TRt = ψDt and currencies
+supplies can be given by MtS = Mt − µm Mt−1 and EtS = Et − µe Et−1 for cash and CBDC,
+respectively, then (64) becomes:
+
+(1 + ItB ) BtCB + TAXt + (1 + ItCB ) QCB
+t = ψ ( Dt − Dt −1 )
++ ( Mt − µm Mt−1 ) + ( Et − µe Et−1 ), (65)
+where µm and µe are the measure of nominal rigidity in the money supply process.
+3.8. The Government
+In the economy, the government purchases the final good from retail firms Gt , collects
+taxes from households TAXt , and issues one-period risk-free bonds Bt . The total bonds
+issued by government is given by:
+Bt = BtB + BtCB ,
+
+(66)
+
+where BtB are bonds held by commercial bank and BtCB are those held by the central bank.
+The government’s budget constraint is formulated as:
+B CB
+Pt Gt + (1 + ItB−1 ) Bt−1 = TAXt + Bt + ItCB QCB
+t + It Bt ,
+
+(67)
+
+where we assume that the profits earned by the central bank from loans and bonds holding
+are transferred to the government as fiscal authority. By (66), the budget constraint (67)
+becomes:
+B
+B
+CB
+CB CB
+Pt Gt + (1 + ItB−1 ) BtB−1 + BtCB
+−1 = TAXt + Bt + (1 + It ) Bt + It Qt .
+
+(68)
+
+The government’s spending can be a constant fraction k G ∈ (0, 1) of output of the
+final goods:
+Gt = k G Yt ,
+(69)
+and since output is divided into consumption, investment, and government spending, then
+the economy-wide budget constraint is expressed as:
+Yt = Ct + I NVt + Gt .
+
+(70)
+
+4. Log-Linearization
+One easy and common approach to solve and analyze DSGE models is to approximate the nonlinear equations characterizing the equilibrium with the corresponding
+log-linearized equations. The principle is to employ a first order Taylor approximation
+around a particular point (usually a steady state value) to replace the nonlinear equations
+with their approximations, which are linear in the log-deviations of the variables. In this
+work, we follow a log-linearization method proposed by Uhlig [49].
+Let Xt be the value of variable at time t and X̄ be the steady state value of Xt . The
+log-linearized form of Xt , denoted by xt , is defined as:
+xt = ln Xt − ln X̄ = ln
+
+Xt
+.
+X̄
+
+(71)
+
+Since the first order Taylor approximation of function h = h( x ) around x = a is given
+by h( x ) ≈ h( a) + h0 ( a)( x − a), and thus for h( Xt ) = ln( Xt / X̄ ) we have h0 ( Xt ) = 1/Xt ,
+then the approximation of Xt around its steady state value X̄ in (71) is xt ≈ ( Xt − X̄ )/ X̄,
+from which we obtain the equivalency:
+Xt ≈ X̄ (1 + xt ).
+
+(72)
+
+Mathematics 2022, 10, 1671
+
+16 of 33
+
+Alternatively, as from (71) we get ln Xt = xt + ln X̄, then by taking the exponent of
+both sides, we obtain Xt ≈ X̄e xt . By fact that Taylor approximation provides e xt ≈ 1 + xt ,
+then we again reclaim (72).
+The nonlinear equations characterizing the equilibrium conditions of the model are
+presented in Section 3. The log-linearized version of these equations can be found in
+Appendix A.
+5. Calibration
+In this section, we examine the general equilibrium effects of the introduction of
+an interest-bearing CBDC on the macroeconomic. In particular, we inspect the effect of
+transaction costs, required reserves ratio, productivity shock, and monetary policy shock
+through impulse response functions. An illustrative calibration of the model is performed
+for Indonesia as a middle-income country. Other conventional parameters values are taken
+from relevant references.
+The intertemporal discount factor is β = 0.985, and the relative risk aversion coefficient is
+σ = 0.5. Both values are in line with estimates for developing countries [44]. According to [8],
+elasticity coefficients of having CBDC, cash, and deposits are set to ηe = ηm = ηd = 0.95. The
+relative utility weights or preference parameters of CBDCs, cash, and deposits are assigned to
+αe = αm = αd = 0.125, while that of labor time is αl = 3.409. The coefficient relates to Frisch
+elasticity of labor supply is ϕ = 0.276 [43].
+In the production sector, as is standard in the literature, the depreciation rate of
+physical capital is δ = 0.034 and the elasticity of substitution between intermediate goods is
+θ = 10. The elasticity of output with respect to capital is set to be α = 0.33 as in [38]. These
+values are consistent with estimates for developing countries. The portion of total wages
+borrowed from bank, i.e., the strength of the cost channel, is taken to be k Q = 0.75 [44]. In
+price determination mechanism, we assume that there is a φ = 0.779 probability of keeping
+the price fixed in the next period, and thus a 1 − φ = 0.221 probability of optimally setting
+the price [43].
+In banking sector, we assume that the constant interest elasticity of the supply of loan
+by the wholesale firm is φL = −0.5 and that of deposits by the household is φD = 0.5. For
+the parameters related to the central bank, we use the values suggested by Chawwa [50]
+based on Indonesia aggregate banking data, the steady state value of required reserves ratio
+is ψ = 6.5%, the government spending share is k G = 9%, following the average Indonesia
+government consumption relative to GDP, and the steady state value of the policy interest
+rate is R̄ B = 1.8%. For Taylor rule parameters, we use the conventional values of φπ = 1.5
+for the feedback coefficient on inflation and φy = 0.5 for the output gap coefficient, along
+with a value of ρ R = 0.8 for interest rate smoothing parameter [43]. According to Bank
+Indonesia, the inflation target is π T = 3%. The spread of bonds interest rate from central
+bank rate is assumed to be ∆ B = 0.01 and that of CBDC interest rate is ∆ E = 0.005 [8].
+Beside a fixed spread, the dynamics of CBDC interest rate depends also on financial stress
+as expressed in (61). In this strategy, we set k N = 0.01 as the reaction intensity towards
+financial stress [8]. Based on [51], we specify the measure of nominal rigidity in cash and
+CBDC supply processes as µm = µe = 1. The degree of persistence in the monetary policy
+shock is set to be ρu = 0.74 [52] and that of the productivity shock is φ A = 0.97 [53]. In the
+case of liquidity shocks, we assume ρ M = 0.85 and ρ E = 0.9.
+The steady state value of all variables are simultaneously calculated based on steady
+state conditions derived from equations of motion in Appendix A. As initial values, we
+set P̄ = 1, P̄ M = 1/3, Ā = 1, and Ī CB = 0.01. Description and value of all parameters are
+summarized in Table 1.
+
+Mathematics 2022, 10, 1671
+
+17 of 33
+
+Table 1. The value of parameters.
+No.
+
+Parameter
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+
+β
+σ
+ηm
+ηe
+ηd
+ϕ
+αm
+αe
+αd
+αl
+ρM
+ρE
+δ
+θ
+α
+ρA
+kQ
+φ
+1−φ
+ψ
+φL
+φD
+∆B
+∆E
+kN
+ρR
+R̄ B
+φπ
+πT
+φy
+ρu
+µm
+µe
+
+Description
+
+Value
+
+intertemporal discount factor
+relative risk aversion coefficient
+elasticity of having cash
+elasticity of having CBDC
+elasticity of having bank deposits
+coefficient relates to Frisch elasticity of labor supply
+relative utility weights or preference parameters of cash
+relative utility weights or preference parameters of CBDC
+relative utility weights or preference parameters of bank deposits
+relative utility weights or preference parameters of labor time
+degree of persistence in cash demand shock
+degree of persistence in CBDC demand shock
+depreciation rate of physical capital
+elasticity of substitution between intermediate goods
+elasticity of output with respect to capital
+degree of persistence in the supply shock
+the portion of total wages borrowed from bank (strength of the cost channel)
+probability of keeping the price fixed in the next period
+probability of optimally determining the price
+share of required reserves
+constant interest elasticity of the supply of loan by the wholesale firm
+constant interest elasticity of the supply of deposits by the household
+fixed spread of bonds interest rate from central bank rate
+fixed spread of CBDC interest rate from central bank rate
+reaction intensity towards financial stress
+interest rate smoothing parameter
+steady state value of the policy interest rate
+relative weights on inflation deviation
+inflation target
+relative weights on output gap
+degree of persistence in the monetary policy shock
+measure of nominal rigidity in the cash supply process
+measure of nominal rigidity in the CBDC supply process
+
+0.985
+0.5
+0.95
+0.95
+0.95
+0.276
+0.1250
+0.1250
+0.1250
+3.409
+0.85
+0.9
+0.034
+10
+0.33
+0.97
+0.75
+0.779
+0.221
+0.065
+−0.5
+0.5
+0.01
+0.005
+0.01
+0.81
+0.018
+1.5
+0.03
+0.125
+0.74
+1
+1
+
+6. Policy Analysis
+In this section, we present the simulation result of the model to explore the responses
+of variables with respect to liquidity demand shock, productivity shock, and monetary
+policy shock. We use Matlab Dynare to produce the impulse response functions with one
+period is a quarter.
+6.1. Effects of Liquidity Demand Shock
+As stated in (9), consumptions by households are constrained by transaction cost.
+The cost is a function of money velocity with two parameters a and b as given in (13)
+and (14). Smaller a and b contributes cheaper transaction cost. However, the magnitude
+of the cost depends also on the types of money, where in our case is either cash or CBDC,
+whose velocities are determined by the model. To assess the effect of transaction costs,
+we specify the following cost parameters: a M = a E = 1 and b M = bE = 1.5. By this
+setting, we consider a situation where cash and CBDC have the same parameters values,
+and thus the same transaction cost provided the velocities of cash and CBDC are identical.
+In this simulation, we apply a negative shock on the transaction cost using CBDC as given
+in (14) to indicate that CBDC has a lower transaction cost.
+Figure 2 shows the impact of negative shock of CBDC transaction cost on several
+relevant variables of the model. A negative shock is intended to decrease the transaction
+cost using CBDC by 1%. When the shock hits, consumption purchases using CBDC increase
+as the cost becomes cheaper, and consumption purchases using cash slightly decrease, see
+
+Mathematics 2022, 10, 1671
+
+18 of 33
+
+Figure 2a. However, in total, consumption purchases decrease. This fact informs us that
+households spend more CBDC in purchasing consumption goods, confirmed by a rise
+in CBDC demand as a response of shock in Figure 2f, even though the rate of CBDC is
+decreased by the shock as indicated by Figure 2d. In contrast to CBDC, the demand of
+bank deposits is decreasing even though its rate is increasing, see Figure 2e,f. From the
+perspective of price, a negative shock on CBDC cost is responded by a decrease in price
+of goods using CBDC ptE in Figure 2g, which indicates that transaction using CBDC is
+cheaper than using cash. However, the general price pt , which is aggregated from prices
+of cash and CBDC in (19), does not respond the shock very much as it fluctuates around
+its steady state value for all time. This small change in price is followed by a little drop in
+inflation rate, see Figure 2c. From the view point of money velocity, the negative shock
+of CBDC transaction cost is reacted by a decline in the velocity of CBDC as depicted by
+Figure 2h.
+4
+
+#10 -3
+
+Consumptions (cM, cE)
+
+5
+
+#10 -5
+
+Total Consumption (c)
+
+4
+
+using cash
+using CBDC
+
+#10 -5
+
+Inflation ( :)
+
+6
+
+2
+0
+
+1
+-5
+
+-2
+
+2
+
+0
+-1
+
+-4
+
+-10
+
+0
+
+-2
+-2
+
+-3
+
+-6
+
+-4
+
+-15
+
+-4
+
+-8
+-5
+
+consumption
+
+-10
+
+-20
+10
+
+20
+
+30
+
+40
+
+50
+
+0
+
+60
+
+#10 -7
+
+inflation
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+-6
+0
+
+10
+
+20
+
+(b)
+
+Deposits rate (iD)
+
+2
+
+CBDC rate
+
+-6
+
+(a)
+
+2.5
+
+CBDC rate (iE)
+
+4
+
+2
+
+0
+
+0
+
+#10 -5
+
+3
+
+#10 -3
+
+30
+
+40
+
+50
+
+60
+
+0
+
+10
+
+20
+
+(c)
+
+Liquidity Holding (m, e, d)
+
+10
+
+#10 -3
+
+Prices (pM, pE, p)
+
+14
+using cash
+using CBDC
+general price
+
+deposits rate
+
+2
+8
+
+1
+
+30
+
+40
+
+50
+
+60
+
+(d)
+#10 -3
+
+Money velocity (vM, vE)
+cash velocity
+CBDC velocity
+
+12
+
+1.5
+
+10
+
+1
+
+0
+
+6
+
+-1
+
+4
+
+6
+
+-2
+
+2
+
+4
+
+-3
+
+0
+
+8
+
+0.5
+0
+-0.5
+
+2
+
+-1
+
+0
+
+-1.5
+cash
+CBDC
+deposits
+
+-4
+-2
+-2.5
+
+-2
+
+-5
+0
+
+10
+
+20
+
+30
+
+(e)
+
+40
+
+50
+
+60
+
+-2
+
+-4
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+(f)
+
+-4
+0
+
+10
+
+20
+
+30
+
+(g)
+
+40
+
+50
+
+60
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+(h)
+
+Figure 2. The effect of negative shock of CBDC transaction cost on (a) consumption by using cash
+ctM and CBDC ctE , (b) total consumption ct , (c) inflation πt , (d) CBDC rate itE , (e) deposits rate itD ,
+(f) liquidity holding mt , et , dt , (g) prices ptM , ptE , pt , and (h) money velocity vtM = ctM − mt and
+vtE = ctE − et .
+
+The simulation results presented in this section, however, indicate that the issuance
+of an interest-bearing CBDC has the potential to become a profitable means of liquidity
+storage and to have an impact that does not harm the economy.
+6.2. Effects of Productivity Shock
+The effects of productivity shock on a number of main variables of the model are
+presented in Figure 3. The productivity shock due to the technological advance causes a
+rise in the values of the marginal products of labor and capital, and thus firms increase their
+demand for production inputs, so investment level increased. When one percent shock in
+productivity hits, the demand for labor increases more than 2% during the first two periods
+as depicted in Figure 3a. The intensity of labor declines quickly toward steady state. In the
+same figure, a similar hike in capital demand is shown, but with a more sloping rise and
+fall. Increasing productivity implies that firms produce more outputs (up to 3% hike), but
+operate more efficiently so the marginal costs decrease by about 2.5%, see Figure 3e.
+
+Mathematics 2022, 10, 1671
+
+19 of 33
+
+Labor (l), Capital (k)
+
+0.025
+
+Wages (d), Capital price (rK)
+
+0.03
+labor
+capital
+
+Consumption (c), Investment (inv)
+
+0.12
+
+tax
+
+0.1
+
+5
+
+0.08
+
+0
+
+0
+
+0.06
+
+-5
+
+-0.01
+
+0.04
+
+-10
+
+-0.02
+
+0.02
+
+-15
+
+0.02
+
+0.02
+
+Lump-sum tax (tax)
+
+10
+consumption
+investment
+
+wages
+capital price
+
+0.01
+0.015
+
+0.01
+
+0.005
+
+0
+
+0
+
+-0.03
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+0
+
+10
+
+20
+
+(a)
+
+Output (y), Govt spending (g), Marginal cost (mc)
+
+0.04
+
+30
+
+40
+
+50
+
+-20
+0
+
+60
+
+10
+
+20
+
+2
+
+output
+Govt spending
+marginal cost
+
+0.03
+
+#10 -3
+
+30
+
+40
+
+50
+
+60
+
+0
+
+10
+
+20
+
+(c)
+
+(b)
+
+Inflation ( :), Policy rate (iCB)
+
+Liquidity holding (m, e, d)
+
+0.08
+
+30
+
+40
+
+50
+
+60
+
+(d)
+
+Price (p)
+
+0
+Cash
+CBDC
+Deposits
+
+1.5
+0.06
+
+price
+
+-0.005
+
+1
+0.02
+0.04
+
+0.5
+
+-0.01
+
+0.01
+
+0
+
+0.02
+
+0
+
+-0.015
+
+-0.5
+0
+-0.01
+
+-1
+
+-0.02
+
+inflation rate
+policy rate
+
+-2
+
+-0.03
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+0
+
+60
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+-0.04
+
+-0.025
+0
+
+10
+
+20
+
+(f)
+
+(e)
+
+Bonds holding (bB, bCB)
+
+0.3
+
+-0.02
+
+-0.02
+
+-1.5
+
+2
+
+#10
+
+-3
+
+30
+
+40
+
+Bonds rate (iB), loan rate (iL)
+
+2.5
+
+#10
+
+-3
+
+0.25
+
+0.2
+
+60
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+(h)
+
+CBDC rate (iE)
+
+2
+
+Bonds rate
+Loan rate
+
+Bonds by bank
+Bonds by CB
+
+50
+
+(g)
+#10
+
+-6
+
+Deposits rate (iD)
+
+CBDC rate
+
+Deposits rate
+
+1.5
+
+2
+
+0
+
+1
+
+1.5
+
+-2
+
+0.5
+
+1
+
+-4
+
+0
+
+0.5
+
+-6
+
+0.15
+
+0.1
+
+0.05
+
+0
+
+-0.05
+0
+
+10
+
+20
+
+30
+
+(i)
+
+40
+
+50
+
+60
+
+-0.5
+
+0
+
+-8
+
+-1
+
+-0.5
+
+-10
+
+0
+
+10
+
+20
+
+30
+
+(j)
+
+40
+
+50
+
+60
+
+0
+
+10
+
+20
+
+30
+
+(k)
+
+40
+
+50
+
+60
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+(l)
+
+Figure 3. The effect of productivity shock on: (a) Labor lt and capital k t , (b) wages wt and price of
+capital rtK , (c) consumption ct and investment invt , (d) lump-sum tax taxt , (e) output yt , government
+spending gt , and marginal cost mct , (f) inflation πt and policy rate itCB , (g) liquidity holding mt , et , dt ,
+(h) price pt , (i) bonds holding btB , btCB , (j) bond rate itB and loan rate itL , (k) CBDC rate itE , and (l)
+deposits rate itD .
+
+Meanwhile, inflations slightly fall in the first ten periods as the production becomes
+more efficient, see Figure 3f. A small drop in inflation rate causes an increase in the supply
+of goods, thus leading to easing in monetary policy. A hike in goods production implies
+a rise in the wage and capital return as indicated by Figure 3b. Thus, households tend to
+use their time for consumption rather than saving, thus instantaneously decreasing the
+holding of cash, CBDC, and deposit about 1% as informed in Figure 3g. Due to the decline
+in inflation, the base policy rate which is governed by the Taylor rule also decreases. The
+lower base policy rate induces to a direct decrease in the central bank refinance rate, which
+in turn decreases the deposit and CBDC rates and thus the demand for bank deposits and
+interest bearing CBDCs.
+Due to an increased aggregate supply of output, the price level decreased by more
+than 2%, see Figure 3h, followed by a small decrease in the inflation rate in the early periods.
+The central bank responds with a decline of its policy rate followed by CBDC and banks
+rates to make an economic contraction by reducing purchasing power. As the consequence,
+bank capital is decreasing due to the decreasing loans and increased liability due to the
+rising deposit rate. A decline of policy rate also implies the reduction of bond rate, thus
+central banks and banks buy more bonds, as depicted in Figure 3i. As the result, the rising
+interest rate makes consumption and investment decline. Both people and firms tend to
+save their money in CBDC rather than the deposit due to the CBDC attributes of being a
+risk-free asset. Decreasing consumption implies reduced firm productivity, thus reducing
+the wage of the labor, moreover, the technology starting to deteriorate as the technology
+keeps depreciating. As the sources of tax revenue decreased, see Figure 3d, government
+
+Mathematics 2022, 10, 1671
+
+20 of 33
+
+spending also decreased. In the end, the aggregate demand will be reduced, thus the output
+will also be declined.
+These results aligned with [40,41]. Both of the results imply that CBDC would likely
+make monetary policy more effective. It can be seen by the response of the central bank towards inflation using CBDC rate is effective. Moreover, households show that remunerated
+CBDC is more attractive than bonds to fulfill their liquidity, so it enhances the monetary
+policy effectiveness.
+6.3. Effects of Monetary Policy Shock
+Figure 4 depicts the effect of one percent increase in policy interest rate on several main
+variables of the model. A hike in policy rate means an increase of the borrowing cost from
+central bank, i.e., a decrease in funding provided by central bank. The dynamics of policy
+rate are mimicked by the bond rate and the CBDC rate as they are determined according to
+a fixed spread of the policy rate in (60) and (61). For CBDC, it is revealed that the financial
+stress term expressed in percentage deviation of banks’ equity from steady state gives no
+effect in this situation. A rise in policy rate is responded differently by the loan rate and
+deposits rate as they have to be determined optimally according to (58) and (59). The loan
+rate declines in the first period and increases in the half of remaining periods. While, the
+deposits rate declines during the first four periods, following by rises toward its steady
+state value.
+Policy rate (iCB), CB lending (qCB)
+
+0.04
+
+7
+policy rate
+CB lending
+
+#10 -4
+
+Loan rate (iL)
+
+Bond rate (iB)
+
+0.035
+
+2
+bond rate
+
+6
+
+#10 -5
+
+Deposit rate (iD)
+
+0
+
+0.03
+
+0.03
+
+5
+
+-2
+0.025
+
+0.02
+
+-4
+
+4
+0.02
+
+3
+
+0.01
+
+-6
+0.015
+
+2
+
+0
+
+-8
+0.01
+
+1
+
+-10
+
+-0.01
+
+0
+-0.02
+
+0.005
+
+-12
+
+0
+
+-14
+
+-1
+loan rate
+
+deposit rate
+
+-2
+
+-0.03
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+0
+
+60
+
+10
+
+20
+
+40
+
+50
+
+60
+
+-16
+
+-0.005
+0
+
+10
+
+20
+
+(b)
+
+(a)
+
+CBDC rate (iE)
+
+0.035
+
+30
+
+12
+
+#10 -4
+
+30
+
+40
+
+60
+
+0
+
+10
+
+20
+
+Inflation ( :)
+
+5
+
+#10 -3
+
+Consumption (c), Output (y)
+
+40
+
+50
+
+60
+
+Investment (inv)
+
+0.02
+consumption
+output
+
+inflation
+
+4
+
+10
+
+30
+
+(d)
+
+(c)
+
+CBDC rate
+
+0.03
+
+50
+
+investment
+
+0.015
+
+3
+0.025
+
+8
+
+0.01
+
+2
+0.02
+
+6
+
+1
+
+0.005
+
+0.015
+
+0
+
+4
+0.01
+
+0
+
+-1
+2
+
+-0.005
+
+0.005
+
+-2
+0
+
+0
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+-4
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+0
+
+10
+
+20
+
+(f)
+
+(e)
+CBDC holding (e), Deposits holding (d)
+
+0.04
+
+-0.01
+
+-3
+
+-2
+
+-0.005
+
+Wages (w), Capital price (rK)
+
+0.015
+
+0.02
+
+30
+
+40
+
+50
+
+60
+
+-0.015
+0
+
+10
+
+20
+
+30
+
+40
+
+(g)
+
+(h)
+
+Bank loan (qB)
+
+Bonds holding (bB, bCB)
+
+0.05
+
+50
+
+60
+
+bank loan
+
+0.02
+
+0.015
+
+0
+
+0.01
+0
+
+0.01
+-0.05
+0.005
+
+-0.02
+
+0.005
+-0.1
+
+-0.04
+
+0
+
+0
+
+-0.15
+-0.06
+
+-0.005
+-0.005
+
+-0.08
+
+-0.2
+
+-0.01
+CBDC holding
+deposits holding
+
+wages
+capital price
+
+-0.1
+
+bonds by bank
+bonds by CB
+
+-0.01
+0
+
+10
+
+20
+
+30
+
+(i)
+
+40
+
+50
+
+60
+
+-0.015
+0
+
+10
+
+20
+
+30
+
+(j)
+
+40
+
+50
+
+60
+
+-0.25
+0
+
+10
+
+20
+
+30
+
+(k)
+
+40
+
+50
+
+60
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+(l)
+
+Figure 4. The effect of monetary policy shock on: (a) Policy rate itCB and central bank lending qCB
+t ,
+L
+B
+D
+E
+(b) loan rate it , (c) bond rate it , (d) deposit rate it , (e) CBDC rate it , (f) inflation πt , (g) consumption
+ct and output yt , (h) investment invt , (i) CBDC holding et and deposits dt , (j) wages wt and price of
+capital rtK , (k) bank’s loan qtB , and (l) bonds holding btB , btCB .
+
+The rise of CBDC rate immediately leads to the increase of CBDC demand and the
+fall of deposits rate directly causes the drop of bank deposits holding. However, the rise of
+bond rate is not followed by its demand. Bonds holding by bank and central bank drop by
+23% and 13%, respectively, in response to monetary policy shock. These occurrences reveal
+
+Mathematics 2022, 10, 1671
+
+21 of 33
+
+a fact that households already consider CBDC as an alternative instrument of liquidity to
+bank deposits. Holding CBDC will increase the household’s overall liquidity, even though
+liquidity marginal utility decreased. Therefore, it is more explaining why CBDC is more
+attractive than the deposit. Since CBDC is remunerated, the households tend to convert
+more CBDC rather than cash or deposits.
+There is lag in monetary policy transmission due to the cost adjustment of investment
+gradual response. In this lag period, households and firms tend to borrow money from
+bank to consume and invest before the bank done adjusting the interest rate, respectively.
+This lag explains why initially there is a short span increment in output when there is
+increment in the policy rate. After that period, households tend to substitute deposit to cash
+and CBDC due to the consideration of risk-free assets. CBDC also become an alternative to
+fulfill liquidity demand. The reduction of the deposit implies that banks have reduced credit
+supply, thus decreasing their lending power. As a result, there is a decrease in investment,
+which implies reduced labor as well as wages. Households also tend to save rather than
+take a loan. Reduced household and firm activity imply a reduction in purchasing power,
+thus reducing consumption as well as tax revenue. Due to the reduction in tax revenue,
+the government is also reducing its government spending. Reduced consumption and
+government spending also imply there is an excess supply of goods, which reduces the
+price level and inflation rate. Therefore, the reduction of aggregate demand reflects the
+reduction of output.
+6.4. Implementation of the Analytical Model
+Given the models in Section 3, it shows that CBDC involves many interactions among
+agents in the economy. Nonetheless, CBDC implementation itself brings both benefits and
+consequences [54]. On the high-level, CBDC could increase payment efficiency [55–57],
+monetary policy effectiveness [19,58,59], higher financial inclusion [60–62], and provide
+traceability [63–65]. This is also supported by the growing technology [66–68], network
+effect [17,69], the enthusiasm of CBDC [70–72], and cash inefficiency [73,74].
+However, some consequences are the high cost of CBDC infrastructure [56,75], privacy
+loss potential [76,77], internet coverage limitation [62,78], and electrical outage [79,80].
+This could be worsened by cyberattack threats [81,82], bank disintermediation amid crisis
+times [17], unprepared legal aspects [77,83], and private crypto-asset competitions [84–86].
+Following the spirits of both CBDC benefits and consequences, we try to introduce
+some of the implications. First, CBDC implementation would likely increase budget
+spending due to its high cost of infrastructure and would disrupt innovation. Therefore,
+proposing a public–private partnership (PPP) allows us to maintain innovation, and also
+increase efficiency. The partnership could be with state-owned enterprises or private
+entities. Second, implementing CBDC implies that people could access their money 24/7,
+which means CBDC withdrawal could be conducted anytime/anywhere amid crisis times.
+One idea is to implement the capacity on the CBDC wallet, so there it could limit the
+withdrawal and will not create bank disintermediation. Third, implementing alternative
+offline payment (e.g., token-based offline CBDC) implies that people need to be aware of
+their private keys, otherwise they will lose access to their CBDC. To reduce the risk of losing
+the whole CBDC, the wallet could be limited so it will reduce the severity of losing CBDC.
+Fourth, implementing traceable CBDC implies that the central bank needs to govern the
+legal aspect consisting of the amount of extracted information, CBDC issuance, and eligible
+authority for CBDC operators. Those efforts are nothing but to maintain public trust. Fifth,
+central banks need to provide any means of backup plan to prevent a single point of failure
+risk. Preventing an outage is important because it could disrupt the whole financial system.
+Sixth, the central banks must use permissioned DLT to gain sufficient accessibility amid a
+decentralized system. Lastly, even though the central banks need to align their system to
+achieve interoperability in cross-border transactions, central banks still need to maintain
+their sovereignty.
+
+Mathematics 2022, 10, 1671
+
+22 of 33
+
+7. Conclusions
+The development of CBDC has been conducted by central banks across the world with
+various progress and motivation. From that consideration, implementing CBDC would
+likely to have macroeconomy consequences and monetary policy implication. However, it
+needs a comprehensive approach to support monetary policy based on those impacts. We
+have developed a medium size DSGE model to examine the interaction between CBDC and
+other variables and to quantify the macroeconomic effects of CBDC issuance. The proposed
+model consists of seven economic agents, namely households, retail firm, wholesale firms,
+capital producing firm, commercial bank, the central bank, and the government.
+The model consider an economy in which the households may consider CBDC as
+a liquidity asset in addition to cash and bank deposits. The introduction of CBDC then
+differentiates the amount of consumption and the price in terms of cash and CBDC. As
+CBDC is designed to be an interest-bearing, CBDC may compete with cash in consumption process. The attractiveness of CBDC can also be appreciated at the lower transaction cost than cash. Thus, an interest-bearing CBDC can be considered as a profitable
+transaction instrument.
+We have used the model to explain the main macroeconomic variables responses
+to a negative shock on CBDC transaction cost, as well as a positive supply shock, and a
+positive shock to the base policy rate. Our findings confirm that CBDC offers a number of
+macroeconomic benefits. A lower transaction cost offered by CBDC encourages households
+to consume more using CBDC, and thus reducing the purchase using cash. The price
+of goods counted in CBDC reduced, while the general price index is about in steady
+state leading to a small fall in inflation. As responses to an increase of output due to a
+productivity shock, we have shown that households use cash and CBDC in almost similar
+manners by reducing the holding for consumption. Responding to a one percent increase
+in the base policy rate, we have revealed that the dynamics of the policy interest rate is
+directly followed by that of CBDC. Thus, the accumulation of CBDC can be controlled by
+the policy rate.
+As self-critical and possible limitations and shortcomings, our study considers only the
+issuance of retail CBDCs. More general situation in which commercial banks are enabled to
+provide loan to firms and to make settlement reserves in term of wholesale CBDCs will
+be the future research work. Additionally, the assessment of CBDC issuance in an open
+economy might be substantial to emerging countries as they have a significant portion
+of exports.
+Author Contributions: Conceptualization, validation, data curation, supervision, F.S.; software,
+model derivation, writing—original draft preparation, simulation, visualization, T.B.; formal analysis,
+methodology, writing—review and editing, investigation, F.S. and T.B. All authors have read and
+agreed to the published version of the manuscript.
+Funding: This research received no external funding.
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: The data used to support the findings of this study are included in this
+published article.
+Conflicts of Interest: The authors declare no conflict of interest.
+
+Appendix A. Log-Linearized Equations
+The model consists of 36 variables. Initially, all variables are denoted by capital letters.
+After log-linearization, they are denoted by small letters. The description of variables are
+presented in Table A1.
+
+Mathematics 2022, 10, 1671
+
+23 of 33
+
+Table A1. The description of variables.
+No.
+
+Variable
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+
+At , at
+Bt , bt
+BtB , btB
+BtCB , btCB
+Ct , ct
+CtM , ctM
+CtE , ctE
+Dt , d t
+Et , et
+Gt , gt
+ItB , itB
+CB
+It , itCB
+ItD , itD
+ItE , itE
+ItL , itL
+I NVt , invt
+Kt , k t
+Lt , lt
+Mt , m t
+MCt , mct
+Nt , nt
+Pt , pt
+PtM , ptM
+PtE , ptE
+Πt , πt
+CB
+QCB
+t , qt
+RtK , rtK
+StM , stM
+StE , stE
+TAXt , taxt
+TRt , trt
+ut
+Wt , wt
+Yt , yt
+ZtM , ztM
+ZtE , ztE
+
+Description
+Productivity shock
+Government bonds
+Government bonds held by commercial bank
+Government bonds held by central bank
+Consumption by households
+Consumption by households using cash
+Consumption by households using CBDC
+Bank deposits holding by households
+CBDCs holding by households
+Government spending
+Nominal interest rate of government bonds
+Nominal interest rate by central bank (policy rate)
+Nominal interest rate of bank deposits
+Nominal interest rate of CBDC
+Nominal interest rate of loans
+Investment level
+Capital stocks
+Labor supply by households
+Cash holding by households
+Marginal cost
+Bank’s equity
+Price
+Price in cash
+Price in CBDC
+Inflation rate
+Loans given to commercial banks by central bank
+Price of capital
+Transaction cost for cash
+Transaction cost for CBDC
+Lump sum tax or transfer
+Reserves
+Monetary policy shock
+Wages
+Output
+Cash demand shock
+CBDC demand shock
+
+The following linear equations, which constitute as the equations of motion of the
+model, are derived according to log-linearization method in Section 4.
+1.
+
+Labor supply:
+σct + ϕlt = wt − pt .
+
+2.
+
+CBDC demand:
+
+αe
+
+  − ηe
+Ē
+C̄ −σ
+ηe ( p t − e t ) = −
+(σct + pt )
+P̄
+P̄
+
++β
+3.
+
+(A1)
+
+
+
+C̄ −σ (1 + Ī E )
+Ī E E
+Et σct+1 −
+i
++
+p
+t +1 .
+P̄
+1 + Ī E t
+
+(A2)
+
+C̄ −σ
+C̄ −σ
+(σct + pt ) + β
+Et (σct+1 + pt+1 ).
+P̄
+P̄
+
+(A3)
+
+Cash demand:
+
+αm
+
+M̄
+P̄
+
+ − ηm
+ηm ( p t − m t ) = −
+
+Mathematics 2022, 10, 1671
+
+24 of 33
+
+4.
+
+Deposits demand:
+
+αd
+
+D̄
+P̄
+
+ − ηd
+ηd ( p t − d t ) = −
+
+C̄ −σ
+(σct + pt )
+P̄
+
+
+Ī D D
+C̄ −σ (1 + Ī D )
+i + p t +1 .
+Et σct+1 −
++β
+P̄
+1 + Ī D t
+
+5.
+
+Euler equation:
+σ P̄(Et ct+1 − ct ) = β R̄K (Et rtK+1 − pt+1 ).
+
+6.
+
+7.
+
+ctM = −ζ ( ptM − pt ) + ct ,
+
+(A6)
+
+ctE = −ζ ( ptE − pt ) + ct .
+
+(A7)
+
+Total consumption with transaction costs:
+
+C̄ M M
+M̄
+(ct − mt + ztM ) + b M M (mt − ctM ),
+M̄
+C̄
+E
+C̄
+Ē
+S̄ E stE = a E
+(c E − et + ztE ) + bE E (et − ctE ).
+Ē t
+C̄
+
+10.
+11.
+
+(A11)
+
+k t+1 = δ · invt + (1 − δ)k t .
+
+(A12)
+
+Capital stocks:
+Cobb–Douglas production function:
+(A13)
+
+Optimal levels of labor and capital:
+k Q Ī CB CB
+i − wt ,
+1 + k Q Ī CB t
+
+(A14)
+
+k t = mct + yt − rtK .
+
+(A15)
+
+Marginal cost:
+k Q Ī CB CB
+mct = − at + (1 − α)
+i + wt
+1 + k Q Ī CB t
+
+14.
+
+(A10)
+
+P̄1−θ pt = ( P̄ M )1−θ ptM + ( P̄ E )1−θ ptE .
+
+lt = mct + yt −
+
+13.
+
+(A9)
+
+General price level:
+
+yt = at + αk t + (1 − α)lt .
+12.
+
+(A8)
+
+Transaction costs:
+S̄ M stM = a M
+
+9.
+
+(A5)
+
+Consumptions using cash and CBDC:
+
+C̄ct = C̄ M ctM + C̄ M S̄ M (ctM + stM ) + C̄ E ctE + C̄ E S̄ E (ctE + stE ).
+8.
+
+(A4)
+
+!
+
++ αrtK .
+
+(A16)
+
+Phillips curve and inflation rate (complete derivation is given in Appendix D):
+
+(1 − βφ)(1 − φ)
+(mct − pt ) + βEt πt+1 ,
+φ
+π t = p t − p t −1 .
+πt =
+
+(A17)
+(A18)
+
+Mathematics 2022, 10, 1671
+
+25 of 33
+
+15.
+
+Capital producing firm:
+Ī L itL − (1 + Ī L )(σct + pt ) = β(1 + R̄K )(1 − δ)(1 + Ī L )Et (σct+1 + pt+1 )
+
+− βEt ( R̄K rtK+1 + (1 − δ) Ī L itL+1 ). (A19)
+16.
+
+Bank’s balance sheet:
+k Q W̄ L̄(wt + lt ) + I NVinvt + B̄ B btB = Q̄CB qCB
+t + (1 − ψ ) D̄dt + Nnt .
+
+17.
+
+(A20)
+
+Bank’s equity:
+N̄ (nt+1 − nt ) = Ī L N̄ (itL + nt ) + Ī L D̄ (itL + dt ) − Ī D D̄ (itD + dt )
+CB CB CB
++ Ī L Q̄CB (itL + qCB
+Q̄ (it + qCB
+t ) − Ī
+t ). (A21)
+
+18.
+
+Loan interest rate:
+φL I NVinvt + φL Ī CB I NV (itCB + invt ) = N̄nt + (1 + φL ) I NVinvt
+
++ N̄ Ī L (nt + itL ) + (1 + φL ) I NV Ī L (invt + itL ). (A22)
+19.
+
+Deposits interest rate:
+Ī D itD =
+
+20.
+
+φD (1 − ψ) Ī CB CB
+it .
+1 + φD
+
+Bonds and CBDC interest rates are already given in linear forms:
+itB = itCB + ∆ B ,
+
+
+N̄ − nt
+E
+CB
+E
+it = it − ∆ + k N
+.
+N̄
+
+21.
+
+(A24)
+(A25)
+
+Taylor rule is also given in linear form:
+B
+T
+itCB = ρ R itCB
+−1 + (1 − ρ R )( R̄ + πt + φπ ( πt − π ) + φy ( yt − Ȳ ) + ut .
+
+22.
+
+(A23)
+
+(A26)
+
+Central bank’s balance sheet:
+CB CB CB
+B̄CB btCB + Ī B B̄CB (itB + btCB ) + TAXtaxt + Q̄CB qCB
+Q̄ (it + qCB
+t + Ī
+t )
+
+= ψ D̄ (dt − dt−1 ) + M̄(mt − µm mt−1 ) + Ē(et − µe et−1 ). (A27)
+23.
+
+Government’s budget constraint:
+P̄ Ḡ ( pt + gt ) + B̄ B btB−1 + Ī B B̄ B (itB−1 + btB−1 ) + B̄CB btCB
+−1
+
+= TAXtaxt + B̄ B btB + B̄CB btCB + Ī B B̄CB (itB + btCB ) + Ī CB Q̄CB (itCB + qCB
+t ). (A28)
+24.
+
+25.
+
+Economy-wide budget constraint:
+Ȳyt = C̄ct + I NVinvt + Ḡgt .
+
+(A29)
+
+Ḡgt = k G Ȳyt .
+
+(A30)
+
+Government expenditure:
+
+Mathematics 2022, 10, 1671
+
+26 of 33
+
+26.
+
+Shock generators:
+ztM = ρ M ztM−1 + ε M
+t ,
+
+(A31)
+
+ztE
+
+(A32)
+
+=
+
+at =
+ut =
+
+ρ E ztE−1
+
+− ε Et ,
+ρ A a t −1 + ε A
+t ,
+u
+ρ u u t −1 + ε t ,
+
+(A33)
+(A34)
+
+E A
+u
+where ε M
+t , ε t , ε t , and ε t are exogenous shock variables.
+
+Appendix B. Proof of Households Utility Maximization
+The Lagrange function L H for the problem of maximization (1) subject to budget
+constraint (2) and capital stock (3) is given by:
+
+L H = βt (UtH + ΛtH Ht ) + βt+1 Et (UtH+1 + ΛtH+1 Ht+1 ),
+
+(A35)
+
+where ΛtH is the Lagrange multiplier, while UtH and Ht are given as follow after substitution (3)
+into (2):
+UtH =
+
+1− σ
+Ch,t
+
+1−σ
+
++
+
+αe
+1 − ηe
+
+
+
+Eh,t
+Pt
+
+ 1− ηe
+
++
+
+αm
+1 − ηm
+
+
+
+Mh,t
+Pt
+
+ 1− ηm
+
++
+
+αd
+1 − ηd
+
+
+
+Dh,t
+Pt
+
+ 1− ηd
+
+1+ ϕ
+
++
+
+αl Lh,t
+
+1+ϕ
+
+,
+
+Ht = Pt Ch,t + Pt Kh,t+1 − Pt (1 − δ)Kh,t + Eh,t + Mh,t + Dh,t + TAXh,t − Wt Lh,t
+FB
+− RtK Kh,t − (1 + ItE−1 ) Eh,t−1 − Mh,t−1 − (1 + ItD−1 ) Dh,t−1 − Πh,t
+.
+
+The Lagrange function (A35) should be maximized with respect to consumption Ch,t ,
+CBDC holding Eh,t , cash holding Mh,t , deposit holding Dh,t , labor time Lh,t , and capital
+stock Kh,t+1 . Respectively, we obtain the following relations:
+−σ
+Ch,t
+=
+
+ − ηe
+Eh,t
+αe
+=
+Pt
+
+
+Mh,t −ηm
+αm
+=
+Pt
+
+ − ηd
+Dh,t
+=
+αd
+Pt
+
+−ΛtH Pt ,
+
+(A36)
+
+−ΛtH + β(1 + ItE )Et Λ( t + 1) H ,
+
+(A37)
+
+−ΛtH + βEt Λ( t + 1) H ,
+
+(A38)
+
+−ΛtH + β(1 + ItD )Et Λ( t + 1) H ,
+
+(A39)
+
+αl Lh,t = −ΛtH Wt ,
+ϕ
+
+ΛtH Pt
+
+=
+
+βEt ΛtH+1 ((1 − δ) Pt+1
+
+(A40)
+
++
+
+RtK+1 ).
+
+(A41)
+
+Note that terms in the right-hand side of (A36)–(A41) are independent of index h. It
+means that expressions in the left-hand side are the same across households. Thus, from
+now on, we will drop the index h from the expression. From (A36) we have ΛtH = −Ct−σ /Pt
+ϕ
+and from (A40) we obtain ΛtH = −αl Lt /Wt . By equating these two equations we get the
+following condition:
+Wt
+ϕ
+αl Ctσ Lt =
+.
+(A42)
+Pt
+Substitution ΛtH = −Ct−σ /Pt into (A41) provides:
+
+
+Et Ct+1
+Ct
+
+σ
+
+!
+RtK+1
+= β 1 − δ + Et
+,
+Pt+1
+
+(A43)
+
+Mathematics 2022, 10, 1671
+
+27 of 33
+
+and substitution ΛtH = −Ct−σ /Pt into (A41) gives, respectively, the demand for CBDC,
+cash, and bank deposits:
+
+C −σ
+C −σ
+Et −ηe
+αe
+= t − β(1 + ItE )Et t+1 ,
+Pt
+Pt
+Pt+1
+
+ − ηm
+−σ
+−σ
+C
+C
+Mt
+αm
+= t − β Et t +1 ,
+Pt
+Pt
+Pt+1
+  − ηd
+−σ
+C −σ
+C
+Dt
+αd
+= t − β(1 + ItD )Et t+1 .
+Pt
+Pt
+Pt+1
+
+
+(A44)
+(A45)
+(A46)
+
+Appendix C. Proof of Consumption and Price Indices
+The households use either cash Mt or CBDC Et to purchase consumption goods. In
+this case, the total consumption Ct can be seen as a composite consumption index using
+Dixit–Stiglitz aggregator [47]:
+
+Ct =
+
+(CtM )
+
+ζ −1
+ζ
+
++ (CtE )
+
+ζ −1
+ζ
+
+
+
+ζ
+ζ −1
+
+(A47)
+
+Consumption basket (A47) is analogous to the case where there exists non-tradable
+(domestic) goods and imported goods. The equations defining CtM and CtE are:
+CtM =
+
+Z
+
+CtE =
+
+Z
+
+1
+0
+1
+0
+
+ a−a 1
+
+M
+(Cj,t
+)
+
+a −1
+a
+
+dj
+
+E
+(Cj,t
+)
+
+b −1
+b
+
+dj
+
+
+
+,
+
+(A48)
+
+,
+
+(A49)
+
+b
+b −1
+
+where j is index for goods, a and b are the elasticities of substitution between goods. Their
+respecting price indices are given as:
+PtM
+PtE
+
+=
+=
+
+1
+
+Z
+0
+
+1
+
+Z
+0
+
+M 1− a
+( Pj,t
+)
+E 1− b
+( Pj,t
+)
+
+ 1−1 a
+dj
+
+dj
+
+,
+
+(A50)
+
+.
+
+(A51)
+
+1
+1− b
+
+To derive the cash and CBDC consumer price indices, now we will solve three optimization problems regarding the consumption levels CtM , CtE and Ct . First we solve
+households’ cost minimization problem of using cash:
+min
+M
+Cj,t
+
+Z 1
+0
+
+M M
+Pj,t
+Cj,t dj,
+
+subject to consumption level using cash (A48). The Lagrangian of this problem is given by:
+!
+Z 1
+ a−a 1
+Z 1
+M
+M M
+M
+M a−a 1
+M
+L =
+Pj,t Cj,t dj + Λt
+(Cj,t )
+dj
+− Ct ,
+0
+
+0
+
+ΛtM
+
+M
+where
+is the Lagrange multiplier. The first order conditions with respect to Cj,t
+produces:
+!
+M −a
+− Pj,t
+M
+Cj,t =
+CtM .
+(A52)
+ΛtM
+
+By substituting (A52) into constraint (A48), we may reformulate the Lagrange multiplier as ΛtM = − PtM , and hence (A52) becomes:
+
+Mathematics 2022, 10, 1671
+
+28 of 33
+
+M
+Cj,t
+
+M
+Pj,t
+
+=
+
+!− a
+CtM .
+
+PtM
+
+(A53)
+
+Second we solve households’ cost minimization problem of using CBDC:
+min
+E
+Cj,t
+
+Z 1
+0
+
+E E
+Pj,t
+Cj,t dj,
+
+subject to consumption level using CBDC (A49). By exploiting the similar way, we obtain
+the demand of good j purchasing by CBDC:
+!
+E −b
+Pj,t
+E
+Cj,t =
+CtE .
+(A54)
+PtE
+Lastly, we want to minimize the consumption cost of using cash and CBDC:
+min
+
+Z 1
+
+M ,C E 0
+Cj,t
+j,t
+
+
+M M
+E E
+Pj,t
+Cj,t + Pj,t
+Cj,t dj,
+
+subject to total consumption (A47). Using the Lagrange method we obtain the first order
+M and C E , respectively, given by:
+conditions with respect to Cj,t
+j,t
+CtM
+CtE
+
+!−ζ
+
+=
+
+− PtM
+ΛtME
+
+!−ζ
+
+=
+
+− PtE
+ΛtME
+
+Ct ,
+
+(A55)
+
+Ct ,
+
+(A56)
+
+where ΛtME is the corresponding Lagrange multiplier for this problem. Substitution (A55)
+and (A56) back into (A47) provides the equivalent form of Lagrange multiplier ΛtME as
+follows:
+1
+
+ΛtME = −(( PtM )1−ζ + ( PtE )1−ζ ) 1−ζ .
+By denoting:
+1
+
+Pt = (( PtM )1−ζ + ( PtE )1−ζ ) 1−ζ ,
+
+(A57)
+
+we can then express (A55) and (A56) as:
+!−ζ
+PtM
+=
+Ct ,
+Pt
+ E −ζ
+Pt
+E
+Ct =
+Ct .
+Pt
+
+CtM
+
+(A58)
+(A59)
+
+Appendix D. Derivation of Phillips Curve
+Note that all wholesale firms that fix their prices have the same markup on the same
+∗ is the same for all the firms that
+marginal cost. Thus, in all periods, the optimal price Pj,t
+set their prices. Thus, the expression for price:
+
+Pt =
+
+1
+
+Z
+0
+
+1− θ
+Pj,t
+dj
+
+ 1−1 θ
+
+=
+
+Z φ
+0
+
+Pt1−−1θ dj +
+
+Z 1
+φ
+
+( Pt∗ )1−θ dj = φPt1−−1θ + (1 − φ)( Pt∗ )1−θ .
+
+By imposing steady state condition P̄ = P̄∗ , we obtain the log-linearized form of the
+price equation:
+pt = φpt−1 + (1 − φ) p∗t .
+(A60)
+
+Mathematics 2022, 10, 1671
+
+29 of 33
+
+The first order condition (43) can be written as:
+
+
+
+
+∞
+∞
+Pj,t 1−θ
+Pj,t −θ MCt+s
+s
+s θ
+Et ∑ ( βφ)
+Yt+s = Et ∑ ( βφ)
+Yt+s .
+Pt+s
+1 − θ Pt+s
+Pt+s
+s =0
+s =0
+By denoting Pj,t = Pt∗ , log-linearization procedure yields:
+∞
+
+Et
+
+∞
+
+∗
+
+∑ ( βφ)s e(1−θ)( pt − pt+s )+yt+s = Et
+
+s =0
+
+∗
+
+∑ ( βφ)s e−θ( pt − pt+s )+mct+s − pt+s +yt+s ,
+
+s =0
+
+where we have applied steady state conditions P̄ = P̄∗ and θMC = (θ − 1) P̄ as indicated
+in (42). Further, by approximation e x ≈ 1 + x, we have:
+∞
+
+Et
+
+∞
+
+∑ ( βφ)s ( p∗t − pt+s ) = Et ∑ ( βφ)s (mct+s − pt+s )
+
+s =0
+
+p∗t Et
+
+∞
+
+s =0
+∞
+
+∞
+
+s =0
+
+s =0
+
+s =0
+
+∑ ( βφ)s = Et ∑ ( βφ)s pt+s + Et ∑ ( βφ)s (mct+s − pt+s ).
+
+By recognizing that the series in the right-hand side is a geometric series with ratio
+0 < βφ < 1 and thus converges, then:
+∞
+∞
+p∗t
+= Et ∑ ( βφ)s pt+s + Et ∑ ( βφ)s (mct+s − pt+s )
+1 − βφ
+s =0
+s =0
+
+p∗t = (1 − βφ)Et
+
+∞
+
+∞
+
+s =0
+
+s =0
+
+∑ ( βφ)s pt+s + (1 − βφ)Et ∑ ( βφ)s (mct+s − pt+s ).
+
+(A61)
+
+To avoid terms cancellation, we write the first term in the right-hand side of
+(A61) as follows:
+
+(1 − βφ)Et
+
+∞
+
+∞
+
+∞
+
+s =0
+
+s =0
+∞
+
+s =0
+∞
+
+∑ ( βφ)s pt+s = Et ∑ ( βφ)s pt+s − Et ∑ ( βφ)s+1 pt+s
+= Et
+
+∑ ( βφ)s pt+s − Et ∑ ( βφ)n pt+n−1
+
+s =0
+
+n =1
+
+∞
+
+= p t + Et
+
+∞
+
+∑ ( βφ)s pt+s − Et ∑ ( βφ)n pt+n−1
+
+s =1
+
+n =1
+
+∞
+
+∑ ( βφ)s ( pt+s − pt+s−1 )
+
+= p t −1 + p t − p t −1 + Et
+
+s =1
+∞
+
+= p t −1 + Et
+
+∑ ( βφ)s ( pt+s − pt+s−1 ).
+
+s =0
+
+By (A18) we obtain:
+
+(1 − βφ)Et
+
+∞
+
+∞
+
+s =0
+
+s =0
+
+∑ ( βφ)s pt+s = pt−1 + Et ∑ ( βφ)s πt+s .
+
+(A62)
+
+Inserting (A62) back into (A61) gives:
+p∗t = pt−1 + πt + (1 − βφ)(mct − pt ) + Et
+
+∞
+
+∑ ( βφ)s πt+s
+
+s =1
+
+∞
+
++ (1 − βφ)Et
+
+∑ ( βφ)s (mct+s − pt+s ).
+
+s =1
+
+(A63)
+
+Mathematics 2022, 10, 1671
+
+30 of 33
+
+Forwarding the time index one step gives:
+p∗t+1 = pt + πt+1 + (1 − βφ)(mct+1 − pt+1 ) + Et+1
+
+∞
+
+∑ ( βφ)s πt+s+1
+
+s =1
+
+∞
+
++ (1 − βφ)Et+1
+
+∑ ( βφ)s (mct+s+1 − pt+s+1 ).
+
+s =1
+
+Taking the expectation at time t and multiplying by βφ provides:
+βφEt p∗t+1 = βφpt + Et
+
+∞
+
+∞
+
+s =0
+
+s =0
+
+∑ ( βφ)s+1 πt+s+1 + (1 − βφ)Et ∑ ( βφ)s+1 (mct+s+1 − pt+s+1 )
+
+and then:
+βφEt ( p∗t+1 − pt ) = Et
+
+∞
+
+∞
+
+τ =1
+
+τ =1
+
+∑ ( βφ)τ πt+τ + (1 − βφ)Et ∑ ( βφ)τ (mct+τ − pt+τ ).
+
+(A64)
+
+Replacing the last two terms in the right-hand side of (A63) by the left-hand side
+of (A64) results:
+p∗t = pt−1 + πt + (1 − βφ)(mct − pt ) + βφEt ( p∗t+1 − pt ).
+
+(A65)
+
+Combination of (A18) and (A60) gives:
+πt
+= p∗t − pt−1
+1−φ
+and substitution into (A65) provides:
+πt
+= πt + (1 − βφ)(mct − pt ) + βφEt ( p∗t+1 − pt ).
+1−φ
+Finally we get the Phillips curve:
+πt =
+
+(1 − βφ)(1 − φ)
+(mct − pt ) + βEt πt+1 .
+φ
+
+References
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+8.
+9.
+10.
+11.
+
+Pasuthip, P.; Yang, S. Central Bank Digital Currency: Promises and Risks; Academic Press: Cambridge, MA, USA, 2020.
+Bank for International Settlements (BIS). COVID-19 Accelerated the Digitalisation of Payments; Committee on Payments and Market
+Infrastructures: Basel, Switzerland, 2021.
+Balz, B. COVID-19 and cashless payments—Has coronavirus changed Europeans’ love of cash? In Proceedings of the Small and
+Medium Entrepreneurs Europe (SME Europe), Virtual Event, 21 October 2020.
+Kotkowski, R.; Polasik, M. COVID-19 pandemic increases the divide between cash and cashless payment users in Europe. Econ.
+Lett. 2021, 209, 110139. [CrossRef] [PubMed]
+Boar, C.; Holden, H.; Wadsworth, A. Impending Arrival—A Sequel to the Survey on Central Bank Digital Currency; BIS: Basel,
+Switzerland, 2020.
+Klein, M.; Gross, J.; Sandner, P. The Digital Euro and the Role of DLT for Central Bank Digital Currencies; FSBC Working Paper;
+Frankfurt School Blockchain Center: Frankfurt, Germany, 2020.
+Alonso, S.L.N.; Jorge-Vazquez, J.; Forradellas, R.F.R. Central banks digital currency: Detection of optimal countries for the
+implementation of a CBDC and the implication for payment industry open innovation. J. Open Innov. Technol. Mark. Complex.
+2021, 7, 72. [CrossRef]
+Gross, J.; Schiller, J. A model for central bank digital currencies: Implications for bank funding and monetary policy. SSRN Pap.
+2021, 3721965, 1–46. [CrossRef]
+Carapella, F.; Flemming, J. Central Bank Digital Currency: A Literature Review; FEDS Notes; Board of Governors of the Federal
+Reserve System: Washington, DC, USA, 2020.
+Sidrauski, M. Rational choice and patterns of growth in a monetary economy. Am. Econ. Rev. 1967, 57, 534–544.
+Blanchard, O.; Fischer, S. Lectures on Macroeconomics; MIT Press: Cambridge, MA, USA, 1989.
+
+Mathematics 2022, 10, 1671
+
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+
+31 of 33
+
+Calvo, G.A. Staggered prices in a utility-maximizing framework. J. Monet. Econ. 1983, 1, 383–398. [CrossRef]
+Bindseil, U. Tiered CBDC and the Financial System; ECB Working Paper Series No. 2351; European Central Bank: Frankfurt,
+Germany, 2020.
+Christiano, L.J.; Eichenbaum, M.; Evans, C.L. Nominal rigidities and the dynamic effects of a shock to monetary policy. J. Political
+Econ. 2005, 113, 1–45. [CrossRef]
+Smets, F.; Wouters, R. Shocks and frictions in US business cycles: A bayesian DSGE approach. Am. Econ. Rev. 2007, 97, 586–606.
+[CrossRef]
+Ferrari, M.M.; Mehl, A.; Stracca, L. Central Bank Digital Currency in an Open Economy; Working Paper No. 2488; European Central
+Bank: Frankfurt, Germany, 2020.
+Agur, I.; Ari, A.; Dell’Ariccia, G. Designing central bank digital currencies. J. Monet. Econ. 2022, 125, 62–79. [CrossRef]
+Andolfatto, D. Assessing the Impact of Central Bank Digital Currency on Private Banks; Working Paper 2018-026; Federal Reserve
+Bank of St. Louis: St. Louis, MO, USA, 2018.
+Davoodalhosseini, S.M.R. Central Bank Digital Currency and Monetary Policy; Staff Working Paper 2018-36; Bank of Canada: Ottawa,
+ON, Canada, 2018.
+Williamson, S.D. Central bank digital currency and flight to safety. J. Econ. Dyn. Control 2021, 104146, in press. [CrossRef]
+Chiu, J.; Jiang, J.H.; Davoodalhosseini, S.M.R.; Zhu, Y. Central bank digital currency and banking. In Proceedings of the Society
+for Economic Dynamics: 2018 Annual Meeting of the Society for Economic Dynamics, Mexico City, Mexico, 28–30 June 2018.
+Chiu, J.; Jiang, J.H.; Davoodalhosseini, S.M.R.; Zhu, Y. Bank Market Power and Central Bank Digital Currency: Theory and Quantitative
+Assessment; Staff Working Paper No. 2019-20; Bank of Canada: Ottawa, ON, Canada, 2020.
+Keister, T., Monnet, C. Central bank digital currency: Stability and information. In Proceedings of the 2018 Annual Research
+Conference of the Swiss National Bank and the Bank of Canada/Riksbank Conference on the Economics of Central Bank Digital
+Currencies, Ottawa, ON, Canada, 17–18 October 2019.
+Fernandez-Villaverde, J.; Sanches, D.; Schilling, L.; Uhlig, H. Central bank digital currency: Central banking for all? Rev. Econ.
+Dyn. 2021, 41, 225–242. [CrossRef]
+Kim, Y.S.; Kwon, O. Central Bank Digital Currency and Financial Stability; Working Paper; Bank of Korea: Seoul, Korea, 2019.
+Bitter, L. Banking crises under a central bank digital currency (CBDC). In Beitrage zur Jahrestagung des Vereins fur Socialpolitik 2020:
+Gender Economics; ZBW—Leibniz Information Centre for Economics: Kiel, Germany, 2020.
+Skeie, D.R. Digital Currency Runs; Chief Economists Workshop; Bank of England: London, UK, 2020.
+Christiano, L.J.; Eichenbaum, M.S.; Trabandt, M. On DSGE models. J. Econ. Perspect. 2018, 32, 113–140. [CrossRef]
+Stiglitz, J.E. Where modern macroeconomics went wrong. Oxf. Rev. Econ. Policy 2018, 24, 70–106. [CrossRef]
+Vines, D.; Wills, S. The rebuilding macroeconomic theory project: An analytical assessment. Oxf. Rev. Econ. Policy 2018, 34, 1–42.
+[CrossRef]
+Blanchard, O. PB 16-11 Do DSGE Models Have a Future? Peterson Institute for International Economics Policy Brief. August
+2016; pp. 1–4. Available online: https://www.piie.com/system/files/documents/pb16-11.pdf (accessed on 28 April 2022).
+Hurtado, S. DSGE models and the Lucas critique. Econ. Model. 2014, 44, S12–S19. [CrossRef]
+Hoffmann, A. An overinvestment cycle in Central and Eastern Europe? Metroeconomica 2010, 61, 711–734. [CrossRef]
+Hoffmann, A.; Schnabl, G. A vicious cycle of manias, crises and asymmetric policy responses—An overinvestment view. World
+Econ. 2011, 34, 382–403. [CrossRef]
+Hoffmann, A.; Schnabl, G. National Monetary Policy, International Economic Instability and Feeback Effects—An Overinvestment View;
+Working Papers on Global Financial Markets No. 19; Universität Halle-Wittenberg: Halle, Germany, 2011.
+Ghironi, F. Macro needs micro. Oxf. Rev. Econ. Policy 2018, 34, 195–218. [CrossRef]
+Linde, J. DSGE models: Still useful in policy analysis? Oxf. Rev. Econ. Policy 2018, 34, 269–286. [CrossRef]
+Barrdear, J.; Kumhof, M. The macroeconomics of central bank digital currencies. J. Econ. Dyn. Control 2021, 104148, in press.
+[CrossRef]
+Luo, S.; Zhou, G.; Zhou, J. The impact of electronic money on monetary policy: Based on DSGE model simulations. Mathematics
+2021, 9, 2614. [CrossRef]
+Lim, K.Y.; Liu, C.; Zhang, S. Optimal Central Banking Policies: Envisioning the Post-Digital Yuan Economy with Loan Prime Rate-Setting;
+Discussion Papers in Economics No. 2021/2; Nottingham Trent University: Nottingham, UK, 2021.
+George, A.; Xie, T.; Alba, J.D. Central Bank Digital Currency with Adjustable Interest Rate in Small Open Economies; Policy Research
+Paper No. 05-2020; Asia Competitiveness Institute, National University of Singapore: Singapore, 2020.
+Benigno, P.; Schilling, L.M.; Uhlig, H. Cryptocurrencies, Currency Competition, and the Impossible Trinity; NBER Working Papers
+26214; National Bureau of Economic Research: Cambridge, MA, USA, 2019. [CrossRef]
+Gertler, M.; Karadi, P. A model of unconventional monetary policy. J. Monet. Econ. 2011, 58, 17–34. [CrossRef]
+Primus, K. Excess reserves, monetary policy and financial volatility. J. Bank. Financ. 2017, 74, 153–168. [CrossRef]
+Michaillat, P.; Saez, E. Resolving New Keynesian anomalies with wealth in the utility function. Rev. Econ. Stat. 2018, 103, 197–215.
+[CrossRef]
+Schmitt-Grohe, S.; Uribe, M. Foreign demand for domestic currency and the optimal rate of inflation. J. Money Credit. Bank. 2012,
+44, 1207–1224. [CrossRef]
+Dixit, A.K.; Stiglitz, J.E. Monopolistic competition and optimum product diversity. Am. Econ. Rev. 1977, 67, 297–308.
+
+Mathematics 2022, 10, 1671
+
+48.
+49.
+50.
+51.
+52.
+
+53.
+54.
+55.
+56.
+57.
+58.
+
+59.
+60.
+61.
+62.
+63.
+64.
+65.
+66.
+67.
+68.
+69.
+70.
+71.
+72.
+73.
+
+74.
+75.
+76.
+77.
+78.
+
+32 of 33
+
+Agenor, P.-R.; Alper, K.; da Silva, L.P. Capital regulation, monetary policy, and financial stability. Int. J. Cent. Bank. 2013, 9,
+198–243.
+Uhlig, H. A toolkit for analysing nonlinear dynamic stochastic models easily. In Computational Methods for the Study of Dynamic
+Economies; Marimon, R., Scott, A., Eds.; Oxford University Press: New York, NY, USA, 1999; pp. 30–61.
+Chawwa, T. Impact of reserve requirement and liquidity coverage ratio: A DSGE model for Indonesia. Econ. Anal. Policy 2021, 71,
+321–341. [CrossRef]
+Piazzesi, M.; Rogers, C.; Schneider, M. Money and banking in a New Keynesian model. Bank of Canada Annual Conference—-The
+Future of Money and Payments: Implications for Central Banking, Canada, ON, USA, 5–7 November 2020.
+Harmanta; Purwanto, N.M.A.; Rachmanto, A.; Oktiyanto, F. Monetary and macroprudential policy mix under financial frictions
+mechanism with DSGE model. In Proceedings of the International Economic Modeling Conference 2014 (EcoMod 2014), Bali,
+Indonesia, 16–18 July 2014; pp. 1–35.
+Angelini, P.; Neri, S.; Panetta, F. The interaction between capital requirements and monetary policy. J. Money Credit. Bank. 2014,
+46, 1073–1112. [CrossRef]
+Syarifuddin, F. Optimal Central Bank Digital Currency (CBDC) Design for Emerging Economies; Working Paper; Bank Indonesia
+Institute: Jakarta, Indonesia, 2022.
+Bordo, M.; Levin, A. Central Bank Digital Currency and the Future of Monetary Policy; NBER Working Paper No. 23711; National
+Bureau of Economic Research: Cambridge, MA, USA, 2017.
+CPMI. Central Bank Digital Currencies; Markets Committee Paper No. 174; BIS: Basel, Switzerland, 2018; pp. 1–34.
+He, D.; Leckow, R.; Haksar, V.; Griffoli, T.; Jenkinson, N.; Kashima, M.; Khiaonarong, T.; Rochon, C.; Tourpe, H. Fintech and
+Financial Services: Initial Considerations; IMF Staff Discussion Notes No. 17/05; IMF: Washington, DC, USA, 2017.
+Agur, I.; Bernaga, M.; Bordo, M.; Engert, W.; Lis, S.; Fung, B.; Gnan, E.; Levin, A.; Niepelt, D.; Judson, R.; et al. Do we need central
+bank digital currency? In Proceedings of the SUERF—The European Money and Finance Forum and BAFFI CAREFIN Centre,
+Bocconi University, Milan, Italy, 7 June 2018.
+Nelson, B. The Benefits and Costs of a Central Bank Digital Currency for Monetary Policy; BPI Research Paper No. 202.589.2454; BSI:
+Basel, Switzerland, 2021.
+Mersch, Y. An ECB digital currency—A flight of fancy? In Proceedings of the Consensus 2020 Virtual Conference, New York, NY,
+USA, 11–13 May 2020.
+Wallis, J. Unlocking Financial Inclusion with CBDCs. Ripple Insight. 2021. Available online: https://ripple.com/insights/
+unlocking-financial-inclusion-with-cbdcs/ (accessed on 28 April 2022).
+Didenko, A.N.; Buckley, R.P. Central Bank Digital Currencies: A Potential Response to the Financial Inclusion Challenges of the Pacific;
+Issues in Pacific Development No. 3; Asian Development Bank: Mandaluyong, Philippines, 2021; pp. 1–40.
+Nathan, A.; Galbraith, G.L.; Grimberg, J.; Bhushan, S.; Cahill, M.; Courvalin, D.; Pandl, Z.; Rosenberg, I.; Struyven, D.; Tilton, A.;
+et al. What’s in store for the dollar. Goldman Sachs, 10 November 2020; 26p.
+Adam-Kalfon, P.; Arslanian, H.; Sok, K.; Sureau, B.; Jones, H.; Dou, Y. PwC CBDC Global Index, 1st ed.; PwC: London, UK, 2021.
+Mookerjee, A. What if central banks issued digital currency? Harvard Business Review, 15 October 2021, pp. 1–11.
+Adrian, T. Stablecoins, central bank digital currencies, and cross-border payments: A new look at the international monetary
+system. International Monetary Fund, 14 May 2019, pp. 1–5.
+An, Y.; Choi, P.; Huang, S. Blockchain, Cryptocurrency, and Artificial Intelligence in Finance; Springer: Singapore, 2021. [CrossRef]
+People’s Bank of China (PBoC). Progress of Research & Development of E-CNY in China. Working Group on E-CNY Research and
+Development; People’s Bank of China: Hong-Kong, China, 2021.
+Forner, G. Network Effects on Central Bank Digital Currencies and Blockchain Protocol Based Ledgers; Universita Ca’ Foscari Venezia:
+Venezia, Italy, 2020. Available online: http://hdl.handle.net/10579/17133 (accessed on 28 April 2022).
+Boar, C.; Wehrli, A. Ready, Steady, Go?—Results of the Third BIS Survey on Central Bank Digital Currency; BIS Papers No. 114; BIS:
+Basel, Switzerland, 2021; pp. 77–82.
+Gross, J.; Sedlmeir, J.; Babel, M.; Bechtel, A. Designing a Central Bank Digital Currency with Support for Cash-like Privacy; SSRN
+Papers No. 3891121; BIS: Basel, Switzerland, 2021.
+Vives, X. Digital disruption in banking. Annu. Rev. Financ. Econ. 2019, 11, 243–272. [CrossRef]
+Brugge, J.; Denecker, O.; Jawaid, H.; Kovacs, A.; Shami, I. Attacking the Cost of Cash; McKinsey & Company: Chicago, IL, USA, 2018.
+Available online: https://www.mckinsey.com/industries/financial-services/our-insights/attacking-the-cost-of-cash (accessed
+on 28 April 2022).
+ING Group. Central Bank Digital Currency in a European Context. ING, 17 August 2020.
+Adrian, T.; Mancini-Griffoli, T. Central bank digital currencies: 4 questions and answers. IMF Blog, 12 December 2019.
+Borgonovo, E.; Caselli, S.; Cillo, A.; Masciandaro, D.; Rabitti, G. Central Bank Digital Currencies, Crypto Currencies, and Anonymity:
+Economics and Experiments; SUERF Policy Brief No. 222; SUERF: Wien, Austria, 2021.
+Jiang, J.; Lucero, K. Background and Implications of China’s Central Bank Digital Currency: E-CNY; SSRN Papers No. 3774479;
+Elservier: Amsterdam, The Netherlands, 2021.
+Shah, D.; Arora, R.; Du, H.; Darbha, S.; Miedema, J.; Minwalla, C. Technology Approach for a CBDC; Bank of Canada: Ottawa, ON,
+Canada, 25 February 2020. [CrossRef]
+
+Mathematics 2022, 10, 1671
+
+79.
+80.
+81.
+82.
+83.
+84.
+85.
+86.
+
+33 of 33
+
+Spivey, J. Technology Downtime: What’S Reasonable? (and What Isn’T?). WorkWingSwept Blog, 23 July 2021. Available online:
+https://www.wingswept.com/technology-downtime-whats-reasonable-and-what-isnt/ (accessed on 28 April 2022).
+Wadsworth, A. The pros and cons of issuing a central bank digital currency. Reserv. Bank N. Z. Bull. 2018, 8, 1–21.
+Auer, R.; Bohme, R. The technology of retail central bank digital currency. BIS Quarterly Review, 1 March 2020; pp. 85–100.
+Minwalla, C. Security of a CBDC; Bank of Canada: Ottawa, ON, Canada, 24 June 2020. [CrossRef]
+Sveriges Riksbank. E-Krona Pilot Phase 1; Sveriges Riksbank Report; Sveriges Riksbank: Stockholm, Sweden, 2021; pp. 1–21.
+Agur, I. Central bank digital currencies: An overview of pros and cons. In Proceedings of the SUERF—The European Money and
+Finance Forum and BAFFI CAREFIN Centre, Bocconi University, Milan, Italy, 7 June 2018; pp. 121–132.
+Goodell, G.; Aste, T. Can cryptocurrencies preserve privacy and comply with regulations? Front. Blockchain 2019, 2, 4. [CrossRef]
+Morales-Resendiz, R.; Ponce, J.; Picardo, P.; Velasco, A.; Chen, B.; Sanz, L.; Guiborg, G.; Segendorff, B.; Vasquez, J. L.; Arroyo, J.; et
+al. Implementing a retail CBDC: Lessons learned and key insights. Lat. Am. J. Cent. Bank. 2021, 2, 100022. [CrossRef]
+
+

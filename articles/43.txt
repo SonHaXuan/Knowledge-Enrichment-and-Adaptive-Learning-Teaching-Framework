@@ -1,0 +1,675 @@
+Central bank digital currency in India: the case for a digital rupee
+
+Peterson K. Ozili
+
+Abstract
+This article explores the benefits and issues surrounding the digital Rupee, also known as the
+eRupee or the central bank digital currency in India. The study found that Indian people who were
+interested in ‘cryptocurrency’ information were also interested in ‘central bank digital currency’
+information. The study also showed that the introduction of CBDC has potential benefits such as
+reduced dependency on cash, higher seigniorage due to lower transaction costs and reduced
+settlement risk. However, the India CBDC has associated risks that need to be carefully evaluated
+against the potential benefits. The introduction of a digital rupee or CBDC in India will require
+legal and regulatory changes to make the phased CBDC implementation possible.
+
+Keywords: India, CBDC, cryptocurrency, digital rupee, central bank digital currency, blockchain,
+distributed ledger technology. CBDC design, financial stability, monetary policy.
+
+March 2023
+
+Electronic copy available at: https://ssrn.com/abstract=4238138
+
+Peterson K. Ozili
+
+Central Bank Digital Currency in India: the case for a digital rupee
+
+1. Introduction
+The objective of this study is to explore the benefits and issues surrounding the digital Rupee, also
+known as the eRupee or the central bank digital currency in India.
+A central bank digital currency (CBDC) is money in digital form and a legal tender issued by a
+central bank. A CBDC is the same as fiat currency and can be exchanged at a rate of one-to-one
+with the fiat paper currency or cash (Bordo, 2021; Chaum, Grothoff and Moser, 2021). The only
+difference is that a CBDC is money in digital form (Inozemtsev and Nektov, 2022; Kahn, Singh
+and Alwazir, 2022). Most CBDCs can be held in an account-based wallet or token-based wallet
+(Xu, 2022).
+In August 2022, the Reserve Bank of India (RBI) announced that a digital rupee — a central bank
+digital currency — will be introduced in phases beginning with wholesale businesses in the 2022
+to 2023 financial year. The India CBDC is being developed for both retail and wholesale use
+simultaneously. However, the Reserve Bank of India may roll out the digital currency for
+wholesale businesses first. There are four main motivations for issuing a CBDC in India, namely,
+(i) the Reserve Bank of India (RBI)’s desire to join other central banks that have issued a CBDC,
+(ii) the significant growth in digital transactions in India, (iii) the threat posed by private digital
+currencies, and (iii) the presence of a well-functioning and developed payment system in India.
+Prior to the announcement of a phased CBDC implementation in India, the Reserve Bank of India
+had repeatedly opposed private digital currencies. It is widely believed that the emergence of
+private digital currencies, especially bitcoin, inspired the Reserve Bank of India to begin plans to
+launch a CBDC digital Rupee. The Reserve Bank of India also proposed amendments to the
+Reserve Bank of India Act of 1934 which would enable it to launch a digital rupee CBDC. The
+government also plans to prohibit all private digital currencies in India with certain exceptions.
+The RBI’s argument for prohibiting private digital currencies is that private digital currencies
+encourage money laundering, terror financing and tax evasion. The Reserve Bank of India also
+noted that the number of Unified Payments Interface (UPI) transactions in India grew by 427
+percent from March 2020 to August 2022 while the number of UPI QR code enabled payment
+acceptance points increased by 86 percent year-on-year at end of July 2022. The Reserve Bank of
+India suggests that these developments in the digital payment space reflect the growing acceptance
+2
+
+Electronic copy available at: https://ssrn.com/abstract=4238138
+
+Peterson K. Ozili
+
+Central Bank Digital Currency in India: the case for a digital rupee
+
+and preference for digital contactless payments in India and indicates that India is ready to embrace
+a central bank digital currency. This development also inspired the Reserve Bank of India to initiate
+a phased CBDC implementation strategy. The Reserve Bank of India will also examine the
+appropriate use case of the India CBDC and issue a CBDC that is non-disruptive.
+Meanwhile, in the literature, many studies focus on the best use case of CBDC such as Fegatelli
+(2022), Michel (2022), Agur et al (2022), Zhang and Huang (2022), Davoodalhosseini (2022),
+Minesso et al (2022), Auer et al (2022) and Chen and Siklos (2022). Only few studies focus on
+country specific CBDC such as Xu (2022) and Ozili (2022b). But no study has examined the case
+of India.
+The discussion about the India CBDC contributes to the growing academic and policy literature
+on central bank digital currency. Existing studies have examined CBDC design issues such as
+account-based CBDC versus token-based CBDC, one-tiered CBDC or two-tiered CBDC,
+distributed ledger CBDC or centralized CBDC (e.g., Agur, Ari and Dell’Ariccia, 2022; Ozili,
+2023; Kolozsi, Lehmann and Szalai, 2022; Frankó, Oláh, Sass, Hegedüs and Varga, 2022; Dinh
+and Dinh, 2022). Some studies have also examined the implications of CBDC for the financial
+stability and monetary policy objectives of the central bank (e.g., Bhowmik, 2022; Cova,
+Notarpietro, Pagano and Pisani, 2022; Davoodalhosseini, 2022; Kim and Kwon, 2019; Vallet,
+Kappes and Rochon, 2022; Wang and Hausken, 2022; Hamza and Jedidia, 2020). Other studies
+have examined how CBDC can improve financial inclusion for unbanked segments of the
+population (e.g., Ozili, 2022a). Existing studies have also examined country specific CBDC use
+cases in the US, Canada, China and Nigeria (e.g., García, Lands, Liu and Slive, 2020; Ricks,
+Crawford and Menand, 2020; Ozili, 2022b; Vodrážka, Bízek and Vojta, 2022; Coulter, 2022; Liu,
+Wang, Wu and Zhang, 2022; Slawotsky, 2022; Huang, 2022). But such studies do not exist for
+India. There is a need to explore the India CBDC, its benefits and issues. This study also
+contributes to the Indian CBDC literature. This paper focus on the Indian context. It provides early
+insight into the possible design, benefits and issues of the India CBDC.
+The rest of the paper is structured as follows. Section 2 presents the literature review. Section 3
+presents the data analysis. Section 4 presents the benefits of the India CBDC. Section 5 presents
+the possible operational CBDC design. Section 6 highlights some considerations for India. Section
+7 highlights the risks to watch out for. Section 8 presents the conclusion.
+3
+
+Electronic copy available at: https://ssrn.com/abstract=4238138
+
+Peterson K. Ozili
+
+Central Bank Digital Currency in India: the case for a digital rupee
+
+2. Literature review
+Hayashi and Toh (2022) showed that although central banks in several emerging markets and
+developing economies have implemented or plan to implement a general-purpose or retail CBDC
+to promote financial inclusion and improve their payment systems, central banks in many
+advanced economies have not yet found a compelling case to issue a retail CBDC. Ozili (2023),
+reviewed the CBDC literature, and found that many central banks are researching the potential to
+issue a CBDC due to its many benefits but some studies have called for caution against overoptimism about the potential benefits of CBDC due to the limiting nature of CBDC design and its
+inability to meet multiple competing goals. Bolt et al (2022) argued that public and private money
+need to coexist, and there should be effective regulation of private digital money such as
+cryptocurrency and stablecoins.
+Some studies examine country specific CBDC issuance and adoption. Adalid et al (2022)
+considered the case of a digital euro CBDC. They conducted some analytical exercises about the
+consequence of a digital euro CBDC on bank intermediation in the euro area. They find that the
+effect of a digital euro CBDC on bank intermediation will vary across credit institutions in normal
+times, and the effect would be potentially larger in stressed times. They also find that the digital
+euro’s capacity to alter system-wide bank run dynamics depends on the CBDC remuneration and
+CBDC usage limits. Ozili (2022b) showed that Nigeria launched the eNaira CBDC. The proposed
+benefits of the Nigeria CBDC include efficient payments and increased financial inclusion while
+the risks include digital illiteracy, increased propensity for cyber-attacks, data theft and the
+changing role of banks in a full-fledged CBDC economy. Xu (2022) examined the case of China
+CBDC. The author showed that Internet and technology companies may join commercial banks in
+distributing the China CBDC. The author also showed that the China CBDC will help improve
+domestic financial monitoring and policy implementation. Also, the China CBDC will play a role
+in the RMB's internationalization or even the international monetary system's evolution. Fegatelli
+(2022) examined the conditions under which a digital euro could be introduced on a large scale
+without leading to bank disintermediation or a credit crunch. The author argued that the central
+bank would require proper mechanisms to manage the volume and the user cost of CBDC in
+circulation. The central bank should continue to facilitate access to its long-term lending facilities,
+to provide banks with a funding source alternative to client deposits at an equivalent cost. The
+4
+
+Electronic copy available at: https://ssrn.com/abstract=4238138
+
+Peterson K. Ozili
+
+Central Bank Digital Currency in India: the case for a digital rupee
+
+author also argued that a digital euro could improve bank profitability and competitiveness by
+absorbing large amounts of idle (and expensive) excess reserves without penalizing lending while
+incentivizing bank digitalization. Awang Abu Bakar et al (2023) examined the case of Malaysia
+and show that Malaysia’s Central Bank has no intention to issue a CBDC for Malaysia; however,
+Malaysia’s Central Bank continues to study the CBDC potential especially in the digital assets and
+payments space. Michel (2022) examined the issuance of a digital dollar CBDC in the United
+States. Michel (2022) argued that while Americans have long held money predominantly in digital
+form, a CBDC would differ from existing digital money available to the general public because a
+CBDC would be a liability of the Federal Reserve, not of a commercial bank. This feature is central
+to why Congress should make sure that the Federal Reserve never issues a retail CBDC. The
+problem is that the federal government, not privately owned commercial banks, would be
+responsible for issuing deposits. This would be a major problem for the free society as it will give
+government too much control over people’s money.
+Regarding the design of a CBDC, Agur et al (2022) analyzed the optimal design of a CBDC in an
+environment where agents sort into cash, CBDC, and bank deposits according to their preferences
+over anonymity and security. They showed that a CBDC can be designed with attributes similar
+to cash or deposits and can be interest-bearing. They argued that the optimal CBDC design is one
+that trades off bank intermediation against the social value of maintaining diverse payment
+instruments. Zhang and Huang (2022) analyzed both the functional and non-functional
+requirements of CBDC design. They find that permissioned blockchain is more suitable for CBDC
+than permissionless blockchain. They also show that there are some challenges in blockchainbased CBDC, such as performance, scalability and cross-chain interoperability.
+Regarding the challenge and consequence of CBDC, Davoodalhosseini (2022) studied the optimal
+monetary policy when only cash, only CBDC or both cash and CBDC are available to agents in
+Canada. The author showed that if the cost of using CBDC is not too high, more efficient
+allocations can be implemented by using CBDC than with cash. Also, having both cash and CBDC
+available may result in lower welfare than in cases where only cash or only CBDC is available in
+Canada. Minesso et al (2022) examined the open-economy implications of the introduction of a
+central bank digital currency. They show that the presence of a CBDC amplifies the international
+spillovers of shocks to a significant extent, thereby increasing international linkages; but the
+
+5
+
+Electronic copy available at: https://ssrn.com/abstract=4238138
+
+Peterson K. Ozili
+
+Central Bank Digital Currency in India: the case for a digital rupee
+
+magnitude of these effects depends crucially on CBDC design and can be significantly dampened
+if the CBDC possesses specific technical features. Auer et al (2022) showed that CBDCs should
+be considered in the full context of the digital economy and the centrality of data, however, CBDCs
+could raise concerns around competition, payment system integrity and privacy. Chen and Siklos
+(2022) explored the hypothetical impact of CBDC on inflation and financial stability, and showed
+that CBDC may not lead to high inflation but it could increase financial instability risks. Ozili
+(2022c) showed that the emergence of CBDC presents many implications for cryptocurrency. It
+might lead to calls to regulate cryptocurrency and may lead to the acceptance of stablecoins even
+though the benefits of stablecoins do not outweigh the benefits of issuing a CBDC. Nevertheless,
+the general benefits of CBDC for society appear to outweigh the risks, thereby, making CBDC
+more attractive than cryptocurrency. Whited et al (2022) examined how introducing a central bank
+digital currency can affect the banking system. They showed that CBDC may not reduce bank
+lending unless frictions and synergies bind deposits and lending together. They showed that a
+CBDC can replace a significant fraction of bank deposits especially when it pays interest. They
+also showed that CBDC has a much smaller impact on bank lending because banks can replace a
+large fraction of any lost deposits with wholesale funding. Keister and Monnet (2022) showed that
+banks will do less maturity transformation when depositors have access to CBDC, which leaves
+them less exposed to runs. They also showed that monitoring the flow of funds into CBDC allows
+policymakers to identify and resolve weak banks sooner, which also decreases depositors’
+incentive to initiate a run on banks. They conclude that a well-designed CBDC may decrease
+financial fragility.
+
+6
+
+Electronic copy available at: https://ssrn.com/abstract=4238138
+
+Peterson K. Ozili
+
+Central Bank Digital Currency in India: the case for a digital rupee
+
+3. Data analysis
+3.1. Methodology
+Internet search data for India were collected from Google Trends database. Data were collected
+from January 2022 to September 2022. The data were collected for three variables: (i) the
+‘cryptocurrency’ search term, (ii) the ‘CBDC’ search term and (iii) the ‘central bank digital
+currency’ search term. The last two variables are similar. Data were collected for the last two
+variables to take into account the fact that internet users in India may use the term ‘CBDC’ and
+‘central bank digital currency’ interchangeably when searching for internet information about
+central bank digital currency.
+3.2. Correlation between interest in ‘CBDC’ and ‘cryptocurrency’ as search terms on the
+Internet.
+This section analyses the correlation between local interest in internet information about
+‘cryptocurrency’ as a search term on the internet and local interest in internet information about
+‘CBDC’ as a search term on the internet. The Pearson correlation analysis reports a 0.59 correlation
+between local interest in internet information about ‘cryptocurrency’ and ‘CBDC’. The correlation
+is positive and significant at the 1 percent level. This indicates that there is a significant positive
+correlation between interest in internet search for information about ‘cryptocurrency’ and ‘CBDC’
+in India. This implies that Indian people who were interested in ‘cryptocurrency’ information were
+also interested in ‘CBDC’ information.
+3.3. Correlation between interest in ‘cryptocurrency’ and ‘central bank digital currency’ as
+search terms on the internet.
+This section analyses the correlation between local interest in internet information about
+‘cryptocurrency’ as a search term on the internet and local interest in internet information about
+‘central bank digital currency’ as a search term on the internet. The Pearson correlation analysis
+reports a 0.38 correlation between local interest in internet information about ‘cryptocurrency’ and
+‘central bank digital currency’. The correlation is low, positive and significant at the 1 percent
+level. This indicates that there is a significant positive correlation between interest in internet
+search for information about ‘cryptocurrency’ and ‘central bank digital currency’ in India. This
+
+7
+
+Electronic copy available at: https://ssrn.com/abstract=4238138
+
+Peterson K. Ozili
+
+Central Bank Digital Currency in India: the case for a digital rupee
+
+implies that Indian people who were interested in ‘cryptocurrency’ information were also
+interested in ‘central bank digital currency’ information.
+
+Table 1. Correlation analysis for India
+Search term
+on the internet
+Cryptocurrency
+
+Cryptocurrency
+
+CBDC
+
+0.592***
+(0.00)
+
+1.000
+-----
+
+0.386***
+(0.00)
+
+0.318***
+(0.00)
+
+Central bank digital
+currency
+
+CBDC
+Central bank digital currency
+
+1.000
+-----
+
+1.000
+-----
+
+P-value is reported in parenthesis. *** represents statistical significance at the 1% level.
+Source: Google Trends and author’s computation
+
+3.4. Regional interest in ‘central bank digital currency’ as a search term by internet users in
+India
+Figure 1 shows the regional distribution of interest in internet information about ‘central bank
+digital currency’ in India. Figure 1 is derived from the Google Trends data obtained from section
+2.1. Figure 1 shows that interest in internet information about ‘central bank digital currency’ was
+very high in Delhi followed by Karnataka, Kerala, Uttar Pradesh, Tamil Nadu and Maharashtra.
+Interest in online information about ‘central bank digital currency’ exceeded the 50-point mark in
+each of these regions in India. In contrast, interest in internet information about ‘central bank
+digital currency’ was much lower in West Bengal, Telangana and Gujarat. Interest in online
+information about ‘central bank digital currency’ was below the 50-point mark in each of the three
+regions in India.
+
+8
+
+Electronic copy available at: https://ssrn.com/abstract=4238138
+
+Peterson K. Ozili
+
+Central Bank Digital Currency in India: the case for a digital rupee
+
+Figure 1. Local interest in internet information about ‘central bank digital currency’
+
+Source: Google Trends
+
+3.5. Regional interest in ‘CBDC’ as a search term by internet users in India
+Figure 2 shows the regional distribution of interest in internet information about ‘CBDC’ in India.
+Figure 2 is derived from the Google Trends data obtained from section 2.1. Figure 2 shows that
+interest in internet information about ‘CBDC’ was very high in Delhi followed by Karnataka,
+Maharashtra and Odisha. Interest in online information about ‘CBDC’ exceeded the 50-point mark
+in each of these regions in India. In contrast, interest in internet information about ‘CBDC’ was
+much lower in Kerala and Uttarakhand. Interest in online information about ‘CBDC’ was below
+the 50-point mark in the two regions in India.
+
+9
+
+Electronic copy available at: https://ssrn.com/abstract=4238138
+
+Peterson K. Ozili
+
+Central Bank Digital Currency in India: the case for a digital rupee
+
+Figure 2. Local interest in internet information about ‘CBDC’
+
+10
+
+Electronic copy available at: https://ssrn.com/abstract=4238138
+
+Peterson K. Ozili
+
+Central Bank Digital Currency in India: the case for a digital rupee
+
+3.6. Regional interest in ‘Cryptocurrency’ as a search term by internet users in India
+Figure 3 shows the regional distribution of interest in internet information about ‘cryptocurrency’
+in India. Figure 3 is derived from the Google Trends data obtained from section 2.1. Figure 3
+shows that interest in internet information about ‘cryptocurrency’ was very high in Dadra and
+Nagar Haveli followed by Nagaland, Chandigarh, Haryana and Delhi. Interest in online
+information about ‘cryptocurrency’ exceeded the 50-point mark in each of these regions in India.
+In contrast, interest in internet information about ‘cryptocurrency’ was much lower in Bihar,
+Meghalaya and Andra Pradesh. Interest in online information about ‘cryptocurrency’ was below
+the 50-point mark in the three regions in India.
+
+11
+
+Electronic copy available at: https://ssrn.com/abstract=4238138
+
+Peterson K. Ozili
+
+Central Bank Digital Currency in India: the case for a digital rupee
+
+Figure 3. Local interest in internet information about ‘cryptocurrency’
+
+12
+
+Electronic copy available at: https://ssrn.com/abstract=4238138
+
+Peterson K. Ozili
+
+Central Bank Digital Currency in India: the case for a digital rupee
+
+4. Benefits on India digital Rupee CBDC
+The introduction of a central bank digital currency (CBDC) in India offers some benefits. They
+include:
+
+
+Cheaper currency management system – The India CBDC will reduce the burden of
+handling cash, printing cash and the logistics of cash management in India. It will help to
+reduce dependence on cash and lead to higher seigniorage due to lower transaction costs
+
+
+
+Eliminate payment risk – The India CBDC will eliminate payment risk through reduced
+settlement risk, efficient payments, trusted payment option, reducing time and cost of
+cross-border transactions.
+
+
+
+Boost the digital economy – The introduction of a central bank digital currency in India
+will give a big boost to the digital economy in India especially when the India CBDC is
+launched in partnership with Fintech providers.
+
+
+
+Increase financial inclusion – By making people use CBDC, India can bring more
+unbanked adults into the formal financial system.
+
+
+
+Curbing illegal financial activities – The India CBDC can help to implement anti-money
+laundering (AML) and combating financial terrorism (CFT) measures by acting as a highly
+secure way for cross-border transactions.
+
+5. Possible operational design
+
+
+Traceability – The RBI will make all CBDC transactions traceable. This means that there
+will be no scope of anonymous transaction.
+
+
+
+Non-disruptive – The RBI will ensure that the phased introduction of CBDC will be
+gradual so that there is no disruption in the banking system.
+
+
+
+Conformity with central bank objectives – The design of the India CBDC will be in
+conformity with the RBI’s stated objectives of monetary policy, financial stability, price
+stability and efficient operations of currency and payment systems.
+
+13
+
+Electronic copy available at: https://ssrn.com/abstract=4238138
+
+Peterson K. Ozili
+
+Central Bank Digital Currency in India: the case for a digital rupee
+
+6. Considerations for the India CBDC
+
+
+The CBDC should be non-disruptive – The India CBDC should be non-disruptive. It
+should not interfere with the RBI’s ability to carry out its core mandate and it should not
+interfere with the public policy objective of the government.
+
+
+
+The need for co-existence – The CBDC should coexist and complement other existing
+forms of money including cash and settlement accounts. The CBDC should not lead to the
+immediate replacement of existing payment alternatives such as cash especially when there
+is still high demand for cash in India.
+
+
+
+Use CBDC as a tool for innovation and competition – The government should encourage
+people to use CBDC together with other payment instruments. This will increase
+competition and encourage process improvement across all the existing payment channels
+including CBDC (Shen and Hou, 2021; Piazzesi and Schneider, 2020).
+
+
+
+Scope of the India CBDC – The RBI should determine whether the India CBDC will be
+used for retail payments or wholesale payments.
+
+
+
+The underlying technology – The RBI should determine whether the CBDC will be
+delivered on a distributed ledger or a centralized ledger. The RBI should also determine
+whether the choice of technology will vary according to use cases.
+
+
+
+The validation mechanism – The RBI need to decide whether the validation mechanism
+for the CBDC should be token-based or account-based.
+
+
+
+Direct or indirect issuance or distribution – The RBI need to decide whether the CBDC
+will be issued directly by the RBI to the end-user or issued to the end-user through public
+banks or private banks.
+
+7. Risks to watch out for
+
+
+Risk of increased financial exclusion – More than 540 million people in India still use
+non-smart phones. The implication is that people using non-smart phones may not be able
+to use CBDC for payment transactions. This can increase digital financial exclusion for
+non-smart phone users. The RBI should ensure that the India CBDC is designed in a way
+that cater for both users of smart phones and non-smart phone users within the country.
+14
+
+Electronic copy available at: https://ssrn.com/abstract=4238138
+
+Peterson K. Ozili
+
+Central Bank Digital Currency in India: the case for a digital rupee
+
+Another challenge is that over 800 million people have smartphones in India, but many
+still do not use mobile banking or digital payments in their daily lives. This can also
+increase the risk of digital financial exclusion when CBDC is adopted as a mainstream
+payment option.
+
+
+Privacy risk – With CBDC, payment transaction privacy will not be guaranteed. The
+transactions of people and businesses will not be completely anonymous. As a result, many
+people who want to conduct private digital transactions may not use the India CBDC. This
+issue makes it important for the authorities to strike a balance between pursuing its antimoney laundering objectives and maintaining the confidentiality of transactions for users.
+
+
+
+Cyber security risk – CBDC may face threats such as hacking which might lead to server
+blockages, timeouts or service declines. The CBDC can also be exposed to other cyber
+threats such as distributed denial-of-service (DDoS) attacks that disrupt services.
+
+
+
+Digital and financial illiteracy – There are literacy barriers to widespread CBDC adoption
+in India. A large segment of the population is living on wages, and they are not equipped
+with financial literacy or digital literacy that would enable them to seamlessly embrace
+CBDC in India. This can delay the widespread acceptance of CBDC in India.
+
+
+
+Resistance in the informal economy – The size of India's informal economy is estimated
+to be 52.4% which represents approximately $4,858 billion in 2021. The introduction of
+CBDC might face strong resistance in the informal economy especially when people do
+not want their transaction to be monitored by the government. This means that CBDCs
+might not be welcomed or well perceived in the informal economy.
+
+8. Conclusion
+This paper explored CBDC adoption and issues in India. It was found that Indian people who were
+interested in ‘cryptocurrency’ information were also interested in ‘central bank digital currency’
+information. The study also showed that the introduction of CBDC has potential benefits such as
+reduced dependency on cash, higher seigniorage due to lower transaction costs and reduced
+settlement risk. However, CBDC has associated risks that need to be carefully evaluated against
+the potential benefits. The implication is that the India CBDC will be a powerful tool in the RBI’s
+15
+
+Electronic copy available at: https://ssrn.com/abstract=4238138
+
+Peterson K. Ozili
+
+Central Bank Digital Currency in India: the case for a digital rupee
+
+monetary policy tools but the introduction of CBDC in India will require legal and regulatory
+changes. For this reason, the transition to a CBDC-led digital economy in India will not be easy.
+But it is a necessary step to support the evolution of society and the monetary system in India.
+Future studies can examine how CBDC can be used to support growth in specific sectors of the
+Indian economy. Other studies can explore the pertinent issues surrounding the best design and
+use-case for India CBDC.
+
+Reference
+Adalid, R., Álvarez-Blázquez, Á., Assenmacher, K., Burlon, L., Dimou, M., López-Quiles, C.,
+Fuentes, N.M., Meller, B., Muñoz, M., Radulova, P. and d’Acri, C.R., (2022). Central bank
+digital currency and bank intermediation. ECB Occasional Paper, No. 293.
+Agur, I., Ari, A., & Dell’Ariccia, G. (2022). Designing central bank digital currencies. Journal of
+Monetary Economics, 125, 62-79.
+Auer, R., Frost, J., Gambacorta, L., Monnet, C., Rice, T., & Shin, H. S. (2022). Central bank digital
+currencies: motives, economic implications, and the research frontier. Annual Review of
+Economics, 14, 697-721.
+Awang Abu Bakar, N. S., Yahya, N., Khairuddin, I. E., Zainal Abidin, A. F., Mohamad Zain, J.,
+Idris, N. B., & Engku Ali, E. R. A. (2023). The Central Bank Digital Currency in Malaysia:
+A Literature Review. In International Conference on Business and Technology (pp. 307317). Springer, Cham.
+Bolt, W., Lubbersen, V., & Wierts, P. (2022). Getting the balance right: Crypto, stablecoin and
+central bank digital currency. Journal of Payments Strategy & Systems, 16(1), 39-50.
+Bhowmik, D. (2022). Monetary policy implications of central bank digital currency with special
+reference to India. Asia-Pacific Journal of Management and Technology (AJMT), 2(3), 18.
+
+16
+
+Electronic copy available at: https://ssrn.com/abstract=4238138
+
+Peterson K. Ozili
+
+Central Bank Digital Currency in India: the case for a digital rupee
+
+Bordo, M. D. (2021). Central Bank Digital Currency in Historical Perspective: Another
+Crossroad in Monetary History (No. w29171). National Bureau of Economic Research.
+
+Chaum, D., Grothoff, C., & Moser, T. (2021). How to issue a central bank digital currency. arXiv
+preprint arXiv:2103.00254.
+Chen, H., & Siklos, P. L. (2022). Central bank digital currency: A review and some macrofinancial implications. Journal of Financial Stability, 100985.
+Chorzempa, M. (2021). China, the United States, and central bank digital currencies: how
+important is it to be first? China Economic Journal, 14(1), 102-115.
+Coulter, K. A. (2022). ‘Stop Creating Private Money!’: Should the Bank of England Introduce a
+Central Bank Digital Currency to Compete with Cryptocurrency? A Review of the UK
+Bank of England's Proposed Retail CBDC. A Review of the UK Bank of England's
+Proposed Retail CBDC (April 7, 2022).
+Cova, P., Notarpietro, A., Pagano, P., & Pisani, M. (2022). Monetary policy in the open economy
+with digital currencies. Bank of Italy Temi di Discussione (Working Paper) No, 1366.
+Davoodalhosseini, S. M. (2022). Central bank digital currency and monetary policy. Journal of
+Economic Dynamics and Control, 142, 104150.
+Dinh, H. T. L., & Dinh, T. C. (2022, August). Verification of the Impact of Central Bank Digital
+Currency (CBDC) Issuance on Net Interest Income of Vietnamese Commercial Banks. In
+2022 IEEE/ACIS 7th International Conference on Big Data, Cloud Computing, and Data
+Science (BCD) (pp. 301-305). IEEE.
+Frankó, A., Oláh, B., Sass, Z., Hegedüs, C., & Varga, P. (2022, May). Towards CBDC-supported
+Smart Contracts for Industrial Stakeholders. In 2022 IEEE 5th International Conference
+on Industrial Cyber-Physical Systems (ICPS) (pp. 1-6). IEEE.
+
+17
+
+Electronic copy available at: https://ssrn.com/abstract=4238138
+
+Peterson K. Ozili
+
+Central Bank Digital Currency in India: the case for a digital rupee
+
+Fegatelli, P. (2022). A central bank digital currency in a heterogeneous monetary union: Managing
+the effects on the bank lending channel. Journal of Macroeconomics, 71, 103392.
+García, A., Lands, B., Liu, X., & Slive, J. (2020). The potential effect of a central bank digital
+currency on deposit funding in Canada (No. 15). Bank of Canada.
+Hamza, H., & Jedidia, K. B. (2020). Central Bank Digital Currency and Financial Stability in a
+Dual Banking System. In Impact of Financial Technology (FinTech) on Islamic Finance
+and Financial Stability (pp. 233-252). IGI Global.
+Hayashi, F., & Toh, Y. L. (2022). Assessing the Case for Retail CBDCs: Central Banks’
+Considerations. Payments System Research Briefing, (May 26, 2022), 1-7.
+Huang, Y. (2022). Virtual Currencies, ICOs and Central Bank Digital Currencies in China. In Law
+and Practice of Crowdfunding and Peer-to-Peer Lending in Australia, China and Japan
+(pp. 125-141). Springer, Singapore.
+Inozemtsev, M. I., & Nektov, A. V. (2022). Digital Platforms for Cross-Border Settlement of
+CBDC. In The Platform Economy (pp. 131-145). Palgrave Macmillan, Singapore.
+Kahn, M. C. M., Singh, M. M., & Alwazir, J. (2022). Digital money and central bank operations.
+International Monetary Fund.
+Keister, T., & Monnet, C. (2022). Central bank digital currency: Stability and information. Journal
+of Economic Dynamics and Control, 142, 104501.
+Kim, Y. S., & Kwon, O. (2019). Central bank digital currency and financial stability. Bank of
+Korea Working Paper, No. 6.
+Kolozsi, P. P., Lehmann, K., & Szalai, Z. (2022). Is CBDC strengthening the monetary
+transmission mechanism?. In Central Banking, Monetary Policy and the Future of Money
+(pp. 94-119). Edward Elgar Publishing.
+
+18
+
+Electronic copy available at: https://ssrn.com/abstract=4238138
+
+Peterson K. Ozili
+
+Central Bank Digital Currency in India: the case for a digital rupee
+
+Liu, X., Wang, Q., Wu, G., & Zhang, C. (2022). Determinants of individuals’ intentions to use
+central bank digital currency: evidence from China. Technology Analysis & Strategic
+Management, 1-15.
+Michel, N. (2022). Central Bank Digital Currencies Are about Control—They Should Be Stopped.
+Center for Monetary and Financial Alternatives, Cato Institute.
+Minesso, M. F., Mehl, A., & Stracca, L. (2022). Central bank digital currency in an open economy.
+Journal of Monetary Economics, 127, 54-68.
+Ricks, M., Crawford, J., & Menand, L. (2020). FedAccounts: digital dollars. Vanderbilt Law
+Research Paper, 18-33.
+Ozili, P. K. (2023). Central bank digital currency research around the World: a review of literature.
+Journal of Money Laundering Control, 26(2), 215-226.
+Ozili, P. K. (2022a). Can central bank digital currency increase financial inclusion? Arguments
+for and against. In Big Data Analytics in the Insurance Market (pp. 241-249). Emerald
+Publishing Limited.
+Ozili, P. K. (2022b). Central bank digital currency in Nigeria: opportunities and risks. In The New
+Digital Era: Digitalisation, Emerging Risks and Opportunities (Vol. 109, pp. 125-133).
+Emerald Publishing Limited.
+Ozili, P. K. (2022c). Global Central Bank Digital Currency Research and Developments:
+Implication for Cryptocurrency. Cryptocurrency: Concepts, Technology, and Issues,
+Forthcoming.
+Piazzesi, M., & Schneider, M. (2020). Credit lines, bank deposits or CBDC? competition and
+efficiency in modern payment systems. Unpublished, Stanford University.
+Shen, W., & Hou, L. (2021). China's central bank digital currency and its impacts on monetary
+policy and payment competition: Game changer or regulatory toolkit? Computer Law &
+Security Review, 41, 105577.
+
+19
+
+Electronic copy available at: https://ssrn.com/abstract=4238138
+
+Peterson K. Ozili
+
+Central Bank Digital Currency in India: the case for a digital rupee
+
+Slawotsky, J. (2022). Digital currencies and great power rivalry: China as a disseminator in the
+digital age. Asia Pacific Law Review, 30(2), 242-264.
+Vallet, G., Kappes, S., & Rochon, L. P. (Eds.). (2022). Central Banking, Monetary Policy and the
+Future of Money. Edward Elgar Publishing.
+Vodrážka, M., Bízek, T., & Vojta, M. (2022). Are there relevant reasons to introduce a retail
+CBDC in the Czech Republic from the perspective of the payment system? BIS Papers,
+65.
+Wang, G., & Hausken, K. (2022). A game between central banks and households involving central
+bank digital currencies, other digital currencies and negative interest rates. Cogent
+Economics & Finance, 10(1), 2114178.
+Whited, T. M., Wu, Y., & Xiao, K. (2022). Central Bank Digital Currency and Banks. Available
+at SSRN 4112644.
+Xu, J. (2022). Developments and implications of central bank digital currency: The case of China
+e‐CNY. Asian Economic Policy Review, 17(2), 235-250.
+Zhang, T., & Huang, Z. (2022). Blockchain and central bank digital currency. ICT Express, 8(2),
+264-270.
+
+20
+
+Electronic copy available at: https://ssrn.com/abstract=4238138
+
+

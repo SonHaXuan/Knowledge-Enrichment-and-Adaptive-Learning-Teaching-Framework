@@ -1,0 +1,3484 @@
+To CBDC or not to CBDC. That is the question.
+Thomas Conlona , Shaen Corbetb,c , Yang (Greg) Houc , Yang Huc , Charles Larkind,e , Les Oxleyc,∗
+a Smurfit
+
+Graduate School of Business, University College Dublin, Ireland
+
+b DCU
+c School
+
+Business School, Dublin City University, Dublin 9, Ireland
+
+of Accounting, Finance and Economics, University of Waikato, New Zealand
+d Institute
+
+e Krieger
+
+for Policy Research, University of Bath, UK
+
+School of Arts Sciences, Johns Hopkins University, Baltimore, MD, USA
+∗ Corresponding
+
+Author: les.oxley@waikato.ac.nz
+
+Abstract
+The paper considers the potential motives for Central Banks’ issuance of digital currencies (hereafter CBDC), where an important issue relates to the risk they might subsequently carry due to the
+potential misuse of CBDC and the distrust of nations acting outside of expected norms. Against
+this, non issuance could significantly undermine an innovation which could act as the future of
+finance. However, complex cybercriminality, and both simplistic types of fraud and broad misusage
+by “rogue nations” will continue to sharply devalue the very concept of CBDC along with any inherent theoretical benefits for financial stability. Seeking to understand the balance of these motives
+for CBDC issuance, we assess whether sentiment provides significant and valuable information for
+both policymakers and regulators when attempting to better understand external influences, particularly when creating a product that may possess real and significant economic influence long
+into the future. Specifically, we focus on key questions, such as how CBDC-related central bank
+releases, severe negative events, and contagion effects sourced within traditional financial markets,
+impact upon sentiment related specifically to CBDC.
+
+Keywords: Central Bank; CBDC; Cryptocurrency; Stablecoin; Sentiment; GARCH.
+
+Preprint submitted to SSRN
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+August 31, 2022
+
+1. Introduction
+CBDC have generated significant debate within the central banking community, particularly
+as many policymakers continue to weigh the theoretical benefits of creation with the simultaneous
+threats to stability that potentially exist. The growth of the stablecoin industry has acted as somewhat of a testing phase, through which policy-makers and regulators can observe both expected and
+unexpected risks before proceeding further with development and testing. A number of key issues
+remain irrespective of design, however, primarily involving the rationale as to why one would seek
+to use an inferior CBDC-product as opposed to an asset linked to countries with minimal risk, the
+effects and side-effects of interest-bearing CBDC, the transfer of direct risk and contagion through
+CBDC establishment and underwriting, de-pegging events which could lead to a reputational catastrophe, the implicit potential for illicit acts such as “rug-pulls” by unethically-acting states, and both
+questionable population monitoring and data usage in countries with more liberal industry standards. Moral hazard issues with regards to forced behaviours through legislative changes are also
+a significant point of concern, as has been central to the design of a number of recent attempted
+CBDC-type products. This research attempts to address an interesting question surrounding the
+changes in market sentiment as a result of such incidents, and to quantify what we learn from such
+behaviour in anticipation of the creation of the first major CBDC product. Specifically, we focus
+on a range of significant hypotheses investigating the affects of central bank announcements, global
+geopolitical events, major negative cryptocurrency-related events, and contagion effects inherent
+within significant traditional financial market volatility. Each point of analysis develops upon our
+understanding as to the key factors that influence sentiment relating to CBDC.
+In January 2022, the US Federal Reserve outlined1 what were considered to be the key potential
+benefits associated with CBDC, including the ability to meet future system requirements for payment services; the ability to easily extend access to central bank funds; and further improvements
+to cross-border payments and financial inclusion. Further the report signals the potential issuance
+of a US-focused CBDC to be the source of continued preservation of perceived US-dominance in
+world finance. The key identified risks within CBDC products include the many unknown sideeffects associated with such a fundamental change of market structure, much of which has the
+ability to disrupt market confidence. Further potential risks surround the escalation of bank runs
+and the hindrance of access to traditional liquidity avenues during times of crises.2 Among the key
+1 US Federal Reserve Research & Analysis, Money, and Payments: The US Dollar in the Age of Digital Transformation, January 2022. Available here.
+2 As there is no theoretical, or established limit on the amount of a CBDC that one particular individual or
+corporation can potentially hold, periods of financial distress could generate and expand dangers associated with
+bank runs for example, as depositors move funds from commercial banks to government held CBDC. To response,
+such banks would have to contract their lending, or raise additional debt, which in certain geographical regions
+
+2
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+concerns surrounding CBDC is the functionality of monetary policy implementation, with specific
+issues identified with regards to the supply of reserves within the banking system, particularly if a
+CBDC was interest bearing, which in turn would elevate investor demand and generate potential
+competitive pressures, particularly that sourced internationally. In response, a respective central
+bank would therefore be required to expand its own portfolio to generate reserves, which in turn
+could propagate market bubbles, and potentially expose central banks to excessive risks. Other
+major potential issues have been identified with regards to consumer privacy, the prevention of
+financial crimes, exposure to issues surrounding cybercriminality and deterioration of operational
+resilience, along with overarching concerns surrounding disruption to the broad safety and stability
+of the international financial system. Further potential sovereign misuse of CBDC and broader cryptocurrency also present a significant risk, an accusation that has already been levelled at Venezuela
+during the country’s attempted to create the Petro.3
+The question arises, however, why might central banks be interested in issuing CBDCs? In
+the absense of digital currencies, it is less likely that central banks would be interested in issuing
+CBDCs. Given the rapid growth in and clear demand for digital currencies e.g., stable coins which
+have the potential to lead to increased financial instability via for example de-pegging, there is a
+clear rationale for central banks to drive-out existing digital currencies from the system, given that
+they have the potential to destablise the whole financial system. In so doing, the result is that the
+stable coin market has access to more stable government backed digital currencies, and CBDCs,
+along with central banks/governments have the potential to stabilise the stablecoin market. In
+addition, authorities have the ability to potentially monitor and track illicit and illegal operations
+which underpin much of the stable coin demand which they are servicing via their CBDC. This
+comes, however, at the cost that the CBDC inherits the high risk inherent in the market-issued
+stablecoins. The question then turns to whether the stabilisation benefits of a dominant CBDC
+outweigh the risk they inherit from the current generation of for example, stable coins.
+CBDC advocates point to the ability for individuals and corporations to conduct real-time,
+feeless transactions with a currency fully backed as a key positive characteristic. CBDCs become
+
+could prove to be quite difficult due to regulatory changes in response to the 2010 Global Financial Crisis, thereby
+generating substantial disintermediation effects [Demirgüç-Kunt et al., 2008, Masciandaro et al., 2013, Anginer et al.,
+2018, 2021]. For some regions, such risks must be evaluated in full before proceeding to initiate such a large economic
+event.
+3 In February 2018, the Petro was issued by the government of Venezuela, described to be backed by the country’s
+oil and mineral reserves. The cryptocurrency was intended to coincide with Venezuela’s bolivar currency and was
+strongly linked with the key raison d’être of circumventing US sanctions, thereby enabling the country to access
+international financial market. In early 2020, Venezuelan president Nicolas Maduro announced that it would be
+mandatory for the Venezuelan population to pay with Petro for government document services and other products
+such as aviation fuel. In 2019, President Maduro approved for the payment of bonuses in Petros for public employees
+and pensioners. To date, there has been no evidence of broad international acceptance of the Petro.
+
+3
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+direct liabilities of central banks, where any person or corporation could transfer without fees to
+any other bank or intermediary. In the US, particular pressures appear to have taken hold, as
+without little incentive to get involved in CBDC development, competitive pressures with other
+major nations could generate short-term ambition to perform so as not to create a technological
+and economic lag. To date, the Asia and Pacific has led CBDC exploration, where both China and
+India have been observed to be close to successful project completion.4 The IMF have found that
+cryptocurrency adoption is greater in countries with higher digital penetration along with weaker
+macroeconomic fundamentals, however, it is also simultaneously associated with elevated levels
+of corruption. A People’s Bank of China (PBOC) task force began studying central bank digital
+currencies in 2014, and the pilot kicked off in October 2020 in Shenzhen.5 In July 2022, the Chinese
+digital yuan programme has now been expanded to 23 cities, being used by 1.5 million merchants,
+and available to almost one-fifth of the population. However, it has so far failed to overcome mobile
+payment platforms such as Alipay and WeChatPay. Testing has indicated that the digital yuan has
+some advantages over these apps, particularly as retailers do not pay fees on digital yuan payments,
+while transactions can be made without an internet connection.6
+The research presented here sets out to establish as to how sentiment relating to Central Bank
+Digital Currencies (CBDC hereafter), quantified, and calculated through the use of social media
+coverage, has responded to a number of dynamic factors since the growth in focus upon the development of such innovative technology by multiple major central banks. When considering the
+sharp differentials of opinion of both proponents and opponents to cryptocurrency development
+for a variety of reasons [Bordo and Levin, 2017, Minesso et al., 2022, Williamson, 2021, Davoodalhosseini, 2021], the decisions taken by central banks to investigate, develop, and in some cases,
+stress test network ability in real-world test systems, has added substantial credibility and support to stablecoin and cryptocurrency projects. While central bank support has underpinned and
+validated the potential within stablecoin-type products [Carapella and Flemming, 2020], we must
+establish which specific events have reversed such positivity surrounding CBDC? Specifically, such
+work focuses on four distinct avenues of investigation: i) how have central bank announcements
+regarding CBDC influenced social media sentiment? ii) what effects have major negative events
+within cryptocurrency markets and the de-pegging of stablecoins had? iii) what impact have major
+4 Opening Remarks at Peer-Learning Series on Digital Money/Technology: Central Bank Digital Currency and
+the Case of China, Krishna Srinivasan, Asia and Pacific Department Director, International Monetary Fund (IMF),
+7 July 2022, Available here.
+5 The PBOC has adopted a two-tier system for the digital yuan, known as the e-CNY. It first issues e-CNY
+to commercial banks, which then further distributes the CBDC to the public. In trials, banks have since become
+partners with Chinese merchants, and have been actively promoting the new product by handing out free digital
+cash and other benefits such as offering discounts on purchases in digital yuan.
+6 In such a situation, near-field communication terminals are used, which can provide a number of additional
+performance benefits, such as during natural disasters.
+
+4
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+international shocks such as the COVID-19 pandemic, and the illegal invasion of Ukraine had upon
+CBDC-related sentiment; and iv) how have major shocks in other traditional financial markets
+influenced CBDC sentiment? Understanding the extent to which major events influence sentiment
+relating to CBDC provides significant information for policymakers and regulators when attempting
+to better understand externally influential factors, particularly when creating a product that may
+have deep-rooted real economic influence in the future.
+While the examination of the effects of CBDC-related announcements, major international
+events, and the contagion effects implicit within extreme traditional financial markets, each provide
+significant information value to policymakers, investors, and regulators, investigation based on depegging events was found to be particularly novel in scope. De-pegging events have been among the
+most severe negative incidents that have affected stablecoins, and act as a primary threat to CBDC
+development. Li and Mayer [2021] developed a dynamic model based on optimisation of stablecoin
+management, and specifically characterise the existence of an instability trap, where stability can
+last for a long time, but once stablecoins were negatively affected by external shocks, exceptional
+levels of volatility persist. This is largely observed as one of the key reasons as to why debasement
+triggers a vicious cycle, however the authors observe it to be unavoidable due to the very fact that
+it enhances efficient risk sharing7 between the issuer and user of the stablecoin itself.8 One major
+example of de-pegging was recently observed during the recent Luna collapse.9
+A number of new and significant results are presented. First, as identified through significant
+increases in positive sentiment, central bank announcements relating specifically to CBDC, irrespective of type, were found to provide substantial community reassurance. Furthermore, the COVID-19
+pandemic presented elevated levels of positive CBDC commentary on social media, much of which
+surrounded the potential use of CBDC to provide an alternative to physical banking, and a greater
+service to the unbanked, thereby reducing interaction and potential COVID-19 spread. Thirdly,
+the invasion of Ukraine by Russian forces significantly increased negative sentiment with regards to
+7 Efficiency improvements through CBDC development are also identified by Keister and Sanches [2021], however
+it is also found to crowd out bank deposits, while increasing bank funding costs and simultaneously decreasing
+investment.
+8 Further, Lyons and Viswanath-Natraj [2020] identified that when focusing on stablecoin issuance, which the
+author defines to be the closest representation to direct central-bank intervention, is found to play only a limited
+role in the stabilisation process, indicating that such market influence is determined from the demand side.
+9 Terra Luna is a cryptocurrency that launched in July 2019, and was linked directly to the Terra token, which was
+created by Terraform labs. $LUNA has since forked and re-branded as Terra Luna Classic $LUNC after collapsing
+from high values of almost $120.00 in April 2022, before collapsing below $0.00001 by May, identified to be linked
+with very significant $UST withdrawals on the Terra ecosystem, thereby dramatically increasing asset supply, as
+when $UST was sold, $LUNA was simultaneously created. Multiple investigations are since underway, most notably
+where the home of co-creator Do Kwon was raided by South Korean prosecutors as part of a probe into significant
+allegations of illegal activity behind Terra’s collapse. The Luna collapse also led to the downfall of Three Arrows
+Capital, and lenders and brokers such as Voyager Digital Ltd. and Celsius Network Ltd in the subsequent fallout.
+
+5
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+CBDC, particularly as many theoretically negative characteristics of CBDC became evident, such as
+sanction avoidance and the elevated risks of economic warfare. In terms of structural events within
+the FinTech industry, de-pegging events within large cryptocurrency products as ranked by market
+capitalisation are found to increase positive sentiment incrementally, and significantly across CBDC
+market commentary. This result indicates the existence of a preference for substantial government
+involvement in such markets. Finally, when considering contagion effects from major market movements in traditional financial markets and developing cryptocurrency markets, pronounced periods
+of sustained volatility in traditional assets are fundamentally associated with support for the use of
+CBDC as a mechanism through which to promote stability.
+The remainder of this paper is structured as follows: the previous literature and theories that
+guide the development of our research are summarised in Section 2. Section 3 presents a thorough
+explanation of the wide variety of data used in this analysis, while Section 4 presents a concise
+overview of the methodologies used. In Section 5, we present the results surrounding the analyses
+that investigate external influences on CBDC-related sentiment, with further discussion provided
+based on what such results mean for relevant stakeholders. Section 6 concludes.
+2. Previous Literature
+CBDCs have been proposed as a product that will enhance our understanding of the way through
+which populations utilise cash. To develop as a recognised financial product, however, CBDC must
+overcome one of the key obstructions to its continued development in the form of cybercriminality. As per Corbet et al. [2022], particular forms of blockchain and cryptocurrencies present novel
+features that can potentially mitigate long-standing challenges within the financial system. Borgonovo et al. [2021] found that anonymity was one of the key appealing factors when agents sought
+a medium of payment, with effects found to be reliant on risk aversion and liquidity, an argument
+that validates the usage of private cryptocurrency, but emphasises reduced incentive structures for
+many to utilise CBDCs. However, it must be considered that the consistent deterioration of stability and trust within cryptocurrency products, the exchanges they trade on, and how they are
+used, continue to provide substantial weight to the argument against the continued progression of
+digital financial development. Cryptocurrencies have been at the centre of many significant issues.
+For example, Foley et al. [2019] estimated that around 46% of bitcoin transactions were predicated
+on illegal activity, a finding that was one of the first pieces of research to verify a long-standing assumption underpinning such products, namely, their existence is predicated upon illegality. Betting
+volume using digital currencies was also demonstrated to predict future performance of Bitcoin,
+indicative of their common use by gamblers [Conlon and McGee, 2020]. Such observations are also
+significant when considering the substantive price differentials that can be generated therein. For
+
+6
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+example, when Gandal et al. [2018] investigated the impact of suspicious trading activity on the
+Mt. Gox Bitcoin currency exchange, such transactions were found to be responsible for a sharp
+increase in the price of Bitcoin in late 2013. While government involvement in such markets could
+act as a mechanism that generates stability, viable questions remain as to what contagion effects
+and reputational disasters exist within. For example, Belke and Beretta [2020] outlined the specific
+difficulties that CBDC would have when replacing fiat currencies. Bindseil [2019] identified that
+such CBDC products could disrupt banking and the credit allocation process, along with providing
+an additional channel through which systematic banking runs could occur during financial crises.
+This latter result appears to contrast, however, with those presented by Fernández-Villaverde et al.
+[2021] who suggest that the stability provided by central banks outweighs that of the commercial
+banking sector.
+Further issues relating to the legality and welfare implications of CBDCs were raised by Nabilou
+[2020] and Cukierman [2020] respectively. While Chen and Siklos [2022] outline further avenues
+towards instability, however, they note that inflation does not appear to be a major issue within
+the presented simulations. Similarly, Ferrari Minesso et al. [2022], through the use of a two-country
+DSGE model incorporating CBDC investigate shock transmission, to which the new product is
+found to amplify the international spillover of shocks, while Castrén et al. [2022] found that the
+introduction of CBDC is theoretically associated with funding shortages in banks, further generating negative contagion effects upon other sectors. Arguments supporting the usage of CBDC are
+proposed by Brunnermeier and Niepelt [2019], who had previously found that the combination of
+CBDC with central bank pass-through funding, through the use of a model focused on money and
+liquidity, found that such a product would not undermine broad financial stability. Further, Agur
+et al. [2022] identify that the optimal CBDC design trades off bank intermediation against the social
+value of maintaining diverse payment instruments, where an interest-bearing CBDC alleviates the
+central bank’s trade-off.
+3. Data
+Following Cioroianu et al. [2021a,b], we identified and collected Twitter social media data to generate a representative sentiment index relating to CBDC. Twitter data was collected for the period
+1 January 2017 through 30 June 2022, representing a collection of 1,452,316 unique tweets.10 The
+sentiment variables that were used for computations were computed thereafter using the Python
+package ‘pysentiment’ and are specifically based on the Harvard General Inquirer IV-4 dictionary
+10 For
+
+brevity of presentation, additional summary statistics based on these tweets are available from the authors
+upon request.
+
+7
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+and the Loughran and McDonald Financial Sentiment dictionary.11 This research specifically focuses on the subjectivity and polarity of CBDC-based social media commentary, indicative of the
+scale of point-in-time sentiment with regards to its development. Specifically, subjectivity analysis
+based on the collated text is a type of sentiment analysis, where using Natural Language Processing
+(NLP), researchers separate and classify a text to be opinionated or not opinionated. Within the
+identified text, the presence of certain terms such as adjectives, adverbs and some group of verbs and
+nouns are therefore identified as indicators of a subjective opinion.12 Building upon this subjectivity
+analysis, we next determine as to whether a sentence is opinionated or not. Therefore, we perform
+a polarity analysis based on the collated text so as to ascertain whether it expresses a positive or
+negative opinion. Polarity analysis is specifically designed to determine the emotional attitude of
+text writer with respect to the topic under discussion. Each measure of sentiment includes: 1)
+counts of positive terms; 2) counts of negative terms; 3) a measure of polarity calculated as the
+number of positive terms minus the number of negative terms divided by the sum of positive and
+negative terms, and 4) a measure of subjectivity (effect) calculated as the proportion of negative
+and positive terms relative to the total number of terms in the tweet. Social media activity and
+related sentiment data over the time period analysed are presented in Figures 1 and 2 respectively.
+
+Insert Figures 1 & 2 about here
+
+Policy discussion and broad research relating to Fintech have been analysed in great detail in
+recent times. Corbet et al. [2019] and Allen et al. [2021] provide detailed analyses of the literature
+to date, particularly surrounding the shifting focus and attention that these new financial products
+have received from central banks and international regulatory authorities. Building upon this
+research, and to specifically investigate our first research question based on the influence of central
+bank CBDC announcements on CBDC sentiment, we obtain a concise and robust list of dates and
+times of the release of key related research. We therefore focus on all announcements made on the
+respective websites of the U.S. Federal Reserve, the European Central Bank, the Bank of England,
+the Bank of Japan, the Swiss National Bank, and the Bank of Canada. Additionally, we employ a
+combined search of LexisNexis, Bloomberg, and Thomson Reuters Eikon, search for the keywords
+including that of “central bank digital currency” and “CBDC”. Data are presented in Figure 3, and
+are subsequently applied within our selected methodological process as a dummy variable that takes
+the form of unity on the dates on which CBDC-related research was released by selected central
+11 The Harvard General Inquirer IV-4 dictionary is available at the following link and the Loughran and McDonald
+Financial Sentiment dictionary is available at the following link.
+12 Thus subjectivity analysis is the classification of sentences as subjective opinions or objective facts.
+
+8
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+banks. All observations found to be made on either a Saturday or Sunday are represented on the
+following Monday morning.
+
+Insert Figure 3 about here
+
+To investigate the second research question surrounding the effects of major international events
+upon CBDC sentiment, we select a number of dates to best represent key phases of the outbreak
+and spread of COVID-19, and the illegal invasion of Ukraine by Russian forces. Proponents of
+cryptocurrency have often advocated for the use of CBDC as a mechanism to promote stability,
+therefore, these events have been observed to be the most disruptive to have occurred in recent
+times [Corbet et al., 2020, Conlon et al., 2020, Didier et al., 2021, Berger and Demirgüç-Kunt,
+2021, Duncan et al., 2022, Jarrow and Lamichhane, 2022, Levy et al., 2022]. First, we analyse the
+first represented mention of a “mystery pneumonia” which occurred on the 17 November 2019, and
+subsequently represented the first case of COVID-19 detected in mainland China as reported by the
+South China Morning Post [Corbet et al., 2020]. Further, we utilise the first official identification13
+by international organisations such as the World Health Organisation (WHO), which was on the
+31 December 2019. Moreover, we analyse the extent to which the escalating severity and contagion
+of the COVID-19 pandemic influenced CBDC sentiment. To conduct this task, we focus on the
+first announced deaths within China, Europe, and the United States, which are observed as major
+points indicating the escalating severity of the pandemic [Conlon et al., 2020, Akhtaruzzaman
+et al., 2021, Corbet et al., 2021a,b, 2022a,b,c]. Within this context, developing upon Johns Hopkins
+University CSSE data, we observe dates based around 23 January 2020, where 1 confirmed death was
+announced in China as a result of COVID-19, and both 15 February 2020 and 2 March 2020, where
+subsequent COVID-19-related deaths were announced in Europe and the United States, respectively.
+In what has represented as one of the most significant events in recent memory, the decision by
+Russia to illegally invade Ukraine represents a severe shock to financial markets akin to the dot
+com bubble, subprime market collapse and subsequent international banking crises [Bredin et al.,
+2015, Conlon et al., 2020]. To investigate this event, we use a dummy variable representing the 24
+February 2022, indicative of the beginning of the invasion. Within the context of discussions relating
+to CBDC, particular interest had been placed on the potential of cryptocurrencies to function as a
+conduit through which Russian citizens could mitigate, or completely avoid international sanctions.
+To date, however, little evidence has been presented indicating the use of such channels.
+13 This event was subsequently followed with substantial media reporting, where for example, the BBC announced
+on 3 January 2020 that a pneumonia-like ‘mystery virus’ with characteristics similar to the SARs (severe acute
+respiratory syndrome) pandemic of, 2002 through 2003, had been identified.
+
+9
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+Insert Figure 4 about here
+Next, we focused on the influence of major de-pegging events upon CBDC sentiment. Such
+events have been observed to generate severe reputational damage to broad cryptocurrencies. depegging refers to a situation where the value of a stablecoin is found to significantly deviate from
+its intended peg, therefore, it can be said to be de-pegged. To establish an exact definition, this
+research examines a number of de-pegging rules, findings that one based on a 10% move away from
+the stated peg is most representative of major events. Results were estimated across a variety
+of differential rules, however, once de-pegging events beyond 10% are analysed, with no evidence
+of significant differentials to those described above. In Figure 4, we present the frequency of
+cryptocurrency de-pegging events, as separated by the market capitalisation of the cryptocurrency
+that has subsequently lost its peg. Within this context, we attempt to separate the effects of depegging based on larger, more well-known cryptocurrencies when compared to those of lower value
+and less comparative market influence.14 When a de-pegging event is identified, a dummy variable
+included in the stated methodology takes a value of unity.
+Insert Table 1 about here
+To investigate the influence of financial market products upon CBDC sentiment, we select four
+distinct types of market upon which we analyse market interactions: i) foreign exchange; ii) traditional stock markets; iii) volatility derivatives; and iv) cryptocurrencies. The securities analysed are
+selected based on size, as identified by market capitalisation, and liquidity, and associated summary
+statistics are presented in Table 1. Evidence of significant volatility dynamics relating to Russian
+markets as a result of the flawed decision to initiate conflict through illegal invasion is evident
+through kurtosis and maxima that are more aligned with volatility derivatives and cryptocurrency
+products, than that of stable countries. Data was obtained from Thomson Reuters Eikon for the
+period between 1 January 2017 and 30 June 2022 and was subsequently matched with the generated CBDC sentiment data and described dummy variables, through which daily returns were
+obtained. Overall, data is matched by product. While social media data and cryptocurrency data
+are available at all times throughout the week, this data remains unchanged and accounts for 2,060
+observations. Markets with structured operational times have weekends removed, and therefore
+account for 1,471 observations. Analyses were repeated to both include and exclude weekend social
+media data; however, results remain unchanged. The effects of major social media events that occur
+14 Q1 through Q4 represent the quartile of respective market capitalisation, where Q1 represents the largest quartile
+of stablecoins by size, while Q4 represents the smallest.
+
+10
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+upon weekends are observed to generate associated effects upon the date on which markets reopen.
+Therefore, the decision to proceed with our analysis while excluding such weekend data is observed
+to be robust.
+4. Methodology
+We develop a GARCH(1,1) methodology to investigate the effects of external factors upon
+CBDC sentiment in an attempt to further our understanding of these new financial products.15
+An intercept and a deterministic trend were included in the Augmented Dickey Fuller (ADF) and
+Phillips Perron (PP) models. The trend was included to capture the reduction in average volatility
+that took place during the period analysed. The ADF model tests whether the equity series contain
+a unit root in order to correct for serial correlation. PP tests employ a non-parametric estimator
+of the variance-covariance matrix with d truncation lags. The models assess through the process of
+sequentially removing the last lag until a significant lag is reached giving the order of augmentation
+for the ADF test that minimised the Akaike information criterion. The results indicated rejection
+of the null-unit root hypotheses at a minimum ofthe 5% level.
+ We next proceed to calculate the
+St
+first difference of natural logarithm of sentiment st = ln St−1 , which are then further developed
+through the use of the GARCH(1,1) framework, that allows us to control for the basic phenomenon
+that the volatility behaviour is not constant across time. Therefore, we specifically set out to
+identify differential behaviour in CBDC sentiment outside of long-term trends. The ARCH process
+originally developed by Engle [1982], and later generalised by Bollerslev [1986], allows us to capture
+the time-series properties of the volatility process. Specification tests found that, as is typically the
+case with financial series, a GARCH(1,1) model provided the best fit in the majority of analyses
+cases.16 The GARCH(1,1) methodology used then has the following specification:
+st = at +
+
+X
+
+b1,j st−j + b2 ϕt + b3 dt + εt ,
+
+(1)
+
+j=1
+2
+σt2 = σ0 + σ1 ε2t−1 + β1 σt−1
+,
+
+(2)
+
+15 In our selection, other competitive models included EGARCH, TGARCH, Asymmetric Power ARCH (APARCH),
+Component GARCH (CGARCH) and the Asymmetric Component GARCH (ACGARCH) were analysed while the
+optimal model was chosen according to three information criteria, namely the Akaike (AIC), Bayesian (BIC) and
+Hannan-Quinn (HQ), but GARCH was found to outperform each methodology. Results of the other additional
+analyses are available from the authors on request.
+16 Where other methodological structures are identified to have provided a more optimal structure as per the utilised
+information criterion, direct reference is made within the provided results.
+
+11
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+where st−j represents the lagged value of the analysed sentiment over time. ϕt represents the
+performance of the MSCI World Index17 , which is used to account for international effects18 with
+the methodological structure. The GARCH (1,1) specification requires that in the conditional
+variance equation, parameters α0 , α1 and β should be positive for a non-negativity condition and
+the sum of α1 and β should be less than one to secure the covariance stationarity of the conditional
+variance. Moreover, the sum of the coefficients α1 and β must be less than or equal to unity for
+stability to hold. dt represents an individual dummy variable used to analyse the specific effects of
+each series as previously established, examined separately and based around the effects of central
+bank announcements relating to CBDC, the effects of major international events, and the influence
+of major de-pegging events. The final stage of analysis, specifically relates to that investigating the
+effects of traditional financial market asset volatility upon CBDC sentiment, taking the form of first
+identifying the dates upon which significant movements in absolute returns occur, and then proceeds
+to separate the effects based on the size of the outlier event that has occurred. To this effect, we
+further develop our selected GARCH(p,q) methodology through the addition of a dummy variable,
+dt that takes a value of unity on dates upon which presented minima and maxima of the selected
+analysed assets breach pre-stated absolute return thresholds. Considering the presented minima
+and maxima of returns over time, a variety of separational rules were implemented. For brevity
+of presentation, only those results representing absolute changes of 2.5% and 5% with regards to
+foreign exchange and stock market products, and both 5% and 10% with regards to derivative
+products and cryptocurrencies, are presented within this research. Such band selection was made
+due to the lack of observations relating to absolute returns above 10% that occurred in foreign
+exchange and stock markets during the examined period.19
+5. Results
+5.1. The influence of international central bank releases based upon CBDC sentiment
+In the first stage of our analysis, we focus on the interactions between central bank announcements based on CBDC, and their specific influence upon sentiment relating to CBDC. For robustness, we build upon both the Harvard General Inquirer IV-4 and the Loughran and McDonald
+Financial sentiment dictionary. In Table 2, we observe that in both examined methodological
+structures, the selected GARCH-family frameworks are found to be both robust and appropriately
+17 The MSCI World Index captures both large and mid-cap representation across 23 developed markets countries.
+It is identified to account for approximately 85% of the free float-adjusted market capitalisation in each country
+18 A number of alternative methodological structures and representative measures of international effects were
+considered. For brevity, results relating to these analyses are available from the authors on request.
+19 Results were also analysed at 3%, 4%, 6% and 8% levels respectively, however, results were indifferent in nature
+to those presented. Results relating to all other stated analyses are available from the authors upon request.
+
+12
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+behaved, with results showing sharp, significant increases at the 1% level of positive sentiment relating to CBDC. Investigating CBDC sentiment under the structure of the Harvard General Inquirer
+IV-4 dictionary presents evidence of an increase in positive sentiment of 2.6% in the periods after
+CBDC-related announcements, while using the Loughran and McDonald Financial sentiment dictionary, on average, a significant increase of 6.3% is identified. Therefore, on average, when central
+banks discuss CBDC or release relevant information, social media is found to respond positively.
+Insert Table 2 about here
+Such a result provides multiple levels of reassurance with regards to current CBDC projects and
+the manner in which central banks can reassure and calm investors. Currently, over one hundred
+countries are exploring the use of CBDC including Anguilla; Antigua and Barbuda; The Bahamas;
+Dominica; Grenada; Jamaica; Montserrat; Nigeria; Saint Kitts & Nevis; Saint Lucia; and Saint
+Vincent & the Grenadines. In Nigeria in particular, it has been estimated that over one hundred
+million people do not have access to banking, therefore, the ability to leverage some of the strengths
+provided through CBDC will hope to outweigh the identified negative aspects. In Ecuador and the
+Philippines, CBDC projects have since been completely cancelled.20 . While many major nations
+have committed CBDC projects, a significant number have become inactive, while others remain
+in phases of research and development without the provision of regular updates. The above results
+identify, however, that central bank announcements appear to result in positive sentiment regarding
+CBDC.
+5.2. The influence of negative international events upon CBDC sentiment
+Focusing on the impacts of severe negative international events upon CBDC sentiment provides
+evidence of a number of interesting informational dynamics. Both the LM and HI dictionaries are
+used to provide methodological robustness, with results presented in Table 3. When focusing on the
+first unofficial announcement surrounding the existence of a “mysterious pneumonia” in China, as
+20 In February 2022, the CBDC created by the government of the Philippines was announced to have been cancelled
+The Bangko Sentral ng Pilipinas (BSP) Governor Benjamin E. Diokno stated: “The BSP has no plans to introduce
+a CBDC in the near term primarily because the population remains heavily cash reliant given the country’s efficient
+and effective payment and settlement systems”. In Ecuador, the Dinero Electronico, which ran between 2014 and
+2018, was a mobile payment system developed by the Banco Central del Ecuador. It allowed Ecuadorian citizens to
+transfer US dollar using electronic devices. Arauz et al. [2021] identified that a number of key issues persisted with
+the Dinero Electronico that inevitably generated much public concern: i) the CBDC was not fully backed, so it is
+therefore more akin to a parallel currency; ii) it could not be used to make international payments; iii) the asset
+was broadly considered to facilitate criminal activity; iv) the asset had the ability to act as a significant surveillance
+program; v) there was continued public fear that the government might force public procurement suppliers or the
+public in general to receive transfers solely in through the asset; and vi) the asset could not be used to buy anything
+of significant value.
+
+13
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+reported by the South China Morning Post on the 17 November 2019, we observe that there was no
+evidence of any significant response with regards to CBDC sentiment. This result is not unexpected,
+as quite broadly, financial markets did not appear to quantify the scale of forthcoming risks to which
+it would be confronted [Conlon et al., 2021, 2022]. Further, upon the official identification of the
+existence of the COVID-19 pandemic, no significance change of sentiment is identified. It is at
+the time of the first official announcement of a death relating to COVID-19 as per Johns Hopkins
+University CSSE Data, that we observe a significant increase in positivity surrounding CBDC.
+At this time, we must also note that due to strict lockdown procedures implemented in China, a
+substantial conversation had begun about the manner and mechanisms through which the economy
+would continue to operate in an environment in which COVID-19 would be a factor that populations
+would have to live with in daily life. This had repercussions for simplistic processes such as banking
+and the use of physical cash, both of which had been severely disrupted due to the onset of the
+pandemic. Therefore, further research and development of Chinese CBDC continued to develop
+at pace in response. It is also found that the rise in the positivity of CBDC sentiment diminishes
+as time passes following the first Chinese deaths. Such a result implies that there might exist an
+overreaction as to the wish list of CBDC when the news initially becomes available to the public. It
+corresponds with the business and social environments in China where massive contactless online
+payments are available as reflected by widespread use of WeChat Pay and Alipay. The result may
+further align with a revelation of ambition to erect a CBDC system by the Chinese government.
+While the immediate CBDC sentiment response to the announcements of the first European and
+US-based COVID-19 deaths are not as pronounced as that experienced in China, they are each found
+to become significantly positive in the four-week period thereafter. Results indicate that the onset
+of the COVID-19 pandemic presented a significant positive change in sentiment, particularly as
+many identified the simultaneous structural and safety benefits through providing an alternative to
+physical banking and transactions, and the ability of CBDC to provide an alternative to those with
+no direct access to banking, while simultaneously reducing the necessity for physical interactions,
+thereby reducing the risk of COVID-19 contagion effects.21
+
+Insert Table 3 about here
+
+When considering the effects of the start of illegal Russian invasion of Ukraine, the influence
+identified upon CBDC sentiment is in stark contrast. Across both the LM and HI analyses, results
+21 Lockdowns and social distancing measures are accelerating the use of digital RMB in China. As of 31 December
+2021, there have been more than 8.0851 million digital RMB pilot scenarios with a transaction amount of 87.565
+billion yuan.
+
+14
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+indicate a sharp increase in the negativity of social media response surrounding CBDC. Two particular issues are noted to be potentially associated with this result. Firstly, in the period immediately
+surrounding the invasion, much focus was placed upon the implementation of sanctions upon the
+Russian economy. However, simultaneously, it was evident that cryptocurrencies, particularly that
+of stablecoins, and subsequently CBDC, had drawn much criticism when identified as a viable mechanism through which sanctions could be mitigated or completely avoided.22 This potential causal
+factor is quite plausible when considering the continued deterioration of sentiment throughout the
+period between five and twenty days after the incident. Further, the future of CBDC appears to
+have drawn significant negative attention when considering that countries and central banks that
+hold the ownership rights to a CBDC could act in the same manner as Russia, could in fact hold
+significant power and ability to freeze, and even take control of assets held through CBDC should
+such a situation transpire.
+5.3. The influence of major de-pegging events upon CBDC sentiment
+One of the most reputationally damaging types of events that have occurred in recent times has
+been that of the de-pegging of cryptocurrencies, indicative of a broad decoupling of the asset from
+the stated pegging mechanism. With regards to the creation of a CBDC, such a de-pegging would
+represent a serious and unprecedented breach of structure. Table 4 presents results of the analyses
+of the effects upon CBDC sentiment as separated by the market capitalisation using both the HI
+and LM sentiment dictionaries.
+
+Insert Table 4 about here
+
+Evidence suggests substantial differentials of response. While de-pegging events are found to
+generate a moderate differential response when considering events relating to small cryptocurrencies,
+the effects of de-pegging events surrounding large cryptocurrencies are identified to be extremely
+large in comparison to all other types of events analysed in this research. This result is surprising,
+and indicative of a call for government involvement in such markets. For example, in response
+to significant de-pegging events, and as a mechanism to provide support and stability for these
+growing markets, CBDC proponents appear to advocate for government creation of CBDC so as
+22 In March 2022, a US executive order based on cryptocurrency, focused on mitigating illegal activity in cryptocurrency markets. Following Russia’s invasion of Ukraine, authorities were acutely concerned about the potential
+usage of cryptocurrency for Russian individuals and companies evade international sanctions. Proponents of cryptocurrency have stated this to be difficult due to the fact that all transactions are visible on the blockchain of major
+cryptocurrency, while smaller assets are simply too illiquid. Specifically, the executive order focused on six key priorities: i) consumer and investor protection; ii) financial stability; iii) illicit finance; iv) US leadership in the global
+financial system and economic competitiveness; v) financial inclusion; and vi) responsible innovation.
+
+15
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+to mitigate the influence of private agents, hence such a positive response. Simply, support for
+government intervention surrounds a reduction of cybercriminality within these markets, however,
+as the US Federal Reserve identified in a report from early 2022, such ambitious mechanisms to
+promote system stability can also consequentially generate issues upon third parties. Such sideeffects would potentially manifest within potential dysfunctional monetary policy implementation,
+the unintentional propagation of market bubbles, escalated threats to consumer privacy, broad
+unintended exposure to issues surrounding novel forms cybercriminality, and diminished operational
+resilience.
+5.4. The influence of traditional market volatility upon CBDC sentiment
+Finally, we analyse the effects of extreme market movements across a range of traditional financial markets and cryptocurrency in an attempt to identify specific influence upon CBDC sentiment.
+In Table 5, we observe the influence of absolute market movements of beyond 2.5% using both
+LM and HI sentiment dictionaries. Of the ten major currencies analyses, only EUR/USD and
+GBP/USD are found to function as a catalyst of positive CBDC-related sentiment. That is, as
+extreme events occur in such markets, commentators are found to develop and focus specific arguments in support of the use of CBDC. However, adding further robustness to earlier presented
+results, significant daily deviations in the value of RUB/USD are found to generate significant negative CBDC sentiment, verifying arguments surrounding the generation of counterarguments to the
+use of CBDC going forwards due to the inherent instability generated from countries acting outside
+of traditional expectations.
+
+Insert Tables 5 & 6 about here
+
+Stock market effects are presented in Table 6. While results based on the ten largest world
+stock markets are presented, only significant movements within the S&P500 in the United States,
+and the Shanghai stock exchange in China present positive effects upon CBDC-related sentiment.
+Building upon earlier observation, it appears that pronounced periods of sustained volatility in
+traditional assets are fundamentally associated with support of the use of CBDC as a mechanism
+through which to provide stability, despite the many known and unknown associated side-effects.
+This observation is further verified through results presented in Table 7, where in all examined
+cases, extreme movements in volatility derivatives products are found to be quickly followed by a
+significant growth of positive sentiment surrounding the use of CBDC.
+
+Insert Tables 7 & 8 about here
+
+16
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+In Table 8, we observe that significant events within the largest analysed cryptocurrencies are
+also associated with significantly positive changes in sentiment, although the magnitude of such
+change is found to be below that identified across the other presented analyses. This result is
+particularly interesting. While many consider co-movements and broad contagion effects to be
+insulated within cryptocurrency as a broad asset class, such evidence shows that there exist subsectoral differentials, such as differential behaviour between examined mineable cryptocurrencies
+and those described to be asset-backed stablecoins. While adding further support to the continued
+development of cryptocurrency market depth, such results also add further robustness and weight
+to earlier presented results based upon the significant influence upon CBDC sentiment as a result
+of de-pegging events. While volatility across many assets and types of events generate differentials
+with regards to market sentiment surrounding CBDC, evidence supports the existence of developing
+informational efficiency, and that, in extremely damaging events in cryptocurrency markets, there
+is preference for government involvement rather than the continued trust of private cryptocurrency
+owners. As the frequency and severity of both de-pegging events and incidents relating to both
+complex and simplistic cybercriminality continue to grow, governments must very carefully consider
+as to whether the provision of CBDC is legally, ethically, technologically, and most importantly,
+reputationally efficient. The rise of privately held cryptocurrencies has also provided policymakers
+with an opportunity to transform the financial system through publicly issued cryptocurrencies. The
+rise of privately held cryptocurrencies are regularly considered a threat to the financial establishment
+and by issuing a CBDC, policymakers may see this as one means to maintain control over monetary
+policy.
+Our results suggest a shock-driven relation between the financial uncertainties and sentimentbacked demand of CBDC. Despite that the rising popularity of decentralised, weakly regulated and
+privately owned cryptocurrencies among global investment professions as well as detected enhanced
+information flows from those to traditional risky counterparts, significantly provoked sentimental
+demand of strictly regulated, reputation backed and centralised CBDC is evidenced widely following
+the shocks and disasters in the global financial systems and economic occurrences. Henceforth, it
+is implied that the sentimental momentum that stakeholders advocate for the advent of CBDC
+may be an important factor considered for the devising process of digital currencies. And it may
+also potentially impact the pricing dynamics of CBDC when it is initially launched. Moreover, the
+results in this study provide more hints as to the drawbacks of currently prevailing cryptocurrencies
+in a perspective of investors’ sentimental dynamics as to their major counterparts in the future.
+
+17
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+6. Concluding Comments
+This research sets out, through the use of robust methodological processes, to establish as to
+how sentiment relating to CBDC as quantified through social media coverage, has responded to a
+number of dynamic factors since 2017. Specifically understanding influential factors upon CBDC
+sentiment provides significant and valuable information for both policymakers and regulators when
+attempting to better understand external influences, particularly when creating a product that may
+possess significant economic influence long into the future. Specifically, we focus on key questions,
+such as how CBDC-related central bank releases, severe negative events, and contagion effects
+sourced within traditional financial markets, influence sentiment related specifically to CBDC.
+Several key observations are identified. First, identified through significant elevations of positive
+sentiment, central bank announcements relating specifically to CBDC are identified to provide
+substantial reassurance to the population when considering the many associated negative issues and
+unknowns. Secondly, the COVID-19 pandemic presented a significant increase of positive change
+associated with CBDC social media commentary, particularly as many identified the simultaneous
+structural and safety benefits contained therein, specifically through the provision of an alternative
+to physical banking, while simultaneously reducing the necessity for physical interactions, thereby
+reducing the risk of COVID-19 contagion effects. Thirdly, the invasion of Ukraine by Russian forces
+significantly increased negative sentiment with regards to CBDC, particularly as much emphasis
+was placed upon the ability of a rogue nation to use such products to conduct illicit practices such as
+sanction avoidance, and the theft of international funds and data. Fourth, de-pegging events within
+large cryptocurrency products as ranked by market capitalisation are found to increase positive
+sentiment incrementally, and significantly across CBDC market commentary. This result indicates
+the existence of a substantial preference for direct government involvement in such markets. For
+example, in response to significant de-pegging events, and as a mechanism to provide support and
+stability for these growing markets, CBDC proponents appear to advocate for government creation
+of CBDC so as to mitigate the influence of private agents, therefore, reducing cybercriminality
+within these markets. Finally, when considering contagion effects from major market movements
+in traditional financial markets and developing cryptocurrency markets, pronounced periods of
+sustained volatility in traditional assets are fundamentally associated with support for the use of
+CBDC as a mechanism through which to provide stability.
+The debate surrounding the creation of viable government backed CBDC products has certainly
+progressed in recent times. Evidence suggests that it progressed during periods of exceptional
+volatility as proponents seek support and influence. However, the potential misuse of CBDC and
+distrust of nations acting outside of expected norms appear to significantly devalue what could, in
+the future, function as the future of finance. Within this scope, broad worldwide development would
+
+18
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+be a preferable platform, in an industry with agreed-upon regulation and standards. Otherwise,
+complex cybercriminality, and both simplistic types of fraud and broad misuse by “rogue nations”
+will continue to sharply devalue the very concept of CBDC along with any inherent hopes of
+financial stability that are theoretically plausible therein. While COVID-19 has generated safetydriven rationale underpinning the foundations of CBDC, and theory suggests that such products can
+provide a valuable service to the unbanked, potential misuse by nations such as Russia amongst
+others for the purpose sanction avoidance, and Venezuela amongst others to mitigate extreme
+economic depression, will continue to devalue and undermine CBDC as a viable financial product.
+
+References
+Agur, I., A. Ari, and G. Dell’Ariccia (2022). Designing central bank digital currencies. Journal of Monetary
+Economics 125, 62–79.
+Akhtaruzzaman, M., S. Boubaker, and A. Sensoy (2021). Financial contagion during COVID–19 crisis. Finance
+Research Letters 38.
+Allen, F., X. Gu, and J. Jagtiani (2021). A Survey of Fintech Research and Policy Discussion. Review of Corporate
+Finance 1 (3-4), 259–339.
+Anginer, D., A. C. Bertay, R. Cull, A. Demirgüç-Kunt, and D. S. Mare (2021). Bank capital regulation and risk
+after the Global Financial Crisis. Journal of Financial Stability, 100891.
+Anginer, D., A. Demirguc-Kunt, H. Huizinga, and K. Ma (2018). Corporate governance of banks and financial
+stability. Journal of Financial Economics 130 (2), 327–346.
+Arauz, A., R. Garratt, and D. F. Ramos F. (2021). Dinero electrónico: The rise and fall of ecuador’s central bank
+digital currency. Latin American Journal of Central Banking 2 (2), 100030.
+Belke, A. and E. Beretta (2020). From cash to central bank digital currencies and cryptocurrencies: a balancing act
+between modernity and monetary stability. Journal of Economic Studies 47 (4), 911–938.
+Berger, A. and A. Demirgüç-Kunt (2021). Banking research in the time of COVID-19. Journal of Financial Stability 57.
+Bindseil, U. (2019). Central Bank Digital Currency: Financial System Implications and Control. International
+Journal of Political Economy 48 (4), 303–335.
+Bollerslev, T. (1986). Generalized autoregressive conditional heteroskedasticity. Journal of Econometrics 31 (3),
+307–327.
+Bordo, M. D. and A. T. Levin (2017). Central bank digital currency and the future of monetary policy. Technical
+report, National Bureau of Economic Research.
+
+19
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+Borgonovo, E., S. Caselli, A. Cillo, D. Masciandaro, and G. Rabitti (2021). Money, privacy, anonymity: What do
+experiments tell us? Journal of Financial Stability 56.
+Bredin, D., T. Conlon, and V. Potì (2015). Does gold glitter in the long-run? Gold as a hedge and safe haven across
+time and investment horizon. International Review of Financial Analysis 41, 320–328.
+Brunnermeier, M. and D. Niepelt (2019). On the equivalence of private and public money. Journal of Monetary
+Economics 106, 27–41.
+Carapella, F. and J. Flemming (2020). Central bank digital currency: A literature review. FEDS Notes. Washington:
+Board of Governors of the Federal Reserve System.
+Castrén, O., I. Kavonius, and M. Rancan (2022). Digital currencies in financial networks. Journal of Financial
+Stability 60.
+Chen, H. and P. Siklos (2022). Central bank digital currency: A review and some macro-financial implications.
+Journal of Financial Stability 60.
+Cioroianu, I., S. Corbet, and C. Larkin (2021a). Guilt through association: Reputational contagion and the Boeing
+737-MAX disasters. Economics Letters 198, 109657.
+Cioroianu, I., S. Corbet, and C. Larkin (2021b). The differential impact of corporate blockchain-development as
+conditioned by sentiment and financial desperation. Journal of Corporate Finance 66, 101814.
+Conlon, T., S. Corbet, G. Hou, Y. Hu, and L. Oxley (2022). Beyond the Noise–Information Discovery in Bitcoin
+Revisited. Available at SSRN 4145789 .
+Conlon, T., S. Corbet, and R. McGee (2020). Are cryptocurrencies a safe haven for equity markets? An international
+perspective from the COVID-19 pandemic. Research in International Business and Finance 54.
+Conlon, T., S. Corbet, and R. J. McGee (2021). Inflation and cryptocurrencies revisited: A time-scale analysis.
+Economics Letters 206, 109996.
+Conlon, T., J. Cotter, and P. Molyneux (2020). Beyond common equity: The influence of secondary capital on bank
+insolvency risk. Journal of Financial Stability 47.
+Conlon, T. and R. J. McGee (2020). Betting on bitcoin: Does gambling volume on the blockchain explain bitcoin
+price changes? Economics Letters 191, 108727.
+Corbet, S., J. Goodell, and S. Günay (2020). Co-movements and spillovers of oil and renewable firms under extreme
+conditions: New evidence from negative WTI prices during COVID-19. Energy Economics 92.
+Corbet, S., M. Greene, and C. Larkin (2022). The Impact of Central Bank Digital Currency (CBDC) Development
+on Cryptocurrency: A Taxonomic Analysis. Review of Corporate Finance.
+Corbet, S., Y. Hou, Y. Hu, and L. Oxley (2020). The influence of the COVID-19 pandemic on asset-price discovery:
+Testing the case of Chinese informational asymmetry. International Review of Financial Analysis 72, 101560.
+Corbet, S., Y. Hou, Y. Hu, and L. Oxley (2021a). An analysis of investor behaviour and information flows surrounding
+the negative WTI oil price futures event. Energy Economics 104.
+
+20
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+Corbet, S., Y. Hou, Y. Hu, and L. Oxley (2021b). Volatility spillovers during market supply shocks: The case of
+negative oil prices. Resources Policy 74.
+Corbet, S., Y. Hou, Y. Hu, and L. Oxley (2022a). Did COVID-19 tourism sector supports alleviate investor fear?
+Annals of Tourism Research 95.
+Corbet, S., Y. Hou, Y. Hu, and L. Oxley (2022b). Financial contagion among COVID-19 concept-related stocks in
+China. Applied Economics 54 (21), 2439–2452.
+Corbet, S., Y. Hou, Y. Hu, and L. Oxley (2022c). The influence of the COVID-19 pandemic on the hedging
+functionality of Chinese financial markets. Research in International Business and Finance 59.
+Corbet, S., B. Lucey, A. Urquhart, and L. Yarovaya (2019). Cryptocurrencies as a financial asset: A systematic
+analysis. International Review of Financial Analysis 62, 182–199.
+Cukierman, A. (2020). Reflections on welfare and political economy aspects of a central bank digital currency.
+Manchester School 88 (S1), 114–125.
+Davoodalhosseini, S. M. (2021). Central bank digital currency and monetary policy. Journal of Economic Dynamics
+and Control, 104150.
+Demirgüç-Kunt, A., E. Detragiache, and T. Tressel (2008). Banking on the principles: Compliance with Basel Core
+Principles and bank soundness. Journal of Financial Intermediation 17 (4), 511–542.
+Didier, T., F. Huneeus, M. Larrain, and S. Schmukler (2021). Financing firms in hibernation during the COVID-19
+pandemic. Journal of Financial Stability 53.
+Duncan, E., A. Horvath, D. Iercosan, B. Loudis, A. Maddrey, F. Martinez, T. Mooney, B. Ranish, K. Wang,
+M. Warusawitharana, and C. Wix (2022). COVID-19 as a stress test: Assessing the bank regulatory framework.
+Journal of Financial Stability 61.
+Engle, R. F. (1982). Autoregressive conditional heteroscedasticity with estimates of the variance of United Kingdom
+inflation. Econometrica: Journal of the Econometric Society, 987–1007.
+Fernández-Villaverde, J., D. Sanches, L. Schilling, and H. Uhlig (2021). Central bank digital currency: Central
+banking for all? Review of Economic Dynamics 41, 225–242.
+Ferrari Minesso, M., A. Mehl, and L. Stracca (2022). Central bank digital currency in an open economy. Journal of
+Monetary Economics 127, 54–68.
+Foley, S., J. Karlsen, and T. Putnins (2019). Sex, Drugs, and Bitcoin: How Much Illegal Activity Is Financed through
+Cryptocurrencies? Review of Financial Studies 32 (5), 1798–1853.
+Gandal, N., J. Hamrick, T. Moore, and T. Oberman (2018). Price manipulation in the Bitcoin ecosystem. Journal
+of Monetary Economics 95, 86–96.
+Jarrow, R. and S. Lamichhane (2022). Risk premia, asset price bubbles, and monetary policy. Journal of Financial
+Stability 60.
+Keister, T. and D. R. Sanches (2021). Should central banks issue digital currency? Available at SSRN 3966817 .
+
+21
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+Levy, D., T. Mayer, and A. Raviv (2022). Economists in the 2008 financial crisis: Slow to see, fast to act. Journal
+of Financial Stability 60.
+Li, Y. and S. Mayer (2021). Money creation in decentralized finance: A dynamic model of stablecoin and crypto
+shadow banking. Fisher College of Business Working Paper (2020-03), 030.
+Lyons, R. K. and G. Viswanath-Natraj (2020). What keeps stablecoins stable? Technical report, National Bureau
+of Economic Research.
+Masciandaro, D., R. V. Pansini, and M. Quintyn (2013). The economic crisis: Did supervision architecture and
+governance matter? Journal of Financial Stability 9 (4), 578–596.
+Minesso, M. F., A. Mehl, and L. Stracca (2022). Central bank digital currency in an open economy. Journal of
+Monetary Economics 127, 54–68.
+Nabilou, H. (2020). Testing the waters of the Rubicon: the European Central Bank and central bank digital currencies.
+Journal of Banking Regulation 21 (4), 299–314.
+Williamson, S. D. (2021). Central bank digital currency and flight to safety. Journal of Economic Dynamics and
+Control, 104146.
+
+22
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+Figure 1: Social media sentiment relating to Central Bank Digital Currencies
+a) Twitter data based on CBDC
+i) Tweets
+
+ii) Retweets
+
+iii) Likes
+
+b) HI Estimates
+i) HI Polarity
+
+ii) HI Subjectivity
+
+c) LM Estimates
+i) LM Polarity
+
+ii) LM Subjectivity
+
+Note: Twitter social media data was collected to generate a representative index of related sentiment that could be
+incorporated into our selected methodological processes analysing each cryptocurrency, individually and by type as per
+Cioroianu et al. [2021b,a]. To complete this task, Twitter data was collected for a period between 1 January 2017 and 30
+June 2022. A total number of 1,452,316 unique tweets were collected. Associated sentiment variables were computed using
+the Python package ‘pysentiment’ and are based on the Harvard General Inquirer IV-4 dictionary and the Loughran and
+McDonald Financial Sentiment dictionary.
+
+23
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+Figure 2: Estimated differentials of social media response
+i) HI Differentials (Positive & Negative)
+
+ii) LM Differentials (Positive & Negative)
+
+Note: Twitter social media data was collected to generate a representative index of related sentiment that could be
+incorporated into our selected methodological processes analysing each cryptocurrency, individually and by type as per
+Cioroianu et al. [2021b,a]. To complete this task, Twitter data was collected for a period between 1 January 2017 and 30
+June 2022. A total number of 1,452,316 unique tweets were collected. Associated sentiment variables were computed using
+the Python package ‘pysentiment’ and are based on the Harvard General Inquirer IV-4 dictionary and the Loughran and
+McDonald Financial Sentiment dictionary.
+
+24
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+Figure 3: International Central Bank releases based on Central Bank Digital Currencies
+
+Note: The above figures present the combined announcements made on the respective websites of the U.S. Federal
+Reserve, the European Central Bank, the Bank of England, the Bank of Japan, the Swiss National Bank, and the Bank of
+Canada. inclusive of terms relating "central bank digital currency" and "CBDC" respectively. Data is further developed as
+a dummy variable that is used in the described GARCH methodological process.
+
+25
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+Figure 4: Frequency of cryptocurrency de-pegging events as separated by market capitalisation
+i) de-pegging Q4
+
+ii) de-pegging Q3
+
+iii) de-pegging Q2
+
+iv) de-pegging Q1
+
+Note: The above figures represent the frequency of cryptocurrency de-pegging events. de-pegging refers to a situation
+where the value of a stablecoin is found to significantly deviate from its intended peg, therefore, it can be said to be
+depegged. To establish an exact definition, this research builds upon a number of de-pegging rules, but found that based
+on a 10% move away from the stated peg to be most representative of major events. Results were estimated across a
+variety of differential rules, however, once de-pegging events beyond 10% are analysed, results do not present evidence of
+significant differentials to those presented above. When a de-pegging event is identified, a dummy variable included in the
+stated methodology takes a value of unity. Q1 through Q4 represent the quartile of respective market capitalisation, where
+Q1 represents the largest quartile of stablecoins by size, while Q4 represents the smallest.
+
+26
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+Table 1: Summary statistics based on the selected financial products analysed
+Product Analysed
+
+Mean
+
+Var
+
+Std Dev
+
+Skew
+
+Kurt
+
+Min
+
+Max
+
+0.0001
+0.0001
+0.0001
+0.0001
+0.0001
+0.0001
+-0.0001
+0.0001
+0.0001
+0.0001
+
+0.0001
+0.0001
+0.0001
+0.0001
+0.0001
+0.0001
+0.0001
+0.0001
+0.0001
+0.0003
+
+0.0043
+0.0055
+0.0047
+0.0043
+0.0059
+0.0044
+0.0058
+0.0025
+0.0060
+0.0158
+
+-0.0418
+0.0267
+0.2901
+-0.1378
+-0.3541
+0.1226
+-0.2510
+0.2746
+0.1850
+1.5441
+
+0.9722
+3.2346
+5.5916
+1.8694
+3.0825
+1.5392
+1.4242
+3.7877
+1.5013
+37.8347
+
+-0.0204
+-0.0363
+-0.0281
+-0.0277
+-0.0386
+-0.0186
+-0.0330
+-0.0142
+-0.0267
+-0.1354
+
+0.0161
+0.0307
+0.0321
+0.0186
+0.0237
+0.0214
+0.0213
+0.0154
+0.0365
+0.2043
+
+0.0005
+0.0001
+0.0003
+0.0001
+0.0003
+0.0002
+0.0001
+0.0002
+0.0002
+0.0001
+0.0002
+0.0002
+0.0002
+0.0001
+0.0002
+
+0.0002
+0.0001
+0.0001
+0.0002
+0.0001
+0.0002
+0.0002
+0.0002
+0.0001
+0.0001
+0.0001
+0.0001
+0.0001
+0.0003
+0.0001
+
+0.0122
+0.0104
+0.0120
+0.0124
+0.0115
+0.0124
+0.0123
+0.0136
+0.0103
+0.0104
+0.0093
+0.0101
+0.0114
+0.0162
+0.0107
+
+-0.6689
+-0.9156
+-0.7929
+0.0229
+-0.0129
+-0.4211
+-1.0020
+-1.6970
+-1.3338
+-0.5982
+-0.8380
+-1.2009
+-1.0047
+-5.0288
+-0.1086
+
+16.9013
+15.7923
+14.3411
+4.2746
+4.7809
+14.4323
+17.5142
+22.6741
+46.6752
+5.8876
+13.1268
+15.4619
+16.1028
+139.0712
+9.2758
+
+-0.1198
+-0.1087
+-0.1228
+-0.0572
+-0.0608
+-0.1224
+-0.1406
+-0.1692
+-0.1234
+-0.0772
+-0.0964
+-0.0970
+-0.1235
+-0.3328
+-0.0839
+
+0.0938
+0.0905
+0.0839
+0.0908
+0.0804
+0.1098
+0.0857
+0.0893
+0.1196
+0.0571
+0.0702
+0.0700
+0.0859
+0.2004
+0.0860
+
+0.0039
+0.0033
+0.0028
+0.0021
+0.0013
+0.0039
+0.0013
+0.0013
+
+0.0080
+0.0066
+0.0061
+0.0046
+0.0026
+0.0089
+0.0027
+0.0024
+
+0.0897
+0.0811
+0.0778
+0.0676
+0.0514
+0.0944
+0.0516
+0.0486
+
+2.8966
+1.5146
+5.6845
+1.4815
+0.9357
+4.6871
+1.9100
+0.7192
+
+23.8360
+7.4302
+82.7293
+6.3416
+4.1828
+75.3005
+12.0686
+5.2409
+
+-0.2591
+-0.3526
+-0.4633
+-0.2147
+-0.2333
+-0.6371
+-0.2105
+-0.3419
+
+1.1560
+0.6256
+1.3577
+0.5169
+0.3467
+1.6543
+0.4523
+0.3511
+
+0.0024
+0.0041
+0.0061
+0.0047
+0.0037
+0.0031
+0.0065
+0.0013
+0.0010
+0.0048
+
+0.0017
+0.0031
+0.0048
+0.0068
+0.0052
+0.0028
+0.0122
+0.0018
+0.0027
+0.0048
+
+0.0413
+0.0555
+0.0695
+0.0825
+0.0721
+0.0527
+0.1104
+0.0430
+0.0518
+0.0690
+
+-0.0884
+0.3155
+2.9940
+6.5676
+5.2549
+1.0546
+17.1636
+1.9896
+9.3298
+2.1275
+
+6.3974
+5.7719
+32.9060
+119.5223
+82.0380
+12.0803
+524.2052
+28.6150
+199.0220
+20.4872
+
+-0.3717
+-0.4235
+-0.4189
+-0.4601
+-0.3957
+-0.3720
+-0.4025
+-0.3793
+-0.4203
+-0.5111
+
+0.2525
+0.3366
+0.9642
+1.7940
+1.3661
+0.4737
+3.5549
+0.5556
+1.2426
+0.6461
+
+Foreign Exchange
+Euro/US Dollar
+UK Pound Sterling/US Dollar
+US Dollar/Japanese Yen
+US Dollar/Swiss Franc
+Australian Dollar/US Dollar
+US Dollar/Canadian Dollar
+New Zealand Dollar/US Dollar
+US Dollar/Chinese Renminbi
+US Dollar/Swedish Krona
+US Dollar/Russian Rouble
+
+Market Index
+S&P 500 Index - CBOE
+FTSE 100 Index
+CAC 40 Index
+Hang Seng Index
+Nikkei 225 Index
+Deutsche Boerse DAX Index
+IBEX 35 Index
+FTSE MIB Index
+TSX-Toronto Stock Exch. 300 Comp.
+Shanghai SE Composite Index
+Swiss Market Index
+S&P/ASX 200
+EURO STOXX INDEX
+MOEX Russia Index
+Korea SE Kospi Index
+
+Volatility Derivative
+CBOE Market Volatility Index
+EURO STOXX 50 Volatility (VSTOXX)
+CBOE Crude Oil Volatility Index
+Nikkei Volatility Index
+CBOE Gold Volatility Index
+CBOE Emerging Markets ETF Vol.
+VVIX Index
+V-VSTOXX Index
+
+Cryptocurrency
+Bitcoin
+Ethereum
+BNB
+Ripple
+Cardano
+Solano
+Dogecoin
+Polkadot
+Shibu Inu
+Polygon
+
+Note: To investigate the influence of financial market products upon CBDC sentiment, we select four distinct types of upon
+which we analyse market interactions: i) foreign exchange markets; ii) traditional stock markets; iii) volatility derivatives;
+and iv) cryptocurrencies. The listed products that are analysed are selected based on size, as identified by market
+capitalisation, and liquidity. Data was obtained from Thomson Reuters Eikon for the period between 1 January 2017 and
+30 June 2022. While social media data and cryptocurrency data are available at all times throughout the week, this data
+remains unchanged and accounts for 2,060 observations. Markets with structured operational times have weekends
+removed, and therefore account for 1,471 observations. Analyses were repeated to both include and exclude weekend social
+media data, however results remain unchanged. The results of such analyses are available from the authors upon request.
+
+27
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+Table 2: The effects of central bank releases based on CBDC upon related social media sentiment
+dt
+
+α1
+
+β1
+
+at
+
+Structure
+
+0.0832***
+(0.0027)
+0.3701***
+(0.0608)
+
+0.8470***
+(0.0011)
+0.5340***
+(0.0050)
+
+0.0088***
+(0.0007)
+0.0231***
+(0.0006)
+
+GARCH1-1
+
+Central Bank CBDC
+LM Analysis
+HI Analysis
+
+6.3050***
+(0.8060)
+2.6380***
+(0.0298)
+
+GARCH1-2
+
+P
+Note: The GARCH(1,1) methodology used then has the following specification: st = at + j=1 bj st−j + ϕt + dt + εt
+where st−j represents the lagged value of the analysed sentiment over time, whereas ϕt represents the performance of the
+MSCI World Index, which is used to account for international effects with the methodological structure, while dt represents
+an individual dummy variable that takes a value of unity on dates denoted where central banks have released relevant
+research and statements. The above analyses is based upon the combined announcements made on the respective websites
+of the U.S. Federal Reserve, the European Central Bank, the Bank of England, the Bank of Japan, the Swiss National
+Bank, and the Bank of Canada. inclusive of terms relating to "central bank digital currency" and "CBDC" respectively.
+Data is further developed as a dummy variable that is used in the described GARCH methodological process. Data is
+presented in Figure 3. The presented methodology is selected based on the Akaike Information Criterion and Bayesian
+Information Criterion respectively. Results based on all other types of methodological analysis and variety of included data
+are available from the authors upon request. ***, ** and * represent significance at the 1%, 5% and 10%, respectively.
+
+28
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+Table 3: The effects of major international incidents on CBDC sentiment
+
+dt
+
+LM Analysis
+α1
+β1
+
+at
+
+HI Analysis
+α1
+β1
+
+dt
+
+at
+
+17 November 2019, first unofficial COVID-19 case detected⋆⋆ [Corbet et al., 2020]
+D5−day
+D10−day
+D20−day
+
+0.2990
+(1.5410)
+0.3420
+(1.1610)
+1.0550
+(1.2330)
+
+0.0824***
+(0.0027)
+0.0824***
+(0.0027)
+0.0824***
+(0.0027)
+
+0.8470***
+(0.0011)
+0.8470***
+(0.0011)
+0.8470***
+(0.0011)
+
+0.0084***
+(0.0007)
+0.0084***
+(0.0007)
+0.0084***
+(0.0007)
+
+0.2080
+(0.2340)
+0.1520
+(0.1980)
+0.0206
+(0.0967)
+
+0.3290***
+(0.0318)
+0.3260***
+(0.0317)
+0.3130***
+(0.0315)
+
+0.6170***
+(0.0048)
+0.6170***
+(0.0048)
+0.6200***
+(0.0048)
+
+0.0174***
+(0.0004)
+0.0173***
+(0.0004)
+0.0172***
+(0.0004)
+
+0.6190***
+(0.0048)
+0.6190***
+(0.0048)
+0.6190***
+(0.0048)
+
+0.0173***
+(0.0004)
+0.0173***
+(0.0004)
+0.0173***
+(0.0004)
+
+0.6170***
+(0.0048)
+0.6190***
+(0.0048)
+0.6170***
+(0.0048)
+
+0.0173***
+(0.0004)
+0.0173***
+(0.0004)
+0.0173***
+(0.0004)
+
+0.6180***
+(0.0048)
+0.6190***
+(0.0048)
+0.6150***
+(0.0048)
+
+0.0173***
+(0.0004)
+0.0173***
+(0.0004)
+0.0175***
+(0.0004)
+
+31 December 2019, first official identification of a pandemic by World Heath Org. (WHO)
+D5−day
+D10−day
+D20−day
+
+0.2770
+(3.7210)
+0.5270
+(2.0540)
+0.7610
+(0.8740)
+
+0.0824***
+(0.0027)
+0.0824***
+(0.0027)
+0.0824***
+(0.0027)
+
+0.8470***
+(0.0011)
+0.8470***
+(0.0011)
+0.8470***
+(0.0011)
+
+0.0084***
+(0.0007)
+0.0084***
+(0.0007)
+0.0084***
+(0.0007)
+
+0.0631
+(0.1990)
+0.0200
+(0.1560)
+0.0131
+(0.1470)
+
+0.3210***
+(0.0316)
+0.3170***
+(0.0315)
+0.3200***
+(0.0316)
+
+23 January 2020, first Chinese deaths, 1 confirmed as per Johns Hopkins Uni CSSE Data
+D5−day
+D10−day
+D20−day
+
+3.6880***
+(1.0590)
+1.7520*
+0.9930)
+1.3930***
+(0.5100)
+
+0.0821***
+(0.0027)
+0.0822***
+(0.0027)
+0.0822***
+(0.0027)
+
+0.8470***
+(0.0011)
+0.8470***
+(0.0011)
+0.8470***
+(0.0011)
+
+0.0085***
+(0.0007)
+0.0085***
+(0.0007)
+0.0085***
+(0.0007)
+
+1.2210***
+(0.2710)
+1.1500***
+(0.4080)
+1.1150***
+(0.0510)
+
+0.3300***
+(0.0318)
+0.3200***
+(0.0316)
+0.3290***
+(0.0317)
+
+15 February 2020, first European deaths, 1 confirmed as per Johns Hopkins Uni CSSE Data
+D5−day
+D10−day
+D20−day
+
+0.2480
+(1.1500)
+0.8770
+(1.7690)
+0.7630***
+(0.3580)
+
+0.0824***
+(0.0027)
+0.0824***
+(0.0027)
+0.0824***
+(0.0027)
+
+0.8470***
+(0.0011)
+0.8470***
+(0.0011)
+0.8470***
+(0.0011)
+
+0.0084***
+(0.0007)
+0.0084***
+(0.0007)
+0.0084***
+(0.0007)
+
+0.3190
+(0.5050)
+0.2980
+(0.2250)
+0.2750***
+(0.1040)
+
+0.3220***
+(0.0317)
+0.3180***
+(0.0316)
+0.3440***
+(0.0322)
+
+2 March 2020, first US deaths, 5 confirmed as per Johns Hopkins Uni CSSE Data
+D5−day
+D10−day
+D20−day
+
+0.5600
+(4.0610)
+0.4220
+(3.3980)
+0.8910***
+(0.3853)
+
+0.0824***
+(0.0027)
+0.0824***
+(0.0027)
+0.0824***
+(0.0027)
+
+0.8470***
+(0.0011)
+0.8470***
+(0.0011)
+0.8470***
+(0.0011)
+
+0.0084***
+(0.0007)
+0.0084***
+(0.0007)
+0.0084***
+(0.0007)
+
+0.5540
+(0.7160)
+0.4177
+(0.3250)
+0.4154***
+(0.1270)
+
+0.3090***
+(0.0313)
+0.3070***
+(0.0313)
+0.3130***
+(0.0314)
+
+0.6200***
+(0.0047)
+0.6210***
+(0.0047)
+0.6190***
+(0.0047)
+
+0.0173***
+(0.0004)
+0.0172***
+(0.0004)
+0.0172***
+(0.0004)
+
+0.0084***
+(0.0007)
+0.0084***
+(0.0007)
+0.0084***
+(0.0007)
+
+-5.0350***
+(0.2616)
+-10.5300***
+(0.4155)
+-9.8290***
+(0.2768)
+
+0.3210***
+(0.0316)
+0.3160***
+(0.0315)
+0.2830***
+(0.0307)
+
+0.6190***
+(0.0048)
+0.6190***
+(0.0048)
+0.6230***
+(0.0047)
+
+0.0173***
+(0.0004)
+0.0173***
+(0.0004)
+0.0172***
+(0.0004)
+
+24 February 2022, start of the Ukraine invasion
+D5−day
+D10−day
+D20−day
+
+-1.9950***
+(0.1617)
+-1.9500***
+(0.1220)
+-3.9730***
+(0.5600)
+
+0.0824***
+(0.0027)
+0.0824***
+(0.0027)
+0.0823***
+(0.0027)
+
+0.8470***
+(0.0011)
+0.8470***
+(0.0011)
+0.8470***
+(0.0011)
+
+P
+Note: The GARCH(1,1) methodology used then has the following specification: st = at + j=1 bj st−j + ϕt + dt + εt
+where st−j represents the lagged value of the analysed sentiment over time, whereas ϕt represents the performance of the
+MSCI World Index, which is used to account for international effects with the methodological structure, while dt
+represents an individual dummy variable that takes a value of one on the dates upon which major crises such as that of the
+COVID-19 pandemic and the illegal invasion of Ukraine by Russian forces occur, and is designed to investigate the specific
+effects of these events upon CBDC. ⋆⋆ As per Corbet et al. [2020], on the 17 November 2019, the first unofficial COVID-19
+case detected was reported by the South China Morning Post. The presented methodology is selected based on the Akaike
+Information Criterion and Bayesian Information Criterion respectively. Results based on all other types of methodological
+analysis and variety of included data are available from the authors upon request. ***, ** and * represent significance at
+the 1%, 5% and 10%, respectively.
+
+29
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+Table 4: The effects of de-pegging incidents on CBDC sentiment
+dt
+
+α1
+
+β1
+
+at
+
+Structure
+
+0.5800***
+(0.2532)
+0.8900***
+(0.3720)
+2.8950***
+(0.9200)
+20.7700***
+(0.5780)
+
+0.0830***
+(0.0027)
+0.0825***
+(0.0027)
+0.0824***
+(0.0027)
+0.0843***
+(0.0027)
+
+0.8460***
+(0.0011)
+0.8470***
+(0.0011)
+0.8470***
+(0.0011)
+0.8420***
+(0.0012)
+
+0.0088***
+(0.0008)
+0.0084***
+(0.0007)
+0.0084***
+(0.0007)
+0.0130***
+(0.0011)
+
+GARCH1-1
+
+0.6400***
+(0.1020)
+0.7280***
+(0.3360)
+2.2640***
+(0.2280)
+8.5950***
+(0.1740)
+
+0.2890***
+(0.0308)
+0.3480***
+(0.0322)
+0.2690***
+(0.0307)
+0.1240***
+(0.0274)
+
+0.6220***
+(0.0048)
+0.6140***
+(0.0048)
+0.6210***
+(0.0047)
+0.6410***
+(0.0046)
+
+0.0172***
+(0.0004)
+0.0174***
+(0.0004)
+0.0171***
+(0.0004)
+0.0166***
+(0.0004)
+
+LM Analysis
+Depeg Q4
+Depeg Q3
+Depeg Q2
+Depeg Q1
+
+GARCH1-1
+GARCH1-1
+GARCH1-1
+
+HI Analysis
+Depeg Q4
+Depeg Q3
+Depeg Q2
+Depeg Q1
+
+GARCH1-1
+GARCH1-1
+GARCH1-1
+GARCH1-1
+
+Note: In the above table, we present the results of the analysis surrounding the effects of the de-pegging of stablecoins
+upon CBDC sentiment. de-pegging refers to a situation where the value of a stablecoin is found to significantly deviate
+from its intended peg, therefore, it can be said to be depegged. To establish an exact definition, this research builds upon
+a number of de-pegging rules, but found that based on a 10% move away from the stated peg to be most representative of
+major events. Results were estimated across a variety of differential rules, however, once de-pegging events beyond 10%
+are analysed, results do not present evidence of significant differentials to those presented above. When a de-pegging event
+is identified, a dummy variable included in the stated
+methodology takes a value of unity. It is then incorporated into a
+P
+methodological structure of the form: st = at + j=1 bj st−j + ϕt + dt + εt where st−j represents the lagged value of the
+analysed sentiment over time, whereas ϕt represents the performance of the MSCI World Index, which is used to account
+for international effects with the methodological structure, while dt represents an individual dummy variable that takes a
+value of one Q1 through Q4 represent the quartile of respective market capitalisation, where Q1 represents the largest
+quartile of stablecoins by size, while Q4 represents the smallest. The presented methodology is selected based on the
+Akaike Information Criterion and Bayesian Information Criterion respectively. Results based on all other types of
+methodological analysis and variety of included data are available from the authors upon request. ***, ** and * represent
+significance at the 1%, 5% and 10%, respectively.
+
+30
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+Table 5: Foreign exchange-driven significant volatility influence on CBDC
+
+31
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+dt
+
+LM Analysis
+α1
+β1
+
+at
+
+dt
+
+HI Analysis
+α1
+β1
+
+at
+
+EUR/USD - D2.5%
+
+1.9040***
+(0.2331)
+
+0.0824***
+(0.0027)
+
+0.8470***
+(0.0011)
+
+0.0084***
+(0.0007)
+
+1.2960***
+(0.1824)
+
+0.3200***
+(0.0316)
+
+0.6190***
+(0.0048)
+
+0.0173***
+(0.0004)
+
+GBP/USD - D2.5%
+
+1.0704***
+(0.3467)
+
+0.0824***
+(0.0027)
+
+0.8470***
+(0.0011)
+
+0.0084***
+(0.0007)
+
+0.8123***
+(0.3817)
+
+0.3180***
+(0.0316)
+
+0.6190***
+(0.0048)
+
+0.0173***
+(0.0004)
+
+JPY/USD - D2.5%
+
+0.2230
+(0.1647)
+
+0.0824***
+(0.0027)
+
+0.8470***
+(0.0011)
+
+0.0084***
+(0.0007)
+
+0.2610
+(0.1800)
+
+0.3190***
+(0.0316)
+
+0.6190***
+(0.0048)
+
+0.0173***
+(0.0004)
+
+CHF/USD - D2.5%
+
+0.3800
+(0.2482)
+
+0.0859***
+(0.0028)
+
+0.8440***
+(0.0012)
+
+0.0105***
+(0.0009)
+
+0.5472
+(0.4385)
+
+0.3190***
+(0.0316)
+
+0.6190***
+(0.0048)
+
+0.0173***
+(0.0004)
+
+AUD/USD - D2.5%
+
+0.6855
+(1.0200)
+
+0.0825***
+(0.0027)
+
+0.8470***
+(0.0011)
+
+0.0086***
+(0.0007)
+
+0.8590
+(1.0124)
+
+0.2530***
+(0.0301)
+
+0.6280***
+(0.0046)
+
+0.0170***
+(0.0004)
+
+CAR/USD - D2.5%
+
+0.1599
+(0.7742)
+
+0.0824***
+(0.0027)
+
+0.8470***
+(0.0011)
+
+0.0084***
+(0.0007)
+
+0.1360
+(1.4060)
+
+0.3170***
+(0.0316)
+
+0.6190***
+(0.0048)
+
+0.0173***
+(0.0004)
+
+NZD/USD⋆⋆ - D2.5%
+
+0.0748
+(0.0980)
+
+0.4400***
+(0.0146)
+
+0.6690***
+(0.0049)
+
+0.0185***
+(0.0009)
+
+0.0705
+(0.5000)
+
+0.3210***
+(0.0316)
+
+0.6180***
+(0.0048)
+
+0.0173***
+(0.0004)
+
+CNY/USD - D2.5%
+
+0.2680
+(2.3477)
+
+0.0824***
+(0.0027)
+
+0.8470***
+(0.0011)
+
+0.0084***
+(0.0007)
+
+0.1580
+(0.1369)
+
+0.3250***
+(0.0317)
+
+0.6180***
+(0.0048)
+
+0.0173***
+(0.0004)
+
+SEK/USD - D2.5%
+
+0.7958
+(1.7420)
+
+0.0826***
+(0.0027)
+
+0.8470***
+(0.0011)
+
+0.0086***
+(0.0007)
+
+0.7453
+(0.6220)
+
+0.3200***
+(0.0316)
+
+0.6180***
+(0.0048)
+
+0.0173***
+(0.0004)
+
+RUB/USD - D2.5%
+
+-1.6070***
+(0.3380)
+
+0.0822***
+(0.0027)
+
+0.8470***
+(0.0011)
+
+0.0084***
+(0.0007)
+
+-0.9016***
+(0.0666)
+
+0.3200***
+(0.0320)
+
+0.6180***
+(0.0048)
+
+0.0173***
+(0.0004)
+
+P
+Note: The GARCH(1,1) methodology used then has the following specification: st = at + j=1 bj st−j + ϕt + dt + εt where st−j represents the lagged value
+of the analysed sentiment over time, whereas ϕt represents the performance of the MSCI World Index, which is used to account for international effects with
+the methodological structure, while dt represents an individual dummy variable that takes a value of one when the stated foreign exchange products are found
+to breach absolute returns of 2.5%, indicating a major daily event. ⋆⋆ The analysis based on NZD/USD was best served by a GARCH(1,2) process as selected
+based on the Akaike Information Criterion and Bayesian Information Criterion respectively. Results based on all other types of methodological analysis and
+variety of included data are available from the authors upon request. ***, ** and * represent significance at the 1%, 5% and 10%, respectively.
+
+Table 6: Stock Market-driven significant volatility influence on CBDC
+LM Analysis
+α1
+β1
+
+dt
+
+at
+
+dt
+
+HI Analysis
+α1
+β1
+
+at
+
+S&P 500 Index - CBOE
+D2.5%
+2.0300***
+0.0823
+(0.6600)
+(0.0027)
+D5.0%
+4.4280***
+0.0825
+(1.0660)
+(0.0027)
+
+0.8470***
+(0.0011)
+0.8470***
+(0.0011)
+
+0.0084***
+(0.0007)
+0.0086***
+(0.0007)
+
+0.9133***
+(0.1090)
+1.6141***
+(0.1240)
+
+0.3070***
+(0.0313)
+0.3110***
+(0.0314)
+
+0.6210***
+(0.0047)
+0.6200***
+(0.0047)
+
+0.0171***
+(0.0004)
+0.0172***
+(0.0004)
+
+FTSE 100 Index
+D2.5%
+0.3354
+(0.9710)
+D5.0%
+0.8055
+(1.5390)
+
+0.0825***
+(0.0027)
+0.0826***
+(0.0027)
+
+0.8470***
+(0.0011)
+0.8470***
+(0.0011)
+
+0.0086***
+(0.0007)
+0.0086***
+(0.0007)
+
+0.5480
+(0.4410)
+0.5560
+(0.4400)
+
+0.3180***
+(0.0315)
+0.3190***
+(0.0316)
+
+0.6190***
+(0.0048)
+0.6190***
+(0.0048)
+
+0.0173***
+(0.0004)
+0.0173***
+(0.0004)
+
+CAC 40 Index
+D2.5%
+0.7110
+(0.6150)
+D5.0%
+0.8015
+(1.4910)
+
+0.0821***
+(0.0027)
+0.0823***
+(0.0027)
+
+0.8470***
+(0.0011)
+0.8470***
+(0.0011)
+
+0.0084***
+(0.0007)
+0.0085***
+(0.0007)
+
+0.5660
+(0.4143)
+0.1490
+(0.1426)
+
+0.3200***
+(0.0316)
+0.3190***
+(0.0316)
+
+0.6190***
+(0.0048)
+0.6190***
+(0.0048)
+
+0.0173***
+(0.0004)
+0.0173***
+(0.0004)
+
+Hang Seng Index
+D2.5%
+0.5691
+(0.5682)
+D5.0%
+0.4280
+(0.3250)
+
+0.0820***
+(0.0072)
+0.0823***
+(0.0027)
+
+0.7920***
+(0.0031)
+0.8470***
+(0.0011)
+
+0.0112***
+(0.0007)
+0.0083***
+(0.0007)
+
+0.4117
+(0.3540)
+0.2330
+(0.5951)
+
+0.3200***
+(0.0316)
+0.3180***
+(0.0316)
+
+0.6190***
+(0.0048)
+0.6190
+(0.0048)
+
+0.0173***
+(0.0004)
+0.0173***
+(0.0004)
+
+S&P/NZX 50 Index
+D2.5%
+0.8820
+(0.7110)
+D5.0%
+0.7347
+(1.8870)
+
+0.0823***
+(0.0027)
+0.0823***
+(0.0027)
+
+0.8470***
+(0.0011)
+0.8470***
+(0.0011)
+
+0.0084***
+(0.0007)
+0.0084***
+(0.0007)
+
+0.1170
+(0.1900)
+0.1520
+(0.1680)
+
+0.3170***
+(0.0316)
+0.3160***
+(0.0315)
+
+0.6190***
+(0.0048)
+0.6190***
+(0.0048)
+
+0.0173***
+(0.0004)
+0.0172***
+(0.0004)
+
+Deutsche Boerse DAX Index
+D2.5%
+0.3923
+0.0824***
+(0.9380)
+(0.0027)
+D5.0%
+0.8361
+0.0824***
+(1.5410)
+(0.0027)
+
+0.8470***
+(0.0011)
+0.8470***
+(0.0011)
+
+0.0086***
+(0.0007)
+0.0085***
+(0.0007)
+
+0.3370
+(0.2600)
+0.1990
+(0.4300)
+
+0.3130***
+(0.0315)
+0.3170***
+(0.0316)
+
+0.6200***
+(0.0048)
+0.6190***
+(0.0048)
+
+0.0172***
+(0.0004)
+0.0173***
+(0.0004)
+
+IBEX 35 Index
+D2.5%
+0.3850
+(0.9110)
+D5.0%
+0.5117
+(1.1370)
+
+0.0825***
+(0.0027)
+0.0825***
+(0.0027)
+
+0.8470***
+(0.0011)
+0.8470***
+(0.0011)
+
+0.0086***
+(0.0007)
+0.0086***
+(0.0007)
+
+0.3840
+(0.2760)
+0.3650
+(0.2770)
+
+0.3170***
+(0.0315)
+0.3160***
+(0.0315)
+
+0.6190***
+(0.0048)
+0.6190***
+(0.0048)
+
+0.0173***
+(0.0004)
+0.0173***
+(0.0004)
+
+FTSE MIB Index
+D2.5%
+0.7630
+(0.5820)
+D5.0%
+1.5050
+(1.1150)
+
+0.0820***
+(0.0027)
+0.0825***
+(0.0027)
+
+0.8470***
+(0.0011)
+0.8470***
+(0.0011)
+
+0.0084***
+(0.0007)
+0.0086***
+(0.0007)
+
+0.1190
+(0.1010)
+0.2930
+(0.1760)
+
+0.3140***
+(0.0315)
+0.3000***
+(0.0311)
+
+0.6200***
+(0.0048)
+0.6220***
+(0.0047)
+
+0.0173***
+(0.0004)
+0.0171***
+(0.0004)
+
+TSX-Toronto Stock Exchange 300 Composite Index
+D2.5%
+0.4850
+0.0825***
+0.8470***
+0.0085***
+(0.8250)
+(0.0027)
+(0.0011)
+(0.0007)
+D5.0%
+0.5310
+0.0825***
+0.8470***
+0.0086***
+(1.0690)
+(0.0027)
+(0.0011)
+(0.0007)
+
+0.1550
+(0.1060)
+0.3030
+(0.1780)
+
+0.3140***
+(0.0315)
+0.3030***
+(0.0312)
+
+0.6200***
+(0.0048)
+0.6210***
+(0.0047)
+
+0.0172***
+(0.0004)
+0.0171***
+(0.0004)
+
+0.2820***
+(0.1170)
+0.4577***
+(0.2175)
+
+0.3190***
+(0.0319)
+0.3190***
+(0.0316)
+
+0.6190***
+(0.0048)
+0.6190***
+(0.0048)
+
+0.0173***
+(0.0004)
+0.0173***
+(0.0004)
+
+Shanghai SE Composite Index
+D2.5%
+5.1030***
+0.2830***
+(1.0700)
+(0.0099)
+D5.0%
+3.1540***
+0.0824***
+(1.0971)
+(0.0027)
+
+0.7430***
+(0.0037)
+0.8470***
+(0.0011)
+
+0.0129***
+(0.0008)
+0.0084***
+(0.0007)
+
+P
+Note: The GARCH(1,1) methodology used then has the following specification: st = at + j=1 bj st−j + ϕt + dt + εt
+where st−j represents the lagged value of the analysed sentiment over time, whereas ϕt represents the performance of the
+MSCI World Index, which is used to account for international effects with the methodological structure, while dt
+represents an individual dummy variable that takes a value of one when the stated foreign exchange products are found to
+breach absolute returns of 2.5% and 5.0% respectively, indicating a major daily event. ⋆⋆ The denoted analyses were best
+served by either a GARCH(1,2), GARCH(2,1), or GARCH(2,2)
+32 process as selected based on the Akaike Information
+Criterion and Bayesian Information Criterion respectively. Results based on other stated countries in Table 1, and all other
+types of methodological analysis and variety of included data are excluded for brevity of presentation, however they are
+each available from the authors upon request. ***, ** and * represent significance at the 1%, 5% and 10%, respectively.
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+Table 7: Volatility derivative-driven significant volatility influence on CBDC
+
+dt
+
+LM Analysis
+α1
+β1
+
+HI Analysis
+α1
+β1
+
+at
+
+dt
+
+0.0084***
+(0.0012)
+0.0024*
+(0.0014)
+
+0.1990***
+(0.0090)
+0.4860***
+(0.0085)
+
+0.3230***
+(0.0348)
+0.3460***
+(0.0350)
+
+0.6170***
+(0.0051)
+0.6140***
+(0.0050)
+
+0.0173***
+(0.0004)
+0.0166***
+(0.0004)
+
+EURO STOXX 50 Volatility (VSTOXX) EUR Price Index
+D5.0%
+0.2040***
+0.0832***
+0.8450***
+0.0107***
+(0.0708)
+(0.0028)
+(0.0012)
+(0.0010)
+D10.0%
+0.3500***
+0.0847***
+0.8440***
+0.0098***
+(0.0630)
+(0.0031)
+(0.0013)
+(0.0011)
+
+0.6420***
+(0.0082)
+0.5850***
+(0.0074)
+
+0.2290***
+(0.0348)
+0.2970***
+(0.0331)
+
+0.6301***
+(0.0051)
+0.6210***
+(0.0049)
+
+0.0153***
+(0.0006)
+0.0162***
+(0.0005)
+
+CBOE Crude Oil Volatility Index
+D5.0%
+0.5840***
+0.1930***
+(0.0298)
+(0.0068)
+D10.0% ⋆⋆
+1.1950***
+0.6270***
+(0.0160)
+(0.0217)
+
+0.7910***
+(0.0025)
+0.6130***
+(0.0056)
+
+0.0049***
+(0.0016)
+0.0204***
+(0.0022)
+
+0.6153***
+(0.0107)
+0.7690***
+(0.0131)
+
+0.3180***
+(0.0321)
+0.3340***
+(0.0319)
+
+0.6190***
+(0.0049)
+0.6160***
+(0.0048)
+
+0.0173***
+(0.0004)
+0.0173***
+(0.0004)
+
+Nikkei Volatility Index
+D5.0%
+0.6186***
+(0.0484)
+D10.0% ⋆⋆
+0.9610***
+(0.0139)
+
+0.0820***
+(0.0028)
+0.4870***
+(0.0196)
+
+0.8470***
+(0.0012)
+0.6510***
+(0.0066)
+
+0.0089***
+(0.0011)
+0.0528***
+(0.0046)
+
+0.2300***
+(0.0114)
+0.4061***
+(0.0114)
+
+0.3280***
+(0.0346)
+0.3090***
+(0.0348)
+
+0.6180***
+(0.0050)
+0.6200***
+(0.0051)
+
+0.0168***
+(0.0005)
+0.0173***
+(0.0004)
+
+CBOE Gold Volatility Index
+D5.0%
+0.3230***
+0.0839***
+(0.0633)
+(0.0029)
+D10.0%
+0.2290***
+0.0838***
+(0.1030)
+(0.0028)
+
+0.8450***
+(0.0012)
+0.8460***
+(0.0011)
+
+0.0089***
+(0.0009)
+0.0086***
+(0.0008)
+
+0.8420***
+(0.0070)
+0.6102***
+(0.0091)
+
+0.3280***
+(0.0339)
+0.3280***
+(0.0327)
+
+0.6170***
+(0.0048)
+0.6170***
+(0.0048)
+
+0.0146***
+(0.0004)
+0.0173***
+(0.0004)
+
+CBOE Emerging Markets ETF Volatility Index
+D5.0% ⋆⋆
+0.4680***
+0.2010***
+0.7870***
+(0.0238)
+(0.0068)
+(0.0024)
+D10.0% ⋆⋆
+0.6280***
+0.2130***
+0.7810***
+(0.0239)
+(0.0073)
+(0.0026)
+
+0.0037***
+(0.0015)
+0.0035***
+(0.0012)
+
+0.5250***
+(0.0073)
+0.5553***
+(0.0091)
+
+0.3120***
+(0.0364)
+0.3000***
+(0.0362)
+
+0.6190***
+(0.0053)
+0.6190***
+(0.0051)
+
+0.0170***
+(0.0004)
+0.0168***
+(0.0004)
+
+The VVIX Index
+D5.0% ⋆⋆
+0.5090***
+(0.0303)
+D10.0% ⋆⋆
+0.6090***
+(0.0350)
+
+0.1980***
+(0.0066)
+0.2040***
+(0.0068)
+
+0.7870***
+(0.0024)
+0.7850***
+(0.0024)
+
+0.0057***
+(0.0021)
+0.0065***
+(0.0015)
+
+0.5156***
+(0.0116)
+0.5438***
+(0.0095)
+
+0.3690***
+(0.0344)
+0.3020***
+(0.0333)
+
+0.6110***
+(0.0051)
+0.6080***
+(0.0048)
+
+0.0173***
+(0.0004)
+0.0169***
+(0.0004)
+
+The V-VSTOXX Index
+D5.0% ⋆⋆
+0.5930***
+(0.0271)
+D10.0%
+0.6064***
+(0.0752)
+
+0.2150***
+(0.0077)
+0.0825***
+(0.0028)
+
+0.7790***
+(0.0030)
+0.8470***
+(0.0011)
+
+0.0039***
+(0.0020)
+0.0088***
+(0.0007)
+
+0.6267***
+(0.0056)
+0.6139***
+(0.0106)
+
+0.3280***
+(0.0313)
+0.3170***
+(0.0323)
+
+0.6190***
+(0.0047)
+0.6200***
+(0.0049)
+
+0.0151***
+(0.0004)
+0.0171***
+(0.0004)
+
+CBOE Market Volatility Index
+D5.0%
+0.3380***
+0.0848***
+(0.0597)
+(0.0029)
+⋆⋆
+0.5860***
+0.2150***
+D10.0%
+(0.0214)
+(0.0068)
+
+0.8450***
+(0.0012)
+0.7800***
+(0.0024)
+
+at
+
+P
+Note: The GARCH(1,1) methodology used then has the following specification: st = at + j=1 bj st−j + ϕt + dt + εt
+where st−j represents the lagged value of the analysed sentiment over time, whereas ϕt represents the performance of the
+MSCI World Index, which is used to account for international effects with the methodological structure, while dt
+represents an individual dummy variable that takes a value of one when the stated foreign exchange products are found to
+breach absolute returns of 5.0% and 10.0% respectively, indicating a major daily event. ⋆⋆ The denoted analyses were best
+served by either a GARCH(1,2), GARCH(2,1), or GARCH(2,2) process as selected based on the Akaike Information
+Criterion and Bayesian Information Criterion respectively. Results based on all other types of methodological analysis and
+variety of included data are available from the authors upon request. ***, ** and * represent significance at the 1%, 5%
+and 10%, respectively.
+
+33
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+Table 8: Cryptocurrency-driven significant volatility influence on CBDC
+
+dt
+
+LM Analysis
+α1
+β1
+
+at
+
+dt
+
+HI Analysis
+α1
+β1
+
+at
+
+Bitcoin (BTC)
+D5.0%
+0.0844***
+(0.0322)
+D10.0%
+0.3630***
+(0.1160)
+
+0.0824***
+(0.0027)
+0.0826***
+(0.0027)
+
+0.8470***
+(0.0011)
+0.8470***
+(0.0011)
+
+0.0085***
+(0.0008)
+0.0082***
+(0.0008)
+
+0.0517***
+(0.0056)
+0.2827***
+(0.0069)
+
+0.3770***
+(0.0352)
+0.3440***
+(0.0368)
+
+0.6050***
+(0.0051)
+0.5870***
+(0.0051)
+
+0.0161***
+(0.0004)
+0.0157***
+(0.0004)
+
+Ethereum (ETH)
+D5.0%
+0.0767***
+(0.0073)
+D10.0%
+0.0459***
+(0.0093)
+
+0.0824***
+(0.0027)
+0.0823***
+(0.0027)
+
+0.8470***
+(0.0011)
+0.8470***
+(0.0011)
+
+0.0089***
+(0.0008)
+0.0087***
+(0.0007)
+
+0.0520***
+(0.0066)
+0.0570***
+(0.0066)
+
+0.2850***
+(0.0297)
+0.3330***
+(0.0303)
+
+0.6230***
+(0.0046)
+0.6160***
+(0.0046)
+
+0.0160***
+(0.0005)
+0.0161***
+(0.0004)
+
+BNB (BNB)
+D5.0%
+0.0911***
+(0.0148)
+D10.0%
+0.0968***
+(0.0169)
+
+0.0822***
+(0.0027)
+0.0823***
+(0.0027)
+
+0.8470***
+(0.0011)
+0.8470***
+(0.0011)
+
+0.0087***
+(0.0008)
+0.0085***
+(0.0007)
+
+0.0147***
+(0.0056)
+0.0230***
+(0.0065)
+
+0.3370***
+(0.0326)
+0.3340***
+(0.0333)
+
+0.6160***
+(0.0049)
+0.6170***
+(0.0049)
+
+0.0173***
+(0.0004)
+0.0172***
+(0.0004)
+
+Ripple (XRP)
+D5.0%
+0.0844***
+(0.0171)
+D10.0%
+0.0772***
+(0.0183)
+
+0.0818***
+(0.0026)
+0.0819***
+(0.0027)
+
+0.8470***
+(0.0011)
+0.8470***
+(0.0011)
+
+0.0083***
+(0.0008)
+0.0084***
+(0.0007)
+
+0.0150***
+(0.0061)
+0.0279***
+(0.0096)
+
+0.3320***
+(0.0324)
+0.3730***
+(0.0331)
+
+0.6180***
+(0.0048)
+0.6120***
+(0.0049)
+
+0.0169***
+(0.0004)
+0.0167***
+(0.0005)
+
+Cardano (ADA)
+D5.0%
+0.2350***
+(0.0399)
+D10.0%
+0.2860***
+(0.0401)
+
+0.0827***
+(0.0028)
+0.0836***
+(0.0027)
+
+0.8470***
+(0.0012)
+0.8470***
+(0.0011)
+
+0.0083***
+(0.0008)
+0.0074***
+(0.0008)
+
+0.0544***
+(0.0059)
+0.0404***
+(0.0062)
+
+0.3150***
+(0.0317)
+0.3160***
+(0.0326)
+
+0.6200***
+(0.0048)
+0.6210***
+(0.0049)
+
+0.0172***
+(0.0004)
+0.0164***
+(0.0004)
+
+Solano (SOL)
+D5.0%
+0.2749***
+(0.1040)
+D10.0%
+0.2950***
+(0.1198)
+
+0.0811***
+(0.0026)
+0.0820***
+(0.0027)
+
+0.8480***
+(0.0011)
+0.8470***
+(0.0011)
+
+0.0085***
+(0.0007)
+0.0089***
+(0.0008)
+
+0.3110***
+(0.0223)
+0.3300***
+(0.0237)
+
+0.3410***
+(0.0359)
+0.4290***
+(0.0344)
+
+0.5410***
+(0.0048)
+0.5580***
+(0.0049)
+
+0.0208***
+(0.0005)
+0.0200***
+(0.0005)
+
+Dogecoin (DOGE)
+D5.0% ⋆⋆
+0.0815***
+(0.0273)
+⋆⋆
+D10.0%
+0.0750***
+(0.0285)
+
+0.0822***
+(0.0027)
+0.0820***
+(0.0027)
+
+0.8470***
+(0.0011)
+0.8470***
+(0.0011)
+
+0.0083***
+(0.0008)
+0.0086***
+(0.0007)
+
+0.1460***
+(0.0070)
+0.1010***
+(0.0058)
+
+0.3640***
+(0.0343)
+0.2120***
+(0.0314)
+
+0.6130***
+(0.0050)
+0.6340***
+(0.0048)
+
+0.0171***
+(0.0004)
+0.0133***
+(0.0004)
+
+Polkadot (DOT)
+D5.0%
+0.2371
+(0.2030)
+D10.0%
+0.2759
+(0.2320)
+
+0.0839***
+(0.0027)
+0.0860***
+(0.0029)
+
+0.8440***
+(0.0012)
+0.8420***
+(0.0013)
+
+0.0123***
+(0.0010)
+0.0132***
+(0.0011)
+
+0.1605
+(0.1490)
+0.1792
+(0.1820)
+
+0.5930***
+(0.0702)
+0.6280***
+(0.0715)
+
+0.3460***
+(0.0062)
+0.3140***
+(0.0056)
+
+0.0248***
+(0.0006)
+0.0261***
+(0.0006)
+
+Shibu Inu (SHIB)
+D5.0%
+0.2732
+(0.8430)
+D10.0%
+0.2673
+(1.0060)
+
+0.0829***
+(0.0027)
+0.0838***
+(0.0027)
+
+0.8460***
+(0.0011)
+0.8450***
+(0.0011)
+
+0.0098***
+(0.0008)
+0.0097***
+(0.0008)
+
+0.1123
+(0.1150)
+0.1130
+(0.1130)
+
+0.3110***
+(0.0323)
+0.5080***
+(0.0740)
+
+0.6110***
+(0.0049)
+0.3390***
+(0.0063)
+
+0.0176***
+(0.0004)
+0.0301***
+(0.0007)
+
+Polygon (MATIC)
+D5.0%
+1.0340
+(0.8910)
+D10.0%
+0.9430
+(1.1400)
+
+0.0817***
+(0.0029)
+0.0823***
+(0.0027)
+
+0.8470***
+(0.0011)
+0.8470***
+(0.0011)
+
+0.0083***
+(0.0007)
+0.0086***
+(0.0007)
+
+0.1380
+(0.0821)
+0.0978
+(0.0887)
+
+0.3270***
+(0.0342)
+0.3790***
+(0.0334)
+
+0.5850***
+(0.0049)
+0.5900***
+(0.0048)
+
+0.0165***
+(0.0004)
+0.0164***
+(0.0004)
+
+P
+Note: The GARCH(1,1) methodology used then has the following specification: st = at + j=1 bj st−j + ϕt + dt + εt
+where st−j represents the lagged value of the analysed sentiment over time, whereas ϕt represents the performance of the
+MSCI World Index, which is used to account for international effects with the methodological structure, while dt
+represents an individual dummy variable that takes a value of one when the stated foreign exchange products are found to
+breach absolute returns of 5.0% and 10.0% respectively, indicating a major daily event. ⋆⋆ The denoted analyses were best
+served by either a GARCH(1,2), GARCH(2,1), or GARCH(2,2)
+34 process as selected based on the Akaike Information
+Criterion and Bayesian Information Criterion respectively. Results based on all other types of methodological analysis and
+variety of included data are available from the authors upon request. ***, ** and * represent significance at the 1%, 5%
+and 10%, respectively.
+
+Electronic copy available at: https://ssrn.com/abstract=4205402
+
+

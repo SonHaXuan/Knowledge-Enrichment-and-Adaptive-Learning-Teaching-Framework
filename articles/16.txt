@@ -1,0 +1,140 @@
+mathematics
+Editorial
+
+Mathematics, Cryptocurrencies and Blockchain Technology
+José Luis Miralles-Quirós *
+
+and María Mar Miralles-Quirós
+Faculty of Economic and Business Sciences, University of Extremadura, 06006 Badajoz, Spain;
+marmiralles@unex.es
+* Correspondence: miralles@unex.es
+
+Citation: Miralles-Quirós, J.L.;
+Miralles-Quirós, M.M. Mathematics,
+Cryptocurrencies and Blockchain
+Technology. Mathematics 2022, 10,
+2038. https://doi.org/10.3390/
+math10122038
+Received: 8 June 2022
+Accepted: 10 June 2022
+Published: 12 June 2022
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional affiliations.
+
+Copyright: © 2022 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+
+This book contains the successful invited submissions [1–9] to a Special Issue of Mathematics on the subject area of “Mathematics, Cryptocurrencies and Blockchain Technology”.
+Blockchain is the innovative database technology that is at the heart of nearly all
+cryptocurrencies and has already significantly changed the future of money, finance, supply
+chain management and more. In this Special Issue, we focus on the pricing mathematics
+underlying mathematical and computational methods that can be useful tools for prediction
+or for estimating the reasonable value of something.
+This Special Issue includes the most important studies of the Cryptocurrencies and
+Blockchain Technologies, such as the analysis of the Bitcoin price dynamics, the macroeconomic consequences of introducing Central Bank Digital Currencies (CBDC), and concerns
+about sustainable development or the Blockchain token economy.
+Chen and Huang [1] focus on the issue of the fact that cryptocurrencies involve
+significant jump risks and conduct an in-depth investigation of hedging strategies. They
+find that the inclusion of jumps in returns and volatilities is significant in the historical time
+series of Bitcoin prices. In a similar order, considering Blockchain technology’s potential to
+revolutionize stock trading, Cohen [2] proposes a trading system based on second order
+stochastic dominance to different cryptocurrencies. He finds that the system is able to
+predict long trends but also to outperform the Buy and Hold strategy in most cases.
+The COVID-19 pandemic and its consequences were also discussed in this Special
+Issue. Boguslavsky et al. [3] state, after performing gallop polls, that one of the main
+reasons for the significant rise in cryptocurrencies is that they are an “epidemiologically
+safe” means of transaction.
+Pinto-Gutiérrez et al. [4] and Guo et al. [5] focus their studies on Tokens and NonFungible Tokens (NFTs), which offer to their holders a medium to purchase various goods,
+services or privileges. The former show that Bitcoin returns can predict the following
+week’s NFT growth after using different vector autoregressive models, while the latter
+propose a “dual incentive value-based” paradigm to improve profitability in Blockchain
+token economy. For that reason, they develop a business study case for improving merchants’ environmental states and show that merchants obtain greater profits following the
+proposed paradigm.
+As mentioned above, this Special Issue also pays attention to one of humanity’s
+greatest problems, the development of a sustainable world. Syed et al. [6] focus on the
+relationship between green bonds and Bitcoin and find that positive shocks of Bitcoins exert
+a positive influence on green bonds. There is also a space for machine-learning models
+and their use to discriminate between malicious and non-malicious tokens in different
+scenarios, such as the paper of Mazorra et al. [7], but also for predicting Bitcoin’s prices, as
+Ye et al. [8] propose.
+Finally, we should point out the study of Syarifudding and Bakhtiar [9] who develop a
+medium-sized dynamic stochastic general equilibrium model to assess the macroeconomic
+consequences of introducing interest-bearing CBDC, finding that they offer a significant
+number of macroeconomic benefits.
+
+Mathematics 2022, 10, 2038. https://doi.org/10.3390/math10122038
+
+https://www.mdpi.com/journal/mathematics
+
+Mathematics 2022, 10, 2038
+
+2 of 2
+
+The response to our call had the following statistics:
+Submissions (12);
+Publications (9);
+Rejections (3);
+Article types: Research Articles (9);
+Authors’ geographical distribution (published papers):
+China (3);
+Spain (2);
+Chile (1);
+Colombia (1);
+India (1);
+Indonesia (1);
+Israel (1);
+Pakistan (1);
+Russia (1);
+Taiwan (1).
+We found the edition and selections of papers for this book very inspiring and rewarding. We thank the editorial staff and reviewers for their efforts and help during
+the process.
+Author Contributions: This work is an outcome of the joint efforts of the two authors. Both authors
+conceived the research idea, reviewed the related literature and contributed to the interpretation of
+the results. They also wrote the manuscript and thoroughly read and approved the final version. All
+authors have read and agreed to the published version of the manuscript.
+Funding: The authors gratefully acknowledge support from the Junta de Extremadura (Counselling
+of Economy, Science and Digital Agenda) and the European Regional Development Fund (“A way
+of doing Europe”) under the VI Action Plan for Research and Development 2017/20 through grant
+GR21019.
+Data Availability Statement: Not applicable.
+Conflicts of Interest: The authors declare no conflict of interest.
+
+References
+1.
+2.
+3.
+4.
+5.
+6.
+
+7.
+8.
+9.
+
+Chen, K.; Huang, Y. Detecting Jump Risk and Jump-Diffusion Model for Bitcoin Options Pricing and Hedging. Mathematics 2021,
+9, 2567. [CrossRef]
+Cohen, G. Trading Cryptocurrencies Using Second Order Stochastic Dominance. Mathematics 2021, 9, 2861. [CrossRef]
+Boguslavsky, D.; Sharova, N.; Sharov, K. Cryptocurrency as Epidemiologically Safe Means of Transactions: Diminishing Risk of
+SARS-CoV-2 Spread. Mathematics 2021, 9, 3263. [CrossRef]
+Pinto-Gutiérrez, C.; Gaitán, S.; Jaramillo, D.; Velasquez, S. The NFT Hype: What Draws Attention to Non-Fungible Tokens?
+Mathematics 2022, 10, 335. [CrossRef]
+Guo, C.; Zhang, P.; Lin, B.; Song, J. A Dual Incentive Value-Based Paradigm for Improving the Business Market Profitability in
+Blockchain Token Economy. Mathematics 2022, 10, 439. [CrossRef]
+Syed, A.; Ahmed, F.; Kamal, M.; Ullah, A.; Ramos-Requena, J. Is There an Asymmetric Relationship between Economic Policy
+Uncertainty, Cryptocurrencies, and Global Green Bonds? Evidence from the United States of America. Mathematics 2022, 10, 720.
+[CrossRef]
+Mazorra, B.; Adan, V.; Daza, V. Do Not Rug on Me: Leveraging Machine Learning Techniques for Automated Scam Detection.
+Mathematics 2022, 10, 949. [CrossRef]
+Ye, Z.; Wu, Y.; Chen, H.; Pan, Y.; Jiang, Q. A Stacking Ensemble Deep Learning Model for Bitcoin Price Prediction Using Twitter
+Comments on Bitcoin. Mathematics 2022, 10, 1307. [CrossRef]
+Syarifuddin, F.; Bakhtiar, T. The Macroeconomic Effects of an Interest-Bearing CBDC: A DSGE Model. Mathematics 2022, 10, 1671.
+[CrossRef]
+
+

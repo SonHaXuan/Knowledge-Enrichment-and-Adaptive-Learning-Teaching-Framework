@@ -1,0 +1,1584 @@
+Rapid #: -20757189
+CROSS REF ID:
+
+6233948
+
+LENDER:
+
+LQ0 (Queensland University of Technology) :: Main Library
+
+BORROWER:
+
+HUL (Harvard University) :: Widener Library
+
+TYPE:
+
+Book Chapter
+
+BOOK TITLE:
+
+Blockchain Technologies for Sustainable Development in Smart Cities
+
+USER BOOK TITLE:
+
+Blockchain Technologies for Sustainable Development in Smart Cities
+
+CHAPTER TITLE:
+
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+BOOK AUTHOR:
+
+Swarnalatha, P
+
+EDITION:
+VOLUME:
+PUBLISHER:
+
+IGI Global
+
+YEAR:
+
+2022
+
+PAGES:
+
+155-186
+
+ISBN:
+
+9781799892748
+
+LCCN:
+OCLC #:
+
+Processed by RapidX:
+
+5/11/2023 5:26:58 PM
+
+This material may be protected by copyright law (Copyright Act 1968 (Cth))
+
+155
+
+Chapter 9
+
+The Role of Blockchain
+Technology in Harnessing
+the Sustainability of
+Chinese Digital Finance
+Poshan Yu
+https://orcid.org/0000-0003-1069-3675
+Soochow University, China & Krirk University, Thailand
+Shengyuan Lu
+Independent Researcher, China
+Emanuela Hanes
+Independent Researcher, Austria
+Yijun Chen
+Independent Researcher, China
+
+ABSTRACT
+In recent years, blockchain, with its features of decentralization, security, reliability, transparency of
+information, and low maintenance cost, has been applied in the fintech industry in more and more cases
+in China. The maturity of blockchain-enabled technology has improved. This is expected to rebuild the
+underlying internet technology or will trigger a new round of development and innovation in the Chinese
+fintech industry. This chapter aims to investigate the current application of blockchain technology in
+China’s fintech industry by analyzing case studies. Through the comparison and analysis of the cases in
+the fintech industry, this chapter attempts to examine how and whether digital transformation and other
+innovative technologies can drive new business models and create valuable experiences for consumers
+and/or firms in China’s fintech industry. A variety of challenges and opportunities is analyzed to draw
+a blueprint for Chinese blockchain development. Finally, this chapter also provides some recommendations to the government.
+DOI: 10.4018/978-1-7998-9274-8.ch009
+
+Copyright © 2022, IGI Global. Copying or distributing in print or electronic forms without written permission of IGI Global is prohibited.
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+INTRODUCTION
+Blockchain technology use in China has seen substantial institutional and policy change from 2013 to
+2021. Under the unique economic environment with Chinese characteristics, the institutional setting
+designed by the Chinese government is used as a unique tool to guide the development of digital finance
+integrating with blockchain-enabled technology.
+This study aims to interpret the interlinked relationships between the policy changes associated with
+the promotion of blockchain-enabled technology and the development of digital finance in China from
+an institutional perspective. Case studies of successful and unsuccessful applications in China are used
+to analyze why some firms and projects can keep running stably and expand rapidly while some applications ended in failure. By analyzing the formation of blockchain and digital finance policies, this
+chapter helps the readers better capture the future dynamics of China’s digital finance development and
+understand the interrelated reactions of various stakeholders in the industry.
+Blockchain technology has attracted much attention not only in people’s work and lifestyle (Guo et
+al., 2021) and academia, but also in finance and industry (Beck & Müller-Bloch, 2017). The Ministry
+of Industry and Information Technology of the People’s Republic of China (2018) posted a White Paper on China’s Blockchain Industry stating that the various characteristics of blockchain technology
+provide trust mechanisms and have the potential to change the financial infrastructure. Different kinds
+of financial assets, such as equity, bonds, bills, warehouse receipts, fund shares, etc., can be integrated
+into the blockchain ledger and become digital assets on the chain, which can be stored, transferred, and
+traded on the blockchain.
+The development of blockchain technology can be broken down into three phases: Blockchain 1.0,
+2.0 & 3.0 (Swan, 2015). When it comes to the situation in China, the development nowadays is at the
+transitory stage from Blockchain 2.0 to Blockchain 3.0. The Chinese government and most enterprises
+are in the Blockchain 2.0 stage of rapid development and capacity expansion. Therefore, this paper mainly
+introduces the background of the Blockchain 2.0 stage of Chinese blockchain technology application in
+the financial sector and its economic impacts on Chinese business. This stage marks the relative application of blockchain technology for other extensive financial applications and the advanced use of more
+than just simple cash or digital payments and transactions (Albayati et al., 2020). This entails advantages
+and potential for the deeper application in financial smart contracts, capital markets, and so on.
+As the industrial blockchain has been steadily promoted, and the value of the blockchain-enabled
+industry has been fully verified, one can describe it with the equation: Industrial blockchain 2.0 = industrial chain + asset chain + data chain + technology convergence +CBDC (central bank digital currency)
+application (Ning, 2021). It means that on the one hand, at present blockchain technology together with
+5G, artificial intelligence (AI), cloud computing and other cutting-edge technologies are accelerating
+the deep integration of industrial development, thus becoming a key cornerstone of the digital economy
+from the perspective of the industrial chain. On the other hand, it shows that China is presently at the
+Blockchain 2.0 stage, mainly in relation to the financial sector in China.
+The largest difference between Blockchain 1.0 and 2.0 should be smart contracts. Because of the
+feature of the blockchain technology, smart contracts are a safe and secure technology which can be
+adopted to stimulate innovation in many kinds of industries, such as supply-chain management, digital
+healthcare management, finance, and business (Abhinav et al., 2021).
+For the current Chinese stage, Blockchain 2.0, the main focus is on the financial sector. As the
+combination of blockchain technology and the financial industry is bound to create more and more
+156
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+business models, service scenarios, business processes and financial products, it has deep impact on the
+development of financial markets, financial institutions, financial services, and financial formats. As
+the smart contract is a feature of blockchain technology (Varfolomeev et al., 2021), it can be applied to
+all transactions involving resources, movement of finance, material and people. This safe and reliable
+smart contract feature will be helpful for effective tracking, visibility, security enhancement and cost
+reduction in the overall business process (Abhinav et al., 2021).
+Due to the disintermediation, secure encryption, the transparent and immutable nature of the distributed ledger with blockchain technology, the application of blockchain technology in China at the present
+stage is mainly optimizing the original mechanism from the perspective of cost saving and efficiency
+improvement. This coincides with the goal of transaction cost economics. The significant advantage
+of reducing transaction costs has been gradually reflected in financial services, supply chain management, and the Internet of Things, with financial services being the most significant. The application of
+blockchain technology in China brings cost reduction for market transactions and a material impact on
+corporate performance in a highly emotionally volatile market (Cioroianu et al., 2021).
+Benefiting from the Chinese government’s strong support via beneficial policies and laws as well
+as the massive capital investment from Chinese private equity investors, China has been one of the
+pacemakers in the global blockchain application field. So it is significant to do deep researches to find
+out the proved advantages that can be learned from to harness the sustainability of digital finance, since
+there is a high possibility for China to be the first to enter the stage of Blockchain 3.0 in the whole world.
+Through the study of China’s policy changes and the analysis of success and failure cases in the
+corresponding period of policy promulgation, this paper gives some specific and feasible suggestions
+for countries like China to develop policy oriented blockchain application. This paper studies previous
+literatures in the West and China and finds that there is almost no literature to analyze China’s blockchain
+application from the perspective of policy change, which is an academic gap that this paper can fill. Few
+papers systematically analyzed the reason for the success of the mature and typical applications in China.
+The paper is to fill in the blanks in this field. The paper is to help the countries or companies who want
+to use Chinese experience for example understand faster of the characteristics, impact of institutional
+change, and specific blockchain applications in China.
+This chapter introduces the characteristics of China’s blockchain-enabled technology in the financial
+sector, then proceeds to the roles of government in assisting Chinese businesses in adopting blockchain
+technology via institutional setting. By giving an overview of the relevant policies and their impact on
+Blockchain technology, the institutional shaping by the Chinese government is shown. Through the
+comparison and analysis of the cases in the fintech industry, this chapter then examines how and whether
+digital transformation and other innovative technologies can drive new business models and create value
+experiences for consumers and/or firms in China’s fintech industry. Then a variety of challenges and
+opportunities is analyzed to draw a blueprint for Chinese blockchain development. The chapter ends by
+providing some recommendations to the government for optimal Blockchain implementation.
+
+CHARACTERISTICS OF CHINA’S BLOCKCHAIN-ENABLED
+TECHNOLOGY IN THE FINANCIAL SECTOR
+With the Chinese socialist market economic system continuously developing and gradually reaching
+maturity, some transaction modes and methods of the traditional financial model need to be improved
+157
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+and optimized. The emergence and development of blockchain technology has a strong financial application background. Therefore, Chinese blockchain planning and constructing work closely focuses on
+many financial applications such as digital currency, smart contracts, financial transactions, and other
+financial areas with broad development prospects (Tang, 2019).
+As shown in Figure 1 below, the distribution of blockchain services in China was highest in sectors
+such as Government affairs and public services, in finance, logistics and supply chain. The chart below
+also clearly shows the rapid development of fintech in financial institutes and is another strong evidence
+that the current focus of Blockchain application in China is on the financial sector.
+Figure 1. Proportion of firms of blockchain application by industry segment in China in 2021
+Data source: 2021 China industry blockchain ecological map
+
+Blockchain is the result of a P2P network distributed structure. Network accounting, smart contracts
+and other technologies were developed on this basis. Therefore, blockchain technology has a certain
+technical and application foundation. The application forms of blockchain technology include public
+chains, private chains and alliance chains (Sanka et al., 2021). The important premise of blockchain
+technology application is a broad industry consensus and the overall layout (Rong & Yu, 2020). Commercial banks’ compliance, legal, security and other departments still have strong doubts about the
+large-scale application of blockchain technology. At present, the application of this technology in the
+field of commercial banks is mainly in corporate asset and intermediate business.
+First, blockchain technology in commercial banks is mainly applied for corporate business. The application for retail business faces more difficulties compared to corporate business. The use of blockchain
+technology can give more security and transparency for consumers when it comes to the application
+of retail business: By optimizing logistics costs, facilitating freight tracking, building customer trust
+and earning premium by tracking all supply chain data on the product and preventing counterfeiting by
+
+158
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+retailers providing customers with information about the origin of their products at every step of the
+supply chain. Nevertheless, Mu (2020) and other research members in Blockchain Research Group of
+Digital Currency Research Institute of the People’s Bank of China said that Chinese current blockchain
+technologies are not suitable for high concurrency scenarios such as traditional retail payments on the
+account of many deficiencies in the initial stage of blockchain development in the finance sector in
+China. For instance, the cost of data synchronization and verification increase and system processing
+performance decreases with growing numbers of participating nodes.
+In addition, in terms of functions, the decentralized feature of blockchain technology creates conflict
+with the centralization requirements of China’s central bank. The Chinese government and law stipulate
+that payment services provided by the central bank cannot be separated from centralized account arrangements and must be built on a centralized system. The decentralized feature of blockchain technology conflicts with the promulgation of Measures for the Administration of Online Payment Business of
+Non-Bank Payment Institutions (2015) and the establishment of The Payment and Clearing Association
+of China Working Committee on Bank Card Based Payment, Online Payment Application and Prepaid
+Cards in Beijing (2011). Therefore, the application of retail business faces many difficulties, and the
+current focus is on the corporate business (Mu et al., 2020). It is not recommended to transform the
+traditional payment system into one based on blockchain at present.
+Second, blockchain technology has a large application rate in the field of asset business. Applications in asset business include cross-border trade financing and supply chain financing (Zhang & Li,
+2020). As is generally accepted in the industry, the cost for credit in the financial sector is relatively
+high. Specifically, the cost and difficulty of building mutual trust are high. Blockchain can not only solve
+the problem of trust in the financial system, but also reconstruct the order of financial business with its
+characteristics of reliability, real-time, fault tolerance and traceability (Liu, S.P., 2019). For instance, the
+securities industry, can achieve peer-to-peer securities issuance and trading with the help of blockchain
+and thus greatly simplify the process.
+Figure 2 and Figure 3 show the monthly blockchain transaction closing prices and volumes from
+2016 to 2021. As the first graph illustrates, the closing price was 915.5577 Yuan in February 29, 2016
+at the beginning of Blockchain listing on the Chinese stock market. Because of the rapid development
+of blockchain in the Chinese financial sector, the stock price was also increasing fast in the first quarter
+after it was issued. And when the investment fever died down, the closing price started falling for more
+than one year until the end of 2018. Then the closing price of Blockchain began to recover and with the
+introduction of relevant policies, it gradually reached stability and provided some small opportunities
+with its closing price of 887.5872 Yuan by August 29, 2021.
+
+159
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+Figure 2. Blockchain transaction closing price (monthly) until August 29, 2021
+
+Data source: Eastmoney Choice database
+
+There is a clear rising trend of Blockchain as can be seen in Figure 2. From the monthly volume graph,
+the blockchain transaction volume fluctuated between 2016 and 2019, when the Chinese government
+and enterprises tried to receive and develop the relative applications and policies. After 2019, Chinese
+Blockchain transaction started to rise and the transaction volume reached up to 2,974,392 million Yuan
+in July of 2020. The explosive growth of blockchain technology applications in China not only stimulates the development of many entity industries, but also promotes the blockchain technology itself in
+the securities industry sector.
+Figure 3. Blockchain transaction volume (monthly) until August 29, 2021
+Data source: Eastmoney Choice database
+
+160
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+With the continuous development and progress as well as its integration with other financial technologies, the blockchain technology will gradually adapt to a variety of large-scale financial scenarios.
+Third, blockchain technology helps commercial banks reduce costs and increase efficiency of intermediary business. Blockchain technology will help improve the efficiency of cross-border payment
+business. To be specific, the banking sector can effectively reduce the risk of cross-border payment
+and settlement and save payment costs through blockchain technology. The application of blockchain
+technology has improved the efficiency of financial transactions and settlements and reduced the cost
+of financial regulation.
+The industrial development Blue Book “Regulatory Technology Blue Book: China Regulatory Technology Development Report (2020)” (Beijing Blockchain Technology Application Association, 2020)
+states that the essence of fintech is finance. The integration of technology and finance has not changed
+the essence of financial inter-temporal transactions and credit exchange. Risks existing in the financial
+industry will be reflected in the fintech field and new risk characteristics will evolve.
+Since the financial crisis of 2008, with the technological revolution of financial regulation, and as
+regulatory requirements continue to rise, business models based on regulatory requirements needed adjustment and great advances have been made in financial technology innovation. Following the background
+of the financial crisis in 2008, the nature of financial markets, services, and institutions is changing owing to new entrants’ disruptive and innovating technological practices (Gomber et al., 2017). Because of
+these, the fintech generated with the change of global drivers of the value chain continuously stimulates
+the business modes to adapt to the change of the economy in the future (Thurber, 2012).
+As the financial services industry evolves and fintech constantly emerges and develops, the application
+of RegTech in China will have the potential for beneficial outcomes for consumers and public welfare as
+well as for regulatory and supervisory gains in the financial sector (Anagnostopoulos, 2018). RegTech is
+a subclass of the financial technology sector that focuses on technologies that may facilitate the delivery
+of regulatory requirements more effectively and effectively than existing capabilities. The rapid increase
+of fintech motivates the demand of RegTech (Ernst & Young, 2016) and at the same time it can help
+regulators better enforce prudential supervision of its financial institutions in order to strengthen the
+application of blockchain technology in financial regulation in China.
+The logic of blockchain technology applied in the field of financial scene and application has been
+relatively clear. The relevant applications are being gradually and thoroughly explored, constantly adding scenarios and practice cases. With the support of policies, blockchain has been attracting attention
+and welcomed in a period of rapid development (Xiao, 2018).
+In terms of application scenarios, multiple application scenarios are explored and closely combined
+with business requirements in the Chinese financial sector. The focus is on meeting potential market
+needs and addressing financial industry pain points. Blockchain application scenarios mainly involve
+supply chain finance, trade finance, insurance technology, cross-border payment, asset securitization and
+other sectors, with respective proportion of 32.6%, 11.2%, 11.2%, 7.9%, 6.7% and 30.4%.
+
+161
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+Figure 4. Chinese financial applications, 2020
+
+Data source: Research Report on Blockchain Financial Application and Development in China (2020)
+
+As shown in Fig. 4 above, the main application scenario of blockchain technology in Chinese financial
+field is supply chain finance. The application proportion of this scenario reaches 33%, which is the highest
+proportion. And no application scenario except supply chain finance accounts for more than 12%. This
+shows that the current supply chain application is well established and that other scenarios still need to
+be developed. This phenomenon may be due to the good performance of supply chain finance (SCF) in
+utilizing for capital optimization and cost reduction in many industries (Yan et al., 2016), so that such
+an application of blockchain technology is the hot spot of the financial field in China.
+Apart from supply chain finance, only trade finance and insurance technology accounted for more
+than 10% of the application scenarios, and both of them accounted for 11.2% of the application scenarios.
+Applications accounting for more than 5% included cross-border payments (7.9%) and asset securitization (6.7%).
+
+THE ROLES OF GOVERNMENT IN ASSISTING CHINESE BUSINESSES IN
+ADOPTING BLOCKCHAIN TECHNOLOGY VIA INSTITUTIONAL SETTING
+Institutional settings influence economic development. As shown in Yu et al. (2018), “Institutions can
+be defined by commonly known rules used to structure recurrent interaction situations that are endowed
+with a sanctioning mechanism. Institutional theory looks at the deeper aspects of social structures
+with a high level of resilience (Scott, 2008). North (1990) defined institutions as ‘the humanly devised
+constraints that shape interaction’ and distinguished formal institutions created by entities such as the
+
+162
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+government and public services from informal institutions such as social convention or customs and
+implicit constraints. Economic activities are conducted under a certain institutional setting that define
+the interest of each member in the marketplace and how they can be achieved and protected.”
+Institutions are able to structure incentives in human exchange, whether political, social or economic
+(Scott 2008). Boettke (2016) pointed out the immaturity of the research of managing incentives and critiqued the contemporary economic focus as a continuation of much of the thinking laid out by previous
+mainline economists and Nobel Prize winners in his speech delivered in Southern Economic Association Meetings. “The existence of imperfect information and constraints on governments means there is
+a perpetual need for institutions to be crafted, tested and adapted in practice to ensure the effectiveness
+of institutions in aligning incentives, metering performance and monitoring behaviors. As stated by
+Boettke (2016), besides the rule of the general game in the society, there are consistent interactions
+amongst the markets, firms, regulations, politics and the whole society, which could be referred to as
+‘games within the games’ played inside the nested institutions of such a complex society. Scott (2008)
+also stressed that institutions are subject to both incremental and discontinuous processes of movement,
+in which the economic system’s performance could be modified.” (Yu et al, 2018) Thus, analyzing the
+relevant policies and their impact on Blockchain technology, a better understanding of the institutional
+framework as well as the roles of government in assisting Chinese businesses in adopting blockchain
+technology via institutional setting can be realized. (Yu et al., 2018: 401).
+With the transformation of the Internet of information to the Internet of value, Yang Lu (2021)
+indicates that blockchain technology has entered the stage of scale application in China, so legislative
+regulation and policy support of blockchain, in order to assist Chinese businesses in adopting blockchain
+technology has become a new focus of the government. The rapid development of China’s blockchain
+industry is inseparable from the attention of the government and the support of relevant policies (Wang
+et al., 2020). In order to investigate the policy support behind the blockchain industry in China, Table 1
+enumerates the relevant specific policies, laws and regulations promulgated by the nation and relevant
+departments from 2013 to 2021, gives detailed policy content and summarizes their impact.
+China is becoming strong and has been striving to be a leader in technological innovation. Having
+been the first to promote 5G and artificial intelligence (AI), these technologies have by now been widely
+promoted on a global scale. Now, China has done the same with blockchain, declaring the blockchain
+technology as a national development priority and letting local governments implement their own blockchain policies and enforce blockchain standards.
+In the second half of 2013, the bitcoin market rapidly heated up and the price rose rapidly, which
+set off the first round of virtual currency investment boom in the world and drew wide attention from
+society. At the same time, the financial risk that virtual currency may bring has caused the governments
+of many countries to attach great importance to it. Since 2013, the Chinese government has issued
+regulatory policies on virtual currency. For example, “the Notice on Preventing Risks of Bitcoin” was
+issued, indicating that the management of Bitcoin Internet sites should be strengthened to prevent money
+laundering risks that may be generated by Bitcoin.
+
+163
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+Table 1. The summary of national blockchain policies in China 2013-2021
+Issuing
+date
+
+Issuing departments
+
+December 2013
+
+People’s Bank of China, Ministry of
+Industry and Information Technology,
+China Banking Regulatory
+Commission (CBRC)
+
+“Notice on Bitcoin Risk
+Prevention”
+
+Clarified the nature of Bitcoin, required financial institutions
+and payment institutions not to carry out bitcoin-related
+businesses, and strengthened the management of Bitcoin
+Internet sites.
+
+2014
+
+People’s Bank of China
+
+Set up a special research
+group on legal digital
+currency
+
+Plan to carry out the initial technical reserve and knowledge
+accumulation to demonstrate the feasibility of the central
+bank issuing legal digital currency.
+
+2015
+
+People’s Bank of China
+
+Some key issues in the field
+of digital currency were
+investigated
+
+The central bank commissioned a series of research reports
+in the field of digital currency. For the first time, some
+important new ideas are put forward, and suggestions such as
+prohibiting ICO for policy supervision are proposed.
+
+October 2016
+
+Ministry of Industry and Information
+Technology
+
+“China Blockchain
+Technology and Application
+Development White Paper
+(2016)”
+
+Summarizes the development status and typical application
+scenarios of blockchain at home and abroad, and introduces
+the development roadmap of blockchain technology in China
+and the standardization direction and process of blockchain
+technology in the future
+
+December 2016
+
+State Council
+
+“Notice of the State Council
+on the issuance of the
+‘13th Five-Year’ National
+Informatization Plan”
+
+New technologies such as blockchain are driving the
+evolution of cyberspace from the interconnection of everyone
+to the interconnection of everything.
+
+Ministry of Industry and Information
+Technology
+
+“Circular of the Ministry of
+Industry and Information
+Technology on the issuance
+of the Development Plan for
+Software and Information
+Technology Service Industry
+(2016-2020)”
+
+Key points of guidelines / signals issued by the Ministry of
+industry and information technology to local governments
+and local companies: Conducting research and development
+in cutting-edge technologies;
+Preemptively laying out and developing intelligent software;
+Developing new service models and forms of business.
+
+January 2017
+
+General Office of the State Council
+
+“Opinions of the General
+Office of the State
+Council on Innovating
+Management, Improving
+Services, Cultivating
+and Strengthening New
+Driving Forces of Economic
+Development, and
+Accelerating the Transition
+Between Old and New
+Driving Forces of Economic
+Development”
+
+Blockchain related policies: Innovating the system and
+mechanism, break the management restrictions of institutions
+and disciplines, and build several industrial innovation
+centers and innovation networks in artificial intelligence,
+blockchain, energy Internet, intelligent manufacturing, big
+data application, genetic engineering, digital creativity and
+other cross-integration fields.
+
+January 2017
+
+Ministry of Commerce, National
+Development and Reform
+Commission, Ministry of Land and
+Resources, Ministry of Transport,
+State Post Bureau
+
+“Notice on the issuance
+of the 13th Five-Year Plan
+for the Development and
+Development of Trade and
+Goods”
+
+Promoting the use of advanced technologies and equipment
+such as automatic identification, electronic data interchange,
+cargo tracking, intelligent transportation, and the Internet of
+Things, exploring the application of blockchain technology
+in the field of business logistics, and vigorously developing
+smart logistics.
+
+Ministry of Industry and Information
+Technology
+
+“Circular of the Ministry of
+Industry and Information
+Technology on the issuance
+of the Three-Year Action
+Plan for the Development
+of Cloud Computing (20172019)”
+
+Key points of guidelines / signals issued by the Ministry of
+industry and information technology to local governments
+and local companies: Supporting innovation and
+entrepreneurship based on cloud computing.
+Supporting small and medium-sized enterprises and
+individual developers to carry out research, development and
+industrialization of blockchain and other new technologies
+and businesses based on cloud computing platform.
+
+State Council
+
+“Circular of the State
+Council on the issuance
+of the New Generation
+of Artificial Intelligence
+Development Plan”
+
+Key points of guidelines / signals issued by the
+Ministry of industry and information technology to
+local governments and local companies: Promoting
+the integration of blockchain technology and
+artificial intelligence, establishing a new social
+credit system, and minimizing the cost and risk of
+interpersonal communication.
+
+December 2016
+
+March 2017
+
+July 2017
+
+Policies
+
+Impact summaries
+(Sources: the discussed Policies)
+
+Continued on following page
+164
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+Table 1. Continued
+Issuing
+date
+
+Issuing departments
+
+Policies
+
+Impact summaries
+(Sources: the discussed Policies)
+
+August 2017
+
+Ministry of Commerce, Ministry of
+Finance
+
+“Circular of the General
+Office of the Ministry of
+Commerce and the General
+Office of the Ministry of
+Finance on the Construction
+of Supply Chain System”
+
+Key points of guidelines / signals issued by the Ministry of
+industry and information technology to local governments
+and local companies: Supporting the innovation and
+upgrading of the traceability system of core supply chain
+enterprises.
+Promoting the innovation and upgrading of the traceability
+system.
+
+September 2017
+
+People’s Bank of China,
+Office of the Central Cyberspace
+Affairs Commission,
+Ministry of Industry and Information
+Technology,
+State Administration for Market
+Regulation,
+China Insurance Regulatory
+Commission,
+China’s Securities Regulatory
+Commission,
+China’s Bank Regulatory
+Commission
+
+“Notice on Preventing the
+Risk of Token Issuance
+Financing”
+
+Since the date of the announcement, various coin issuance
+and financing activities shall be stopped.
+
+China Insurance Regulatory
+Commission
+
+“Circular of CIRC on
+Printing and Distributing the
+‘Construction Plan of the
+Second Generation Project of
+Compensation’ ”
+
+Key points of guidelines / signals issued by the Ministry of
+industry and information technology to local governments
+and local companies: Tracking the development trend
+of financial technologies such as cloud computing, big
+data, artificial intelligence and blockchain, carrying out
+research on the application of regulatory technologies,
+and actively exploring prudential supervision which is a
+multidimensional, three-dimensional, open solvency risk
+analysis and monitoring system of the insurance industry
+under the conditions of new technologies.
+
+General Office of the State Council
+
+“Guiding Opinions of
+the General Office of the
+State Council on Actively
+Promoting Innovation and
+Application of Supply
+Chain”
+
+Key points of guidelines / signals issued by the Ministry of
+industry and information technology to local governments
+and local companies: Researching and utilizing emerging
+technologies such as blockchain and artificial intelligence
+to establish a credit evaluation mechanism based on supply
+chain.
+
+General Postal Office
+
+“Guiding Opinions of State
+Post Bureau on Promoting
+the Construction of “One
+Belt And One Road” in
+Postal Service”
+
+Key points of guidelines / signals issued by the Ministry of
+industry and information technology to local governments
+and local companies: Leveraging the role of national
+engineering laboratories and other scientific research
+institutions within the industry, exchanging experience
+with countries along the Belt and Road on the integrated
+development of the postal industry with the Internet, big
+data, cloud computing, artificial intelligence and blockchain,
+and jointly carrying out demonstrations of science and
+technology application.
+
+General Office of Ministry of
+Industry and Information Technology
+
+Circular of the General
+Office of the Ministry of
+Industry and Information
+Technology on the
+Application of the Pilot and
+Demonstration Projects of
+Information Consumption
+
+Pilot demonstrations including the “10 directions in the
+field of the 5 classes” (living, public service, industry, new
+product, platform) Supporting the development of modern
+logistics services for the whole process of information
+consumption. Supporting the innovative application of
+integrated logistics for multi-modal transport.
+
+Ministry of Education
+
+“Notice of the Ministry of
+Education on the issuance
+of the Action Plan for
+Educational Informatization
+2.0”
+
+Actively exploring effective ways of recording, transferring,
+exchanging, and certifying the effects of intelligent learning
+based on new technologies such as blockchain and big data,
+forming ubiquitous and intelligent learning systems, and
+promoting the deep integration of information technology
+and intelligent technology into the whole process of
+education and teaching
+
+September 2017
+
+October 2017
+
+December 2017
+
+February 2018
+
+April 2018
+
+Continued on following page
+
+165
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+Table 1. Continued
+Issuing
+date
+
+Issuing departments
+
+Policies
+
+Impact summaries
+(Sources: the discussed Policies)
+
+May 2018
+
+Ministry of Industry and Information
+Technology
+
+“China Blockchain Industry
+White Paper 2018”
+
+Deeply analyzes the development status of China’s
+blockchain technology industry, summarizes the
+development characteristics of China’s blockchain industry,
+deeply expounds the application of blockchain in the
+financial field and the real economy, and looks forward to
+the development trend of the industry.
+
+October 2018
+
+Ministry of Industry and Information
+Technology
+
+“Notice of Ministry of
+Industry and Information
+Technology of China”
+
+Actively building and improving the blockchain standard
+system, accelerating the development, application and
+promotion of key standards, and gradually building a perfect
+standard system.
+
+February 2019
+
+Cyberspace Administration of China
+
+“Blockchain Information
+Service Management
+Regulations”
+
+It standardizes the development of China’s blockchain
+industry, which means that China is officially ushered into
+the “supervision era” for blockchain information services.
+
+March 2019
+
+Cyberspace Administration of China
+
+“On the notice of the
+first batch of domestic
+blockchain information
+service record number of the
+announcement”
+
+The first batch of blockchain information service names and
+record numbers were publicly released.
+
+May 2019
+
+State Council
+
+“Opinions on Deepening
+Reform and Strengthening
+Food Safety”
+
+Promotes the application of blockchain and other
+technologies in the field of food safety supervision.
+New requirements and suggestions are put forward for the
+food safety application of blockchain technology.
+
+August 2019
+
+State Council
+
+“Opinions on Supporting
+Shenzhen in Building a
+Pilot Demonstration Zone
+for Socialism with Chinese
+Characteristics”
+
+Supports the development of digital currency research and
+innovative applications such as mobile payment in Shenzhen;
+Promotes market access connectivity and mutual recognition
+of financial (fund) products with Hong Kong and Macao;
+Efforts are made to advance the internationalization of
+the RMB and explore innovative cross-border financial
+regulation.
+
+October 2019
+
+Standing Committee of the National
+People’s Congress
+
+“Code Law”
+
+As a comprehensive and fundamental law in the field of
+cryptography in China, it also has far-reaching and important
+regulatory significance for blockchain technology.
+
+February 2020
+
+People’s Bank of China
+
+“Technical security
+specification for financial
+distributed ledger”
+
+The standard is the first block chain specification in domestic
+and even international financial industry. It can be seen
+that blockchain is increasingly becoming one of the core
+technologies in the digital age. Meanwhile, it will also play a
+foundational role in the further standardized, comprehensive,
+and truly in-depth application of block chain in the financial
+industry.
+
+April 2020
+
+National Internet Finance Association
+of China
+
+“Risk tips for participating
+in speculation on overseas
+virtual currency trading
+platforms”
+
+Clarifies that virtual currency transactions and ICOs are
+illegal financial activities, defines clean-up and rectification
+work.
+
+July 2020
+
+People’s Bank of China
+
+“Notice to promote the
+application of blockchain
+technical specifications”
+“Blockchain technology
+financial application
+evaluation rules”
+
+The first block-chain related normative documents have been
+issued by China’s top authority.
+
+May 2021
+
+National Internet Finance Association
+of China, China Banking Association,
+Payment & Clearing Association of
+China
+
+“Notice of the prevention
+of virtual currency trading
+speculation risk”
+
+Formally bans all non-sovereign countries in the world to
+give endorsement to virtual currencies in China. Announces
+Crack-Down upon trading speculations of Bitcoin and other
+virtual currencies in view of the production link of Bitcoin.
+
+Source: Foresight Research Institute, Ministry of Industry and Information Technology of the People’s Republic of China, the Chinese
+Government Legal Information Website
+
+166
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+In 2016, The State Council issued the “13th Five-Year National Information Plan”, for the first time
+adding the blockchain technology into the scope of new technology and frontiers. This was a formal mark
+of China beginning to promote the development of blockchain technology and application. Since then,
+the central and local governments have respectively issued relevant regulatory or supportive policies,
+creating a beneficial policy environment for the development of blockchain technology and industry.
+As it shows in the figure below, the numbers of blockchain policies posted by Chinese government and
+ministries increased from 1 item in 2015 to 21 items in 2019. There is a clear trend of gradual improvement and reliability for Chinese blockchain laws and policies.
+Figure 5. Number of state-level blockchain policies
+
+Data source: Eastmoney Choice database
+
+By analyzing the institutional changes of Chinese national blockchain-related policies from 2013 to
+2021, it is clear that the development of blockchain applications in China is strongly associated with the
+attitude of the government. Two examples are the strict regulation of cryptocurrencies and banning the
+Initial Coin Offering (ICO) (“Notice on Bitcoin Risk Prevention”, 2013) at the beginning stage of Chinese
+blockchain applications in 2013.With the “Notice on Preventing the Risk of Token Issuance Financing”
+(2017), any Chinese blockchain applications had been renormalized or prohibited from running.
+From 2013 to 2017 we can discern the stage of building and improving the basic conditions for the
+development of blockchain applications and issuing relevant normalizing and supporting policies such
+as the “Set up a special research group on legal digital currency” (2014) researching central bank digital
+currencies, the “Circular of the Ministry of Industry and Information Technology on the issuance of
+the Three-Year Action Plan for the Development of Cloud Computing (2017-2019)”(2017) addressing
+basic technology like cloud computing and the “Circular of the General Office of the Ministry of Commerce and the General Office of the Ministry of Finance on the Construction of Supply Chain System”,
+addressing supply chain issues.
+
+167
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+The publication of the “China Blockchain Industry White Paper 2018” (2018) marks the institutional
+change into the stage of substantial support and appreciation by continuous introduction of favorable
+and standardized policies in the use of blockchain technology, for instance the issue of “Code Law”
+(2019),“Technical security specification for financial distributed ledger”(2020) and “Notice of the prevention of virtual currency trading speculation risk”(2021). With the development wave, several enterprises
+were able to develop rapidly into leaders in their fields, like our first case study, the Ant Group.
+With the maturity and completeness of the regulatory policy of blockchain market and the further
+improvement of blockchain technology, the construction of a regulatory system for the Chinese industry
+has been further advanced, providing a strong guarantee for industrial block chain projects to deeply serve
+the real economy. Some illegal projects will be strictly regulated, the market is becoming standardized,
+and the environment for industrial development can be optimized.
+From the perspective of supporting policy content, it can be divided into technical level, industrial
+level, industrial application, and other levels (Wang, 2021).
+In terms of technology, on the one hand, the Chinese government encourages innovative research, the
+application of blockchain technology and emphasizes the need to speed up the formulation of blockchain
+technology standard system; On the other hand, it encourages the integration, research, and application
+of blockchain technology with big data, artificial intelligence, and other technologies in order to solve
+social credit, cost, efficiency and other problems (Xi, J.P., 2019).
+From the perspective of industry, the government encourages the establishment of the blockchain
+industry guide fund. It also promotes the development of blockchain industry through special subsidies
+for talents, technology innovation subsidies, office housing subsidies and other measures. The Chinese
+government has issued a series of policies like the “Guidance on accelerating the application of blockchain technology and industrial development” (2021) to incubate blockchain projects and promote the
+development of the blockchain industry.
+At the application level, the government mainly encourages and supports the deep integration of
+blockchain technology with finance, supply chain, cross-border e-commerce, supply chain finance, logistics, public welfare, agriculture, government, and other industries (Ministry of Industry and Information
+Technology of the People’s Republic of China, 2018).
+In general, the Chinese government encourages the exploration and research of blockchain technology
+standards and technology security applications to promote the combination of blockchain technology
+and practical application scenarios in order to serve the real economy and build a new digital economy;
+However, the potential risks of digital currency or ICO have not been addressed so far. The next section
+will further discuss the latest Chinese cases.
+
+DISCUSSION OF CHINESE CASES (ANALYZING AND COMPARING
+SUCCESSFUL AND UNSUCCESSFUL CASES)
+Blockchain, as a technology of digital finance, is rapidly entering social governance, enterprise production and the lives of people. The most important application areas of blockchain can be divided into three
+levels: the first level is the application of blockchain in financial business, such as clearing, exchange
+and reconciliation. The second level is how blockchain technology, as the underpinning of fintech development, can effectively empower other platforms and capabilities. The third level is the scene and
+
+168
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+ecology, implying all the elements related to the industrial ecology on the chain in order for the whole
+ecology to operate effectively (University Big Data and Artificial Intelligence Promotion Alliance, 2021).
+When it comes to China, the application of blockchain in supply chain finance, cross-border payment, asset securitization, bills, credit investigation and risk management has begun to show a colorful
+bloom. By solving the problems of information asymmetry, intermediary centralization and “information
+islands”, the application of blockchain technology in China can greatly improve the breadth, depth, and
+efficiency of traditional financial business.
+As a solution to information and cost problems, some new business categories based on blockchain
+begin to appear in the core and the margins of traditional financial business. It can be said that blockchain
+is profoundly impacting the application of financial business in China. In this paper, several successful
+and unsuccessful cases of Chinese blockchain technology application will be introduced and discussed.
+
+1. The Successful and Most Typical Case——Ant Group
+As shown in the figure below, the bar chart compares the most-funded Chinese fintech and blockchain
+startups in 2020. With the funding of Ant Group having reached 22 billion U.S. dollars, this is the mostfunded FinTech enterprise in China. Its funders included General Atlantic, Sequoia Capital, and others
+(CrunchBase & SCMP, 2020). And most funding is due to the Ant Group’s great business conditions
+and development prospects in online financial service. Just like the rapid rise and success of Ant Group,
+the combination of blockchain technology and Chinese financial sector has given many investors great
+prospects for development. At the same time, the resulting additional investment will accelerate the
+development and further application Chinese fintech and blockchain technology, so as to enter the stage
+of Blockchain 3.0 earlier.
+Figure 6. Most funded Chinese fintech and blockchain startups 2020 (in Million U.S. Dollars)
+Data source: Statista, CrunchBase, SCMP
+
+169
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+The Ant Group is the parent of mobile payment platform——Alipay, which is also the world’s leading financial technology opening platform, committed to science and technology promotion, including
+financial services, modern service industry and global digitalization (Ant Group website, online). The
+reasons why the Ant Group became the largest fintech company in China are interesting lessons and a
+reference for not only many start-up Chinese companies based on blockchain applications in finance
+(CBRC General Office, 2021), but also every other company.
+Firstly, the success of Ant Group is mainly owing to its product research and user acceptation. The
+Ant Group has done well in the application of blockchain technology in the financial sector such as
+digital payment, digital finance, and digital life. The digital mobile payment Alipay, is not only a means
+of digital payment for users, but also a digital financial service (Ant Group Co. Ltd, 2020). Digital payment has become the infrastructure of consumers’ daily life and digital finances (Li et al., 2021). As
+Figure 6 shows, the number of monthly active users of Alipay APP have risen continuously from 499
+million people in 2017 to 711 million users in 2020. The growing number of monthly users and the
+growing users’ retention rate is the reason for the Ant Groups’ growth and especially important for the
+development, survival and growth of fintech companies.
+Figure 7. Monthly active user of Alipay APP (Million people)
+
+Data source: Prospectus of Ant Technology Group Co. Ltd
+
+Meanwhile, digital financial services are highly innovative and attractive, and have high synergies
+with digital payment and digital lifestyle services such as online living payment platform and e-marriage
+certificate. Digital payment, lifestyles based on the Internet and various digital technology applications
+and digital financial services form a powerful synergy and a virtuous cycle, which is an important driving force for the growth of Ant Group.
+The second important reason is the Ant Group’s technological innovation and its active application
+of blockchain-authorized patents as well as the awareness of patent protection. Ant Group as a global
+
+170
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+technology leader constantly innovates its technology and applications, stays open to sharing with the
+whole industry especially in the fields of Blockchain, IoT technology, Database, AI and Regtech. For
+blockchain technology applications, Ant Chain is an internationally leading financial alliance blockchain
+platform which is independently developed by the Ant Group. With its high performance, high reliability
+and high security, Ant Chain can support super-scale applications of 1 billion accounts * and1 billion
+daily transactions (Ant Group website, online). For example, in June 2018, AlipayHK launched the
+world’s first cross-border blockchain remittance service together with Philippine e-wallet GCash (China
+Strategic Emerging Industry, 2018), providing convenient, safe, transparent and low-cost remittance
+services for Hong Kong and Philippine residents. Based on deep research and the blockchain technology, Ant Group was able to increase the strength of its technology as well as open provide additional
+markets and cooperation.
+When it comes the patents, it attaches great importance to protect its technological achievements.
+This is also why Ant Group as the largest fintech company in China can also play an important role in
+the word. In the global list of authorized blockchain patents of Figure 8, Alipay ranks first globally with
+212 blockchain authorized patents, followed by IBM (136) and Coinplug (107).
+Figure 8. Ranking of global patent holders in the number of blockchain patents granted 2020
+Data source: 《2020 Global Patent Authorization report in blockchain field》
+
+171
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+Figure 9. Chinese blockchain patent disclosure rankings 2019
+
+Data source: Eastmoney Choice database
+
+As the Chinese blockchain patent disclosure rankings of 2019 show in the Figure 9, the Ant Group
+was still the most active company of blockchain patent disclosure, with 241 patents, 52 more than the
+second company in blockchain sector of China.
+The authorization and disclosure of the patent means that the blockchain patent has gone through a
+number of steps such as preliminary review, public review and substantive review (China Patent Protection Association, 2020), which can better reflect the “gold content” of the enterprise technology. Ant
+group’s patent advantages are representative and typical and can thus be used to measure the technological progress of the industry and the R & D strength of the enterprise.
+The other main advantage that makes the Ant Group the largest blockchain company in China is its
+product launch as well as the development of a company in line with the demand of Chinese national
+which seizes the market opportunity.
+Chinese GDP is continuously growing, and China is gradually transforming to a consumption-oriented
+economy. The COVID-19 pandemic has further pushed digital transformation in China. In 2020, about
+40.7 percent of the value added in the tertiary industry was contributed by the digital economy, such as
+remote working, online education, and online entertainment which accelerates the Chinese transition to
+a consumption-based economy as it is illustrated in the Figure 10. Meanwhile, as the Figure 11 shows,
+the digital economy has gained a more important role in Chinese economic growth, contributing about
+38.6 percent of the country’s GDP that year.
+
+172
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+Figure 10. Value added share of digital economy in China from 2016 to 2020, by industry
+
+Data source:(CAICT 2021, p. 7)
+
+Figure 11. Share of the digital economy in the GDP of China from 2015 to 2020
+Data source:(CAICT 2021, p. 6)
+
+Moreover, China has entered a brand-new digital era and the digital economy is developing rapidly.
+In 2020, the economy reached a size of about 39.2 trillion Yuan, registering a nominal annual growth of
+9.7 percent, much higher than the country’s nominal GDP growth at 6.7 percent. Amid the COVID-19
+
+173
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+pandemic, more and more companies have opted for digitization solutions for business operations. In
+many ways, China is the vanguard of the global fintech industry, with tech giants, such as Alibaba,
+bringing digital financial services to over one billion consumers.
+Figure 12. Market size of the digital economy in China in selected years from 2005 to 2020 (in Trillion
+Yuan)
+Data source: Statista
+
+In response to China’s national conditions and policies for the development of digital economy and
+fintech related technologies, the need of consumption transformation, the rapid growth of Ant Group
+conforms to the trend of development of the digital economy, for instance the applications of the digital
+mobile payment Alipay, the small and micro lending platform Ant Credit Pay, and the financial management technology platform Yu’E Bao.
+Moreover, policy support and subsidies of Chinese government in order to vigorously develop the
+digital economy, large upfront capital investments, as well as a healthy and profitable business model
+are the indispensable advantages for Ant Group to become the largest fintech enterprise in China.
+
+2. Successful Case——Chinese First ABS Supply Chain
+The application of blockchain technology in asset securitization business has provided convenience for
+capital parties to understand the underlying assets, intermediaries to grasp the default risk of assets in
+real time, and regulators to effectively monitor financial leverage and prevent systemic risks in advance.
+The “Deppon Securities and Zheshang Bank ChiRong No. 2 Asset Support Special Plan” ABS was
+successfully issued in Shenzhen Stock Exchange. The size of its issue was 336 million Yuan, and the
+underlying assets are trade financing. It is worth noting that this product was not only successfully ap-
+
+174
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+plied the blockchain technology, but also was the first blockchain financial ABS product in supply chain
+(PuHuiMingYan Financial Research Institute, 2018).
+The ABS is jointly created by Zhesang Bank and Deppon Securities. It is the first securitization
+project of the stowed-shelf type of trade financing receivables. Its basic assets cover four kinds of trade
+financing receivables: domestic letter of credit assets, bank payment guarantee assets, electronic bank
+acceptance bill assets, and electronic commercial acceptance bill assets. The asset-backed securities of
+each period under the shelf mode of this product are not classified as priority or inferior, and all grades
+have obtained the initial AAA rating of China Credit (Flush Finance, 2020).
+
+3. Unsuccessful Case——Cloud Currency Network
+With the appearance and rapid development of cryptocurrency, the ICO market experienced phenomenal
+growth in the last years (Bollaert et al., 2021). The Figure 13 shows that many national and regional
+governments focused on the ICO. The complete repel of the cloud currency network on August 31, this
+is one of the unsuccessful cases in Chinese blockchain technology related to cryptocurrency for the most
+important reason - the influence of National policy.
+Figure 13. Countries with most research into state-sponsored interbank cryptocurrency 2020
+Data source: BIS, PWC
+
+On July 16, 2018, the cloud currency network announced that under the guidance and supervision
+of the “Beijing Internet financial risk special rectification work leading group”, it carried out the digital
+currency liquidation work on September 5, 2017 (TechWeb Report, 2018). After BTC China announced
+
+175
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+the closure of virtual currency transactions, the cloud currency network also announced that it will close
+all virtual currency transactions on September 20. In the announcement, the cloud currency network
+said that it will permanently close all kinds of trading functions at 00:00 on September 20, 2017 and has
+stopped new user registration and RMB recharge business in order to cater to China’s Internet financial
+risks special rectification work (TechWeb Report, 2018).
+Comparing the last two case of blockchain technology’s financial application in China, there are
+many lessons to be learned mainly in the four fields: policy, capital, industry, sustainability. First, in
+terms of policy, which is the most significant factor, analysing the feasibility of blockchain application
+is necessary. In the unsuccessful case of the cloud currency network, we show that the feature of the
+application violates the attitude of the Chinese government towards cryptocurrency - the national policy
+forbids the trade of cryptocurrency and ICO in Mainland China. That was the main reason of the cloud
+currency network’s complete repel. In the successful cases like the ABS product in China, the Chinese
+government supports the combination of blockchain and asset securitization. The success is also due to
+its large capital input on the scale of Hundred Million of Yuan, the new potentially increasing importance
+of the security industry and the strong sustainability of its reliable and cost-reducing features as well as
+filling up the gaps of trust and liquidity in the field of asset securitization.
+
+OPPORTUNITIES AND CHALLENGES FOR CHINESE COMPANIES IN
+INTEGRATING BLOCKCHAIN-ENABLED TECHNOLOGY IN BUSINESS SECTOR
+Opportunities
+1.
+
+In the term of production and trade, blockchain can help develop sustainable supply chains (Kshetri,
+2021) in order to support many manufacturing enterprises. It has also been introduced and employed
+in many traditional industries, such as supply chain finance, production management, logistics, and
+the Internet of Things, to optimize their operation processes (Jiang et al, 2021).
+
+Meanwhile, China is looking for new export locations in Europe, the Middle East and Africa through
+the Silk Road Economic Belt. Having advanced blockchain technology will give China huge trading
+opportunities when it comes to dealing with emerging technology markets.
+2.
+3.
+
+From the perspective of regulation in the Business Sector, Blockchain can address institutional deficiencies to implement sustainability, make the society stable and efficient. Moreover, Blockchain
+can reduce fake and low-quality ingredient products in supply chains (Sunny, J. et al., 2020).
+In the term of new applications, the recent applications of blockchain technology in crowdfunding
+promise a possible solution to current obstacles and may facilitate socially oriented crowdfunding
+platforms (Nguyen et al., 2021).
+
+Furthermore, the digital RMB (Chinese CBDC) could become a global currency. China is going full
+tilt into digital assets. As part of this, they are developing digital currency electronic payment platforms.
+It’s planned to promote a central bank digital currency that the People’s Bank of China has issued, with
+the anonymity in transactions and extensive crypto services in order to promote the new digital RMB
+176
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+as a global currency. The RMB in its current form lacks openness and liquidity in international foreign
+exchange markets (Tao Liu et al., 2019), so there is definitely room for improvement. With this new
+digital RMB, China will be able to make cross-border payments at lower cost and faster.
+In addition, automated functions using smart contracts will provide easier liquidity management and
+transaction efficiency (Umer et al., 2021), and eventually allow the digital RMB to serve as an upgraded
+version of the current M0, or cash in circulation.
+
+Challenges
+1.
+
+First, technical hurdles remain. Financial businesses attach importance to privacy protection (Hao
+Wang et al., 2020). Under the current consensus mechanism, some sensitive information is transparent and visible, but lacks privacy. Blockchain technology involves many interdisciplinary and
+cross-field technologies such as cryptography, informatics, artificial intelligence, and computer.
+The technologies in these different fields are closely linked, and the research and development is
+extremely difficult with extreme development costs.
+
+Moreover, the underlying technology is at risk of being attacked, and the speed of reaching consensus is
+relatively slow. The exponential adoption of blockchain puts higher demands on the underlying technology (Zhang & Li, 2020).
+2.
+
+3.
+
+4.
+
+5.
+
+Second, the impact on the global economy is unclear (Xiao, 2018). Currently, there are insufficient
+assessments of the short and long-term economic impacts of blockchain technology. At present, it
+is still difficult for blockchain architecture to meet the requirements of financial system availability
+and business continuity. Trust mechanisms and data preservation methods still need to be accepted
+and recognized by mainstream financial institutions. In addition, the ecosystem is still relatively
+underdeveloped. A sound technical standard of the blockchain system has not yet been established
+globally, which leads to the lack of convincing practical data and affects the orderly development
+of the blockchain ecosystem.
+Thirdly, the technology lacks universal rules, and the application scene is segmented. At present,
+there is no unified industry norm and regulatory norm for the application of blockchain technology (Zhang & Li, 2020). Regulatory policy in China remains murky. The government’s policies
+and effective supervision restrict the sustainable development of blockchain to some extent. Due
+to the lack of effective supervision, the authenticity and integrity of the pre-chain data cannot be
+guaranteed. When the blockchain technology is used for the traceability of various assets, it is difficult to truly form a closed loop to reduce risks and reduce speculation (Xiao, 2018), and the risk
+of potential losses due to information distortion or distortion exist.
+Fourthly, the application of commercial banks should consider the “double-sided” nature of blockchain
+technology (Zhang & Li, 2020). At present, the starting point of commercial banks’ application of
+blockchain technology is to reduce costs, and the profit point is not clear. Major commercial banks
+in China have already made various trials such as asset custody system and cross-border clearing
+and settlement in field of blockchain, but most of them are still in the exploratory stage and have
+not yet entered the stage of large-scale commercial application.
+Fifthly, in the blockchain, all smart contracts have been coded in advance and automatically executed. Normally, the basic transaction execution has no problem, but in the case of special complex
+177
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+transactions, there may be some deviation from the user’s understanding, which will bring losses
+to the user. At the same time, there is uncertainty in blockchain smart contract (Upadhyay et al.,
+2021), Turing smart contracts are too flexible, and once loopholes are exploited, this will cause
+irreparable losses. On the other hand, the tamper-proof feature of blockchain will also form some
+obstacles to business logic correction and contract upgrade.
+
+CONCLUSION AND RECOMMENDATIONS
+Since 2008, blockchain has a global experience development of 13 years. Chinese blockchain national
+policy has improved since the beginnings, the industry application standards are gradually established and
+the development is directed from technology leading into market penetration. Meanwhile, the integration
+of blockchain applications in finance, supply chain, government and other fields is being implemented,
+and the industrial scale will show rapid growth. However, the current development of Blockchain in
+China still faces many problems which need to be considered closely. For instance, core technology
+independent innovation capacity still needs to be strengthened, security and privacy issues should be
+continuously focused on, the talent gap needs to be improved, and ecological integration application
+scenarios also need to be further explored.
+Since it is the central banking system which strengthens the central bank’s macro-control function
+and improves the management system in Chinese financial sector, the government plays a primary role
+in the promotion of blockchain applications. Following areas and issues still need to be addressed by
+the regulating bodies to mitigate the risks of blockchain:
+1.
+
+2.
+
+3.
+
+178
+
+Strengthen supervision and continuously follow (Long et al., 2019). The Chinese government should
+focus on the impact and challenges that the application of blockchain technology in the financial
+sector may bring to the existing legal system and regulatory framework and then build up a sound
+and efficient financial supervision mechanism. Illegal acts and disturbances that violate the law of
+technological development and damage the financial order should be strictly punished.
+The Chinese blockchain application industry should improve its technological innovation capacity. Chinese government should play a catalytic role in encouraging innovative research and application of blockchain technology by applying the “regulatory sandbox” mechanism to enable
+blockchain financial products and services to better participate in the development process of the
+micro-market. Meanwhile the Government should strive to build an independent and controllable
+blockchain development ecosystem with strong innovation capabilities (Xiao, 2018). Furthermore,
+the development of major commercial banks, insurance and securities institutions should be accelerated, and the potential risks and deficiencies of blockchain financial products and services in
+transactions should be effectively recorded in order to take measures to control them.
+Increasing capital investment and setting up special funds to promote the research and development of blockchain basic theory and core technology is also a way to facilitate the development
+of blockchain. It is necessary to closely integrate industrial application scenarios, conquer key
+core technologies, accelerate the deep integration of blockchain with various economic and social
+fields and industries, then encourage the creation of blockchain integrated application and industrial development clusters (CCID Industry and Information Research Institute, 2021). All parties
+should actively carry out pilot and demonstration work on blockchain application under Chinese
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+“new infrastructure”. The financial market should promote the deep integration of blockchain with
+artificial intelligence, big data, 5G and cloud computing.
+Chinese national and regional governments should also actively carry out pilot demonstration work
+of new infrastructure applications based on blockchain and set up typical industry cases for demonstration effects. At the same time, improving the application level of blockchain technology in other real
+economy fields is also needed and using it to jointly promote the development of Chinese digital economy.
+4.
+
+For introducing new policies and action plans by the government, the mode of public-private
+collaboration has shown positive effects. The attitude of the government should remain active in
+order to support the rapid development of blockchain technology since various advanced applications need to be endorsement by the People’s Bank of China which also has a role of monitor
+and coordination. The next step for the government of China is to facilitate communications and
+negotiations with academia (the experts and professionals) and business (private enterprises of
+blockchain applications). By way of this three-parties communication, it can further accelerate the
+in-depth development of blockchain applications with relevant and precise policies support from
+the government, state-of-the-art academic researches and findings from experts and professionals, capital and specific production support from enterprises. This enables building a blockchain
+technology-based digital ecosystem which will contribute to sustainable development of the digital
+economy by including government-backed application, continuous innovation ability and adequate
+funding and support.
+
+ACKNOWLEDGMENT
+The authors extend sincere gratitude to:
+•
+•
+•
+
+The Editor-in-Chief and International Editorial Advisory Board (IEAB) of this book who initially
+desk reviewed, arranged a rigorous double/triple blind review process and conducted a thorough,
+minute and critical final review before accepting the chapter for publication.
+All anonymous reviewers who provided very constructive feedbacks for thorough revision, improvement, extension and finetuning of the chapter.
+All colleagues, assistants and well-wishers who assisted the authors to complete this task.
+
+REFERENCES
+Albayati, H., Kim, S. K., & Rho, J. J. (2021). Accepting financial transactions using blockchain technology and cryptocurrency: A customer perspective approach. Technology in Society, 62, 101320.
+doi:10.1016/j.techsoc.2020.101320
+
+179
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+Anagnostopoulos, I. (2018). Fintech and Regtech: Impact on regulators and banks. Journal of Economics
+and Business, 100, 7–25. doi:10.1016/j.jeconbus.2018.07.003
+Ant Group Co. Ltd. (2020). Prospectus of Ant Technology Group Co. Ltd. Available online: https://
+www.antgroup.com
+Beck, R., & Müller-Bloch, C. (2017). Blockchain as radical innovation: a framework for engaging with
+distributed ledgers. Proceedings of the 50th Hawaii International Conference on System Sciences,
+5390–5399.
+Beijing Blockchain Technology Application Association. (2020). Regulatory Technology Blue Book:
+China Regulatory Technology Development Report (2020). Author.
+Bing, T. (2019). The application prospect of blockchain technology in the financial industry. People
+Venture Blockchain.
+BIS. PWC. (2020). Central Bank Digital Currencies (CBDC) interbank or wholesale projects that are
+furthest in their development as of 2020, by country. PwC CBDC Global Index. Retrieved from: https://
+www.statista.com/statistics/1229776/countries-with-most-mature-interbank-cbdg-worldwide/
+Boettke, P. (2016). Special Collections at the GMU Library – October is Nobel Celebration Month |
+Main | 2016 Southern Economic Association Meetings. https://www.coordinationproblem.org/2016/10/
+and-the-nobel-goes-to-oliver-hart-and-bengt-holmstrom.html
+Bollaert, H., de Silanes, F. L., & Schwienbacher, A. (2021). Fintech and access to finance. Journal of
+Corporate Finance, 68, 101941. Advance online publication. doi:10.1016/j.jcorpfin.2021.101941
+CAICT. (2021a). Market size of the digital economy in China in selected years from 2005 to 2020.
+White Paper on China’s Digital Economy Development. Retrieved from: https://www.statista.com/
+statistics/1250080/china-digital-economy-size/
+CAICT. (2021b). Share of the digital economy in the GDP of China from 2015 to 2020. White Paper on
+China’s Digital Economy Development. Retrieved from: https://www.statista.com/statistics/1250092/
+china-digital-economy-gdp-share/
+CAICT. (2021c). Value added share of digital economy in China from 2016 to 2020, by industry. White
+Paper on China’s Digital Economy Development. Retrieved from: https://www.statista.com/statistics/1250100/china-digital-economy-penetration-rate-by-industry/
+CBRC General Office. (2021). Notice on further promoting the high-quality development of financial services for small and micro enterprises in 2021. Retrieved from: http://www.gov.cn/zhengce/
+zhengceku/2021-04/26/content_5602140.htm
+CCID Industry and Information Research Institute. (2021). Blockchain development trends in China in
+2021. Retrieved from: https://baijiahao.baidu.com/s?id=1693991735268111467&wfr=spider&for=pc
+China Insurance Regulatory Commission. (2017). Circular of CIRC on Printing and Distributing the
+‘Construction Plan of the Second Generation Project of Compensation’. Retrieved from: http://www.
+gov.cn/xinwen/2017-09/20/content_5226368.htm
+
+180
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+China Patent Protection Association. (2020). 2020 Global Patent Authorization report in blockchain
+field. Retrieved from: http://www.199it.com/archives/1077801.html
+China Strategic Emerging Industry. (2018). The world’s first cross-border blockchain remittance was
+born in Hong Kong. China Strategic Emerging Industry, 14, 12–13.
+Chinese IoT Blockchain Branch. (2021). 2021 China industry blockchain ecological map. Retrieved
+from: https://mp.weixin.qq.com/s/zkwrOTSFPaM74pW5bUO_hg
+Cioroianu, I., Corbet, S., & Larkin, C. (2021). The differential impact of corporate blockchain-development as conditioned by sentiment and financial desperation. Journal of Corporate Finance, 66, 101814.
+doi:10.1016/j.jcorpfin.2020.101814
+Cong, L. W., & He, Z. (2019). Blockchain disruption and smart contracts. Review of Financial Studies,
+32(5), 1754–1797. doi:10.1093/rfs/hhz007
+CrunchBase, SCMP. (2020). Total funding of the leading fintech and blockchain startups in China as of
+June 2020 (in million U.S. dollars). China internet report 2020.
+Cyberspace Administration of China. (2019). Blockchain Information Service Management Regulations.
+Retrieved from: http://www.cac.gov.cn/2019-01/10/c_1123971164.htm
+Cyberspace Administration of China. (2019). On the notice of the first batch of domestic blockchain
+information service record number of the announcement. Retrieved from: http://www.cac.gov.cn/201903/30/c_1124305122.htm?from=singlemessage&isappinstalled=0
+Eastmoney Choice database. (2021). Retrieved from: http://choice.eastmoney.com/
+Ernst & Young. (2016). UK FinTech census: The voice of FinTech, HM treasury. EY and Innovate Finance. Retrieved from: http://www.ey.com/Publication/vwLUAssets/EY-UK-FinTechCensus-2017/$FILE/
+EY-UK-FinTech-Census-2017.pdf
+Finance, F. (2020). Fintech helps securities business transform and restructure. China Securities Journal.
+Retrieved from: https://baijiahao.baidu.com/s?id=1654762300223125200&wfr=spider&for=pc
+General Office of Ministry of Industry and Information Technology. (2018).“Circular of the General
+Office of the Ministry of Industry and Information Technology on the Application of the Pilot and
+Demonstration Projects of Information Consumption. Retrieved from: http://www.gov.cn/zhengce/
+zhengceku/2021-03/04/content_5590162.htm
+General Office of the State Council. (2017). Guiding Opinions of the General Office of the State Council
+on Actively Promoting Innovation and Application of Supply Chain. Retrieved from: http://www.gov.cn/
+zhengce/content/2017-10/13/content_5231524.htm
+General Office of the State Council. (2017). Opinions of the General Office of the State Council on Innovating Management, Improving Services, Cultivating and Strengthening New Driving Forces of Economic Development, and Accelerating the Transition Between Old and New Driving Forces of Economic
+Development. Retrieved from: http://www.gov.cn/zhengce/content/2017-01/20/content_5161614.htm
+
+181
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+General Postal Office. (2017). Guiding Opinions of State Post Bureau on Promoting the Construction of
+“One Belt And One Road” in Postal Service. Retrieved from: http://www.spb.gov.cn/zc/flfgjzc_1/201801/
+t20180112_1467509.html
+Gomber, P., Koch, J. A., & Siering, M. (2017). Digital Finance and FinTech: Current research and future
+research directions. Journal of Business Economics, 87(5), 537–580. doi:10.100711573-017-0852-x
+Guo, Y. M., Huang, Z. L., Guo, J., Guo, X.-R., Li, H., Liu, M.-Y., Ezzeddine, S., & Nkeli, M. J. (2021).
+A bibliometric analysis and visualization of blockchain. Future Generation Computer Systems, 116,
+316–332. doi:10.1016/j.future.2020.10.023
+Hao, W., Ma, S.L., Dai, H.N., Imran, M., & Wang, T.S. (2020). Blockchain-based data privacy management with Nudge theory in open banking. Future Generation Computer Systems, 110.
+Jiang, S. R., Li, Y. Z., Wang, S. Y., & Lin, Z. (2021). Blockchain competition: The tradeoff between
+platform stability and efficiency. European Journal of Operational Research. Advance online publication. doi:10.1016/j.ejor.2021.05.031
+Kshetri, N. (2021). Blockchain and sustainable supply chain management in developing countries.
+International Journal of Information Management, 60, 102376. doi:10.1016/j.ijinfomgt.2021.102376
+Li, L., Freeman, G., & Wohn, D. Y. (2021). The Interplay of Financial Exchanges and Offline Interpersonal Relationships through Digital Peer-to-Peer Payments. Telematics and Informatics, 63, 63.
+doi:10.1016/j.tele.2021.101671
+Liu, S. P. (2019). Digital Economy New Engine (Blockchain Technology) Innovation Application Summit. Retrieved from: https://www.cebnet.com.cn/20190419/102566686.html
+Liu, T., Wang, X., & Woo, W. T. (2019). The road to currency internationalization: Global perspectives
+and Chinese experience. Emerging Markets Review, 38, 38. doi:10.1016/j.ememar.2018.11.003
+Long, Y. A., Zhang, J., & Ai, R. (2019). Research on supply chain finance System Optimization based
+on Blockchain Technology. Southwest Finance, 2019(1), 74–81.
+Lu, Y. (2021). Consistency, breakthrough and structure of the blockchain regulation in China. Journal
+of Nanjing University of Posts and Telecommunications, 2, 24–36.
+Majeed, U. K., Khan, L. U., Yaqoob, I., Kazmi, S. M. A., Salah, K., & Hong, C. S. (2021). Blockchain
+for IoT-based smart cities: Recent advances, requirements, and future challenges. Journal of Network
+and Computer Applications, 181, 103007. doi:10.1016/j.jnca.2021.103007
+Ministry of Commerce, the National Development and Reform Commission, the Ministry of Land and
+Resources, the Ministry of Transport & the State Post Bureau. (2017). Notice on the issuance of the 13th
+Five-Year Plan for the Development and Development of Trade and Goods. Retrieved from: http://www.
+mofcom.gov.cn/article/b/d/201702/20170202511705.shtml
+Ministry of Commerce, Ministry of Finance. (2017). Circular of the General Office of the Ministry
+of Commerce and the General Office of the Ministry of Finance on the Construction of Supply Chain
+System. Retrieved from: http://www.mofcom.gov.cn/article/h/redht/201708/20170802627302.shtml
+
+182
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+Ministry of Education. (2018). Notice of the Ministry of Education on the issuance of the Action Plan
+for Educational Informatization 2.0. Retrieved from: http://www.moe.gov.cn/srcsite/A16/s3342/201804/
+t20180425_334188.html
+Ministry of Industry and Information Technology. (2016a). China Blockchain Technology and Application Development White Paper (2016). Retrieved from: http://www.shujuju.cn/lecture/detail/2134
+Ministry of Industry and Information Technology. (2016b). Circular of the Ministry of Industry and Information Technology on the issuance of the Development Plan for Software and Information Technology
+Service Industry (2016-2020). Retrieved from: http://www.cac.gov.cn/2017-01/17/c_1120330752.htm
+Ministry of Industry and Information Technology. (2017). Circular of the Ministry of Industry and Information Technology on the issuance of the Three-Year Action Plan for the Development of Cloud Computing
+(2017-2019). Retrieved from: https://www.miit.gov.cn/jgsj/xxjsfzs/zlgh/art/2020/art_fb1e14b54f234fc7b4f52c062b9d3d08.html
+Ministry of Industry and Information Technology. (2018a). Notice of Ministry of Industry and Information Technology of China. Retrieved from: https://www.miit.gov.cn/jgsj/xxjsfzs/gzdt/art/2020/art_ebe80855c8234ba7bd1b7cf7ffee5813.html
+Ministry of Industry and Information Technology. (2018b). China Blockchain Technology and Application Development White Paper (2018). Retrieved from: https://www.miit.gov.cn/n1146290/n1146402/
+n1146445/c6180238/part/6180297.pdf
+Ministry of Industry and Information Technology of the People’s Republic of China. (2018). White Paper
+on China’s Blockchain Industry 2018. Retrieved from: https://www.miit.gov.cn/n1146290/n1146402/
+n1146445/c6180238/part/6180297.pdf
+Ministry of Industry and Information Technology, Office of the Central Cyberspace Affairs Commission.
+(2021). Guidance on accelerating the application of blockchain technology and industrial development.
+Joint Letter Of Ministry of Industry and Information Technology.
+Mu, Geng, Lv, Qian, & Qing. (2020). Blockchain research Group of Digital Currency Research Institute,
+People’s Bank of China: Existing blockchains are not suitable for high concurrency scenarios such as
+traditional retail payments. Chinese Finance, 4.
+National Internet Finance Association of China. (2020a). Risk tips for participating in speculation on
+overseas virtual currency trading platforms. Retrieved from: https://baijiahao.baidu.com/s?id=166282
+8395598126938&wfr=spider&for=pc
+National Internet Finance Association of China. (2020b). Research Report on Blockchain Financial
+Application and Development in China. Retrieved from: https://wenku.baidu.com/view/0193c7d6b636
+0b4c2e3f5727a5e9856a5712267e.html
+National Internet Finance Association of China, China Banking Association, Payment & Clearing Association of China. (2021). Notice of the prevention of virtual currency trading speculation risk. Retrieved
+from: https://baijiahao.baidu.com/s?id=1700098234762596743&wfr=spider&for=pc
+
+183
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+Nguyen, L. T. Q., Hoang, T. G., Do, L. H., Ngo, X. T., Nguyen, P. H. T., Nguyen, G. D. L., & Nguyend,
+G. N. T. (2021). The role of blockchain technology-based social crowdfunding in advancing social value
+creation. Technological Forecasting and Social Change, 170, 120898. doi:10.1016/j.techfore.2021.120898
+Ning, Y. J. (2021). Speech on “Industrial Blockchain 2.0:2021 New Opportunities for Digital Economy”.
+Retrieved from: https://new.qq.com/omn/20210128/20210128A08O3A00.html
+North, D. (1990). Institutions, Institutional Change and Economic Performance. Cambridge University.
+doi:10.1017/CBO9780511808678
+Pal, A., Tiwaria, C. K., & Haldar, N. (2021). Blockchain for business management: Applications,
+challenges and potentials. The Journal of High Technology Management Research, 32(2), 100414.
+doi:10.1016/j.hitech.2021.100414
+People’s Bank of China, Ministry of Industry and Information Technology & China Banking Regulatory
+Commission (CBRC). (2013). Notice on Bitcoin Risk Prevention. Retrieved from: http://www.gov.cn/
+gzdt/2013-12/05/content_2542751.htm
+People’s Bank of China. (2014). Set up a special research group on legal digital currency. Annual Report
+of the People’s Bank of China 2014. Retrieved from: http://www.pbc.gov.cn/eportal/fileDir/image_public/
+UserFiles/chubanwu/upload/File/中国人民银行年报2014-最终定稿.pdf
+People’s Bank of China. (2015). Some key issues in the field of digital currency were investigated.
+Annual Report of the People’s Bank of China 2015. Retrieved from: http://www.pbc.gov.cn/chubanwu/114566/115296/3087023/3086996/2016062115305560130.pdf
+People’s Bank of China, Office of the Central Cyberspace Affairs Commission, Ministry of Industry
+and Information Technology, State Administration for Market Regulation, China Insurance Regulatory
+Commission, China’s Securities Regulatory Commission & China’s Bank Regulatory Commission.
+(2017). Notice on Preventing the Risk of Token Issuance Financing. Retrieved from: http://www.pbc.
+gov.cn/goutongjiaoliu/113456/113469/3374222/index.html
+People’s Bank of China. (2020a). Blockchain technology financial application evaluation rules. Retrieved
+from: https://www.mpaypass.com.cn/Download/202007/30153205.html
+People’s Bank of China. (2020b). Notice to promote the application of blockchain technical specifications. Retrieved from: https://www.jinse.com/news/blockchain/772215.html
+People’s Bank of China. (2020c). Technical security specification for financial distributed ledger. Retrieved from: https://www.sohu.com/a/375656914_120057347
+People’s Bank of China. (2021). White paper of “The development of Chinese digital RMB”. Retrieved
+from: http://www.gov.cn/xinwen/2021-07/16/content_5625569.htm
+PuHuiMingYan financial research institute. (2018). Application scenario of block chain in supply chain
+finance and the first block chain ABS case. Retrieved from: https://mp.weixin.qq.com/s/2TbAxw7G_
+MD4OmEkfZ2npQ
+Qiang, W., & Min, S., & Rong, R.L. (2020). Is China the world’s blockchain leader? Evidence, evolution
+and outlook of China’s blockchain research. Journal of Cleaner Production, 264.
+
+184
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+Rong, Z.X. & Yu, L.M. (2020). The application of blockchain technology in the banking industry. China
+Finance, 10.
+Sanka, A. I., Irfan, M., Huang, I., & Cheung, R. C. C. (2021). A survey of breakthrough in blockchain
+technology: Adoptions, applications, challenges and future research. Computer Communications, 169,
+179–201. doi:10.1016/j.comcom.2020.12.028
+Scott, W. R. (2008). Institutions and organizations: Ideas and interests (3rd ed.). SAGE Publications.
+Securities, M. (2017). Driven by the dual track of blockchain policy and practice, the Fintech industry
+is heating up. Minsheng Securities Institute.
+Standing Committee of the National People’s Congress. (2019). Code Law. Retrieved from: http://www.
+npc.gov.cn/npc/c30834/201910/6f7be7dd5ae5459a8de8baf36296bc74.shtml
+State Council. (2016). Notice of the State Council on the issuance of the ‘13th Five-Year’ National Informatization Plan. Retrieved from: http://www.gov.cn/zhengce/content/2016-12/27/content_5153411.htm
+State Council. (2017). Circular of the State Council on the issuance of the New Generation of Artificial Intelligence Development Plan. Retrieved from: http://www.gov.cn/zhengce/content/2017-07/20/
+content_5211996.htm
+State Council. (2019a). Opinions on Deepening Reform and Strengthening Food Safety. Retrieved from:
+http://www.gov.cn/zhengce/2019-05/20/content_5393212.htm
+State Council. (2019b). Opinions on Supporting Shenzhen in Building a Pilot Demonstration Zone
+for Socialism with Chinese Characteristics. Retrieved from: http://www.gov.cn/zhengce/2019-08/18/
+content_5422183.htm
+Sunny, J., Undralla, N., & Madhusudanan Pillai, V. (2020). Supply chain transparency through blockchainbased traceability: An overview with demonstration. Computers & Industrial Engineering, 150, 150.
+doi:10.1016/j.cie.2020.106895
+Swan, M. (2015). Blockchain: Blueprint for a New Economy. O’Reilly Media, Inc.
+TechWeb Report. (2018). Cloud coin network: the basic completion of the clean-up work plan to close
+the website on August 31. Retrieved from: TechWeb.com.cn.
+The People’s Bank of China. (2011). The Establishment meeting of Bank Card Base Payment Committee
+of Clearing Association of China, Network Payment Application Committee and Prepaid Card Committee of Payment. Retrieved from: https://xueshu.baidu.com/usercenter/paper/show?paperid=7d2b16f58e
+f921bcfec6f8cdbbb55a60&site=xueshu_se
+The People’s Bank of China. (2015). Measures for the administration of online Payment business of nonbank payment institutions. Retrieved from: http://www.gov.cn/zhengce/2016-03/18/content_5055171.htm
+Thurber, K. J. (2012). Do not invent buggy whips: Create! reinvent! position! disrupt! Digital Systems
+Press.
+
+185
+
+﻿
+The Role of Blockchain Technology in Harnessing the Sustainability of Chinese Digital Finance
+
+University Big Data and Artificial Intelligence Promotion Alliance. (2021). Top 10 Cases of Blockchain
+technology application in China in 2020. Retrieved from: https://mp.weixin.qq.com/s/Unt3QI6a7xydZdvxv4q2g
+Upadhyay, A., Mukhuty, S., Kumar, V., & Kazancoglu, Y. (2021). Blockchain technology and the circular
+economy: Implications for sustainability and social responsibility. Journal of Cleaner Production, 293,
+126130. doi:10.1016/j.jclepro.2021.126130
+Varfolomeev, A., Alfarhani, L. H., & Oleiwi, Z. C. (2021). Secure-reliable smart contract applications
+based blockchain technology in smart cities environment. Procedia Computer Science, 186, 669–676.
+doi:10.1016/j.procs.2021.04.188
+Wang4185652. (2021). Analyze the impact of the development of block chain on the financial field.
+Retrieved from: https://www.doc88.com/p-17216081798929.html
+Xi, J. P. (2019). The 18th group study session of the Political Bureau of the CPC Central Committee.
+Retrieved from: http://www.gov.cn/xinwen/2019-10/25/content_5444957.htm
+Xiao, X. (2018). Five features of the current application of blockchain in the financial field. Internet Finance
+Association of China. Retrieved from: http://www.360doc.com/content/18/0623/22/44361760_764758542.
+shtml
+Yan, N., Sun, B., Zhang, H., & Liu, C. (2016). A partial credit guarantee contract in a capital constrained
+supply chain: Financing equilibrium and coordinating strategy. International Journal of Production
+Economics, 173, 122–133. doi:10.1016/j.ijpe.2015.12.005
+Yu, P., Chen, Z., & Sun, J. (2018). Innovative Financing: an Empirical Study on Public– Private Partnership Securitisation in China. Australian Economic Papers. John Wiley & Sons Australia, Ltd.
+Yu, P., Gong, R., & Sampat, M. (2022). Blockchain Technology in China’s Digital Economy: Balancing
+Regulation and Innovation. In P. Tehrani (Ed.), Regulatory Aspects of Artificial Intelligence on Blockchain (pp. 132–157). IGI Global. doi:10.4018/978-1-7998-7927-5.ch007
+Zhang, X.R. & Li, M.Y. (2020). The application of blockchain technology in the banking industry.
+China Finance, 10.
+
+186
+
+

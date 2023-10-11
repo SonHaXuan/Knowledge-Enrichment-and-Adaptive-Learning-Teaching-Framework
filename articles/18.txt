@@ -1,0 +1,1187 @@
+Journal of International Relations and Development (2021) 24:455–482
+https://doi.org/10.1057/s41268-020-00198-5
+ORIGINAL ARTICLE
+
+Technology, small states and the legitimacy
+of digital development: combatting de‑risking
+through blockchain‑based re‑risking?
+Malcolm Campbell‑Verduyn1 · Daivi Rodima‑Taylor2 · Moritz Hütten3
+Published online: 14 August 2020
+© Springer Nature Limited 2020
+
+Abstract
+An increasingly lamented consequence of re-regulatory efforts following the
+2007/2008 global financial crisis has been ‘de-risking’—the growing disengagement
+by banks and other financial institutions with markets perceived as posing greater
+risks than justified by potential profits. As banks based in the Global North have
+moved to withdraw financial services from many emerging economies, de-risking has attracted attention for undermining financial inclusion and developmental
+efforts. Novel technologies are being harnessed to address this problem, including
+applications of blockchain, the digital ledgers of transactions originally underpinning cryptocurrencies. Contributing to IR theorising of legitimacy and re-risking,
+this article illustrates how technology-based de-risking efforts that seek to attend
+to the perceptions of foreign financiers can undermine the legitimacy of financial
+inclusion projects. Contrasting unfolding blockchain-based financial inclusion initiatives in two regions of small states in the Eastern Caribbean and Eastern Europe, our
+analysis stresses the need for greater local participation and clearer distribution of
+benefits from finance and technology (fintech) centred forms of digital development.
+Keywords Global finance · International development · Legitimacy · Monetary
+cooperation · Risk · Technology
+
+* Malcolm Campbell‑Verduyn
+m.a.campbell‑verduyn@rug.nl
+1
+
+Department of International Relations and International Organization (IRIO), University
+of Groningen, Oude Kijk in ‘t Jatstraat 26, 9712 EK Groningen, The Netherlands
+
+2
+
+Boston University, Boston, MA, USA
+
+3
+
+Darmstadt Business School, Darmstadt, Germany
+Vol.:(0123456789)
+
+456
+
+M. Campbell‑Verduyn et al.
+
+Introduction: de‑risking and the legitimacy of financial inclusion
+and digital development efforts
+International Political Economy has usefully chronicled intricacies involved with
+many efforts to reform global finance following the 2007/2008 crisis (e.g. Kaya
+and Herrera 2015; McDowell 2017). In drawing out both the strengths and limits of
+these multi-faceted global efforts, however, a number of unforeseen consequences of
+the post-2008 regulatory upheaval have been overlooked. This article examines the
+so-called ‘de-risking’ movement, which rose to top the agendas of many financial
+industry practitioners, regulators and non-governmental organisations in the aftermath of what had been the most severe financial crisis since the Great Depression.
+Encompassing a variety of overlapping processes, de-risking broadly entails the disengagement by financial services firms with markets perceived to pose greater risks
+than justified by potential profits (Nance 2018). Although such perceptions and their
+origins vary regionally (de Koker et al. 2017), de-risking generally stems from the
+culmination of several post-crisis trends that altered the cost and benefit calculus
+of financial institutions, large and small.1 Unsurprisingly, financial services industry
+actors have emphasised enhanced state regulatory activity since 2008 as the main
+contributor to de-risking. The out-of-court settlements between banks and financial
+regulators for ‘misconduct’ that occurred both in the lead-up and aftermath of the
+2007‒2008 crisis involved billions of dollars in monetary penalties and added to the
+enhanced regulatory monitoring of bank activities (see Campbell-Verduyn 2017;
+Macartney and Calcagno 2019). Costs for banks to comply with seemingly everwidening anti-money laundering and combatting the financing of terrorism (AML/
+CFT) regulations increased by one third between 2012 and 2017 (Culp 2018). Compliance failures can be expensive, with an estimated $2 billion in fines levied for
+AML compliance failures in 2017 alone (Biben and Lyons 2018). For many multinational banks and financial institutions, these costs and associated reputational
+damages undermine the potential benefits accrued from engaging markets that have
+suffered from financial exclusion.
+The de-risking movement in post-crisis global finance draws attention to cognitive and material elements of legitimacy that have been considered across IPE
+and International Relations scholarship (Clark 2005; Hurd 1999; Mulligan 2006;
+Schmidt 2013a, b). Understood as a condition in which communities involved in,
+and affected by, international activity perceive the underlying decision-making
+to be rightful, legitimacy pertains both to the problem of de-risking, as well as
+to solutions to enhance financial inclusion. Perceptions that informal activities in
+and across emerging economies can entangle multinational financial institutions in
+money laundering or other illicit schemes contribute to cross-border financing decision, as well as to wider regulatory, media and consumer scrutiny. Legitimacy is also
+central to the material applications of expert knowledge—the technological solutions trialled across an international development community seeking to overcome
+1
+The related de-banking movement is focused on one set of crucially important set of financial services
+firms. De-risking, notably, applies to non-bank institutions that include the likes of payday lenders.
+
+Technology, small states and the legitimacy of digital…
+
+457
+
+the exclusionary effects of de-risking (Woodsome and Ramachandran 2018). The
+withdrawal of corresponding banking relations and other financial services from
+many emerging economies renders it difficult, even impossible, for local actors to
+carry out a host of transnational activities, from international trade to sending remittances (Rodima-Taylor and Grimes 2019a). Yet, it is these process that have been
+crucial to market-based ‘financial inclusion’ efforts seeking to extend formal access
+to financial services to poor populations (Alliance for Financial Inclusion 2018; G20
+Principles for Innovative Financial Inclusion 2011). Distributed ledger technologies
+(DLT), also known as blockchains, have been heralded by proponents of financial
+inclusion and digital development alike for their ability to render legible and traceable digital transactions in nearly real-time manners.2 As a key component of a ‘turn
+to technology’ in development finance, blockchain and DLT solutions are positioned
+as offering ‘ever-more fine-grained information with which to properly allocate
+credit’ (Bernards 2019: 8). Crucially, applications of these technologies can enable
+foreign lenders to better monitor the transactions and justify their financial decisions to regulators. At the same time, however, complex technology-centred efforts
+to formalise local activities can suffer from a lack of input from, and clear benefits
+for, local stakeholders. Although they make finance ‘exciting again’ in an era of
+enhanced regulatory compliance, speculative applications of this emergent technology can ‘re-risk in realtime’ (Maurer 2016). Maurer’s analysis of the implications
+for systemic stability stemming from growing blockchain-based financial experiments can be usefully extended to the legitimacy of financial inclusion and digital
+development projects centred around a set of evolving technologies in ways that can
+overlook local participation and appear to benefit primarily foreign professionals.
+How can blockchain-based initiatives address the exclusionary nature of de-risking without ‘re-risking’ or undermining the legitimacy of digital development and
+financial inclusion efforts? Linking IR insights on legitimacy with a stress on the
+community acceptance of digital development schemes, we emphasise the need for
+multiple publics to participate in, and benefit from, blockchain-based de-risking initiatives. Our central claim is that democratically elected bodies and representatives
+of wider publics—those beyond foreign financial professionals and technologists—
+must clearly and consistently have greater roles in, and derive material benefits from,
+the technological experiments ultimately affecting them. Addressing the legitimacy
+paradox at the heart of de-risking requires overcoming ‘state phobia’ (Best 2018)
+pervasive across both finance and technology industries. Yet, greater involvement
+of democratically elected nation-state representatives alone is insufficient. If technology-led digital development and financial inclusion efforts are to be perceived as
+legitimate, we argue, blockchain-based efforts to combat de-risking must facilitate
+the participation of, and benefits to, multiple publics.
+These arguments are developed across three sections. The first section identifies
+and situates the promises and risks of specific blockchain applications for countering de-risking within the legitimacy of digital development and financial inclusion efforts. While heralded for overcoming foreign perceptions of informal local
+2
+
+See, for instance, https​://www.usaid​.gov/digit​al-devel​opmen​t/digit​al-finan​ce/block​chain​-prime​r.
+
+458
+
+M. Campbell‑Verduyn et al.
+
+activities at the heart of de-risking, blockchain applications can perpetuate and
+extend the legitimacy challenges facing digital development and financial inclusion efforts. We elaborate how blockchain application can involve and benefit narrow as well as broader publics. This discussion is then grounded in a second section
+contrasting two sub-regions of emerging economies in which blockchain-based initiatives have been positioned as enabling ‘practical solutions and actions to support
+small states that face de-risking’ (World Bank 2017). We first show how blockchainbased initiatives to address the problem of de-risking in the Eastern Caribbean ‘rerisk in realtime’ as a result of unclear participation and benefits to publics beyond
+financiers and technologists. A second, contrasting case study of blockchain-based
+projects to combat de-risking unfolding in the Baltic states of Eastern Europe then
+reveals how wider participation of multiple publics can avoid ‘re-risking’ the legitimacy of digital development and financial inclusion projects. Together, these case
+studies reveal the greater involvement by an array of publics needed to minimise,
+though perhaps not entirely resolve, the paradox that technology-centered de-risking efforts can re-risk the legitimacy of digital development and financial inclusion
+strategies. A concluding section summarises and suggests further paths for exploring the roles of democratic states in ensuring the legitimacy of technology-centered
+forms of digital development.
+
+Legitimacy and multiple publics in blockchain‑led de‑risking
+Blockchains are computer protocols enabling geographically distributed users to
+undertake digital peer-to-peer transactions and arrive at consensus on their validity.
+Verified transactions are then sequentially bundled together in interlinked ‘blocks’ to
+form digital ledgers that all users can see but that no single user can change. Initially
+applied to Bitcoin in 2009, blockchain technology underpins thousands of competing ‘cryptocurrencies’ whose numbers have exploded with the advent of Initial
+Coin Offerings, a novel type of crowdfunding that occurs by raising funds through
+‘crypto-tokens’—money-like representations of value. Blockchains have increasingly become harnessed for a range of novel governance experiments in which the
+underlying computer code has served as the basis of informal ordering (Hütten
+2019), as well as in more formal attempts to supplement the existing legal processes
+overseen by governments and international organisations (Campbell-Verduyn and
+Hütten 2019). In the context of the increased data transparency and dissemination
+requirements of post-2008 global finance, blockchains underpin a rapidly evolving set of regulatory technologies (RegTechs) and, indeed, a form of ‘governance
+by technology’ (Campbell-Verduyn 2018). The value proposition of blockchains is
+summarised by a leading global banking association as the ability to enhance transparency, regulatory compliance, and auditability. Since all transactions are documented on the distributed ledger, a comprehensive, secure, precise, irreversible,
+and permanent financial audit trail would exist for all interested parties (Institute of
+International Finance 2016).
+Blockchains, in other words, provide a formal technological architecture enabling
+‘constant verification and validation’ (Birch and Parulava 2017: 386). Corruption
+
+Technology, small states and the legitimacy of digital…
+
+459
+
+control and transparency are embedded in the very design of the technology that
+allows for novel forms of digital checks and balances across transnational communities (ibid.; see also Rodima-Taylor and Grimes 2019b).
+The growing interdisciplinary literature scrutinising blockchain-based governance in finance and beyond (Campbell-Verduyn 2018; DuPont 2019; Herian 2018)
+has thus far provided less explicit stress on the legitimacy of evolving governance
+experiments with this set of technologies.3 This section elaborates the promises
+and perils of harnessing blockchain applications for addressing the legitimacy challenges at the heart of de-risking in finance and digital development. We draw on
+IR insights in elaborating the varying contexts and publics germaine to discussions
+of legitimacy. Two subsections then outline the contributions and limits of blockchain technologies for generating wider participation and input legitimacy, as well
+as for ensuring broad benefits and output legitimacy across multiple transnational
+communities.
+Legitimacy across multiple publics
+A multi-faceted concept, legitimacy involves social acceptability or what is typically
+defined as ‘the relevance of people’s perceptions of the rightfulness and appropriateness of authority for their acceptance and support for political and social order’
+(Quack 2009: 8). Legitimacy denotes a specific condition wherein an actor, like a
+government, or a process, such as decision-making, is perceived to be rightful by a
+wider group of actors (Hurd 1999: 381). The size of the group legitimating a process
+or actor can vary, with narrow forms of self-legitimation referring to perceptions of
+rightfulness within a small group, and wider social legitimacy pertaining to perceptions shared across several groups (Barker 2001). In securing a perceived ‘right to
+act, rule, or govern’, legitimation as a ‘socially ordained’ process is most efficiently
+secured through the acquiescence of multiple publics (2007: 159), as we elaborate
+further below. First, however, it is important to recognise two important variations in
+how the condition of legitimacy can be achieved.
+Collective perceptions of legitimacy vary across social groups, as well as across
+time. What may be perceived as legitimate in one social group or ‘legitimizing community’ (Symons 2011), may not be so in another. What is perceived as rightful
+within a social community at any one time can also change rapidly. A distinction
+then needs to be made between explicitly moral and political appeals to rightfulness,
+on the one hand, and technical and seemingly more ‘neutral’ appeals to rightfulness
+on the other hand (Best 2016; Suchman 1995). In the contemporary ‘globalised’ era,
+legitimacy claims tend be grounded in market-based processes perceived as ‘more
+neutral’ than the more explicitly biased elected governments or religious institutions. Instead of partisan election campaigns and disputed voting outcomes, marketbased legitimacy is often seen to reflect more clearly the aggregate preferences of
+individuals through the dynamics of consumer demand and business supply.
+3
+For exceptions with regard to blockchains applications to cryptocurrency, as well as in central bank-led
+contemporary financial governance, see Campbell-Verduyn (2019), Weber (2014) and Tucker (2018).
+
+460
+
+M. Campbell‑Verduyn et al.
+
+Variance in the underpinnings of legitimacy is nicely captured in the recognition
+that not one but multiple publics exist in different times and places. Despite its typical association as the public sphere, government is just one of a wide set of actors
+able to undertake activities that address common or collective concerns (Best and
+Gheciu 2014). The practices of non-state actors can also enact collective concerns of
+multiple countries, groups of investors or consumers. There are varying publics that
+can legitimate the practices of state and non-actors, including transnational publics
+that are not necessarily bound within the borders of nation-states (Porter 2014). For
+instance, central banks or other institutions whose ostensible independence keeps
+them at arm’s length from governments have multiple ‘legitimizing communities’
+(Symons 2011) apart from the governments that appoint their membership, including the foreign financiers and investors whose decision to buy or sell assets in a
+certain jurisdictions will depend in part on whether or not benchmark interest rate
+and other monetary decisions are perceived as legitimate. The specific order and
+importance of these and other actors in hierarchies of legitimating publics can vary.
+Yet, an effective strategy for securing the widest possible basis for legitimacy is by
+involving multiple different publics in decision-making and distributing the benefits
+of decision-making across several communities. A reliance on one or two groups or
+publics can be simpler to gain yet riskier, insofar as legitimacy becomes reliant on
+a narrower set of actors. We elaborate on the importance of spreading legitimacy
+more broadly across multiple publics in the context of blockchain applications for
+combatting de-risking after elaborating additional dimensions to our analysis of varying perceptions of rightfulness: input and output legitimacy.
+The promises and risks of input legitimacy in blockchain applications
+Input legitimacy involves procedural stress on adequate stakeholder inclusion in
+decision-making. Do multiple publics hold relatively equal input in decision-making? Are they actively involved in the content of decision-making?
+Blockchain applications can contribute to input legitimacy by enhancing the
+range of publics involved in decision-making. The ‘participative, democratic, and
+distributed nature’ of the technology is often emphasised by its proponents (Swan
+2015: 31). The protocol is open source, theoretically enabling anyone to modify and
+apply the technology. Enabling forms of ‘liquid democracy’ in which anonymous
+votes can be delegated and revised in real-time electronic referenda, applications of
+the technology promise to enhance the democratic nature of transnational decisionmaking processes.4
+At the same time, other key features of blockchains may limit the range of publics able to contribute effectively to decision-making. The democratic appeal of the
+original type of quasi-anonymous, so-called ‘permissionless blockchains’ in which
+individual identities are obscured, has been noted by even promoters of blockchain
+in digital development as allowing ‘bad actors to conceal their identities and making
+
+4
+
+For example: https​://ethel​o.org/, see also https​://helio​svoti​ng.org/ and https​://votem​.com/.
+
+Technology, small states and the legitimacy of digital…
+
+461
+
+the tracking of individual payments difficult’ (Ramachandran and Rehermann 2017).
+In response, ‘permissioned’ blockchains have evolved to provide closed or semiopen networks in which the identities of participants are vetted to comply with
+Know Your Customer (KYC) regulations. Yet, these applications by definition limit
+participation to certain vetted and approved publics, limiting their broader democratic input.
+The complexity and evolving nature of blockchains as emergent sets of technologies may also prevent widespread participation in financial inclusion and digital
+development projects centred around the technology. Atzori (2017) has persuasively
+argued that blockchains do not ‘necessarily entail equal opportunities for citizens’.
+The notion that input can be provided by anyone rests on a highly idealised view
+of competition in which specialised knowledge is as widely distributed as access
+to key material goods—a computer or smartphone—that are reliably connected in
+high-speed internet infrastructures (Weber 2014). Yet, in practice, these assumptions
+are undermined by real-world ‘digital gaps’ and unequal levels of what is referred
+to as ‘technological literacy’ (Vlcek 2009; Blomquist 2018). Any blockchain-based
+response to de-risking needs to be accompanied by efforts to enhance internet
+access, as well as financial and technological literacy programmes. Yet, paradoxically, such programmes may risk perpetuating underlying structural inequalities that
+leave expert knowledge concentrated, accentuating longstanding ‘digital gaps’.
+The shortcomings of blockchain-based solutions to de-risking thus pose risks to
+broader legitimacy of digital development and financial inclusion. If only a narrow
+range of publics possessing sufficient technical knowledge and access are able to
+participate in decision-making, broader publics are unlikely to regard blockchainbased schemes as legitimate conditions for advancing digital development and financial inclusion.5
+Output legitimacy promises and risks of blockchain solutions
+Output legitimacy involves exploring whether those affected by decision-making
+ultimately derive material benefits. Do multiple publics gain from the results of
+decision-making? Are gains distributed across publics in equal manners? Are the
+‘digital dividends’ (Nelms et al. 2018) of blockchain-based schemes captured relatively equally or only by a select few? While the exact degree of benefits incurred
+can be debated, what is at stake here is whether or not stakeholders are empowered
+by decisions taken through a novel set of technologies.
+The application of blockchain technologies in promoting financial inclusion
+and overcoming de-risking problems can theoretically provide benefits to multiple
+publics. The technology can provide access to cheaper means of digital exchange,
+including credit transactions. Migrants can benefit from the ability to transfer cryptocurrencies around the world without incurring the high fees charged by centralised
+money transfer firms. Everyday investors can also benefit from the ability to raise
+5
+The geographical distribution of both the Bitcoin and Ethereum networks is revealing in this regard;
+see https​://bitno​des.earn.com/ https​://www.ether​nodes​.org/netwo​rk/1.
+
+462
+
+M. Campbell‑Verduyn et al.
+
+money through Initial Coin Offerings (ICOs) that do not entail the fees charged by
+investment banks coordinating Initial Public Offerings. Blockchain can offer novel
+solutions for international trade financing.6 Banks and other financial institutions
+may benefit from permissioned blockchains to avoid breaches of AML/CFT regulations. The access to real-time information is a great benefit for ‘alleviating the cost
+benefit analysis’ in deciding whether or not to de-risk (Lagarde 2018; see also World
+Bank 2017: 47). Infrastructures to track transaction compliance in accordance with
+AML/CFT regulations provide central banks with better oversight and contribute to
+the wider goal of reducing money laundering and terrorism financing by curbing the
+use of cash. This is particularly the case with attempts to apply blockchains to the
+so-called Central Bank Digital Currencies (CBDC) that have been promoted by the
+International Monetary Fund (IMF) and other international organisations.
+Yet, blockchain applications to combat de-risking can also undermine the output
+legitimacy of digital development schemes. The digital nature of these technologies
+renders it challenging to determine the geographical location in which transactions
+are undertaken, thereby undermining state taxation efforts (World Bank 2017: 45).
+Blockchain-based finance can also promote financial inclusion in ways that expose
+vulnerable populations to scams and predatory schemes in the still widespread corners of ‘casino capitalism’ (Strange 1998). The highly volatile nature of even the
+most established cryptocurrencies arguably involves a ‘substantial transfer of a public good to private speculators’ (Danielsson 2018). Furthermore, the centralised vetting of digital identities in permissioned blockchains is vulnerable to the types of
+privacy breaches that have continually plagued other centralised systems, as demonstrated by the Equifax and Uber data scandals of 2017. Permissionless blockchains
+are also not immune to privacy problems. Most cryptocurrencies, including Bitcoin,
+are only pseudonymous. A blockchain intelligence industry has developed to facilitate forensic identification of the quasi-anonymous users of these open networks.7
+As a result, blockchain applications can perpetuate rather than alleviate forms of
+dataveillance—surveillance through monitoring and collecting online data, allowing
+for a continual growth of ‘surveillance capitalism’ (Zuboff 2015).
+Blockchain solutions that involve ‘privacy by design’ might better ensure user
+control over who accesses data and for what purposes. Such applications might echo
+wider initiatives to implement ‘ethical design frameworks’ of technologies for wider
+consideration of environmental and social impact (LaPointe and Fishbane 2018:
+17). As broader debates over ‘data sovereignty’ have stressed (Arner et al. 2016),
+user control over data is best achieved as part of coordinated systems consisting of
+diverse layers of security and verification rather than a single system designed in an
+institutional vacuum (Rodima-Taylor and Grimes 2019b).
+
+6
+
+See, for instance, https​://www.marco​polo.finan​ce/.
+For instance, they include start-up firms such as Ciphertrace, Elliptic, IDentabit, Shyft, as well as services offered by LexisNexis and Thomson Reuters.
+7
+
+Technology, small states and the legitimacy of digital…
+
+463
+
+De‑risking and re‑risking in blockchain‑based digital development
+This section compares evolving efforts to counter de-risking centred around blockchains in two regions of small states. We characterise attempts to combat investor
+perceptions of illegitimacy through a set of complex technological experiments in
+the Eastern Caribbean as re-risking the legitimacy of digital development and financial inclusion efforts. By contrast, blockchain-based attempts to address the foreign
+legitimacy problems underpinning de-risking in the Baltic states of Eastern Europe
+present much less risk to legitimacy. By comparing evolving blockchain-based derisking projects in two different sub-regions with unique cultures and histories,8 we
+highlight the need for broader public participation, and clearer benefits, across digital development efforts.
+Narrow publics and blockchain‑based solutions to de‑risking in the Eastern
+Caribbean
+In 2016, five Caribbean countries were officially ‘de-risked’ according to the International Monetary Fund (Erbenová et al. 2016). A year later, an IMF working paper
+pointed out ‘the greatest and most consistent decline’ in the provision of banking
+services to international business companies had occurred in the Eastern Caribbean
+(Alleyne et al. 2017). In response, several blockchain-based financial inclusion initiatives have been advanced across the sub-region that spans numerous sovereign and
+non-sovereign islands from Puerto Rico in the north-west to Trinidad and Tobago
+in the south-east. The evolution of these initiatives mirrors the broader movement
+of blockchain technology from open, permissionless networks to permissioned
+networks.
+An initial set of blockchain-based financial inclusion initiatives has involved
+cryptocurrency schemes at the national and regional levels. As one news report
+exclaimed, ‘Puerto Rico and members of the Eastern Caribbean Currency Union
+(ECCU) have shown their eagerness to embrace and learn about cryptocurrency in
+order to improve their countries […] since much of the Caribbean is underserved
+when it comes to banking services, Caribbean countries are turning to cryptocurrencies, such as Bitcoin, to provide better financial services for its citizens’ (Caribbean News Now 2018). A second set of initiatives has involved permissioned
+blockchains, which were identified in 2017 by the Director of the Eastern Caribbean
+Central Bank as key solutions to the region’s de-risking challenges (Godfrey 2017).
+The most prominent of these is a pilot plan coordinated by the Eastern Caribbean
+Central Bank (ECCB) trialled in a ‘cross-border regulatory sandbox’ that attempts
+to lay the infrastructure for a digital version of the East Caribbean dollar (DXCD),
+the currency shared by the eight members of the Eastern Caribbean Currency
+Union (ECCU). As the ECCB’s 2017‒2021 strategic plan put it, the DXCD pilot
+
+8
+These are, of course, not entirely disconnected given the broader historical and contemporary ties
+between Europe and the Caribbean, see Bishop et al. (2013).
+
+464
+
+M. Campbell‑Verduyn et al.
+
+project is ‘designed to demonstrate the viability and functionality’ in a ‘data management, compliance and transaction monitoring system for Know Your Customer,
+Anti-Money Laundering, and Combating the Financing of Terrorism’ to provide ‘a
+secure, resilient digital payment and settlement platform with embedded regional
+and global compliance’ (Eastern Caribbean Central Bank 2017‒2018: 51). The project has positioned the sub-region amongst far larger and resourceful jurisdictions,
+like China, attempting to develop and implement a CBDC. Even if the ECCB does
+ultimately not win the CBDC ‘race’, the DXCD is unique in its experimentation
+with digital monetary cooperation across national jurisdictions (O’Neil 2020). This
+subsection traces how two broadly differing types of market- and central bank-led
+blockchain projects to counter de-risking overlap in receiving their input from and
+providing benefits to a relatively narrow set of publics.
+Narrow input legitimacy in Eastern Caribbean blockchain‑based solutions
+to de‑risking
+Bitcoin and other major cryptocurrencies were developed as ‘universal moneys’ that
+were not specifically intended for use in any one country nor for combatting de-risking across sub-regions like the Eastern Caribbean. Despite its cosmopolitan origins,
+efforts have been undertaken to ‘localise’ financial applications of blockchain technology by developing Caribbean-based cryptocurrencies and digital money services
+that ostensibly fit the particular regional demands. A plan for a Caribbean cryptocurrency (Vigna and Casey 2016), for instance, morphed into a project to establish ‘a
+secure, reliable and easy to use’ regional cryptocurrency exchange.9 Another blockchain-based financial inclusion effort called Caricoin was formed as a social messaging platform with no-fee crypto-remittance functions ‘specifically with the needs
+of the Caribbean people in mind’ (Caricoin Ltd 2016)—such as people in remote
+rural areas (Camdir 2016). Beyond their names, neither of these cryptocurrency projects can be characterised as local initiatives. Caricoin was backed by Bitt, a Barbados start-up firm funded by a large American online retailer, Overstock.com.10
+This local sounding cryptocurrency is based in the UK, although it has development
+offices in Kingston, Jamaica.11
+Foreign-led cryptocurrency projects with little local input have particularly brittle
+legitimacy. This is in part due to the long colonial history of the Caribbean (Hudson 2017). Several cryptocurrency-related projects in the region are implemented
+by large foreign companies such as US-based Ripple and Western Union (Supoto
+2018). Digital technology-led projects have been seen as forms of neo-colonialism
+in the wider region. Most starkly, a local backlash was instigated when a number
+of blockchain billionaires sought to establish a libertarian ‘crypto world’ in Puerto
+Rico following the devastating hurricane of 2017 (Bowles 2018; Yarovaya and
+Lucey 2018). If blockchain-based financial inclusion merely extends the status of
+
+9
+
+See https​://carib​coin.com.
+We expand on this point further below.
+11
+Also called mPago, see mPago (2018).
+10
+
+Technology, small states and the legitimacy of digital…
+
+465
+
+the Eastern Caribbean as a low-tax and low-regulation haven for foreign firms and
+individuals interested in undertaking libertarian experiments, input legitimacy from
+locals is likely to be limited.
+The ECCD digital currency experiment, the main sub-regional blockchain pilot
+scheme to address de-risking and promote financial inclusion in the Eastern Caribbean, suffers from similarly narrow input legitimacy. While attempting to include a
+transnational set of publics beyond those of any one nation-state, the array of actors
+included in the regional central bank pilot project between small Eastern Caribbean
+nation-states has largely remained limited to investors, financiers and technologists
+primarily located abroad. The stakeholders officially consulted by the ECCB include
+‘financial institutions, professional associations, merchants and private sector bodies’.12 Granted, the central decision-making body of the ECCB, its Monetary Council, is comprised of the finance ministers of the Organization of Eastern Caribbean
+States (OECS) members13 that are participating in the pilot. Yet, the technologies
+at the core of the project are provided by a foreign technology start-up called Bitt.
+This Bermuda-based firm was founded in 2013 by members of a group of technologists whose vision is to bring access to cryptocurrencies to the Caribbean. Officially
+launched in 2015, Bitt developed a digital wallet meant to enable everyday people
+and companies to conduct instant financial exchanges between cryptocurrencies
+and major state-backed currencies in a manner secured by ‘military-grade security’
+(Haiti Gazette 2015). The company ostensibly seeks to involve a wide range of participants, as illustrated by its slogan ‘Enable Payments. Empower People’.
+However, this inclusionary goal is actualised mainly through input from financial and technology-based actors outside of the region. High-frequency digital asset
+exchange functionality is provided by AlphaPoint (2017), a New York City-based
+blockchain firm whose technology is ‘designed by veteran Wall Street traders’ and
+whose international partners include Microsoft (ibid.). While Bitt did receive its initial seed investment from a Trinidad and Tobago-based fund’s first angel investment
+(Haiti Gazette 2015), the start-up has been primarily supported by a planned total
+$12 million investment from a blockchain-focused venture capital firm, Medici Ventures, which now holds more than a third ownership share in Bitt (Medici Ventures
+2018). Medici is a subdivision of Overstock.com, a Utah-based company that was
+the first major retailer to accept cryptocurrency payments in 2014. Its founder and
+former CEO, Patrick Byrne, is widely characterised as the Bitcoin messiah (Metz
+2014), a blockchain evangelist who regards the technology as ‘world’s greatest hope
+in ending global poverty’ (Gramm and Soto 2018). As detailed in Overstock’s 2019
+investor report, its Eastern Caribbean ‘Digital Central Banking platform is being
+built in a collaboration between Barbados and Utah’.14 Far from exemplifying local
+participation at the core of the ECCB blockchain pilot project then is a foreign
+
+12
+
+See https​://issuu​.com/starb​usine​sswee​k/docs/issue​84/7 (last accessed on 29 July, 2020).
+These include Antigua and Barbuda, Dominica, Grenada, Montserrat, St. Kitts and Nevis, Saint Lucia
+and St. Vincent and the Grenadines.
+14
+See https​://inves​tors.overs​tock.com/news-relea​ses/news-relea​se-detai​ls/overs​tockc​om-repor​ts-q1-2019-resul​ts-0 (last accessed on 29 July, 2020).
+13
+
+466
+
+M. Campbell‑Verduyn et al.
+
+start-up that has been supported by investment and technology of giant US-based
+firms.
+In 2017, Bitt also announced a partnership with blockchain identity app provider
+Netki, a California-based firm whose AML/KYC approved Hyperledger blockchain is developed by a consortium of firms including IBM and American Express,
+Deutsche Bank, JP Morgan Chase (Hyperledger 2018). Netki requires users to provide copies of government-issued identity documents along with a selfie in order to
+join and transact in digital networks. In ‘streamlining’ KYC, Netki thus functions
+as a centralised gatekeeper with the decision-making power to restrict wider public
+participation.
+Finally, Bitt promotes blockchain usage across the Caribbean with PwC, one
+of the ‘Big Four’ global accounting firms with whom it signed a Memorandum of
+Understanding in 2017 (Faraz 2017). Bitt is part of the Financial Inclusion Global
+Initiative (FIGI), a three year programme coordinated by the Bank of International
+Settlement’s Committee on Payments and Market Infrastructures (CPMI), the International Telecommunication Union (ITU), and the World Bank, with support from
+the Bill & Melinda Gates Foundation (Southurst 2018). Such partnerships with large
+financial institutions and fintech initiatives are indicative of the top-down nature of
+input provided by external corporate actors. Rather than bottom-up, local schemes
+involving everyday actors, Bitt co-founder hosts cryptocurrency parties in which
+‘guests [are] mingling amongst millions of dollars worth of exotic cars’ (Southurst
+2018).
+Granted, some general efforts have been made in parallel with blockchain-based
+de-risking efforts to improve the low levels of financial literacy (Klapper et al
+2015) in the Eastern Caribbean. For instance, the Eastern Caribbean Central Bank
+(ECCB) and banks across the ECCU zone have advanced programmes like ‘Soar to
+Succeed’ as part of Financial Information Month observed each year.15 The ECCB
+also launched a set of Public Education and Awareness Programmes, characterised
+as ‘exemplary’ for their ability ‘to present a truly impressive array of educational
+materials and tools’ (Fluch 2007). There are also some industry efforts in the wider
+Caribbean region to overcome gender gaps in cryptocurrency markets.16 However,
+neither of these are systematically interlinked with the ECCB pilot project, whose
+input appears limited to elite actors largely stemming from outside the region. The
+fact that many local banks have not been supportive of the ECCB pilot schemes is
+indicative of the low input legitimacy of this blockchain-based project to combat
+de-risking that appears to do little to address wider structural issues limiting stakeholder participation. Even Barbados, the ECCB member with the highest internet
+penetration rates, ranks low relative to other countries for upload and download
+speeds (Fonseca-Hoeve et al. 2017). As Wall Street Journal cryptocurrency reporters Vigna and Casey (2016) observed a half decade ago with regard to the wider
+
+15
+See https​://stluc​iasta​r.com/bosl-suppo​rts-finan​cial-infor​matio​n-month​/ (last accessed on 2 August,
+2020).
+16
+See https​://www.baham​asloc​al.com/newsi​tem/22147​8/Crypt​oChic​ks_Bring​ing_Block​chain​_and_Al_
+Hacka​thon_to_The_Baham​as.html (last accessed on 2 August, 2020).
+
+Technology, small states and the legitimacy of digital…
+
+467
+
+Caribbean region, ‘[w]hile virtually everybody has a cell phone, the proverbial
+badge of a digital citizen, people use them only for texting and talking. E-commerce
+is barely getting started, as is online banking’. The persistence of these gaps undermine assumptions that anyone can participate in digital development schemes in
+the region marked by deep economic, education, gender, and racial divides (Werner
+2016).
+Technology is what its users make of it. It can be harnessed in manners that
+attempt to overcome structural inequalities; it can also be left to those with access
+to the necessary resources to do so in ways that risk perpetuating the existing hierarchies. Blockchain applications intended to enhance financial inclusion and combat
+de-risking in the Eastern Caribbean can risk undermining the legitimacy of digital development if these projects are not explicitly accompanied by wider efforts to
+ensure that multiple publics have access, and the ability, to harness these complex
+and evolving technology-centered schemes. It is not government alone that is capable of ensuring this; wider sets of publics need to be involved in the initiatives of
+central bank themselves, a process exemplified by the citizen consultations by the
+central banks as part of the Task Force on Climate Related Financial Disclosures.17
+Neither technology, nor states or markets– on their own—are panaceas for enhancing input legitimacy, or for output legitimacy. As we turn to examine the latter in the
+Eastern Caribbean context, we stress how governments can play productive roles
+along with firms in transnational digital development experiments.
+Narrow output legitimacy in Eastern Caribbean blockchain‑based solutions
+to de‑risking
+Clear benefits to foreign investors and technologists; less clear benefits to wider publics. This discrepancy at the heart of blockchain-led attempts to combat de-risking
+in the Eastern Caribbean can ‘re-risk in realtime’ the output legitimacy of digital
+development and financial inclusion efforts. Small states in the Caribbean that are
+heavily reliant on remittances as well as exports theoretically have much to gain
+from crypto-remittances and their potential transparency. However, those schemes
+have been largely ignored in favour of efforts to raise funds through ICOs such as
+the ‘Initial Development Coin Offering’ (IDCO), a crowdfunding project backed
+by a private consortium of development and renewal energy firms. The Antigua
+Development Coin (ADC) provides investors with half the net income generated
+by projects funded through the ICOD. Raising money through novel technological
+schemes with zero filing requirements and without common securities rules and
+required public disclosures contributed to de-risking in the first instance. The regulatory race to the bottom in such blockchain-based schemes perpetuates rather than
+challenges the perceptions contributing to de-risking. Further forms of de-risking
+have occurred, for instance, as global banks like Wells Fargo ceased processing the
+
+17
+See https​://www.bloom​berg.com/profe​ssion​al/blog/decip​herin​g-task-force​-clima​te-relat​ed-finan​cialdiscl​osure​s-tcfd/ (last accessed on 29 July, 2020).
+
+468
+
+M. Campbell‑Verduyn et al.
+
+wire transfers of prominent cryptocurrency exchange Bitfinex, which registered in
+the British Virgin Islands (Hunter and Steinberg 2017).
+A beneficiary of the ECCB pilot meanwhile is Bitt. The Barbados-based fintech
+start-up has sought to position its technology at the core of a wider Caribbean Settlement Network for the Caribbean Community and Common Market (CARICOM).
+Indeed, the ECCB pilot is part of the company’s ‘larger bid […] to connect regional
+central banks and commercial banks using digital fiat currencies and blockchain
+tech as a new kind of payment rail’ (Rizzo 2017). Bitt is already building on the
+ECCB trial in further tests of its technology with the central banks of Curacao, Sint
+Maarten, and Montserrat. Bitt has also been in talks with other central banks across
+the Caribbean region, including the Bahamas and Jamaica (CMC 2018). Bitt’s
+objective, as a review of the company put it, is ‘to re-create the current financial
+structure using a blockchain-based solution’ (BitcoinExchangeGuide 2017). To its
+credit, Bitt has been upfront about its intentions and advocacy of employing blockchain technology to recreate rather than fundamentally reform the regional financial
+order (Koetsier 2017). In 2016, Bitt undertook the first central bank-approved digitisation of a national currency, Barbadian Digital Dollar, on its mMoney ‘platform’.
+This blockchain protocol is intended to enable central banks to simply create digital
+versions of their fiat currencies in ways that are ‘theoretically impossible to counterfeit’ while permitting ‘much greater ability to track fraud and financial crimes’
+(International Telecommunications Union 2017). The digital East Caribbean Dollar and other blockchain-based financial inclusion projects thus enable national and
+cross-border transactions to be ‘observed by the government and local regulators’
+(Rizzo 2016).
+In contrast to central banks and start-ups like Bitt, the benefits to citizens of the
+Eastern Caribbean sub-region are far less clear. Bitt (2018) boasts a mission ‘to
+financially empower everyone and provide infrastructure to support a digital financial ecosystem throughout the Caribbean, that will stimulate economic growth and
+financial access for this and future generations’. The company seeks to provide
+decentralised peer-to-peer money transfers in manners that undermines centralised
+remittance firms such as MoneyGram and Western Union. However, the de-cashification at the heart of the ECCB pilot plans to develop a digital East Caribbean
+Dollar that reduces paper currency by half in just a few years (see Fig. 1). Such
+rapid digitisation may further de-stabilise a sub-region in which local trust in digital
+networks is already low (Harper 2017). Digital financial systems can be vulnerable
+to technical glitches and may not operate optimally in the best of times across a
+sub-region periodically plagued by hurricanes. Further risks enhanced by the DXCD
+project include those to individual privacy, as well as consumer protection issues
+that are only briefly noted in ECCB documents’ description of its digital dollar
+pilot plan, including security issues relating to digital wallets whose contents are
+highly susceptible to hacking.18 Also overlooked is whether or not blockchain-based
+
+18
+In the final slide of presentation on virtual currency the ECCB mentions a possible future Caribbean
+Data Protection Regulation along the lines of the recently adopted European Union’s General Data Protection Regulation.
+
+Technology, small states and the legitimacy of digital…
+
+469
+
+Fig. 1  Rapid de-cashification: a high-risk response to de-risking. Adapted from Antoine (2019)19
+
+monetary integration will be paralleled by closer coordination of national budgets
+between members of the OECS—a body that is characterised as a more of an intergovernmental organisation due to its weak secretariat (Sharman 2016). The extent
+to which this and other digital financial inclusion projects overcome historically difficult regional integration efforts and do so in manners that benefit local citizens has
+remained under-emphasised in discussions surrounding the ECCB pilot plan. Without clearly identifying the gains to broader local publics, such digital development
+projects appear to suffer from narrow output legitimacy.
+The ‘legitimacy gaps’ detailed in this section are neither natural, nor inevitable.
+There exist pathways for broadening the input and output legitimacy of digital development and financial inclusion schemes. In the next section we turn to blockchainbased efforts to overcome de-risking in another region of small states where we see
+less risks to legitimacy due to greater roles played multiple publics.
+The wider legitimation of initiatives to combat de‑risking in the Baltics
+De-risking has also afflicted the trio of small states in the Baltic region of Eastern
+Europe. After regaining independence from the Soviet Union and joining the European Union (EU) in 2004, Estonia, Latvia, and Lithuania came to host numerous
+branches of Western European banks. In liberalising their financial sectors in the
+1990s, the Baltic states promoted their ‘bridging’ positions between Russia and the
+rest of the EU. Several foreign banks involved, however, catered less to the needs of
+local residents than to individuals and institutions from other former Soviet states
+that were seeking to shift capital to offshore jurisdictions. The roles of foreign banks
+in the Baltics serving as corresponding intermediaries in facilitating capital flight
+became most prominently exposed in the largest international money-laundering
+
+19
+Description of the X-axis is missing from the reference. The graph is not intended to display the precise changes, but to illustrate the general tendency.
+
+470
+
+M. Campbell‑Verduyn et al.
+
+scheme uncovered to date. Illicit payments equivalent to approximately 200 billion euros, ten times Estonia’s GDP, were processed mostly from Russia through
+the local branch of Danske Bank between 2007‒2015 (Coppola 2018). Danske
+Bank was forced to close its Estonian branch and a number of its employees were
+arrested. Danske’s CEO faced charges in Denmark while the bank remains subject
+to potentially billions of dollars in fines from the American, Danish and other European authorities.20 Despite its unprecedented size and severity, this was not a oneoff event. Other illicit activities that contributed to the perception of enhanced risks
+for financiers to operate in the sub-region included the liquidation of Latvia’s largest non-resident bank, ABLV, after it was designated ‘a financial institution of primary money laundering concern’ by the US Treasury (Robert 2018). The US State
+Department also featured Lithuania on its list of ‘Jurisdictions of Primary Concern’
+for money laundering in 2018.
+Blockchain technologies have been harnessed for both regional and national
+digital development strategies in overcoming the de-risking faced by Baltic states.
+A non-binding resolution passed by the European Parliament in 2017 established
+a regional framework for regulatory supervision and development of blockchain
+expertise (Atzori 2017; Kaili 2018). The European Commission provided 340 million euros in research funding on applications of the technology (EU Blockchain
+Observatory and Forum 2018) while the Fifth Anti-Money Laundering Directive
+(5AMLD) extended EU AML/CFT provisions to cryptocurrency exchange platforms, as well as wallet providers (Conheady 2018). Estonia became the first EU
+member state to transpose these requirements into national law, two years ahead
+of the required 2020 adoption. Blockchain-based efforts to combat de-risking have
+also been pursued by the Estonian, Latvian and Lithuanian governments who collectively stated their intention to support the development of blockchain technologies in a recent Memorandum of Understanding about sub-regional capital market
+development (Ministry of Finance of the Republic of Estonia et al. 2017). ICOs
+were launched early on leading the Baltic states into the top ranks in international
+measures for funds raised per capita (Payment Week 2018). Despite its small size,
+Lithuania was third in the world for ICO funds raised after China and the United
+States. ICOs raised the equivalent of over 28 million euro in 2017 in Latvia, where
+blockchain initiatives have received somewhat lesser visibility than the other two
+Baltic states (Gifford 2018).
+Despite a continued role of market actors in blockchain-based financial inclusion
+strategies, national governments have played significant roles in ensuring that digital
+development in the Baltic region are linked to wider digital infrastructures and education projects. As we detail in this subsection, the greater presence of democratic
+states in the Baltics broadens the legitimacy of digital development efforts in manners that overcome the narrow legitimacy plaguing the quasi-public and largely private initiatives in the Eastern Caribbean. By examining evolving blockchain-based
+20
+
+See https​://www.reute​rs.com/artic​le/us-dansk​e-bank-money​laund​ering​/ex-dansk​e-ceo-borge​n-charg​
+ed-over-money​-laund​ering​-case-repor​t-idUSK​CN1SD​1P3 (last accessed on 29 July, 2020) and https​://
+www.bloom​berg.com/news/artic​les/2020-01-03/dansk​e-faces​-2-billi​on-in-fines​-for-laund​ering​-case-jyske​
+-says (last accessed on 29 July, 2020).
+
+Technology, small states and the legitimacy of digital…
+
+471
+
+initiatives in the Baltic sub-region we illustrate the importance of persistent roles
+for government in ensuring that multiple publics participate and benefit from digital
+financial inclusion projects.
+Wider input legitimacy of blockchain‑based solutions to de‑risking in the Baltics
+Despite their small populations, a number of leading actors in blockchain technology applications hail from the Baltics. For instance, the largest cryptocurrency production mining operation in the world was founded in 2011 by two Latvians who
+had witnessed the collapse of state and monetary institutions in the fall of the Soviet
+Union (Dunne 2018). Based in Amsterdam, with offices in San Francisco, Washington DC, Riga, Latvia and Hong Kong, the start-up Bitfury also builds national land
+and real estate databases in Georgia and Ukraine that enable post-socialist publics
+to overcome their distrust in governments due to past corruption. These and other
+blockchain-based digital development schemes exemplify the potential for input by
+transnational publics based in multiple countries (Porter 2014).
+Technology start-ups in the Baltics benefitted from funding provided by both
+national and regional authorities, including a grant from EU’s Joint European
+Resources for Micro to Medium Enterprises Fund (Di Salvo 2018). Democratic
+governments were intricately involved in the design of the leading permissioned
+blockchain-based digital development initiative in the Baltics. The Estonian e-Governance project initially arose in a local cyber-security community that sought to
+respond to the 2007 Russian cyber-attacks (Schmidt 2013a, b: 14; Hansel 2018).
+Over the following decade a network of citizens, governmental representatives, and
+firms was formed to expand this project. The technology companies involved were
+largely locally based or locally initiated start-ups. Building on the ‘hash-linked timestamping’ technology developed by local cryptographers, a team of Estonian software and security specialists designed the digital signature system that underpins
+the Keyless Signature Infrastructure (KSI) Blockchain Technology Stack. Produced
+by Estonian software security start-up Guardtime,21 the KSI Technology Stack is the
+permissioned blockchain underpinning a variety of Estonian state registries, including Healthcare Registry, Property Registry, Business Registry, Digital Court System, and others (Rodima-Taylor and Grimes 2019b).
+Baltic countries have also encouraged and enabled their citizens to participate in
+digital development schemes by funding broadband access and digital education.
+Following its independence after the dissolution of the Soviet Union in 1991, the
+national government of Estonia embarked on a plan of rapid digital advancement
+(Kerikmäe and Särav 2015),22 declaring internet access a human right at the turn
+of the new millennium. A government-backed technology investment body, called
+The Tiger Leap Foundation, helped to digitise Estonian schools by the late 1990s.
+
+21
+
+Now based in Amsterdam, the Netherlands.
+See also Schmidt (2013a, b) specifically regarding de-risking responses undertaken after the 2008
+Estonian cyber-attack by Russia.
+22
+
+472
+
+M. Campbell‑Verduyn et al.
+
+Estonian schoolchildren begin their computer literacy at the age of 7. Large investments were made by the Estonian government in computer infrastructure and ICT
+education (Roonemaa 2017). At 75% of the population, Estonia’s internet penetration is among the highest in the world, earning the country the label of ‘the most
+advanced digital society in the world’ (Hammersley 2017) and international praise
+(The Obama White House 2014). This was not solely a government achievement,
+but one that involved the partnership of local technology firms. Private sector associations such as TechChill, TechHub Riga, and the Latvian Startup Association have
+sought to address the remaining inequalities, such as gender gaps, across the local
+technology sector. While gender disparities remain,23 Latvia has the highest share of
+women’s representation in leadership in the European Union (Munford 2018).
+Baltic governments have sought to include multiple publics in decision-making
+in widening the input legitimacy of their digital development strategies, including
+those centred around blockchains. In combatting de-risking through projects like the
+Estonian e-Governance project the legitimacy of local efforts to promote financial
+inclusion has been less ‘re-risked’.
+The wider output legitimacy of blockchain‑based solutions to de‑risking
+in the Baltics
+The proliferation of ICOs across the three Baltic states presents challenges to the
+output legitimacy of blockchain-based initiatives in combating de-risking (Plucinska
+2018). Yet, risks to the legitimacy of digital development and financial inclusion
+strategies have been tempered by public safeguards both from within the sub-region
+and as part of wider EU regulation. The regional securities regulator—the European
+Securities and Markets Authority (ESMA)—has issued ICO-related warnings to the
+public regarding the dangers of losing capital through speculative investments. More
+specifically, ESMA has also required companies dealing with ICOs to meet AML/
+KYC regulations and obtain business licenses. At the national level, meanwhile,
+Latvia has required ICOs to obtain a Investment Management Company Licence and
+meet pre-determined risk and capital requirements. Lithuania has become a global
+hub for investing in tokenised securities, traditional securities or assets represented
+as token on a blockchain-based system, through a locally developed crowdfunding
+law enabling the issuance of security tokens legally compliant in the EU (Wolfson
+2018). The LBChain platform-service developed as part of a regulatory sandbox
+overseen by the Bank of Lithuania, for example, enables local and international
+companies to conduct blockchain technology research and to test blockchain-based
+services within a supervised financial environment (Bank of Lithuania 2018).
+Baltic states have been balancing technological and financial innovation with
+consumer protection in their promotion of digital financial inclusion strategies. Estonia is one of the few EU member states that has required virtual currency exchange
+service providers to apply for a cryptocurrency exchange license from its Register
+
+23
+In Latvia, for example, men form about 80% of the blockchain sector, and the participating women are
+not accessing the same benefits (Plucinska 2018).
+
+Technology, small states and the legitimacy of digital…
+
+473
+
+of Economic Activities. The country has striven to become a ‘global ICO hub’, by
+elaborating a more secure legal framework for cryptocurrency trading (Witismann
+2018). The publics intended as beneficiaries from these financial inclusion schemes
+are not only national, but international. Estonia’s e-Residency programme involves
+over 54,000 e-residents based in nearly 150 countries (Republic of Estonia 2019).
+Estonian e-residents can register and run businesses with access to many digital
+services without physically entering the country.24 Importantly, the e-Residency
+initiative was government-led: the national digital services framework served as a
+basis for the programme that in 2014 began to offer transnational digital identities
+to citizens of any part of the globe. In 2015, the e-Residency initiative partnered
+with blockchain startup Bitnation to pilot blockchain-based public notary services
+for Estonian e-Residents. Leading stock exchange NASDAQ has sought to develop
+several blockchain applications in Estonia through the Tallinn Stock Exchange and
+the Estonian Central Securities Depository. Citizen privacy and security protections
+have remained at the forefront of Baltic blockchain schemes. Blockchain-powered
+initiatives result from a combination of diverse modes and layers of decentralising
+technology – including the X-Road,25 digital IDs, KSI-blockchain based data management, Bitnation’s Ethereum-powered public notary services, and planned global
+data embassies for added cyber security (Rodima-Taylor and Grimes 2019b).
+Although not entirely without risks, blockchain-based digital development initiatives in the Baltics have integrated digital financial inclusion schemes within systematic attempts to protect local and foreign citizens, afford them control over their
+information, and counteract dataveillance. The governments of these countries have
+undertaken protensive efforts to develop multi-layered data security systems that
+empower citizens through systematic digital education initiatives. Each Baltic state
+has also sought to provide regulatory clarity for blockchain-based investments and
+companies in order to avoid the widespread scandals, scams and predatory lending
+that have characterised many similar schemes beyond the sub-region (CampbellVerduyn and Hütten 2019). In doing so, Baltic states have managed to expand considerably the range of publics benefiting from digital development, including citizens beyond the sub-region itself.
+Combating de‑risking through multiple publics
+In seeking to combat de-risking and address foreign perceptions that their economies are rife with illicit activity, small states around the world have turned to digital
+financial inclusion projects based on novel applications of emerging technologies.
+Attending to foreign perceptions of illegitimacy, these technology-led projects have
+ensured local participation and benefits to varying degrees. This section illustrated
+how largely private and market-based blockchain-based initiatives undertaken in the
+Eastern Caribbean include and benefit a rather narrow range of publics. By contrast,
+24
+
+See https​://e-eston​ia.com/toolk​it/.
+A distributed data exchange layer connecting the existing databases from public and private sectors,
+see https​://www.ria.ee/en/x-road.html (last accessed on 29 July, 2020).
+25
+
+474
+
+M. Campbell‑Verduyn et al.
+
+the involvement of governments in the blockchain-based projects across the Baltic
+region has broadened the range of publics involved in ways that risk the legitimacy
+of digital development and financial inclusion schemes much less. The main conclusion stemming from this comparison is that the greater, yet far from overwhelming,
+presence of governments can address the paradox that a reliance on complex technologies for overcoming de-risking entails for the local legitimacy of digital development. Involvement by democratic nation-states on their own is no panacea. Government presence in such projects is a means of involving multiple publics rather
+than an end in itself: as the Baltic case illustrated, local private sector involvement
+along with wider regional support is also crucial to avoid any excessive state centralisation across digital development and financial inclusion strategies.
+
+Conclusion
+The withdrawal of correspondence banking and other financial relationships crucial
+to development of emerging economies is not merely a technical problem of either
+legal enforcement or improving risk calculations. At its core, de-risking is a legitimacy problem and one that cannot be addressed by technological fixes alone. As
+part of the wider ‘turn to technology’ in finance-centered development blockchains
+provide novel manners of formalising and rendering legible to foreign financiers and
+regulators transactions that may otherwise be considered messy, potentially illicit
+and whose risks are unlikely to be worth any potential reward. By enhancing the
+transparency of cross-border transactions in nearly real-time, blockchain applications can enable credit to once again flow to regions affected by de-risking, advancing the ‘financial inclusion’ agenda promoted by development institutions. Yet, as
+our analysis of unfolding schemes in the Eastern Caribbean highlighted, blockchainbased solutions to de-risking can suffer from narrow forms of legitimacy in which
+foreign financiers and technologists participate and benefit disproportionally relative to the locals who are ostensibly meant to be the primary beneficiaries. Reliance
+on technological solutions alone—whether blockchains or other emergent technologies—for combating de-risking can exacerbate socio-economic inequalities,
+leading a relatively small set of publics to participate and to benefit from digital
+development.
+As we have argued, the narrow legitimacy of blockchain-based financial inclusion
+can be avoided by greater involvement of, and clearer benefits to, multiple publics.
+Our case studies highlighted the importance of understanding where digital financial
+inclusion efforts originate from, as well as whom they involve and empower. Combatting de-risking clearly requires some risk-taking. Yet, the risks accompanying a
+reliance on largely untested technologies must be accompanied by risks on the institutions meant to ensure the widest participation and range of benefits to local actors.
+Democratic governments need to be engaged in order to ensure the input and output legitimacy of transnational digital development and financial inclusion schemes.
+However, government involvement is necessary to the extent that it widens the publics involved in, and benefiting from, these projects. As our second case study has
+shown, unfolding digital development efforts in the Baltic states of Eastern Europe
+
+Technology, small states and the legitimacy of digital…
+
+475
+
+have more productively involved a wider range of publics in blockchain-based projects. While there remained market-based processes in this region, blockchain-based
+de-risking was situated within digital development strategies that involved government funding of start-ups and digital education to ensure consumer protections from
+scams and privacy violations. Our analysis of blockchain-based schemes in these
+two regions supports the wider contention of development scholars that completely
+‘bypassing the state in developing countries to target individuals directly underestimates the importance of strong public institutions, both for accountability and
+democratic oversight, and for economic and social progress’ (Hagmann and Fejerskov 2018). While they may be key parts of the solution to de-risking and financial
+exclusion, neither technology nor markets on their own can ensure that digital development remains legitimate. Democratic governments need to be involved in both
+the manners we have outlined in this article as well as in other manners that might
+be further identified by examining technology-centred initiatives unfolding across
+the small states of other regions. In central Asia, for example, the governments of
+Georgia and Tajikistan have developed blockchain-based remittance schemes with
+foreign companies and international development agencies (Weiss and Corsi 2018).
+These projects might be productively contrasted with the CBDC experiments in
+small West African states (Njeri 2017).26 Beyond (sub-)regions of small states, the
+digital development efforts of larger as well as less democratic states also need to
+be critically examined. It will be important to investigate how precisely Russian and
+Chinese state and non-state actors are employing blockchains and other emergent
+technologies in achieving development goals through more top-down and statecentralised governance models that are becoming particularly attractive in many of
+the regions of the Global South afflicted by de-risking (Mahrenbach 2018; Ngetich
+2018; Vnesheconombank 2018).27
+Most importantly, IPE and IR research needs to reflect on how emblematic blockchains are of longer standing efforts to ‘tame’ uncertainty by mobilising risk management technologies. To what degree are digital ledgers fundamentally different
+from other algorithmic technologies enabling transactions to be processed at higher
+velocities and at calculating the probabilities that inform financial decisions? While
+intended to tame risk, artificial intelligence, Big Data, blockchain and other digital
+technologies may at best be shifting risks and, at worst, introducing new risks. IPE
+scholarship has traced how risk management technologies have tended to promote,
+rather than entirely eliminate, uncertainties in manners that have posed important
+
+26
+Several West African states are among the earliest adopters of a national digital currency, such as
+blockchain-based eCFA in Senegal (2016), and eDinar in Tunisia (2015). There are plans to extend
+eCFA to other West African Economic and Monetary Union member states.
+27
+Indeed, as Caribbean Development Bank (CBD) economists (Maier et al. 2017: 3) have asserted,
+‘China’s influence in the Caribbean has grown at a time that the United States of America (USA) and
+Europe have a reduced appetite for trade and investment in the Region’. The report went on to note that
+CBD member countries ‘are the recipients of FDI flows or trade denominated in RMB can now conduct transactions using correspondent banking relationships (CBRs) from Chinese banks through CIPS
+[Cross-border Interbank Payment System], alleviating the need for traditional CBRs underpinned by a
+western banking network’ (ibid.; see more generally Bernal 2015; Tannenbaum 2018).
+
+476
+
+M. Campbell‑Verduyn et al.
+
+implications for the legitimacy of financial systems (de Goede 2001). The risks
+of money-laundering and terrorist financing, alongside other murky elements of
+the ‘shadow economy’, are unlikely to ever disappear entirely. Such elements tend
+to grow as countries develop (Solis-Garcia and Xie 2018). The degrees to which
+blockchains and other applications of emerging technologies overcome such perils
+through an accompanying involvement of wider publics poses important questions
+for further research.
+Acknowledgements Previous drafts of this article benefited from the insightful feedback provided by
+members of the IPE chair group at the University of Groningen, as well as participants in the workshops
+‘De-risking, Financial Exclusion & Resiliency in the Caribbean: Scoping out the Problem, Searching for
+Solutions’ held at the Federal Reserve Bank of Atlanta in November 2018, and ‘Economic Regulations in
+a Digital World,’ organised by GEMSTONES-WIRE in Toronto, Canada, in March 2019. We also thank
+our anonymous reviewers for their helpful and constructive comments.
+Funding Moritz Hütten has also benefited from funding by the Hans-Böckler-Stiftung, Project Number
+2017-437-2.
+
+References
+Alleyne, Trevor et al. (2017) ‘Loss of Correspondent Banking Relationships in the Caribbean: Trends,
+Impact, and Policy Options’, IMF Working Paper WP/17/209.
+Alliance for Financial Inclusion (2018) ‘Global Policy Report’, available at https​://www.afi-globa​l.org/
+publi​catio​ns/3016/The-2018-Globa​l-Polic​y-Forum​-GPF-Repor​t-Innov​ation​-Inclu​sion-Impac​t (last
+accessed on 29 July, 2020).
+AlphaPoint (2017) ‘AlphaPoint – Digital Asset Exchange Software Blockchain Technology?’, BitcoinExchangeGuide, available at https​://bitco​inexc​hange​guide​.com/alpha​point​/ (last accessed on 29 July,
+2020).
+Antoine, Timothy (2019) ‘Virtual Currency and Cybersecurity’, Eastern Caribbean Central Bank, available at https​://cab-inc.com/wp-conte​nt/uploa​ds/2019/06/Gov.-Timot​hy-Antoi​ne-ECCB-Virtu​alCurre​ncy-and-Cyber​-Secur​ity-CEO-Direc​tor-Forum​.pdf (last accessed on 29 July, 2020).
+Atzori, Marcella (2017) ‘Blockchain Governance and The Role of Trust Service Providers: The TrustedChain®’, Network. Journal of The British Blockchain Association 1(1): 1–17.
+Arner, Douglas W., Janos Barberis and Ross P. Buckey (2016) ‘FinTech, RegTech, and the Reconceptualization of Financial Regulation.’, Journal of International Law & Business 37(3): 371‒413.
+Bank of Lithuania (2018) ‘The Bank of Lithuania to Launch Blockchain Sandbox Platform Service’,
+Bank of Lithuania, available at https​://www.lb.lt/en/news/the-bank-of-lithu​ania-to-launc​h-block​
+chain​-sandb​ox-platf​orm-servi​ce (last accessed on 29 July, 2020).
+Barker, Rodney (2001) Legitimating Identities: The Self-Presentations of Rulers and Subjects, Cambridge: Cambridge University Press.
+Bernal, Richard L. (2015) ‘The Growing Economic Presence of China in the Caribbean’, World Economy
+38(9): 1409‒37.
+Bernards, Nick (2019) ‘Tracing Mutations of Neoliberal Development Governance: “Fintech”, failure and
+the Politics of Marketization’, Environment and Planning A: Economy and Space 51(7): 1442‒59.
+Best, Jacqueline (2018) ‘Technocratic Exceptionalism: Monetary Policy and the Fear of Democracy’,
+International Political Sociology 12(4): 328‒45.
+Best, Jacqueline (2016) ‘Rethinking Central Bank Accountability in Uncertain Times’, Ethics & International Affairs 30(2): 215‒32.
+Best, Jacqueline and Alexandra Gheciu, eds (2014) The Return of the Public in Global Governance,
+Cambridge: Cambridge University Press.
+Biben, Matthew and Gregory Lyons (2018) ‘2017 Anti-Money Laundering Year in Review and 2018
+Outlook’, Debevoise, available at https​://www.debev​oise.com/insig​hts/publi​catio​ns/2018/02/2017anti-money​-laund​ering​-year-in-revie​w (last accessed on 29 July, 2020).
+
+Technology, small states and the legitimacy of digital…
+
+477
+
+Birch, David and Salome Parulava (2017) ‘Ambient Accountability’, in David Lee, ed., Handbook of
+Blockchain, Digital Finance, and Inclusion, 375‒87, Elsevier: Academic Press.
+Bishop, Matthew L., Tony Heron and Anthony Payne (2013) ‘Caribbean Development Alternatives and
+the CARIFORUM–European Union Economic Partnership Agreement’, Journal of International
+Relations and Development 16(1): 82‒110.
+BitcoinExchangeGuide (2017) ‘Bitt – Carribean-Based Buy & Sell Bitcoin & Online Wallet Service?’,
+available at https​://bitco​inexc​hange​guide​.com/bitt/ (last accessed on 29 July, 2020).
+Bitt (2018) ‘Company’, available at https​://www.bitt.com/about​/compa​ny (last accessed on 29 July,
+2020).
+Blomquist, Kayla (2018) Emerging Blockchain Technologies Have the Potential to Transform Society.
+Center for International Private Enterprise,’ available at https​://www.cipe.org/blog/2018/03/14/
+emerg​ing-block​chain​-techn​ologi​es-poten​tial-trans​form-socie​ty/ (last accessed on 29 July, 2020).
+Bowles, Nellie (2018) ‘Making a Crypto Utopia in Puerto Rico’, New York Times, 2 February, available at
+https​://www.nytim​es.com/2018/02/02/techn​ology​/crypt​ocurr​ency-puert​o-rico.html (last accessed
+on 29 July, 2020).
+Caribbean News Now (2018) ‘The Rise of Cryptocurrency in the Caribbean’, 19 March.
+Campbell-Verduyn, Malcolm (2019) ‘What Does Technology Do?’, in Matthias Leese and Marijn Hoijtink, eds, Technology and Agency in International Relations, 113‒40, New York: Routledge.
+Campbell-Verduyn, Malcolm (2018) ‘What Are Blockchains and Why Are They Relevant to Governance
+in the Global Political Economy?’, in Malcolm Campbell-Verduyn, ed., Bitcoin and Beyond: Cryptocurrencies, Blockchains and Global Governance, 1‒24, New York: Routledge.
+Campbell-Verduyn, Malcolm (2017) ‘Capturing the Moment? Crisis, Market Accountability, and the
+Limits of Legitimation’, New Political Science 39(3): 350‒68.
+Campbell-Verduyn, Malcolm and Moritz Hütten (2019) ‘Beyond Scandal? Blockchain Technologies and
+the Legitimacy of Post-2008 Finance’, Finance and Society 5(2): 126‒44.
+Camdir, John (2016) ‘Caricoin Launches Bitcoin Wallet for the Financially Underserved in the Caribbean’, Bitcoin Magazine, available at https​://bitco​inmag​azine​.com/artic​les/caric​oin-launc​hes-bitco​
+in-walle​t-for-the-finan​ciall​y-under​serve​d-in-the-carib​bean-14664​35907​/ (last accessed on 29 July,
+2020).
+Caricoin Ltd. (2016) ‘Caricoin Ltd. Launches Bitcoin Mobile Wallet for the Caribbean’, available at https​
+://www.prweb​.com/relea​ses/2016/06/prweb​13492​022.htm (last accessed on 29 July, 2020).
+Clark, Ian (2005) Legitimacy in International Society, Oxford: Oxford University Press.
+CMC (2018) ‘Montserrat to Try Digital Eastern Caribbean Dollars with Blockchain Start-up Bitt’, available at https​://www.natio​nnews​.com/natio​nnews​/news/13161​9/monts​errat​-try-digit​al-easte​rn-carib​
+bean-dolla​rs-block​chain​-start​-bitt (last accessed on 29 July, 2020).
+Conheady, Gina (2018) ‘INSIGHT: EU Regulation of Cryptocurrency Exchanges: 5AMLD Ups the
+Ante’, Bloomberg BNA, available at https​://news.bloom​bergl​aw.com/corpo​rate-gover​nance​/insig​
+ht-eu-regul​ation​-of-crypt​ocurr​ency-excha​nges-5amld​-ups-the-ante (last accessed on 29 July, 2020).
+Coppola, Frances (2018) ‘The Tiny Bank at The Heart of Europe’s Largest Money Laundering Scandal’,
+Forbes, 26 September, available at https​://www.forbe​s.com/sites​/franc​escop​pola/2018/09/26/thetiny-bank-at-the-heart​-of-europ​es-large​st-money​-laund​ering​-scand​al/#190ce​fdd28​05 (last accessed
+on 29 July, 2020).
+Culp, Steve (2018) ‘Banks Need New Approaches in Complying with Financial Crimes Regulations’,
+Forbes, 5 March, available at https​://www.forbe​s.com/sites​/steve​culp/2018/03/05/banks​-need-newappro​aches​-in-compl​ying-with-finan​cial-crime​s-regul​ation​s/#796de​b8841​47 (last accessed on 29
+July, 2020).
+Danielsson, Jon (2018) ‘Cryptocurrencies:Financial stability and fairness’, VOX, CEPR Policy Portal 9
+November.
+De Koker, L., Singh, S. and Capal, J., 2017. Closure of bank accounts of remittance service providers:
+Global challenges and community perspectives in Australia. University of Queensland Law Journal, 36, p.119.
+De Goede, Marieke. (2001) Virtue, fortune, and faith: A geneaology of finance, University of Minnesota
+Press.
+Di Salvo, Mathew (2018) ‘Startup Ecosystem Spotlight: Latvia’, available at https​://150se​c.com/start​upecosy​stem-spotl​ight-latvi​a/8320/ (last accessed on 29 July, 2020).
+Dunne, Steve (2018) ‘Global Finance Leader Study: Why the CFO Must Also Be the Chief Collaboration Officer’, Forbes, available at https​://www.forbe​s.com/sites​/workd​ay/2018/10/30/globa​l-finan​
+
+478
+
+M. Campbell‑Verduyn et al.
+
+ce-leade​r-study​-why-the-cfo-must-also-be-the-chief​-colla​borat​ion-offic​er/ (last accessed on 29
+July, 2020).
+Dupont, Quinn (2019) Cryptocurrencies and Blockchain, Polity, Cambridge.
+Eastern Caribbean Central Bank (2018) ‘Annual Report 2017–2018’, available at https​://user-fc5cr​hc.cld.
+bz/ECCB-2017–2018-Annua​l-Repor​t (last accessed on 2 August, 2020).
+Erbenová, Michael, Yan Liu, Nadim Kyriakos-Saad, Alejandro López-Mejía, Giancarlo Gasha, Emmanuel Mathias, Mohamed Norat, Francisca Fernando, and Yasmin Almeida. 2016. “The Withdrawal
+of Correspondent Banking Relationships: A Case for Policy Action.” IMF Staff Discussion Note.
+Washington, DC: International Monetary Fund.
+EU Blockchain Observatory and Forum (2018) ‘European Commission Launches the EU Blockchain
+Observatory and Forum’, available at https​://www.eublo​ckcha​infor​um.eu/news/europ​ean-commi​
+ssion​-launc​hes-eu-block​chain​-obser​vator​y-and-forum​ (last accessed on 29 July, 2020).
+Faraz, Tabish (2017) ‘PwC, Bitt Sign MOU to Promote Blockchain across Caribbean’, CoinReport,
+10 April, available at https​://coinr​eport​.net/pwc-bitt-mou-promo​te-block​chain​-carib​bean/ (last
+accessed on 29 July, 2020).
+Fluch, Manfred (2007) ‘Selected Central Banks’ Economic and Financial Literacy Programs’, Monetary
+Policy & the Economy Q3/07: 85‒103.
+Fonseca-Hoeve, Bionda, Michele Marius, Shernon Osepa, Jane Coffin and Michael Kende (2017)
+‘Unleashing the Internet in the Caribbean. Removing Barriers to Connectivity and Stimulating
+Better Access in the Region’, available at https​://uncta​d.org/meeti​ngs/en/Contr​ibuti​on/dtl_eWeek​
+2017c​06-isoc_en.pdf (last accessed on 29 July, 2020).
+Gifford, Julija (2018) ‘5 Things to Know about Blockchain in Latvia’, available at https​://eng.lsm.lv/artic​
+le/econo​my/busin​ess/5-thing​s-to-know-about​-block​chain​-in-latvi​a.a2790​80/ (last accessed on 29
+July, 2020).
+Godfrey, Mike (2017) ‘ECCB Says Blockchain Could Solve Caribbean De-Risking Crisis’, LowTax.
+net, 27 November, available at https​://www.lowta​x.net/news/ECCB-Says-Block​chain​-Could​-Solve​
+-Carib​bean-DeRis​king-Crisi​s-75831​.html (last accessed on 29 July, 2020).
+Gramm, Phil and Hernando de Soto (2018) ‘How Blockchain Can End Poverty’, Wall Street Journal,
+available at https​://www.wsj.com/artic​les/how-block​chain​-can-end-pover​ty-15169​25459​ (last
+accessed on 29 July, 2020).
+G20 Principles for Innovative Financial Inclusion (2011) Global Partnership for Financial Inclusion.
+Hagmann, Tobias and Adam Fejerskov (2018) ‘Three Bits of Advice for Blockchain Advocates Who
+Think They Understand Aid’, OpenDemocracy, 7 March, available at https​://www.opend​emocr​
+acy.net/en/digit​alibe​rties​/three​-bits-of-advic​e-for-block​chain​-advoc​ates-who-think​-they-under​stand​
+-aid/ (last accessed on 29 July, 2020).
+Hammersley, Ben (2017) ‘Concerned About Brexit? Why Not Become an E-resident of Estonia?’, Wired,
+27 March, available at https​://www.wired​.co.uk/artic​le/eston​ia-e-resid​ent (last accessed on 29 July,
+2020).
+Hansel, Mischa (2018) ‘Cyber-Attacks and Psychological IR Perspectives: Explaining Misperceptions
+and Escalation Risks’, Journal of International Relations and Development 21(3): 523‒51.
+Haiti Gazette (2015) ‘Bitcoin Carribean Is Here’, available at https​://www.haiti​gazet​te.com/bitco​in-carib​
+bean-is-here/ (last accessed on 29 July, 2020).
+Harper, Niel (2017) ‘Why Bitcoin Will Not Solve the Caribbean’s Financial Inclusion Woes’, Barbados
+Underground, 7 October, available at https​://barba​dosun​dergr​ound.net/2017/10/07/why-bitco​inwill-not-solve​-the-carib​beans​-finan​cial-inclu​sion-woes/ (last accessed on 29 July, 2020).
+Herian, Robert (2018) Regulating Blockchain: Critical Perspectives in Law and Technology, New York:
+Routledge.
+Hudson, Peter J. (2017) Bankers and Empire: How Wall Street Colonized the Caribbean, Chicago: University of Chicago Press.
+Hunter, Georg and Julie Steinberg (2017) ‘Risk-Wary Banks Chill Bitcoin Market’, Wall Street Journal,
+26 April, available at https​://www.wsj.com/artic​les/risk-wary-banks​-chill​-bitco​in-marke​t-14932​
+06300​(last accessed on 29 July, 2020).
+Hurd, Ian (1999) ‘Legitimacy and Authority in International Politics’, International Organization 53(2):
+379‒408.
+Hütten, Moritz (2019) ‘The soft spot of hard code: Blockchain technology, network governance and pitfalls of technological utopianism’, Global Networks 19(3): 329-348.
+Hyperledger (2018) ‘Supporting Members’, available at https​://www.hyper​ledge​r.org/membe​rs (last
+accessed on 29 July, 2020).
+
+Technology, small states and the legitimacy of digital…
+
+479
+
+Institute of International Finance (2016) ‘RegTech in Financial Services: Technology Solutions for Compliance and Reporting’, available at https​://www.iif.com/Porta​ls/0/Files​/priva​te/iif-regte​ch_in_
+finan​cial_servi​ces_-_solut​ions_for_compl​iance​_and_repor ​ting.pdf?ver=2019–01–04–14294​3–690
+(last accessed on 29 July, 2020).
+International Telecommunications Union (2017) ‘Discussion Paper: Applications of Distributed Ledger
+Technology for Financial Inclusion’, available at https​://www.itu.int/en/ITU-T/extco​op/figis​ympos​
+ium/2017/Docum​ents/ITU-DLT-for-Finan​cial-Inclu​sion-Paper​.pdf (last accessed on 4 August,
+2020).
+Kaili, Eva (2018) ‘Blockchain in the European Union: How the European Parliament approaches DLTs’,
+Open Access Government, available at https​://www.opena​ccess​gover​nment​.org/block​chain​-in-theeurop​ean-union​-how-the-europ​ean-parli​ament​-appro​aches​-dlts/47762​/ (last accessed on 29 July,
+2020).
+Kaya, Ayse and Geoffrey Herrera (2015) ‘Why the 2008 Crisis Was a Bad Crisis for New Ideas’, Journal
+of International Relations and Development 18(4): 505‒31.
+Kerikmäe, Tanel and Sandra Särav (2015) ‘Legal Impediments in the EU to New Technologies in the
+Example of E-Residency’, Baltic Journal of Law & Politics 8(2): 71‒90.
+Klapper, Leora; Lusardi, Annamaria and Peter van Oudheusden (2015) ‘Financial Literacy Around the
+World: Insights from the Standard&Poor’s Ratings Services Global Financial Literacy Survey’,
+available at https​://gflec​.org/wp-conte​nt/uploa​ds/2015/11/3313-Finli​t_Repor​t_FINAL​-5.11.16.
+pdf?x2934​1
+Koetsier, John (2017) ‘National Cryptocurrencies? All Currencies Will Be Digitized, Cryptocurrency
+Expert Says’, Forbes, 1 December.
+Lagarde, Christine (2018) ‘Addressing the Dark Side of the Crypto World’, IMF Blog, 13 March, available at https​://blogs​.imf.org/2018/03/13/addre​ssing​-the-dark-side-of-the-crypt​o-world​/ (last
+accessed on 29 July, 2020).
+LaPointe, Cara and Lara Fishbane (2018) ‘The Blockchain. Ethical Design Framework’, available at
+https​://beeck​cente​r.georg​etown​.edu/wp-conte​nt/uploa​ds/2018/06/The-Block​chain​-Ethic​al-Desig​
+n-Frame​work.pdf (last accessed on 29 July, 2020).
+Mahrenbach, Laura (2018) ‘The Promises and Challenges of Digitalization and Development in Major
+Emerging Markets’, Global Policy November: 1‒11.
+Maier, Stephan et al. (2017) ‘Chinese Renminbi in the Caribbean’, Caribbean Development Bank Working Paper.
+Maurer, Bill (2016) ‘Re-risking in Realtime. On possible Futures for Finance after the Blockchain’, Behemoth. A Journal on Civilisation 9(2): 82‒96.
+Macartney, Huew and Paola Calcagno (2019) ‘All Bark and No Bite: The Political Economy of Bank
+Fines in Anglo-America’, Review of International Political Economy 26(4): 1‒36.
+McDowell, Daniel (2017) ‘Emergent International Liquidity Agreements: Central Bank Cooperation After the Global Financial Crisis’, Journal of International Relations and Development 22:
+441‒67.
+Medici Ventures (2018) ‘Medici Ventures Exercises Option for Additional $3M Investment in
+Bitt.com’, GlobeNewswire News Room, available at https​://globe​newsw​ire.com/news-relea​
+se/2018/03/08/14184​35/0/en/Medic​i-Ventu​res-Exerc​ises-Optio​n-for-Addit​ional​-3M-Inves​tment​-inBitt-com.html (last accessed on 29 July, 2020).
+Metz, Cade (2014) ‘Meet Patrick Byrne: Bitcoin Messiah, CEO of Overstock, Scourge of Wall Street’,
+Wired, available at https​://www.wired​.com/2014/02/rise-fall-rise-patri​ck-byrne​/ (last accessed on
+29 July, 2020).
+Ministry of Finance of the Republic of Estonia, Ministry of Finance of the Republic of Latvia, and Ministry of Finance of the Republic of Lithuania (2017) ‘Memorandum of Understanding Between
+the Ministry of Finance of the Republic of Estonia and the Ministry of Finance of the Republic of
+Latvia and the Ministry of Finance of the Republic of Lithuania in Respect of Their Co-operation
+for Regional Capital Market Development in the Baltics’, available at https​://www.rahan​dusmi​niste​
+erium​.ee/sites​/defau​lt/files​/news-relat​ed-files​/mou_panba​ltic.pdf (last accessed on 29 July, 2020).
+mPago (2018) ‘About mPago,’ available at https​://www.mpago​.com/about​/?lang=en (last accessed on 29
+July, 2020).
+Mulligan, Shane (2006) ‘The Uses of Legitimacy in International Relations’, Millennium 34(2): 349‒75.
+Munford, Monty (2018) ‘Latvia’s Tech Hub of Riga Is Leading the Way For Women and Drones’, Forbes,
+available at https​://www.forbe​s.com/sites​/monty​munfo​rd/2018/03/12/latvi​as-tech-hu-of-riga-isleadi​ng-the-way-for-women​-and-drone​s/ (last accessed on 29 July, 2020).
+
+480
+
+M. Campbell‑Verduyn et al.
+
+Nance, Mark (2018) ‘Who Sets the Anti-Money Laundering Agenda? The Rise of Regulatory De-Risking
+and What It Tells Us About Global Financial Governance’, paper prepared for the Atlanta Federal
+Reserve’s Workshop ‘De-risking and Financial Exclusion in the Caribbean’, 29 and 30 November,
+2018, Atlanta, GA.
+Nelms, Taylor C., Bill Maurer, Lana Swartz and Scott Mainwaring (2018) ‘Social Payments: Innovation,
+Trust, Bitcoin, and the Sharing Economy’, Theory, Culture & Society 35(3): 13‒33.
+Ngetich, Dalmas (2018) ‘Forget Bitcoin, This Is How China Plans to Dominate the $102 Trillion Blockchain Space’, Ethereum World News, available at https​://ether​eumwo​rldne​ws.com/china​-domin​ateblock​chain​/ (last accessed on 29 July, 2020).
+Njeri, Kinyua (2017) ‘Senegal Launches National Digital Currency On The Blockchain’, Bitcoin Africa,
+6 June.
+O’Neil, Stephen (2020) ‘Eastern Caribbean Central Bank’s CBDC Could Beat China to the Punch in
+2020’, CoinTelegraph, 18 March, available at https​://coint​elegr​aph.com/news/easte​rn-carib​beancentr​al-banks​-cbdc-could​-beat-china​-to-the-punch​-in-2020 (last accessed on 29 July, 2020).
+Plucinska, Joanna (2018) ‘Lithuania’s Big Crypto Gamble’, Politico, available at https​://www.polit​ico.
+eu/artic​le/lithu​ania-bitco​in-block​chain​-crypt​o-curre​ncy-gambl​e/ (last accessed on 29 July, 2020).
+Porter, Tony (2014) ‘Constitutive Public Practices in a World of Changing Boundaries’, in Jacqueline
+Best and Alexandra Gheciu, eds, The Return of the Public in Global Governance, 223‒41, Cambridge: Cambridge University Press.
+Quack, Sigrid (2009) ‘Law, Expertise and Legitimacy in Transnational Economic Governance: An Introduction’, Socio-Economic Review 8(1): 3‒16.
+Ramachandran, Vijaya and Thomas Rehermann (2017) ‘Can Blockchain Technology Address De-Risking in Emerging Markets?’, No 30364, World Bank Other Operational Studies 1‒5.
+Republic of Estonia (2019 ‘E-Residency Data Dashboard’, available at https​://e-resid​ent.gov.ee/dashb​
+oard/ (last accessed on 29 July, 2020).
+Reus-Smit, Christian (2007) ‘International Crises of Legitimacy’, International Politics 44(2‒3): 157‒74.
+Rizzo, Peter (2017) ‘Bitt Reveals Big Plans for Cross-Caribbean Blockchain Settlement Network’, CoinDesk, 23 May, available at https​://www.coind​esk.com/bitt-revea​ls-big-plans​-block​chain​-power​edcarib​bean-settl​ement​-netwo​rk (last accessed on 29 July, 2020).
+Rizzo, Peter (2016) ‘Bitt Launches Barbados Dollar on Blockchain, Calls for Bitcoin Unity’, CoinDesk,
+24 February, available at https​://www.coind​esk.com/bitt-launc​hes-barba​dos-dolla​r-on-the-block​
+chain​-calls​-for-bitco​in-unity​ (last accessed on 29 July, 2020).
+Robert, Aline (2018) ‘Latvia: When the United States Scolded the “Switzerland of the Baltics”’, EurActiv, 5 September, available at https​://www.eurac​tiv.com/secti​on/econo​my-jobs/news/latvi​a-whenthe-unite​d-state​s-scold​-the-switz​erlan​d-of-the-balti​c-state​s/ (last accessed on 29 July, 2020).
+Rodima-Taylor, Daivi and William Grimes (2019a) ‘International Remittance Rails as Infrastructures:
+Embeddedness, Innovation, and Financial Access in Developing Economies’, Review of International Political Economy 26(5): 839–62.
+Rodima-Taylor, Daivi and William Grimes (2019b) ‘Virtualizing Diaspora: Blockchain Technologies in
+the New Transnational Space’, Global Networks 19(3): 349‒70.
+Roonemaa, Mari (2017) ‘Global Lessons from Estonia’s Tech-Savvy Government’, UNESCO, available
+at https​://en.unesc​o.org/couri​er/2017-april​-june/globa​l-lesso​ns-eston​ia-s-tech-savvy​-gover​nment​
+(last accessed on 29 July, 2020).
+Schmidt, Andreas (2013a) ‘The Estonian Cyberattacks’, in Jason Healey, ed., The Fierce Domain – Conflicts in Cyberspace 1986‒2012, 174‒93, Washington: Atlantic Council.
+Schmidt, Vivien (2013b) ‘Democracy and Legitimacy in the European Union Revisited: Input, Output
+and “Throughput”’, Political Studies 61(1): 2‒22.
+Sharman, Jason C. (2016) ‘Sovereignty at the Extremes: Micro-states in World Politics’, Political Studies
+65(3): 559‒75.
+Solis-Garcia, Mario and Yingtong Xie (2018) ‘Measuring the Size of the Shadow Economy Using a
+Dynamic General Equilibrium Model with Trends’, Journal of Macroeconomics 56: 258‒75.
+Strange, Susan (1998) Mad Money: When Markets Outgrow Governments. University of Michigan Press.
+Southurst, Jon (2018) ‘“Sparkled-Eyed Entrepreneurs” Will Change the World and Have Fun Doing It,
+Says Bitt’s Gabriel Abed’, Bitsonline, available at https​://bitso​nline​.com/spark​led-eyed-entre​prene​
+urs-abed-bitt/ (last accessed on 29 July, 2020).
+Suchman, M.C., 1995. Managing legitimacy: Strategic and institutional approaches. Academy of management review, 20(3), pp.571-610.
+
+Technology, small states and the legitimacy of digital…
+
+481
+
+Supoto, Yusuff (2018) ‘Ripple’s (XRP) xRapid to Gain More Ground as Western Union Partners
+GraceKennedy on Online Remittance’, Independent Republic, available at https​://thein​depen​dentr​
+epubl​ic.com/2018/03/23/rippl​es-xrp-xrapi​d-to-gain-more-groun​d-as-weste​rn-union​-partn​ers-grace​
+kenne​dy-on-onlin​e-remit​tance​/ (last accessed on 29 July, 2020).
+Symons, Jonathan (2011) ‘The Legitimation of International Organisations: Examining the Identity of the
+Communities that Grant Legitimacy’, Review of International Studies 37(5): 2557‒83.
+Swan, Melanie (2015) Blockchain: Blueprint for a New Economy, place of publication: O’Reilly Media,
+Inc.
+Tannenbaum, Ben (2018) ‘Filling the Void: China’s Expanding Caribbean Presence’, COHA, available at https​
+://www.coha.org/filli​ng-the-void-china​s-expan​ding-carib​bean-prese​nce/ (last accessed on 29 July, 2020).
+The Obama White House. (2014) President Obama Holds a Press Conference with President Ilves of
+Estonia Retrieved 20 December 2019 from https​://www.youtu​be.com/watch​?v=qcsOJ​w5ikO​w
+Tucker, Paul (2018) Unelected Power: The Quest for Legitimacy in Central Banking and the Regulatory
+State, Princeton: Princeton University Press.
+Vigna, Paul and Michael Casey (2016) The Age of Cryptocurrency: How Bitcoin and the Blockchain Are
+Challenging the Global Economic Order, London: Macmillan.
+Vlcek, W., 2009. A level playing field and the space for small states. Journal of International Relations
+and Development, 12(2), pp.115-136.
+Vnesheconombank (2018) ‘Vnesheconombank and BRICS Development Banks Will Research the Implementation of Blockchain Technology’, PR News Wire, available at https​://www.prnew​swire​.com/
+news-relea​ses/vnesh​econo​mbank​-and-brics​-devel​opmen​t-banks​-will-resea​rch-the-imple​menta​tionof-block​chain​-techn​ology​-81188​0894.html (last accessed on 29 July, 2020).
+Weber, Beat (2014) ‘Bitcoin and the Legitimacy Crisis of Money’, Cambridge Journal of Economics
+40(1): 17‒41.
+Weiss, Mitchell and Elena Corsi (2018) ‘Bitfury: Blockchain for Government’, Harvard Business School
+Case 818–031.
+Werner, Marion (2016) Global Displacement: The Making of Uneven Development in the Caribbean,
+Wiley Blackwell: West Sussex
+Witismann, Richard (2018) ‘Estonia to Become a Global ICO Hub’, Medium, available at https​://mediu​
+m.com/@Incor​porat​e_ee/eston​ia-to-becom​e-a-globl​-ico-hub-6a4a5​38637​19 (last accessed on 29
+July, 2020).
+Wolfson, Rachel (2018) ‘Institutional Investors Bet on Crypto Market with Tokenized Securities’, Forbes,
+available at https​://www.forbe​s.com/sites​/rache​lwolf​son/2018/09/16/insti​tutio​nal-inves​tors-bet-oncrypt​o-marke​t-with-token​ized-secur​ities​/ (last accessed on 29 July, 2020).
+Woodsome, Jim and Vijaya Ramachandran (2018) ‘Fixing AML: Can New Technology Help Address the
+De-risking Dilemma?’, Center for Global Development, available at https​://www.cgdev​.org/sites​
+/defau​lt/files​/fixin​g-aml-can-new-techn​ology​-help-addre​ss-de-riski​ng-dilem​ma.pdf (last accessed
+on 29 July, 2020).
+World Bank (2017) ‘Distributed Ledger Technology (DLT) and Blockchain’, available at https​://docum​
+ents.world ​ b ank.org/curat​ e d/en/17791​ 1 5137​ 1 4062​ 2 15/text/12214​ 0 -WP-PUBLI​ C -Distr​ i bute​
+d-Ledge​r-Techn​ology​-and-Block​chain​-Finte​ch-Notes​.txt (last accessed on 29 July, 2020).
+Yarovaya, Larisa and Brian Lucey (2018) ‘Bitcoin Rich Kids in Puerto Rico: Crypto Utopia or CryptoColonialism?’, Conversation, 14 February, available at https​://crypt​onews​.com/exclu​sives​/bitco​
+in-rich-kids-in-puert​o-rico-crypt​o-utopi​a-or-crypt​o-col-1224.htm (last accessed on 29 July, 2020).
+Zuboff, Shoshana (2015). Big other: surveillance capitalism and the prospects of an information civilization. Journal of Information Technology, 30(1), 75-89.
+
+Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published
+maps and institutional affiliations.
+
+Malcolm Campbell‑Verduyn is Assistant Professor at the University of Groningen. His research combines
+a general focus on ideas and materiality with a specific interest in the roles of non-state actors, technologies and technical artefacts in contemporary global governance. He is the author of Professional Authority After the Global Financial Crisis (2017, Palgrave MacMillan) and editor of Bitcoin and Beyond:
+Cryptocurrencies, Blockchains and Global Governance (2018, Routledge).
+
+482
+
+M. Campbell‑Verduyn et al.
+
+Daivi Rodima‑Taylor is researcher and lecturer at the African Studies Center of Pardee School of Global
+Studies, Boston University. Her research focuses on financial inclusion, migration and remittances, and
+the intersection of grassroots economies and digital infrastructures. She has conducted research in Africa
+and Europe, and published in academic and policy-oriented journals.
+Moritz Hütten is a researcher at Darmstadt Business School and a fellow at the Centre for Sustainable Economic and Corporate Policy (SECP). His research focuses on the normative and social implications of blockchain technology. He has also conducted research in the field of banking regulation in
+Europe, and financial literacy. He is involved in several research projects at Goethe University Frankfurt
+and Darmstadt Business School, as well as the research centre ‘Sustainable Architecture for Finance in
+Europe’ (SAFE).
+
+

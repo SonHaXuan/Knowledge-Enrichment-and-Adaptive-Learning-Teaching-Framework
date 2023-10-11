@@ -1,0 +1,626 @@
+Advances in Economics, Business and Management Research, volume 648
+Proceedings of the 2022 7th International Conference on Financial Innovation and Economic Development (ICFIED 2022)
+
+Review on Digital Currency
+Yinghua Zhong1,*
+1
+*
+
+Beijing No.80 high school international department, Beijing, China,101121
+Corresponding author. Email: Averiezhong0413@163.com
+
+ABSTRACT
+Nowadays, more and more banks and other financial service companies are promoting digital currency transfers and
+other online transactions, which are wire transfers or transfers between parties over long distances. Digital currency
+contributes to the globalization of the global economy because it is easier to trade by sending and receiving digital
+currency. [1] The Technology underlying Money continues to evolve, and many scholars and experts are concerned
+about the development of the digital currency. Through the research of domestic and foreign digital currency literature
+and related information, this article summarizes the concept, classification, characteristics and benefits, risks and
+potential problems of digital currency, and finally gives an overview of the development trend of digital currency. In a
+broad sense, digital currency is any form of money or payment that exists only in spreadsheets. And digital currency
+could be classified as cryptocurrency, virtual currency and central bank digital currency(CBDC). They are usually
+decentralized and anonymous. The features enhance the security of users. Digital currencies offer enhanced security,
+greater convenience and compatibility, making up for the drawbacks of cash. Market risks, security risks, law risks,
+bank risks and risks for producers are the main risks that digital currency brings. According to much research, CBDCs
+which can maximum to limit the risks of digital currency might be the main trends of digital currency’s future.
+
+Keywords: digital currency, cryptocurrencies, CBDCs, decentralization, regulation
+
+1. INTRODUCTION
+There are subtle differences between digital
+currencies and cryptocurrencies, although the two terms
+are often used interchangeably. Cryptocurrency is a
+subset of digital currency, but it uses cryptography to
+ensure security, so this makes counterfeiting extremely
+difficult [24].The 2008 global financial crisis
+accelerated the inevitable evolution of currencies into
+cryptocurrencies. Blockchain, distributed ledger and
+decentralization are innovations of this currency
+revolution. The emergence of cryptocurrency has made
+up for the shortcomings of the original real currency,
+while also bringing other benefits and potential risks.
+However, many countries can only take wait-and-see or
+even ban measures because of the risks brought by its
+characteristics. What will be the future of digital
+currency has become a concern of many economists and
+national governments. This paper summarizes the
+current situation, classification, characteristics and
+possible benefits and risks of digital currency published
+by previous scholars, and puts forward suggestions on
+supervision. And the future development direction of
+digital currency is predicted.
+
+2. DEVELOPMENT AND CURRENT
+SITUATION
+After the price of bitcoin exceeded $10000, digital
+currencies are receiving increasing traction every day.
+According to the white paper of bitcoin, bitcoin is a
+purely peer-to-peer version of electronic cash that will
+allow online payments to be sent directly from one
+party to the other without going through a third-party
+intermediary. The appearance of bitcoin is revolutionary
+for commercial currency. Several representative digital
+currencies after bitcoin include Libra, DCEP, etc. Libra
+is another type of digital currency and cryptocurrency
+which is created by Facebook.[1]
+While there are many concerned that bitcoin’s price
+is over-hyped, the blockchain --- the technology behind
+digital currency, is used by many countries to try to
+create their digital currencies, such as Sweden, Tunisia,
+Ecuador, Japan and Russia, etc. And DCEP is a
+particular digital currency and cryptocurrency created
+by the Chinese central bank with Blockchain and
+Cryptographic technology.[2]
+
+Copyright © 2022 The Authors. Published by Atlantis Press International B.V.
+This is an open access article distributed under the CC BY-NC 4.0 license -http://creativecommons.org/licenses/by-nc/4.0/.
+
+585
+
+Advances in Economics, Business and Management Research, volume 648
+
+As of August 14, 2020, the Ministry of Commerce
+has officially issued the "Comprehensive Deepening of
+Service Trade Innovation and Development Pilot
+Program" to carry out DCEP pilot projects in the
+Beijing-Tianjin-Hebei,
+Yangtze
+River
+Delta,
+Guangdong-Hong Kong-Macao Greater Bay Area, and
+the pilot areas in the central and western regions where
+conditions permit. However, although China promotes
+their own CBDCs, DCEP, China banned all
+cryptocurrencies and virtual currencies trading and
+speculation. All business activities related to
+cryptocurrency are illegal financial activities and firmly
+forbid.[22] In addition to China's official national-level
+digital currency issuance, international regulatory
+attitudes towards digital currencies are mainly divided
+into three categories. The first is the appropriate type of
+regulation, such as the United States. Several state
+governments have proposed and passed laws affecting
+cryptocurrency and blockchain technology, and most of
+these activities take place in the legislative branch.
+There are generally two methods of supervision at the
+state level. Some states try to promote the technology
+through very favorable regulations so that
+cryptocurrencies are not subject to state securities laws
+and/or currency transmission regulations. These
+countries hope to use investment in technology to
+stimulate the local economy and improve public
+services.[19] The second is the type of active support,
+such as Thailand. In 2018, Thailand issued the "digital
+asset law", but it was revised in 2021. As of February
+15, 2021, the Ministry of Finance has issued 14 licenses
+to 11 operators. The Office of the US Securities and
+Exchange Commission announced a list of 7
+cryptocurrencies that are allowed to be used for ICO
+investment and trading as well as basic trading pairs.
+They are Bitcoin, Bitcoin Cash, Ethereum, Ethereum
+Classic, Litecoin, Ripple and Stellar.[20]The third type
+is completely prohibited, such as in Bangladesh and
+Nepal. The countries ban all cryptocurrencies.[21]
+
+3. CLASSIFICATION OF DIGITAL
+CURRENCY
+Usually, digital currencies are divided into three
+categories:
+
+3.1. Cryptocurrency
+Cryptocurrency is a digital currency that uses
+encryption technology to protect and verify online
+transactions. Cryptography is also used to manage and
+control the creation of such currencies. Bitcoin is one
+
+example of cryptocurrency. Depending on the
+jurisdiction, cryptocurrencies might or might not be
+regulated.[6]
+
+3.2. Virtual Currency
+Virtual currency is an unregulated digital currency
+that is controlled by a developing agent or a founding
+organization made up of various stakeholders involved
+in the process. Virtual currency can also be
+algorithmically controlled through defined network
+protocols. An example of virtual currency is gaming
+network tokens, the economics of which are defined and
+controlled by developers. [6]
+
+3.3. Central Bank Digital Currency(CBDC)
+The Bank of England describes CBDC as an
+electronic CB currency( where CB is the central bank):
+(i) Can be accessed more widely than reserves,
+(ii) The potential function of retail transactions is
+much greater than cash,
+(iii) Having a different operating structure from
+other forms of central bank currency, making it possible
+to serve different core purposes, and
+(iv) It can be interest-bearing. Under realistic
+assumptions, the interest rate paid is different from the
+reserve interest rate.[7] And, Digital Currency
+Electronic Payment(DCEP), the digital currency created
+by China is one example of CBDC.
+
+4. FEATURES OF DIGITAL CURRENCY
+It is undeniable that there are similarities and
+differences among the three different digital currencies
+of cryptocurrency, virtual currency and CBDC, but they
+all have the following characteristics of digital
+currencies.
+
+4.1. Decentralization
+So far, although there is no complete consensus on
+the characteristics of digital currencies, most currencies
+and economists believe that ‘decentralization’ is one of
+its most important and obvious characteristics. In
+Satoshi Nakamoto’s perspective, the concept behind
+Bitcoin, is a decentralized consensus, with no need for a
+central intermediary.[3]
+The decentralized commerce can usually be defined
+as the exchange of financial instruments, goods and
+
+586
+
+Advances in Economics, Business and Management Research, volume 648
+
+services on a global scale through emerging
+decentralized technologies. Starting from various
+experiments of electronic cash, such as DigiCash,
+including the emergence of the Bitcoin protocol in 2009,
+the digital asset market is a market for virtual asset
+investment opportunities. [4] Whether it is bitcoin, libra
+or DCEP, these digital currencies and cryptocurrencies
+all have the characteristics of decentralization.
+
+Another feature is anonymity. Distributed ledger
+technology(DLT) which is the basis of digital
+currencies is designed either on an anonymous basis. To
+restrict the number of money users can spend on
+AML/CTF without viewing transaction data by the
+AML authority, a new concept-"anonymous
+credentials" was designed. The AML authority
+periodically sends out these additional, time-limited
+statuses to each central bank digital currency(CBDC)
+user. If users want to transfer CBDC without disclosing
+information to the AML authority, they need to spend
+these vouchers to transfer in. Therefore, the number of
+CBDCs that can be used anonymously is limited by the
+number of vouchers provided to each user by the AML
+agency. Although technically speaking, vouchers are
+"spent", they are just a technical tool used to limit the
+amount of CBDC that can be transferred
+anonymously.[5]
+
+transmissions can be enforced without recording the
+amount of CBDC spent by users, thereby protecting
+users' privacy[5], security, which is the advantage of the
+anonymity of digital currency. Additionally, digital
+currency, DCEP as the example, compared to traditional
+crash is more convenient. The DCEP can be paid
+through a payment institution or not through a payment
+institution, bank account circulation. Furthermore, the
+good compatibility of the CBDC allows it to be used in
+many scenarios, regardless of the system and network
+used in the scenario. Generally speaking, in the
+scenarios where cash, electronic money and bank
+deposits can be paid, CBDC can also make payments.
+Also, the CBDC can make up for the shortcomings of
+cash. The research also proves that cash has the
+following drawbacks due to its characteristics: a. the
+cost of issuance, storage and processing of cash is
+relatively high; b. cash is often used for illegal
+economic activities due to its complete anonymity; c.
+cash will make it impossible to implement a negative
+interest rate monetary policy. If the CBDC is
+implemented, then it will well solve the
+above-mentioned shortcoming of cash. The issuance of
+the CBDC is based on system generation, which will
+greatly reduce the cost of issuance and storage. In
+addition, due to the controllable anonymity of the
+CBDC, relevant illegal and criminal activities can be
+well traced through the system’s records when illegal
+economic behavior occurs.[9]
+
+5. BENEFITS OF DIGITAL CURRENCY
+
+6. RISKS OF DIGITAL CURRENCY
+
+Decentralization brings benefits to digital currency
+compared to real money. For example, Coming from
+computer science rather than economics or business, the
+core innovation is to use encrypted certificates instead
+of trusted third parties to verify the integrity of
+transaction information in a decentralized computer
+network. Bitcoin does not eliminate trust. It can be said
+that it provides automation of trust through blockchain
+and distributed ledger technology (DLT). In short,
+algorithms record transactions in blocks and add them
+to the existing blockchain through cryptographic
+signatures. This "blockchain" represents a transaction
+ledger in which a hash function maps keys of variable
+size to values of fixed size. In a "distributed" ledger,
+new blocks must be verified by all participants or
+groups of permitted participants ("nodes") that
+synchronize and maintain the entire transaction history.
+Generate multiple copies of the same ledger, thereby
+enhancing the security of the system.[8] Anonymity
+means that restrictions on anonymous CBDC
+
+However, due to the decentralization of digital
+currency, anonymity and price instability have led to
+many side effects and risks. It is not difficult to find the
+following risks which lead to digital currency has not
+been fully popular after being integrated Agustin
+Carstens(2021), Pasuthip, P., & Yang, S. (2020), and
+Cristian deRitis(2021).
+
+4.2. Anonymity
+
+6.1. Market Risks
+The digital currency price is unstable. In practice,
+bitcoin is more like a speculative asset rather than
+money. Bitcoin seems very charming but lacks real
+value. The Bitcoin network might be considered as an
+online gamers community that uses real money
+exchange items that only exist in network zones.
+Bitcoin calls itself a unit of account. In fact, the
+decentralization makes the value of Bitcoin fluctuate
+means that it is not realistic to set a stable price for
+Bitcoin. This also weakens its usefulness as a means of
+
+587
+
+Advances in Economics, Business and Management Research, volume 648
+
+exchange and makes it have a poor ability to store
+value.[2] The price manipulation: The Bitcoin market’s
+structure is decidedly concentrated and non-transparent,
+and it has been proved that price manipulation exists in
+the Bitcoin market. [3]Besides, the features make the
+price of digital currency is unstable and not easy for
+consumers to accept digital currency.
+
+be aware that not all managers are equal and
+cryptocurrencies in different countries often have
+multiple diverse and differing regulatory frameworks.
+The best outcome would be regulatory confirmation
+from all agencies, but given the vested interests of each
+regulator, approval from at least two should be enough
+to increase credibility and trust.[23]
+
+6.2. Security Risks
+
+7.2. Foreign Exchange Reserve Requirements
+
+Digital currency is still the choice of black market
+trading medium to this day; digital currencies are easily
+chosen by criminal organizations and terrorist groups to
+process funds.[11] Therefore, the concealment of digital
+currency has brought hidden dangers to the security of
+economic property and social stability.
+
+Enhancements to the ecosystem could include more
+robust cryptocurrency exchanges, organizations that
+help interesting individuals trade in the traditional sense.
+Cryptocurrency exchanges that not only act as an
+exchange but also act as brokers and custodians. If these
+exchanges hold a certain amount of reserves to weather
+any major downturn or crash, using the same principles
+as clearinghouses, this would add an additional layer of
+protection during periods of volatility and market
+uncertainty.[23]
+
+Law risks: It is not easy for law enforcement to
+target one particular central entity or location to
+investigate or seize assets[11]; blockchains afford
+money is kept outside of banks which makes law
+enforcement is not promoted. The beneficiaries may be
+anonymous, the transaction flow may be confused, and
+income may be hidden for tax purposes.[13]
+Bank risks: some people are concerned that
+increasing CBDCA sorts of digital currency will raise
+the risk of structural disintermediation of banks for the
+global banking system and the risk of promoting a
+systemic run on the bank in a critical situation.[10]
+Risks for producers: As depositors seek safer
+alternatives, they face the risk of a run during times of
+stress[12];
+From the above content, it can be seen that the
+decentralization, anonymity and other characteristics of
+digital currency, as well as it is not a fully mature
+technology, have caused it to have greater risks in the
+market, legislation, and supervision.
+
+7. REGULATIONS & SUGGESTIONS
+There are mainly 5 risk management measurements
+in the risks of digital currencies.
+
+7.1. Regulatory Approval
+The most important inherent risk mitigation
+associated with cryptocurrencies is regulatory approval.
+Some regulatory approvals, if obtained, could enhance
+and imply acceptance and credibility in the
+cryptocurrency community. To do this, the best place to
+start must be the reserve currency, the U.S. dollar, but
+
+7.3. Risk Management Framework
+The significance of risk documentation cannot be
+overstated because there is a consensus among
+ecosystems involved in risk management guidelines,
+standards, and procedures that align themselves with
+good industry best practices. A standard risk
+management framework will cover standards and
+procedures for cyber, fraud, business credit, entity
+secure assets, IT security and data, third-party vendors,
+and anti-money laundering, which will require business
+continuity and disaster recovery plan. Because all of
+these risks are highly correlated, the framework needs
+to be a broad enterprise. To be effective and actionable,
+the risk framework needs to be complemented by a
+great deal of content through real-time information
+gathering and scenario planning. Given the great
+dependence on technological change and development,
+software upgrades need special mention and attention.
+More importantly, each participant in the ecosystem
+chain should take risks, assess the adequacy and
+effectiveness of the implementation of its
+documentation, in order to aid confidence and reduce
+risks. The application of common standards such as
+CCSS(Cryptocurrency Security Standard) introduced in
+2014 should be supported by all. (This standard is
+currently the standard for any information system that
+handles and manages crypto wallets as part of its
+business.[23]
+
+588
+
+Advances in Economics, Business and Management Research, volume 648
+
+7.4. Education
+Those overseeing mergers and acquisitions need to
+understand the legal and operational risks of
+cryptocurrency and blockchain. In order to provide
+adequate protection in the statement and warranties
+documents of the transaction[23].
+
+7.5. Law-created
+Digital currency transactions are governed by
+common law, including contract law, but are also
+governed by the principles of negligence, agency, and
+fairness, such as fiduciary relationships. Regulatory
+actions vary around the world, from making digital
+currencies unregulated to taking some actions in
+taxation, anti-money laundering and counter-terrorism
+financing, to complete bans. For example, the People's
+Bank of China has banned fundraising through digital
+currency issuance,[14] South Korean authorities have
+also done so. [15] The European Securities and Markets
+Authority and the US Securities and Exchange
+Commission have reminded investors of the high risks
+of ICOs. [16] The ban will inevitably put downward
+pressure on prices. In the middle area, there are already
+some regulatory warnings about risks. Some securities
+regulators have stated that although digital currencies
+provide new opportunities for companies to raise funds
+and investors to gain wider investment. At the same
+time, they can rise protection concerns of investors.[17]
+The characteristics of digital currency and the risks it
+brings make it necessary to supervise digital currency.
+
+8. FUTURE AND DEVELOPMENT
+In fact, it is hard to make an accurate prediction
+about the future of digital currency development. In
+Tony Richards’ opinion, some form of intermediaries
+will still be a vitally important role, even the world
+finance is more decentralization than the current
+situation[18]. And there are two aspects of the choice of
+payment instrument which will be used to settle the
+transactions. The first is that entities and individuals are
+likely to want to pay and receive financial assets with a
+high degree of value stability. Very few parties to
+transactions, especially high-value parties, hope to settle
+by paying in a cryptocurrency with high volatility. Fiat
+currencies, such as CBDCs or very safe stable coins that
+are issued by regulatory entities, will be widely used in
+tokenized asset transactions. In the second, he
+anticipates that entities that conduct transactions on the
+blockchain will want to ensure that they can conduct
+
+transactions in a clear and final settlement. He also
+envisioned a future where the establishment of a strong
+regulatory framework for stable coins may lead to the
+issuance of stable coins by highly rated entities.[18]
+There is a high percentage probability which the
+increasing Central banks may switch to issuing CBDCs.
+
+9. CONCLUSION
+This paper summarizes a large number of pieces of
+literature and finds that the development of digital
+currency and blockchain technology can make up for
+cash drawbacks, realize automation, improve
+compatibility and reduce release costs. Due to its
+imperfect technology, market risks, security risks, law
+risks, banks risks and risks for producers, governments
+around the world are adopting different ways to
+strengthen regulation of cryptocurrency represented by
+bitcoin. Regulatory approaches include regulatory
+approval, foreign exchange reserve requirements, risk
+management framework, education and strengthening
+legal supervision. At the same time, countries plan or
+attempt to issue national digital currencies (CBDCs)
+issued by central banks, centering on decentralization.
+The launch of CBDC seems to be the main development
+trend of digital currency in the future.
+
+REFERENCES
+[1] Digital Money - Overview, How It Works,
+Examples, Risks (corporatefinanceinstitute.com)，
+https://corporatefinanceinstitute.com/resources/kno
+wledge/other/digital-money/
+[2] (2021), China’s National Digital Currency DCEP /
+CBDC Overview， https://boxmining.com/dcep/
+[3] Remanrks by Agustin Carstens(2021). Digital
+currencies and the future of the monetary system.
+Hoover Institution policy seminar,1-17.
+[4] Kaal, W. A. (n.d.). Past, Present, and Future.
+[5] IN FOCUS|Issue no 4| December Exploring
+anonymity in central bank digital currencies
+[6] Jake Frankenfield (2021) Digital Currency for
+https://www.investopedia.com/terms/d/digital-curr
+ency.asp
+[7] Kumhof, M., Noone, C., 2018. Central Bank Digital
+Currencies - Design Principles and Balance Sheet
+Implications.
+SSRN
+Electronic
+Journal.
+
+589
+
+Advances in Economics, Business and Management Research, volume 648
+
+https://doi.org/10.2139/ssrn.3180713
+2.6.19).
+
+(accessed
+
+[8] Peneder, M. (2021). Digitization and the evolution
+of money as a social technology of account.
+Journal
+of
+Evolutionary
+Economics.
+https://doi.org/10.1007/s00191-021-00729-4
+[9] Zhao, Z. X., & Liu, H. (2021). Digital currency,
+trade settlement innovation and improvement of
+international monetary System. Review of
+Economics and Management, 3, 44 -- 57.
+[10] Pasuthip, P., & Yang, S. (n.d.). Central Bank
+Digital Currency: Promises and Risks.
+[11] Cryptocurrency as a Payment Method, 2017,
+Public-private Analytic Exchange Program
+[12] Cristian deRitis, C.d.(2021), Digital Currencies:
+Risks
+and
+Opportunities,
+https://www.garp.org/risk-intelligence/technology/
+digital-currencies-risks-and-opportunities
+[13] Courtois, N., Gradon, K., & Schmeh, K. (2021).
+Crypto Currency Regulation and Law Enforcement
+Perspectives. ArXiv.
+[14] The People’s Bank of China, Public Notice of the
+PBC, CAC, MIIT, SAIC, CBRC, CSRC and CIRC
+on Preventing Risks of Fundraising through Coin
+Offering
+(8
+September
+2017)
+<http://www.pbc.gov.cn/
+english/130721/3377816/index.html>.
+[15] See, eg, Cynthia Kim, ‘South Korea Bans Raising
+Money Through Initial Coin Offerings’, Reuters
+(online),
+29
+September
+2017
+<https://www.reuters.com/article/us-southkorea-bit
+coin/south-koreabans-all-forms-of-initial-coin-offe
+rings-idUSKCN1C408N>.
+[16] See, eg, US Securities and Exchange Commission,
+Investor Bulletin: Initial Coin Offerings (25 July
+2017)
+Investor.gov
+<https://www.investor.gov/additional-resources/ne
+ws-alerts/alerts-bulletins/investor-bulletin-initial-c
+oin-offerings>; European Securities and Markets
+Authority, ESMA Alerts Investors to the High
+Risks of Initial Coin Offerings (ICOs) (13
+November
+2017)
+<https://www.esma.europa.eu/sites/default/files/lib
+rary/esma50-157-829_ico_statement_investors.pdf
+>.
+
+[17] Latimer, P., & Duffy, M. (2019). Deconstructing
+Digital Currency and Its Risks: Why ASIC Must
+Rise to the Regulatory Challenge. Federal Law
+Review,
+47(1),
+121–150.
+https://doi.org/10.1177/0067205x18816237
+[18]
+
+Richards, T. (n.d.).(2021) The future of
+payments:Cryptocurrencies, Stablecoins or Central
+Bank Digital Currencies.
+
+[19] Joe Dewey(2021), Blockchain& Cryptocurrency
+Laws
+and
+Regulations
+2022|USA.https://www.globallegalinsights.com/pr
+actice-areas/blockchain-laws-and-regulations/usa
+[20] Kowit Somwaiya, Naddaporn Suwanvajukkasikij,
+Tong
+Wang
+and
+Thatchaya
+Bunnithithanakit(2021), Digital asset law of
+Thailanad
+after
+Three
+Years.
+https://www.lexology.com/library/detail.aspx?g=0
+9e85b28-70a6-4fe4-8032-d7c573dd553c
+[21] (2021)List of countries where Bitcoin is banned or
+legal
+in
+2021,
+https://portalcripto.com.br/zh-CN/2021%E5%B9%
+B4%E6%AF%94%E7%89%B9%E5%B8%81%E8
+%A2%AB%E7%A6%81%E6%AD%A2%E6%88
+%96%E5%90%88%E6%B3%95%E7%9A%84%E
+5%9B%BD%E5%AE%B6%E5%90%8D%E5%8
+D%95/
+[22] (2019),China regulators to ban crypto trading and
+speculation.https://www.pinsentmasons.com/out-la
+w/news/china-regulators-to-ban-crypto-trading-and
+-speculation
+[23] John Thackeray(2018), 6 Risk Management
+Methods to Reduce the Inherent Risk of
+Cryptocurrency,
+https://daily.financialexecutives.org/FEI-Daily/July
+-2018/6-Risk-Management-Methods-to-Reduce-th
+e-Inherent-R.aspx
+[24] Gilpin, L. (2014) 10 things you should know about
+Bitcoin and digital currencies. TechRepublic.
+Retrieved
+6/28/2014
+from
+http://www.techrepublic.com/article/10-things-you
+-should-know-about-bitcoin-and-digitalcurrencies/
+
+590
+
+

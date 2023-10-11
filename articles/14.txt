@@ -1,0 +1,778 @@
+TAFHIM Online © IKIM Press
+TAFHIM: IKIM Journal of Introducing
+Islam and the
+Contemporary
+World 15 No. 1 (June 2022): 51–68
+Maqāsidic
+Framework
+
+Introducing
+Maqāsidic Framework for
+Central Bank Digital Currency (CBDC)
+Mohd Noor bin Omar[
+mnoor@ikim.gov.my
+Abstract
+Money is a social convention performing its functions
+to facilitate the socio-economic ecosystem. For
+decades, money has evolved from barter, rare piece,
+metal, fiat and presently a distributed blockchainbased digital money. Monetary authorities around
+the world are expected to advance their own
+national Central Bank Digital Currency (CBDC)
+that works effectively and efficiently. Several studies
+have investigated the technical, economic and
+feasibility of CBDC that might have an impact on
+monetary policy and liquidity. This study employs
+the maqāṣid al-sharī‘ah framework to investigate an
+ethical dimension of CBDC and lay out an Islamic
+principal guideline. The findings introduce an
+ethical ecosystem useful to signify the viability type
+of CBDC with specific characteristics and features.
+This is also possible in modelling the compliance
+aspects of digital monetary system to the Islamic
+monetary framework.
+[
+
+Fellow at the Centre for the Study of Shariah, Law and Politics, Institute
+of Islamic Understanding Malaysia (IKIM).
+
+51
+
+TAFHIM Online © IKIM Press
+Mohd Noor bin Omar/ TAFHIM 15 No. 1 (June 2022): 51–68
+
+Keywords
+Digital currency, central bank, maqāṣid al-sharī‘ah,
+monetary system.
+
+Introduction
+
+M
+
+oney is an integral part of socio-economic ecosystem.
+A central bank is accorded the authority to manage
+a country’s monetary policies to ensure economic growth,
+financial stability, and settlement. The progression of technology
+innovates the forms of money from metal to fiat, and currently
+into a digital form. Digital money, be it representing fiat-based
+currency or cryptographic digital token, is meant to facilitate
+the functions of money as a medium of exchange, a store of
+value and a unit of measurement. The interest in cryptocurrency
+is further intensified by the growing distrust in fiat money
+which is predicated on a lending/debt base, whereas digital
+currency is asset or security based.1 Moreover, cryptographic
+and blockchain-based digital token issued by an anonymous
+private body enables peer-to-peer exchange in prevaricating
+traditional central clearinghouses. This represents not only
+a threat to the central bank or monetary authority, but also
+its potential to disrupt the whole financial system as well as
+challenge the traditional business model. In addition, this poses
+a challenge for the role of a central bank in maintaining stability,
+efficiency, and confidence in the financial ecosystem. Monetary
+authorities are exploring the possibility of digital currency to
+supersede both existing fiat-based money and privately issued
+distributed block chain-based digital money. The rapid evolution
+of the digital currency and its associated mechanism creates a
+financial landscape for the people, government and monetary
+authorities to review, rethink and reform the digital financial
+system. Thus, central banks around the world are considering
+1.
+
+Sheila Ainon Yussof and Abdullah Al-Harthy, “Cryptocurrency
+as an Alternative Currency in Malaysia : Issues and Challenges,”
+Islam and Civilisational Renewal 9, no. 1 (2018): 48–65, https://doi.
+org/10.12816/0049515.
+
+52
+
+TAFHIM Online © IKIM Press
+Introducing Maqāsidic Framework
+
+a self-governing central bank digital currency (CBDC). It is
+a new kind of digital money that could reform all aspects of
+the financial system and, at the same time, fulfil the function
+of money effectively and efficiently. While several studies have
+investigated the technical, economic and feasibility of CBDC,
+this article intends to focus on its ethical aspect. Ultimately, the
+monetary authorities must ensure that all aspects of CBDC are
+compliant, not only to the regulatory, economic stability and
+growth, but also the shari‘ah injunctions. The Islamic financial
+system with the Islamic guiding principles has the potential to
+become one of the best practises of social and ethical finance.
+The objective of this article is to observe the fundamental
+principles of Islamic ethics in the application of CBDC by
+employing the maqāṣid al-sharī‘ah framework. It is important to
+ensure that the innovation of CBDC be aligned with the higher
+objective of the sharī‘ah as a way of fulfilling the requirement
+of Islam and ensuring benefits and justice to all humankind.
+The conventional practice of finance has been argued to lack
+Islamic injunctions due to alleged practices of implied Islamic
+prohibition such as opening a backdoor to riba.2 The initiative
+to analyse CBDC based on maqāṣid al-sharī‘ah framework is to
+identify potential mafsadah (mischief), particularly on the issue
+pertaining to the principles of jurisprudence, and ethics. In
+doing so, this article will omit selected technological possibilities
+and focus only on the characteristics and features of CBDC.
+In addition, this article will open up the opportunity to revisit
+and realise the concept of money from an Islamic perspective.
+Money from the Islamic perspective
+
+Islam recognises money as a medium of exchange and a unit
+of measurement. Imam al-Ghazālī rejects money as a store of
+value by comparing it to a ruler who cannot be imprisoned,
+otherwise it will deprive society of its benefits and those who
+2.
+
+Imran Ismail, “Legal Stratagems (Hiyal) and Usury in Islamic Commercial
+Law” (Phd. diss.,University of Birmingham, 2010).
+
+53
+
+TAFHIM Online © IKIM Press
+Mohd Noor bin Omar/ TAFHIM 15 No. 1 (June 2022): 51–68
+
+hoard dirhams and dinars will be considered as transgressors.3
+Money was invented to fulfil socio-economic needs. Advancement
+in business dealings has forced money to evolve from its original
+basic item and kind to a sophisticated contemporary application
+such as the digital token. Throughout history until today, money
+has never ceased to transform significantly from barter, rare
+items, metal, paper and recently, in digital form.
+Money should not be an objective in itself, but rather a
+means to realise certain proceeds as it has no intrinsic utility.4
+Money also cannot be considered as a commodity to enable trade
+because it is simply a temporary intermediary and instrument
+for transactions. If profit-making is the motive of exchange,
+money should be integrated into a capital by legal obligation
+in a sales contract, for instance, to enable it to be interchanged
+with a commodity or asset.5
+The Rise of Cryptocurrencies
+
+Online transactions using digital platforms have the prospective
+to become widely accepted for payments and settlements. Such
+a trend has caused rather grave concern in recent years. During
+the COVID-19 pandemic, digital currencies are perceived to
+be useful for online settlements and many providers have been
+in the race of offering digital banking and wallet. In Malaysia,
+the online fiat-based money transaction operates on Real Time
+Electronics Transfer of Funds and Securities (RENTAS). The
+purpose of RENTAS is to enable overall efficiency of payment
+system-Interbank Funds Transfer System (IFTS) and Scripless
+Securities Transfer System (SSTS). Bank Negara Malaysia
+is collaborating with the Hong Kong Monetary Authority
+3.
+4.
+5.
+
+Abdul Azim Islahi, “An Analytical Study of Al-Ghazali’s Thought on
+Money and Interest,” in The International Conference on Al-Gazali’s Legacy: Its
+Contemporary Relevance (Kuala Lumpur: International Institute of Islamic
+Thought and Civilization, 2001).
+Muhammad Taqi Usmani, “Post-Crisis Reforms: Some Points to Ponder,”
+Iraj Toutounchian, “Integrating Money in Capital Theory: A Legal
+Perspective (Islamic Finance),” … for Islamic Economics and the Islamic …,
+2006, 75–113.
+
+54
+
+TAFHIM Online © IKIM Press
+Introducing Maqāsidic Framework
+
+for Payment versus Payments (PvP) infrastructure of settling
+interbank ringgit-US dollar trade launched the Renminbi (RMB)
+settlements to support cross-border payments and settlements,
+the onshore multi-currency funds.
+Thus, a reconsideration of prevailing monetary system
+to encompass digital currency equipped with vigorous security
+qualities is the solution. Monetary authorities have been
+responsive in addressing the importance of legislation for
+the digital money’s connections, closely observing evolutions
+in digital currencies and assessing their propositions for the
+economy, the financial system and central banks. The monetary
+authority in the digital monetary system plays a significant role
+in classifying and deliberating any potential risks posed by digital
+currencies and provides possible regulatory responses. Such a
+set of regulatory standards could also set out frameworks for
+cross-country collaboration and organisation in areas such as
+information sharing and the exploration and tribunal of crossborder transgressions.
+The innovation of cryptocurrency is considered to be
+a financial disruption to the conventional monetary system.
+Cryptocurrency comes as part and parcel of the financial
+technology (fintech) revolution and digital wave. Cryptocurrency
+is virtual or digital in nature, takes the form of tokens or coins
+and is almost entirely intangible. The word crypto simply refers
+to the complicated cryptography that allows for the creation and
+processing of digital tokens or coins across decentralised systems.
+Cryptocurrencies are designed to be free from government
+intervention and contro. It is a type of unregulated digital money
+which is issued and controlled by its developers and being used
+and accepted among members of a specific virtual community.
+It is also a form of digital currency that uses cryptographic
+algorithms to ensure digital money supply as well as virtual
+security and control platforms.6
+6.
+
+O. S. Bolotaeva, A. A. Stepanova, and S. S. Alekseeva, “The Legal
+Nature of Cryptocurrency,” IOP Conference Series: Earth and Environmental
+Science 272, no. 3 (2019).
+
+55
+
+TAFHIM Online © IKIM Press
+Mohd Noor bin Omar/ TAFHIM 15 No. 1 (June 2022): 51–68
+
+The growth of effective regulatory reactions to the digital
+currency is still in its primary phase. Digital currency is hard to be
+regulated as it cuts across the responsibilities of multiple agencies
+at both the national or international levels. Many are operating
+privately and beyond the jurisdiction of the conventional system.
+The digital monetary system poses a dilemma to the monetary
+authority of a country which is whether to let it be on full control
+of distributed ledger or with full control by private entity and
+without governance by monetary authority. If it is not tied to a
+country’s authority interventions, manipulation by an anonymous
+autonomy is at stake. The legitimacy of the digital currency
+considerably varies from country to country. A few countries,
+such as Japan, have expressly permitted their utilisation and
+exchange, while others, for instance, the People’s Republic of
+China have prohibited or regulated cryptocurrencies. In the
+case of Malaysia, a guideline has been issued under the Digital
+Currency (Sector 6) of Anti-Money Laundering, Counter
+Financing of Terrorism-AML/CFT as an initial response.7 The
+issues which concern economists, scholars and jurists are the
+question of sovereignty, compatibility and compliance to the
+national security and financial domain. The digital currency
+would need to convince users, stakeholders and countries of
+its value while offering better and more convenient payment
+solutions. The rise of digital transaction and the decline in cash
+payments are among the motives for the introduction of a new
+genus of money.
+Central Bank Digital Currency
+
+The Central Bank Digital Currency (CBDC) is a digital form of
+currency that is backed by a central bank and has legal tender
+recognition by law as a means to settle debts or meet financial
+7.
+
+Bank Negara Malaysia (BNM), “Anti-Money Laundering and Counter
+Financing of Terrorism (AML/CFT) – Digital Currencies (Sector 6),”
+no. Sector 6 (2018).
+
+56
+
+TAFHIM Online © IKIM Press
+Introducing Maqāsidic Framework
+
+obligations such as tax payments, while at the same time, the
+central bank would have direct excess to apply its monetary policy.
+The cryptographic digital currency is a unit of asset
+or security which is privately issued in the form of a digital
+unit on the Distributed Ledger Technology (DLT) platform.8
+It is purely issued from a block of a particular recorded data
+chain. The digital token or asset of cryptocurrency coin is,
+however, not a currency. In fact, it is a record of unit holder
+ownership right encrypted in digital cryptographic data. It
+is transferable in a transaction as a medium of exchange9
+and secure to be transferred via online transaction using the
+blockchain technology engaging peer-to-peer cloud networking
+with public and private key.10 Blockchain is a digital ledger
+system of transaction recording information in a way to make it
+chained with each block of information that is impossible to be
+manipulated, hacked or changed. Bitcoin (BTC), for example,
+was the first successful cryptocurrency ever existed and invented
+based on a published whitepaper by Satoshi Nakamoto entitled
+“Bitcoin: A Peer-to-peer Electronic Cash System”. Primarily,
+the unique characteristic of Bitcoin is that it is a decentralised
+cryptocurrency, peer-to-peer direct transfer, secure and on
+distributed network as an intermediary for verification and proof
+of stake.11 Gradually, the BTC digital token gains a recognition
+8.
+
+Richard Adams et al., “The Future of Money and Further Applications
+of the Blockchain Proposal,” Strategic Change 26, no. 5 (September 1,
+2017): 417–22, https://doi.org/10.1002/jsc.2141.
+9. Nashirah Abu Bakar, Sofian Rosbi, and Kiyotaka Uzaki, “Cryptocurrency
+Framework Diagnostics from Islamic Finance Perspective: A New Insight of
+Bitcoin System Transaction,” International Journal of Management Science and
+Business Administration 4, no. 1 (2017): 19–28, https://doi.org/10.18775/
+ijmsba.1849-5664-5419.2014.41.1003.
+10. Ahmed Kosba et al., “Hawk: The Blockchain Model of Cryptography
+and Privacy-Preserving Smart Contracts,” Proceedings - 2016 IEEE
+Symposium on Security and Privacy, SP 2016, 2016, 839–58, https://doi.
+org/10.1109/SP.2016.55.
+11. Satoshi Nakamoto, “Bitcoin: A Peer-to-Peer Electronic Cash System,”
+Www.Bitcoin.Org, 2008, 9, https://doi.org/10.1007/s10838-008-9062-0.
+
+57
+
+TAFHIM Online © IKIM Press
+Mohd Noor bin Omar/ TAFHIM 15 No. 1 (June 2022): 51–68
+
+forming the market capitalisation of USD886.27 billion.12 There
+are approximately 11,879 cryptocurrencies and digital tokens
+with market capitalisation of more than US$2.12 trillion in
+existence, differing in name, structure, and features.13
+There are multiple cryptocurrency platforms available
+in the market. Proof of Work (PoW) makes use of the concept
+of the same name to process transactions in a blockchain, i.e.,
+a distributed ledger system on network shared among every
+participating computer (called nodes). On the other hand, Proof
+of Stake (PoS) is a smaller pool of nodes to validate transactions
+that PoW could not do. Any nodes that try to cheat automatically
+forfeit their stake as a penalty. Another platform offering is
+the token. Tokens are distinct from the traditional blockchain
+stand-alone systems. Finally, stablecoins is a cryptocurrency
+created for the sole purpose of providing reliable value digital
+storage. Stablecoins represents something of a hybrid (either
+backed by multiple or single commodity, fiat or crypto) between
+tokens and standard cryptocurrencies or collateralised such as
+Thether (USDT), True USD (TUSD), Paxos Standard (PAX),
+and Binance USD (BUSD). They are built on existing blockchain
+but may be exchanged for fiat currency. It is the most reliable
+cryptocurrency for CBDC to peg on. Be it on any platform, the
+cryptocurrency is a secure digital system that can transmit value.
+
+12. Data from CoinMarketCap, the world’s most-referenced price-tracking
+website for cryptoassets in the rapidly growing cryptocurrency space.
+Accessed on 15 September 2021. www.coinmarketcap.com.
+13. Ibid.
+
+58
+
+TAFHIM Online © IKIM Press
+Introducing Maqāsidic Framework
+
+Table 1: The Venn-diagram on Taxonomy of Money
+(Source: World Economic Forum 2019)14
+
+In summary, the Bank of International Settlements (BIS)
+has developed a taxonomy of money in Table 1, to classify money:
+Issuer (central bank or other), form (electronic or physical),
+accessibility (universal or limited) and transfer mechanism
+(centralised or peer-to-peer), while blockchain technology creates
+a new outlook to efficiency, resiliency and security for digital
+token. Many studies have been conducted on matters relating to
+blockchain and digital currencies. The research on blockchain
+applications within the Islamic monetary system is specifically
+on the potential of digital currency as a better alternative to
+fiat and paper monetary system.15
+14. Ashley (World Economic Forum) Lannquist, “Central Banks and Distributed
+Ledger Technology: How Are Central Banks Exploring Blockchain
+Today?,” World Economic Forum, 2019.
+15. Ibrahim Bassam Zubaidi and Adam Abdullah, “Developing a Digital
+Currency from an Islamic Perspective: Case of Blockchain Technology,”
+International Business Research 10, no. 11 (September 29, 2017): 79, https://
+doi.org/10.5539/ibr.v10n11p79.
+
+59
+
+TAFHIM Online © IKIM Press
+Mohd Noor bin Omar/ TAFHIM 15 No. 1 (June 2022): 51–68
+
+The blockchain-based digital currency is expanding in
+place of the current fiat-based system, thus, disrupting the
+existing monetary system and structure. The growth of its market
+capitalisation has increased tremendously since its inception and
+has alarmed the monetary authority, such as the central bank, to
+devise regulatory mechanisms. In the World Economic Forum
+2019, a special focus was given to the research, experimentation
+and early implementations of CBDC with various use cases
+of distributed ledger technology and a groundwork for the
+introduction of CBDC.16 One key issue for such monetary
+authorities as the central bank is whether or not to release its
+own digital currency that can be used by the general public to
+make payments. Fung and Halaburda suggest an outline to
+evaluate why a central bank should consider supplying a digital
+currency and how to implement it to improve the efficiency of
+the retail payment system.17 Indeed, many papers which have
+been published to that effect have proposed variable types and
+platforms in offering CBDC in line with the aspiration. To
+date, monetary authorities of countries such as China, Senegal,
+Singapore, Tunisia, Estonia, Japan, Russia, Sweden and Palestine
+are testing the issuance and uses of CBDC.
+According to a paper published by the Committee on
+Payments and Market Infrastructures, Bank for International
+Settlements (BIS), CBDC could replace fiat-based currency
+and function as a medium of exchange, a store of value, and
+a unit of account for internal and international operations.18
+Among the central banks that took the project into the pipeline
+are the Bank of England, Central Bank of Sweden, Uruguay,
+Singapore (project name UBIN), India, Canada (Jasper), Russia
+(Oleg Fomichev), Switzerland (e-Swiss Franc), Marshall Island,
+China, Estonia, Iran, Canada, USA, and Venezuela (Petro). In
+16. Lannquist, “Central Banks and Distributed Ledger Technology: How
+Are Central Banks Exploring Blockchain Today?”
+17. Ben S. C. Fung and Hanna Halaburda, “Central Bank Digital Currencies:
+A Framework for Assessing Why and How,” SSRN Electronic Journal, no.
+22 (2016): 1–27, https://doi.org/10.13140/RG.2.2.26985.70243.
+18. CPMI, “Central Bank Digital Currencies,” 2018.
+
+60
+
+TAFHIM Online © IKIM Press
+Introducing Maqāsidic Framework
+
+fact, following that, a working paper published by the staff of
+Bank of England has proposed three models of CBDC that
+have the potentials to be implemented.19
+Efforts put in by the Atlantic Council shows the real time
+CBDC Tracker updating developments to date are shown in
+Table 2. The monetary authorities of countries such as China,
+Senegal, Singapore, Tunisia, Estonia, Japan, Russia, Sweden
+and Palestine are testing the issuance and uses of CBDC.
+
+Table 2: CBDC Tracker on the World Map
+(Source: Atlantic Council January 2022)20
+
+Islamic View on the Digital Currency
+
+The aim of the Shariah can be summed up as in the following,
+“the obtainment of benefits (maslaḥah) and the avoidance of
+harms (mafsadah)”.21 In the financial realisation, the Shariah
+19. Michael Kumhof and Clare Noone, “Central Bank Digital Currencies
+— Design Principles and Balance Sheet Implications,” 2018.
+20. Figure from the Atlantic Council-a nonpartisan organisation to shape
+solutions to global challenges. Accessed on January 16, 2022. www.
+cbdctracker.org.
+21. Ahmad Al-Raysuni, Imam Al-Shatibi’s Theory of the Hihger Objectives and
+Intents of Islamic Law, The International Institute of Islamic Thought 22 (2013)
+https://doi.org/10.1007/s13398-014-0173-7.2.
+
+61
+
+TAFHIM Online © IKIM Press
+Mohd Noor bin Omar/ TAFHIM 15 No. 1 (June 2022): 51–68
+
+seeks to dispense with all types of monetary improprieties,
+poverty, unemployment, and underemployment among people
+and monetary accessibility for the public to achieve prosperous
+living. It is to safeguard and prevent any type of deception,
+misrepresentation and injustice in financial dealings.
+The Shariah supports real economic activity and mutual
+agreement in trade so as to empower a person to gain a living
+appropriately, and it takes expansive measures to guarantee the
+smooth running of business exchanges in commerce. The Shariah
+has allowed every genuine mechanism and procedures that are
+required for development and enhanced success to individuals.
+Any abusive activities that can obstruct humans to thrive are
+unlawful. For example, interest (ribā) and gambling, both endorse
+some financial dues at the expense of individuals. 22 Monetary
+advancement with respect to law and fair procedures in managing
+financial and asset is essential for the improvement of human life
+is basically connected to the maqāsid. The goals (maqāsid) of the
+Islamic monetary application are as follows: a) financial prosperity
+within the framework of the ethical standards; b) fraternity
+and equity inclusion; c) just and fair; and d) flexibility, equality
+and social welfare.23 The objectives of the Islamic monetary
+framework are equity and value; arrangement of the financial
+needs of the people or financial wellbeing; improvement of the
+people’s monetary assets or financial development; and change
+in the social milieu of the community.
+Given its vital association with all the Islamic sciences,
+the concept of maqāṣid al-sharī‘ah has turned into an authentic
+structure for creating theories, models, approaches and plans
+of change in different parts of life. Financial improvement
+particularly Islamic finance has likewise gotten some maqāsidbased intercessions as of late, a standout amongst the most
+22. Asifa Quraishi and Mohammad Hashim Kamali, “Principles of Islamic
+Jurisprudence,” Journal of Law and Religion 15, no. 1/2 (2000): 385.
+23. Fazlur Rahman Faridi, “Theory of Fiscal Policy in an Islamic State,”
+Journal of King Abdulaziz University: Islamic Economics 1, no. 1 (1983):
+15–30.
+
+62
+
+TAFHIM Online © IKIM Press
+Introducing Maqāsidic Framework
+
+imperative of this being Chapra’s (2008) work. Two essential
+inquiries should be tended to with respect to the implications of
+the maqāṣid on CBDC issues: first, what part can maqāṣid play a
+role in understanding financial issues, breaking down financial
+marvels and figuring financial strategies?; and second, what
+significance does the concept of maqāṣid have in the investigation
+of financial advancement from the Islamic point of view?
+There are different motivations to uphold that the maqāṣid
+al-sharī‘ah are vital to all financial examination, as they identify
+with the subject of deprivation, possessions transference and
+monetary improvement. As observed, in every one of the
+discourses concerning the maqāṣid al-sharī‘ah, researchers, scholars
+and jurists, from the time of al-Juwaini (476 AH) and followed
+by al-Ghazali (d.505 AH), had been consistent in upholding
+that safeguarding and distribution of possessions as among the
+major goals of the Shariah.
+Ultimately, the real Islamic banking and finance is an
+institution that is unable to sell money for money with interest as
+the price. CBDC is totally new and the digital financial ecosystem
+could be the answer to the above conundrum. Crafting a new
+digital system for the central bank with new governing policies
+and instrument fulfils the Islamic teaching.
+Conceptual Application
+
+The principles of the maqasid al-shariah could be applied on
+the CBDC and digital financial ecosystem on every stage from
+introduction, implementation and implication. In other words,
+evaluation based on the maqasid al-shariah is to be made on the
+foundation, theory, structure and application of CBDC. The
+first stage of evaluation on the maqāsidic framework is by tracing
+the existence of the following ethical elements of shariah in the
+digital currency bank:
+1.
+2.
+
+Protect public interest;
+Protect seigniorage of ownership and right to earn income;
+
+63
+
+TAFHIM Online © IKIM Press
+Mohd Noor bin Omar/ TAFHIM 15 No. 1 (June 2022): 51–68
+
+3.
+4.
+5.
+6.
+7.
+
+Security consideration and payment system;
+Financial stability and eliminating speculative activities;
+Policy governance and instrument implementation;
+Technological and service efficiency; and,
+Equal wealth distribution and financial inclusion.
+
+Public
+Interest
+Protection
+Equal
+Distribution
+
+Ownership
+Seignories
+
+Ethical
+Ecosphere
+
+Security
+consideration
+
+Policy
+Governance
+Financial
+Stability
+
+Table 3: Ethical Elements of Maqasid Al-Shariah Framework
+(Source: Author’s illustration)
+
+Having the indicators will help us to investigate how
+CBDC plays its role in the ethical perspective in the new era of
+digital economy. The existence of those maqasidic elements in
+the CBDC would serve as indicators on the Shariah-compliant
+ethical ecosphere dimension of CBDC. The maqasidic elements
+should be consistently present throughout the whole processes
+
+64
+
+TAFHIM Online © IKIM Press
+Introducing Maqāsidic Framework
+
+of CBDC, rather than in one or two certain processes only. As
+the process of developing the digital currency is still in progress,
+the findings of the elements are juxtaposed with every type of
+digital currency such as crypto-based, fiat-based, be it blockchain
+or stablecoin as the CBDC.
+Ethical Ecosphere
+
+Introduction Implementation Implication
+
+RAM
+Decision*
+
+Protecting
+public interest
+
+Y/N
+
+Y/N
+
+Y/N
+
+Y/N
+
+Ownership
+Seignories
+
+Y/N
+
+Y/N
+
+Y/N
+
+Y/N
+
+Policy governance
+
+Y/N
+
+Y/N
+
+Y/N
+
+Y/N
+
+Financial
+stability
+
+Y/N
+
+Y/N
+
+Y/N
+
+Y/N
+
+Technological
+efficiency
+
+Y/N
+
+Y/N
+
+Y/N
+
+Y/N
+
+Equal wealth
+distribution
+
+Y/N
+
+Y/N
+
+Y/N
+
+Y/N
+
+%
+
+%
+
+%
+
+Y/N
+
+Maqasidic
+Framework
+Decision
+
+Table 4: Ethical Ecosphere Checklist of CBDC
+*RAM =Rational Actor Model
+(Source: Author’s illustration)
+
+Conclusion
+
+The introduction of CBDC will change the role of central bank
+money, the scope of direct access to central bank accountabilities,
+and the construction of financial intermediation. There are
+various forms and design choices for digital currency that carry
+
+65
+
+TAFHIM Online © IKIM Press
+Mohd Noor bin Omar/ TAFHIM 15 No. 1 (June 2022): 51–68
+
+diverse inferences for policy transmission, payment systems, and
+the new digital financial ecosystem. Our findings have pointed
+to the ethical aspect of digital currency solely based on the
+intent and intensity of the Shariah. The structured framework,
+that is, the ethical elements cover all important aspects of the
+maqāṣid al-sharī‘ah such as justice, equal rights concerning people,
+institutional, technological, administrative, and legal aspects.
+All of these need to put in the proper theoretical and practical
+framework. It is hoped that the achievement of the foundation
+of the ethical ecosystem will support an effective and efficient
+digital monetary ecosystem.
+
+66
+
+TAFHIM Online © IKIM Press
+Introducing Maqāsidic Framework
+
+Bibliography
+
+Abu Bakar, Nashirah, Sofian Rosbi, and Kiyotaka Uzaki.
+“Cryptocurrency Framework Diagnostics from Islamic
+Finance Perspective: A New Insight of Bitcoin System
+Transaction.” International Journal of Management Science and
+Business Administration 4, no. 1 (2017): 19–28. https://doi.
+org/10.18775/ijmsba.1849-5664-5419.2014.41.1003.
+Adams, Richard, Glenn Parry, Phil Godsiff, and Peter Ward.
+“The Future of Money and Further Applications of
+the Blockchain PROPOSAL.” Strategic Change 26, no. 5
+(September 1, 2017): 417–22. https://doi.org/10.1002/
+jsc.2141.
+Al-Raysuni, Ahmad. Imam Al-Shatibi’s Theory of the Hihger
+Objectives and Intents of Islamic Law. The International Institute
+of Islamic Thought. Vol. 22, 2013. https://doi.org/10.1007/
+s13398-014-0173-7.2.
+Bank Negara Malaysia (BNM). “Anti-Money Laundering and
+Counter Financing of Terrorism (AML/CFT) – Digital
+Currencies (Sector 6),” no. Sector 6 (2018).
+Bolotaeva, O. S., A. A. Stepanova, and S. S. Alekseeva. “The
+Legal Nature of Cryptocurrency.” IOP Conference Series:
+Earth and Environmental Science 272, no. 3 (2019). https://
+doi.org/10.1088/1755-1315/272/3/032166.
+CPMI. “Central Bank Digital Currencies,” 2018.
+Fung, Ben S. C., and Hanna Halaburda. “Central Bank Digital
+Currencies: A Framework for Assessing Why and How.”
+SSRN Electronic Journal, no. 22 (2016): 1–27. https://
+doi.org/10.13140/RG.2.2.26985.70243.
+Islahi, Abdul Azim. “An Analytical Study of Al-Ghazali’s
+Thought on Money and Interest.” In The International
+Conference on Al-Gazali’s Legacy: Its Contemporary Relevance.
+Kuala Lumpur: International Institute of Islamic Thought
+and Civilization, 2001.
+Ismail, Imran. “Legal Stratagems (Hiyal) and Usury in Islamic
+Commercial Law.” University of Birmingham, 2010.
+
+67
+
+TAFHIM Online © IKIM Press
+Mohd Noor bin Omar/ TAFHIM 15 No. 1 (June 2022): 51–68
+
+Kosba, Ahmed, Andrew Miller, Elaine Shi, Zikai Wen, and
+Charalampos Papamanthou. “Hawk: The Blockchain
+Model of Cryptography and Privacy-Preserving Smart
+Contracts.” Proceedings - 2016 IEEE Symposium on Security and
+Privacy, SP 2016, 2016, 839–58. https://doi.org/10.1109/
+SP.2016.55.
+Kumhof, Michael, and Clare Noone. “Central Bank Digital
+Currencies — Design Principles and Balance Sheet
+Implications,” 2018.
+Lannquist, Ashley (World Economic Forum). “Central Banks and
+Distributed Ledger Technology: How Are Central Banks
+Exploring Blockchain Today?” World Economic Forum, 2019.
+Nakamoto, Satoshi. “Bitcoin: A Peer-to-Peer Electronic
+Cash System.” Www.Bitcoin.Org, 2008, 9. https://doi.
+org/10.1007/s10838-008-9062-0.
+Quraishi, Asifa, and Mohammad Hashim Kamali. “Principles
+of Islamic Jurisprudence.” Journal of Law and Religion 15,
+no. 1/2 (2000): 385. https://doi.org/10.2307/1051529.
+Rahman Faridi, Fazlur. “Theory of Fiscal Policy in an Islamic
+State.” Journal of King Abdulaziz University: Islamic Economics
+1, no. 1 (1983): 15–30.
+Toutounchian, Iraj. “Integrating Money in Capital Theory: A
+Legal Perspective (Islamic Finance).” … for Islamic Economics
+and the Islamic …, 2006, 75–113.
+Usmani, Muhammad Taqi. “Post-Crisis Reforms: Some Points
+to Ponder,” 2010.
+Yussof, Sheila Ainon, and Abdullah Al-Harthy. “Cryptocurrency
+as an Alternative Currency in Malaysia : Issues and
+Challenges.” Islam and Civilisational Renewal 9, no. 1 (2018):
+48–65. https://doi.org/10.12816/0049515.
+Zubaidi, Ibrahim Bassam, and Adam Abdullah. “Developing
+a Digital Currency from an Islamic Perspective: Case of
+Blockchain Technology.” International Business Research 10,
+no. 11 (September 29, 2017): 79. https://doi.org/10.5539/
+ibr.v10n11p79.
+
+68
+
+

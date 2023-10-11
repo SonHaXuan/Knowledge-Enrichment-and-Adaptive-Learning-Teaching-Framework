@@ -1,0 +1,195 @@
+       China Economic Journal
+
+
+
+
+       ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/rcej20
+
+
+
+
+Introduction to the special issue on digital
+currency
+
+Yang Ji & Yan Shen
+
+To cite this article: Yang Ji & Yan Shen (2021) Introduction to the special issue on digital
+currency, China Economic Journal, 14:1, 1-3, DOI: 10.1080/17538963.2020.1870283
+
+To link to this article: https://doi.org/10.1080/17538963.2020.1870283
+
+
+
+
+       Published online: 28 Jan 2021.
+
+
+
+       Submit your article to this journal
+
+
+
+       Article views: 704
+
+
+
+       View related articles
+
+
+
+       View Crossmark data
+
+
+
+
+                       Full Terms & Conditions of access and use can be found at
+              https://www.tandfonline.com/action/journalInformation?journalCode=rcej20
+CHINA ECONOMIC JOURNAL
+2021, VOL. 14, NO. 1, 1–3
+https://doi.org/10.1080/17538963.2020.1870283
+
+
+
+
+Introduction to the special issue on digital currency
+Yang Jia and Yan Shenb
+a
+ Department of Finance, School of Economics, Xiamen University, Xiamen, China; bInstitute of Digital
+Finance, National School of Development, Peking University, Beijing, China
+
+
+
+Although money in digital form is not new to modern economics, advances in technol­
+ogy have led to a revolution in digital currencies and have facilitated instantaneous peer-
+to-peer transfers of value, which was previously impossible. The advent of new digital
+currencies could redefine the way in which payments and users’ data interact, reshape the
+nature of currency competition, and rebuild the architecture of the international mone­
+tary system (Brunnermeier, James, and Landau 2019).
+   During the last decade, digital currencies have surfaced in a variety of contexts. The
+earliest context was cryptocurrencies (CPMI, 2015), such as Bitcoin and Litecoin, which
+are typically issued and transferred via a decentralized distributed ledger. They are not
+a liability of any entity and not backed by any authority and thus have zero intrinsic
+value. Their values are unstable as they are driven by the belief that other market
+participants would accept them as a means of payment or that their value will continue
+to increase at a later point. As a result, they are now viewed more as speculative assets
+rather than a medium of exchange.
+   A special type of cryptocurrency called Stablecoin, such as Libra (proposed by Facebook)
+and Tether, share a decentralized nature with Bitcoin, but differ in that Stablecoin attempt
+to maintain price stability. There are generally two ways to ensure that Stablecoins are
+stable – through collaterals or through algorithms. Collateralized Stablecoins are usually
+backed by reserve assets, including fiat currency reserves like the US dollar, commodities
+like oil, or precious metals like gold or silver. Algorithmic Stablecoins do not use reserves
+but retain a stable price by controlling the supply of coins, implemented by an autonomous
+consensus mechanism and smart contracts. Given their (alleged) capacity to preserve value
+over time, the use of Stablecoins, especially those issued by Big-Tech firms, could rise as
+global payment instruments and pose governance challenges for international finance and
+monetary policies (FSB, 2020).
+   Given that new technologies and market entrants challenge the traditional bank-based
+payment systems, 80% of central banks worldwide are currently considering a new type
+of digital currency controlled by central banks, that is, central bank digital currencies
+(CBDCs) (Boar, Holden, and Wadsworth 2020). CBDCs are new variants of central bank
+money that are different from physical cash or central bank reserve/settlement accounts.
+There are two broad types of CBDCs which are based on their different levels of
+accessibility: wholesale CBDCs or retail CBDCs. The former is a restricted-access digital
+
+
+CONTACT Yan Shen           yshen@nsd.pku.edu.cn           Institute of Digital Finance, National School of Development, Peking
+University, Beijing, China
+© 2021 Informa UK Limited, trading as Taylor & Francis Group
+2      Y. JI AND Y. SHEN
+
+
+token for wholesale settlements such as interbank payments. The latter is widely available
+to the general public for retail transactions and could be based on tokens or accounts.
+CBDCs have a number of potential benefits, such as strengthening the resilience and
+contestability of payment systems, better controlling illicit payments and money laun­
+dering, and overcoming the zero lower bound and providing additional monetary policy
+instruments. However, central banks are also aware of potential risks of CBDC use,
+including the risk of structural disintermediation, centralization of credit allocation, and
+the risk of facilitating systemic runs on banks during crises.
+    Among all current CBDC projects, Chinese retail CBDC, called the Digital
+Currency and Electronic Payment project, is at the most advanced stage (Auer,
+Cornelli, and Frost 2020). Pilot testing is underway in four cities and in the ‘2022
+Winter Olympic Office Area’ in Beijing. There is a gap in academic research regarding
+the effect of Chinese CBDC on its financial system, macroeconomics, and international
+payments.
+    The aim of this special issue is to facilitate a synergistic discussion on understanding
+the impacts and implications of digital currency. To be more focused, we present papers
+on these three topics: the technology innovation which makes new forms of digital
+currency possible; Stablecoins and the cross-border payments; and CBDC under global
+competition.
+    The first article, ‘What Blockchains can do and cannot do?’, Zhong Xu and Chuanwei
+Zou address the economic logic and applications of blockchian, the technology enabler of
+digital currencies. They touched on smart contracts, tokens, blockchain’s government
+functions and blockchain-based financial infrastructure, which is represented by stable­
+coins and central bank digital currencies and closely related to later articles. Their work
+provides a technology baseline for the following discussions.
+    Dong He’s article, ‘Digitalization of Cross-Border Payments’, explores the possible
+evolution of cross-border payment systems as they become more digitalized, and the
+macro-financial consequences of digital currencies across borders. He argues that the
+digital technology has provided a unique window of opportunity to fix the decades-old
+problem of low efficiency and high cost of cross-border payment system.
+    In ‘The Potential Impacts and Risks of Global Stablecoins’, Cangshu Li and Yan Shen
+also investigate the implications of digital currencies in cross-border payments, but from
+a different aspect. With a focus on global stablecoins and related risks, they consider
+whether the possible large-scale usage of global stablecoins will lead to dollarization of
+a country’s monetary system and find an impact on both large and small open economies.
+They caution that global stablecoins may affect financial stability through monetary
+policy, holder confidence and financial system.
+    In the forth article,‘A Global Perspective on Central Bank Digital Currency’, Lee and
+coauthors Yan and Wang provides a conceptual framework of CBDC and discuss the key
+considerations of CBDC design to balance benefits and risks. Using China’s CBDC as an
+illustration, this paper proposes several enablers of mass adoption and successful imple­
+mentation, which allows central banks to focus on the monitoring and control, without
+bearing all the load or exposing to over-centralized risks. From a global perspective, they
+conclude that countries conversant with the CBDC relevant technology will have
+a competitive advantage.
+                                                                   CHINA ECONOMIC JOURNAL      3
+
+
+   Yiping Huang and Shiyun Li’s paper, ‘The Genesis, Design and Implications of
+China’s Central Bank Digital Currency’ provides a detailed discussion on China’s
+CBDC, named e-CNY, which may become the first CBDC released by major central
+banks in the future. The possibility of disintermediation effect of CBDC on commercial
+banks cannot be fully ruled out, even though PBC has tried hard to avoid it. CBDC could
+also influence the collection and analyses of big data in the Chinese Fintech sector, which
+relies highly on the existing mobile payment system. They conclude that even the modest
+step of creating e-CNY could significantly transform the financial landscape in China.
+   In ‘A Study of Economic Impact of Central Bank Digital Currency under Global
+Competition’, Tong Wu and Jiayou Chen review the global development and competi­
+tion of digital currencies, and innovatively provide a quantitative analysis of the eco­
+nomic impact of the issuance of Chinese CBDC based on a four-sector DSGE model.
+They predict that the insurance of CBDC could enhance the economic growth rate by
+0.15% in China and reduce the leverage ratio to a certain degree. They contend that
+China should accelerate the research and promotion of its CBDC.
+   In the last article, ‘China, the United States, and Central Bank Digital Currencies: It
+May Not Matter Who is First’, Martin Chorzempa critiques the common framing of
+CBDC development as a race and elaborates on the reasons behind the stark divergence
+of China and the United States in central bank digital currency development. He
+concludes that a first mover advantage in CBDC is likely to be short lived due to the
+rapid changes in the technology in the global market for digital currencies.
+   One common theme of all these seven papers is that, explicitly or implicitly, all authors
+acknowledge that digital currency may have far-reaching impacts on almost all aspects of
+social and economic activities. One special issue surely cannot cover discussions on all
+the important changes, the goal here is merely to begin an initial exchange of ideas,
+perspectives, and approaches toward understanding the role of digital currency for the
+future, with the hope that more scholars will join this research agenda to produce many
+more insightful discussions.
+
+
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+
+
+References
+Auer, R., G. Cornelli, and J. Frost, 2020. “Rise of the Central Bank Digital Currencies: Drivers,
+  Approaches and Technologies.” BIS Working Papers, No. 880.
+Boar, C., H. Holden, and A. Wadsworth. 2020. “Impending Arrival: A Sequel to the Survey on
+  Central Banking Digital Currency.” BIS Paper, No. 107.
+Brunnermeier, M., H. James, and J.-P. Landau. 2019. “The Digitalization of Money.” NBER
+  working paper, w26300.
+CPMI (Committee on Payments and Market Infrastructures). 2015. “Digital Currencies.” BIS
+  CPMI report on digital currencies, November.
+FSB (Financial Stability Board). 2020. “Regulation, Supervision and Oversight of ’Global
+  Stablecoin’ Arrangements.” https://www.fsb.org/wp-content/uploads/P131020-3.pdf
+

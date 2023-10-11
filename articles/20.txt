@@ -1,0 +1,777 @@
+EDITOR NIR KSHETRI
+
+University of North Carolina at Greensboro;
+nbkshetr@uncg.edu
+
+COMPUTING’S ECONOMICS
+
+COPYRIGHT ISTOCKPHOTO, CREDIT: SITTIPONG PHOKAWATTANA
+
+The Economics of
+Central Bank Digital
+Currency
+Nir Kshetri, University of North Carolina at Greensboro
+
+Central bank digital currency (CBDC) is emerging
+as the future of banking and payments. We
+analyze CBDCs’ benefits to consumers and the
+economy and some concerns associated
+with their use.
+
+T
+
+he current trend of central bank activities
+clearly shows that central bank digital currency (CBDC) is likely to be the future of banking and payments. In late 2020, the international financial institution owned by central banks,
+Bank for International Settlements (BIS), surveyed more
+than 60 central banks about their engagement in digital
+versions of fiat currency work and found that 86% were
+exploring CBDCs.1 In October 2020, Central Bank of the
+Bahamas (CBB) launched the digital Bahamian Dollar
+(B$), known as “the sand dollar,” which was the world’s
+first CBDC.2 Parties transacting in the sand dollar benefit from the legal-tender status since it uses a liability of
+Digital Object Identifier 10.1109/MC.2021.3070091
+Date of current version: 4 June 2021
+
+CO M PUTE R 0018-9162/ 21©2021IEEE
+
+the CBB, which is viewed as the safest form of payment in the country.
+Major world economies such as
+Brazil, China, the Eurozone, Japan,
+Russia, the United Kingdom, and
+the United States are undergoing
+various phases of research exploration and trial of CBDCs.3 CBDCs utilize different models and widely differ in terms of factors such as target users and the types
+of technologies used. China’s digital yuan, or e-CNY, for
+instance, is being tested for retail use by the public. Other
+economies, such as Hong Kong4 and Australia, are developing CBDCs targeted at financial institutions. In November 2020, Australia’s central bank and banknote-issuing
+authority, the Reserve Bank of Australia, announced a
+partnership with multinational bank Commonwealth
+Bank of Australia, another bank serving Australia National Australia Bank, investment and trustee group
+Perpetual, and blockchain company ConsenSys to explore the potential use and implications of a wholesale
+form of distributed ledger technology (DLT)-based CBDC.
+The project’s goal was to develop a proof-of-concept
+(PoC) based on an Ethereum-based platform for issuing a
+tokenized form of CBDC for the wholesale market,
+PUBLISHED BY THE IEEE COMPUTER SOCIET Y
+
+JUNE 2021
+
+53
+
+COMPUTING’S ECONOMICS
+
+which involves borrowing and lending among institutional banks.5
+Ripple, which is a semicentralized
+system,6 is also being viewed as a
+platform for developing, issuing, and
+managing CBDCs. Quoting a report of
+the professional accounting body, CPA
+Australia, media outlets reported that
+France’s central bank, the Banque de
+France, has shown interest in exploring Ripple as a platform for issuing
+its CBDC.7
+In November 2020, the central
+banks of Saudi Arabia and the United
+Arab Emirates (UAE) concluded a joint
+CBDC PoC, referred to as the “Aber”
+project. The project was launched in
+January 2019.8 The goal was to test the
+viability of a shared digital currency
+between the two countries. The project
+used Hyperledger Fabric, which is a permissioned blockchain associated with
+Linux Foundation and IBM. In addition
+to the two central banks, six local commercial banks participated to run the
+nodes.9 A key finding was that, compared to centralized payment systems,
+the use of DLT can improve domestic
+and cross-border commercial bank
+settlements.10 The Aber project built
+on earlier trials conducted in other
+
+countries, such as Singapore’s Project
+Ubin and Canada’s Project Jasper.11
+
+BENEFITS TO CONSUMERS
+AND THE ECONOMY
+
+Some of the key potential benefits of
+CBDCs vis-à-vis fiat currencies and
+other payment systems are presented
+in Table 1. They are also illustrated in
+the case of e-CNY, also commonly referred to by its original project name,
+Digital Currency Electronic Payment
+(DCEP), which is in the most advanced
+stage of development among CBDC
+projects of major economies.
+It is worth noting that the relative
+importance of different benefits varies
+across economies. A BIS survey of 63
+central banks [41 in emerging market
+economies (EMEs) and 22 in advanced
+economies] found that EMEs value domestic payments’ efficiency and financial inclusion as the top two benefits of
+CBDCs. On one hand, cross-border payments’ efficiency was the least important benefit for EMEs. Central banks in
+advanced economies, on the other hand,
+viewed payments’ safety and financial
+stability as CBDCs’ primary benefits. Financial inclusion was considered to be
+the least important factor by this group.12
+
+RELIABLE LOW-RISK
+PAYMENT SOLUTION
+
+A state-backed digital currency is the
+most reliable means to carry out payment settlements. In a CBDC transaction, just like in an exchange of
+banknotes, as soon as the possession
+changes, a final settlement is reached
+between the parties. With transactions, such as cashless payments by
+credit card, wire, check, and digital
+apps, a deal is not fully settled when
+one party makes a payment to another.
+That is, until the banks have recorded,
+reconciled, and settled their respective debits and credits, there is a possibility that the transaction could be
+reversed.13 In China, for instance, Alipay and WeChat Pay rely on commercial banks to settle payments.14 Parties
+that rely on private companies such as
+Alipay and WeChat Pay face risks, such
+as business failure and bankruptcy of
+companies in payment ecosystems.
+
+LOW COSTS AND
+HIGH EFFICIENCY
+
+Parties in a transaction may achieve
+high efficiency and low costs with
+CBDCs. Eliminating intermediaries
+could be a key mechanism to reduce
+
+TABLE 1. The key benefits of CBDC to consumers and the national economy.
+Benefit
+
+Explanation
+
+The case of DCEP/e-CNY
+
+Reliable low-risk
+payment solution
+
+• There are more reliable means to carry out
+payment settlements compared to other
+available means.
+
+• Private companies such as Alipay and WeChat Pay
+face risks such as business failure and bankruptcy.
+
+Low costs and high
+efficiency
+
+• There are faster transactions at lower costs.
+
+• It is likely to be free for vendors to accept e-CNY
+payments.
+
+Promoting
+financial inclusion
+of disadvantaged
+groups
+
+• For a digital wallet linked to the CBDC account
+through application programming interfaces,
+no account in a bank is needed to engage in
+transactions.
+• Traceability and the possibility of conducting
+transactions without a smartphone can promote
+financial inclusion of disadvantaged groups.
+
+• People’s Bank of China can monitor the flow of
+money and deliver targeted programs to improve
+the well-being of high-risk/disadvantaged groups.
+• The December 2020 Suzhou trial involved offline
+payments.
+
+Combating
+economic crimes
+and frauds
+
+• They are more traceable than fiat currencies and
+other payment systems for the government.
+• Blockchain-based cryptocurrencies employ
+cryptography.
+• Blockchains are likely to be permissioned, which
+is another defense layer.
+
+• It is described as “controllable anonymity” and is
+expected to control money laundering, terrorism
+financing, and tax evasion.
+• It employs asymmetric cryptography.
+
+54
+
+COMPUTER 
+
+W W W.CO M P U T E R .O R G /CO M P U T E R
+
+transaction costs. The vendors are required to pay a service fee when consumers use e-payment systems such as
+WeChat Pay and Alipay or credit cards.
+In China, the fee is usually 0.6% of the
+total amount.15 The Chinese government has indicated that it will be free
+for vendors to accept e-CNY payments.
+In Table 2, we compare the throughputs of some major payment systems in
+terms of transactions per second (TPS).
+Specifically, this table compares the
+throughputs of China’s DCEP, Ripple (being considered by the Banque de France),
+Hyperledger Fabric (used by the Aber
+project of the central banks of Saudi Arabia and the UAE), and Ethereum (used to
+develop a PoC by the Reserve Bank of
+Australia) with some other crypto and
+noncrypto payment solutions.
+The CBDCs being planned by major
+economies are expected to perform
+well in terms of throughput (Table 2).
+China’s DCEP is expected to potentially have much higher transaction
+processing rates than other CBDCs.
+Ripple’s CBDC Private Ledger, which
+is built for issuing currencies, uses the
+same technology that has powered the
+ledger for its digital currency, XRP.16
+The firm reported that it is in discussion with central banks worldwide
+to assess how its CBDC private ledger
+can be used to issue digital currency.
+As to the mechanisms needed for
+various CBDCs to interact, Ripple has
+advocated for the use of its cryptocurrency XRP as a bridge or a vehicle to
+efficiently move from the value from
+one CBDC to another in a frictionless
+manner.17 Likewise, Ethereum is currently in the process of upgrading to
+Ethereum 2.0, which is expected to increase speeds to 100,000 TPS.18
+
+PROMOTING THE
+FINANCIAL INCLUSION OF
+DISADVANTAGED GROUPS
+
+In the current system, checking and
+savings accounts with financial institutions are the primary means to
+gaining access to credit. In developing
+economies, financial institutions are
+not easily accessible. Opening a bank
+
+account in developing as well as developed countries may involve a number
+of barriers, such as formal identification, a minimum deposit and balance,
+and a local bank branch.19
+Commercial banks often find it
+unprofitable to serve poor people
+and small businesses in remote and
+marginalized regions. Moreover, if
+the majority of consumers start using electronic and digital payments,
+such as online/mobile payments and
+
+the establishment of an inclusive digital payment ecosystem and the creation of financial data identities. For
+instance, individuals can have a CBDC
+account on the central bank’s ledger.
+A digital wallet application linked to
+the CBDC account through application
+programming interfaces can allow users to access their accounts and engage
+in transactions.19
+CBDCs can thus promote financial
+inclusion of low-income groups and
+
+A state-backed digital currency is the most reliable
+means to carry out payment settlements.
+digital wallets, the infrastructure for
+cash payments may suffer, and cash
+might no longer be an option in these
+regions. Such a situation might lead to
+further marginalization of the poor.
+The International Monetary Fund
+argues that digital currency offers
+great promise to reaching disadvantaged groups.20 A retail CBDC system,
+in which a central bank issues digital
+currency directly to people without
+the need for traditional bank accounts,
+can address many of the previous challenges. This can be achieved through
+
+small and medium enterprises.6 For instance, since e-CNY is highly traceable,
+the central bank, PBoC, can monitor
+the flow of money in the Chinese economy.15 This allows the government to
+deliver targeted programs to improve
+the well-being of high-risk and disadvantaged groups, such as small businesses and low-income households.
+Viewed from the perspective of the
+rural low-income population, the trial
+conducted in December 2020 in city of
+Suzhou in the Jiangsu Province in eastern China deserves mentioning. The
+
+TABLE 2. The efficiency and performance indicators
+of some major payment systems.29,30
+Payment
+system
+
+TPS
+
+Remarks
+
+DCEP
+
+About 220,000
+
+December 2019, peak TPS31
+
+Ripple
+
+Average: 1,50032
+
+CBDC private ledger: Ripple claimed that it can
+handle tens of thousands of TPS in the initial
+phase, which can be increased to hundreds of
+thousands of TPS over time
+
+Bitcoin
+
+Average: 5.15
+
+Complete decentralization has reduced
+performance
+
+Ethereum
+
+Average: 20
+
+Ethereum 2.0 has an expected 100,000 TPS
+
+Hyperledger
+Fabric
+
+Average: 3,500
+
+Deployed in a single cloud data center (early 2018)
+
+Visa
+
+Average: 1,700
+
+Can handle more at peak load
+
+Diem
+
+Average: about 3
+(January 2021)33
+
+In the testing phase, testnet
+Original Libra white paper envisioned 1,000 TPS34
+
+JUNE 2021
+
+55
+
+COMPUTING’S ECONOMICS
+
+trial involved e-CNY’s offline payments
+without smartphones. It explored mechanisms that allow the completion of
+transactions by touching two devices via
+near-field communication (NFC). Since
+one-third of China’s population lacks
+Internet access, this trial is important
+to understanding the opportunity of expanding e-CNY in rural China.
+
+COMBATING ECONOMIC
+CRIMES AND FRAUDS
+
+Compared to a fiat currency, digital currencies are difficult to counterfeit.21 CBDCs that are supported with blockchain
+employ complex cryptography to prevent double spending. This is the digital
+equivalent of preventing the making of
+an identical copy of a banknote. Blockchains used for CBDCs are likely to be
+permissioned, which restricts the access to only authorized users, providing
+another layer of defense.22
+While China’s DCEP does not necessarily use blockchain, it employs
+asymmetric cryptography to enhance
+security.23 The PBoC has stated that transaction records are encrypted, and unauthorized parties cannot access them.
+Governments are also likely to use
+CBDCs to combat economic crimes. At
+a BIS seminar, the director-general of
+the PBoC’s digital currency institute
+Mu Changchun proposed global rules,
+which emphasize the importance of
+synchronizing the flows of information and funds so that regulators can
+monitor the compliance of transactions.24 A PBoC official noted that
+the DCEP’s “controllable anonymity,”
+rather than full anonymity, is based on
+international consensus to satisfy antimoney laundering, antiterrorism financing, and antitax-evasion requirements.25 By tracking and recording the
+details of all transactions, the government is in a better position to prevent
+and control illegal transactions.
+
+PRIVACY VIOLATION AND
+SURVEILLANCE-RELATED
+CONCERNS
+
+While the aforementioned benefits
+are attractive, CBDCs may also present
+56
+
+COMPUTER 
+
+some risks to consumers. Privacy is
+among the biggest concerns that critics have about CBDCs. From the privacy
+standpoint, there are at least three issues that need to be considered. First,
+CBDC transactions are not likely to
+be fully anonymous. Making data
+anonymous means preventing the
+identification of parties engaged in a
+transaction using special techniques.
+CBDCs, such as the DCEP, and decentralized cryptocurrencies, such as Bitcoin, differ in terms of who is intended
+to be prevented from identifying the
+parties in a transaction. For instance,
+both parties in a transaction involving
+DCEP can be anonymous to the public.
+DCEP thus provides a higher degree of
+anonymity when it comes to the ability
+of parties other than the Chinese government to identify the participants
+in a transaction. DCEP transactions,
+however, can be monitored by the
+PBoC. The e-CNY has users’ personal
+information and other details to track
+and record every movement, such as
+where it is stored and how it is spent.
+Second, when users’ financial information is centralized, it can potentially be misused by the government.
+Such information is also likely to be
+targeted by cybercriminals.26
+Third, there is a possibility that
+consumer data are shared with third
+parties. In a 2020 report on CBDC,
+published by the central banks of the
+United States, Europe, England, Japan,
+Switzerland, Canada, and Sweden, and
+the BIS,27 there was discussion of the
+possibility of allowing service providers
+to access consumer data, and to charge
+them a fee would be a way to cover the
+cost of a CBDC system. In China, e-CNY
+is expected to provide commercial
+banks with rich transaction data to profile a larger number of consumers and
+analyze their online behavior. They can
+thus experiment with different ways to
+monetize consumer data.28
+
+W
+
+hile CBDCs’ benefits such
+as the low cost of producing and storing, ease of use,
+
+and protection against counterfeiting
+are obvious, they can also reduce transaction costs by removing third-party
+intermediaries such as commercial
+banks. They can address various barriers to financial inclusion. CBDCs can
+also be issued in a pro-poor manner.
+For instance, consumers involved in
+an e-CNY trial completed transactions
+with NFC technology, which did not require an Internet connection. The possibility of using DCEP with NFC is especially attractive for individuals and
+organizations in remote areas who lack
+Internet access or bank accounts. Countries that have created financial data
+identities can ensure higher efficiency
+and value addition from CBDC efforts.
+CBDCs may adversely affect the
+businesses of financial and payment
+intermediaries, such as mobile and
+on line payment platforms, banks,
+and microfinance institutions. In
+China, for instance, e-CNY may pose
+a direct challenge to the existing payment systems, such as WeChat Pay
+and Alipay.
+From the consumers’ standpoint, a
+downside of CBDCs is that the government is likely to track all transactions.
+Privacy concerns are even more salient
+in authoritarian regimes, given their
+aim of maintaining social control at all
+costs. For instance, among key driving
+forces in the development of the DCEP
+is, arguably, the Chinese Communist
+Party’s (CCP) desire of social control.
+The CCP has regarded its centralized
+banking system as a key instrument
+of its economic power. By putting every transaction onto the PBoC’s radar,
+the DCEP may strengthen the surveillance state.
+
+REFERENCES
+
+1. C. Boar and A. Wehrli. “Ready,
+steady, go? Results of the third BIS
+survey on central bank digital currency.” 2021. Bank for International
+Settlements. https://www.bis.org/
+publ/bppdf/bispap114.pdf
+2. V. Bharathan. “Central Bank Digital
+Currency: The first nationwide CBDC
+in the world has been launched by
+W W W.CO M P U T E R .O R G /CO M P U T E R
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+The Bahamas.” Forbes. 2020. https://
+tinyurl.com/yvz9sdpu
+J. Light. “Federal reserve’s digital dollar push worries Wall
+Street.” Bloomberg. 2021.
+https://www.bloomberg.com/
+news/articles/2021-03-22/
+federal-reserve-s-digital-dollar
+-momentum-worries-wall-street
+M. Lim. “4 central banks and BIS
+exploring CBDC bridge for Asia and
+Middle East.” Forkast. 2021. https://
+forkast.news/central-banks-bis
+-cbdc-bridge-asia-middle-east/
+“Reserve Bank partners with Commonwealth Bank, National Australia
+Bank, Perpetual and ConsenSys
+Software on Wholesale Central Bank
+Digital Currency Research Project.”
+Reserve Bank of Australia. 2020.
+https://www.rba.gov.au/media
+-releases/2020/mr-20-27.html
+S. Allen et al. “Design choices for
+Central Bank Digital Currency:
+Policy and technical considerations.”
+Brookings. 2020. https://www
+.brookings.edu/wp-content/
+uploads/2020/07/Design-Choices
+-for-CBDC_Final-for-web.pdf
+G. Thompson. “Hosting a CBDC?
+Only one of Bitcoin, Ethereum or
+XRP can do it, says report.” Cointelegraph. 2021. https://cointelegraph
+.com/news/hosting-a-cbdc-only
+-one-of-bitcoin-ethereum-or-xrp
+-can-do-it-says-report
+“A statement launching ‘Aber’
+project, the common digital
+currency between Saudi Arabian
+Monetary Authority (SAMA) and
+Central Bank of the United Arab
+Emirates (CBUAE).” Central Bank
+of the UAE. 2019. https://www.
+centralbank.ae/sites/default/
+files/2019-01/A%20statement%20
+launching%20%E2%80%9CAber%E2%80%9D%20project-%20
+29Jan2019.pdf
+D. Kuhn. “Bilateral Saudi, UAE
+digital currency experiment shows
+benefits of distributed ledgers,
+Central Banks Say.” Coindesk.
+2020. https://www.coindesk.com/
+bilateral-saudi-uae-digital
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+-currency-experiment-shows
+-benefits-of-distributed-ledgers
+-central-banks-say
+“Saudi Central Bank and Central
+Bank of the U.A.E. joint digital
+currency and distributed ledger
+project.” Saudi Arabian Monetary
+Authority. https://www.sama
+.gov.sa/en-US/News/Documents/
+Project_Aber_report-EN.pdf
+(accessed Mar. 4, 2021).
+D. Ngetich. “Central Banks of UAE
+and Saudi Arabia say CBDCs are
+more efficient and can preserve
+privacy.” BTC Manager. 2020.
+https://btcmanager.com/
+central-banks-uae-saudi-arabia
+-say-cbdc-preserve-privacy/
+C. Barontini and H. Holden. “Proceeding with caution—a survey
+on central bank digital currency.”
+Bank for International Studies. 2019.
+https://www.bis.org/publ/bppdf/
+bispap101.pdf
+M. J. Casey. “Why the U.S.
+shouldn’t let China dominate the
+digital currency race.” Fortune.
+2020. https://fortune.com/2020/
+04/07/china-us-digital-currency
+-coronavirus/
+A. Kharpal. “China has given away
+millions in its digital Yuan trials.
+This is how it works.” CNBC. 2021.
+https://www.cnbc.com/2021/03/05/
+chinas-digital-yuan-what-is-it-and
+-how-does-it-work.html
+X. Huang. “China’s DCEP project
+launches biggest digital Yuan test
+yet.” Forkast. 2021. https://
+forkast.news/china-dcep-digital
+-yuan-pros-cons/
+R. Steves. “France eyes ripple’s
+CBDC ledger for digital euro.”
+Finance Feeds. 2021. https://
+financefeeds.com/france-eyes-ripples
+-cbdc-ledger-digital-euro/
+“Ripple touts private version of XRP
+ledger as CBDC problem-solver.” Finextra. 2021. https://www.finextra.com/
+newsarticle/37605/ripple-touts-private
+-version-of-xrp-ledger-as-cbdc
+-problem-solver
+C. Kim. “Confessions of a sharding
+skeptic.” Coindesk. 2020. https://
+
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+www.coindesk.com/sharding-eth-2
+-podcast
+N. Raghuveera. “Central bank
+digital currency can contribute
+to financial inclusion but cannot
+solve its root causes.” Atlantic
+Council. 2020. https://tinyurl
+.com/4x3ec3f4
+C. Lagarde. “Winds of change:
+The case for new digital currency.”
+International Monetary Fund. 2018.
+https://tinyurl.com/2wyhrh7h
+S. Malwa. “Facebook’s Diem Testnet
+hits 50 million transactions.” Decrypt. 2021. https://decrypt
+.co/55814/facebooks-diem-testnet
+-hits-50-million-transactions
+A. Linuma. “Facebook’s Libra: Potential to increase demand for Bitcoin.”
+Forbes. 2019. https://www.forbes.
+com/sites/forbesagencycouncil/
+2019/07/17/facebooks-libra-potential
+-to-increase-dem a nd-f or-bitcoi n/
+?sh=21b91da375cb
+“Is DCEP Crypto? Industry experts
+discuss China.” Medium. 2020.
+https://tinyurl.com/2ykd59jr
+T. Wilson and M. Jones. “China
+­proposes global rules for central
+bank digital currencies.” Reuters.
+2021. https://www.reuters.com/
+article/cenbanks-digital-china
+-rules-idINKBN2BH2CJ
+W. Zhao. “PBoC official says ‘completely anonymous CBDC is not an
+option.’” The Block Crypto. 2021.
+https://www.theblockcrypto.com/
+linked/98925/pboc-anonymous-cbdc
+-not-option
+A. Madeira. “Much anticipated
+Central Bank digital currencies raise
+privacy concerns.” Coin Telegraph.
+2020. https://cointelegraph.com/
+news/much-anticipated-central
+-bank-digital-currencies-raise
+-privacy-concerns
+“Central bank digital currencies:
+Foundational principles and core
+features.” Bank for International
+Settlements. 2020. https://www.bis
+.org/publ/othp33.pdf
+“China and the future of
+money—Central Bank Digital
+Currency (CBDC).” Money Morning.
+JUNE 2021
+
+57
+
+COMPUTING’S ECONOMICS
+
+2021. https://tinyurl.com
+/3vkerrjb
+29. L. Mearian, “MIT’s blockchain-based ‘Spider’ offers 4X faster
+cryptocurrency processing,” ComputerWorld, Feb. 3, 2020. Accessed:
+Mar. 15, 2021. [Online]. Available:
+https://www.computerworld.com/
+article/3518893/mits-blockchain
+-based-spider-offers-4x-faster
+-cryptocurrency-processing
+.html
+30. “Behind the architecture of hyperledger fabric.” IBM. 2018. https://
+tinyurl.com/5bapt3jw
+31. “China may slash yuan/greenback
+usage gap with digital currency
+
+technology.” Global Times. 2019.
+https://tinyurl.com/v65466vm
+32. “Who scales it best? Inside blockchains’ ongoing
+transactions-per-second race.”
+Cointelegraph. 2019. https://tinyurl
+.com/yesfvusy
+33. “China’s digital currency and
+what this could mean for foreign
+companies and financial
+institutions in China.” JD Supra.
+2021. https://www.jdsupra
+.com/legalnews/china-s-digita
+l-currency-and-what-this
+-7987963/
+34. C. Ye and K. C. Desouza. “The
+current landscape of central bank
+
+digital currencies.” Brookings.
+2019. https://www.brookings
+.edu/blog/techtank/2019/12/13/
+the-current-landscape-of-central
+-bank-digital-currencies/
+
+NIR KSHETRI is the “Computing’s
+Economics” column editor of
+Computer and a professor at the
+Bryan School of Business and
+Economics, the University of North
+Carolina at Greensboro, Greensboro,
+North Carolina, 27412, USA. Contact
+him at nbkshetr@uncg.edu.
+
+CG& A
+www.computer.org/cga
+
+IEEE Computer Graphics and Applications bridges the theory
+and practice of computer graphics. Subscribe to CG&A and
+• stay current on the latest tools and applications and gain
+invaluable practical and research knowledge,
+• discover cutting-edge applications and learn more about
+the latest techniques, and
+• beneﬁt from CG&A’s active and connected editorial board.
+Digital Object Identifier 10.1109/MC.2021.3078281
+
+58
+
+COMPUTER 
+
+W W W.CO M P U T E R .O R G /CO M P U T E R
+
+

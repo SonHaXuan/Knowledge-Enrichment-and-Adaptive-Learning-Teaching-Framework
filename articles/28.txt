@@ -1,0 +1,2771 @@
+Journal of Travel & Tourism Marketing
+
+ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/wttm20
+
+Central bank digital currency as a payment
+method for tourists: application of the theory
+of planned behavior to digital Yuan/Won/Dollar
+choice
+Aleksandar Radic, Wei Quan, Bonhak Koo, Bee-Lia Chua, Jinkyung Jenny Kim
+& Heesup Han
+To cite this article: Aleksandar Radic, Wei Quan, Bonhak Koo, Bee-Lia Chua, Jinkyung Jenny
+Kim & Heesup Han (2022) Central bank digital currency as a payment method for tourists:
+application of the theory of planned behavior to digital Yuan/Won/Dollar choice, Journal of
+Travel & Tourism Marketing, 39:2, 152-172, DOI: 10.1080/10548408.2022.2061677
+To link to this article: https://doi.org/10.1080/10548408.2022.2061677
+
+Published online: 27 Apr 2022.
+
+Submit your article to this journal
+
+Article views: 861
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 11 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=wttm20
+
+JOURNAL OF TRAVEL & TOURISM MARKETING
+2022, VOL. 39, NO. 2, 152–172
+https://doi.org/10.1080/10548408.2022.2061677
+
+Central bank digital currency as a payment method for tourists: application of
+the theory of planned behavior to digital Yuan/Won/Dollar choice
+Aleksandar Radic
+and Heesup Han
+
+a
+
+, Wei Quan
+
+b
+
+, Bonhak Koo
+
+c
+
+, Bee-Lia Chua
+
+d
+
+, Jinkyung Jenny Kim
+
+e
+
+b
+
+a
+
+Independent researcher, Dubrovnik, Croatia; bCollege of Hospitality and Tourism Management, Sejong University, Seoul, Korea; cDepartment
+of Hospitality and Retail Management, College of Human Sciences, Texas Tech University, Lubbock, TX, USA; dDepartment of Food Service and
+Management, Faculty of Food Science and Technology, Universiti Putra Malaysia, Serdang, Malaysia; eSchool of Hotel and Tourism
+Management, Youngsan University, Busan, South Korea
+ABSTRACT
+
+ARTICLE HISTORY
+
+Central Bank Digital Currency (CBDC) is a digital asset backed to fiat currencies issued and
+regulated by reputable national financial institutions. Bearing in mind accelerating developments
+in financial technology and CBDC, this study explored tourists’ adoption of CBDC as a payment
+method by focusing on the relationship between attitudes, subjective norms, perceived behavioral
+control, mass media coverage, fear of missing out relative advantages, and perceived risk. A sociopsychological theory was utilized as a theoretical framework. The survey data were collected from
+China, Korea, and the US. The proposed framework strongly supported Digital Korean Won and
+Digital Yuen.
+
+Received 28 December 2021
+Revised 7 March 2022
+Accepted 29 March 2022
+
+Introduction
+While the COVID-19 pandemic leads to a loss of more
+than $USD 4 trillion in the global GDP for the years 2020
+and 2021 (Vanzetti et al., 2021), central bank digital
+currency (CBDC) could assist in international travel
+recovery by significantly lowering payment fees (e.g.,
+person-to-person payments and cross-border payments)
+and boosting liquidity within transactions. CBDCs are
+digital assets backed by fiat currencies issued and regu­
+lated by reputable national financial institutions. The
+sole purpose of CBDC is to untangle the application of
+monetary and fiscal policy and to encourage financial
+involvement of unbanked individuals (Seth, 2021).
+As of 31 March 2021, the sum total of money in the
+world (notes, coins, money in deposits, and checking
+account) is about $USD 40 trillion; however, this number
+exceeds $USD 1.3 quadrillion when money in the form of
+investments, derivatives, and cryptocurrencies are
+included (V. Kumar, 2021). Today, more than 90% of all
+money exists only on computer servers and most money
+is just electronic data (Harari, 2015). Hence, even though
+the evolution of money has progressed from Sumerian
+barley money (around 3000 BC) to today's CBDC, Harari
+(2015) points that both versions of money share two
+universal principles, universal convertibility and univer­
+sal trust.
+CONTACT Heesup Han
+Seoul, 143-747 Korea
+
+heesup.han@gmail.com
+
+© 2022 Informa UK Limited, trading as Taylor & Francis Group
+
+KEYWORDS
+
+CBDC; theory of planned
+behavior; mass media
+coverage; fear of missing
+out; relative advantages;
+perceived risk
+
+Barrdear and Kumhof (2021) suggest that the CBDC
+supply of 30% of gross domestic product (GDP) against
+a government debt security could invariably raise GDP
+by 3% while considerably enhancing the central bank’s
+capacity to balance the series of economic expansion
+and contraction. In case of bank insolvency and potential
+banking panic, which can lead to payment disruption,
+CBDCs tend to mitigate banking panics with payment
+disruption, while fostering user trust (Williamson, 2021).
+The central bank is steadfast compared to the repository
+sector, and, hence, individuals in their market forecast­
+ing could contemplate this feature as favourable, lead­
+ing to the shift in the deposit market where the central
+bank arises as a deposit monopolist, endangering longterm financial projects (Fernández-Villaverde et al.,
+2021). Furthermore, in order to achieve the efficiency
+and reliability of person-to-person and/or cross-border
+transactions with robust traceability, verifiability and
+consistency, CBDC should be designed on both distrib­
+uted ledger technology (DLT) and traditional central
+bank infrastructure (Lee et al., 2021). Similarly, as one
+of the COVID-19 recovery tactics for cruise tourism,
+R’adic et al. (2020) recommend the usage of distributed
+ledger technology in payments as a highly efficient
+method for improving liquidity with cheap, fast, scalable,
+and reliable transactions. The general acceptance of
+CBDCs as a modern form of liquidity could be related
+
+College of Hospitality and Tourism Management, Sejong University, 98 Gunja-Dong, Gwanjin-Gu,
+
+JOURNAL OF TRAVEL & TOURISM MARKETING
+
+to the herding phenomena; however, Kyriazis (2020)
+argues that the herding phenomena in digital currencies
+market was evident only in bull markets. Thus, encoura­
+ging CBDCs should be a methodical and universal task,
+with a clear goal to assist system objectives and prevent
+potential financial risks, as CBDCs can enhance the eco­
+nomic growth rate (Tong & Jiayou, 2021). Accordingly, as
+CBDCs are the most reliable form of digital currency, 110
+countries are at one stage or another of CBDC develop­
+ment (Okuwoga, 2021). The demand for fast, reliable,
+and real-time global payment has grown in tourism
+(Auer & Böhme, 2020). Hence, there is a growing number
+of central banks that are willing to provide a real-time
+global payment services to international tourists (Auer
+et al., 2021). Based on the previous studies and bearing
+in mind accelerating developments in financial technol­
+ogy and CBDCs, there is an urgent need for academic
+research in the field of tourism and hospitality related to
+adoption of CBDCs by international tourists.
+The current study described here sets out to explore
+adoption of CBDCs by international tourists. Specifically,
+this analysis examines a behavioral intention toward the
+adoption of CBDCs by international tourists based on the
+Ajzens’ Theory of Planned Behavior (TPB) (Ajzen, 1991)
+and relationships between TPB constructs and mass
+media coverage construct based on Katz and
+Lazarsfelds’ two-step flow theory (Katz & Lazarsfeld,
+1955), fear of missing out (FOMO) construct defined by
+McGinnis (2020), relative advantages construct
+grounded on Rogers (2003) diffusion of innovation the­
+ory and perceived risk construct, built from Bauer’s
+(1960) theory of perceived risk (TPR), under the modera­
+tion of the Digital Yuen, Digital Korean Won, and Digital
+US Dollar. The significance of moderators is in delineat­
+ing the variations in the robustness of the interrelation
+between a covariate and outcome (Castano Silva et al.,
+2019) as it refers to an occurrence where a variable
+modifies the strength between exogenous and endo­
+genous variables (Khan et al., 2020). To accomplish this
+task, the following research question is addressed: How
+is the inception of CBDCs affecting international tourists
+behavioral intention toward adoption of CBDCs as pay­
+ment method?
+Accordingly, the present research aimed (1) to
+empirically test the impact of the inception of CBDCs
+on international tourists behavioral intention toward
+adoption of CBDCs as a payment method, (2) to deepen
+the TPB by taking into account the influence of mass
+media coverage, fear of missing out, relative advan­
+tages, and perceived risk that are pertinent to the
+CBDCs payments in international tourism, (3) to dis­
+cover the moderating role of the Digital Yuen, Digital
+Korean Won, and Digital US Dollar. To achieve the
+
+153
+
+objectives of this study, the authors employed
+a deductive approach accompanied by a crosssectional time horizon and quantitative techniques for
+data collection. Furthermore, a multivariate data assess­
+ment and process is established in this study to achieve
+the study objectives. Due to the novelty of the study,
+the situational analysis approach was used as it allows
+usage of data narrative and historical materials from
+financial technology websites, specialized business, and
+international financial markets television networks,
+financial technology social media, and specialized
+financial technology literatures.
+The theoretical value and originality of the present
+research lie in revealing the specific relationships within
+the behavioral intentions of international tourists toward
+adoption of CBDCs as a payment method. Practically,
+this study can assist the governments, central banks,
+policy makers, and tourism and hospitality stakeholders
+in understanding the underlying mechanism associated
+with the adoption of CBDCs by international tourists.
+
+Literature review
+Theory of planned behavior
+Human behavior is conditioned by numerous elements,
+thus reshaping firm behavioral configurations is quite
+a demanding task (Ajzen & Schmidt, 2020; Chi & Han,
+2021; Han et al., 2021). TPB suggests that most conscious
+human behavior can be anticipated by intentions as
+long as a person perceives that she/he has control of
+their behavior (Ajzen, 1991; Han, 2021; Manosuthi et al.,
+2020). Hence, behavioral intention can be foreseen on
+the basis of attitude (belief and evaluation in regards of
+outcome of behavior), subjective norm (belief in regards
+normative beliefs and motivation to comply with such
+belief) and perceived behavioral control (belief in
+regards of individual control of hers/his behavior; Singh
+& Upadhyay, 2021). The study presented here goes
+a step further, suggesting that TPB in the specific context
+of digital payments as financial behavior within tourism
+and hospitality is conceivably affected by outside cir­
+cumstances, such as changes in payment methods,
+rapid developments in financial technology, and incep­
+tion of CBDCs. Accordingly, TPB suggests that human
+behavior (e.g., adoption of CBDCs as payment method) is
+described to a great extent by attitudes and perception
+that individuals hold with regard to specific circum­
+stances or processes. However, the adoption of CBDCs
+as payment method by international tourists begins
+with, as Ajzen and Schmidt (2020) outline,
+a comprehensible interpretation of the behavior of inter­
+est, the efforts involved, the specific circumstances in
+
+154
+
+A. RADIC ET AL.
+
+which it occurs, and the time horizon. Consequently, this
+study applies TPB to international tourists’ adoption of
+CBDCs as payment method by focusing on attitudes,
+subjective norm, perceived behavioral control, mass
+media coverage, fear of missing out, relative advantages,
+and perceived risk.
+
+Attitude toward CBDC payment, subjective norm,
+perceive behavioral control and behavioral
+intention
+The most important benefits of CBDCs are liquidity,
+rapidness, inexpensiveness, and more coherent pay­
+ments in both person-to-person and/or cross-border
+transactions (Ye & DeSouza, 2019). Thus, there is
+a growing positive attitude toward the adoption of
+CBDC payments, as such payment systems lower the
+costs of producing physical money with cheaper pay­
+ment fees (Ye & DeSouza, 2019). Expensive cash usage
+combined with inefficient electronic payment systems
+have boosted positive attitudes toward CBDCs as such
+payments (through mobile devices) offer enhanced pay­
+ment security and efficiency with improved financial
+involvement, social progress, and economic growth (De
+Bode et al., 2021). As the status quo in the legacy finan­
+cial system is seriously challenged due to poor remit­
+tances and extraordinarily high fees, many are turning to
+digital assets as in some countries (e.g., El Salvador) the
+average monthly remittance of legacy financial system
+could make up 50% of the total consumer income
+(Sigalos, 2021). In a recent Guardtime/ PureProfile sur­
+vey, it was noted that there is a broad, global positive
+attitude toward adoption of CBDCs as approximately
+70% of the people would adopt CBDCs within a year
+(Ledger Insights, 2021a). In the same study, the authors
+further concluded that even though there is a growing
+positive attitude toward the adoption of CBDCs, some
+express concerns and perhaps even hesitancy toward
+switching away from cash savings or accepting a salary
+in CBDCs (Ledger Insights, 2021b).
+In 2020, remittance flows to low- and middle-income
+countries reached $USD 540 billion due to migrants’
+desire to help their families and significant others
+(Global Knowledge Partnership on Migration and
+Development
+[KNOMAD],
+Global
+Knowledge
+Partnership on Migration and Development
+(KNOMAD), 2021). Hence, as the legacy financial system
+is expensive and inefficient, there is a growing norma­
+tive belief and motivation toward CBDC adoption as
+such payments offer low fees and fast cross-border
+payments (Mookerjee, 2021). The social ramifications
+of CBDC payments is effecting individuals’ subjective
+norm toward adoption of CBDCs due to their inclusive,
+
+consistent, stable and transparent ecosystem, wherein
+financial technology is bringing benefit to all by trans­
+forming human interaction with money (Gkritsi, 2021).
+Furthermore, normative beliefs and motivation toward
+CBDC adoption lies in the perception that the nature of
+CBDCs is not-for-profit, provides better safeguard of
+user privacy, protects consumers’ money against fraud
+or theft, and offers more attractive interest rates on
+digital assets (Bijlsma et al., 2021). Accordingly, Li
+(2021) concludes that fund allocation, non-disclosure
+agreements, potential hidden fees, comprehensive
+financial planning support, and the rate of return has
+direct positive impact on subjective norm toward adop­
+tion of CBDCs, as typical Canadian households would
+keep 4–55% of their liquid assets in CBDCs. Lastly,
+subjective norm toward adoption of CBDCs depends
+on CBDCs’ ability to provide 24/7 payments, certain
+offline features, elimination of planned maintenance,
+fast recovery from operational disruption, ability to
+handle large transactional volumes, fast real-time pay­
+ment process, high fidelity, and intuitive user interface
+with minimum required level of technical literacy (Bank
+of England (BoE), 2020).
+Individuals perceived behavioral control in the form
+of gained knowledge about CBDCs’ integrated infra­
+structure, circumstances surrounding the global colla­
+borative standard of CBDCs, and the universality of
+CBDCs depository and transfers play an important role
+in predicting individuals’ adoption of CBDCs (Lee et al.,
+2021). Similarly, consumers’ perceived behavioral con­
+trol and adoption of CBDCs depends on governmental
+trustworthy promises to provide anonymous transac­
+tional instrument, clarity on certain restrictions related
+to the individual’s holdings, issuing jurisdiction and
+interest rates (Cecchetti & Schoenholtz, 2021). Thus, the
+adoption of CBDCs is influenced by individual's belief in
+regards to hers/his control of payment data, the compe­
+titive structure of payment system, performance of pay­
+ment services, and data control dispositions (Bank for
+International Settlements (BIS), Bank for International
+Settlements (BIS), 2021a). Accordingly, to strengthen
+perceived behavioral control and CBDC adoption, there
+has to be a clear legal framework that has its foundation
+in law, offering clarity for the granting, circulating, utiliz­
+ing, and potentially terminating CBDC (Cheng et al.,
+2021). Market readiness is essential for social and legal
+changes, hence individuals’ ability to change their per­
+ception on how they think about money and how they
+use money plays an important role in CBDC’s adoption
+(Cheng et al., 2021). Finally, perceived behavioral control
+over CBDCs is stronger in DLT-based CBDCs as such
+a platform enables its users to have control and access
+over the platform with robust governance and clarity of
+
+JOURNAL OF TRAVEL & TOURISM MARKETING
+
+transactions, while the central bank retains complete
+control over the quantity of available money (Kiff et al.,
+2020). Based on our review of the academic literature
+and relevant empirical evidence, we propose the follow­
+ing hypotheses:
+H1a,b,&c: Attitude toward CBDC payments has a positive
+impact on behavioral intention.
+H2a,b,&c: Subjective norm has a positive impact on
+behavioral intention.
+H3a,b,&c: Perceived behavioral control has a positive
+impact on behavioral intention.
+
+Mass media coverage and attitude toward CBDC
+payment
+The mass media are multiform media technologies
+with the sole purpose of reaching the broader public
+through channels of communication (Cahyanto &
+Liu-Lastres, 2020; D. Kumar, 2021). Hence, under­
+standing the role of mass media is instrumental to
+creating wide public support and positive attitudes
+toward CBDCs payments. Furthermore, the mass
+media is a powerful apparatus in forcing social
+change, and opinion leaders have paramount impor­
+tance in affecting public attitudes (Ahem &
+Connolly-Ahem, 2019). Katz and Lazarsfelds’ TwoStep Flow Theory (Katz & Lazarsfeld, 1955) is
+a theoretical model of communication that argues
+that mass communication is a process divided into
+two phases: first, mass media reaches opinion lea­
+ders, and second, these opinion leaders carry the
+information to the broader public. Katz (1957) con­
+firmed that in mass media communication, personal
+influence has a dominant role in influencing atti­
+tudes and perception. Recently, Ms Christine
+Lagarde, President of the European Central Bank,
+has addressed the urgent need for quicker and
+cheaper payments in which the European Central
+Bank (ECB) must play an active role (De Menthon &
+Syfuss-Arnaud, 2020). Hence, as payments systems
+are dependable on solid network effects, it is evi­
+dent that the attractiveness of CBDCs relies on the
+users’ positive attitude toward CBDC payments
+(European Central Bank (ECB), 2020). The power of
+CBDCs lies in moving the value seamlessly (Lau,
+2020). A recent study by Genesis Mining shows
+that 48% of Americans believe that they will be
+a cashless society (Genesis Mining, 2020). Attitude
+toward CBDC payments (Genesis Mining, 2020) is
+expected to grow; Ackerman (2021) reported that
+according to the Chairman of Federal Reserve
+
+155
+
+(FED), digital version of $USD would be issued by
+and backed by the U.S. central bank. Hence, the
+aforementioned justification led to the following
+hypothesis
+H4a,b,&c: Mass media coverage has a positive impact on
+attitude.
+
+Fear of missing out and attitude toward CBDC
+payment and subjective norm
+Fear of missing out (FOMO) is a feeling of nervousness
+and uneasiness within an individual related to hers/his
+perception that there is an event, favourable group,
+activity, or opportunity on a horizon that is by far better
+than what that individual is doing or experiencing at the
+moment (McGinnis, 2020). Moreover, FOMO is “a perva­
+sive apprehension that others might be having reward­
+ing experiences from which one is absent” (Przybylski
+et al., 2013). The race to be the first country to issue fully
+functional CBDC is more than just being an innovator in
+financial technology, it is a political move related to
+independence from US dominance and distance from
+the $USD as the world’s reserve currency (Dorn, 2021).
+The importance of issuing a CBDC was recognized by
+President Xi who expressed unquestionable desire to
+make China a world leader in the digital sector and
+future industries by launching the Digital Yuan by the
+2022 Beijing Winter Olympics (Houston, 2020).
+Furthermore, when the Shenzhen government declared
+that 10 million yuan ($USD 1.5 million) of the digital
+currency (to be spent in 3,389 designated restaurants
+and stores) will be distributed among 50,000 partici­
+pants selected by lottery, FOMO directly affected atti­
+tude toward CBDC and subjective norm of Shenzhen
+citizens as more than 1.91 million people applied (accep­
+tance rate less than 3%; Kawakami & Kawate, 2020).
+Similarly, more than 10 million people applied (accep­
+tance rate less than 2%) by using two banking apps
+when the Beijing government declared that 40 million
+yuan ($USD 6.2 million) of the digital currency will be
+given to 200,000 lucky participants to spend about $USD
+31 at officially designed businesses (Kharpal, 2021).
+Bijlsma et al. (2021) argue that consumer concerns
+about privacy and security in commercial banks com­
+bined with attractive CBDC interest rates are agitating
+consumers, creating a FOMO that is affecting their atti­
+tudes, motivation, and normative beliefs toward usage
+of the CBDCs. However, Randal K. Quarles, FED Vice Chair
+for Supervision, has expressed certain concerns related
+to the FOMO that is stirring consumer attitude toward
+CBDC payments and consumers subjective norm toward
+CBDCs, as he believes that CBDC should be placed under
+
+156
+
+A. RADIC ET AL.
+
+critical analysis before governments get carried away
+with CBDC promises and technological novelty
+(Smialek, 2021). The enhanced financial literacy among
+the tech-savvy population of South Korea, combined
+with the nation’s FOMO from the cryptocurrency market
+had positive effect on attitude and subjective norm of
+South Koreans as nation is set toward quick adoption of
+CBDC (Seo, 2021). Moreover, the growing FOMO in
+South Koreans that is affecting their attitude and sub­
+jective norm toward CBDC is related to government
+stimulus checks that could be wired by CBDC to provide
+a secure, fast, and cheap payment system to 2.8 million
+households’ bank accounts without requiring individual
+applications (Seo, 2021). Consequently, the authors put
+forward the following hypotheses:
+H5a,b,&c: Fear of missing out has a positive impact on
+attitude.
+H6a,b,&c: Fear of missing out has a positive impact on
+subjective norm.
+
+Relative advantages and behavioral intention
+Rogers’ Diffusion of Innovation Theory (Rogers, 2003)
+lies upon a peculiar kind of communication where
+innovation itself is communicated through specific
+channels during a certain period in time, while the
+innovation itself is disseminated through the social
+system. Furthermore, the relative advantage is
+described as the degree to which an innovation or
+idea is contemplated as predominant compared to
+other innovations or ideas by users based on
+unquestionable characteristics outlined by users
+(Arshad, 2021). CBDC, which has DLT features, is
+capable of significantly lowering payment fees,
+creating financial inclusion, offering peer-to-peer
+and cross-border payments, boosting innovation
+and the creation of side chains with various new
+services and features, enhancing the monetary pol­
+icy, lowering financial crimes, and increasing privacy
+of digital transactions (Wong & Maniff, 2020).
+Similarly, Adrian (2021) argues how CBDCs are lowcost, profitable, and flexible payment systems that,
+in countries with large numbers of “unbanked” peo­
+ple can enhance financial inclusion with fast, cheap,
+accessible peer-to-peer and cross-border payments.
+Accordingly, the People’s Bank of China (PBoC) is
+introducing the Digital Yuen in order to improve
+financial inclusion, reduce the informal economy,
+gain insight into consumer behavior, and individual
+economic activity including illegal transactions
+(Kondili, 2021). Due to such robust superiority of
+
+a CBDC, a recent BIS survey showed that 86% of
+central banks are actively researching the potential
+for the inception of a CBDC, 60% of central banks
+are experimenting with the various technologies,
+and 14% of central banks have deployed pilot
+CBDC projects (Bank for International Settlements
+(BIS), 2021b). Hence, the following hypothesis is
+proposed:
+H7a,b,&c: Relative advantage has a positive impact on
+behavioral intention.
+
+Perceived risk and behavioral intention
+Bauer in his TPR (Bauer, 1960) argues that in any
+transaction, individuals are forced to deal with risks
+of uncertainty or the probability of loss notation and
+consequences or importance of loss. Today, nearly
+all the money is the digital liability of a commercial
+bank provided on the system founded by the central
+bank (Cecchetti & Schoenholtz, 2021). CBDC’s foun­
+dation on digital identification could exacerbate the
+risks of currency substitution, improve conditionality
+of payments, thereby making central bank money
+programmable to support automation and mitigate
+risks, put an end to the risks of illiquidity due to
+temporary lack of funds or even insolvency, and
+mitigate the risks related to data breaches and
+data privacy by incorporating varying degrees of
+anonymity (Bank for International Settlements (BIS),
+2021a). Moreover, CBDCs could provide stable riskfree assets that can be managed without deteriora­
+tion, mitigate systemic risk related to extortionate
+pricing of end users and micro enterprise, and pre­
+vent quasi-monopolistic payment systems based on
+DLT designed and implemented by private institu­
+tions (Bordo & Levin, 2017). Similarly, Bofinger and
+Haas (2021) argue that CBDC can mitigate consumer
+risks as they offer reputation and credibility, multi­
+currency operability based on DLT, and storage of
+value and openness to low-risk payment objects that
+are not system-specific. Lastly, consumers can bene­
+fit from CBDCs as CBDC can lower the risks in pay­
+ment systems by reducing friction and boosting the
+speed of transactions and mitigate the risks from
+collapse of payment systems in times of crisis (e.g.,
+COVID-19 crisis; Allen et al., 2020). This review of
+relevant research and data led to the following
+hypothesis:
+H8a,b,&c: Perceived risk has a positive impact on beha­
+vioral intention.
+
+JOURNAL OF TRAVEL & TOURISM MARKETING
+
+Moderating role of Digital Yuan, Digital Korean
+Won, and Digital US Dollar
+The development of CBDCs is much more than evolution
+of money in the digital economy, as leadership in the
+space of CBDCs has direct implications in economic
+prosperity, financial inclusion, and foreign affairs as the
+fundamentals of money could all be controlled by who
+and how steers a path forward (Rabouin, 2021). Hence,
+CBDCs have unquestionable potential to influence every
+segment of consumers’ well-being as they possess the
+strength to enhance the role of money as a public good
+(Rabouin, 2021).
+PBoC’s introduction of the Digital Yuan offers a digital
+currency that can compete with other digital assets (e.g.,
+bitcoin, ethereum, XRP, and certain stablecoins) and
+other CBDCs, while enabling its users with low cost,
+fast, transparent, inclusive person-to-person and/or
+cross-border transactions that provide liquidity and
+anonymity, and is ultimately supported and endorsed
+by President Xi (Deutsche Bank, 2021). Moreover, PBoC
+has already conducted more than $USD 5 billion in
+Digital Yuan transactions, as China has offered its digital
+currency up to foreigners (Rabouin, 2021).
+In the recent Bloomberg Index of Most Innovative
+Nations 2021, South Korea has become the leading
+nation in global information and communication tech­
+nology (ICT), which offers them a strong foundation for
+further innovations in the sector of financial technology
+(Jamrisko et al., 2021). Thus, South Korea is moving
+forward to a cashless society (77% of South Koreans
+prefer transactions without cash), as the Bank of Korea
+(BOK) is set toward the final phase of its CBDC pilot
+scheme, which is distribution of the Digital Korean
+Won (Stangarone, 2021). Furthermore, with strong gov­
+ernment support, the Digital Korean Won could offer
+secure, fast, and cheap payment transactions, support
+for smart contracts, and enhanced security features
+(Stangarone, 2021).
+The U.S. is outpaced in financial technology as, they
+are no longer the world leader in digital payments and
+technological innovation (Rabouin, 2021). However, the
+passive approach toward implementation of a CBDC
+orchestrated by Mr. Jerome Powell Chairman of FED, is
+being pushed backed against by the U.S. Senate as many
+senators are vocal in their concerns that if the FED does
+not act more aggressively, the $USD position as the
+global reserve currency could be challenged (Marte,
+2021). Hence, in a recent interview, Jerome Powell,
+Chairman of the FED, admitted that CBDC has its merits
+and that it could offer a wide range of benefits to the
+public good as “are there clear and tangible benefits that
+
+157
+
+outweigh any costs and risks.” (Cox, 2021a). Hence, the
+aforementioned justification led to the following
+hypotheses:
+H9a: The relationship between attitude and behavioral
+intention is significantly different across the Digital Yuan,
+Digital Korean Won, and Digital US Dollar.
+H9b: The relationship between subjective norm and
+behavioral intention is significantly different across
+the Digital Yuan, Digital Korean Won, and Digital US
+Dollar.
+H9c: The relationship between perceived behavioral
+control and behavioral intention is significantly different
+across the Digital Yuan, Digital Korean Won, and Digital
+US Dollar.
+H9d: The relationship between mass media coverage
+and attitude is significantly different across the Digital
+Yuan, Digital Korean Won, and Digital US Dollar.
+H9e: The relationship between fear of missing out and
+attitude is significantly different across the Digital Yuan,
+Digital Korean Won, and Digital US Dollar.
+H9f: The relationship between fear of missing out and
+subjective norm is significantly different across the
+Digital Yuan, Digital Korean Won, and Digital US
+Dollar.
+H9g: The relationship between relative advantage
+and behavioral intention is significantly different
+across the Digital Yuan, Digital Korean Won, and
+Digital US Dollar.
+H9h: The relationship between perceived risk and
+behavioral intention is significantly different across
+the Digital Yuan, Digital Korean Won, and Digital US
+Dollar.
+
+Proposed theoretical framework
+The proposed model is shown in Figure 1. This concep­
+tual framework encompasses variables within the TPB
+(attitude toward CBDC payment, subjective norm, and
+perceived behavioral control), FOMO, mass media cover­
+age, relative advantage, and perceived risk. Three differ­
+ent models for the Digital Yuan, Digital Korean Won, and
+Digital US Dollar are presented.
+
+158
+
+A. RADIC ET AL.
+
+Figure 1. Research model.
+
+Methods
+Data collection and sample characteristics
+An online survey was used for this study, which was
+distributed to potential participants through profes­
+sional organizations in China, South Korea, and the
+United States by sending a link to a randomized ques­
+tionnaire from August to September 2021. The begin­
+ning of the questionnaire clarified the elements and
+objectives of this research. Each participant took 10–
+15 minutes to complete the questionnaire. A total of
+897 valid responses were collected in China, South
+Korea, and the United States.
+A total of 323 responses were obtained in China
+(Gender: 170 males-52.6%, 153 females-47.4%; Annual
+income: 2.5%-8 participants less than $25,000, $25,000$39,999 is 54–16.7%, $40,000-$54,999 is 50–15.5%,
+$55,000-$69, 999 is 93–28.8%, $70,000-$84,999 is 77–
+23.8%, $85,000-$99,999 is 22–6.8%, 5.9% – 19 participants
+are more than $100,000; Education level: High-school
+degree 3–0.9%, Two-year degree 11–3.4%, University
+degree 256–79.3%, Graduate degree 53–16.3%);
+A total of 317 responses were obtained in South
+Korea (Gender: 184 males – 58%, 133 females – 42.0%;
+Annual income: 20.2% – 64 participants less than
+
+$25,000, $25,000-$39,999 with 63–19.9%, $40,000$54,999 with 54–17.0%, $55,000-$69, 999 with 42–
+13.2%, $70,000-$84,999 with 38–12.0%, $85,000$99,999 with 23–7.3%, 10.4% – 33 participants above
+$100,000; Education: High school degree 2–0.6%, Twoyear degree 75–23.7%, University degree 91–28.7%,
+Graduate degree 62–19.6%);
+A total of 257 responses were obtained in the United
+States (Gender: 215 males – 83.7%, 42 females – 16.3%;
+Annual income: $25,000-$39,999 is 2–0.8%, $40,000$54,999 is 5–1.9%, $55,000-$69,999 is 39–15.2%,
+$70,000-$84, 999 is 116–45.1%, $85,000-$99,999 is 90–
+35.0%, 1.9%-5 participants above $100,000; Education:
+High-school degree 5–1.9%, Two-year degree 41–16.0%,
+University degree 141–54.9%, Graduate degree 70–
+27.2%; Ethnic background: Black 26–10.1%, Hispanic
+34–13.2%, Caucasians/White 195–75.9%, Other with 2
+participants – 0.8%).
+
+Measures for study variables
+The survey contained a mix of multi-item and one
+dual-item measure. Scale items to assess the study
+variables were adopted from validated measurement
+items in the previous studies and from the current
+
+JOURNAL OF TRAVEL & TOURISM MARKETING
+
+literature and were anchored on a 7-point Likert-type
+scale. Attitude toward CBDC payments and perceived
+behavioral control were adopted from Han et al.’s
+(2020) scale, behavioral intention was adopted from
+M. Kim’s (2021) scale, while subjective norm was
+adopted from Venkatesh et al.’s (2012) scale. Mass
+media coverage construct with its two measurement
+items was adopted from the Juschten et al.’s (2019)
+scale. Despite the fact that in confirmatory factor
+analysis (CFA), it is advisable to have at least three
+items per factor; scales with more than one factor
+may be identified with as few as two items per factor
+(Meredith, 1993; Raubenheimer, 2004). Thus, con­
+structs that are narrowly defined (such as “mass
+media coverage” in the case of our study), growing
+evidence suggests that even single-item measures
+may suffice (Bergkvist & Rossiter, 2007; Wang et al.,
+2019). The FOMO construct was adopted and
+adjusted from the Reinecke et al.’s (2017) scale, rela­
+tive advantages construct was adopted from the
+Oturakci and Yuregir (2018) and Zolkepli and
+Kamarulzaman (2015) scales, while perceived risk con­
+struct was adopted from the Featherman and Pavlou
+(2003) scale. The common method bias of selfadministrated questionnaires was minimized by fol­
+lowing the methods of Podsakoff et al. (2003), while
+the method of Terglav et al. (2016) was used to avoid
+the replication of the hypothesis structure. Explicitly,
+the following procedural strategies were used to
+minimize the common method bias: participants
+were well informed in regards of research purpose
+and how will research results be used, survey per se
+was not extensive, measurements were not overlap­
+ping, questions were clear without ambiguities,
+7-point and 5-point Likert-type scales were used to
+minimize the scale properties, wording of the items
+was balanced carefully, and measures were adopted
+from different sources.
+
+Results
+Data quality testing with CFA
+This study followed Anderson and Gerbing’s (1988)
+two-step approach, using SPSS 26.0 and AMOS 26.0
+for analysis. A confirmatory factor analysis (CFA) was
+first conducted for each measurement item to build
+a measurement model. This was followed by con­
+structing a structural equation model from measure­
+ment results to assess the model fit. Finally, we
+performed a multigroup analysis to evaluate the
+differences that exist between countries. As shown
+in Table 2 and Figure 2, the goodness-of-fit indices
+
+159
+
+for all samples (Digital Yuan: GFI = .909, IFI = .961,
+TLI = .954, CFI = .961, RMSEA = .044; Digital Korean
+Won: GFI = .919, IFI = .955, TLI = .946, CFI = .955,
+RMSEA = .056; Digital US Dollar: GFI = . 861,
+IFI = .899, TLI = .886, CFI = .899, RMSEA = .081)
+and factor loading values between .576 and .949
+(p < 0.01), these indicators presented with relatively
+positive outcomes. In addition, the composite relia­
+bility (CR) for each factor reached above the recom­
+mended value of .600 (range .648 to .949) and the
+average variance extracted (AVE) was greater than
+the recommended metric of .500 (range .501 to .861;
+Hair et al., 2017). The internal consistency of all
+measurements was demonstrated, along with suffi­
+cient convergence. Furthermore, Table 1 illustrates
+the mean and standard deviation of each construct,
+as well as the correlation between the constructs.
+
+Structural model evaluation and hypotheses testing
+A structural model was generated and analyzed by
+AMOS 26.0, and hypotheses were tested for relation­
+ships (see, Table 3). The results showed that the
+goodness-of-fit
+statistics
+of
+model
+(DY:
+χ2 = 701.755, df = 314, p < .001, χ2/df = 2.235,
+GFI = .883, CFI = .934, IFI = .935, TLI = .927,
+RMSEA = .056; DW: χ2 = 1020.260, df = 312,
+p < .001, χ2/df = 3.270, GFI = .853, CFI = .915,
+IFI = .915, TLI = .904, RMSEA = .073; χ2 = 1060.098,
+df = 316, p < .001, χ2/df = 3.355, GFI = .813,
+CFI = .879, IFI = .881, TLI = . 875, RMSEA = .078) all
+reached an excellent level. Meanwhile, with the total
+variance of three digital currencies on behavioral
+intentions amounting to 69%, 60.8%, and 65.8%,
+respectively, the model was also concluded to have
+a satisfactory level of predictability for behavioral
+intentions. Additionally, the variance explained by
+attitudes (DY:R2 = .365; DW:R2 = .585; DU:R2 = .417)
+and subjective norm (DY:R2 = .008; DW:R2 = .029;
+DU:R2 = .561) was also obtained. In addition, the
+relationship between the variables of the TPB
+model, attitudes, and perceived behavioral control
+on behavioral intention for the Digital Yuan
+(ATT>BI: β = .460, p < .01; PBC>BI: β = .441,
+p < .05) and Digital Korean Won (ATT>BI: β = .420,
+p < .01; PBC>BI: β = .394, p < . 01) were significantly
+related. Subjective norms and behavioral intention
+had a significant association for the Digital Korean
+Won (β = .159, p < .01), and the Digital Yuan
+(β = −.330, p > .05) showed with no significant
+effect. Moreover, the Digital US Dollar revealed no
+significance in each relationship of the TPB model
+(ATT>BI: β = .073, p > .05; SN>BI: β = .088, p > .05;
+
+160
+
+A. RADIC ET AL.
+
+Figure 2. Structural model and hypotheses of the Digital Yuan, Digital Won and Digital US Dollar.
+
+PBC>BI β = .026, p > .05). Thus, Hypotheses 1a, 1b,
+2b, 3a, and 3b were supported, whereas Hypotheses
+1c, 2a, 2c, and 3c were not supported. The results
+showed a significant effect of mass media coverage
+on attitudes for the Digital Yuan (β = .569, p < .01),
+Digital Korean Won (β = .765, p < .01), and Digital
+US Dollar (β = .615, p < .01). Therefore, Hypotheses
+4a, 4b, and 4c were supported. And by testing the
+relationship between the effect of FOMO on attitude
+(DY: β = .202, p < .01; DW: β = −.006, p > .05; DU:
+β = .194, p < .05) and subjective norm (DY: β = .089,
+p < .05; DW: β = .170, p < .01; DU: β = .749, p < .01).
+We concluded that Hypotheses 5a, 5c, 6a, 6b, and 6c
+are supported, while Hypothesis 5b is not supported.
+Not only that, while exploring the impact of relative
+advantaged (DY: β = .516, p < .01; DW: β = .174,
+p < .01; DU: β = .230, p < .05) and perceived risk
+(DY: β = −.113, p < .05; DW: β = −.023, p > .05; DU:
+β = .092, p > .05) on behavioral intention, we iden­
+tified Hypotheses 7a, 7b, 7c, and Hypothesis 8a as
+being supported, but Hypotheses 8b and 8c were
+not supported.
+
+Evaluation of indirect and direct effect
+The indirect effect from the generated structural model was
+analyzed. The findings presented a significant indirect
+effect in the relationship between mass media coverage –
+attitude – behavioral intention for the Digital Yuan (β = .262,
+p < .01) and Digital Korean Won (β = .321, p < .01). In
+contrast, only a significant effect between FOMO-attitudebehavioral intention was evidenced by the Digital Yuan
+(β = .093, p < .01). In addition, the results of testing the
+indirect effect between FOMO-subjective norm-behavioral
+intention revealed a meaningful indirect effect for the
+Digital Korean Won (β = .027, p < .01) and Digital US
+Dollar (β = .066, p < .01). Subsequently, total effect on
+behavioral intention were assessed through a structural
+model constructed with data from China (βATT = .460**,
+βSN = −.330, βPBC = .441*, βMM = .262**, βFM = .063, βRA
+= .516**, βPR = −.113*), South Korea (βATT = .420**, βSN
+= .159**, βPBC = .394**, βMM = .321*, βFM = .025**, βRA
+= .174**, βPR = −.023), and the United States (βATT = .073,
+βSN = .088, βPBC = .026, βMM = .287**, βFM = .238**, βRA
+= .230**, βPR = .092) (see, Table 4).
+
+JOURNAL OF TRAVEL & TOURISM MARKETING
+
+161
+
+Table 1. Correlations.
+[1]
+[1] MM
+DY
+DW
+DU
+[2] FM
+DY
+DW
+DU
+[3] ATT
+DY
+DW
+DU
+[4] SN
+DY
+DW
+DU
+[5] PBC
+DY
+DW
+DU
+[6] BI
+DY
+DW
+DU
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8]
+
+.743
+.810
+.808
+.236**
+.323**
+.408**
+
+.870
+.851
+.784
+
+.571**
+.699**
+.388**
+
+.290**
+.201**
+.510**
+
+.824
+.850
+.744
+
+.330**
+.605**
+.426**
+
+.097
+.347**
+.640**
+
+.287**
+.596**
+.482**
+
+.785
+.912
+.785
+
+.244**
+.511**
+.410**
+
+-.012
+.038
+.634**
+
+.234**
+.495**
+.441**
+
+.703**
+.467**
+.710**
+
+.786
+.815
+.708
+
+.707**
+.739**
+.334**
+
+.223**
+.194**
+.246**
+
+.646**
+.699**
+.342**
+
+.308**
+.599**
+.304**
+
+.357**
+.713**
+.314**
+
+.792
+.928
+.797
+
+[7] RA
+DY
+DW
+DU
+
+.566**
+.664**
+.146*
+
+.112*
+.215**
+.204**
+
+.400**
+.597**
+.329**
+
+.296**
+.604**
+.195**
+
+.274**
+.711**
+.173**
+
+.672**
+.696**
+.233**
+
+.719
+.784
+.747
+
+[8] PR
+DY
+DW
+DU
+
+-.053
+.184*
+.390**
+
+.411**
+.539**
+.613**
+
+-.009
+.075
+.350**
+
+.084
+.155*
+.600**
+
+.045
+.137
+.592**
+
+-.133*
+.111
+.225**
+
+-.039
+.217**
+.187**
+
+.809
+.722
+.769
+
+MEAN
+DY
+DW
+DU
+
+6.05
+4.17
+5.64
+
+4.51
+3.72
+5.89
+
+5.85
+4.63
+6.21
+
+5.58
+3.93
+5.95
+
+5.74
+4.87
+5.85
+
+6.00
+4.54
+5.89
+
+6.02
+4.71
+5.80
+
+3.85
+4.17
+5.86
+
+SD
+DY
+DW
+DU
+
+.744
+1.040
+.933
+
+1.543
+1.259
+.952
+
+.927
+1.080
+.931
+
+.853
+1.253
+.979
+
+.882
+1.078
+.955
+
+.637
+1.230
+.941
+
+.593
+1.027
+.981
+
+1.663
+.988
+.944
+
+Note 1. ATT: attitude toward CBDC payment, SN: subjective norm, PBC: perceived behavioral control, BI: behavioral intention, MM: mass media coverage, FM:
+fear of missing out,
+pffiffiffiffiffiRA:
+ffiffi relative advantaged, PR: perceived risk, DY: digital Yuan, DW: digital Won, DU: digital US Dollar.
+Coefficient in red: AVE
+*p< .05 and **p< .01.
+
+Assessment of multi-group moderating effect by
+comparing chi-square differences
+In order to investigate the invariance of the three different
+digital currencies, we integrated the three groups of data
+into a full sample consisting of 897 samples (containing 323
+from China, 317 from Korea and 257 from the US) and
+performed an invariance test. A baseline model and
+a nested model were determined by maintaining the
+same structural model and constraining the same paths
+to observe differences in chi-square values (see, Table 5
+and Figure 3). The results of invariance tests indicated that
+there was a significant difference in all paths except in the
+relationship between mass media coverage and attitude
+
+(Δχ2[2] = .891, p > .05), which was not significant. That is,
+there were statistically significant differences between atti­
+tude and behavioral intention (Δχ2[2] = 23.700, p < .01),
+subjective norm and behavioral intention (Δχ2[2] = 18.401,
+p < .01), perceived behavioral control and behavioral inten­
+tion (Δχ2[2] = 58.903, p < .01), FOMO and attitude
+(Δχ2[2] = 7.550, p < .01), FOMO and subjective norm
+(Δχ2[2] = 40.289, p < .01), relative advantaged and beha­
+vioral intention (Δχ2[2] = 19.294, p < .01), as well as per­
+ceived risk and behavioral intention (Δχ2[2] = 14.788,
+p < .01). Hence, Hypotheses 9a, 9b, 9c, 9e, 9 f, 9 g, and 9 h
+were supported, whereas Hypothesis 9d was not supported.
+
+162
+
+A. RADIC ET AL.
+
+Table 2. Confirmatory factor analysis of the measurement items.
+DY (n=323)
+MM1
+MM2
+FM1
+FM2
+FM3
+ATT1
+ATT2
+ATT3
+ATT4
+SN1
+SN2
+SN3
+PBC1
+PBC2
+PBC3
+BI1
+BI2
+BI3
+RA1
+RA2
+RA3
+RA4
+PR1
+PR2
+
+β
+.722
+.764
+.884
+.879
+.886
+.835
+.794
+.816
+.850
+.783
+.824
+.748
+.794
+.783
+.782
+.848
+.766
+.759
+.749
+.723
+.705
+.698
+.877
+.866
+
+PR3
+PR4
+PR5
+
+.859
+.786
+.633
+
+DW (n=317)
+
+AVE
+
+CR
+
+.552
+
+.648
+
+.757
+
+.903
+
+.679
+
+.894
+
+.617
+
+.829
+
+.618
+
+.829
+
+.627
+
+.834
+
+.517
+
+.811
+
+.655
+
+.904
+
+DY
+Goodness-of-fit statistics for the baseline model:
+χ2 = 526.287, df = 296, χ2/df = 1.778, p < .01,
+GFI = .909, IFI = .961, TLI = .954, CFI = .961,
+RMSEA = .044.
+
+β
+.709
+.900
+.794
+.885
+.871
+.835
+.855
+.838
+.871
+.904
+.949
+.881
+.732
+.915
+.786
+.917
+.934
+.933
+.812
+.817
+.679
+.817
+.678
+.782
+.766
+.784
+.576
+
+DU (n=257)
+
+AVE
+
+CR
+
+.656
+
+.683
+
+.724
+
+.887
+
+.722
+
+.912
+
+.831
+
+.937
+
+.664
+
+.854
+
+.861
+
+.949
+
+.614
+
+.863
+
+.521
+
+.843
+
+DW
+Goodness-of-fit statistics for the baseline model:
+χ2 = 670.420, df = 296, χ2/df = 2.265, p < .01,
+GFI = .919, IFI = .955, TLI = .946, CFI = .955,
+RMSEA = .056.
+
+β
+.787
+.828
+.811
+.715
+.823
+.700
+.774
+.783
+.714
+.762
+.824
+.769
+.720
+.658
+.742
+.816
+.781
+.794
+.761
+.796
+.678
+.747
+.798
+.785
+.778
+.796
+.682
+
+AVE
+
+CR
+
+.652
+
+.685
+
+.615
+
+.827
+
+.553
+
+.832
+
+.617
+
+.828
+
+.501
+
+.750
+
+.635
+
+.839
+
+.558
+
+.834
+
+.592
+
+.878
+
+DU
+Goodness-of-fit statistics for the baseline model:
+χ2 = 555.751, df = 296, χ2/df = 1.878, p < .01,
+GFI = .861, IFI = .899, TLI = .886, CFI = .899,
+RMSEA = .081.
+
+Note 1. ATT: attitude toward CBDC payment, SN: subjective norm, PBC: perceived behavioral control, BI: behavioral intention, MM: mass media coverage, FM:
+fear of missing out, RA: relative advantaged, PR: perceived risk, DY: digital Yuan, DW: digital Won, DU: digital US Dollar.
+AVE: Average variance extracted.
+CR: Composite reliability.
+
+Discussion and implications
+International tourists behavioral intention toward adop­
+tion of CBDCs as a payment method model developed
+on extended psychological framework of TPB managed
+to make an important contribution to the understanding
+of the underlying mechanism that could resolve many
+issues in the evolving digital landscape. As seen in
+Figure 2 there are important differences in international
+tourists’ behavioral intention toward adoption of CBDCs
+as payment method between the Digital Yuan, Digital
+Korean Won, and Digital US Dollar. Furthermore, Figure 3
+demonstrated the moderating role of the Digital Yuan,
+Digital Korean Won, and Digital US Dollar in all paths
+within conceptual model except in the relationship
+between mass media coverage and attitude.
+In this study, the relationship between the variables of
+the TPB model within the Digital US Dollar was not sig­
+nificant. These results are directly related to the current
+digital landscape within the U.S., where there is no reg­
+ulatory clarity for the digital assets. Gary Gensler, the chair
+
+of the Securities and Exchange Commission (SEC), is
+spreading uncertainty with his ambiguous statements,
+and he is not providing clarity for the digital assets market.
+This is supported by statements of SEC commissioners
+Hester Peirce and Elad Roisman, who argue that there is
+no clarity on regulations related to the digital assets and
+clarity is a key point when applying legal principles
+(Gorman, 2021). Moreover, SEC Commissioner, Hester
+Peirce claims that the application of the investment con­
+tract test of SEC v. W.J. Howey Co. (328 U.S. 293, (328 U.S.
+293, 1946)) does not work well for digital assets, due to
+the nature of digital assets, which is not the same as
+physical assets (Kiderlin, 2021). The effect of perceived
+risk on behavioral intention toward adoption of the
+Digital US Dollar was insignificant due to lack of clarity
+on digital assets and the ambiguity of the FED’s approach
+toward the inception of the Digital US Dollar. This is
+supported by recent interviews in which Jerome Powell,
+Chairman of FED, has expressed certain openness toward
+CBDC, while Vice Chair of the FED, Mr. Randal Quarles, has
+
+JOURNAL OF TRAVEL & TOURISM MARKETING
+
+163
+
+Table 3. Structural model evaluation and hypotheses testing.
+DY (n=323)
+Proposed paths
+H1. ATT
+H2. SN
+H3. PBC
+H4. MM
+H5. FM
+H6. FM
+H7. RA
+H8. PR
+
+→
+→
+→
+→
+→
+→
+→
+→
+
+β
+.460
+-.330
+.441
+.569
+.202
+.089
+.516
+-.113
+
+BI
+BI
+BI
+ATT
+ATT
+SN
+BI
+BI
+
+DW (n=317)
+t-values
+7.438**
+-1.513
+2.007*
+8.662**
+4.146**
+2.439*
+7.588**
+-2.334*
+
+DY
+Variance explained:
+R2 for ATT = .365
+R2 for SN = .008
+R2 for BI = .690
+
+β
+.420
+.159
+.394
+.765
+-.006
+.170
+.174
+-.023
+
+DW
+Variance explained:
+R2 for ATT = .585
+R2 for SN = .029
+R2 for BI = .608
+
+t-values
+8.701**
+3.468**
+7.748**
+12.352**
+-.142
+3.946**
+2.928**
+-.617
+
+DU (n=257)
+β
+.073
+.088
+.026
+.615
+.194
+.749
+.230
+.092
+
+t-values
+.592
+1.177
+1.472
+7.360**
+2.012*
+3.268**
+2.150*
+1.541
+
+DU
+Variance explained:
+R2 for ATT = .417
+R2 for SN = .561
+R2 for BI = .658
+
+Goodness- of-fit statistics for the structural model:χ2 =
+Goodness- of-fit statistics for the
+Goodness- of-fit statistics for the structural
+701.755, df = 314,
+structural model:
+model:χ2 = 1020.260, df = 312, p < .001, χ2/df = 3.270,GFI= .853,
+2
+2
+CFI = .915, IFI = .915,
+χ = 1060.098, df = 316, p < .001,
+p < .001, χ /df = 2.235, GFI= .883,
+TLI = .904, RMSEA = .073.
+CFI = .934, IFI = .935, TLI = .927, RMSEA = .056.
+χ2/df = 3.355, GFI= .813, CFI = .879,
+IFI = .881, TLI = .875, RMSEA = .078.
+Note 1. ATT: attitude toward CBDC payment, SN: subjective norm, PBC: perceived behavioral control, BI: behavioral intention, MM: mass media coverage, FM:
+fear of missing out, RA: relative advantaged, PR: perceived risk, DY: digital Yuan, DW: digital Won, DU: digital US Dollar.
+*p < .05 and **p < .01.
+
+expressed strong scepticism (Lee, 2021). Hence, the miti­
+gation of perceived risk related to CBDCs and the ultimate
+success of CBDCs requires legal authority, legislative mod­
+ifications, approvals as “legal tender,” improvements of
+Table 4. Indirect and total effect assessment.
+Indirect path
+MM>ATT>BI
+DY
+DW
+DU
+FM>ATT>BI
+DY
+DW
+DU
+FM>SN>BI
+DY
+DW
+DU
+
+β(t-values)
+
+95%CI Lower
+
+95%CI Upper
+.409
+
+.262**
+.321**
+.045
+
+.144
+.263
+-.004
+
+.567
+.344
+
+.093**
+-.002
+.014
+
+.019
+-.035
+-.022
+
+.033
+.239
+
+-.029
+.027**
+.066*
+
+-.034
+.008
+.004
+
+.063
+.303
+
+.059
+
+.043
+
+DY:
+Total impact on BI:
+β ATT = .460**
+β SN = -.330
+β PBC = .441*
+β MM = .262**
+β FM = .063
+β RA = .516**
+β PR = -.113*
+
+DW
+Total impact on BI:
+β ATT = .420**
+β SN = .159**
+β PBC = .394**
+β MM = .321*
+β FM = .025**
+β RA = .174**
+β PR = -.023
+
+DU
+Total impact on BI:
+β ATT = .073
+β SN = .088
+β PBC = .026
+β MM = .287**
+β FM = .238**
+β RA = .230*
+β PR = .092
+
+Goodness- of-fit statistics Goodness- of-fit
+Goodness- of-fit
+for the structural
+statistics for the
+statistics for the
+model:
+structural model:
+structural model:
+χ2 = 701.755, df =
+χ2 = 1020.260, df =
+χ2 = 1060.098, df =
+314, p < .001, χ2/df = 312, p < .001, χ2/df = 316, p < .001, χ2/df =
+2.235, GFI= .883, CFI = 3.270, GFI= .853, CFI 3.355, GFI= .813, CFI
+.934, IFI = .935, TLI = = .915, IFI = .915, TLI = .879, IFI = .881, TLI
+.927, RMSEA = .056.
+= .904, RMSEA = .073 = .875, RMSEA = .078
+Note 1. ATT: attitude toward CBDC payment, SN: subjective norm, PBC:
+perceived behavioral control, BI: behavioral intention, MM: mass media
+coverage, FM: fear of missing out, RA: relative advantaged, PR: perceived
+risk, DY: digital Yuan, DW: digital Won, DU: digital US Dollar.
+*p < .05 and **p < .01.
+
+existing laws related to the transfer of value and modifica­
+tions of existing regulatory frameworks (Myszkowska,
+2021). Furthermore, some users worry that CBDCs issued
+on blockchain based on a hybrid approach, as such block­
+chain would permit government authorities to trace their
+transactions. Indeed, the Asian Development Bank (2021)
+outlines that CBDCs based on hybrid approach allow
+authorities to track down substantial-value settlements;
+however, it also offers authorities a powerful instrument
+in the detection of substantial-value settlements that are
+related to illegal activities, such as tax evasion, money
+laundering, fraud, terrorist financing, drug-smuggling,
+and many other illegal activities. Certain perceived risks
+related to CBDCs are related to an important characteristic
+of blockchain, which is irreversibility. While irreversibility
+offers credibility, it certainly sanctions all mistakes made
+by humans during value transactions on blockchain
+(Banyal et al., 2020). Finally, the positive effect of FOMO
+on subjective norms and attitudes toward the Digital US
+Dollar and the relative advantageous effect of behavioral
+intention toward adoption of the Digital US Dollar,
+appears overpowering, as the benefits of CBDC payments
+could improve the financial conditions of its users. This is
+supported by Cox (2021b) as U.S. consumers are embra­
+cing the entirely online payment landscape.
+The relationship between the variables of the TPB
+model within the Digital Yuan was positive between
+the attitudes and perceived behavioral control on
+behavioral intention; however, the relationship
+between the subjective norm and behavioral
+
+164
+
+A. RADIC ET AL.
+
+Table 5. Assessment of multi-group moderating effect.
+DY(n=323)
+
+Paths
+
+DW(n=317)
+
+DU(n=257)
+
+ATT->BI
+
+β
+.502
+
+t-values
+6.287**
+
+β
+.474
+
+t-values
+9.277**
+
+β
+.070
+
+SN->BI
+
+.088
+
+1.325
+
+.154
+
+3.388**
+
+PBC->BI
+
+.047
+
+.718
+
+.479
+
+MM->ATT
+
+.481
+
+6.389**
+
+FM->ATT
+
+.247
+
+FM->SN
+
+Nested Model
+
+t-values
+.567
+
+χ2(911) = 2016.128
+
+-.067
+
+-.606
+
+χ2(911) = 2010.829
+
+8.745**
+
+.328
+
+2.032*
+
+χ2(911) = 2051.331
+
+.716
+
+9.514**
+
+.517
+
+4.824**
+
+χ2(911) = 1993.319
+
+4.370**
+
+.038
+
+.798
+
+.218
+
+2.011*
+
+χ2(911) = 1999.978
+
+.060
+
+.927
+
+.316
+
+5.218**
+
+.771
+
+2.157**
+
+χ2(911) = 2032.717
+
+RA->BI
+
+.473
+
+5.357**
+
+.197
+
+4.146**
+
+.227
+
+2.039*
+
+χ2(911) = 2011.722
+
+PR->BI
+
+-.136
+
+-2.174*
+
+-.018
+
+-.370
+
+.120
+
+1.244
+
+χ2(911) = 2007.216
+
+Chi-square difference test:
+Δχ2(2) = 23.700, p < .01 (H9a: Supported)
+Δχ2(2) = 18.401, p < .01 (H9b: Supported)
+Δχ2(2) = 58.903, p < .01 (H9c: Supported)
+Δχ2(2) = .891, p>0.05 (H9d: Not supported)
+
+Δχ2(2) = 7.550, p < .01 (H9e: Supported)
+Δχ2(2) = 40.289, p < .01 (H9f: Supported)
+Δχ2(2) = 19.294, p < .01 (H9g: Supported)
+Δχ2(2) = 14.788, p < .01 (H9h: Supported)
+
+Goodness-of fit indices of the baseline model: χ2 = 1992.428, df = 909, p < .01, χ2/df = 2.192, GFI = .903, TLI = .904, IFI= .921, CFI = .922, RMSEA = .036.
+Note 1. ATT: attitude toward CBDC payment, SN: subjective norm, PBC: perceived behavioral control, BI: behavioral intention, MM: mass media coverage, FM:
+fear of missing out, RA: relative advantaged, PR: perceived risk, DY: digital Yuan, DW: digital Won, DU: digital US Dollar.
+*p < .05 and **p < .01.
+
+intention was insignificant. This is due to the fact
+that online payment users in China have strong
+normative beliefs and motivation to privately use
+their own payment platform, such as Alipay. Hence,
+Fohtung (2021) outlines that Alipay is one of the
+
+Figure 3. Invariance test results.
+
+largest payment platforms in the world, settling
+a billion transactions per day for over 900 million
+active users. Mass media coverage had positive and
+significant effect on attitudes, while FOMO had
+a positive and significant effect on attitude and on
+
+JOURNAL OF TRAVEL & TOURISM MARKETING
+
+subjective norm. The relative advantage and per­
+ceived risk had positive and significant effect on
+behavioral intention for the Digital Yuan. These
+results are under the direct influence of the
+Chinese government, which is creating clear regula­
+tions and supports an underlying mechanism for
+successful inception of its CBDC. Furthermore,
+Redman (2021) points out that the Chinese govern­
+ment is forcing McDonald’s, Visa, Nike to accept
+payments in Digital Yuan. At the same time, the
+PBoC has declared that cryptocurrency-related busi­
+nesses is illegal and that cryptocurrency transactions
+originating outside China will be treated as crimes
+(Jennings, 2021).
+The results of this study show that the relationship
+between the variables of the TPB model within the
+Digital Korean Won were positive and significant. It
+appears that South Koreans recognize the implications
+of CBDC and benefits related to the efficient and
+advanced payment systems coupled with higher finan­
+cial inclusion. These results are supported by recent
+developments where the BOK has progressed in their
+inception of CBDC by choosing DLT (that runs on Klaytn
+ledger, based on Ethereum) provided by Ground X (the
+blockchain subsidiary of internet giant Kakao) as a basis
+for its pilot trials set in December 2021 (Bovaird, 2021).
+Furthermore, while the relationship between mass
+media coverage and attitude was positive for the
+Digital Korean Won, FOMO had a positive and significant
+effect only on subjective norm. This is due to the excep­
+tional financial literacy among South Korea's population,
+strong usage of smartphone apps that offer end-user
+digital wallets, and consumers who understand the pro­
+cess behind the digital payments based on digital cur­
+rency (Seo, 2021). Finally, the relative advantage had
+positive and significant effects on behavioral intention
+for the Digital Korean Won; however, the perceived risk
+effect on behavioral intention was insignificant. These
+results are supported by Ledger Insights (2021b) who
+outline that the South Korean government and the BOK
+have created clear policies and regulations in their
+phase-in approach in implementing the Digital
+Korean Won.
+Finally, the moderating roles of the Digital Yuan,
+Digital Korean Won, and Digital US Dollar showed sig­
+nificant differences in all paths within conceptual model
+except in the relationship between mass media cover­
+age and attitude. These results are related to opinion
+leaders’ vague and often contradicting comments and
+views related to CBDCs. Nevertheless, recently the Group
+
+165
+
+of Seven (G7) agreed on set of public coverage rules for
+CBDCs, which will be founded upon transparency, fiscal
+management, and an adherence to the rule of law in an
+approach created to cultivate innovation and support
+for digital currencies for retail purposes (James, 2021).
+
+Theoretical implications
+This study offers several valuable theoretical contribu­
+tions as its originality reveals the specific relationships
+within the behavioral intentions of international tourists
+toward the adoption of CBDCs as a payment method.
+First, this study attempts to expand the TPB model by
+adding the important aspects of digital payments sys­
+tem in the context of CBDCs, such as mass media cover­
+age based on Katz and Lazarsfelds’ Two-Step Flow
+Theory (Katz & Lazarsfeld, 1955), FOMO as defined by
+McGinnis (2020), relative advantages grounded on
+Rogers’ Diffusion of Innovation Theory (Rogers, 2003),
+and perceived risk built on Bauer’s TPR (Bauer, 1960).
+This research suggests that international tourists gener­
+ally recognize the benefits of CBDCs; however, it appears
+that there is a certain lack of knowledge related to CBDC
+technology and a lack of clarity related to the regulatory
+framework that safeguards CBDCs. Nevertheless, atti­
+tudes toward CBDC payments, subjective norms, and
+behavioral control from a psychological perspective
+can be significant predictors of international tourists’
+behavioral intention to use CBDCs for payments. This
+research offers valuable theoretical support to prior
+research that employed TPB in predicting consumers’
+behavioral intention toward digital asset and digital pay­
+ments (M. Kim, 2021).
+Moreover, this study proposed antecedents of atti­
+tude toward CBDC payments and subjective norms of
+international tourists in a new empirical way based on
+the current landscape of digital payments. Hence, this
+study showed that the attitude toward CBDC payments
+is influenced by mass media coverage as transparency of
+opinion leaders and clarity in communication related to
+important legal and regulatory issues is of paramount
+importance. Accordingly, the FOMO effect on attitudes
+toward CBDC payments and subjective norm was influ­
+enced by the government's determination to be the first
+country to issue fully functional CBDC as such a move
+would bring them global recognition as being the leader
+in innovation of financial technology. Hence, this
+research provides theoretical support for a new stand­
+point of TPB by suggesting that in the context of digital
+payments, mass media coverage, and FOMO are robust
+drivers of attitude toward CBDC payments and subjec­
+tive norms.
+
+166
+
+A. RADIC ET AL.
+
+In the scarcity of academic research in the field of
+tourism and hospitality related to adoption of CBDCs by
+international tourists, this study offers valuable theore­
+tical implications as it shows that the relative advantages
+and perceived risk have significant effect on interna­
+tional tourists’ behavioral intention toward CBDCs.
+Furthermore, this study demonstrates that relative
+advantages and perceived risk can be successfully inte­
+grated into the TPB model in the context of digital
+payments. Hence, in accelerating developments in finan­
+cial technology and CBDCs, international tourists
+acknowledge the importance of cheap, fast, and inclu­
+sive digital payments offered by CBDCs. Accordingly,
+using digital assets in daily transactions for payments
+may be in the early stages (M. Kim, 2021); however, the
+relative advantages and perceived risk related to CBDCs
+are favorably recognized by international tourists.
+As current societies are progressing to cashless socie­
+ties, this study offers a valuable theoretical baseline for
+future studies on CBDCs and consumer perceptions,
+emotions, attitudes, and behavioral intentions toward
+digital payments in international tourism. Moreover,
+the extended TPB model of this study offers important
+theoretical value as it opens new directions in rapidly
+evolving digital payment systems.
+
+Practical implications
+The relationship between the variables of the TPB
+showed that attitude toward CBDCs payments, sub­
+jective norm, and behavioral control are robust and
+significant antecedents of international tourists’ beha­
+vioral intention toward the adoption of CBDCs. Thus,
+government and central bank communication strate­
+gies should bring clarity, and governments should
+create regulatory frameworks and policies that sup­
+port innovation in digital payment systems. However,
+despite the fact that approximately 100 countries are
+at some phase of exploration and adoption of CBDC,
+current legal frameworks in most of those countries
+were implemented prior to blockchain revolution
+(Soderberg et al., 2022). Thus, in order to be clear,
+which is of paramount importance for CBDC’s wide
+adoption, many countries will have to make certain
+legislative reforms. Countries that have managed to
+make the necessary legislative reforms within the
+legal framework, clarifying that the central bank has
+a mandate to issue CBDC, are the Bahamas, China,
+South Korea, Sweden, Turkey, Russia, and Ukraine.
+CBDC's efforts in enhancing person-to-person and
+cross-border transactions for international tourists
+around the world via blockchain technology should
+be built on a payment system that will make
+
+payments as easy as email. Furthermore, CBDCs are
+capable of improving the speed and reliability of
+international transactions. Hence, CBDCs could offer
+much attractive cost-effectiveness, which would boost
+international tourists’ attitude toward CBDC pay­
+ments, subjective norm, and behavioral control.
+The results of this study showed the significant
+impact of mass media coverage on international tourists’
+attitudes toward CBDC payments, that is, mass media
+coverage indirectly motivates international tourists’
+intention to use CBDCs payments for travel and leisure.
+From a managerial perspective, opinion leaders need to
+position CBDC usage behavior as a social trend, by pro­
+viding the clarity in the regulatory framework.
+Furthermore, opinion leaders must be technology neu­
+tral and should not hand pick winners and losers
+between CBDCs and/or CBDCs and private companyissued digital payment systems. Mixed and contradictory
+statements from opinion leaders should be avoided as
+such actions are causing a negative effect on attitudes
+toward the CBDC and digital payment ecosystem as
+a whole.
+International tourists experience anxiety and unease
+for not utilizing a cheap and fast cross-border payment
+system; thus, in this study, FOMO was found to be
+a significant driver of international tourists’ attitude
+toward CBDC payments and subjective norm.
+Accordingly, central banks need to adopt a neutral digi­
+tal asset going in/between CBDCs that would serve as
+a settlement asset across government jurisdictions
+(Bains, 2022). Such a neutral digital asset agreed upon
+by central banks should offer privacy for its users, should
+be issued on agile multi-platform that provides scalabil­
+ity, should be distributed on open-source development
+platform so it can meet various regulatory frameworks
+and should be supported by a community of developers
+who are dedicated to enhancements in pursuit of new
+features and committed to essential functionality. These
+results are supported by Silva Santos et al. (2021) who
+noticed that FOMO affects individuals’ perception that
+might be excluded from important events. Finally, the
+results of this study showed that FOMO had a negative
+effect on attitudes in the Korean Won Group, which can
+be explained by various cyberattacks from North Korea
+on cryptocurrency exchanges based in South Korea (Y.
+Kim, 2017).
+The relative advantage and perceived risk of CBDCs
+have a significant effect on behavioral intentions toward
+the adoption of CBDCs, as CBDCs have valuable features
+that provide the fast and cheap payments for interna­
+tional tourists. CBDCs with established neutral digital
+assets can be the hub that provides fast, secure, and
+cheap person-to-person and cross-border transactions
+
+JOURNAL OF TRAVEL & TOURISM MARKETING
+
+for international tourists around the world (Bank for
+International Settlements (BIS), 2021c). CBDCs might
+not solve all payment issues for international tourism
+stakeholders, but it will certainly enhance interoperabil­
+ity and boost liquidity, so the international tourism sta­
+keholders do not have to keep essential funds in various
+payment systems. These results are supported by Raza
+et al. (2021) who argue that people might positively use
+technology if they hold knowledge and awareness of it.
+
+167
+
+social media, and specialized literatures as it brings
+a critical social justice approach and distinctive concepts.
+Notwithstanding these limitations, to the authors’ best
+knowledge, the present study is the first to investigate
+the impact of the inception of CBDCs on international
+tourists behavioral intention toward adoption of CBDCs
+as a payment method.
+
+Disclosure statement
+Limitations and future research
+This pioneering study is not without certain limitations,
+which in turn, can offer opportunities for future research.
+The first is that, because of its focus, the study is based
+on particular constructs and Ajzens’ TPB (Ajzen, 1991).
+Future studies could include other constructs and con­
+cepts compatible with this model. Examples of such
+possible constructs and concepts that would be compa­
+tible and/or complementary with the model from this
+study include but are not limited to innovation charac­
+teristics and innovation adoption-implementation
+model (Oturakci & Yuregir, 2018; Zolkepli &
+Kamarulzaman, 2015), the unified theory of acceptance
+and use of technology model (Venkatesh et al., 2003),
+the technology acceptance model (Venkatesh & Davis,
+2000) and the consumer adoption process model
+(Radder, 2003). The second is the use of an online selfadministered survey. Accordingly, special attention
+should be employed in generalizing the findings due
+to self-response bias. However, for the purpose of this
+study, the authors have designed a survey following the
+suggestion outlined by Podsakoff et al. (2003).
+Subsequently, the issue with replicating the structure
+of the hypotheses was lessened by mitigating the selfresponse bias between independent and dependent
+variables. Furthermore, future studies should employ
+a field survey method to overcome the aforementioned
+limitations. The third limitation is the study design,
+which was cross-sectional. Thus, as Carlson and
+Morrison (2009) argue in such studies, the time-related
+correlation between exposure and outcome is missing.
+Future studies could employ a longitudinal study design
+to overcome this limitation of the present study. The
+fourth limitation is that this study involved participants
+who were international tourists with skills and access to
+use the Internet. Hence, future studies should include
+international tourists who do not have the skills to use
+the Internet or who do not have access to it. The fifth
+limitation is the research approach, which in this study
+was situational analysis. Nevertheless, Clarke (2021) out­
+lines a situational analysis approach that allows usage of
+data narrative and historical materials from websites,
+
+No potential conflict of interest was reported by the author(s).
+
+ORCID
+Aleksandar Radic
+http://orcid.org/0000-0001-7760-5495
+Wei Quan
+http://orcid.org/0000-0002-1174-6209
+Bonhak Koo
+http://orcid.org/0000-0002-9863-0806
+Bee-Lia Chua
+http://orcid.org/0000-0001-5268-2988
+Jinkyung Jenny Kim
+http://orcid.org/0000-0002-1704-3272
+Heesup Han
+http://orcid.org/0000-0001-6356-3001
+
+References
+328 U.S. 293. (1946). SEC v Howey Co. https://supreme.justia.
+com/cases/federal/us/328/293/
+Ackerman, A. (2021). Fed prepares to launch review of possi­
+ble central bank digital currency. Wall Street Journal.
+https://www.wsj.com/articles/fed-prepares-to-launchreview-of-possible-central-bank-digital-currency
+-11633339800
+Adrian, T. (2021). Digital technology: How it could transform the
+international monetary system. International Monetary Fund.
+https://www.imf.org/en/News/Articles/2021/06/30/
+sp063021-digital-technology-how-it-could-transform-theinternational-monetary-system
+Ahem, L., & Connolly-Ahem, C. (2019). Understanding and
+managing mass media effects on public perceptions of
+science issues such as invasive species management. In
+P. Martin, T. Alter, D. Hine, & T. Howard (Eds.), Communitybased control of invasive species (pp. 210–227). CSIRO
+Publishing.
+Ajzen, I. (1991). The theory of planned behavior. Organizational
+Behavior and Human Decision Processes, 50(2), 179–211.
+https://doi.org/10.1016/0749-5978(91)90020-T
+Ajzen, I., & Schmidt, P. (2020). Changing behaviour using the
+theory of planned behavior. In M. S. Hagger, L. Cameron,
+K. Hamilton, N. Hankonen, & T. Lintunen (Eds.), The handbook
+of behavior change (pp. 16–31). Cambridge University Press.
+Allen, S., Čapkun, S., Eyal, I., Fanti, G., Ford, B. A., Grimmelmann,
+J., Juels, A., Kostiainen, K., Meiklejohn, S., Miller, A., Prasad, E.,
+Wust, K., & Zhang, F. (2020). Design choices for central bank
+digital currency: Policy and technical considerations
+(No. 27634). National Bureau of Economic Research (NBER).
+Anderson, J. C., & Gerbing, D. W. (1988). Structural equation
+modeling in practice: A review and recommended two-step
+approach. Psychological Bulletin, 103(3), 411. https://doi.org/
+10.1037/0033-2909.103.3.411
+
+168
+
+A. RADIC ET AL.
+
+Arshad, H. (2021). Frugal innovations in healthcare: Factors
+affecting the diffusion in developing economies. In
+N. Agarwal & A. Brem (Eds.), Frugal innovation and its imple­
+mentation, leveraging constrains to drive innovation on
+a global scale (pp. 31–51). Springer Nature.
+Asian Development Bank. (2021). Redefining strategic routes
+to financial resilience in ASEAN+3.
+Auer, R., Boar, C., Cornelli, G., Frost, J., Holden, H., & Wehrli, W.
+(2021). CBDCs beyond borders: Results from a survey of central
+banks. BIS Papers.
+Auer, R., & Böhme, R. (2020). The technology of retail central
+bank digital currency. BIS Quarterly Review, March. https://
+ssrn.com/abstract=3561198
+Bains, P. (2022). Blockchain consensus mechanisms: A primer for
+supervisors. International Monetary Fund.
+Bank for International Settlements (BIS). (2021a). Annual
+Report 2020/21. https://www.bis.org/about/areport/are
+port2021.pdf
+Bank for International Settlements (BIS). (2021b). Annual Report
+2020/21. https://www.bis.org/about/bisih/topics/cbdc.htm
+Bank for International Settlements (BIS). (2021c). Central bank
+digital currencies for cross-border payments. Report to the
+G20. https://www.bis.org/publ/othp38.pdf
+Bank of England (BoE). (2020). Central bank digital currency:
+Opportunities, challenges and design. Discussion Paper.
+https://www.bankofengland.co.uk/paper/2020/central-bank
+-digital-currency-opportunities-challenges-and-designdiscussion-paper
+Banyal, S., Saxena, M., & Sharma, D. K. (2020). BlockchainEnabled Security and Privacy Schemes in IoT Technologies.
+In B. K. Mishra, S. K. Kuanar, S. L. Peng, & D. D. Dasig (Eds.),
+Handbook of IoT and blockchain: Methods, solutions, and
+recent advancements (pp. 1–24). CRC Press.
+Barrdear, J., & Kumhof, M. (2021). The macroeconomics of
+central bank digital currencies. Journal of Economic
+Dynamics & Control, 104148, 41–48. https://doi.org/10.
+1016/j.jedc.2021.104148
+Bauer, R. A. (1960). Consumer behavior as risk taking. In D. Cox
+(Ed.), Risk taking and information handling in consumer beha­
+vior (pp. 389–398). Harvard University Press.
+Bergkvist, L., & Rossiter, J. R. (2007). The predictive validity of
+multiple-item versus single-item measures of the same
+constructs. Journal of Marketing Research, 44(2), 175–184.
+https://doi.org/10.1509/jmkr.44.2.175
+Bijlsma, M., van der Cruijsen, C., Jonker, N., & Reijerink, J.
+(2021). What triggers consumer adoption of central bank
+digital currency? (No. 709). De Nederlandsche Bank.
+Bofinger, P., & Haas, T. (2021). Central bank digital currencies risk
+becoming a gigantic flop. VoxEU. https://voxeu.org/article/
+central-bank-digital-currencies-risk-becoming-gigantic-flop
+Bordo, M. D., & Levin, A. T. (2017). Central bank digital
+currency and the future of monetary policy (No. 23711).
+National Bureau of Economic Research (NBER).
+Bovaird, C. (2021). Blockchain executive sheds light on bank of
+Korea CBDC trial. Forbes. https://www.forbes.com/sites/cbo
+vaird/2021/08/02/blockchain-executive-sheds-light-onbank-of-korea-cbdc-trial/?sh=27935f7d3799
+Cahyanto, I., & Liu-Lastres, B. (2020). Risk perception,
+media exposure, and visitor’s behaviour responses to
+Florida Red Tide. Journal of Travel and Tourism
+Marketing, 37(4), 447–459. https://doi.org/10.1080/
+10548408.2020.1783426
+
+Carlson, M. D., & Morrison, R. S. (2009). Study design, precision,
+and validity in observational studies. Journal of Palliative
+Medicine, 12(1), 77–82. https://doi.org/10.1089/jpm.2008.
+9690
+Castano Silva, B., Bosancianu, C. M., & Littvay, L. (2019). Multilevel
+structural equation modeling. SAGE Publications, Inc.
+Cecchetti, S., & Schoenholtz, K. (2021). Central bank digital
+currency: The battle for the soul of the financial system.
+VoxEU. https://voxeu.org/article/central-bank-digitalcurrency-battle-soul-financial-system
+Cheng, J., Lawson, A. N., & Wong, P. (2021). Preconditions for a
+general-purpose central bank digital currency. FEDS Notes.
+https://www.federalreserve.gov/econres/notes/feds-notes
+/preconditions-for-a-general-purpose-central-bank-digitalcurrency-20210224.htm
+Chi, X., & Han, H. (2021). Emerging rural tourism in China’s
+current tourism industry and tourism behaviors: The case
+of Anji County. Journal of Travel and Tourism Marketing, 38
+(1), 58–74. https://doi.org/10.1080/10548408.2020.1862026
+Clarke, A. E. (2021). From grounded theory to situational ana­
+lysis: What’s new? Why? How? In J. M. Morse, B. J. Bowers,
+K. Charmaz, A. E. Clarke, J. Cobin, C. J. Porr, & P. N. Stern
+(Eds.), Developing grounded theory (pp. 223–266). Routledge.
+Cox, J. (2021a). The Fed is evaluating whether to launch a digital
+currency and in what form, Powell says. CNBC. https://www.
+cnbc.com/2021/09/22/the-fed-is-evaluating-whether-tolaunch-a-digital-currency-and-in-what-form-powell-says.html
+Cox, J. (2021b). Wall street banks brace for digital dollars as the
+next big disruptive force. CNBC. https://www.cnbc.com/2021/
+04/19/central-bank-digital-currency-is-the-next-majorfinancial-disruptor.html
+De Bode, I., Higginson, M., & Niederkorn, M. (2021). CBDC and
+stablecoins: Early coexistence on an uncertain road. McKinsey
+& Company. https://www.mckinsey.com/industries/finan
+cial-services/our-insights/cbdc-and-stablecoins-earlycoexistence-on-an-uncertain-road
+de Menthon, P.-H., & Syfuss-Arnaud, S. (2020). Interview with
+Christine Lagarde. President of the European Central Bank.
+https://www.challenges.fr/monde/interview-with-christinelagarde-president-of-the-european-central-bank_692612
+Deutsche Bank. (2021). Digital yuan: What is it and how does it
+work? https://www.db.com/news/detail/20210714-digitalyuan-what-is-it-and-how-does-it-work
+Dorn, J. A. (2021). China’s Digital Yuan: A threat to freedom.
+CATO Institute. https://www.cato.org/blog/chinas-digitalyuan-threat-freedom
+European Central Bank (ECB). (2020). Payments in a digital
+world. https://www.ecb.europa.eu/press/key/date/2020/
+html/ecb.sp200910~31e6ae9835.en.html
+Featherman, M. S., & Pavlou, P. A. (2003). Predicting e-services
+adoption: A perceived risk facets perspective. International
+Journal of Human-Computer Studies, 59(4), 451–474. https://
+doi.org/10.1016/S1071-5819(03)00111-3
+Fernández-Villaverde, J., Sanches, D., Schilling, L., & Uhlig, H.
+(2021). Central bank digital currency: Central banking for all?
+Review of Economic Dynamics, 41, 225–242. https://doi.org/
+10.1016/j.red.2020.12.004
+Fohtung, J. (2021). How Alibaba solved the trust problem on its
+platform and a model for companies in growth economies. The
+Clayton Christensen Institute. https://www.christenseninsti
+tute.org/blog/how-alibaba-solved-the-trust-problem-on-itsplatform-and-a-model-for-companies-in-growth-economies/
+
+JOURNAL OF TRAVEL & TOURISM MARKETING
+
+Genesis Mining. (2020). New genesis mining study finds 48% of
+Americans believe America will be a cashless society in 100
+years. https://www.prnewswire.com/news-releases/newgenesis-mining-study-finds-48-of-americans-believe-america
+-will-be-a-cashless-society-in-100-years-301137175.html
+Gkritsi, E. (2021). Digital pound foundation launches to push for
+UK CBDC. Coindesk. https://finance.yahoo.com/news/digi
+tal-pound-foundation-launches-push-084254886.html?fr=
+sychp_catchall
+Global Knowledge Partnership on Migration and Development
+(KNOMAD). (2021). RESILIENCE COVID-19 CRISIS THROUGH
+A MIGRATION LENS migration and development brief 34.
+https://www.knomad.org/publication/migration-anddevelopment-brief-34
+Gorman, T. (2021). Digital assets, investing and clarity.
+SECActions. https://www.secactions.com/digital-assetsinvesting-and-clarity/
+Hair, J. F., Jr, Sarstedt, M., Ringle, C. M., & Gudergan, S. P. (2017).
+Advanced issues in partial least squares structural equation
+modeling. SAGE Publications, Inc.
+Han, H. (2021). Consumer behavior and environmental sustain­
+ability in hospitality and tourism: A review of theories, con­
+cepts, and latest research. Journal of Sustainable Tourism, 29
+(7), 1021–1042. https://doi.org/10.1080/09669582.2021.
+1903019
+Han, H., Al-Ansi, A., Chua, B.-L., Tariq, B., Radic, A., & Park, S.-H.
+(2020). The post-coronavirus world in the international tour­
+ism industry: Application of the theory of planned behavior
+to safer destination choices in the case of US outbound
+tourism. International Journal of Environmental Research
+and Public Health, 17(18), 6485. https://doi.org/10.3390/
+ijerph17186485
+Han, H., Lee, K.-S., Radic, A., Ngah, A. H., & Kim, J. (2021). The
+extended self-identify based electric product adoption
+model and airline business strategy: A new theoretical fra­
+mework for green technology products. Journal of Travel
+and Tourism Marketing, 38(3), 247–262. https://doi.org/10.
+1080/10548408.2021.1906386
+Harari, Y. N. (2015). Sapiens: A brief history of humankind. Harper
+Collins Publishers LLC.
+Houston, M. (2020). China aiming to launch digital currency in
+time for Beijing 2022 Winter Olympics. Inside the games.
+https://www.insidethegames.biz/articles/1101841/beijing2022-digital-currency-yuan
+James, W. (2021). G7 countries reach breakthrough on digital
+trade and data. Reuters. https://www.nasdaq.com/articles/
+g7-countries-reach-breakthrough-on-digital-trade-and-data
+-2021-10-22
+Jamrisko, M., Lu, W., & Tanzi, A. (2021). South Korea Leads World in
+Innovation as U.S. Exits Top Ten. https://www.bloomberg.
+com/news/articles/2021-02-03/south-korea-leads-world-ininnovation-u-s-drops-out-of-top-10
+Jennings, R. (2021). How China’s ban on cryptocurrency will
+ripple overseas. VOA News. https://www.voanews.com/a/
+how-china-s-ban-on-cryptocurrency-will-ripple-overseas
+-/6254329.html
+Juschten, M., Jiricka-Pürrer, A., Unbehaun, W., & Hössinger, R.
+(2019). The mountains are calling! An extended TPB model
+for understanding metropolitan residents’ intentions to visit
+nearby alpine destinations in summer. Tourism
+Management, 75, 293–306. https://doi.org/10.1016/j.tour
+man.2019.05.014
+
+169
+
+Katz, E. (1957). The two-step flow of communication: An
+up-to-date report on an hypothesis. Public Opinion
+Quarterly, 21(1), 61–78. https://doi.org/10.1086/266687
+Katz, E., & Lazarsfeld, P. (1955). Personal influence. The Free Press.
+Kawakami, T., & Kawate, I. (2020). China starts digital yuan
+trial by giving $30 to 50,000 people. Nikkei Asia. https://
+asia.nikkei.com/Business/Markets/Currencies/Chinastarts-digital-yuan-trial-by-giving-30-to-50-000-people
+Khan, I., Fatma, M., Shamim, A., Joshi, Y., & Rahman, Z. (2020).
+Gender, loyalty card membership, age, and critical incident
+recovery: Do they moderate experience- loyalty
+relationship? International Journal of Hospitality
+Management, 89, 102408. https://doi.org/10.1016/j.ijhm.
+2019.102408
+Kharpal, A. (2021). China to hand out $6.2 million in digital
+currency to Beijing residents as part of trial. CNBC. https://
+www.cnbc.com/2021/06/02/china-digital-currency-beijing
+-to-hand-out-6point2-million-in-trial.html
+Kiderlin, S. (2021). The SEC’s ‘Crypto Mom’ Hester Peirce says
+selling fractionalized NFTs could be illegal. CNBC. https://
+markets.businessinsider.com/news/currencies/sec-crypto
+-mom-hester-peirce-selling-nft-fragments-illegal-2021-3
+Kiff, J., Alwazir, J., Davidovic, S., Farias, A., Khan, M. A.,
+Khiaonarong, M. T., Malaika, M., Monroe, M. H. K., Sugimoto,
+N., Tourpe, H., & Zhou, P. (2020). A survey of research on retail
+central bank digital currency (No. 20/104). IMF.
+Kim, Y. (2017). Behind South Korea’s cryptocurrency boom. MIT
+Technology Review. https://www.technologyreview.com/
+2017/12/07/147244/behind-south-koreas-cryptocurrencyboom/
+Kim, M. (2021). A psychological approach to Bitcoin usage beha­
+vior in the era of COVID-19 focusing on the role of attitudes
+toward money. Journal of Retailing and Consumer Services, 62,
+1–11. https://doi.org/10.1016/j.jretconser.2021.102606
+Kondili, A. (2021). Beyond cash: China pulls central banks into
+the digital currency race. Lazard Asset Management.
+https://www.lazardassetmanagement.com/us/en_us/
+research-insights/lazard-insights/beyond-cash-chinadigital-currency
+Kumar, D. (2021). Mass media and communications: Theory and
+practice. K.K. Publications.
+Kumar, V. (2021). How much money is there in the world?
+(2021 Edition).RankRed. https://www.rankred.com/howmuch-money-is-there-in-the-world/#:~:text=%7C%
+202021%20Edition,-August%2028%2C%202021&text=
+There%20is%20approximately%20US%24%2040,and%
+20cryptocurrencies%20exceeds%20%241.3%
+20quadrillion
+Kyriazis, N. A. (2020). Herding behaviour in digital currency
+markets: An integrated survey and empirical estimation.
+Heliyon, 6(8), e04752. https://doi.org/10.1016/j.heliyon.
+2020.e04752
+Lau, A. (2020). How a tokenized digital dollar could modernize
+the American financial system. Forkast. https://forkast.news/
+us-tokenized-digital-dollar-central-bank-digital-currencycbdc-david-treat-2/
+Ledger Insights. (2021a). Bank of Korea selects provider for CBDC
+blockchain simulations. https://www.ledgerinsights.com/
+bank-of-korea-blockchain-cbdc-simulations-ground-x/
+Ledger Insights. (2021b). CBDC consumer survey finds US citizens
+less enthusiastic. https://www.ledgerinsights.com/cbdcconsumer-survey-finds-us-citizens-less-enthusiastic/
+
+170
+
+A. RADIC ET AL.
+
+Lee, I. (2021). The Fed may release its long-awaited paper on
+central bank digital currencies as early as next week, report
+says. Insider. https://markets.businessinsider.com/news/cur
+rencies/central-bank-digital-currency-cbdc-federal-reservedigital-dollar-cryptocurrency-2021-10
+Lee, D. K. C., Yan, L., & Wang, Y. (2021). A global perspective on
+central bank digital currency. China Economic Journal, 14(1),
+52–66. https://doi.org/10.1080/17538963.2020.1870279
+Li, J. (2021). Predicting the Demand for Central Bank Digital
+Currency: A Structural Analysis with Survey Data (No. 2021–
+65). Bank of Canada.
+Manosuthi, N., Lee, J., & Han, H. (2020). Predicting the revisit
+intention of volunteer tourists using the merged model
+between the theory of planned behavior and norm acti­
+vation model. Journal of Travel and Tourism Marketing, 37
+(4), 510–532. https://doi.org/10.1080/10548408.2020.
+1784364
+Marte, J. (2021). Fed to release paper on central bank digital
+currency soon, Powell says. Reuters. https://www.reuters.
+com/business/fed-release-paper-central-bank-digitalcurrency-soon-powell-says-2021-09-22/
+McGinnis, P. (2020). Fear of missing out: Practical decisionmaking in a world of overwhelming choice. Sourcebooks, Inc.
+Meredith, W. (1993). Measurement invariance, factor analysis
+and factorial invariance. Psychometrika, 58(4), 525–543.
+https://doi.org/10.1007/BF02294825
+Mookerjee, A. S. (2021). What if central banks issued digital
+currency? Harvard Businesses Review. https://hbr.org/2021/
+10/what-if-central-banks-issued-digital-currency
+Myszkowska, M. (2021). Cryptocurrencies and the digitalisation
+of payment systems. In W. Michalczyk (Ed.), Cryptocurrencies
+in the global economic and financial system. Initial coin offer­
+ings as an innovative tool of crowdfunding and promotion
+(pp. 55–75). Publishing House of Wroclaw University of
+Economics and Business.
+Okuwoga, T. (2021). 110 countries are exploring CBDC at some
+stage, says IMF managing director. Bitcoinist. https://bitcoi
+nist.com/110-countries-are-exploring-cbdc-at-some-stagesays-imf-managing-director/
+Oturakci, M., & Yuregir, O. H. (2018). New approach to
+Rogers’ innovation characteristics and comparative
+implementation study. Journal of Engineering and
+Technology Management, 47, 53–67. https://doi.org/10.
+1016/j.jengtecman.2017.12.004
+Podsakoff, P. M., MacKenzie, S. B., Lee, J., & Podsakoff, N. P.
+(2003). Common method biases in behavioral research:
+A critical review of the literature and the recommended
+remedies. Journal of Applied Psychology, 88(5), 879–903.
+https://doi.org/10.1037/0021-9010.88.5.879
+Przybylski, A. K., Murayama, K., DeHaan, C. R., & Gladwell, V.
+(2013). Motivational, emotional, and behavioral correlates of
+fear of missing out. Computers in Human Behavior, 29(4),
+1841–1848. https://doi.org/10.1016/j.chb.2013.02.014
+Rabouin, D. (2021). The U.S. is losing the global race to decide the
+future of money—and it could doom the almighty dollar. Time.
+https://time.com/6099105/us-china-digital-currency-centralbank/
+Radder, L. (2003). Understanding consumer decision-making in
+adopting wild venison: A suggested framework. Journal of
+Food Products Marketing, 9(1), 15–29. https://doi.org/10.
+1300/J038v09n01_03
+
+Radic, A., Law, R., Lück, M., Kang, H., Ariza-Montes, A., ArjonaFuentes, J. M., & Han, H. (2020). Apocalypse now or over­
+reaction to coronavirus: The global cruise tourism industry
+crisis. Sustainability, 12(17), 6968. https://doi.org/10.3390/
+su12176968
+Raubenheimer, J. (2004). An item selection procedure to max­
+imise scale reliability and validity. South Africa Journal of
+Industrial Psychology, 30(4), 59–64. https://hdl.handle.net/
+10520/EJC89023
+Raza, S. A., Khan, K. A., & Salam, J. (2021). Impact of
+environmental triggers on students’ behavior to use ridesharing services: The moderating role of perceived risk.
+Current Psychology. https://doi.org/10.1007/s12144021-02405-z
+Redman, J. (2021). Beijing presses fast-food chain mcdonald’s to
+support digital yuan — China’s CBDC expected to launch in
+february. Bitcoin News. https://news.bitcoin.com/beijingpresses-fast-food-chain-mcdonalds-to-support-digital-yuanchinas-cbdc-expected-to-launch-in-february/
+Reinecke, L., Aufenanger, S., Beutel, M., Dreier, M., Quiring, O.,
+Stark, B., Wölfling, K., & Müller, K. W. (2017). Digital stress
+over the life span: The effects of communication load and
+internet multitasking on perceived stress and psychological
+health impairments in a German probability sample. Media
+Psychology, 20(1), 90–115. https://doi.org/10.1080/
+15213269.2015.1121832
+Rogers, E. M. (2003). Diffusion of Innovations (5th ed.). Free
+Press.
+Seo, H. (2021). South Korea’s cryptocurrency craze can
+a cryptocurrency boom in South Korea give a boost for
+a centralized digital currency? The Diplomat. https://thediplo
+mat.com/2021/03/south-koreas-cryptocurrency-craze/
+Seth, S. (2021). Central bank digital currency (CBDC).
+Investopedia. https://www.investopedia.com/terms/c/cen
+tral-bank-digital-currency-cbdc.asp#citation-10
+Sigalos, M. (2021). El Salvador’s new bitcoin plan could cost
+money providers like Western Union and others $400 million
+a year, says President Bukele. CNBC. https://www.cnbc.com/
+2021/09/09/el-salvador-bitcoin-move-could-cost-westernunion-400-million-a-year.html
+Silva Santos, I. L., Pimentel, C. E., & Mariano, T. E. (2021).
+Cyberstalking scale: Development and relations with gender,
+FOMO and social media engagement. Current Psychology, 1–
+9. https://doi.org/10.1007/s12144-021-01823-3
+Singh, R., & Upadhyay, A. (2021). Preventive behaviour against
+COVID 19: Role of psychological factors. In P. S. Khosla,
+M. Mittal, D. Sharma, & L. M. Goyal (Eds.), Predictive and
+preventive measures for Covid-19 pandemic (pp. 109–126).
+Springer Nature Ptc Ltd.
+Smialek, J. (2021). A top Fed official says digital currency may be
+the money equivalent of parachute pants. The New York
+Times. https://www.nytimes.com/2021/06/28/business/feddigital-currency-quarles.html
+Soderberg, S., Bechara, M., Bossu, W., Che, N., Kiff, J., Lukonga, I.,
+Griffoli, T. M., Sun, T., & Yoshinaga, A. (2022). Behind the
+scenes of central bank digital currency: Emerging tends,
+insights, and policy lessons. FinTech Notes, 2022(004).
+Stangarone, T. (2021). South Korea’s forward-thinking digital
+currency pilot program. East Asia Forum. https://www.east
+asiaforum.org/2021/08/10/south-koreas-forward-thinkingdigital-currency-pilot-program/
+
+JOURNAL OF TRAVEL & TOURISM MARKETING
+
+Terglav, K., Ruzzier, M. K., & Kaše, R. (2016). Internal
+branding process: Exploring the role of mediators in
+top management’s leadership– Commitment relation­
+ship. International Journal of Hospitality Management,
+54, 1–11. https://doi.org/10.1016/j.ijhm.20
+15.12.007
+Tong, W., & Jiayou, C. (2021). A study of the economic impact of
+central bank digital currency under global competition.
+China Economic Journal, 14(1), 78–101. https://doi.org/10.
+1080/17538963.2020.1870282
+Vanzetti, D., Peters, R., Narayanan, B., Huong, L., Mott, G., &
+Razo, C. (2021). COVID-19 and tourism - An update. United
+Nations Conference on Trade and Development (UNCTAD).
+https://unctad.org/system/files/official-document/dit
+cinf2021d3_en_0.pdf
+Venkatesh, V., & Davis, F. D. (2000). A theoretical extension
+of the technology acceptance model. Four Longitudinal
+Field Studies Management Science, 46(2), 186–204. https://
+doi.org/10.1287/mnsc.46.2.186.11926
+Venkatesh, V., Morris, M. G., Davis, G. B., & Davis, F. D. (2003).
+User acceptance of information technology: Toward
+a unified view. MIS Quarterly, 27(3), 425–478. https://doi.
+org/10.2307/30036540
+
+171
+
+Venkatesh, V., Thong, J. Y. L., & Xu, X. (2012). Consumer accep­
+tance and use of information technology: Extending the
+unified theory of acceptance and use of technology. MIS
+Quarterly, 36(1), 157–178. https://doi.org/10.2307/41410412
+Wang, J., Liu-Lastres, B., Ritchie, B. W., & Mills, D. (2019). Travellers’
+self-protections against health risks: An application of the full
+protection motivation theory. Annals of Tourism Research, 78,
+102743. https://doi.org/10.1016/j.annals.2019.102743
+Williamson, S. D. (2021). Central bank digital currency and
+flight to safety. Journal of Economic Dynamics & Control,
+104146. https://doi.org/10.1016/j.jedc.2021.104146
+Wong, P., & Maniff, J. L. (2020). Comparing means of payment:
+What role for a central bank digital currency? FEDS Notes.
+Board of Governors of the Federal Reserve System. https://
+doi.org/10.17016/2380-7172.2739 .
+Ye, C., & DeSouza, K. (2019). The current landscape of central bank
+digital currencies. Brookings Institution. https://www.brook
+ings.edu/blog/techtank/2019/12/13/the-current-landscapeof-central-bank-digital-currencies/
+Zolkepli, I. A., & Kamarulzaman, Y. (2015). Social media adop­
+tion: The role of media needs and innovation characteristics.
+Computers in Human Behavior, 43, 189–209. https://doi.org/
+10.1016/j.chb.2014.10.050
+
+172
+
+A. RADIC ET AL.
+
+APPENDIX
+
+Media coverage (TV, newspapers, online) conveys a positive
+image of CBDC payment.
+Media coverage makes me want to engage in using the
+CBDC payment.
+
+Behavioral intention (BI) (=Intention to adopt CBDC
+payment)
+I am willing to adopt CBDC payment in a hospitality/tourism
+consumption situation in the future.
+I plan to adopt CBDC payment for hospitality/tourism pro­
+duct purchases in my daily life.
+I intend to use CBDC payment for hospitality/tourism pro­
+duct purchases in the future.
+
+Attitude toward CBDC payment
+
+Fear of missing out
+
+For me, using CBDC payment for hospitality/tourism product
+purchases is Bad (1) – Good (7)
+For me, using CBDC payment for hospitality/tourism product
+purchases is Foolish (1) – Wise (7)
+For me, using CBDC payment for hospitality/tourism
+product purchases is Unpleasant (1) – Pleasant (7)
+For me, using CBDC payment for hospitality/tourism product
+purchases is Harmful (1) – Beneficial (7)
+Subjective norm (=Social influence in CBDC payment)
+People who influence my behavior would think that I should
+use CBDC payment.
+People who are important to me would think that I should
+use CBDC payment.
+People whose opinions I value would prefer that I use CBDC
+payment.
+
+Not using CBDC would lead to a fear of missing out on impor­
+tant financial benefits.
+Not using CBDC would lead to a fear of losing track of what
+my friends and acquaintances are doing.
+Not using CBDC would lead to a fear of not being up-to-date
+anymore.
+
+Mass media coverage
+
+Perceived behavioral control
+Using CBDC as a method of payment for hospitality/tourism
+product purchases is entirely up to me.
+I am confident that I can use CBDC as a method of
+payment for hospitality/tourism product purchases if
+I want to.
+I have sufficient resources, time, and opportunities to use CBDC
+as a method of payment for hospitality/tourism product
+purchases.
+
+Relative advantage
+CBDC payment would bring convenient financial transactions.
+CBCD would help save time/effort during monetary
+transactions.
+CBCD would enable diverse financial transactions transparent.
+The advantage of using CBCD is apparent.
+
+Perceived risk
+On the whole, considering all the factors combined, signing up
+for, and using CBDC payment is risky.
+Using CBDC payment for purchase would be risky.
+CBDC payment is dangerous to use.
+Using CBDC payment would add great uncertainty to my
+purchase.
+Using CBDC payment
+pffiffiffiffiffiffiffiffi would expose me to an overall risk.
+Coefficient in red: AVE.
+*p < .05 and **p < .01.
+
+

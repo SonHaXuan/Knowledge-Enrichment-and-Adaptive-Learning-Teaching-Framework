@@ -1,0 +1,1647 @@
+risks
+Article
+
+A Critical Analysis of Volatility Surprise in Bitcoin
+Cryptocurrency and Other Financial Assets
+Yianni Doumenis 1, *, Javad Izadi 1, *, Pradeep Dhamdhere 1 , Epameinondas Katsikas 2 and Dimitrios Koufopoulos 3
+1
+
+2
+3
+
+*
+
+
+
+Citation: Doumenis, Yianni, Javad
+Izadi, Pradeep Dhamdhere,
+Epameinondas Katsikas, and
+Dimitrios Koufopoulos. 2021. A
+Critical Analysis of Volatility Surprise
+in Bitcoin Cryptocurrency and Other
+Financial Assets. Risks 9: 207.
+https://doi.org/10.3390/
+
+The Claude Littner Business School, University of West London, London W5 5RF, UK;
+21428196@student.uwl.ac.uk
+Kent Business School, University of Kent, Canterbury CT2 7NZ, UK; E.Katsikas@kent.ac.uk
+The Centre for Distance Education, University of London, London WC1E 7HU, UK;
+dimitrios.koufopoulos@london.ac.uk
+Correspondence: yianni.doumenis@uwl.ac.uk (Y.D.); javad.izadi@uwl.ac.uk (J.I.)
+
+Abstract: The purpose of this paper is to investigate the viability as compared with other financial
+assets of cryptocurrencies as a currency or as an asset investment. This paper also aims to see which
+macro variable relates more to the price of cryptocurrencies, especially Bitcoin. Since the whole
+concept of cryptocurrencies is quite novel, an attempt has been made to briefly explain the underlying
+blockchain technology that forms the bedrock of cryptocurrencies. In this study, we use secondary
+data, i.e., the price history of Bitcoin from September 2014 to September 2021 for the last seven years,
+captured from trading exchanges. We predicted monthly returns of Bitcoin with that of Standard
+& Poor’s 500 Index (S&P 500), gold, and Treasury Bonds. Our findings show that Bitcoin has very
+high volatility compared to S&P 500, Gold and Treasury Bonds. Also, our findings show that there
+is a positive correlation between Bitcoin’s price volatility and the other three financial assets before
+and during COVID-19. Hence, Bitcoin is acting more as a speculative asset rather than a steady store
+of value. This can be drawn from the comparison with the debt market i.e., a Treasury Bond that
+invests in long-dated (30 years) US treasuries with which Bitcoin shows no relationship. The findings
+of this study could help with understanding the future of Bitcoin. This has important implications
+for Bitcoin investors. The current study contributes to the extant literature by providing empirical
+evidence on long-term social sustainability vis-à-vis supply chain traceability.
+
+risks9110207
+
+Keywords: cryptocurrencies; Bitcoin; investment price volatility
+Academic Editors: Dimitrios
+Koutmos and Paolo Giudici
+Received: 13 September 2021
+Accepted: 2 November 2021
+Published: 12 November 2021
+
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional affiliations.
+
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+
+1. Introduction
+Satoshi Nakamoto, whose true identity has never been revealed, came up in 2009,
+with the first blockchain network and published a paper that said, “What is needed is an
+electronic payment system based on cryptographic proof instead of trust, allowing any
+two willing parties to transact directly with each other without the need for a trusted third
+party” (Nakamoto 2008). This is the origin of cryptocurrencies and to better understand
+them we need to understand the background of the global financial crisis of 2009 on which
+they were launched.
+The traditional banking industry was seen to be losing its purpose with avaricious
+managers resorting to indiscriminate lending that ultimately led to the collapse of the
+financial system with its subprime lending and with quite a few big banks going bust. On
+top of that, the central banks went on a money producing spree to save those in trouble,
+their follies with taxpayer money to save the “system” from collapse raising question marks
+on the sanctity of fiat currency. Thus the search for alternatives started (Nakamoto 2008).
+In “Bitcoin: A Peer-to-Peer Electronic Cash System” (Nakamoto 2008), Satoshi
+Nakamoto explains, if these financial intermediaries, banks, and regulators like central
+banks that are needed in every transaction today, mainly because of a lack of trust in
+dealing with unknown parties, are to be avoided, why not use a network? In that way, the
+
+Risks 2021, 9, 207. https://doi.org/10.3390/risks9110207
+
+https://www.mdpi.com/journal/risks
+
+Risks 2021, 9, 207
+
+2 of 15
+
+trust factor becomes redundant and even the cost of these financial intermediaries is saved!
+This network is called blockchain, where all transactions happen peer to peer without any
+intermediary, and are recorded in a ledger simultaneously, and are open to all. According
+to Mikhaylov (2021), the competition through public and private money can be increased
+by digitalisation. Also, the result shows that in a digital economy any payments can be
+centred around economic and social platforms.
+Satoshi Nakamoto decided to cap the supply of Bitcoins at 21 mn so that it should
+not resemble fiat currencies and rather should have a limited supply like gold in which
+everything else will be valued. At present, there have been approximately 18.7 mn Bitcoins
+mined and if the current mining trend holds, the last Bitcoin is supposed to be mined in the
+year 2140. However, along with the technology and network that cryptocurrencies provide
+comes their share of hazards. If the strength of cryptocurrencies is no central control, and it
+provides essentially peer-to-peer transaction and anonymity, the same strength becomes a
+weakness when used for illegal activities. That has damaged their reputation.
+In this paper, we study the monthly bitcoin price volatility with three other financial
+assets before and during COVID-19. Many previous studies on Bitcoin volatility are based
+on financial assets. Previous authors usually argue about important macroeconomic and
+financial predictors such as Baur et al. (2018b). Given that, we show the actual and
+forecasted prices for all four financial assets to see the forecasting accuracy.
+We test the mean absolute percentage error for the volatility of Bitcoin before and
+during the COVID-19 outbreak comparing it with other financial assets. Also, we run
+correlation analysis to see if there is any positive or negative among Bitcoin, S&P 500, Gold
+and TLT(Treasury Bond).
+2. Literature Review
+Since there is no core theme on which everyone agrees upon for cryptocurrencies,
+various experts have expressed their opinions in various papers and news articles. Those
+will be used for analysis and forming a conclusion towards a cohesive economic theory.
+Historical price data of Bitcoin will be used to compare different arguments and determine
+the status of cryptocurrencies along with the legal aspect. Since all regulations attempt to
+classify cryptocurrencies in one form or other, in a certain category, this paper attempts to
+foresee how governments can use them in their policy formation.
+Can cryptocurrencies be a store of value, an investment? Are they a good investing
+commodity due to their liquidity but very high volatility? Corbet et al. (2018) explore
+dynamic relationships between cryptocurrencies and other financial assets, using data
+from CryproCompare.com for cryptocurrencies and Bloomberg for financial assets. Corbet
+et al. conclude that diversification in the short term for investors is the major benefit of
+cryptocurrencies. Still, there are quite a few variations in linkages with returns of crypto
+and other assets if considered in different timeframes and those are on account of external
+economic and financial shocks. They have used the generalised variance decomposition
+methodology.
+Is cryptocurrency money? Money is a medium of exchange, a unit of account, and
+a store of value. Bjerg (2016) has explained that Bitcoin is money. The author concludes
+that Bitcoin is commodity money without gold, fiat money without a state, and credit
+money without debt. The author finally says Bitcoin is something between money and a
+commodity, although closer to this last one.
+What determines the price of cryptocurrencies? Establishing the price for any money
+or commodity is a peculiar variable. Difficulty levels in extracting or the availability in
+the market or simply investor interest at that point of time are some of the variables that
+determine price discovery. Vieira (2017) takes a deep dive into an analysis of the formation
+of the Bitcoin price and also includes volatility and other key drivers. The author gathers
+data on the Bitcoin price; the Standard & Poor 500 (SP500) index, the daily treasury yield
+rates of “Treasury Inflation-Protected Securities”; the daily USD price per ounce of gold;
+the daily number of confirmed Bitcoin transactions; the total number of unique addresses
+
+Risks 2021, 9, 207
+
+3 of 15
+
+used on the Bitcoin blockchain; the total value of coin base block rewards and transaction
+fees paid to miners, and the daily number of the term ‘Bitcoin’ queries made in Wikipedia.
+The author concludes that volatility can also affect price formation (negative shocks have a
+stronger impact on volatility than positive ones). Also, the author says that the number of
+transactions and the daily price of gold have a negative relationship with the Bitcoin price.
+An important question: Ray Dalio of Bridgewater asks if limited supply is the biggest
+USP of Bitcoins, then what about other such cryptocurrencies? Although Bitcoin is limited
+in supply, digital currencies are not limited in supply because new ones have come along
+and will continue to come along to compete so the supply of Bitcoin-like assets should, and
+competition will, play a role in determining Bitcoin and other cryptocurrency prices. The
+better ones will displace these existing ones. Then since Bitcoin works fixedly, it will not
+cope with the evolving usage of cryptocurrencies, and that is a big risk. Hence the biggest
+USP i.e., “limited supply” is not as sound as it may appear. For example, if Blackberries
+were in limited supply they still would not be worth much because they were replaced by
+more advanced competitors, he says (Bridgewater 2021). Before going to cryptocurrencies
+and Bitcoin let us try to understand in simple terms the technology behind cryptocurrencies
+i.e., Bitcoin. Also, more recent research by Vukovic et al. (2021), argues that gold and oil, as
+typical global commodities, could have been more diversifiers crisis during the first wave
+of the COVID-19.
+2.1. Blockchain Technology
+According to Lynn et al. (2019), Blockchain is a kind of database, whereas the database
+itself is a storage of information on a computer system through electronic means. Data i.e.,
+information is stored in the form of tables to make it easier to search when required. For a
+small amount of information or a small number of people, one can use a spreadsheet but
+for a very large amount of data storage that can be accessed by several people at once or
+changed frequently or searched very often, spreadsheets cannot be used due to obvious
+limitations, and that is where the database has its advantage.
+The housing of data is carried out in large databases on a network of supercomputers,
+which may be hundreds or thousands called servers. While spreadsheets are normally
+under the control of one single entity, large databases may be maintained by some entity
+but are not under the control of any single entity and can be accessed, changed, filtered
+by many people at a time. There is a difference in storage structure between blockchain
+& database.
+How data are structured in blockchain and a database forms the major difference
+between the two. Information is collected in blocks (groups) that have a certain capacity.
+The block is chained when miners find the solution of proof of work puzzle to earlier filled
+blocks hence the name blockchain. While in a database, the data storage is structured in the
+form of tables linearly and not in the form of blocks. Hence all blockchains are databases
+but not all databases are blockchains. Because of this sequencing of blocks, the timeline
+is defined automatically and cannot be changed and the block is cast in stone when filled
+with data. Every block in the chain has a fixed timing that cannot be changed without
+unravelling the whole chain.
+Since blockchain has the inherent advantage that it cannot be modified, it finds its
+usage in industries like payments, cybersecurity or healthcare, and others. Effectively
+it is a distributed ledger that records digital assets. Instead of copying or transferring,
+those digital assets are distributed, creating an immutable record. Thus, total transparency
+and real-time access are given to all public as the asset is decentralised. In turn since the
+ledger of changes is transparent it creates more trust. A more recent study by Giudici
+and Pagnottoni (2020) indicates that Bitcoins prices may differ across trading venues due
+to various exchanges. In their investigation, they considered eight major exchanges of
+Bitcoin. Their finding shows that there is a significant connectedness among the exchanges.
+Moreover, they found that connectedness across exchanges is significantly dynamic.
+
+Risks 2021, 9, 207
+
+4 of 15
+
+Blockchain consists of three important concepts: blocks, nodes, and miners. There are
+three elements to define a block; data in the block, a 32-bit whole number called a nonce
+and a 256-bit number called a hash. When a block is created, a nonce is randomly generated;
+subsequently, the nonce generates the block header i.e., cryptographic hash. Nodes are
+electronic devices that maintain the blockchain and keep the network functioning. They
+are kind of access points to a distributed ledger and hence no one person or entity controls
+it, which gives the decentralised nature to blockchain technology. Every node has its copy
+of the blockchain and the network must algorithmically approve any newly mined block
+for the chain to be updated, trusted, and verified. Each participant is given a unique
+alphanumeric identification number that shows their address. Bitcoin shows due to a
+system of checks and balances, the blockchain maintains integrity and creates trust among
+users and hence public information can be safely stored in it. New blocks are created by
+miners by a process called mining. Since every block in a blockchain not only has its unique
+nonce and hash but also refers to the previous block, mining can become complex for large
+blockchains. Miners solve a complex maths problem to find an acceptable hash to nonce. A
+32-bit nonce and 256-bit hash have approximately 4 bn nonce hash combinations, making
+finding the right one extremely difficult. When a miner finds that, their block is added to
+the blockchain
+Also, Bitcoin shows that if someone wants to make a change in the block, it requires
+a change in all the subsequent blocks making it extremely difficult to manipulate the
+blockchain. When a block is successfully mined, the change is accepted by all of the nodes
+on the network.
+2.2. Supply of Bitcoins
+Past transactions of Bitcoins are recorded in a public ledger and mining means adding
+to this transaction record. Just like a rig used in, say, oil drilling, in cryptography, there is a
+single computer system that performs all the calculations required for mining. This public
+ledger also called the blockchain of Bitcoins confirms the transaction to the network and is
+used by nodes to distinguish illegitimate transactions from legitimate ones.
+Since mining is highly resource-intensive and difficult, the number of blocks found
+each day by miners remains steady. Individual blocks to be considered valid must contain
+proof of work verified by other Bitcoin nodes each time they receive a block. Bitcoin nodes
+reach a consensus about ordering events by downloading and verifying this blockchain.
+Hence it is computationally impossible to modify the history of transactions by any one
+entity. Miners also introduce Bitcoins into the system and are paid any transaction fees as
+well as a “subsidy” of newly created coins. This way new Bitcoins are disseminated and
+decentralised and safety in numbers is provided by the system.
+An important difference between commodity mining and Bitcoin mining is that the
+supply does not depend on the amount of mining. The total number of Bitcoins mined
+does not depend on how many miners with what capacity are mining. The discoverer
+is awarded a fixed number of Bitcoins when a new block is discovered and this number
+halves every 210,000 blocks. Currently, it is 6.25 Bitcoins per block. Also, as an incentive
+for the miner to include the transaction in their block, the miner receives fees paid by users
+sending transactions. As the number of Bitcoins per block is decreasing, these fees out of
+the transaction will become a major source to miners with higher adoption of Bitcoin.
+2.3. Limited Supply
+As we have seen, Bitcoins are created when the miner discovers a new block. The
+rate at which a block is created is adjusted every 2016 blocks which in turn is designed
+to be constant for 2 weeks i.e., 6 per hour. Every 210,000 blocks created; the number
+of Bitcoins that are awarded per block decreases geometrically at a rate of 50%. Hence
+approximately every 4 years, the number of Bitcoins per block generated is halved and the
+total number will be slightly less than 21 mn. It matches a 4-year reward halving schedule
+
+Risks 2021, 9, 207
+
+5 of 15
+
+or the ultimate total number of Satoshis. Satoshi has never really justified or explained
+many of these constants.
+
+
+f (x) =
+
+∑32
+i =0 210, 000
+
+50×108
+2i
+
+(1)
+2i
+This decreasing-supply algorithm was chosen because it approximates the rate at
+which commodities like gold are mined.
+3. Crypto (Bitcoin) Main Points of Analysis
+3.1. Bitcoin as Fiat Money and Digital Gold
+Money has three basic attributes; it is a medium of exchange, a unit of account, and
+a store of value (Openlib 2021). Fiat money does not have intrinsic value, since a central
+authority i.e., the government, declares it as a legal tender, value is attributed to it. Debt
+is the cornerstone of fiat money, let it be banks or governments someone takes a loan
+hence money is created. While issuing a banknote, the central bank is also giving you a
+percentage of the loan as a citizen of that country.
+Hence fiat money is equal to debt and it can be increased or decreased by a fiat. Bitcoin
+does not depend on a debt system, its value depends mainly on the trust of its community,
+its effectiveness as a medium of exchange. Cryptocurrencies can be money as far as they
+allow two parties to exchange value but that can be said about a lot of others like gold or
+even to a barter system. Unlike fiat money cryptocurrencies (Bitcoin) is controlled by no
+central authority it has limited supply and cannot be increased or decreased by a fiat. It
+can be spent and received by anyone, anywhere, at any time throughout the world and
+without the need for a financial intermediary like a bank or a government. Bitcoin since
+September has been legal tender in El Salvador, so it is a fiat currency in that country now.
+The disadvantages of Bitcoin as money have been explained by Melissa L. Pattinson
+in her book, “Buying into Bitcoin, An Austrian Analysis of the Virtual Currency’s Sustainability”. She explains as Bitcoin fails Ludwig von Mises’s Regression Theorem, according
+to the Austrian economic perspective, Bitcoin cannot function as money (Pattison 2011).
+In 1912, Ludwig von Mises in his book “The Theory of Money and Credit, the Regression Theorem” first proposed that the value of money can be traced back (“regressed”)
+to the goods and services it obtains. According to this theorem, a good with objective
+exchange value i.e., the capacity of the good in specific conditions to procure a particular
+quantity of other goods is derived not from nature but by the human process of valuing
+individual goods, essentially an emotion can become money afterwards according to the
+Mises Institute (2019).
+According to Pattinson, Bitcoin fails the Theorem due to two main reasons:
+1.
+2.
+
+Cryptocurrency has no commodity value;
+And since it did not have value before being used as money, it does not have exchange value.
+
+The main counterargument to this is that the whole economic system at present uses
+fiat money. All fiat currencies are legal tenders because they are sanctioned by respective
+governments and are based on faith in the economy and credit (against debt) in the economy.
+Earlier they were tied up with the value of gold, but since 1971, as the USA removed its
+dollar peg to gold, they have been without any underlying commodity (physical) value.
+Pattinson concludes that since Bitcoin has no foundation in any of the correct economic
+theory it is not sustainable in today’s economy.
+3.2. Bitcoin as a Currency—Deflation Threat
+Another issue with Bitcoins as money comes from its main USP, limited supply,
+deflation. If Bitcoin is used widely, as its monetary base is limited and cannot be expanded,
+the economy may create a deflationary scenario which worst case in Keynesian economics,
+disincentivising individuals to spend, and businesses to invest rather than save, destroying
+job creation in the process Bouri et al. (2017).
+
+Risks 2021, 9, 207
+
+6 of 15
+
+A counter-argument to this goes like this: since deflation happens across the chain
+from raw materials to producers to sellers, it does not change profit ratios for investors or
+entrepreneurs. Yermack (2015) shows that the net effect is they are unlikely to change their
+investment decisions that are important for job creation. Put differently, in deflation price
+of goods and services decreases, but the cost of production of these goods and services
+also decreases thus maintaining the profitability. Savings increase for consumers that
+decrease the cost of capital incentivizing entrepreneurs to invest. Having said that, this
+cycle is not smooth and there are big time differences in those stages creating a recession,
+history suggests.
+3.3. Bitcoin Volatility Far Exceeds Even That of Most Volatile Currencies
+Bitcoin volatility far outstrips that of many emerging market currencies. For example,
+Bitcoin is more volatile than currencies with strict capital controls, which are typically
+found in EM countries with high inflation. As a result, the claim that cryptocurrency could
+replace some volatile emerging market currencies is based on shaky ground when it comes
+to Bitcoin liquidity, there have been some positive developments. For example, the notional
+dollar value of Bitcoin trading volume has risen to more than 5–10x that of gold in the
+last two years, despite being primarily driven by price appreciation (Coindesk 2021). As a
+result, large transactions are becoming more common in the crypto space.
+3.4. Bitcoin as ‘Digital Gold’
+Recently one can see there is a shift in retail market participants’ instinct to HODL
+(hold on for dear life) about Bitcoin which indicates a change in perception. Even though
+its usage as currency in payments is increasing, there is a digital scarcity of Bitcoin for retail
+people that has made it a unique asset owing to its limited supply just like gold, hence the
+term ‘digital gold’. Even though the supply of both is seen as limited, we know the exact
+supply of Bitcoin whereas the amount of gold that has not been mined is unknown. Just
+like gold is divided into kilograms and ounces Bitcoin can be divided into Satoshi units
+equating to 100 millionths of one Bitcoin.
+This analogy is opposed by many sightings while gold is a tangible asset, it has
+intrinsic value whereas Bitcoin is an intangible digital asset hence has no intrinsic value
+(Baur et al. 2018b). It has value because people believe it has value and for some reason,
+that perception goes away then Bitcoin would be worthless. Others focus on the network
+and services that have been built around Bitcoin, new business models being designed
+around it and new technology created as well as the brand, Bitcoin has become, invalidates
+this intrinsic value argument. Albeit slowly, as institutional participation in Bitcoin is
+increasing, it will give increasing legitimacy to the cryptos and the ecosystem surrounding
+it. A previous study by Maiti et al. (2020) review the five cryptocurrencies daily mean
+return time series linearity
+3.5. Bitcoin Return Distribution
+Figure 1 shows the Bitcoin monthly return volatility from 15 September 2014 to
+15 September 2021. It demonstrates a big fluctuation between 2017 and 2018. In Figure 2,
+we provide a simple histogram of the monthly returns of Bitcoin from September 2014 to
+September 2021. The x-axis shows the monthly returns. The y-axis, the number of monthly
+observations. It has a mean of 1.9%—that is the average weekly return through time, and
+is positive, an obvious point, given Bitcoin’s overall performance since birth. The standard
+deviation of the distribution gives us an idea of the average deviation that the returns
+exhibit around the mean and it is 10.63%, quite large. The distribution is slightly positively
+skewed, indicating a tendency for the tail of the distribution to stretch more to the right
+indicated by the length of the right tail, which is longer. Finally, a positive kurtosis value
+indicates an (albeit small) tendency for more of the observations to reside in the tails than
+at the centre, and hence the characteristic leptokurtic shape of the distribution (thin centre,
+fatter tails). The grey curve depicts a ‘normal distribution’ as a comparison.
+
+indicated by the length of the right tail, which is longer. Finally, a positive kurtosis value
+indicates an (albeit small) tendency for more of the observations to reside in the tails than
+at the centre, and hence the characteristic leptokurtic shape of the distribution (thin centre,
+fatter tails). The grey curve depicts a ‘normal distribution’ as a comparison.
+Currently, Bitcoin exhibits returns that can therefore be characterised as slightly7 of
+pos15
+itive on average every week; a significant variation on the actual weekly returns; a significant number of large (positive or negative) returns; skewed slightly to the positive side.
+
+Risks 2021, 9, 207
+
+Return
+0.5
+0.4
+0.3
+0.2
+0.1
+2021/3/15
+
+2020/12/15
+
+2020/9/15
+
+2020/6/15
+
+2020/3/15
+
+2019/12/15
+
+2019/9/15
+
+2019/6/15
+
+2019/3/15
+
+2018/12/15
+
+2018/9/15
+
+2018/6/15
+
+2018/3/15
+
+2017/12/15
+
+2017/9/15
+
+2017/6/15
+
+2017/3/15
+
+2016/12/15
+
+2016/9/15
+
+2016/6/15
+
+2016/3/15
+
+2015/12/15
+
+2015/9/15
+
+2015/6/15
+
+2015/3/15
+
+2014/12/15
+
+-0.2
+
+2014/9/15
+
+0
+-0.1
+-0.3
+-0.4
+Risks 2021, 9, x FOR PEER REVIEW
+
+8 of 15
+
+Figure1.1.Bitcoin
+Bitcoin monthly
+monthlyreturn
+returnvolatility
+volatilityfrom
+fromaaperiod
+periodof
+ofsix
+sixyears
+yearsbetween
+between15
+15September
+September2014
+2014to
+Figure
+to
+15
+September
+2021.
+15 September 2021.
+
+Generally, that is a good set to have exposure to as an investor. Positive on average
+with the chance of some very large returns, and with a higher frequency of them occurring
+on the positive side.
+When considering an asset’s inclusion into a portfolio, three key criteria need to be
+considered from a top-down risk perspective: namely the asset’s independent volatility,
+its correlation to other assets in the portfolio (which ultimately lead to diversification benefits), and its weight. The first two are exogenous, whereas the third you can control directly yourself. Fidelity InvestmentsError! Reference source not found. survey in 2020 on Bitcoin identified that the biggest obstacles cited by firms still hesitant to invest in crypto were price
+volatility and concerns about market manipulation. Figure 2 shows a simple histogram of
+the monthly return’s normal distribution of Bitcoin between 15 September 2014 to 15 September 2021. The blue line which is overlaid indicates a normal distribution with mean
+and standard deviation taken from the empirical Bitcoin/London exchange rates.
+Figure2.2.Monthly
+Monthlyreturn
+returndistribution
+distributionbetween
+between15
+15September
+September 2014
+2021.
+Figure
+2014toto1515September
+September
+2021.
+
+Currently,
+Bitcoin
+3.6. Volatility
+in the
+Price exhibits
+of Bitcoinreturns that can therefore be characterised as slightly positive on average every week; a significant variation on the actual weekly returns; a significant
+Volatility is a measure of price dispersion. Here’s what Bitcoin’s volatility looks like
+number of large (positive or negative) returns; skewed slightly to the positive side.
+since 2019. More recent studies by Izadi et al. (2021) indicates how the magnitude of the
+Generally, that is a good set to have exposure to as an investor. Positive on average
+COVID-19 outbreak can impact the stock price movements on the UK market. Note the
+with the chance of some very large returns, and with a higher frequency of them occurring
+recent spike accounted for by the price fall in March 2020 related to the COVID market
+on the positive side.
+events. Currently, Bitcoin volatility is at ~60% (which it turns out is about the 20th percenWhen considering an asset’s inclusion into a portfolio, three key criteria need to be
+tile—so
+in Bitcoin’s
+current
+volatility levels
+are in
+the
+lowest
+20%. In Figure
+3, we
+considered
+from a history,
+top-down
+risk perspective:
+namely
+the
+asset’s
+independent
+volatility,
+show
+the
+60-day
+volatility
+of
+Bitcoin
+with
+that
+of
+S&P
+500,
+gold,
+and
+Treasury
+Bonds.
+We
+its correlation to other assets in the portfolio (which ultimately lead to diversification
+used
+the
+last
+60
+days
+of
+returns
+as
+the
+input
+for
+our
+volatility
+calculation.
+As
+a
+comparison,
+benefits), and its weight. The first two are exogenous, whereas the third you can control
+below is the volatility of Bitcoin versus1 S&P 500, gold, and Treasury Bonds, since 2019.
+directly yourself. Fidelity Investments survey in 2020 on Bitcoin identified that the biggest
+obstacles cited by firms still hesitant to invest in crypto were price volatility and concerns
+about market manipulation. Figure 2 shows a simple histogram of the monthly return’s
+normal distribution of Bitcoin between 15 September 2014 to 15 September 2021. The blue
+line which is overlaid indicates a normal distribution with mean and standard deviation
+taken from the empirical Bitcoin/London exchange rates.
+
+2021/1/1
+2020/10/1
+2020/7/1
+2020/4/1
+2020/1/1
+
+3.6. Volatility in the Price of Bitcoin
+
+2019/10/1
+
+Volatility is a measure of price dispersion. Here’s what Bitcoin’s volatility looks
+like since 2019. More recent studies by Izadi et al. (2021) indicates how the magnitude
+of the COVID-19 outbreak can impact the stock price movements on the UK market.
+Note the recent spike accounted for by the price fall in March 2020 related to the COVID
+
+2019/7/1
+2019/4/1
+2019/1/1
+-
+
+10,000
+
+20,000
+
+30,000
+BTC
+
+S&P 500
+
+40,000
+Gold
+
+50,000
+
+60,000
+
+70,000
+
+TLT
+
+Figure 3. Volatility observations between monthly price changes of four financial investments between 2019 before the
+COVID outbreak to 2021.
+
+Figure 2. Monthly return distribution between 15 September 2014 to 15 September 2021.
+
+3.6. Volatility in the Price of Bitcoin
+Risks 2021, 9, 207
+
+of 15
+Volatility is a measure of price dispersion. Here’s what Bitcoin’s 8volatility
+look
+since 2019. More recent studies by Izadi et al. (2021) indicates how the magnitude
+COVID-19 outbreak can impact the stock price movements on the UK market. No
+recent spike accounted for by the price fall in March 2020 related to the COVID m
+market events. Currently, Bitcoin volatility is at ~60% (which it turns out is about the
+events. Currently, Bitcoin volatility is at ~60% (which it turns out is about the 20th pe
+20th percentile—so in Bitcoin’s history, current volatility levels are in the lowest 20%. In
+tile—so
+Bitcoin’s
+history,
+currentwith
+volatility
+the lowest
+20%. In Figure
+Figure 3, we show
+the in
+60-day
+volatility
+of Bitcoin
+that oflevels
+S&P are
+500,ingold,
+and Treasury
+show
+the
+60-day
+volatility
+of
+Bitcoin
+with
+that
+of
+S&P
+500,
+gold,
+and
+Treasury
+Bond
+Bonds. We used the last 60 days of returns as the input for our volatility calculation. As a
+used
+the
+last
+60
+days
+of
+returns
+as
+the
+input
+for
+our
+volatility
+calculation.
+As
+a
+compa
+comparison, below is the volatility of Bitcoin versus S&P 500, gold, and Treasury Bonds,
+since 2019. below is the volatility of Bitcoin versus S&P 500, gold, and Treasury Bonds, since 20
+
+2021/1/1
+2020/10/1
+2020/7/1
+2020/4/1
+2020/1/1
+2019/10/1
+2019/7/1
+2019/4/1
+2019/1/1
+-
+
+10,000
+
+20,000
+
+30,000
+BTC
+
+S&P 500
+
+40,000
+Gold
+
+50,000
+
+60,000
+
+70,000
+
+TLT
+
+Figure 3.
+Volatility observations
+between
+changes
+of four
+financialbetween
+investments
+Figure 3. Volatility
+observations
+between monthly
+pricemonthly
+changesprice
+of four
+financial
+investments
+2019 before th
+COVID outbreak
+to
+2021.
+between 2019 before the COVID outbreak to 2021.
+
+3.7. Major Price3.7.
+Crashes
+Bitcoin
+MajorofPrice
+Crashes of Bitcoin
+
+Even though Bitcoin
+came into
+existence
+in 2009,
+it wasin
+a relatively
+unknown
+entity
+Even though
+Bitcoin
+came into
+existence
+2009, it was
+a relatively
+unknown
+and not widely
+traded
+or
+held
+until
+2017.
+Its
+price
+skyrocketed
+in
+2017
+virtually
+taking
+it
+and not widely traded or held until 2017. Its price skyrocketed in 2017 virtually
+tak
+into bubble territory.
+A
+big
+crash
+soon
+ensued
+in
+which
+price
+came
+down
+by
+approximately
+into bubble territory. A big crash soon ensued in which price came down by app
+90% in the next
+year. Here
+is the
+a listnext
+of large
+short
+history
+of 12
+years
+of history
+mately
+90% in
+year.price
+Herecrashes
+is a list in
+of the
+large
+price
+crashes
+in the
+short
+Bitcoin and theyears
+circumstances
+surrounding
+them.
+of Bitcoin and the circumstances surrounding them.
+Mt. Gox, a leading
+cryptocurrency
+exchange experienced
+highest volumes
+of volum
+Mt. Gox,
+a leading cryptocurrency
+exchange the
+experienced
+the highest
+trading of all time. Hence the servers slowed and had to be shut down for 8 h creating
+trading of all time. Hence the servers slowed and had to be shut down for 8 h crea
+a panic on top of the preceding price rally in Bitcoin led to a crash as people suspected
+panic on top of the preceding price rally in Bitcoin led to a crash as people suspected
+their money may go to some unknown location and cannot be retrieved. They simply
+money may go to some unknown location and cannot be retrieved. They simply du
+dumped Bitcoin and the price fell 80%. After the unprecedented rally in 2017, governments
+Bitcoin and the price fell 80%. After the unprecedented rally in 2017, governments s
+started voicing concerns about Bitcoin. The trigger was commented on by the government
+of South Korea and the Bitcoin price bubble popped. Over the next year, the price crashed
+from approximately 20,000 USD to 2000 USD, a 90% crash.
+Implications of historical price crash What those price crashes show is the market is
+quite fragile, and there is a huge trust deficit as there is no central authority that guarantees
+the settlement of trades there are no underlying business and cash flows to value it, etc.
+The proponents say those crashes are part of the pains that come along with the new
+growing concept. There has been less research undertaken in the area of cryptocurrency
+volatility, and the current study focuses precisely on the need to address this gap. Given the
+previous literature review and descriptive information we wish to investigate the following
+hypotheses:
+Hypothesis 1 (H1). The volatility of Bitcoin as a cryptocurrency is higher than that of other
+financial assets.
+Hypothesis 2 (H2). The mean absolute percentage error for the volatility of Bitcoin before the
+COVID-19 outbreak is more than during the COVID-19 outbreak comparing it with other financial assets.
+Hypothesis 3 (H3). There is a positive correlation between Bitcoin, S&P 500, gold and TLT.
+
+Risks 2021, 9, 207
+
+9 of 15
+
+4. Data Analysis and Interpretation
+In this study, we use secondary data, i.e., the price history of Bitcoin over the last
+7 years, is captured from trading exchanges. This information is available at websites
+coindesk.com (accessed on 22 April 2021), yahoofinance.com (accessed on 22 April 2021),
+tradingview.com (accessed on 25 April 2021).
+We estimate monthly returns of Bitcoin with that of S&P 500, gold, and TLT ETF
+(Treasury Bond, Exchange Traded Funds). Statistical tools such as correlation analysis and
+descriptive analysis are used. We follow the study by Komaroff (2020) and test the Pearson’s
+correlation, which evaluates the dependent and independent variable relationship. We did
+not see any correlation between Bitcoin with other financial assets.
+We present the summary statistics of the returns in Table 1. Panel A demonstrates
+the period the starting point of the COVID-19 pandemic outbreak in the UK. We notice
+that, except for Bitcoin, S&P 500, Gold and TLT, gold and all other assets experienced an
+increase in their average returns accompanied by high volatility. However, Bitcoin exhibits
+the highest return and highest risk during both sub-periods.
+Table 1. Descriptive statistics.
+Panel A: Before the COVID-19 Pandemic
+Variable
+
+BTC
+
+S&P 500
+
+Gold
+
+TLT
+
+Mean
+Std. Dev.
+25th Percentiles
+Median
+75th Percentiles
+Skewness
+Kurtosis
+Unit root test
+statistics
+ADF test
+Sig.
+
+42,674.059
+63.368
+41,913.000
+42,675.000
+43,435.000
+−0.001
+−1.201
+
+2937.585
+503.477
+217.464
+745.691
+14,156.400
+1.308
+0.789
+
+2323.152
+41.692
+1920.030
+2198.810
+2913.980
+0.485
+−1.166
+
+1232.761
+9.945
+1060.300
+1240.700
+1349.000
+−0.486
+−0.560
+
+−6.155
+0.036
+
+−7.028
+0.000
+
+−5.895
+0.000
+
+−6.374
+0.000
+
+Panel B: During the COVID-19 Pandemic
+Mean
+Std. Dev.
+25th Percentiles
+Median
+75th Percentiles
+Skewness
+Kurtosis
+Unit root test
+statistics
+ADF test
+Sig.
+
+43,861.148
+46.559
+43,466.000
+43,862.000
+44,256.000
+0.002
+−1.204
+
+13,820.409
+2508.143
+3457.793
+9350.529
+58,918.832
+2.394
+5.588
+
+3161.380
+70.137
+2584.590
+3044.310
+3972.890
+0.701
+−0.302
+
+1616.059
+42.979
+1282.800
+1582.900
+1967.600
+0.032
+−1.277
+
+−3.518
+0.051
+
+−5.017
+0.012
+
+−3.385
+0.008
+
+−4.390
+0.009
+
+Note: This table reports the summary statistics of daily returns for different assets. The sample contains all
+monthly prices of Bitcoin (BTC), Gold, Standard & Poor’s 500 Index (S&P 500 Index), Treasury Bond (TLT)
+1 October 2014 to 1 March 2021 collected from www.coinmetrics.io and www.yahoofinance.com (accessed on
+12 April 2021).
+
+As indicated by Baur et al. (2018a), this spectacular growth is explained by strong
+demand from institutional investors. For instance, Tesla announced on 8 February 2021 that
+it had bought $1.5 billion worth of Bitcoin, and it started accepting Bitcoin as a payment
+method for its products.
+In this study, we use the Dickey-Fuller test to test the null hypothesis that a unit root
+is present in an autoregressive time series model.
+The augmented Dickey-Fuller (ADF) test is a popular approach used for testing the
+unit root null hypothesis. The tests were performed on raw price indices and logarithmtransformed data in both levels and first differences.
+
+Risks 2021, 9, 207
+
+10 of 15
+
+In this study, we predict the month-ahead close price of four financial assets. We
+consider four numbers of historical samples to input the trained model and the close price
+of the next month is output. Then we run a recursive strategy to achieve the processing of
+training and test (Liu and Long 2020). Several previous studies (e.g., Ćalasan et al. 2020;
+Schroders 2017) employed four factors of statistical evaluation indicators to utilize and
+compare the performance of related models. These factors include the mean absolute error
+(MAE), the mean absolute percentage error (MAPE), the root mean square error (RMSE)
+and the standard deviation of the error (SDE). In the current study we follow the previous
+research and use the models as follows:
+!
+N
+
+MAE =
+
+∑ X (t) − X̂ (t)
+
+/N
+
+(2)
+
+t =1
+N
+
+MAPE =
+
+∑ X (t) − X̂ (t) /X (t)
+
+
+!
+/N
+
+(3)
+
+t =1
+
+v
+u
+u
+RMSE = t
+
+N
+
+∑ [X (t) − X̂ (t)]
+
+2
+
+!
+/n
+
+(4)
+
+t =1
+
+v
+
+u
+2
+u N
+N
+
+u
+SDE t ∑ [ X (t) − X̂ (t) − ∑ X (t) − X̂ (t) /n] /n
+t =1
+
+(5)
+
+1
+
+In the above models, N is the number of samples, x(t) is the actual monthly close price,
+X̂ (t) is the predicted monthly close price. The sample units as the main factor are impacted
+on the values at the above statistical indicators. Figure 4 demonstrates the results of the
+actual price and predicted price (by the proposed model) of four financial assets. We can
+see in Figure 4 that the predicted price has a curve going up in Bitcoin as compared to the
+other three financial assets. Moreover, according to Figure 4, Bitcoin compared to the other
+Risks 2021, 9, x FOR PEER REVIEW
+11 of 15
+three financial assets increased dramatically at the end after September 2021 during the
+COVID-19 pandemic.
+BTC
+
+70,000
+
+S&P 500
+
+4,500
+4,000
+
+60,000
+
+3,500
+
+50,000
+
+3,000
+
+40,000
+
+2,500
+2,000
+
+30,000
+20,000
+
+BTC
+
+1,500
+
+Expon. ( BTC )
+
+1,000
+
+10,000
+
+S&P 500
+Expon. ( S&P 500 )
+
+500
+
+-
+
+-
+
+2,500
+180
+
+Gold
+
+160
+
+2,000
+
+TLT
+
+140
+120
+
+1,500
+
+100
+80
+
+1,000
+Gold
+500
+-
+
+Expon. ( Gold )
+
+60
+40
+
+TLT
+
+20
+
+Expon. ( TLT )
+
+-
+
+Figure 4. The results
+of 4.
+actual
+and predicted
+prices
+for four
+financial
+assets.
+Figure
+The results
+of actual and
+predicted
+prices
+for four
+financial assets.
+Institutional demand has become more active in the past year. While there is no single way to split Bitcoin demand. Table 2 demonstrates recent Institutional announcements
+of Bitcoin adoption.
+Table 2. Notable recent Institutional announcements of Bitcoin adoption.
+
+Risks 2021, 9, 207
+
+11 of 15
+
+Institutional demand has become more active in the past year. While there is no single
+way to split Bitcoin demand. Table 2 demonstrates recent Institutional announcements of
+Bitcoin adoption.
+Table 2. Notable recent Institutional announcements of Bitcoin adoption.
+Date
+
+$mn
+
+Announcement
+
+11-08-2020
+
+250
+
+MicroStrategy buys $250 m Bitcoins (21,454 BTC)
+
+14-09-2020
+
+175
+
+MicroStrategy buys $175 m of Bitcoin (16,796 BTC) to lead to an
+aggregate of $425 m (38,250)
+
+08-10-2020
+
+50
+
+Square announces purchase of 4709 BTC for $50 m
+
+21-10-2020
+
+N/A
+
+Paypal announces service to buy/ hold, and sell crypto opening up
+for 346 m users and 26 m merchants worldwide
+
+04-12-2020
+
+50
+
+Microstrategy buys $50 m of Bitcoin (2574 BTC), 40,284 total
+
+10-12-2020
+
+100
+
+Mass Mutual announces $100 m BTC purchase and $5m equity
+investment in NYDIG
+
+21-12-2020
+
+650
+
+MicroStrategy purchases $650 m Bitcoin (29,646) for an aggregate of
+70,470 for a purchase price of $1.125 bn
+
+22-01-2021
+
+10
+
+Microstrategy purchases 314 BTC for ($10 m)
+
+08-02-2021
+
+1500
+
+Tesla announces in SEC filing that it holds $1.5 bn BTC
+
+10-02-2021
+
+N/A
+
+Mastercard announces support for cryptocurrency in 2021
+
+16-02-2021
+
+N/A
+
+Microstrategy to issue $600 m in convertible senior notes to
+buy BTC
+
+Source: Bloomberg.
+
+As explained in Figure 4, we show the results of the actual price and predicted price
+(by the proposed model) of four financial assets. In Table 3, we show the actual and
+forecasted prices for all four financial assets. The results indicate that the proposed model
+has the best forecasting accuracy. Moreover, we show the evaluation indicators before and
+during the COVID-19 outbreak in Table 4. The MAPE by 433.22% before COVID-19 is
+much higher than during COVID-19 (about 78.39%). The result shows that the smaller the
+MAPE, the better the forecast.
+Also, we carry out various interpretations and properties of this data for analysis
+purposes. Some are custom-made and some tools are inbuilt: 60-day rolling volatility at
+various points of time, correlation in price movement of various assets were used from
+them in chart format.
+The nature of data, whether they are time-series or cross-sectional or both, is discrete,
+continuous or categorical decides which techniques may be used for the analysis. In this
+case, the data are continuous time-series data, hence the following methods have been
+used for investigation and forming conclusions.
+Table 3. Evaluation indicators for financial assets.
+
+BTC
+S&P100
+Gold
+TLT
+
+Closing
+
+Forecast
+
+MAD
+
+MSE
+
+MAPE
+
+6704.72
+2613.31
+1365.44
+123.50
+
+7154.36
+2571.77
+1367.13
+124.56
+
+4550.82
+134.13
+107.02
+9.43
+
+49,851,220.05
+36,792.01
+17,702.84
+126.35
+
+310.39%
+4.93%
+7.76%
+7.55%
+
+Risks 2021, 9, 207
+
+12 of 15
+
+Table 4. Evaluation indicators of all financial assets before and during COVID-19.
+(A) Before COVID-19 Outbreak
+
+BTC
+S&P100
+Gold
+TLT
+
+Actual
+closing
+
+Forecast
+
+MAD
+
+MSE
+
+MAPE
+
+2937.585
+2323.152
+1232.761
+112.811
+
+2785.919
+2328.182
+1254.297
+116.096
+
+2554.510
+97.925
+92.150
+8.356
+
+9,504,056.368
+14,072.753
+12,416.818
+100.257
+
+433.22%
+4.35%
+7.49%
+7.35%
+
+126,062,529.223
+79,706.157
+27,687.546
+175.650
+
+78.39%
+6.02%
+8.26%
+7.92%
+
+(B) During COVID-19 Time
+BTC
+S&P100
+Gold
+TLT
+
+13,820.409
+3161.380
+1616.059
+143.681
+
+15,405.866
+3031.889
+1580.271
+140.550
+
+8321.623
+202.511
+135.101
+11.460
+
+Pearson’s correlation is an empirical technique, to understand the interrelation between two variables, and is a time-tested one. It helps to explain not only the direction
+of correlation but also the strength of correlation, subsequently used. In this case, while
+evaluating cryptocurrencies as an asset class helps compare Bitcoin with other major asset
+classes like gold, equity (S&P 500 index), debt, etc., its price movements and correlation
+with that of those other assets indicate its utility as a hedge in an investment portfolio or as
+a diversifier. Table 5, shows the Pearson correlation between Bitcoin and the other three
+financial assets.
+Table 5. Pearson correlation coefficient between Bitcoin, S&P 500, Gold and TLT.
+BTC
+BTC
+
+1
+
+S&P 500
+
+0.818
+0.000
+0.297
+0.008
+0.507
+0.000
+
+Gold
+TLT
+
+S&P 500
+
+Gold
+
+TLT
+
+1
+0.324
+0.004
+0.725
+0.000
+
+1
+0.314
+0.005
+
+1
+
+Note: Pearson correlation coefficients with significances degree are provided above and below diagonal respectively. The sample consists of 78 monthly price observations from 1 October 2014 to 1 March 2021.
+
+According to the result in Table 5, there is a positive correlation between Bitcoin, and
+S&P 500 (0.818, p-value < 0.001). Also, the correlation between Bitcoin and Gold is positive
+and significant (0.297, p-value < 0.001). Similarly, the correlation between Bitcoin and TLT
+is positive and significant (0.507, p-value < 0.001). Correspondingly, Gold and S&P 500
+has a positive correlation (0.324, p-value < 0.001). The result of Table 5, strongly supports
+hypothesis three which indicates that a positive correlation between Bitcoin, S&P 500, Gold
+and TLT exists.
+4.1. Reyscale Bitcoin Trust—The Largest Known Investor
+Bitcoin’s market capitalisation remains small in comparison to gold and the Fed’s
+balance sheet. According to Table 6, the market capitalisation of Bitcoin is approximately
+less than 10% that of gold and the Fed’s balance sheet, and much less than the value of the
+US equity market (Market Cap 2021).
+
+Risks 2021, 9, 207
+
+13 of 15
+
+Table 6. The Market capitalization of Bitcoins, S&P 500, gold, and Treasury Bond.
+Investment
+
+Tn USD
+
+Bitcoin
+Gold
+Fed Balance sheet
+US equity market cap
+
+1.08
+11.68
+7.81
+49.11
+
+4.2. Response of Financial Institutions
+Banks have been observing the development of cryptocurrencies as in essence cryptocurrencies challenge banks’ existence as financial intermediaries. Hence, they are more
+interested to look through ways to coexist with it if cryptocurrency adoption increases.
+Jamie Dimon CEO of JP Morgan famously said cryptocurrency is a fraud; that caused a
+10% drop in Bitcoin price and he threatened to sack any employee trading into it (Waters
+2017). Miles Johnson, in a Financial Times article titled “Wall Street finds it harder to dismiss
+Bitcoin”, explains the phenomenon known as “FOMO”, or fear of missing out, in which
+people take unnecessary risks to avoid being left behind. “Bitcoin appears to have graduated to even being discussed as a fully-fledged asset in some of the more rarefied offices of
+Wall Street and the City of London” (Johnson 2017). Once again, this investment is viewed
+as an asset in this context and is thus added to their portfolio in the same way that stocks
+and other money market instruments are.
+The three most important questions for banks, according to Huw van Steenis, global
+head of strategy at Schroders and a member of the World Economic Forum’s fintech
+group are: Will new entrants weaken the banks? Will banks become less important
+as lending evolves? Could banks lose control of payments if private digital currencies
+gain traction? (Schroders 2017). Big banks overall, so far, just like JP Morgan have not
+viewed cryptocurrencies favourably. They have actively not promoted it to their investors
+or employees as it is clear that cryptocurrencies challenge most of their roles as financial
+intermediaries in the current economic setup. However, investors willing to take a risk have
+gone ahead with their investments in it has compelled banks to look at cryptocurrencies so
+as not to lose business and see if there are ways for both to coexist.
+4.3. Central Bank Digital Currencies (CBDC)
+According to the ECB’s “The Digital Euro” think piece, a CBDC is “not a crypto-asset”.
+It claims that the digital euro would be a risk-free form of central bank money (i.e., a digital
+representation of cash), which means that it would be issued by the central bank and would
+always be its liability. By contrast, commercial bank money and electronic money are
+liabilities of supervised private entities. Private money issuance must adhere to regulations,
+and the issuing private institution is subject to public authorities’ supervision or oversight.
+While such entities could theoretically default and become unable to satisfy their customers’
+claims to, say, convert their holdings into central bank money. Their customers are protected
+by a legally binding regulatory framework that requires the supervised private issuer to
+take measures to protect the value of their liabilities. Aside from its supervisory role, the
+central bank acts as a lender of last resort to prevent commercial banks from defaulting in
+exceptional circumstances (European Central Bank 2021).
+5. Conclusions
+Bitcoin is often identified as new gold and it is visualised similar to golden capital
+“B” as digital (Shiller 2020). It is often called a new digital gold due to its similarity with
+gold (Baur et al. 2018a, 2018b; Gkillas and Longin 2019). However, as seen from the
+observations from subjective as well as objective data analysis, cryptocurrencies (Bitcoin)
+do not appear to perform their function as currency, as a medium of exchange or store of
+value. They have been too volatile that may lead to deflation in the economy. Also, under
+the ESG framework, it is quite costly due to high power consumption, being too technologyintensive for masses to adopt, and non-transparency in the exchange mechanism with no
+
+Risks 2021, 9, 207
+
+14 of 15
+
+redress system. Bitcoin’s price movement compared with that of gold which has acted as a
+hedge over centuries shows no relationship. Nevertheless, our result indicates that Bitcoin
+has very high volatility as compared to S&P 500, gold and TLT. Bitcoin’s price volatility
+even though has decreased over the years, hence Bitcoin is acting more as a speculative
+asset rather than a steady store of value. This can be drawn from the comparison with the
+debt market i.e., TLT ETF that invests in long-dated (30 years) US Treasury bonds with
+which Bitcoin shows no relationship.
+Obviously, between Bitcoin, S&P 500, gold and TLT, there are some similarities such
+as distribution mining and ownership. However, there also exist some differences between
+Bitcoin and other financial assets. For example, there are some differences regarding the
+age and maturity of Bitcoin versus gold. In reality, gold is a physical asset and Bitcoin is a
+digital asset. Despite similarities between Bitcoin and other finical assets, previous studies
+show that there is no correlation between Bitcoin and other financial assets such as gold.
+The recent study by Baur and Hoang (2021) estimates the correlation of Bitcoin and gold as
+financial assets across different return frequencies, quantiles and across time. They found
+that there is a near-zero correlation, inconsistent with the claimed similarity. Following
+the above study, we tested the correlation between Bitcoin and S&P 500, gold and TLT
+and found a similar result in line with previous studies. Our findings indicate that Bitcoin
+pricing is dynamic and it has not has seen a shift in correlations to financial assets.
+Also, in this study, we considered the Dickey-Fuller test to test the null hypothesis
+that a unit root is present in an autoregressive time series model. According to this model,
+four statistical evaluation indicators MAE, MAPE, RMSE and SDE are utilised to compare
+the performance of related models (Liu and Long 2020).
+Our findings show Bitcoin in comparison with S&P 500, gold and TLT, gold experienced an increase in average returns accompanied by high volatility. This finding is in line
+with the first hypothesis and confirms that the volatility of Bitcoin is higher than that of
+other financial assets. Also, the result of the Dickey-Fuller test supports the second hypothesis of this study. More important is our correlation test, and unlike the previous study, our
+result indicates of existing correlation between Bitcoin and the other three financial assets.
+This finding strongly supports the third hypothesis of the current study.
+Author Contributions: Conceptualization, Y.D.; methodology and formal analysis, J.I.; original draft
+preparation, P.D.; writing—review with E.K. and editing with supervision, D.K. All authors have
+read and agreed to the published version of the manuscript.
+Funding: This research received has no external funding.
+Data Availability Statement: The data, i.e., the price history of Bitcoin over the last 7 years,
+is captured from trading exchanges. This information is available at websites coindesk.com,
+yahoofinance.com, tradingview.com.
+Conflicts of Interest: The authors declare no conflict of interest.
+
+Note
+1
+
+Fidelity Investments, is an American multinational financial services corporation which is based in Boston, MA, USA.
+
+References
+Baur, Dirk G., and Lai T. Hoang. 2021. The Bitcoin gold correlation puzzle. Journal of Behavioral and Experimental Finance 32: 100561.
+[CrossRef]
+Baur, Dirk G., Thomas Dimpfl, and Konstantin Kuck. 2018a. Bitcoin, gold and the US dollar—A replication and extension. Finance
+Research Letters 25: 103–10. [CrossRef]
+Baur, Dirk G., KiHoon Hong, and Adrian D. Lee. 2018b. Bitcoin: Medium of exchange or speculative assets? Journal of International
+Financial Markets, Institutions and Money 54: 177–89. [CrossRef]
+Bjerg, Ole. 2016. How is bitcoin money? Theory, Culture & Society 33: 53–72.
+Bouri, Elie, Peter Molnár, Georges Azzi, David Roubaud, and Lars Ivar Hagfors. 2017. On the hedge and safe haven properties of
+Bitcoin: Is it really more than a diversifier? Finance Research Letters 20: 192–98. [CrossRef]
+
+Risks 2021, 9, 207
+
+15 of 15
+
+Bridgewater. 2021. Our Thoughts on Bitcoin. Available online: https://www.bridgewater.com/_document/our-thoughts-on-Bitcoin?
+id=00000177-d687-d006-a577-fe87b13b0002 (accessed on 28 March 2021).
+Ćalasan, Martin, Shady H.E. Abdel Aleem, and Ahmed F. Zobaa. 2020. On the root mean square error (RMSE) calculation for parameter
+estimation of photovoltaic models: A novel exact analytical solution based on Lambert W function. Energy Conversion and
+Management 210: 112716. [CrossRef]
+Coindesk. 2021. Available online: https://www.coindesk.com/price/Bitcoin (accessed on 6 May 2021).
+Corbet, Shaen, Andrew Meegan, Charles Larkin, Brian Lucey, and Larisa Yarovaya. 2018. Exploring the dynamic relationships between
+cryptocurrencies and other financial assets. Economics Letters 165: 28–34. [CrossRef]
+European Central Bank. 2021. Available online: https://www.ecb.europa.eu/paym/digital_euro/html/index.en.html (accessed on 26
+April 2021).
+Giudici, Paolo, and Paolo Pagnottoni. 2020. Vector error correction models to measure connectedness of Bitcoin exchange markets.
+Applied Stochastic Models in Business and Industry 36: 95–109. [CrossRef]
+Gkillas, Konstantinos, and François Longin. 2019. Is Bitcoin the New Digital Gold? Evidence from Extreme Price Movements in
+Financial Markets. Available online: https://papers.ssrn.com/sol3/papers.cfm (accessed on 18 January 2019).
+Izadi, Javad, Pantea Foroudi, and Alireza Nazarian. 2021. Into the unknown: Impact of Coronavirus on UK hotel stock performance.
+European Journal of International Management.
+Johnson. 2017. Available online: https://www.ft.com/content/67dc75fc-b29e-11e7-a398-73d59db9e399 (accessed on 18 April 2021).
+Komaroff, Eugene. 2020. Relationships Between p-values and Pearson Correlation Coefficients, Type 1 Errors and Effect Size Errors,
+Under a True Null Hypothesis. Journal of Statistical Theory and Practice 14: 1–13. [CrossRef]
+Liu, Hui, and Zhihao Long. 2020. An improved deep learning model for predicting stock market price time series. Digital Signal
+Processing 102: 102741. [CrossRef]
+Lynn, Theo, John G. Mooney, Pierangelo Rosati, and Mark Cummins. 2019. Disrupting Finance: FinTech and Strategy in the 21st Century.
+Berlin: Springer.
+Maiti, Moinak, Zoran Grubisic, and Darko B. Vukovic. 2020. Dissecting Tether’s Nonlinear Dynamics during COVID-19. Journal of
+Open Innovation: Technology, Market, and Complexity 6: 161. [CrossRef]
+Market Cap. 2021. Available online: https://fred.stlouisfed.org/tags/series?t=market+cap/ (accessed on 3 April 2021).
+Mikhaylov, Alexey Yu. 2021. Development of Friedrich von Hayek’s theory of private money and economic implications for digital
+currencies. Terra Economicus 19: 53–62. [CrossRef]
+Mises Institute. 2019. Available online: https://mises.org/library/menger-mises-theory-origin-money-conjecture-or-economic-law
+(accessed on 28 March 2021).
+Nakamoto, Satoshi. 2008. Bitcoin: A Peer-to-Peer Electronic Cash System. Available online: https://Bitcoin.org/Bitcoin.pdf (accessed
+on 24 February 2021).
+Openlib. 2021. Principles of Economics. Available online: https://open.lib.umn.edu/principleseconomics/chapter/24-1-what-ismoney/ (accessed on 20 April 2021).
+Pattison, Melissa L. 2011. Buying into Bitcoin: An Austrian analysis of the virtual currency’s sustainability. Pobrane 9: 2017.
+Schroders. 2017. Available online: https://www.schroders.com/en/uk/private-investor/insights/markets/Bitcoins-bite-why-centralbanks-should-clamp-down-on-cryptocurrencies/ (accessed on 3 April 2021).
+Shiller, Robert J. 2020. Narrative Economics: How Stories Go Viral and Drive Major Economic Events. Princeton: Princeton University Press.
+Vieira, Pedro Jorge Melgo. 2017. Price Analysis of Bitcoin: Volatility, Key Drivers and Evolution. Porto: Universidade do Porto.
+Vukovic, Darko, Moinak Maiti, Zoran Grubisic, Elena M. Grigorieva, and Michael Frömmel. 2021. COVID-19 Pandemic: Is the Crypto
+Market a Safe Haven? The Impact of the First Wave. Sustainability 13: 8578. [CrossRef]
+Waters, Richard. 2017. To Coin a craze. Financial Times, September 14, p. 7.
+Yermack, David. 2015. Is Bitcoin a Real Currency? In The Handbook of Digital Currency: Bitcoin, Innovation, Financial Instruments, and Big
+Data. Amsterdam: Elsevier, pp. 31–44.
+
+
